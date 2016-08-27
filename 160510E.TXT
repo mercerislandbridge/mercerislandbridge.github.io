@@ -1,0 +1,505 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>May 10, 2016       |CLUB NO.>158048    | 05/17/2016 18:38
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jef/Kim         |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=9/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Christensen       Mike Ring                B   2/3   2/3    .    136.69  56.25  0.66(A) 
+
+ 2 Bryan Delfs            Jennifer Chalfan         B    1     1     .    140.06  57.64  1.10(A) 
+
+ 3 Mark McWiggins         B Drajpuch               C    4     4     1    132.19  54.40  0.39(A) 
+
+ 4 Hugh Hendrickson       Peiyush Jain             B    .     .     .    126.00  51.85          
+
+ 5 David Roselle          Edward Horwitz           B    .     .     .     87.75  36.11          
+
+ 6 Kevin Cline            David Hankins            B   2/3   2/3    .    136.69  56.25  0.66(A) 
+
+ 7 Brad Rind              Terry Jacobson           C    .     .     .    126.00  51.85          
+
+ 8 Connie Heller          Dennis Heller            A    .     .     .     98.44  40.51          
+
+ 9 William Campbell       Nelson Davis             B    .     .     .    105.00  43.21          
+
+10 Ray Miller             Kim Eng                  A    .     .     .    124.00  51.03          
+
+11 Ann Romeo              Beau Hovda               C    .     .     .    125.44  51.62          
+
+
+                                          Totals                        1338.26       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>May 10, 2016       |CLUB NO.>158048    | 05/17/2016 18:38
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jef/Kim         |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=8/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B    .     .     .    110.00  45.27          
+
+ 2 Joel Fuhrman           David Walker             B    2     2     .    135.50  55.76  0.77(A) 
+
+ 3 Moises Saul            Irving Sonkin            C    .     .     .    106.50  43.83          
+
+ 4 Chris Pesce            Ken Christiansen         A    .     .     .    117.00  48.15          
+
+ 5 Brian Zaugg            Shawn Abernethy          B    1     1     .    143.00  58.85  1.10(A) 
+
+ 6 Christopher Jarvis     Valliappa Lakshmanan     B    3     3     .    129.50  53.29  0.55(A) 
+
+ 7 Corneliu Galer         Rose Bolson              A    .     .     .    105.00  43.21          
+
+ 8 Gary Haldane           Sharon Miller            B    .     .     .    125.00  51.44          
+
+ 9 Eric Sieg              Jeffrey Ford             B    4     .     .    125.50  51.65  0.39(A) 
+
+10 John Krah              Daniel Poore             C    .     .     1    118.00  48.56  0.16(C) 
+
+
+
+
+                                          Totals                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    5.50   3.50 1-Christensen-Ring vs 1-Tipton-Hesson
+         50    5.50   3.50 2-Delfs-Chalfan vs 5-Zaugg-Abernethy
+        100    2.00   7.00 3-McWiggins-Drajpuch vs 7-Galer-Bolson
+         50    5.50   3.50 4-Hendrickson-Jain vs 9-Sieg-Ford
+        100    2.00   7.00 6-Cline-Hankins vs 2-Fuhrman-Walker
+  300          8.00   1.00 7-Rind-Jacobson vs 4-Pesce-Christiansen
+        150    0.00   9.00 8-Heller-Heller vs 6-Jarvis-Lakshmanan
+         50    5.50   3.50 9-Campbell-Davis vs 8-Haldane-Miller
+  590          9.00   0.00 10-Miller-Eng vs 10-Krah-Poore
+        100    2.00   7.00 11-Romeo-Hovda vs 3-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    5.50   3.50 1-Christensen-Ring vs 1-Tipton-Hesson
+        480    5.50   3.50 2-Delfs-Chalfan vs 5-Zaugg-Abernethy
+        480    5.50   3.50 3-McWiggins-Drajpuch vs 7-Galer-Bolson
+        980    0.50   8.50 4-Hendrickson-Jain vs 9-Sieg-Ford
+        480    5.50   3.50 6-Cline-Hankins vs 2-Fuhrman-Walker
+        480    5.50   3.50 7-Rind-Jacobson vs 4-Pesce-Christiansen
+        980    0.50   8.50 8-Heller-Heller vs 6-Jarvis-Lakshmanan
+        480    5.50   3.50 9-Campbell-Davis vs 8-Haldane-Miller
+        480    5.50   3.50 10-Miller-Eng vs 10-Krah-Poore
+        480    5.50   3.50 11-Romeo-Hovda vs 3-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1400          9.00   0.00 1-Christensen-Ring vs 1-Tipton-Hesson
+  450          8.00   1.00 2-Delfs-Chalfan vs 5-Zaugg-Abernethy
+  420          4.50   4.50 3-McWiggins-Drajpuch vs 7-Galer-Bolson
+  420          4.50   4.50 4-Hendrickson-Jain vs 9-Sieg-Ford
+         50    0.00   9.00 6-Cline-Hankins vs 2-Fuhrman-Walker
+  420          4.50   4.50 7-Rind-Jacobson vs 4-Pesce-Christiansen
+  420          4.50   4.50 8-Heller-Heller vs 6-Jarvis-Lakshmanan
+  420          4.50   4.50 9-Campbell-Davis vs 8-Haldane-Miller
+  400          1.00   8.00 10-Miller-Eng vs 10-Krah-Poore
+  420          4.50   4.50 11-Romeo-Hovda vs 3-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          7.00   2.00 2-Delfs-Chalfan vs 2-Fuhrman-Walker
+  140          7.00   2.00 3-McWiggins-Drajpuch vs 6-Jarvis-Lakshmanan
+  110          3.50   5.50 4-Hendrickson-Jain vs 8-Haldane-Miller
+        140    1.00   8.00 5-Roselle-Horwitz vs 10-Krah-Poore
+  140          7.00   2.00 6-Cline-Hankins vs 1-Tipton-Hesson
+  140          7.00   2.00 7-Rind-Jacobson vs 3-Saul-Sonkin
+  100          2.00   7.00 8-Heller-Heller vs 5-Zaugg-Abernethy
+  140          7.00   2.00 9-Campbell-Davis vs 7-Galer-Bolson
+        200    0.00   9.00 10-Miller-Eng vs 9-Sieg-Ford
+  110          3.50   5.50 11-Romeo-Hovda vs 4-Pesce-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.50   3.50 2-Delfs-Chalfan vs 2-Fuhrman-Walker
+   50          7.50   1.50 3-McWiggins-Drajpuch vs 6-Jarvis-Lakshmanan
+  140          9.00   0.00 4-Hendrickson-Jain vs 8-Haldane-Miller
+        110    4.00   5.00 5-Roselle-Horwitz vs 10-Krah-Poore
+   50          7.50   1.50 6-Cline-Hankins vs 1-Tipton-Hesson
+        140    2.00   7.00 7-Rind-Jacobson vs 3-Saul-Sonkin
+        200    0.00   9.00 8-Heller-Heller vs 5-Zaugg-Abernethy
+        140    2.00   7.00 9-Campbell-Davis vs 7-Galer-Bolson
+        100    5.50   3.50 10-Miller-Eng vs 9-Sieg-Ford
+        140    2.00   7.00 11-Romeo-Hovda vs 4-Pesce-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       4.50   4.50 2-Delfs-Chalfan vs 2-Fuhrman-Walker
+        110    0.00   9.00 3-McWiggins-Drajpuch vs 6-Jarvis-Lakshmanan
+    PASS       4.50   4.50 4-Hendrickson-Jain vs 8-Haldane-Miller
+        100    1.50   7.50 5-Roselle-Horwitz vs 10-Krah-Poore
+  110          7.50   1.50 6-Cline-Hankins vs 1-Tipton-Hesson
+    PASS       4.50   4.50 7-Rind-Jacobson vs 3-Saul-Sonkin
+        100    1.50   7.50 8-Heller-Heller vs 5-Zaugg-Abernethy
+    PASS       4.50   4.50 9-Campbell-Davis vs 7-Galer-Bolson
+  200          9.00   0.00 10-Miller-Eng vs 9-Sieg-Ford
+  110          7.50   1.50 11-Romeo-Hovda vs 4-Pesce-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    8.00   1.00 1-Christensen-Ring vs 10-Krah-Poore
+        620    1.00   8.00 2-Delfs-Chalfan vs 1-Tipton-Hesson
+        140    7.00   2.00 3-McWiggins-Drajpuch vs 3-Saul-Sonkin
+  100          9.00   0.00 4-Hendrickson-Jain vs 7-Galer-Bolson
+        620    1.00   8.00 5-Roselle-Horwitz vs 9-Sieg-Ford
+        170    4.00   5.00 7-Rind-Jacobson vs 2-Fuhrman-Walker
+        170    4.00   5.00 8-Heller-Heller vs 4-Pesce-Christiansen
+        620    1.00   8.00 9-Campbell-Davis vs 6-Jarvis-Lakshmanan
+        170    4.00   5.00 10-Miller-Eng vs 8-Haldane-Miller
+        150    6.00   3.00 11-Romeo-Hovda vs 5-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    6.00   3.00 1-Christensen-Ring vs 10-Krah-Poore
+        170    6.00   3.00 2-Delfs-Chalfan vs 1-Tipton-Hesson
+   50          8.50   0.50 3-McWiggins-Drajpuch vs 3-Saul-Sonkin
+        420    2.00   7.00 4-Hendrickson-Jain vs 7-Galer-Bolson
+   50          8.50   0.50 5-Roselle-Horwitz vs 9-Sieg-Ford
+        170    6.00   3.00 7-Rind-Jacobson vs 2-Fuhrman-Walker
+        450    0.00   9.00 8-Heller-Heller vs 4-Pesce-Christiansen
+        420    2.00   7.00 9-Campbell-Davis vs 6-Jarvis-Lakshmanan
+        420    2.00   7.00 10-Miller-Eng vs 8-Haldane-Miller
+        200    4.00   5.00 11-Romeo-Hovda vs 5-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.50   6.50 1-Christensen-Ring vs 10-Krah-Poore
+        600    6.00   3.00 2-Delfs-Chalfan vs 1-Tipton-Hesson
+  100          8.00   1.00 3-McWiggins-Drajpuch vs 3-Saul-Sonkin
+        620    2.50   6.50 4-Hendrickson-Jain vs 7-Galer-Bolson
+        620    2.50   6.50 5-Roselle-Horwitz vs 9-Sieg-Ford
+  100          8.00   1.00 7-Rind-Jacobson vs 2-Fuhrman-Walker
+        620    2.50   6.50 8-Heller-Heller vs 4-Pesce-Christiansen
+  100          8.00   1.00 9-Campbell-Davis vs 6-Jarvis-Lakshmanan
+        620    2.50   6.50 10-Miller-Eng vs 8-Haldane-Miller
+        620    2.50   6.50 11-Romeo-Hovda vs 5-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          6.00   3.00 1-Christensen-Ring vs 9-Sieg-Ford
+  650          6.00   3.00 3-McWiggins-Drajpuch vs 2-Fuhrman-Walker
+  650          6.00   3.00 4-Hendrickson-Jain vs 4-Pesce-Christiansen
+        790    0.00   9.00 5-Roselle-Horwitz vs 8-Haldane-Miller
+  650          6.00   3.00 6-Cline-Hankins vs 10-Krah-Poore
+  200          1.00   8.00 7-Rind-Jacobson vs 1-Tipton-Hesson
+  650          6.00   3.00 8-Heller-Heller vs 3-Saul-Sonkin
+  650          6.00   3.00 9-Campbell-Davis vs 5-Zaugg-Abernethy
+  650          6.00   3.00 10-Miller-Eng vs 7-Galer-Bolson
+  620          2.00   7.00 11-Romeo-Hovda vs 6-Jarvis-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        990    4.00   5.00 1-Christensen-Ring vs 9-Sieg-Ford
+        990    4.00   5.00 3-McWiggins-Drajpuch vs 2-Fuhrman-Walker
+        990    4.00   5.00 4-Hendrickson-Jain vs 4-Pesce-Christiansen
+        990    4.00   5.00 5-Roselle-Horwitz vs 8-Haldane-Miller
+        990    4.00   5.00 6-Cline-Hankins vs 10-Krah-Poore
+        990    4.00   5.00 7-Rind-Jacobson vs 1-Tipton-Hesson
+        990    4.00   5.00 8-Heller-Heller vs 3-Saul-Sonkin
+        990    4.00   5.00 9-Campbell-Davis vs 5-Zaugg-Abernethy
+        990    4.00   5.00 10-Miller-Eng vs 7-Galer-Bolson
+        980    9.00   0.00 11-Romeo-Hovda vs 6-Jarvis-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   3.50 1-Christensen-Ring vs 9-Sieg-Ford
+        420    1.00   8.00 3-McWiggins-Drajpuch vs 2-Fuhrman-Walker
+   50          5.50   3.50 4-Hendrickson-Jain vs 4-Pesce-Christiansen
+   50          5.50   3.50 5-Roselle-Horwitz vs 8-Haldane-Miller
+   50          5.50   3.50 6-Cline-Hankins vs 10-Krah-Poore
+   50          5.50   3.50 7-Rind-Jacobson vs 1-Tipton-Hesson
+   50          5.50   3.50 8-Heller-Heller vs 3-Saul-Sonkin
+   50          5.50   3.50 9-Campbell-Davis vs 5-Zaugg-Abernethy
+   50          5.50   3.50 10-Miller-Eng vs 7-Galer-Bolson
+        460    0.00   9.00 11-Romeo-Hovda vs 6-Jarvis-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   4.50 1-Christensen-Ring vs 8-Haldane-Miller
+  100          4.50   4.50 2-Delfs-Chalfan vs 10-Krah-Poore
+  300          9.00   0.00 3-McWiggins-Drajpuch vs 1-Tipton-Hesson
+   90          2.00   7.00 4-Hendrickson-Jain vs 3-Saul-Sonkin
+  200          7.50   1.50 5-Roselle-Horwitz vs 5-Zaugg-Abernethy
+  200          7.50   1.50 6-Cline-Hankins vs 9-Sieg-Ford
+  100          4.50   4.50 8-Heller-Heller vs 2-Fuhrman-Walker
+         70    1.00   8.00 9-Campbell-Davis vs 4-Pesce-Christiansen
+  100          4.50   4.50 10-Miller-Eng vs 6-Jarvis-Lakshmanan
+        200    0.00   9.00 11-Romeo-Hovda vs 7-Galer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   6.00 1-Christensen-Ring vs 8-Haldane-Miller
+        110    3.00   6.00 2-Delfs-Chalfan vs 10-Krah-Poore
+         50    6.00   3.00 3-McWiggins-Drajpuch vs 1-Tipton-Hesson
+        130    1.00   8.00 4-Hendrickson-Jain vs 3-Saul-Sonkin
+        180    0.00   9.00 5-Roselle-Horwitz vs 5-Zaugg-Abernethy
+        110    3.00   6.00 6-Cline-Hankins vs 9-Sieg-Ford
+         90    5.00   4.00 8-Heller-Heller vs 2-Fuhrman-Walker
+  140          9.00   0.00 9-Campbell-Davis vs 4-Pesce-Christiansen
+   50          7.00   2.00 10-Miller-Eng vs 6-Jarvis-Lakshmanan
+  100          8.00   1.00 11-Romeo-Hovda vs 7-Galer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.50   2.50 1-Christensen-Ring vs 8-Haldane-Miller
+  100          1.50   7.50 2-Delfs-Chalfan vs 10-Krah-Poore
+  140          6.50   2.50 3-McWiggins-Drajpuch vs 1-Tipton-Hesson
+  140          6.50   2.50 4-Hendrickson-Jain vs 3-Saul-Sonkin
+   50          0.00   9.00 5-Roselle-Horwitz vs 5-Zaugg-Abernethy
+  110          3.50   5.50 6-Cline-Hankins vs 9-Sieg-Ford
+  110          3.50   5.50 8-Heller-Heller vs 2-Fuhrman-Walker
+  100          1.50   7.50 9-Campbell-Davis vs 4-Pesce-Christiansen
+  140          6.50   2.50 10-Miller-Eng vs 6-Jarvis-Lakshmanan
+  170          9.00   0.00 11-Romeo-Hovda vs 7-Galer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   5.00 1-Christensen-Ring vs 7-Galer-Bolson
+  100          6.00   3.00 2-Delfs-Chalfan vs 9-Sieg-Ford
+  470          9.00   0.00 4-Hendrickson-Jain vs 2-Fuhrman-Walker
+        150    2.00   7.00 5-Roselle-Horwitz vs 4-Pesce-Christiansen
+  200          7.00   2.00 6-Cline-Hankins vs 6-Jarvis-Lakshmanan
+        210    0.00   9.00 7-Rind-Jacobson vs 10-Krah-Poore
+        150    2.00   7.00 8-Heller-Heller vs 1-Tipton-Hesson
+  300          8.00   1.00 9-Campbell-Davis vs 3-Saul-Sonkin
+        150    2.00   7.00 10-Miller-Eng vs 5-Zaugg-Abernethy
+        100    5.00   4.00 11-Romeo-Hovda vs 8-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.50   3.50 1-Christensen-Ring vs 7-Galer-Bolson
+  420          5.50   3.50 2-Delfs-Chalfan vs 9-Sieg-Ford
+  200          3.00   6.00 4-Hendrickson-Jain vs 2-Fuhrman-Walker
+  590          8.50   0.50 5-Roselle-Horwitz vs 4-Pesce-Christiansen
+  420          5.50   3.50 6-Cline-Hankins vs 6-Jarvis-Lakshmanan
+  420          5.50   3.50 7-Rind-Jacobson vs 10-Krah-Poore
+  590          8.50   0.50 8-Heller-Heller vs 1-Tipton-Hesson
+        100    0.00   9.00 9-Campbell-Davis vs 3-Saul-Sonkin
+  170          1.50   7.50 10-Miller-Eng vs 5-Zaugg-Abernethy
+  170          1.50   7.50 11-Romeo-Hovda vs 8-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   3.00 1-Christensen-Ring vs 7-Galer-Bolson
+  300          9.00   0.00 2-Delfs-Chalfan vs 9-Sieg-Ford
+        200    1.00   8.00 4-Hendrickson-Jain vs 2-Fuhrman-Walker
+        650    0.00   9.00 5-Roselle-Horwitz vs 4-Pesce-Christiansen
+   50          3.00   6.00 6-Cline-Hankins vs 6-Jarvis-Lakshmanan
+        100    2.00   7.00 7-Rind-Jacobson vs 10-Krah-Poore
+  100          6.00   3.00 8-Heller-Heller vs 1-Tipton-Hesson
+  100          6.00   3.00 9-Campbell-Davis vs 3-Saul-Sonkin
+  100          6.00   3.00 10-Miller-Eng vs 5-Zaugg-Abernethy
+  100          6.00   3.00 11-Romeo-Hovda vs 8-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          8.50   0.50 1-Christensen-Ring vs 6-Jarvis-Lakshmanan
+  200          8.50   0.50 2-Delfs-Chalfan vs 8-Haldane-Miller
+        750    0.00   9.00 3-McWiggins-Drajpuch vs 10-Krah-Poore
+        500    5.00   4.00 4-Hendrickson-Jain vs 1-Tipton-Hesson
+        630    2.50   6.50 5-Roselle-Horwitz vs 3-Saul-Sonkin
+  100          7.00   2.00 6-Cline-Hankins vs 5-Zaugg-Abernethy
+        600    4.00   5.00 7-Rind-Jacobson vs 7-Galer-Bolson
+        630    2.50   6.50 9-Campbell-Davis vs 2-Fuhrman-Walker
+        660    1.00   8.00 10-Miller-Eng vs 4-Pesce-Christiansen
+        300    6.00   3.00 11-Romeo-Hovda vs 9-Sieg-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   6.00 1-Christensen-Ring vs 6-Jarvis-Lakshmanan
+        300    0.00   9.00 2-Delfs-Chalfan vs 8-Haldane-Miller
+        100    7.00   2.00 3-McWiggins-Drajpuch vs 10-Krah-Poore
+        120    3.00   6.00 4-Hendrickson-Jain vs 1-Tipton-Hesson
+        120    3.00   6.00 5-Roselle-Horwitz vs 3-Saul-Sonkin
+        120    3.00   6.00 6-Cline-Hankins vs 5-Zaugg-Abernethy
+  100          9.00   0.00 7-Rind-Jacobson vs 7-Galer-Bolson
+        120    3.00   6.00 9-Campbell-Davis vs 2-Fuhrman-Walker
+         90    8.00   1.00 10-Miller-Eng vs 4-Pesce-Christiansen
+        110    6.00   3.00 11-Romeo-Hovda vs 9-Sieg-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   6.00 1-Christensen-Ring vs 6-Jarvis-Lakshmanan
+        140    3.00   6.00 2-Delfs-Chalfan vs 8-Haldane-Miller
+        100    7.00   2.00 3-McWiggins-Drajpuch vs 10-Krah-Poore
+        140    3.00   6.00 4-Hendrickson-Jain vs 1-Tipton-Hesson
+   50          8.50   0.50 5-Roselle-Horwitz vs 3-Saul-Sonkin
+        140    3.00   6.00 6-Cline-Hankins vs 5-Zaugg-Abernethy
+   50          8.50   0.50 7-Rind-Jacobson vs 7-Galer-Bolson
+        140    3.00   6.00 9-Campbell-Davis vs 2-Fuhrman-Walker
+        140    3.00   6.00 10-Miller-Eng vs 4-Pesce-Christiansen
+        140    3.00   6.00 11-Romeo-Hovda vs 9-Sieg-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1440    3.00   6.00 1-Christensen-Ring vs 5-Zaugg-Abernethy
+  200          8.00   1.00 2-Delfs-Chalfan vs 7-Galer-Bolson
+       1440    3.00   6.00 3-McWiggins-Drajpuch vs 9-Sieg-Ford
+       1440    3.00   6.00 5-Roselle-Horwitz vs 2-Fuhrman-Walker
+       1440    3.00   6.00 6-Cline-Hankins vs 4-Pesce-Christiansen
+       1440    3.00   6.00 7-Rind-Jacobson vs 6-Jarvis-Lakshmanan
+       1440    3.00   6.00 8-Heller-Heller vs 8-Haldane-Miller
+       1440    3.00   6.00 9-Campbell-Davis vs 1-Tipton-Hesson
+  300          9.00   0.00 10-Miller-Eng vs 3-Saul-Sonkin
+  100          7.00   2.00 11-Romeo-Hovda vs 10-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        720    0.50   8.50 1-Christensen-Ring vs 5-Zaugg-Abernethy
+        690    4.00   5.00 2-Delfs-Chalfan vs 7-Galer-Bolson
+        690    4.00   5.00 3-McWiggins-Drajpuch vs 9-Sieg-Ford
+        720    0.50   8.50 5-Roselle-Horwitz vs 2-Fuhrman-Walker
+        630    8.50   0.50 6-Cline-Hankins vs 4-Pesce-Christiansen
+        690    4.00   5.00 7-Rind-Jacobson vs 6-Jarvis-Lakshmanan
+        660    7.00   2.00 8-Heller-Heller vs 8-Haldane-Miller
+        690    4.00   5.00 9-Campbell-Davis vs 1-Tipton-Hesson
+        630    8.50   0.50 10-Miller-Eng vs 3-Saul-Sonkin
+        690    4.00   5.00 11-Romeo-Hovda vs 10-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   7.00 1-Christensen-Ring vs 5-Zaugg-Abernethy
+   50          7.50   1.50 2-Delfs-Chalfan vs 7-Galer-Bolson
+        140    2.00   7.00 3-McWiggins-Drajpuch vs 9-Sieg-Ford
+        100    5.00   4.00 5-Roselle-Horwitz vs 2-Fuhrman-Walker
+   50          7.50   1.50 6-Cline-Hankins vs 4-Pesce-Christiansen
+        140    2.00   7.00 7-Rind-Jacobson vs 6-Jarvis-Lakshmanan
+   50          7.50   1.50 8-Heller-Heller vs 8-Haldane-Miller
+        140    2.00   7.00 9-Campbell-Davis vs 1-Tipton-Hesson
+        140    2.00   7.00 10-Miller-Eng vs 3-Saul-Sonkin
+   50          7.50   1.50 11-Romeo-Hovda vs 10-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          5.00   4.00 1-Christensen-Ring vs 4-Pesce-Christiansen
+  920          8.00   1.00 2-Delfs-Chalfan vs 6-Jarvis-Lakshmanan
+        300    0.00   9.00 3-McWiggins-Drajpuch vs 8-Haldane-Miller
+ 1090          9.00   0.00 4-Hendrickson-Jain vs 10-Krah-Poore
+  420          3.50   5.50 5-Roselle-Horwitz vs 1-Tipton-Hesson
+  590          6.00   3.00 6-Cline-Hankins vs 3-Saul-Sonkin
+  800          7.00   2.00 7-Rind-Jacobson vs 5-Zaugg-Abernethy
+        100    2.00   7.00 8-Heller-Heller vs 7-Galer-Bolson
+  420          3.50   5.50 9-Campbell-Davis vs 9-Sieg-Ford
+        200    1.00   8.00 10-Miller-Eng vs 2-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.00   3.00 1-Christensen-Ring vs 4-Pesce-Christiansen
+        100    2.00   7.00 2-Delfs-Chalfan vs 6-Jarvis-Lakshmanan
+  170          9.00   0.00 3-McWiggins-Drajpuch vs 8-Haldane-Miller
+  140          6.00   3.00 4-Hendrickson-Jain vs 10-Krah-Poore
+  140          6.00   3.00 5-Roselle-Horwitz vs 1-Tipton-Hesson
+        100    2.00   7.00 6-Cline-Hankins vs 3-Saul-Sonkin
+        110    0.00   9.00 7-Rind-Jacobson vs 5-Zaugg-Abernethy
+  140          6.00   3.00 8-Heller-Heller vs 7-Galer-Bolson
+        100    2.00   7.00 9-Campbell-Davis vs 9-Sieg-Ford
+  140          6.00   3.00 10-Miller-Eng vs 2-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          9.00   0.00 1-Christensen-Ring vs 4-Pesce-Christiansen
+        100    5.00   4.00 2-Delfs-Chalfan vs 6-Jarvis-Lakshmanan
+        150    3.00   6.00 3-McWiggins-Drajpuch vs 8-Haldane-Miller
+   50          7.00   2.00 4-Hendrickson-Jain vs 10-Krah-Poore
+        590    0.00   9.00 5-Roselle-Horwitz vs 1-Tipton-Hesson
+   50          7.00   2.00 6-Cline-Hankins vs 3-Saul-Sonkin
+   50          7.00   2.00 7-Rind-Jacobson vs 5-Zaugg-Abernethy
+        400    2.00   7.00 8-Heller-Heller vs 7-Galer-Bolson
+        430    1.00   8.00 9-Campbell-Davis vs 9-Sieg-Ford
+        140    4.00   5.00 10-Miller-Eng vs 2-Fuhrman-Walker
+----------------------------------------------------------------------
