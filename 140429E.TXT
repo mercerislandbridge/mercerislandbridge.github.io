@@ -1,0 +1,532 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>April 29, 2014     |CLUB NO.>158048    | 04/29/2014 22:38
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Jen        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=4/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Bovarnick         Phyllis Gravitz          A    2     .     .    159.00  58.89  0.77(A) 
+
+ 2 William Campbell       Joel Fuhrman             B    .     .     .    120.00  44.44          
+
+ 3 Diane Felure           Rose Bolson              A    .     .     .    119.50  44.26          
+
+ 4 Pete Cowles            Clay Laughary            C    .     2     .    127.00  47.04  0.22(B) 
+
+ 5 Barbara Nist           Ken Christiansen         A    .     .     .    102.00  37.78          
+
+ 6 Jeffrey Ford           David Taylor             A    .     .     .    137.50  50.93          
+
+ 7 Dick Yarington         Alain Schreiber          A    3     .     .    155.50  57.59  0.55(A) 
+
+ 8 Dennis Heller          Corneliu Galer           A    .     .     .    137.00  50.74          
+
+ 9 Christopher Jarvis     Jennifer Chalfan         B    .     .     .    109.00  40.37          
+
+10 Ray Miller             Mike Christensen         A    1     .     .    171.50  63.52  1.10(A) 
+
+11 Ann Romeo              Edward Horwitz           C    4     1     1    147.00  54.44  0.39(A) 
+
+
+                                          Totals                        1485.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>April 29, 2014     |CLUB NO.>158048    | 04/29/2014 22:38
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Jen        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=7/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Edith DeShaw           Amy DeShaw               A   4/5    .     .    144.00  53.33  0.31(A) 
+
+ 2 Renae Gunstone-White   Tim White                B    .     .     .    121.00  44.81          
+
+ 3 Maurice Blustein       Becky Stevens            A    1     .     .    158.00  58.52  1.10(A) 
+
+ 4 Penny Lepp             Ray Lepp                 C    .     .     .    112.50  41.67          
+
+ 5 Dell Berg              David Hankins            A    2     .     .    150.00  55.56  0.77(A) 
+
+ 6 William Fleming        Brad Sands               B    .     .     .    119.50  44.26          
+
+ 7 Kim Eng                Adam Ruprecht            B    .     3     .    143.00  52.96  0.28(B) 
+
+ 8 Hal Antonson           Connie Heller            A    .     .     .    126.50  46.85          
+
+ 9 John Krah              Daniel Poore             C    3     1     1    145.00  53.70  0.56(B) 
+
+10 Victor Bremson         Stephen Kalish           B   4/5    2     .    144.00  53.33  0.39(B) 
+
+11 Craig Ruden            Moises Saul              C    .     .     .    121.50  45.00          
+
+
+                                          Totals                        1485.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    8.50   1.50 1-Bovarnick-Gravitz vs 1-DeShaw-DeShaw
+        450    3.00   7.00 2-Campbell-Fuhrman vs 5-Berg-Hankins
+        450    3.00   7.00 3-Felure-Bolson vs 7-Eng-Ruprecht
+        420    7.00   3.00 4-Cowles-Laughary vs 9-Krah-Poore
+        450    3.00   7.00 5-Nist-Christiansen vs 11-Ruden-Saul
+        450    3.00   7.00 6-Ford-Taylor vs 2-Gunstone-White-White
+        200    8.50   1.50 7-Yarington-Schreiber vs 4-Lepp-Lepp
+        450    3.00   7.00 8-Heller-Galer vs 6-Fleming-Sands
+        450    3.00   7.00 9-Jarvis-Chalfan vs 8-Antonson-Heller
+  100         10.00   0.00 10-Miller-Christensen vs 10-Bremson-Kalish
+        450    3.00   7.00 11-Romeo-Horwitz vs 3-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    7.00   3.00 1-Bovarnick-Gravitz vs 1-DeShaw-DeShaw
+        300    1.00   9.00 2-Campbell-Fuhrman vs 5-Berg-Hankins
+        300    1.00   9.00 3-Felure-Bolson vs 7-Eng-Ruprecht
+        300    1.00   9.00 4-Cowles-Laughary vs 9-Krah-Poore
+        100    7.00   3.00 5-Nist-Christiansen vs 11-Ruden-Saul
+  620         10.00   0.00 6-Ford-Taylor vs 2-Gunstone-White-White
+  120          9.00   1.00 7-Yarington-Schreiber vs 4-Lepp-Lepp
+        100    7.00   3.00 8-Heller-Galer vs 6-Fleming-Sands
+        200    4.00   6.00 9-Jarvis-Chalfan vs 8-Antonson-Heller
+        200    4.00   6.00 10-Miller-Christensen vs 10-Bremson-Kalish
+        200    4.00   6.00 11-Romeo-Horwitz vs 3-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          9.00   1.00 1-Bovarnick-Gravitz vs 1-DeShaw-DeShaw
+  200          6.00   4.00 2-Campbell-Fuhrman vs 5-Berg-Hankins
+  100          2.50   7.50 3-Felure-Bolson vs 7-Eng-Ruprecht
+  100          2.50   7.50 4-Cowles-Laughary vs 9-Krah-Poore
+  200          6.00   4.00 5-Nist-Christiansen vs 11-Ruden-Saul
+  200          6.00   4.00 6-Ford-Taylor vs 2-Gunstone-White-White
+  100          2.50   7.50 7-Yarington-Schreiber vs 4-Lepp-Lepp
+  300          9.00   1.00 8-Heller-Galer vs 6-Fleming-Sands
+  100          2.50   7.50 9-Jarvis-Chalfan vs 8-Antonson-Heller
+  300          9.00   1.00 10-Miller-Christensen vs 10-Bremson-Kalish
+         90    0.00  10.00 11-Romeo-Horwitz vs 3-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    6.50   3.50 1-Bovarnick-Gravitz vs 11-Ruden-Saul
+  100         10.00   0.00 2-Campbell-Fuhrman vs 2-Gunstone-White-White
+         90    6.50   3.50 3-Felure-Bolson vs 6-Fleming-Sands
+         90    6.50   3.50 4-Cowles-Laughary vs 8-Antonson-Heller
+        120    2.00   8.00 5-Nist-Christiansen vs 10-Bremson-Kalish
+         90    6.50   3.50 6-Ford-Taylor vs 1-DeShaw-DeShaw
+        110    3.00   7.00 7-Yarington-Schreiber vs 3-Blustein-Stevens
+        200    0.50   9.50 8-Heller-Galer vs 5-Berg-Hankins
+         90    6.50   3.50 9-Jarvis-Chalfan vs 7-Eng-Ruprecht
+        200    0.50   9.50 10-Miller-Christensen vs 9-Krah-Poore
+         90    6.50   3.50 11-Romeo-Horwitz vs 4-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.00   7.00 1-Bovarnick-Gravitz vs 11-Ruden-Saul
+  630          8.00   2.00 2-Campbell-Fuhrman vs 2-Gunstone-White-White
+  150          3.00   7.00 3-Felure-Bolson vs 6-Fleming-Sands
+  630          8.00   2.00 4-Cowles-Laughary vs 8-Antonson-Heller
+  240          5.00   5.00 5-Nist-Christiansen vs 10-Bremson-Kalish
+  660         10.00   0.00 6-Ford-Taylor vs 1-DeShaw-DeShaw
+  150          3.00   7.00 7-Yarington-Schreiber vs 3-Blustein-Stevens
+        100    0.50   9.50 8-Heller-Galer vs 5-Berg-Hankins
+        100    0.50   9.50 9-Jarvis-Chalfan vs 7-Eng-Ruprecht
+  630          8.00   2.00 10-Miller-Christensen vs 9-Krah-Poore
+  600          6.00   4.00 11-Romeo-Horwitz vs 4-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   5.00 1-Bovarnick-Gravitz vs 11-Ruden-Saul
+         50    1.00   9.00 2-Campbell-Fuhrman vs 2-Gunstone-White-White
+  100          3.50   6.50 3-Felure-Bolson vs 6-Fleming-Sands
+  100          3.50   6.50 4-Cowles-Laughary vs 8-Antonson-Heller
+         50    1.00   9.00 5-Nist-Christiansen vs 10-Bremson-Kalish
+  500          9.50   0.50 6-Ford-Taylor vs 1-DeShaw-DeShaw
+  420          6.50   3.50 7-Yarington-Schreiber vs 3-Blustein-Stevens
+  420          6.50   3.50 8-Heller-Galer vs 5-Berg-Hankins
+  500          9.50   0.50 9-Jarvis-Chalfan vs 7-Eng-Ruprecht
+  450          8.00   2.00 10-Miller-Christensen vs 9-Krah-Poore
+         50    1.00   9.00 11-Romeo-Horwitz vs 4-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.00   7.00 1-Bovarnick-Gravitz vs 10-Bremson-Kalish
+        170    9.00   1.00 2-Campbell-Fuhrman vs 1-DeShaw-DeShaw
+        620    3.00   7.00 3-Felure-Bolson vs 3-Blustein-Stevens
+  730         10.00   0.00 4-Cowles-Laughary vs 7-Eng-Ruprecht
+        650    0.00  10.00 5-Nist-Christiansen vs 9-Krah-Poore
+        500    6.00   4.00 6-Ford-Taylor vs 11-Ruden-Saul
+        300    7.00   3.00 7-Yarington-Schreiber vs 2-Gunstone-White-White
+        620    3.00   7.00 8-Heller-Galer vs 4-Lepp-Lepp
+        620    3.00   7.00 9-Jarvis-Chalfan vs 6-Fleming-Sands
+        620    3.00   7.00 10-Miller-Christensen vs 8-Antonson-Heller
+        200    8.00   2.00 11-Romeo-Horwitz vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   6.00 1-Bovarnick-Gravitz vs 10-Bremson-Kalish
+  200          0.00  10.00 2-Campbell-Fuhrman vs 1-DeShaw-DeShaw
+  420          4.00   6.00 3-Felure-Bolson vs 3-Blustein-Stevens
+  450          9.00   1.00 4-Cowles-Laughary vs 7-Eng-Ruprecht
+  420          4.00   6.00 5-Nist-Christiansen vs 9-Krah-Poore
+  450          9.00   1.00 6-Ford-Taylor vs 11-Ruden-Saul
+  420          4.00   6.00 7-Yarington-Schreiber vs 2-Gunstone-White-White
+  420          4.00   6.00 8-Heller-Galer vs 4-Lepp-Lepp
+  450          9.00   1.00 9-Jarvis-Chalfan vs 6-Fleming-Sands
+  420          4.00   6.00 10-Miller-Christensen vs 8-Antonson-Heller
+  420          4.00   6.00 11-Romeo-Horwitz vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   7.00 1-Bovarnick-Gravitz vs 10-Bremson-Kalish
+         50    3.00   7.00 2-Campbell-Fuhrman vs 1-DeShaw-DeShaw
+         50    3.00   7.00 3-Felure-Bolson vs 3-Blustein-Stevens
+  120          6.00   4.00 4-Cowles-Laughary vs 7-Eng-Ruprecht
+  430          8.50   1.50 5-Nist-Christiansen vs 9-Krah-Poore
+         50    3.00   7.00 6-Ford-Taylor vs 11-Ruden-Saul
+  430          8.50   1.50 7-Yarington-Schreiber vs 2-Gunstone-White-White
+  430          8.50   1.50 8-Heller-Galer vs 4-Lepp-Lepp
+        200    0.00  10.00 9-Jarvis-Chalfan vs 6-Fleming-Sands
+  430          8.50   1.50 10-Miller-Christensen vs 8-Antonson-Heller
+         50    3.00   7.00 11-Romeo-Horwitz vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    4.50   5.50 1-Bovarnick-Gravitz vs 9-Krah-Poore
+        120    4.50   5.50 2-Campbell-Fuhrman vs 11-Ruden-Saul
+        120    4.50   5.50 3-Felure-Bolson vs 2-Gunstone-White-White
+        120    4.50   5.50 4-Cowles-Laughary vs 4-Lepp-Lepp
+  800         10.00   0.00 5-Nist-Christiansen vs 8-Antonson-Heller
+  100          8.50   1.50 6-Ford-Taylor vs 10-Bremson-Kalish
+        120    4.50   5.50 7-Yarington-Schreiber vs 1-DeShaw-DeShaw
+  100          8.50   1.50 8-Heller-Galer vs 3-Blustein-Stevens
+        150    1.00   9.00 9-Jarvis-Chalfan vs 5-Berg-Hankins
+        180    0.00  10.00 10-Miller-Christensen vs 7-Eng-Ruprecht
+        120    4.50   5.50 11-Romeo-Horwitz vs 6-Fleming-Sands
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          7.00   3.00 1-Bovarnick-Gravitz vs 9-Krah-Poore
+  480          4.50   5.50 2-Campbell-Fuhrman vs 11-Ruden-Saul
+  480          4.50   5.50 3-Felure-Bolson vs 2-Gunstone-White-White
+         50    2.00   8.00 4-Cowles-Laughary vs 4-Lepp-Lepp
+  480          4.50   5.50 5-Nist-Christiansen vs 8-Antonson-Heller
+        250    0.50   9.50 6-Ford-Taylor vs 10-Bremson-Kalish
+  980          8.00   2.00 7-Yarington-Schreiber vs 1-DeShaw-DeShaw
+  480          4.50   5.50 8-Heller-Galer vs 3-Blustein-Stevens
+        250    0.50   9.50 9-Jarvis-Chalfan vs 5-Berg-Hankins
+  990          9.50   0.50 10-Miller-Christensen vs 7-Eng-Ruprecht
+  990          9.50   0.50 11-Romeo-Horwitz vs 6-Fleming-Sands
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.50   2.50 1-Bovarnick-Gravitz vs 9-Krah-Poore
+         90    4.00   6.00 2-Campbell-Fuhrman vs 11-Ruden-Saul
+         90    4.00   6.00 3-Felure-Bolson vs 2-Gunstone-White-White
+   50          7.50   2.50 4-Cowles-Laughary vs 4-Lepp-Lepp
+         90    4.00   6.00 5-Nist-Christiansen vs 8-Antonson-Heller
+        110    1.00   9.00 6-Ford-Taylor vs 10-Bremson-Kalish
+        110    1.00   9.00 7-Yarington-Schreiber vs 1-DeShaw-DeShaw
+   50          7.50   2.50 8-Heller-Galer vs 3-Blustein-Stevens
+   50          7.50   2.50 9-Jarvis-Chalfan vs 5-Berg-Hankins
+        110    1.00   9.00 10-Miller-Christensen vs 7-Eng-Ruprecht
+   90         10.00   0.00 11-Romeo-Horwitz vs 6-Fleming-Sands
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    8.50   1.50 1-Bovarnick-Gravitz vs 8-Antonson-Heller
+        200    4.50   5.50 2-Campbell-Fuhrman vs 10-Bremson-Kalish
+        200    4.50   5.50 3-Felure-Bolson vs 1-DeShaw-DeShaw
+        200    4.50   5.50 4-Cowles-Laughary vs 3-Blustein-Stevens
+        790    0.00  10.00 5-Nist-Christiansen vs 5-Berg-Hankins
+        200    4.50   5.50 6-Ford-Taylor vs 9-Krah-Poore
+        100    8.50   1.50 7-Yarington-Schreiber vs 11-Ruden-Saul
+  150         10.00   0.00 8-Heller-Galer vs 2-Gunstone-White-White
+        670    1.00   9.00 9-Jarvis-Chalfan vs 4-Lepp-Lepp
+        200    4.50   5.50 10-Miller-Christensen vs 6-Fleming-Sands
+        200    4.50   5.50 11-Romeo-Horwitz vs 7-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          8.00   2.00 1-Bovarnick-Gravitz vs 8-Antonson-Heller
+  420          8.00   2.00 2-Campbell-Fuhrman vs 10-Bremson-Kalish
+  140          3.00   7.00 3-Felure-Bolson vs 1-DeShaw-DeShaw
+         50    1.00   9.00 4-Cowles-Laughary vs 3-Blustein-Stevens
+  170          4.50   5.50 5-Nist-Christiansen vs 5-Berg-Hankins
+         50    1.00   9.00 6-Ford-Taylor vs 9-Krah-Poore
+  420          8.00   2.00 7-Yarington-Schreiber vs 11-Ruden-Saul
+  170          4.50   5.50 8-Heller-Galer vs 2-Gunstone-White-White
+  420          8.00   2.00 9-Jarvis-Chalfan vs 4-Lepp-Lepp
+  420          8.00   2.00 10-Miller-Christensen vs 6-Fleming-Sands
+         50    1.00   9.00 11-Romeo-Horwitz vs 7-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    4.00   6.00 1-Bovarnick-Gravitz vs 8-Antonson-Heller
+        420    4.00   6.00 2-Campbell-Fuhrman vs 10-Bremson-Kalish
+        420    4.00   6.00 3-Felure-Bolson vs 1-DeShaw-DeShaw
+        420    4.00   6.00 4-Cowles-Laughary vs 3-Blustein-Stevens
+   50          8.50   1.50 5-Nist-Christiansen vs 5-Berg-Hankins
+        550    0.00  10.00 6-Ford-Taylor vs 9-Krah-Poore
+        420    4.00   6.00 7-Yarington-Schreiber vs 11-Ruden-Saul
+        420    4.00   6.00 8-Heller-Galer vs 2-Gunstone-White-White
+   50          8.50   1.50 9-Jarvis-Chalfan vs 4-Lepp-Lepp
+  100         10.00   0.00 10-Miller-Christensen vs 6-Fleming-Sands
+        420    4.00   6.00 11-Romeo-Horwitz vs 7-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400         10.00   0.00 1-Bovarnick-Gravitz vs 7-Eng-Ruprecht
+        110    5.00   5.00 2-Campbell-Fuhrman vs 9-Krah-Poore
+  100          8.50   1.50 3-Felure-Bolson vs 11-Ruden-Saul
+        110    5.00   5.00 4-Cowles-Laughary vs 2-Gunstone-White-White
+        150    1.50   8.50 5-Nist-Christiansen vs 4-Lepp-Lepp
+        150    1.50   8.50 6-Ford-Taylor vs 6-Fleming-Sands
+  100          8.50   1.50 7-Yarington-Schreiber vs 10-Bremson-Kalish
+        110    5.00   5.00 8-Heller-Galer vs 1-DeShaw-DeShaw
+        130    3.00   7.00 9-Jarvis-Chalfan vs 3-Blustein-Stevens
+        300    0.00  10.00 10-Miller-Christensen vs 5-Berg-Hankins
+        100    7.00   3.00 11-Romeo-Horwitz vs 8-Antonson-Heller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   9.00 1-Bovarnick-Gravitz vs 7-Eng-Ruprecht
+   50          4.50   5.50 2-Campbell-Fuhrman vs 9-Krah-Poore
+   50          4.50   5.50 3-Felure-Bolson vs 11-Ruden-Saul
+  110          8.50   1.50 4-Cowles-Laughary vs 2-Gunstone-White-White
+  100          7.00   3.00 5-Nist-Christiansen vs 4-Lepp-Lepp
+        100    2.00   8.00 6-Ford-Taylor vs 6-Fleming-Sands
+  110          8.50   1.50 7-Yarington-Schreiber vs 10-Bremson-Kalish
+   50          4.50   5.50 8-Heller-Galer vs 1-DeShaw-DeShaw
+   50          4.50   5.50 9-Jarvis-Chalfan vs 3-Blustein-Stevens
+  280         10.00   0.00 10-Miller-Christensen vs 5-Berg-Hankins
+        150    0.00  10.00 11-Romeo-Horwitz vs 8-Antonson-Heller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    4.00   6.00 1-Bovarnick-Gravitz vs 7-Eng-Ruprecht
+        420    4.00   6.00 2-Campbell-Fuhrman vs 9-Krah-Poore
+        420    4.00   6.00 3-Felure-Bolson vs 11-Ruden-Saul
+        420    4.00   6.00 4-Cowles-Laughary vs 2-Gunstone-White-White
+        500    0.00  10.00 5-Nist-Christiansen vs 4-Lepp-Lepp
+   50          8.00   2.00 6-Ford-Taylor vs 6-Fleming-Sands
+        420    4.00   6.00 7-Yarington-Schreiber vs 10-Bremson-Kalish
+        460    1.00   9.00 8-Heller-Galer vs 1-DeShaw-DeShaw
+   50          8.00   2.00 9-Jarvis-Chalfan vs 3-Blustein-Stevens
+  100         10.00   0.00 10-Miller-Christensen vs 5-Berg-Hankins
+   50          8.00   2.00 11-Romeo-Horwitz vs 8-Antonson-Heller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          8.00   2.00 1-Bovarnick-Gravitz vs 6-Fleming-Sands
+  200          1.00   9.00 2-Campbell-Fuhrman vs 8-Antonson-Heller
+  170          0.00  10.00 3-Felure-Bolson vs 10-Bremson-Kalish
+  450          4.50   5.50 4-Cowles-Laughary vs 1-DeShaw-DeShaw
+  450          4.50   5.50 5-Nist-Christiansen vs 3-Blustein-Stevens
+  450          4.50   5.50 6-Ford-Taylor vs 5-Berg-Hankins
+  500          9.00   1.00 7-Yarington-Schreiber vs 7-Eng-Ruprecht
+  450          4.50   5.50 8-Heller-Galer vs 11-Ruden-Saul
+  450          4.50   5.50 9-Jarvis-Chalfan vs 2-Gunstone-White-White
+  510         10.00   0.00 10-Miller-Christensen vs 4-Lepp-Lepp
+  450          4.50   5.50 11-Romeo-Horwitz vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          1.50   8.50 1-Bovarnick-Gravitz vs 6-Fleming-Sands
+  150          9.00   1.00 2-Campbell-Fuhrman vs 8-Antonson-Heller
+   90          1.50   8.50 3-Felure-Bolson vs 10-Bremson-Kalish
+  110          5.50   4.50 4-Cowles-Laughary vs 1-DeShaw-DeShaw
+   90          1.50   8.50 5-Nist-Christiansen vs 3-Blustein-Stevens
+  110          5.50   4.50 6-Ford-Taylor vs 5-Berg-Hankins
+  130          8.00   2.00 7-Yarington-Schreiber vs 7-Eng-Ruprecht
+  110          5.50   4.50 8-Heller-Galer vs 11-Ruden-Saul
+   90          1.50   8.50 9-Jarvis-Chalfan vs 2-Gunstone-White-White
+  630         10.00   0.00 10-Miller-Christensen vs 4-Lepp-Lepp
+  110          5.50   4.50 11-Romeo-Horwitz vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800         10.00   0.00 1-Bovarnick-Gravitz vs 6-Fleming-Sands
+        100    1.00   9.00 2-Campbell-Fuhrman vs 8-Antonson-Heller
+  500          4.50   5.50 3-Felure-Bolson vs 10-Bremson-Kalish
+        200    0.00  10.00 4-Cowles-Laughary vs 1-DeShaw-DeShaw
+  500          4.50   5.50 5-Nist-Christiansen vs 3-Blustein-Stevens
+  500          4.50   5.50 6-Ford-Taylor vs 5-Berg-Hankins
+  300          2.00   8.00 7-Yarington-Schreiber vs 7-Eng-Ruprecht
+  500          4.50   5.50 8-Heller-Galer vs 11-Ruden-Saul
+  620          7.50   2.50 9-Jarvis-Chalfan vs 2-Gunstone-White-White
+  620          7.50   2.50 10-Miller-Christensen vs 4-Lepp-Lepp
+  790          9.00   1.00 11-Romeo-Horwitz vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          7.00   3.00 1-Bovarnick-Gravitz vs 5-Berg-Hankins
+        120    0.00  10.00 2-Campbell-Fuhrman vs 7-Eng-Ruprecht
+         50    4.00   6.00 3-Felure-Bolson vs 9-Krah-Poore
+  100          8.00   2.00 4-Cowles-Laughary vs 11-Ruden-Saul
+        100    1.00   9.00 5-Nist-Christiansen vs 2-Gunstone-White-White
+         50    4.00   6.00 6-Ford-Taylor vs 4-Lepp-Lepp
+         50    4.00   6.00 7-Yarington-Schreiber vs 6-Fleming-Sands
+  110          9.50   0.50 8-Heller-Galer vs 8-Antonson-Heller
+         50    4.00   6.00 9-Jarvis-Chalfan vs 1-DeShaw-DeShaw
+         50    4.00   6.00 10-Miller-Christensen vs 3-Blustein-Stevens
+  110          9.50   0.50 11-Romeo-Horwitz vs 10-Bremson-Kalish
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   7.00 1-Bovarnick-Gravitz vs 5-Berg-Hankins
+  150          4.50   5.50 2-Campbell-Fuhrman vs 7-Eng-Ruprecht
+  170          8.00   2.00 3-Felure-Bolson vs 9-Krah-Poore
+  120          2.00   8.00 4-Cowles-Laughary vs 11-Ruden-Saul
+        100    0.50   9.50 5-Nist-Christiansen vs 2-Gunstone-White-White
+  170          8.00   2.00 6-Ford-Taylor vs 4-Lepp-Lepp
+  170          8.00   2.00 7-Yarington-Schreiber vs 6-Fleming-Sands
+  150          4.50   5.50 8-Heller-Galer vs 8-Antonson-Heller
+        100    0.50   9.50 9-Jarvis-Chalfan vs 1-DeShaw-DeShaw
+  170          8.00   2.00 10-Miller-Christensen vs 3-Blustein-Stevens
+  170          8.00   2.00 11-Romeo-Horwitz vs 10-Bremson-Kalish
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    4.50   5.50 1-Bovarnick-Gravitz vs 5-Berg-Hankins
+        430    4.50   5.50 2-Campbell-Fuhrman vs 7-Eng-Ruprecht
+   50         10.00   0.00 3-Felure-Bolson vs 9-Krah-Poore
+        420    7.50   2.50 4-Cowles-Laughary vs 11-Ruden-Saul
+        430    4.50   5.50 5-Nist-Christiansen vs 2-Gunstone-White-White
+        420    7.50   2.50 6-Ford-Taylor vs 4-Lepp-Lepp
+        450    1.00   9.00 7-Yarington-Schreiber vs 6-Fleming-Sands
+        450    1.00   9.00 8-Heller-Galer vs 8-Antonson-Heller
+        430    4.50   5.50 9-Jarvis-Chalfan vs 1-DeShaw-DeShaw
+        450    1.00   9.00 10-Miller-Christensen vs 3-Blustein-Stevens
+        400    9.00   1.00 11-Romeo-Horwitz vs 10-Bremson-Kalish
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          9.00   1.00 1-Bovarnick-Gravitz vs 4-Lepp-Lepp
+        120    5.00   5.00 2-Campbell-Fuhrman vs 6-Fleming-Sands
+        150    2.50   7.50 3-Felure-Bolson vs 8-Antonson-Heller
+        150    2.50   7.50 4-Cowles-Laughary vs 10-Bremson-Kalish
+        150    2.50   7.50 5-Nist-Christiansen vs 1-DeShaw-DeShaw
+        150    2.50   7.50 6-Ford-Taylor vs 3-Blustein-Stevens
+  200         10.00   0.00 7-Yarington-Schreiber vs 5-Berg-Hankins
+        100    6.00   4.00 8-Heller-Galer vs 7-Eng-Ruprecht
+        180    0.00  10.00 9-Jarvis-Chalfan vs 9-Krah-Poore
+         50    8.00   2.00 10-Miller-Christensen vs 2-Gunstone-White-White
+         90    7.00   3.00 11-Romeo-Horwitz vs 11-Ruden-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200         10.00   0.00 1-Bovarnick-Gravitz vs 4-Lepp-Lepp
+        150    4.00   6.00 2-Campbell-Fuhrman vs 6-Fleming-Sands
+  100          8.00   2.00 3-Felure-Bolson vs 8-Antonson-Heller
+        630    0.00  10.00 4-Cowles-Laughary vs 10-Bremson-Kalish
+        150    4.00   6.00 5-Nist-Christiansen vs 1-DeShaw-DeShaw
+        150    4.00   6.00 6-Ford-Taylor vs 3-Blustein-Stevens
+        150    4.00   6.00 7-Yarington-Schreiber vs 5-Berg-Hankins
+        600    1.00   9.00 8-Heller-Galer vs 7-Eng-Ruprecht
+        150    4.00   6.00 9-Jarvis-Chalfan vs 9-Krah-Poore
+  100          8.00   2.00 10-Miller-Christensen vs 2-Gunstone-White-White
+  100          8.00   2.00 11-Romeo-Horwitz vs 11-Ruden-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   7.50 1-Bovarnick-Gravitz vs 4-Lepp-Lepp
+        420    7.00   3.00 2-Campbell-Fuhrman vs 6-Fleming-Sands
+    PASS      10.00   0.00 3-Felure-Bolson vs 8-Antonson-Heller
+        450    2.50   7.50 4-Cowles-Laughary vs 10-Bremson-Kalish
+        450    2.50   7.50 5-Nist-Christiansen vs 1-DeShaw-DeShaw
+        420    7.00   3.00 6-Ford-Taylor vs 3-Blustein-Stevens
+        450    2.50   7.50 7-Yarington-Schreiber vs 5-Berg-Hankins
+        200    9.00   1.00 8-Heller-Galer vs 7-Eng-Ruprecht
+        450    2.50   7.50 9-Jarvis-Chalfan vs 9-Krah-Poore
+        420    7.00   3.00 10-Miller-Christensen vs 2-Gunstone-White-White
+        450    2.50   7.50 11-Romeo-Horwitz vs 11-Ruden-Saul
+----------------------------------------------------------------------

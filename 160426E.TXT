@@ -1,0 +1,549 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>April 26, 2016     |CLUB NO.>158048    | 05/03/2016 18:45
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Ann Romeo              Melinda Westgate         B    .     .     .    123.00  45.56          
+
+ 2 Bryan Delfs            Kevin Epley              B    .     3     .    142.00  52.59  0.32(B) 
+
+ 3 Kim Eng                Jeffrey Ford             A    2     .     .    161.00  59.63  0.70(A) 
+
+ 4 Ronald White           Fred Verplank            C    .     .     .     98.50  36.48          
+
+ 5 Pete Cowles            Clay Laughary            C    3     1     1    157.50  58.33  0.64(B) 
+
+ 6 Kevin Castner          Mark Goyette             B    .     .     .     99.50  36.85          
+
+ 7 Brad Rind              Terry Jacobson           C    .     .     .    140.00  51.85          
+
+ 8 Corneliu Galer         Hal Antonson             B    .     .     .    113.50  42.04          
+
+ 9 William Campbell       Hugh Hendrickson         B    4     2     .    143.50  53.15  0.45(B) 
+
+10 Ray Miller             Jennifer Chalfan         A    1     .     .    171.50  63.52  1.00(A) 
+
+
+                                          Totals                        1350.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>April 26, 2016     |CLUB NO.>158048    | 05/03/2016 18:45
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=9/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 John Krah              Daniel Poore             C    .     .     .    122.00  45.19          
+
+ 2 Mike Christensen       David Wright             B    .     .     .    128.00  47.41          
+
+ 3 Dave Setterholm        Ken Christiansen         A    2     .     .    155.50  57.59  0.70(A) 
+
+ 4 Tracey Guice           Leah Sieg                C    .     .     .    108.00  40.00          
+
+ 5 Gary Haldane           Sharon Miller            B   3/4   2/3    .    138.00  51.11  0.43(A) 
+
+ 6 Moises Saul            Irving Sonkin            C    .     4     1    134.00  49.63  0.25(B) 
+
+ 7 Dong Yan               Eric Sieg                B    .     .     .    126.50  46.85          
+
+ 8 David Hankins          Kevin Cline              B    1     1     .    168.50  62.41  1.00(A) 
+
+ 9 David Roselle          Alan Hendrickson         B   3/4   2/3    .    138.00  51.11  0.43(A) 
+
+10 Adam Ruprecht          Christopher Jarvis       B    .     .     .    131.50  48.70          
+
+
+                                          Totals                        1350.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   4.50 1-Romeo-Westgate vs 1-Krah-Poore
+  470          9.00   0.00 2-Delfs-Epley vs 3-Setterholm-Christiansen
+   50          6.50   2.50 3-Eng-Ford vs 5-Haldane-Miller
+        110    3.00   6.00 4-White-Verplank vs 7-Yan-Sieg
+   50          6.50   2.50 5-Cowles-Laughary vs 9-Roselle-Hendrickson
+        200    1.00   8.00 6-Castner-Goyette vs 2-Christensen-Wright
+  100          8.00   1.00 7-Rind-Jacobson vs 4-Guice-Sieg
+         50    4.50   4.50 8-Galer-Antonson vs 6-Saul-Sonkin
+        300    0.00   9.00 9-Campbell-Hendrickson vs 8-Hankins-Cline
+        120    2.00   7.00 10-Miller-Chalfan vs 10-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.00   8.00 1-Romeo-Westgate vs 1-Krah-Poore
+        200    4.00   5.00 2-Delfs-Epley vs 3-Setterholm-Christiansen
+        140    5.50   3.50 3-Eng-Ford vs 5-Haldane-Miller
+        420    2.50   6.50 4-White-Verplank vs 7-Yan-Sieg
+   50          8.50   0.50 5-Cowles-Laughary vs 9-Roselle-Hendrickson
+        420    2.50   6.50 6-Castner-Goyette vs 2-Christensen-Wright
+   50          8.50   0.50 7-Rind-Jacobson vs 4-Guice-Sieg
+        800    0.00   9.00 8-Galer-Antonson vs 6-Saul-Sonkin
+        110    7.00   2.00 9-Campbell-Hendrickson vs 8-Hankins-Cline
+        140    5.50   3.50 10-Miller-Chalfan vs 10-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   8.00 1-Romeo-Westgate vs 1-Krah-Poore
+  300          7.50   1.50 2-Delfs-Epley vs 3-Setterholm-Christiansen
+  300          7.50   1.50 3-Eng-Ford vs 5-Haldane-Miller
+  200          3.50   5.50 4-White-Verplank vs 7-Yan-Sieg
+  300          7.50   1.50 5-Cowles-Laughary vs 9-Roselle-Hendrickson
+  200          3.50   5.50 6-Castner-Goyette vs 2-Christensen-Wright
+  200          3.50   5.50 7-Rind-Jacobson vs 4-Guice-Sieg
+  300          7.50   1.50 8-Galer-Antonson vs 6-Saul-Sonkin
+        110    0.00   9.00 9-Campbell-Hendrickson vs 8-Hankins-Cline
+  200          3.50   5.50 10-Miller-Chalfan vs 10-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   5.00 1-Romeo-Westgate vs 10-Ruprecht-Jarvis
+  230          8.50   0.50 2-Delfs-Epley vs 2-Christensen-Wright
+  230          8.50   0.50 3-Eng-Ford vs 4-Guice-Sieg
+  140          1.50   7.50 4-White-Verplank vs 6-Saul-Sonkin
+  170          4.00   5.00 5-Cowles-Laughary vs 8-Hankins-Cline
+  200          6.50   2.50 6-Castner-Goyette vs 1-Krah-Poore
+  200          6.50   2.50 7-Rind-Jacobson vs 3-Setterholm-Christiansen
+  140          1.50   7.50 8-Galer-Antonson vs 5-Haldane-Miller
+  110          0.00   9.00 9-Campbell-Hendrickson vs 7-Yan-Sieg
+  170          4.00   5.00 10-Miller-Chalfan vs 9-Roselle-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   5.50 1-Romeo-Westgate vs 10-Ruprecht-Jarvis
+  150          8.00   1.00 2-Delfs-Epley vs 2-Christensen-Wright
+  150          8.00   1.00 3-Eng-Ford vs 4-Guice-Sieg
+        110    0.00   9.00 4-White-Verplank vs 6-Saul-Sonkin
+  100          3.50   5.50 5-Cowles-Laughary vs 8-Hankins-Cline
+   50          1.50   7.50 6-Castner-Goyette vs 1-Krah-Poore
+  130          5.50   3.50 7-Rind-Jacobson vs 3-Setterholm-Christiansen
+   50          1.50   7.50 8-Galer-Antonson vs 5-Haldane-Miller
+  150          8.00   1.00 9-Campbell-Hendrickson vs 7-Yan-Sieg
+  130          5.50   3.50 10-Miller-Chalfan vs 9-Roselle-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          8.50   0.50 1-Romeo-Westgate vs 10-Ruprecht-Jarvis
+  420          4.00   5.00 2-Delfs-Epley vs 2-Christensen-Wright
+  420          4.00   5.00 3-Eng-Ford vs 4-Guice-Sieg
+  420          4.00   5.00 4-White-Verplank vs 6-Saul-Sonkin
+  420          4.00   5.00 5-Cowles-Laughary vs 8-Hankins-Cline
+         50    0.00   9.00 6-Castner-Goyette vs 1-Krah-Poore
+  420          4.00   5.00 7-Rind-Jacobson vs 3-Setterholm-Christiansen
+  420          4.00   5.00 8-Galer-Antonson vs 5-Haldane-Miller
+  450          8.50   0.50 9-Campbell-Hendrickson vs 7-Yan-Sieg
+  420          4.00   5.00 10-Miller-Chalfan vs 9-Roselle-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   7.00 1-Romeo-Westgate vs 9-Roselle-Hendrickson
+  140          2.00   7.00 2-Delfs-Epley vs 1-Krah-Poore
+  150          5.00   4.00 3-Eng-Ford vs 3-Setterholm-Christiansen
+  110          0.00   9.00 4-White-Verplank vs 5-Haldane-Miller
+  170          7.50   1.50 5-Cowles-Laughary vs 7-Yan-Sieg
+  150          5.00   4.00 6-Castner-Goyette vs 10-Ruprecht-Jarvis
+  140          2.00   7.00 7-Rind-Jacobson vs 2-Christensen-Wright
+  150          5.00   4.00 8-Galer-Antonson vs 4-Guice-Sieg
+  170          7.50   1.50 9-Campbell-Hendrickson vs 6-Saul-Sonkin
+  180          9.00   0.00 10-Miller-Chalfan vs 8-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   8.00 1-Romeo-Westgate vs 9-Roselle-Hendrickson
+  180          6.00   3.00 2-Delfs-Epley vs 1-Krah-Poore
+  180          6.00   3.00 3-Eng-Ford vs 3-Setterholm-Christiansen
+  110          4.00   5.00 4-White-Verplank vs 5-Haldane-Miller
+  430          8.00   1.00 5-Cowles-Laughary vs 7-Yan-Sieg
+  180          6.00   3.00 6-Castner-Goyette vs 10-Ruprecht-Jarvis
+   50          3.00   6.00 7-Rind-Jacobson vs 2-Christensen-Wright
+         50    1.00   8.00 8-Galer-Antonson vs 4-Guice-Sieg
+         50    1.00   8.00 9-Campbell-Hendrickson vs 6-Saul-Sonkin
+  500          9.00   0.00 10-Miller-Chalfan vs 8-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.00   5.00 1-Romeo-Westgate vs 9-Roselle-Hendrickson
+        650    4.00   5.00 2-Delfs-Epley vs 1-Krah-Poore
+        650    4.00   5.00 3-Eng-Ford vs 3-Setterholm-Christiansen
+        200    8.50   0.50 4-White-Verplank vs 5-Haldane-Miller
+       1100    0.00   9.00 5-Cowles-Laughary vs 7-Yan-Sieg
+        650    4.00   5.00 6-Castner-Goyette vs 10-Ruprecht-Jarvis
+        650    4.00   5.00 7-Rind-Jacobson vs 2-Christensen-Wright
+        200    8.50   0.50 8-Galer-Antonson vs 4-Guice-Sieg
+        650    4.00   5.00 9-Campbell-Hendrickson vs 6-Saul-Sonkin
+        650    4.00   5.00 10-Miller-Chalfan vs 8-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          5.50   3.50 1-Romeo-Westgate vs 8-Hankins-Cline
+        140    2.50   6.50 2-Delfs-Epley vs 10-Ruprecht-Jarvis
+  200          8.50   0.50 3-Eng-Ford vs 2-Christensen-Wright
+        200    0.50   8.50 4-White-Verplank vs 4-Guice-Sieg
+        200    0.50   8.50 5-Cowles-Laughary vs 6-Saul-Sonkin
+  200          8.50   0.50 6-Castner-Goyette vs 9-Roselle-Hendrickson
+  130          5.50   3.50 7-Rind-Jacobson vs 1-Krah-Poore
+  130          5.50   3.50 8-Galer-Antonson vs 3-Setterholm-Christiansen
+        140    2.50   6.50 9-Campbell-Hendrickson vs 5-Haldane-Miller
+  130          5.50   3.50 10-Miller-Chalfan vs 7-Yan-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   8.00 1-Romeo-Westgate vs 8-Hankins-Cline
+   90          7.50   1.50 2-Delfs-Epley vs 10-Ruprecht-Jarvis
+   90          7.50   1.50 3-Eng-Ford vs 2-Christensen-Wright
+        170    4.00   5.00 4-White-Verplank vs 4-Guice-Sieg
+        530    0.00   9.00 5-Cowles-Laughary vs 6-Saul-Sonkin
+        200    3.00   6.00 6-Castner-Goyette vs 9-Roselle-Hendrickson
+   90          7.50   1.50 7-Rind-Jacobson vs 1-Krah-Poore
+        300    2.00   7.00 8-Galer-Antonson vs 3-Setterholm-Christiansen
+   90          7.50   1.50 9-Campbell-Hendrickson vs 5-Haldane-Miller
+        100    5.00   4.00 10-Miller-Chalfan vs 7-Yan-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          6.50   2.50 1-Romeo-Westgate vs 8-Hankins-Cline
+        300    1.00   8.00 2-Delfs-Epley vs 10-Ruprecht-Jarvis
+  620          6.50   2.50 3-Eng-Ford vs 2-Christensen-Wright
+        400    0.00   9.00 4-White-Verplank vs 4-Guice-Sieg
+        100    2.50   6.50 5-Cowles-Laughary vs 6-Saul-Sonkin
+  620          6.50   2.50 6-Castner-Goyette vs 9-Roselle-Hendrickson
+  620          6.50   2.50 7-Rind-Jacobson vs 1-Krah-Poore
+        100    2.50   6.50 8-Galer-Antonson vs 3-Setterholm-Christiansen
+  620          6.50   2.50 9-Campbell-Hendrickson vs 5-Haldane-Miller
+  620          6.50   2.50 10-Miller-Chalfan vs 7-Yan-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.50   8.50 1-Romeo-Westgate vs 7-Yan-Sieg
+        170    3.50   5.50 2-Delfs-Epley vs 9-Roselle-Hendrickson
+        620    0.50   8.50 3-Eng-Ford vs 1-Krah-Poore
+        170    3.50   5.50 4-White-Verplank vs 3-Setterholm-Christiansen
+        170    3.50   5.50 5-Cowles-Laughary vs 5-Haldane-Miller
+        140    7.00   2.00 6-Castner-Goyette vs 8-Hankins-Cline
+        140    7.00   2.00 7-Rind-Jacobson vs 10-Ruprecht-Jarvis
+        170    3.50   5.50 8-Galer-Antonson vs 2-Christensen-Wright
+        140    7.00   2.00 9-Campbell-Hendrickson vs 4-Guice-Sieg
+  100          9.00   0.00 10-Miller-Chalfan vs 6-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.00   2.00 1-Romeo-Westgate vs 7-Yan-Sieg
+  430          8.00   1.00 2-Delfs-Epley vs 9-Roselle-Hendrickson
+  800          9.00   0.00 3-Eng-Ford vs 1-Krah-Poore
+        100    0.00   9.00 4-White-Verplank vs 3-Setterholm-Christiansen
+  140          5.00   4.00 5-Cowles-Laughary vs 5-Haldane-Miller
+  140          5.00   4.00 6-Castner-Goyette vs 8-Hankins-Cline
+         50    1.50   7.50 7-Rind-Jacobson vs 10-Ruprecht-Jarvis
+         50    1.50   7.50 8-Galer-Antonson vs 2-Christensen-Wright
+  140          5.00   4.00 9-Campbell-Hendrickson vs 4-Guice-Sieg
+  110          3.00   6.00 10-Miller-Chalfan vs 6-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.00   4.00 1-Romeo-Westgate vs 7-Yan-Sieg
+        200    1.50   7.50 2-Delfs-Epley vs 9-Roselle-Hendrickson
+        100    5.00   4.00 3-Eng-Ford vs 1-Krah-Poore
+        110    3.00   6.00 4-White-Verplank vs 3-Setterholm-Christiansen
+        200    1.50   7.50 5-Cowles-Laughary vs 5-Haldane-Miller
+        300    0.00   9.00 6-Castner-Goyette vs 8-Hankins-Cline
+   50          7.00   2.00 7-Rind-Jacobson vs 10-Ruprecht-Jarvis
+        100    5.00   4.00 8-Galer-Antonson vs 2-Christensen-Wright
+  120          9.00   0.00 9-Campbell-Hendrickson vs 4-Guice-Sieg
+  110          8.00   1.00 10-Miller-Chalfan vs 6-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          9.00   0.00 1-Romeo-Westgate vs 6-Saul-Sonkin
+        140    2.00   7.00 2-Delfs-Epley vs 8-Hankins-Cline
+         50    6.00   3.00 3-Eng-Ford vs 10-Ruprecht-Jarvis
+        140    2.00   7.00 4-White-Verplank vs 2-Christensen-Wright
+   90          7.50   1.50 5-Cowles-Laughary vs 4-Guice-Sieg
+        140    2.00   7.00 6-Castner-Goyette vs 7-Yan-Sieg
+        140    2.00   7.00 7-Rind-Jacobson vs 9-Roselle-Hendrickson
+   90          7.50   1.50 8-Galer-Antonson vs 1-Krah-Poore
+        140    2.00   7.00 9-Campbell-Hendrickson vs 3-Setterholm-Christiansen
+        110    5.00   4.00 10-Miller-Chalfan vs 5-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.00   3.00 1-Romeo-Westgate vs 6-Saul-Sonkin
+        130    2.00   7.00 2-Delfs-Epley vs 8-Hankins-Cline
+        110    3.50   5.50 3-Eng-Ford vs 10-Ruprecht-Jarvis
+  150          7.00   2.00 4-White-Verplank vs 2-Christensen-Wright
+  420          8.00   1.00 5-Cowles-Laughary vs 4-Guice-Sieg
+        110    3.50   5.50 6-Castner-Goyette vs 7-Yan-Sieg
+        150    0.50   8.50 7-Rind-Jacobson vs 9-Roselle-Hendrickson
+  100          5.00   4.00 8-Galer-Antonson vs 1-Krah-Poore
+        150    0.50   8.50 9-Campbell-Hendrickson vs 3-Setterholm-Christiansen
+  590          9.00   0.00 10-Miller-Chalfan vs 5-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    7.50   1.50 1-Romeo-Westgate vs 6-Saul-Sonkin
+        460    1.00   8.00 2-Delfs-Epley vs 8-Hankins-Cline
+        200    6.00   3.00 3-Eng-Ford vs 10-Ruprecht-Jarvis
+   50          9.00   0.00 4-White-Verplank vs 2-Christensen-Wright
+        170    7.50   1.50 5-Cowles-Laughary vs 4-Guice-Sieg
+        400    4.00   5.00 6-Castner-Goyette vs 7-Yan-Sieg
+        420    2.00   7.00 7-Rind-Jacobson vs 9-Roselle-Hendrickson
+        400    4.00   5.00 8-Galer-Antonson vs 1-Krah-Poore
+        500    0.00   9.00 9-Campbell-Hendrickson vs 3-Setterholm-Christiansen
+        400    4.00   5.00 10-Miller-Chalfan vs 5-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          9.00   0.00 1-Romeo-Westgate vs 5-Haldane-Miller
+  140          4.50   4.50 2-Delfs-Epley vs 7-Yan-Sieg
+  170          7.50   1.50 3-Eng-Ford vs 9-Roselle-Hendrickson
+  110          1.00   8.00 4-White-Verplank vs 1-Krah-Poore
+  170          7.50   1.50 5-Cowles-Laughary vs 3-Setterholm-Christiansen
+  140          4.50   4.50 6-Castner-Goyette vs 6-Saul-Sonkin
+  130          2.00   7.00 7-Rind-Jacobson vs 8-Hankins-Cline
+  140          4.50   4.50 8-Galer-Antonson vs 10-Ruprecht-Jarvis
+         50    0.00   9.00 9-Campbell-Hendrickson vs 2-Christensen-Wright
+  140          4.50   4.50 10-Miller-Chalfan vs 4-Guice-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   4.00 1-Romeo-Westgate vs 5-Haldane-Miller
+  620          5.00   4.00 2-Delfs-Epley vs 7-Yan-Sieg
+  170          0.50   8.50 3-Eng-Ford vs 9-Roselle-Hendrickson
+  650          9.00   0.00 4-White-Verplank vs 1-Krah-Poore
+  620          5.00   4.00 5-Cowles-Laughary vs 3-Setterholm-Christiansen
+  170          0.50   8.50 6-Castner-Goyette vs 6-Saul-Sonkin
+  620          5.00   4.00 7-Rind-Jacobson vs 8-Hankins-Cline
+  620          5.00   4.00 8-Galer-Antonson vs 10-Ruprecht-Jarvis
+  620          5.00   4.00 9-Campbell-Hendrickson vs 2-Christensen-Wright
+  620          5.00   4.00 10-Miller-Chalfan vs 4-Guice-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.50   5.50 1-Romeo-Westgate vs 5-Haldane-Miller
+  130          9.00   0.00 2-Delfs-Epley vs 7-Yan-Sieg
+   50          7.00   2.00 3-Eng-Ford vs 9-Roselle-Hendrickson
+   50          7.00   2.00 4-White-Verplank vs 1-Krah-Poore
+        140    3.50   5.50 5-Cowles-Laughary vs 3-Setterholm-Christiansen
+        530    0.00   9.00 6-Castner-Goyette vs 6-Saul-Sonkin
+        470    1.00   8.00 7-Rind-Jacobson vs 8-Hankins-Cline
+        200    2.00   7.00 8-Galer-Antonson vs 10-Ruprecht-Jarvis
+        110    5.00   4.00 9-Campbell-Hendrickson vs 2-Christensen-Wright
+   50          7.00   2.00 10-Miller-Chalfan vs 4-Guice-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    5.00   4.00 1-Romeo-Westgate vs 4-Guice-Sieg
+        170    3.00   6.00 2-Delfs-Epley vs 6-Saul-Sonkin
+        300    1.50   7.50 3-Eng-Ford vs 8-Hankins-Cline
+  100          7.00   2.00 4-White-Verplank vs 10-Ruprecht-Jarvis
+  200          9.00   0.00 5-Cowles-Laughary vs 2-Christensen-Wright
+        910    0.00   9.00 6-Castner-Goyette vs 5-Haldane-Miller
+  100          7.00   2.00 7-Rind-Jacobson vs 7-Yan-Sieg
+        300    1.50   7.50 8-Galer-Antonson vs 9-Roselle-Hendrickson
+  100          7.00   2.00 9-Campbell-Hendrickson vs 1-Krah-Poore
+        100    4.00   5.00 10-Miller-Chalfan vs 3-Setterholm-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   6.00 1-Romeo-Westgate vs 4-Guice-Sieg
+  690          8.50   0.50 2-Delfs-Epley vs 6-Saul-Sonkin
+  500          2.00   7.00 3-Eng-Ford vs 8-Hankins-Cline
+  240          1.00   8.00 4-White-Verplank vs 10-Ruprecht-Jarvis
+  690          8.50   0.50 5-Cowles-Laughary vs 2-Christensen-Wright
+   90          0.00   9.00 6-Castner-Goyette vs 5-Haldane-Miller
+  660          5.50   3.50 7-Rind-Jacobson vs 7-Yan-Sieg
+  660          5.50   3.50 8-Galer-Antonson vs 9-Roselle-Hendrickson
+  660          5.50   3.50 9-Campbell-Hendrickson vs 1-Krah-Poore
+  660          5.50   3.50 10-Miller-Chalfan vs 3-Setterholm-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          9.00   0.00 1-Romeo-Westgate vs 4-Guice-Sieg
+   50          8.00   1.00 2-Delfs-Epley vs 6-Saul-Sonkin
+        100    2.00   7.00 3-Eng-Ford vs 8-Hankins-Cline
+        100    2.00   7.00 4-White-Verplank vs 10-Ruprecht-Jarvis
+         50    6.50   2.50 5-Cowles-Laughary vs 2-Christensen-Wright
+         90    4.50   4.50 6-Castner-Goyette vs 5-Haldane-Miller
+        100    2.00   7.00 7-Rind-Jacobson vs 7-Yan-Sieg
+        120    0.00   9.00 8-Galer-Antonson vs 9-Roselle-Hendrickson
+         50    6.50   2.50 9-Campbell-Hendrickson vs 1-Krah-Poore
+         90    4.50   4.50 10-Miller-Chalfan vs 3-Setterholm-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.00   8.00 1-Romeo-Westgate vs 3-Setterholm-Christiansen
+  450          3.00   6.00 2-Delfs-Epley vs 5-Haldane-Miller
+  480          6.50   2.50 3-Eng-Ford vs 7-Yan-Sieg
+  450          3.00   6.00 4-White-Verplank vs 9-Roselle-Hendrickson
+  480          6.50   2.50 5-Cowles-Laughary vs 1-Krah-Poore
+        800    0.00   9.00 6-Castner-Goyette vs 4-Guice-Sieg
+  480          6.50   2.50 7-Rind-Jacobson vs 6-Saul-Sonkin
+  980          9.00   0.00 8-Galer-Antonson vs 8-Hankins-Cline
+  450          3.00   6.00 9-Campbell-Hendrickson vs 10-Ruprecht-Jarvis
+  480          6.50   2.50 10-Miller-Chalfan vs 2-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    7.00   2.00 1-Romeo-Westgate vs 3-Setterholm-Christiansen
+        630    2.00   7.00 2-Delfs-Epley vs 5-Haldane-Miller
+        600    5.00   4.00 3-Eng-Ford vs 7-Yan-Sieg
+        620    3.00   6.00 4-White-Verplank vs 9-Roselle-Hendrickson
+        660    0.50   8.50 5-Cowles-Laughary vs 1-Krah-Poore
+  100          8.00   1.00 6-Castner-Goyette vs 4-Guice-Sieg
+        600    5.00   4.00 7-Rind-Jacobson vs 6-Saul-Sonkin
+        660    0.50   8.50 8-Galer-Antonson vs 8-Hankins-Cline
+  200          9.00   0.00 9-Campbell-Hendrickson vs 10-Ruprecht-Jarvis
+        600    5.00   4.00 10-Miller-Chalfan vs 2-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   8.50 1-Romeo-Westgate vs 3-Setterholm-Christiansen
+  990          7.00   2.00 2-Delfs-Epley vs 5-Haldane-Miller
+  920          4.00   5.00 3-Eng-Ford vs 7-Yan-Sieg
+  480          2.00   7.00 4-White-Verplank vs 9-Roselle-Hendrickson
+  990          7.00   2.00 5-Cowles-Laughary vs 1-Krah-Poore
+  990          7.00   2.00 6-Castner-Goyette vs 4-Guice-Sieg
+  990          7.00   2.00 7-Rind-Jacobson vs 6-Saul-Sonkin
+         50    0.50   8.50 8-Galer-Antonson vs 8-Hankins-Cline
+  490          3.00   6.00 9-Campbell-Hendrickson vs 10-Ruprecht-Jarvis
+  990          7.00   2.00 10-Miller-Chalfan vs 2-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   7.00 1-Romeo-Westgate vs 2-Christensen-Wright
+        450    2.00   7.00 2-Delfs-Epley vs 4-Guice-Sieg
+        420    6.50   2.50 3-Eng-Ford vs 6-Saul-Sonkin
+        450    2.00   7.00 4-White-Verplank vs 8-Hankins-Cline
+        420    6.50   2.50 5-Cowles-Laughary vs 10-Ruprecht-Jarvis
+        450    2.00   7.00 6-Castner-Goyette vs 3-Setterholm-Christiansen
+        170    9.00   0.00 7-Rind-Jacobson vs 5-Haldane-Miller
+        450    2.00   7.00 8-Galer-Antonson vs 7-Yan-Sieg
+        420    6.50   2.50 9-Campbell-Hendrickson vs 9-Roselle-Hendrickson
+        420    6.50   2.50 10-Miller-Chalfan vs 1-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 29
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   8.50 1-Romeo-Westgate vs 2-Christensen-Wright
+        140    5.00   4.00 2-Delfs-Epley vs 4-Guice-Sieg
+  100          8.00   1.00 3-Eng-Ford vs 6-Saul-Sonkin
+        170    2.50   6.50 4-White-Verplank vs 8-Hankins-Cline
+        140    5.00   4.00 5-Cowles-Laughary vs 10-Ruprecht-Jarvis
+        170    2.50   6.50 6-Castner-Goyette vs 3-Setterholm-Christiansen
+        200    0.50   8.50 7-Rind-Jacobson vs 5-Haldane-Miller
+        140    5.00   4.00 8-Galer-Antonson vs 7-Yan-Sieg
+  100          8.00   1.00 9-Campbell-Hendrickson vs 9-Roselle-Hendrickson
+  100          8.00   1.00 10-Miller-Chalfan vs 1-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 30
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.00   9.00 1-Romeo-Westgate vs 2-Christensen-Wright
+        130    3.00   6.00 2-Delfs-Epley vs 4-Guice-Sieg
+        130    3.00   6.00 3-Eng-Ford vs 6-Saul-Sonkin
+        130    3.00   6.00 4-White-Verplank vs 8-Hankins-Cline
+   50          6.50   2.50 5-Cowles-Laughary vs 10-Ruprecht-Jarvis
+        430    1.00   8.00 6-Castner-Goyette vs 3-Setterholm-Christiansen
+         50    5.00   4.00 7-Rind-Jacobson vs 5-Haldane-Miller
+  100          8.00   1.00 8-Galer-Antonson vs 7-Yan-Sieg
+  140          9.00   0.00 9-Campbell-Hendrickson vs 9-Roselle-Hendrickson
+   50          6.50   2.50 10-Miller-Chalfan vs 1-Krah-Poore
+----------------------------------------------------------------------

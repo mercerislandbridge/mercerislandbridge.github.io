@@ -1,0 +1,501 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>June 3, 2014       |CLUB NO.>158048    | 06/03/2014 22:40
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>North American Pairs - Club  |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/NLM  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=5/C=0                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 William Campbell       Melinda Westgate         B                .     .     .   |   .     .     .     97.50  40.12          
+
+ 2 Jennifer Ballantyne    Liliana Diaconescu       A                .     .     .   |   .     .     .    102.00  41.98          
+
+ 3 Kim Eng                Chris Pesce              B       Q        .     .     .   |   .     2     .    116.00  47.74  0.38Red 
+                                                                                                                        0.38Blk 
+ 4 Mike Bovarnick         Phyllis Gravitz          A   Q            3     .     .   |   1     .     .    149.50  61.52  0.94Red 
+                                                                                                                        0.93Blk 
+ 5 B Drajpuch             Stephen Kalish           B                .     .     .   |   .     .     .    103.00  42.39          
+
+ 6 Mike Ring              Shawn Abernethy          B       Q        .     .     .   |   .     .     .    112.00  46.09          
+
+ 7 Hugh Hendrickson       Z Kadah                  B   Q   Q        .     3     .   |   .     1     .    118.50  48.77  0.66Red 
+                                                                                                                        0.65Blk 
+ 8 Dennis Heller          Connie Heller            A   Q            4     .     .   |   2     .     .    145.00  59.67  0.70Red 
+                                                                                                                        0.70Blk 
+ 9 Brian Zaugg            Jeffrey Ford             A   Q            .     .     .   |   4     .     .    130.00  53.50  0.29Red 
+                                                                                                                        0.29Blk 
+10 Paul Schwaighart       Helen Abbott             A   Q            5     .     .   |   3     .     .    141.50  58.23  0.53Red 
+                                                                                                                        0.52Blk 
+
+                                          Totals                                                        1215.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>June 3, 2014       |CLUB NO.>158048    | 06/03/2014 22:40
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>North American Pairs - Club  |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/NLM  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=1                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Penny Lepp             Ray Lepp                 C           Q    .     .     .   |   .     .     .     98.50  40.53          
+
+ 2 Gary Haldane           Sharon Miller            B   Q   Q        .     1     .   |   .     1     .    126.50  52.06  1.17Red 
+                                                                                                                        1.16Blk 
+ 3 Edward Horwitz         John Krah                B                .     .     .   |   .     .     .     87.50  36.01          
+
+ 4 Ken Christiansen       Mike Christensen         A   Q            6     .     .   |   3     .     .    135.00  55.56  0.42Red 
+                                                                                                                        0.42Blk 
+ 5 Dell Berg              David Hankins            A   Q            2     .     .   |   2     .     .    151.50  62.35  1.25Red 
+                                                                                                                        1.25Blk 
+ 6 Galen Hesson           Nick Tipton              B                .     .     .   |   .     .     .     93.50  38.48          
+
+ 7 Clay Laughary          Pete Cowles              B       Q        .     2     .   |   .     2     .    120.00  49.38  0.88Red 
+                                                                                                                        0.87Blk 
+ 8 Corneliu Galer         Hal Antonson             A   Q            .     .     .   |   4     .     .    132.50  54.53  0.29Red 
+                                                                                                                        0.29Blk 
+ 9 Aaron Mohrman          Joel Fuhrman             B       Q        .     4     .   |   .     .     .    116.50  47.94  0.49Red 
+                                                                                                                        0.49Blk 
+10 Suzanne Sax            Amy DeShaw               A   Q            1     .     .   |   1     .     .    153.50  63.17  1.67Red 
+                                                                                                                        1.66Blk 
+
+                                          Totals                                                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          9.00   0.00 1-Campbell-Westgate vs 1-Lepp-Lepp
+        110    2.50   6.50 2-Ballantyne-Diaconescu vs 4-Christiansen-Christensen
+         50    6.00   3.00 3-Eng-Pesce vs 6-Hesson-Tipton
+         50    6.00   3.00 4-Bovarnick-Gravitz vs 8-Galer-Antonson
+         50    6.00   3.00 5-Drajpuch-Kalish vs 10-Sax-DeShaw
+        110    2.50   6.50 6-Ring-Abernethy vs 3-Horwitz-Krah
+        200    1.00   8.00 7-Hendrickson-Kadah vs 5-Berg-Hankins
+        530    0.00   9.00 8-Heller-Heller vs 7-Laughary-Cowles
+         50    6.00   3.00 9-Zaugg-Ford vs 9-Mohrman-Fuhrman
+         50    6.00   3.00 10-Schwaighart-Abbott vs 2-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  730          9.00   0.00 1-Campbell-Westgate vs 1-Lepp-Lepp
+        420    0.00   9.00 2-Ballantyne-Diaconescu vs 4-Christiansen-Christensen
+  100          4.50   4.50 3-Eng-Pesce vs 6-Hesson-Tipton
+   50          3.00   6.00 4-Bovarnick-Gravitz vs 8-Galer-Antonson
+  100          4.50   4.50 5-Drajpuch-Kalish vs 10-Sax-DeShaw
+  150          6.50   2.50 6-Ring-Abernethy vs 3-Horwitz-Krah
+  500          8.00   1.00 7-Hendrickson-Kadah vs 5-Berg-Hankins
+  150          6.50   2.50 8-Heller-Heller vs 7-Laughary-Cowles
+        100    2.00   7.00 9-Zaugg-Ford vs 9-Mohrman-Fuhrman
+        200    1.00   8.00 10-Schwaighart-Abbott vs 2-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          7.00   2.00 1-Campbell-Westgate vs 1-Lepp-Lepp
+  110          4.50   4.50 2-Ballantyne-Diaconescu vs 4-Christiansen-Christensen
+         50    1.50   7.50 3-Eng-Pesce vs 6-Hesson-Tipton
+   90          3.00   6.00 4-Bovarnick-Gravitz vs 8-Galer-Antonson
+         50    1.50   7.50 5-Drajpuch-Kalish vs 10-Sax-DeShaw
+         90    0.00   9.00 6-Ring-Abernethy vs 3-Horwitz-Krah
+  110          4.50   4.50 7-Hendrickson-Kadah vs 5-Berg-Hankins
+  140          8.50   0.50 8-Heller-Heller vs 7-Laughary-Cowles
+  140          8.50   0.50 9-Zaugg-Ford vs 9-Mohrman-Fuhrman
+  120          6.00   3.00 10-Schwaighart-Abbott vs 2-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.00   7.00 1-Campbell-Westgate vs 10-Sax-DeShaw
+        600    4.00   5.00 2-Ballantyne-Diaconescu vs 2-Haldane-Miller
+        650    1.00   8.00 3-Eng-Pesce vs 5-Berg-Hankins
+  100          7.50   1.50 4-Bovarnick-Gravitz vs 7-Laughary-Cowles
+        150    6.00   3.00 5-Drajpuch-Kalish vs 9-Mohrman-Fuhrman
+        600    4.00   5.00 6-Ring-Abernethy vs 4-Christiansen-Christensen
+        600    4.00   5.00 7-Hendrickson-Kadah vs 6-Hesson-Tipton
+        660    0.00   9.00 8-Heller-Heller vs 8-Galer-Antonson
+  100          7.50   1.50 9-Zaugg-Ford vs 1-Lepp-Lepp
+  200          9.00   0.00 10-Schwaighart-Abbott vs 3-Horwitz-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.00   9.00 1-Campbell-Westgate vs 10-Sax-DeShaw
+   50          5.00   4.00 2-Ballantyne-Diaconescu vs 2-Haldane-Miller
+        110    1.50   7.50 3-Eng-Pesce vs 5-Berg-Hankins
+   50          5.00   4.00 4-Bovarnick-Gravitz vs 7-Laughary-Cowles
+        110    1.50   7.50 5-Drajpuch-Kalish vs 9-Mohrman-Fuhrman
+   50          5.00   4.00 6-Ring-Abernethy vs 4-Christiansen-Christensen
+ 1100          9.00   0.00 7-Hendrickson-Kadah vs 6-Hesson-Tipton
+  150          8.00   1.00 8-Heller-Heller vs 8-Galer-Antonson
+         90    3.00   6.00 9-Zaugg-Ford vs 1-Lepp-Lepp
+  100          7.00   2.00 10-Schwaighart-Abbott vs 3-Horwitz-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   8.00 1-Campbell-Westgate vs 10-Sax-DeShaw
+  140          8.00   1.00 2-Ballantyne-Diaconescu vs 2-Haldane-Miller
+         50    5.50   3.50 3-Eng-Pesce vs 5-Berg-Hankins
+        170    2.00   7.00 4-Bovarnick-Gravitz vs 7-Laughary-Cowles
+  400          9.00   0.00 5-Drajpuch-Kalish vs 9-Mohrman-Fuhrman
+        790    0.00   9.00 6-Ring-Abernethy vs 4-Christiansen-Christensen
+         50    5.50   3.50 7-Hendrickson-Kadah vs 6-Hesson-Tipton
+         50    5.50   3.50 8-Heller-Heller vs 8-Galer-Antonson
+         50    5.50   3.50 9-Zaugg-Ford vs 1-Lepp-Lepp
+        100    3.00   6.00 10-Schwaighart-Abbott vs 3-Horwitz-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    7.00   2.00 1-Campbell-Westgate vs 9-Mohrman-Fuhrman
+        620    5.50   3.50 2-Ballantyne-Diaconescu vs 1-Lepp-Lepp
+        170    8.50   0.50 3-Eng-Pesce vs 3-Horwitz-Krah
+        170    8.50   0.50 4-Bovarnick-Gravitz vs 6-Hesson-Tipton
+        650    2.50   6.50 5-Drajpuch-Kalish vs 8-Galer-Antonson
+        650    2.50   6.50 6-Ring-Abernethy vs 5-Berg-Hankins
+        650    2.50   6.50 7-Hendrickson-Kadah vs 7-Laughary-Cowles
+        620    5.50   3.50 8-Heller-Heller vs 10-Sax-DeShaw
+        790    0.00   9.00 9-Zaugg-Ford vs 2-Haldane-Miller
+        650    2.50   6.50 10-Schwaighart-Abbott vs 4-Christiansen-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    5.50   3.50 1-Campbell-Westgate vs 9-Mohrman-Fuhrman
+   50          8.50   0.50 2-Ballantyne-Diaconescu vs 1-Lepp-Lepp
+        400    1.00   8.00 3-Eng-Pesce vs 3-Horwitz-Krah
+         90    7.00   2.00 4-Bovarnick-Gravitz vs 6-Hesson-Tipton
+        140    3.00   6.00 5-Drajpuch-Kalish vs 8-Galer-Antonson
+        110    5.50   3.50 6-Ring-Abernethy vs 5-Berg-Hankins
+        140    3.00   6.00 7-Hendrickson-Kadah vs 7-Laughary-Cowles
+        140    3.00   6.00 8-Heller-Heller vs 10-Sax-DeShaw
+        800    0.00   9.00 9-Zaugg-Ford vs 2-Haldane-Miller
+   50          8.50   0.50 10-Schwaighart-Abbott vs 4-Christiansen-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   8.00 1-Campbell-Westgate vs 9-Mohrman-Fuhrman
+  100          5.00   4.00 2-Ballantyne-Diaconescu vs 1-Lepp-Lepp
+  300          9.00   0.00 3-Eng-Pesce vs 3-Horwitz-Krah
+  100          5.00   4.00 4-Bovarnick-Gravitz vs 6-Hesson-Tipton
+        130    0.00   9.00 5-Drajpuch-Kalish vs 8-Galer-Antonson
+  100          5.00   4.00 6-Ring-Abernethy vs 5-Berg-Hankins
+  100          5.00   4.00 7-Hendrickson-Kadah vs 7-Laughary-Cowles
+  200          8.00   1.00 8-Heller-Heller vs 10-Sax-DeShaw
+  100          5.00   4.00 9-Zaugg-Ford vs 2-Haldane-Miller
+         50    2.00   7.00 10-Schwaighart-Abbott vs 4-Christiansen-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.50   1.50 1-Campbell-Westgate vs 8-Galer-Antonson
+  100          1.00   8.00 2-Ballantyne-Diaconescu vs 10-Sax-DeShaw
+  500          9.00   0.00 3-Eng-Pesce vs 2-Haldane-Miller
+  200          7.50   1.50 4-Bovarnick-Gravitz vs 4-Christiansen-Christensen
+  130          4.00   5.00 5-Drajpuch-Kalish vs 7-Laughary-Cowles
+  110          2.50   6.50 6-Ring-Abernethy vs 6-Hesson-Tipton
+  110          2.50   6.50 7-Hendrickson-Kadah vs 9-Mohrman-Fuhrman
+  140          5.50   3.50 8-Heller-Heller vs 1-Lepp-Lepp
+        200    0.00   9.00 9-Zaugg-Ford vs 3-Horwitz-Krah
+  140          5.50   3.50 10-Schwaighart-Abbott vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          4.00   5.00 1-Campbell-Westgate vs 8-Galer-Antonson
+  460          4.00   5.00 2-Ballantyne-Diaconescu vs 10-Sax-DeShaw
+  460          4.00   5.00 3-Eng-Pesce vs 2-Haldane-Miller
+  430          0.00   9.00 4-Bovarnick-Gravitz vs 4-Christiansen-Christensen
+  460          4.00   5.00 5-Drajpuch-Kalish vs 7-Laughary-Cowles
+  490          8.50   0.50 6-Ring-Abernethy vs 6-Hesson-Tipton
+  460          4.00   5.00 7-Hendrickson-Kadah vs 9-Mohrman-Fuhrman
+  460          4.00   5.00 8-Heller-Heller vs 1-Lepp-Lepp
+  490          8.50   0.50 9-Zaugg-Ford vs 3-Horwitz-Krah
+  460          4.00   5.00 10-Schwaighart-Abbott vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    3.00   6.00 1-Campbell-Westgate vs 8-Galer-Antonson
+  100          9.00   0.00 2-Ballantyne-Diaconescu vs 10-Sax-DeShaw
+        490    3.00   6.00 3-Eng-Pesce vs 2-Haldane-Miller
+        460    5.50   3.50 4-Bovarnick-Gravitz vs 4-Christiansen-Christensen
+       1100    1.00   8.00 5-Drajpuch-Kalish vs 7-Laughary-Cowles
+   50          7.50   1.50 6-Ring-Abernethy vs 6-Hesson-Tipton
+        490    3.00   6.00 7-Hendrickson-Kadah vs 9-Mohrman-Fuhrman
+        460    5.50   3.50 8-Heller-Heller vs 1-Lepp-Lepp
+   50          7.50   1.50 9-Zaugg-Ford vs 3-Horwitz-Krah
+       1400    0.00   9.00 10-Schwaighart-Abbott vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   6.50 1-Campbell-Westgate vs 7-Laughary-Cowles
+        200    0.00   9.00 2-Ballantyne-Diaconescu vs 9-Mohrman-Fuhrman
+        100    6.00   3.00 3-Eng-Pesce vs 1-Lepp-Lepp
+   90          8.00   1.00 4-Bovarnick-Gravitz vs 3-Horwitz-Krah
+        140    2.50   6.50 5-Drajpuch-Kalish vs 5-Berg-Hankins
+        140    2.50   6.50 6-Ring-Abernethy vs 8-Galer-Antonson
+        100    6.00   3.00 7-Hendrickson-Kadah vs 10-Sax-DeShaw
+        100    6.00   3.00 8-Heller-Heller vs 2-Haldane-Miller
+        140    2.50   6.50 9-Zaugg-Ford vs 4-Christiansen-Christensen
+  130          9.00   0.00 10-Schwaighart-Abbott vs 6-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   9.00 1-Campbell-Westgate vs 7-Laughary-Cowles
+         50    2.00   7.00 2-Ballantyne-Diaconescu vs 9-Mohrman-Fuhrman
+  140          6.00   3.00 3-Eng-Pesce vs 1-Lepp-Lepp
+  300          9.00   0.00 4-Bovarnick-Gravitz vs 3-Horwitz-Krah
+        100    1.00   8.00 5-Drajpuch-Kalish vs 5-Berg-Hankins
+   50          3.00   6.00 6-Ring-Abernethy vs 8-Galer-Antonson
+  100          4.00   5.00 7-Hendrickson-Kadah vs 10-Sax-DeShaw
+  140          6.00   3.00 8-Heller-Heller vs 2-Haldane-Miller
+  170          8.00   1.00 9-Zaugg-Ford vs 4-Christiansen-Christensen
+  140          6.00   3.00 10-Schwaighart-Abbott vs 6-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.50   6.50 1-Campbell-Westgate vs 7-Laughary-Cowles
+        130    2.50   6.50 2-Ballantyne-Diaconescu vs 9-Mohrman-Fuhrman
+        100    4.50   4.50 3-Eng-Pesce vs 1-Lepp-Lepp
+  170          7.50   1.50 4-Bovarnick-Gravitz vs 3-Horwitz-Krah
+        500    0.00   9.00 5-Drajpuch-Kalish vs 5-Berg-Hankins
+  170          7.50   1.50 6-Ring-Abernethy vs 8-Galer-Antonson
+        400    1.00   8.00 7-Hendrickson-Kadah vs 10-Sax-DeShaw
+  170          7.50   1.50 8-Heller-Heller vs 2-Haldane-Miller
+        100    4.50   4.50 9-Zaugg-Ford vs 4-Christiansen-Christensen
+  170          7.50   1.50 10-Schwaighart-Abbott vs 6-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   8.00 1-Campbell-Westgate vs 6-Hesson-Tipton
+        600    3.00   6.00 2-Ballantyne-Diaconescu vs 8-Galer-Antonson
+        600    3.00   6.00 3-Eng-Pesce vs 10-Sax-DeShaw
+        600    3.00   6.00 4-Bovarnick-Gravitz vs 2-Haldane-Miller
+        100    6.50   2.50 5-Drajpuch-Kalish vs 4-Christiansen-Christensen
+        100    6.50   2.50 6-Ring-Abernethy vs 9-Mohrman-Fuhrman
+       1370    0.00   9.00 7-Hendrickson-Kadah vs 1-Lepp-Lepp
+        100    6.50   2.50 8-Heller-Heller vs 3-Horwitz-Krah
+        100    6.50   2.50 9-Zaugg-Ford vs 5-Berg-Hankins
+  590          9.00   0.00 10-Schwaighart-Abbott vs 7-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   7.00 1-Campbell-Westgate vs 6-Hesson-Tipton
+        500    0.00   9.00 2-Ballantyne-Diaconescu vs 8-Galer-Antonson
+        110    4.50   4.50 3-Eng-Pesce vs 10-Sax-DeShaw
+    PASS       7.00   2.00 4-Bovarnick-Gravitz vs 2-Haldane-Miller
+  100          8.50   0.50 5-Drajpuch-Kalish vs 4-Christiansen-Christensen
+        110    4.50   4.50 6-Ring-Abernethy vs 9-Mohrman-Fuhrman
+        140    2.00   7.00 7-Hendrickson-Kadah vs 1-Lepp-Lepp
+        100    6.00   3.00 8-Heller-Heller vs 3-Horwitz-Krah
+        140    2.00   7.00 9-Zaugg-Ford vs 5-Berg-Hankins
+  100          8.50   0.50 10-Schwaighart-Abbott vs 7-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    4.50   4.50 1-Campbell-Westgate vs 6-Hesson-Tipton
+        650    1.00   8.00 2-Ballantyne-Diaconescu vs 8-Galer-Antonson
+       1100    0.00   9.00 3-Eng-Pesce vs 10-Sax-DeShaw
+        450    4.50   4.50 4-Bovarnick-Gravitz vs 2-Haldane-Miller
+        450    4.50   4.50 5-Drajpuch-Kalish vs 4-Christiansen-Christensen
+   50          8.00   1.00 6-Ring-Abernethy vs 9-Mohrman-Fuhrman
+        450    4.50   4.50 7-Hendrickson-Kadah vs 1-Lepp-Lepp
+  200          9.00   0.00 8-Heller-Heller vs 3-Horwitz-Krah
+        450    4.50   4.50 9-Zaugg-Ford vs 5-Berg-Hankins
+        450    4.50   4.50 10-Schwaighart-Abbott vs 7-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.00   7.00 1-Campbell-Westgate vs 5-Berg-Hankins
+  400          4.00   5.00 2-Ballantyne-Diaconescu vs 7-Laughary-Cowles
+  430          7.50   1.50 3-Eng-Pesce vs 9-Mohrman-Fuhrman
+  430          7.50   1.50 4-Bovarnick-Gravitz vs 1-Lepp-Lepp
+  430          7.50   1.50 5-Drajpuch-Kalish vs 3-Horwitz-Krah
+        200    0.00   9.00 6-Ring-Abernethy vs 10-Sax-DeShaw
+         50    1.00   8.00 7-Hendrickson-Kadah vs 2-Haldane-Miller
+  400          4.00   5.00 8-Heller-Heller vs 4-Christiansen-Christensen
+  430          7.50   1.50 9-Zaugg-Ford vs 6-Hesson-Tipton
+  400          4.00   5.00 10-Schwaighart-Abbott vs 8-Galer-Antonson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    5.50   3.50 1-Campbell-Westgate vs 5-Berg-Hankins
+        140    5.50   3.50 2-Ballantyne-Diaconescu vs 7-Laughary-Cowles
+        170    1.00   8.00 3-Eng-Pesce vs 9-Mohrman-Fuhrman
+        140    5.50   3.50 4-Bovarnick-Gravitz vs 1-Lepp-Lepp
+        140    5.50   3.50 5-Drajpuch-Kalish vs 3-Horwitz-Krah
+        140    5.50   3.50 6-Ring-Abernethy vs 10-Sax-DeShaw
+        140    5.50   3.50 7-Hendrickson-Kadah vs 2-Haldane-Miller
+        140    5.50   3.50 8-Heller-Heller vs 4-Christiansen-Christensen
+        730    0.00   9.00 9-Zaugg-Ford vs 6-Hesson-Tipton
+        140    5.50   3.50 10-Schwaighart-Abbott vs 8-Galer-Antonson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       7.00   2.00 1-Campbell-Westgate vs 5-Berg-Hankins
+        140    2.50   6.50 2-Ballantyne-Diaconescu vs 7-Laughary-Cowles
+        140    2.50   6.50 3-Eng-Pesce vs 9-Mohrman-Fuhrman
+   50          8.50   0.50 4-Bovarnick-Gravitz vs 1-Lepp-Lepp
+        140    2.50   6.50 5-Drajpuch-Kalish vs 3-Horwitz-Krah
+        140    2.50   6.50 6-Ring-Abernethy vs 10-Sax-DeShaw
+        110    6.00   3.00 7-Hendrickson-Kadah vs 2-Haldane-Miller
+        140    2.50   6.50 8-Heller-Heller vs 4-Christiansen-Christensen
+        140    2.50   6.50 9-Zaugg-Ford vs 6-Hesson-Tipton
+   50          8.50   0.50 10-Schwaighart-Abbott vs 8-Galer-Antonson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   8.00 1-Campbell-Westgate vs 4-Christiansen-Christensen
+         90    4.00   5.00 2-Ballantyne-Diaconescu vs 6-Hesson-Tipton
+         90    4.00   5.00 3-Eng-Pesce vs 8-Galer-Antonson
+        110    2.00   7.00 4-Bovarnick-Gravitz vs 10-Sax-DeShaw
+        150    0.00   9.00 5-Drajpuch-Kalish vs 2-Haldane-Miller
+  100          8.50   0.50 6-Ring-Abernethy vs 1-Lepp-Lepp
+         50    6.50   2.50 7-Hendrickson-Kadah vs 3-Horwitz-Krah
+         90    4.00   5.00 8-Heller-Heller vs 5-Berg-Hankins
+  100          8.50   0.50 9-Zaugg-Ford vs 7-Laughary-Cowles
+         50    6.50   2.50 10-Schwaighart-Abbott vs 9-Mohrman-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   6.00 1-Campbell-Westgate vs 4-Christiansen-Christensen
+  620          7.00   2.00 2-Ballantyne-Diaconescu vs 6-Hesson-Tipton
+  140          5.50   3.50 3-Eng-Pesce vs 8-Galer-Antonson
+  110          3.00   6.00 4-Bovarnick-Gravitz vs 10-Sax-DeShaw
+  110          3.00   6.00 5-Drajpuch-Kalish vs 2-Haldane-Miller
+        100    1.00   8.00 6-Ring-Abernethy vs 1-Lepp-Lepp
+  800          8.50   0.50 7-Hendrickson-Kadah vs 3-Horwitz-Krah
+        200    0.00   9.00 8-Heller-Heller vs 5-Berg-Hankins
+  140          5.50   3.50 9-Zaugg-Ford vs 7-Laughary-Cowles
+  800          8.50   0.50 10-Schwaighart-Abbott vs 9-Mohrman-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   7.00 1-Campbell-Westgate vs 4-Christiansen-Christensen
+  200          7.00   2.00 2-Ballantyne-Diaconescu vs 6-Hesson-Tipton
+   50          5.00   4.00 3-Eng-Pesce vs 8-Galer-Antonson
+         80    4.00   5.00 4-Bovarnick-Gravitz vs 10-Sax-DeShaw
+        110    3.00   6.00 5-Drajpuch-Kalish vs 2-Haldane-Miller
+        470    0.00   9.00 6-Ring-Abernethy vs 1-Lepp-Lepp
+  500          8.00   1.00 7-Hendrickson-Kadah vs 3-Horwitz-Krah
+  100          6.00   3.00 8-Heller-Heller vs 5-Berg-Hankins
+  510          9.00   0.00 9-Zaugg-Ford vs 7-Laughary-Cowles
+        300    1.00   8.00 10-Schwaighart-Abbott vs 9-Mohrman-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   9.00 1-Campbell-Westgate vs 3-Horwitz-Krah
+        120    2.50   6.50 2-Ballantyne-Diaconescu vs 5-Berg-Hankins
+         50    6.00   3.00 3-Eng-Pesce vs 7-Laughary-Cowles
+  200          8.00   1.00 4-Bovarnick-Gravitz vs 9-Mohrman-Fuhrman
+         90    5.00   4.00 5-Drajpuch-Kalish vs 1-Lepp-Lepp
+        120    2.50   6.50 6-Ring-Abernethy vs 2-Haldane-Miller
+        120    2.50   6.50 7-Hendrickson-Kadah vs 4-Christiansen-Christensen
+  300          9.00   0.00 8-Heller-Heller vs 6-Hesson-Tipton
+  180          7.00   2.00 9-Zaugg-Ford vs 8-Galer-Antonson
+        120    2.50   6.50 10-Schwaighart-Abbott vs 10-Sax-DeShaw
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.00   5.00 1-Campbell-Westgate vs 3-Horwitz-Krah
+  680          4.00   5.00 2-Ballantyne-Diaconescu vs 5-Berg-Hankins
+  680          4.00   5.00 3-Eng-Pesce vs 7-Laughary-Cowles
+  680          4.00   5.00 4-Bovarnick-Gravitz vs 9-Mohrman-Fuhrman
+  680          4.00   5.00 5-Drajpuch-Kalish vs 1-Lepp-Lepp
+  680          4.00   5.00 6-Ring-Abernethy vs 2-Haldane-Miller
+ 1100          9.00   0.00 7-Hendrickson-Kadah vs 4-Christiansen-Christensen
+  680          4.00   5.00 8-Heller-Heller vs 6-Hesson-Tipton
+  680          4.00   5.00 9-Zaugg-Ford vs 8-Galer-Antonson
+  680          4.00   5.00 10-Schwaighart-Abbott vs 10-Sax-DeShaw
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   4.50 1-Campbell-Westgate vs 3-Horwitz-Krah
+        110    0.00   9.00 2-Ballantyne-Diaconescu vs 5-Berg-Hankins
+        100    2.00   7.00 3-Eng-Pesce vs 7-Laughary-Cowles
+   90          8.00   1.00 4-Bovarnick-Gravitz vs 9-Mohrman-Fuhrman
+   50          6.50   2.50 5-Drajpuch-Kalish vs 1-Lepp-Lepp
+   50          6.50   2.50 6-Ring-Abernethy vs 2-Haldane-Miller
+        100    2.00   7.00 7-Hendrickson-Kadah vs 4-Christiansen-Christensen
+  120          9.00   0.00 8-Heller-Heller vs 6-Hesson-Tipton
+         50    4.50   4.50 9-Zaugg-Ford vs 8-Galer-Antonson
+        100    2.00   7.00 10-Schwaighart-Abbott vs 10-Sax-DeShaw
+----------------------------------------------------------------------

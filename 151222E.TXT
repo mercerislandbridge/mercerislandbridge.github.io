@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 22, 2015  |CLUB NO.>158048    | 12/29/2015 18:06
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff / Brian    |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=8/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 John Stafford          David Binney             A    5     .     .     89.92  57.64  0.30(A) 
+
+ 2 Jeffrey Ford           Christopher Jarvis       A    4     .     .     91.54  58.68  0.53(A) 
+
+ 3 Ruth Bunin             Mike Bovarnick           A    .     .     .     69.50  44.55          
+
+ 4 William Campbell       Hugh Hendrickson         C    .     .     .     54.71  35.07          
+
+ 5 Corneliu Galer         Jingsong Liu             B    .     .     .     79.63  51.04          
+
+ 6 Brian Zaugg            John Krah                B    .     .     .     56.33  36.11          
+
+ 7 Marvin Gray            Thomas Brown             C    .     .     2     71.50  45.83  0.22(C) 
+
+ 8 Edith DeShaw           Amy DeShaw               A    .     .     .     73.67  47.22          
+
+ 9 Stanford Christie      Shawn Abernethy          A    .     .     .     69.88  44.79          
+
+10 Brad Rind              Terry Jacobson           C    .     3     1     83.50  53.53  0.32(B) 
+
+11 Howard Epley           Karen Epley              A   2/3    .     .     92.08  59.03  0.90(A) 
+
+12 David Hankins          Kevin Cline              B    1     1     .    100.75  64.58  1.50(A) 
+
+
+
+14 Ann Romeo              Beau Hovda               C    .     .     .     59.04  37.85          
+
+15 Mike Christensen       David Wright             B   2/3    2     .     92.08  59.03  0.90(A) 
+
+16 Connie Heller          Dennis Heller            A    6     .     .     86.13  55.21  0.25(A) 
+
+
+                                          Totals                        1170.26       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   3.00 4-Campbell-Hendrickson vs 14-Romeo-Hovda
+  450          3.00   3.00 6-Zaugg-Krah vs 5-Galer-Liu
+  450          3.00   3.00 8-DeShaw-DeShaw vs 12-Hankins-Cline
+  450          3.00   3.00 9-Christie-Abernethy vs 11-Epley-Epley
+  450          3.00   3.00 10-Rind-Jacobson vs 2-Ford-Jarvis
+  450          3.00   3.00 15-Christensen-Wright vs 3-Bunin-Bovarnick
+  450          3.00   3.00 16-Heller-Heller vs 1-Stafford-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   4.50 4-Campbell-Hendrickson vs 14-Romeo-Hovda
+  670          5.00   1.00 6-Zaugg-Krah vs 5-Galer-Liu
+        200    1.50   4.50 8-DeShaw-DeShaw vs 12-Hankins-Cline
+  150          4.00   2.00 9-Christie-Abernethy vs 11-Epley-Epley
+  730          6.00   0.00 10-Rind-Jacobson vs 2-Ford-Jarvis
+  100          3.00   3.00 15-Christensen-Wright vs 3-Bunin-Bovarnick
+        800    0.00   6.00 16-Heller-Heller vs 1-Stafford-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   4.50 1-Stafford-Binney vs 8-DeShaw-DeShaw
+        650    1.50   4.50 4-Campbell-Hendrickson vs 15-Christensen-Wright
+        200    5.50   0.50 5-Galer-Liu vs 14-Romeo-Hovda
+        300    4.00   2.00 7-Gray-Brown vs 6-Zaugg-Krah
+        650    1.50   4.50 10-Rind-Jacobson vs 12-Hankins-Cline
+        200    5.50   0.50 11-Epley-Epley vs 3-Bunin-Bovarnick
+        650    1.50   4.50 16-Heller-Heller vs 2-Ford-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   0.50 1-Stafford-Binney vs 8-DeShaw-DeShaw
+        650    0.00   6.00 4-Campbell-Hendrickson vs 15-Christensen-Wright
+  100          5.50   0.50 5-Galer-Liu vs 14-Romeo-Hovda
+        620    2.50   3.50 7-Gray-Brown vs 6-Zaugg-Krah
+        620    2.50   3.50 10-Rind-Jacobson vs 12-Hankins-Cline
+        140    4.00   2.00 11-Epley-Epley vs 3-Bunin-Bovarnick
+        630    1.00   5.00 16-Heller-Heller vs 2-Ford-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    0.00   6.00 2-Ford-Jarvis vs 9-Christie-Abernethy
+        460    1.50   4.50 5-Galer-Liu vs 15-Christensen-Wright
+        400    3.00   3.00 6-Zaugg-Krah vs 14-Romeo-Hovda
+  100          5.50   0.50 8-DeShaw-DeShaw vs 7-Gray-Brown
+        460    1.50   4.50 10-Rind-Jacobson vs 1-Stafford-Binney
+  100          5.50   0.50 12-Hankins-Cline vs 4-Campbell-Hendrickson
+        140    4.00   2.00 16-Heller-Heller vs 3-Bunin-Bovarnick
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.00   3.00 2-Ford-Jarvis vs 9-Christie-Abernethy
+  480          3.00   3.00 5-Galer-Liu vs 15-Christensen-Wright
+       1600    0.00   6.00 6-Zaugg-Krah vs 14-Romeo-Hovda
+  480          3.00   3.00 8-DeShaw-DeShaw vs 7-Gray-Brown
+  480          3.00   3.00 10-Rind-Jacobson vs 1-Stafford-Binney
+  980          6.00   0.00 12-Hankins-Cline vs 4-Campbell-Hendrickson
+  480          3.00   3.00 16-Heller-Heller vs 3-Bunin-Bovarnick
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   4.50 3-Bunin-Bovarnick vs 10-Rind-Jacobson
+        200    0.00   6.00 6-Zaugg-Krah vs 15-Christensen-Wright
+  110          5.50   0.50 9-Christie-Abernethy vs 8-DeShaw-DeShaw
+        110    3.00   3.00 11-Epley-Epley vs 2-Ford-Jarvis
+  110          5.50   0.50 12-Hankins-Cline vs 1-Stafford-Binney
+        100    4.00   2.00 14-Romeo-Hovda vs 7-Gray-Brown
+        140    1.50   4.50 16-Heller-Heller vs 4-Campbell-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   6.00 3-Bunin-Bovarnick vs 10-Rind-Jacobson
+         50    1.00   5.00 6-Zaugg-Krah vs 15-Christensen-Wright
+  420          6.00   0.00 9-Christie-Abernethy vs 8-DeShaw-DeShaw
+  100          2.00   4.00 11-Epley-Epley vs 2-Ford-Jarvis
+  400          4.00   2.00 12-Hankins-Cline vs 1-Stafford-Binney
+  400          4.00   2.00 14-Romeo-Hovda vs 7-Gray-Brown
+  400          4.00   2.00 16-Heller-Heller vs 4-Campbell-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.00   4.00 1-Stafford-Binney vs 6-Zaugg-Krah
+        150    2.00   4.00 4-Campbell-Hendrickson vs 11-Epley-Epley
+        130    4.50   1.50 7-Gray-Brown vs 15-Christensen-Wright
+  100          6.00   0.00 10-Rind-Jacobson vs 9-Christie-Abernethy
+        200    0.00   6.00 12-Hankins-Cline vs 3-Bunin-Bovarnick
+        150    2.00   4.00 14-Romeo-Hovda vs 8-DeShaw-DeShaw
+        130    4.50   1.50 16-Heller-Heller vs 5-Galer-Liu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   3.00 1-Stafford-Binney vs 6-Zaugg-Krah
+        110    3.00   3.00 4-Campbell-Hendrickson vs 11-Epley-Epley
+        110    3.00   3.00 7-Gray-Brown vs 15-Christensen-Wright
+        110    3.00   3.00 10-Rind-Jacobson vs 9-Christie-Abernethy
+        110    3.00   3.00 12-Hankins-Cline vs 3-Bunin-Bovarnick
+        110    3.00   3.00 14-Romeo-Hovda vs 8-DeShaw-DeShaw
+        110    3.00   3.00 16-Heller-Heller vs 5-Galer-Liu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.00   0.00 1-Stafford-Binney vs 3-Bunin-Bovarnick
+        100    0.00   6.00 2-Ford-Jarvis vs 7-Gray-Brown
+         50    2.50   3.50 5-Galer-Liu vs 12-Hankins-Cline
+         50    2.50   3.50 8-DeShaw-DeShaw vs 15-Christensen-Wright
+         50    2.50   3.50 11-Epley-Epley vs 10-Rind-Jacobson
+         50    2.50   3.50 14-Romeo-Hovda vs 9-Christie-Abernethy
+   50          5.00   1.00 16-Heller-Heller vs 6-Zaugg-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   5.50 1-Stafford-Binney vs 3-Bunin-Bovarnick
+  130          6.00   0.00 2-Ford-Jarvis vs 7-Gray-Brown
+        110    3.00   3.00 5-Galer-Liu vs 12-Hankins-Cline
+        140    0.50   5.50 8-DeShaw-DeShaw vs 15-Christensen-Wright
+   50          5.00   1.00 11-Epley-Epley vs 10-Rind-Jacobson
+        110    3.00   3.00 14-Romeo-Hovda vs 9-Christie-Abernethy
+        110    3.00   3.00 16-Heller-Heller vs 6-Zaugg-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   0.00 1-Stafford-Binney vs 5-Galer-Liu
+        200    4.00   2.00 2-Ford-Jarvis vs 4-Campbell-Hendrickson
+        650    2.50   3.50 3-Bunin-Bovarnick vs 8-DeShaw-DeShaw
+        990    0.50   5.50 9-Christie-Abernethy vs 15-Christensen-Wright
+        990    0.50   5.50 12-Hankins-Cline vs 11-Epley-Epley
+  140          5.00   1.00 14-Romeo-Hovda vs 10-Rind-Jacobson
+        650    2.50   3.50 16-Heller-Heller vs 7-Gray-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        590    0.00   6.00 1-Stafford-Binney vs 5-Galer-Liu
+  130          5.00   1.00 2-Ford-Jarvis vs 4-Campbell-Hendrickson
+         50    3.00   3.00 3-Bunin-Bovarnick vs 8-DeShaw-DeShaw
+        420    1.00   5.00 9-Christie-Abernethy vs 15-Christensen-Wright
+  400          6.00   0.00 12-Hankins-Cline vs 11-Epley-Epley
+         50    3.00   3.00 14-Romeo-Hovda vs 10-Rind-Jacobson
+         50    3.00   3.00 16-Heller-Heller vs 7-Gray-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  670          6.00   0.00 2-Ford-Jarvis vs 6-Zaugg-Krah
+  110          4.00   2.00 3-Bunin-Bovarnick vs 5-Galer-Liu
+        110    0.50   5.50 4-Campbell-Hendrickson vs 9-Christie-Abernethy
+  110          4.00   2.00 7-Gray-Brown vs 1-Stafford-Binney
+        100    2.00   4.00 10-Rind-Jacobson vs 15-Christensen-Wright
+        110    0.50   5.50 14-Romeo-Hovda vs 11-Epley-Epley
+  110          4.00   2.00 16-Heller-Heller vs 8-DeShaw-DeShaw
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   3.00 2-Ford-Jarvis vs 6-Zaugg-Krah
+        140    3.00   3.00 3-Bunin-Bovarnick vs 5-Galer-Liu
+        100    5.50   0.50 4-Campbell-Hendrickson vs 9-Christie-Abernethy
+        170    1.00   5.00 7-Gray-Brown vs 1-Stafford-Binney
+        140    3.00   3.00 10-Rind-Jacobson vs 15-Christensen-Wright
+        500    0.00   6.00 14-Romeo-Hovda vs 11-Epley-Epley
+        100    5.50   0.50 16-Heller-Heller vs 8-DeShaw-DeShaw
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   5.00 3-Bunin-Bovarnick vs 7-Gray-Brown
+  100          3.50   2.50 4-Campbell-Hendrickson vs 6-Zaugg-Krah
+        100    0.00   6.00 5-Galer-Liu vs 10-Rind-Jacobson
+  300          5.00   1.00 8-DeShaw-DeShaw vs 2-Ford-Jarvis
+   50          2.00   4.00 14-Romeo-Hovda vs 12-Hankins-Cline
+  100          3.50   2.50 15-Christensen-Wright vs 11-Epley-Epley
+  450          6.00   0.00 16-Heller-Heller vs 9-Christie-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   1.00 3-Bunin-Bovarnick vs 7-Gray-Brown
+        140    2.00   4.00 4-Campbell-Hendrickson vs 6-Zaugg-Krah
+        100    3.50   2.50 5-Galer-Liu vs 10-Rind-Jacobson
+        200    1.00   5.00 8-DeShaw-DeShaw vs 2-Ford-Jarvis
+        500    0.00   6.00 14-Romeo-Hovda vs 12-Hankins-Cline
+        100    3.50   2.50 15-Christensen-Wright vs 11-Epley-Epley
+  110          6.00   0.00 16-Heller-Heller vs 9-Christie-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          6.00   0.00 2-Ford-Jarvis vs 1-Stafford-Binney
+        650    0.00   6.00 4-Campbell-Hendrickson vs 8-DeShaw-DeShaw
+        500    1.50   4.50 5-Galer-Liu vs 7-Gray-Brown
+        300    4.00   2.00 6-Zaugg-Krah vs 11-Epley-Epley
+        300    4.00   2.00 9-Christie-Abernethy vs 3-Bunin-Bovarnick
+        500    1.50   4.50 15-Christensen-Wright vs 12-Hankins-Cline
+        300    4.00   2.00 16-Heller-Heller vs 10-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          4.00   2.00 2-Ford-Jarvis vs 1-Stafford-Binney
+        200    0.00   6.00 4-Campbell-Hendrickson vs 8-DeShaw-DeShaw
+  600          6.00   0.00 5-Galer-Liu vs 7-Gray-Brown
+        100    1.00   5.00 6-Zaugg-Krah vs 11-Epley-Epley
+  120          4.00   2.00 9-Christie-Abernethy vs 3-Bunin-Bovarnick
+  110          2.00   4.00 15-Christensen-Wright vs 12-Hankins-Cline
+  120          4.00   2.00 16-Heller-Heller vs 10-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   1.00 1-Stafford-Binney vs 14-Romeo-Hovda
+        400    4.00   2.00 3-Bunin-Bovarnick vs 2-Ford-Jarvis
+        420    2.50   3.50 5-Galer-Liu vs 9-Christie-Abernethy
+        420    2.50   3.50 6-Zaugg-Krah vs 8-DeShaw-DeShaw
+  100          6.00   0.00 7-Gray-Brown vs 12-Hankins-Cline
+        450    0.50   5.50 10-Rind-Jacobson vs 4-Campbell-Hendrickson
+        450    0.50   5.50 16-Heller-Heller vs 11-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          6.00   0.00 1-Stafford-Binney vs 14-Romeo-Hovda
+        620    1.50   4.50 3-Bunin-Bovarnick vs 2-Ford-Jarvis
+  200          4.00   2.00 5-Galer-Liu vs 9-Christie-Abernethy
+        620    1.50   4.50 6-Zaugg-Krah vs 8-DeShaw-DeShaw
+        790    0.00   6.00 7-Gray-Brown vs 12-Hankins-Cline
+  200          4.00   2.00 10-Rind-Jacobson vs 4-Campbell-Hendrickson
+  200          4.00   2.00 16-Heller-Heller vs 11-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          5.50   0.50 2-Ford-Jarvis vs 14-Romeo-Hovda
+  130          5.50   0.50 4-Campbell-Hendrickson vs 3-Bunin-Bovarnick
+  100          3.50   2.50 6-Zaugg-Krah vs 10-Rind-Jacobson
+  100          3.50   2.50 7-Gray-Brown vs 9-Christie-Abernethy
+        140    0.50   5.50 11-Epley-Epley vs 5-Galer-Liu
+        140    0.50   5.50 15-Christensen-Wright vs 1-Stafford-Binney
+        100    2.00   4.00 16-Heller-Heller vs 12-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   1.50 2-Ford-Jarvis vs 14-Romeo-Hovda
+        110    1.50   4.50 4-Campbell-Hendrickson vs 3-Bunin-Bovarnick
+        140    0.00   6.00 6-Zaugg-Krah vs 10-Rind-Jacobson
+   50          4.50   1.50 7-Gray-Brown vs 9-Christie-Abernethy
+   50          4.50   1.50 11-Epley-Epley vs 5-Galer-Liu
+        110    1.50   4.50 15-Christensen-Wright vs 1-Stafford-Binney
+   50          4.50   1.50 16-Heller-Heller vs 12-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   4.00 3-Bunin-Bovarnick vs 14-Romeo-Hovda
+  140          4.50   1.50 5-Galer-Liu vs 4-Campbell-Hendrickson
+  100          2.00   4.00 7-Gray-Brown vs 11-Epley-Epley
+  100          2.00   4.00 8-DeShaw-DeShaw vs 10-Rind-Jacobson
+        140    0.00   6.00 9-Christie-Abernethy vs 1-Stafford-Binney
+  140          4.50   1.50 12-Hankins-Cline vs 6-Zaugg-Krah
+  530          6.00   0.00 15-Christensen-Wright vs 2-Ford-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          5.00   1.00 3-Bunin-Bovarnick vs 14-Romeo-Hovda
+  120          4.00   2.00 5-Galer-Liu vs 4-Campbell-Hendrickson
+        100    0.50   5.50 7-Gray-Brown vs 11-Epley-Epley
+  110          2.50   3.50 8-DeShaw-DeShaw vs 10-Rind-Jacobson
+  110          2.50   3.50 9-Christie-Abernethy vs 1-Stafford-Binney
+  140          6.00   0.00 12-Hankins-Cline vs 6-Zaugg-Krah
+        100    0.50   5.50 15-Christensen-Wright vs 2-Ford-Jarvis
+----------------------------------------------------------------------

@@ -1,0 +1,579 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>March 31, 2015     |CLUB NO.>158048    | 04/07/2015 17:55
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  156.0 |TOP>  12 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=7/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Baer             Rose Bolson              A    .     .     .    136.50  43.75          
+
+ 2 Mike Bovarnick         Phyllis Gravitz          A    2     .     .    182.00  58.33  0.98(A) 
+
+ 3 Paul Schwaighart       Diane Felure             A    .     .     .    126.21  40.45          
+
+ 4 David Tootill          Neal Fowler              C    4     1     1    176.58  56.60  0.56(B) 
+
+ 5 David Taylor           Jeffrey Ford             A    3     .     .    178.21  57.12  0.70(A) 
+
+ 6 William Campbell       Joel Fuhrman             B    .     .     .    128.38  41.15          
+
+ 7 Corneliu Galer         Dave Setterholm          A    5     .     .    169.54  54.34  0.28(A) 
+
+ 8 Tommy Bailey           Evan Stoll               B    6     2     .    166.83  53.47  0.39(B) 
+
+ 9 Shawn Abernethy        David Wright             B    .     .     .    141.92  45.49          
+
+10 Clay Laughary          Pete Cowles              C    .     .     .    140.29  44.96          
+
+11 Dennis Heller          Connie Heller            A    .     .     .    161.42  51.74          
+
+12 Adam Ruprecht          Kim Eng                  B    .     3     .    151.00  48.40  0.28(B) 
+
+13 Ray Miller             Chris Pesce              A    1     .     .    200.96  64.41  1.40(A) 
+
+14 Kenneth Diamond        Moises Saul              C    .     .     .    124.58  39.93          
+
+
+                                          Totals                        2184.42       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>March 31, 2015     |CLUB NO.>158048    | 04/07/2015 17:55
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  156.0 |TOP>  12 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=8/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Dong Yan               Xiang Tu                 B    .     .     .    154.00  49.36          
+
+ 2 Hugh Hendrickson       David Roselle            B    .     .     .    113.50  36.38          
+
+ 3 Nick Tipton            Galen Hesson             B    6     .     .    160.50  51.44  0.23(A) 
+
+ 4 Marvin Gray            Thomas Brown             C    .     .     .    133.00  42.63          
+
+ 5 Jennifer Chalfan       Mike Ring                A    2     .     .    178.50  57.21  0.98(A) 
+
+ 6 Aaron Mohrman          Mike Christensen         B   3/4   2/3    .    170.50  54.65  0.60(A) 
+
+ 7 Bryan Delfs            McKenzie Myers           A    5     .     .    162.50  52.08  0.28(A) 
+
+ 8 Chris Moore            Brian Zaugg              A    .     .     .    158.00  50.64          
+
+ 9 Greg Fleming           Christopher Jarvis       B   3/4   2/3    .    170.50  54.65  0.60(A) 
+
+10 Morton Latta           Thomas Stever            C    .     .     .    138.00  44.23          
+
+11 Dell Berg              David Hankins            A    .     .     .    159.50  51.12          
+
+12 David Binney           Ann Romeo                A    .     .     .    132.50  42.47          
+
+
+
+14 John Krah              Daniel Poore             C    1     1     1    197.00  63.14  1.40(A) 
+
+
+                                          Totals                        2028.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    9.00   3.00 1-Baer-Bolson vs 1-Yan-Tu
+        400    1.50  10.50 2-Bovarnick-Gravitz vs 4-Gray-Brown
+        150    9.00   3.00 3-Schwaighart-Felure vs 6-Mohrman-Christensen
+        150    9.00   3.00 4-Tootill-Fowler vs 8-Moore-Zaugg
+        180    4.00   8.00 5-Taylor-Ford vs 10-Latta-Stever
+        420    0.00  12.00 6-Campbell-Fuhrman vs 12-Binney-Romeo
+        150    9.00   3.00 7-Galer-Setterholm vs 14-Krah-Poore
+        150    9.00   3.00 8-Bailey-Stoll vs 3-Tipton-Hesson
+        150    9.00   3.00 9-Abernethy-Wright vs 5-Chalfan-Ring
+        400    1.50  10.50 10-Laughary-Cowles vs 7-Delfs-Myers
+        150    9.00   3.00 11-Heller-Heller vs 9-Fleming-Jarvis
+        170    5.00   7.00 12-Ruprecht-Eng vs 11-Berg-Hankins
+        300    3.00   9.00 14-Diamond-Saul vs 2-Hendrickson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    5.00   7.00 1-Baer-Bolson vs 1-Yan-Tu
+        420    5.00   7.00 2-Bovarnick-Gravitz vs 4-Gray-Brown
+        420    5.00   7.00 3-Schwaighart-Felure vs 6-Mohrman-Christensen
+        420    5.00   7.00 4-Tootill-Fowler vs 8-Moore-Zaugg
+        420    5.00   7.00 5-Taylor-Ford vs 10-Latta-Stever
+   50         10.50   1.50 6-Campbell-Fuhrman vs 12-Binney-Romeo
+        420    5.00   7.00 7-Galer-Setterholm vs 14-Krah-Poore
+        450    0.00  12.00 8-Bailey-Stoll vs 3-Tipton-Hesson
+        430    1.00  11.00 9-Abernethy-Wright vs 5-Chalfan-Ring
+        400    9.00   3.00 10-Laughary-Cowles vs 7-Delfs-Myers
+        420    5.00   7.00 11-Heller-Heller vs 9-Fleming-Jarvis
+   50         10.50   1.50 12-Ruprecht-Eng vs 11-Berg-Hankins
+  300         12.00   0.00 14-Diamond-Saul vs 2-Hendrickson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    2.50   9.50 1-Baer-Bolson vs 14-Krah-Poore
+  100         12.00   0.00 2-Bovarnick-Gravitz vs 2-Hendrickson-Roselle
+        680    2.50   9.50 3-Schwaighart-Felure vs 5-Chalfan-Ring
+        680    2.50   9.50 4-Tootill-Fowler vs 7-Delfs-Myers
+        620   10.00   2.00 5-Taylor-Ford vs 9-Fleming-Jarvis
+        680    2.50   9.50 6-Campbell-Fuhrman vs 11-Berg-Hankins
+        650    7.50   4.50 8-Bailey-Stoll vs 4-Gray-Brown
+        200   11.00   1.00 9-Abernethy-Wright vs 6-Mohrman-Christensen
+        650    7.50   4.50 10-Laughary-Cowles vs 8-Moore-Zaugg
+        680    2.50   9.50 11-Heller-Heller vs 10-Latta-Stever
+        650    7.50   4.50 12-Ruprecht-Eng vs 12-Binney-Romeo
+        650    7.50   4.50 13-Miller-Pesce vs 1-Yan-Tu
+        680    2.50   9.50 14-Diamond-Saul vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660         11.00   1.00 1-Baer-Bolson vs 14-Krah-Poore
+        500    0.00  12.00 2-Bovarnick-Gravitz vs 2-Hendrickson-Roselle
+        100    2.00  10.00 3-Schwaighart-Felure vs 5-Chalfan-Ring
+  210          4.00   8.00 4-Tootill-Fowler vs 7-Delfs-Myers
+        100    2.00  10.00 5-Taylor-Ford vs 9-Fleming-Jarvis
+  630          7.00   5.00 6-Campbell-Fuhrman vs 11-Berg-Hankins
+  630          7.00   5.00 8-Bailey-Stoll vs 4-Gray-Brown
+  660         11.00   1.00 9-Abernethy-Wright vs 6-Mohrman-Christensen
+  660         11.00   1.00 10-Laughary-Cowles vs 8-Moore-Zaugg
+  630          7.00   5.00 11-Heller-Heller vs 10-Latta-Stever
+  630          7.00   5.00 12-Ruprecht-Eng vs 12-Binney-Romeo
+  630          7.00   5.00 13-Miller-Pesce vs 1-Yan-Tu
+        100    2.00  10.00 14-Diamond-Saul vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630         11.50   0.50 2-Bovarnick-Gravitz vs 1-Yan-Tu
+  600          8.00   4.00 3-Schwaighart-Felure vs 3-Tipton-Hesson
+        300    0.00  12.00 4-Tootill-Fowler vs 6-Mohrman-Christensen
+  600          8.00   4.00 5-Taylor-Ford vs 8-Moore-Zaugg
+  150          5.00   7.00 6-Campbell-Fuhrman vs 10-Latta-Stever
+  630         11.50   0.50 7-Galer-Setterholm vs 12-Binney-Romeo
+        100    3.00   9.00 8-Bailey-Stoll vs 5-Chalfan-Ring
+        100    3.00   9.00 9-Abernethy-Wright vs 7-Delfs-Myers
+        100    3.00   9.00 10-Laughary-Cowles vs 9-Fleming-Jarvis
+  600          8.00   4.00 11-Heller-Heller vs 11-Berg-Hankins
+        200    1.00  11.00 12-Ruprecht-Eng vs 14-Krah-Poore
+  600          8.00   4.00 13-Miller-Pesce vs 2-Hendrickson-Roselle
+  600          8.00   4.00 14-Diamond-Saul vs 4-Gray-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          9.50   2.50 2-Bovarnick-Gravitz vs 1-Yan-Tu
+  490          5.00   7.00 3-Schwaighart-Felure vs 3-Tipton-Hesson
+  480          2.50   9.50 4-Tootill-Fowler vs 6-Mohrman-Christensen
+  980          9.50   2.50 5-Taylor-Ford vs 8-Moore-Zaugg
+  920          6.00   6.00 6-Campbell-Fuhrman vs 10-Latta-Stever
+  980          9.50   2.50 7-Galer-Setterholm vs 12-Binney-Romeo
+  980          9.50   2.50 8-Bailey-Stoll vs 5-Chalfan-Ring
+  480          2.50   9.50 9-Abernethy-Wright vs 7-Delfs-Myers
+  980          9.50   2.50 10-Laughary-Cowles vs 9-Fleming-Jarvis
+  480          2.50   9.50 11-Heller-Heller vs 11-Berg-Hankins
+         50    0.00  12.00 12-Ruprecht-Eng vs 14-Krah-Poore
+  980          9.50   2.50 13-Miller-Pesce vs 2-Hendrickson-Roselle
+  480          2.50   9.50 14-Diamond-Saul vs 4-Gray-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   6.00 1-Baer-Bolson vs 12-Binney-Romeo
+  200         10.00   2.00 2-Bovarnick-Gravitz vs 14-Krah-Poore
+        200    1.00  11.00 3-Schwaighart-Felure vs 2-Hendrickson-Roselle
+  300         11.50   0.50 4-Tootill-Fowler vs 4-Gray-Brown
+  100          6.00   6.00 5-Taylor-Ford vs 7-Delfs-Myers
+  100          6.00   6.00 6-Campbell-Fuhrman vs 9-Fleming-Jarvis
+        110    2.00  10.00 7-Galer-Setterholm vs 11-Berg-Hankins
+  100          6.00   6.00 8-Bailey-Stoll vs 6-Mohrman-Christensen
+  300         11.50   0.50 9-Abernethy-Wright vs 8-Moore-Zaugg
+  100          6.00   6.00 10-Laughary-Cowles vs 10-Latta-Stever
+  100          6.00   6.00 12-Ruprecht-Eng vs 1-Yan-Tu
+  100          6.00   6.00 13-Miller-Pesce vs 3-Tipton-Hesson
+        620    0.00  12.00 14-Diamond-Saul vs 5-Chalfan-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00  11.00 1-Baer-Bolson vs 12-Binney-Romeo
+  100          3.50   8.50 2-Bovarnick-Gravitz vs 14-Krah-Poore
+  280          9.00   3.00 3-Schwaighart-Felure vs 2-Hendrickson-Roselle
+  120          6.00   6.00 4-Tootill-Fowler vs 4-Gray-Brown
+  400         11.00   1.00 5-Taylor-Ford vs 7-Delfs-Myers
+  110          5.00   7.00 6-Campbell-Fuhrman vs 9-Fleming-Jarvis
+  150          7.50   4.50 7-Galer-Setterholm vs 11-Berg-Hankins
+  100          3.50   8.50 8-Bailey-Stoll vs 6-Mohrman-Christensen
+  400         11.00   1.00 9-Abernethy-Wright vs 8-Moore-Zaugg
+         50    1.00  11.00 10-Laughary-Cowles vs 10-Latta-Stever
+         50    1.00  11.00 12-Ruprecht-Eng vs 1-Yan-Tu
+  400         11.00   1.00 13-Miller-Pesce vs 3-Tipton-Hesson
+  150          7.50   4.50 14-Diamond-Saul vs 5-Chalfan-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          1.50  10.50 1-Baer-Bolson vs 11-Berg-Hankins
+  100          3.50   8.50 3-Schwaighart-Felure vs 1-Yan-Tu
+  430         10.00   2.00 4-Tootill-Fowler vs 3-Tipton-Hesson
+  150          5.50   6.50 5-Taylor-Ford vs 5-Chalfan-Ring
+   90          1.50  10.50 6-Campbell-Fuhrman vs 8-Moore-Zaugg
+  400          7.50   4.50 7-Galer-Setterholm vs 10-Latta-Stever
+  150          5.50   6.50 8-Bailey-Stoll vs 7-Delfs-Myers
+  430         10.00   2.00 9-Abernethy-Wright vs 9-Fleming-Jarvis
+  400          7.50   4.50 10-Laughary-Cowles vs 12-Binney-Romeo
+         50    0.00  12.00 11-Heller-Heller vs 14-Krah-Poore
+  500         12.00   0.00 12-Ruprecht-Eng vs 2-Hendrickson-Roselle
+  430         10.00   2.00 13-Miller-Pesce vs 4-Gray-Brown
+  100          3.50   8.50 14-Diamond-Saul vs 6-Mohrman-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          7.00   5.00 1-Baer-Bolson vs 11-Berg-Hankins
+        200    0.50  11.50 3-Schwaighart-Felure vs 1-Yan-Tu
+  300         11.00   1.00 4-Tootill-Fowler vs 3-Tipton-Hesson
+  200         10.00   2.00 5-Taylor-Ford vs 5-Chalfan-Ring
+        200    0.50  11.50 6-Campbell-Fuhrman vs 8-Moore-Zaugg
+  140          7.00   5.00 7-Galer-Setterholm vs 10-Latta-Stever
+  110          3.50   8.50 8-Bailey-Stoll vs 7-Delfs-Myers
+        100    2.00  10.00 9-Abernethy-Wright vs 9-Fleming-Jarvis
+  140          7.00   5.00 10-Laughary-Cowles vs 12-Binney-Romeo
+  500         12.00   0.00 11-Heller-Heller vs 14-Krah-Poore
+  140          7.00   5.00 12-Ruprecht-Eng vs 2-Hendrickson-Roselle
+  140          7.00   5.00 13-Miller-Pesce vs 4-Gray-Brown
+  110          3.50   8.50 14-Diamond-Saul vs 6-Mohrman-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   6.50 1-Baer-Bolson vs 10-Latta-Stever
+  130         10.00   2.00 2-Bovarnick-Gravitz vs 12-Binney-Romeo
+        130    0.00  12.00 3-Schwaighart-Felure vs 14-Krah-Poore
+  470         12.00   0.00 4-Tootill-Fowler vs 2-Hendrickson-Roselle
+         50    3.00   9.00 5-Taylor-Ford vs 4-Gray-Brown
+        110    1.50  10.50 6-Campbell-Fuhrman vs 6-Mohrman-Christensen
+   50          5.50   6.50 7-Galer-Setterholm vs 9-Fleming-Jarvis
+  100          8.50   3.50 8-Bailey-Stoll vs 8-Moore-Zaugg
+  100          8.50   3.50 9-Abernethy-Wright vs 11-Berg-Hankins
+   50          5.50   6.50 11-Heller-Heller vs 1-Yan-Tu
+   50          5.50   6.50 12-Ruprecht-Eng vs 3-Tipton-Hesson
+  150         11.00   1.00 13-Miller-Pesce vs 5-Chalfan-Ring
+        110    1.50  10.50 14-Diamond-Saul vs 7-Delfs-Myers
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          7.50   4.50 1-Baer-Bolson vs 10-Latta-Stever
+  130          7.50   4.50 2-Bovarnick-Gravitz vs 12-Binney-Romeo
+  130          7.50   4.50 3-Schwaighart-Felure vs 14-Krah-Poore
+  140         11.00   1.00 4-Tootill-Fowler vs 2-Hendrickson-Roselle
+        100    1.50  10.50 5-Taylor-Ford vs 4-Gray-Brown
+  130          7.50   4.50 6-Campbell-Fuhrman vs 6-Mohrman-Christensen
+  130          7.50   4.50 7-Galer-Setterholm vs 9-Fleming-Jarvis
+        100    1.50  10.50 8-Bailey-Stoll vs 8-Moore-Zaugg
+  100          4.00   8.00 9-Abernethy-Wright vs 11-Berg-Hankins
+  660         12.00   0.00 11-Heller-Heller vs 1-Yan-Tu
+        100    1.50  10.50 12-Ruprecht-Eng vs 3-Tipton-Hesson
+  130          7.50   4.50 13-Miller-Pesce vs 5-Chalfan-Ring
+        100    1.50  10.50 14-Diamond-Saul vs 7-Delfs-Myers
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00  10.00 1-Baer-Bolson vs 9-Fleming-Jarvis
+  110          7.50   4.50 2-Bovarnick-Gravitz vs 11-Berg-Hankins
+  100          3.50   8.50 4-Tootill-Fowler vs 1-Yan-Tu
+  110          7.50   4.50 5-Taylor-Ford vs 3-Tipton-Hesson
+  170         11.00   1.00 6-Campbell-Fuhrman vs 5-Chalfan-Ring
+        580    0.00  12.00 7-Galer-Setterholm vs 7-Delfs-Myers
+  110          7.50   4.50 8-Bailey-Stoll vs 10-Latta-Stever
+  100          3.50   8.50 9-Abernethy-Wright vs 12-Binney-Romeo
+        200    1.00  11.00 10-Laughary-Cowles vs 14-Krah-Poore
+  200         12.00   0.00 11-Heller-Heller vs 2-Hendrickson-Roselle
+  110          7.50   4.50 12-Ruprecht-Eng vs 4-Gray-Brown
+  110          7.50   4.50 13-Miller-Pesce vs 6-Mohrman-Christensen
+  110          7.50   4.50 14-Diamond-Saul vs 8-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   9.00 1-Baer-Bolson vs 9-Fleming-Jarvis
+        120    3.00   9.00 2-Bovarnick-Gravitz vs 11-Berg-Hankins
+   50          9.50   2.50 4-Tootill-Fowler vs 1-Yan-Tu
+   50          9.50   2.50 5-Taylor-Ford vs 3-Tipton-Hesson
+        120    3.00   9.00 6-Campbell-Fuhrman vs 5-Chalfan-Ring
+    PASS       7.00   5.00 7-Galer-Setterholm vs 7-Delfs-Myers
+  110         12.00   0.00 8-Bailey-Stoll vs 10-Latta-Stever
+   50          9.50   2.50 9-Abernethy-Wright vs 12-Binney-Romeo
+        120    3.00   9.00 10-Laughary-Cowles vs 14-Krah-Poore
+   50          9.50   2.50 11-Heller-Heller vs 2-Hendrickson-Roselle
+         90    6.00   6.00 12-Ruprecht-Eng vs 4-Gray-Brown
+        120    3.00   9.00 13-Miller-Pesce vs 6-Mohrman-Christensen
+        180    0.00  12.00 14-Diamond-Saul vs 8-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          9.50   2.50 1-Baer-Bolson vs 8-Moore-Zaugg
+        430    5.50   6.50 2-Bovarnick-Gravitz vs 10-Latta-Stever
+        430    5.50   6.50 3-Schwaighart-Felure vs 12-Binney-Romeo
+        450    3.00   9.00 4-Tootill-Fowler vs 14-Krah-Poore
+        450    3.00   9.00 5-Taylor-Ford vs 2-Hendrickson-Roselle
+   50          9.50   2.50 6-Campbell-Fuhrman vs 4-Gray-Brown
+        460    0.50  11.50 7-Galer-Setterholm vs 6-Mohrman-Christensen
+   50          9.50   2.50 8-Bailey-Stoll vs 11-Berg-Hankins
+        450    3.00   9.00 10-Laughary-Cowles vs 1-Yan-Tu
+   50          9.50   2.50 11-Heller-Heller vs 3-Tipton-Hesson
+        460    0.50  11.50 12-Ruprecht-Eng vs 5-Chalfan-Ring
+   50          9.50   2.50 13-Miller-Pesce vs 7-Delfs-Myers
+   50          9.50   2.50 14-Diamond-Saul vs 9-Fleming-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.50   9.50 1-Baer-Bolson vs 8-Moore-Zaugg
+        650    2.50   9.50 2-Bovarnick-Gravitz vs 10-Latta-Stever
+        650    2.50   9.50 3-Schwaighart-Felure vs 12-Binney-Romeo
+        620    7.50   4.50 4-Tootill-Fowler vs 14-Krah-Poore
+        200   11.00   1.00 5-Taylor-Ford vs 2-Hendrickson-Roselle
+        650    2.50   9.50 6-Campbell-Fuhrman vs 4-Gray-Brown
+        200   11.00   1.00 7-Galer-Setterholm vs 6-Mohrman-Christensen
+        200   11.00   1.00 8-Bailey-Stoll vs 11-Berg-Hankins
+        650    2.50   9.50 10-Laughary-Cowles vs 1-Yan-Tu
+        620    7.50   4.50 11-Heller-Heller vs 3-Tipton-Hesson
+        620    7.50   4.50 12-Ruprecht-Eng vs 5-Chalfan-Ring
+        620    7.50   4.50 13-Miller-Pesce vs 7-Delfs-Myers
+        650    2.50   9.50 14-Diamond-Saul vs 9-Fleming-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    3.50   8.50 1-Baer-Bolson vs 7-Delfs-Myers
+        480    7.50   4.50 2-Bovarnick-Gravitz vs 9-Fleming-Jarvis
+        480    7.50   4.50 3-Schwaighart-Felure vs 11-Berg-Hankins
+        480    7.50   4.50 5-Taylor-Ford vs 1-Yan-Tu
+        510    2.00  10.00 6-Campbell-Fuhrman vs 3-Tipton-Hesson
+        480    7.50   4.50 7-Galer-Setterholm vs 5-Chalfan-Ring
+        980    0.50  11.50 8-Bailey-Stoll vs 12-Binney-Romeo
+        980    0.50  11.50 9-Abernethy-Wright vs 14-Krah-Poore
+        480    7.50   4.50 10-Laughary-Cowles vs 2-Hendrickson-Roselle
+        450   11.50   0.50 11-Heller-Heller vs 4-Gray-Brown
+        450   11.50   0.50 12-Ruprecht-Eng vs 6-Mohrman-Christensen
+        490    3.50   8.50 13-Miller-Pesce vs 8-Moore-Zaugg
+        480    7.50   4.50 14-Diamond-Saul vs 10-Latta-Stever
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.50   4.50 1-Baer-Bolson vs 7-Delfs-Myers
+   50          7.50   4.50 2-Bovarnick-Gravitz vs 9-Fleming-Jarvis
+        420    0.50  11.50 3-Schwaighart-Felure vs 11-Berg-Hankins
+   50          7.50   4.50 5-Taylor-Ford vs 1-Yan-Tu
+        210    2.00  10.00 6-Campbell-Fuhrman vs 3-Tipton-Hesson
+   50          7.50   4.50 7-Galer-Setterholm vs 5-Chalfan-Ring
+   50          7.50   4.50 8-Bailey-Stoll vs 12-Binney-Romeo
+        420    0.50  11.50 9-Abernethy-Wright vs 14-Krah-Poore
+   50          7.50   4.50 10-Laughary-Cowles vs 2-Hendrickson-Roselle
+   50          7.50   4.50 11-Heller-Heller vs 4-Gray-Brown
+   50          7.50   4.50 12-Ruprecht-Eng vs 6-Mohrman-Christensen
+   50          7.50   4.50 13-Miller-Pesce vs 8-Moore-Zaugg
+   50          7.50   4.50 14-Diamond-Saul vs 10-Latta-Stever
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.00  11.00 1-Baer-Bolson vs 6-Mohrman-Christensen
+  420          6.50   5.50 2-Bovarnick-Gravitz vs 8-Moore-Zaugg
+  420          6.50   5.50 3-Schwaighart-Felure vs 10-Latta-Stever
+  450         11.00   1.00 4-Tootill-Fowler vs 12-Binney-Romeo
+  420          6.50   5.50 5-Taylor-Ford vs 14-Krah-Poore
+  800         12.00   0.00 6-Campbell-Fuhrman vs 2-Hendrickson-Roselle
+  420          6.50   5.50 7-Galer-Setterholm vs 4-Gray-Brown
+  420          6.50   5.50 9-Abernethy-Wright vs 1-Yan-Tu
+  420          6.50   5.50 10-Laughary-Cowles vs 3-Tipton-Hesson
+  170          1.00  11.00 11-Heller-Heller vs 5-Chalfan-Ring
+  420          6.50   5.50 12-Ruprecht-Eng vs 7-Delfs-Myers
+  170          1.00  11.00 13-Miller-Pesce vs 9-Fleming-Jarvis
+  420          6.50   5.50 14-Diamond-Saul vs 11-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          7.50   4.50 1-Baer-Bolson vs 6-Mohrman-Christensen
+  200         10.00   2.00 2-Bovarnick-Gravitz vs 8-Moore-Zaugg
+  300         11.50   0.50 3-Schwaighart-Felure vs 10-Latta-Stever
+  150          9.00   3.00 4-Tootill-Fowler vs 12-Binney-Romeo
+  110          4.50   7.50 5-Taylor-Ford vs 14-Krah-Poore
+  110          4.50   7.50 6-Campbell-Fuhrman vs 2-Hendrickson-Roselle
+  110          4.50   7.50 7-Galer-Setterholm vs 4-Gray-Brown
+  100          1.50  10.50 9-Abernethy-Wright vs 1-Yan-Tu
+  130          7.50   4.50 10-Laughary-Cowles vs 3-Tipton-Hesson
+        100    0.00  12.00 11-Heller-Heller vs 5-Chalfan-Ring
+  300         11.50   0.50 12-Ruprecht-Eng vs 7-Delfs-Myers
+  110          4.50   7.50 13-Miller-Pesce vs 9-Fleming-Jarvis
+  100          1.50  10.50 14-Diamond-Saul vs 11-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00  12.00 1-Baer-Bolson vs 5-Chalfan-Ring
+        110    7.50   4.50 2-Bovarnick-Gravitz vs 7-Delfs-Myers
+        200    1.00  11.00 3-Schwaighart-Felure vs 9-Fleming-Jarvis
+        130    3.50   8.50 4-Tootill-Fowler vs 11-Berg-Hankins
+        130    3.50   8.50 6-Campbell-Fuhrman vs 1-Yan-Tu
+        110    7.50   4.50 7-Galer-Setterholm vs 3-Tipton-Hesson
+        110    7.50   4.50 8-Bailey-Stoll vs 14-Krah-Poore
+        130    3.50   8.50 9-Abernethy-Wright vs 2-Hendrickson-Roselle
+        110    7.50   4.50 10-Laughary-Cowles vs 4-Gray-Brown
+        130    3.50   8.50 11-Heller-Heller vs 6-Mohrman-Christensen
+        100   10.00   2.00 12-Ruprecht-Eng vs 8-Moore-Zaugg
+   50         11.00   1.00 13-Miller-Pesce vs 10-Latta-Stever
+  500         12.00   0.00 14-Diamond-Saul vs 12-Binney-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   7.50 1-Baer-Bolson vs 5-Chalfan-Ring
+  100         10.00   2.00 2-Bovarnick-Gravitz vs 7-Delfs-Myers
+  100         10.00   2.00 3-Schwaighart-Felure vs 9-Fleming-Jarvis
+        300    0.50  11.50 4-Tootill-Fowler vs 11-Berg-Hankins
+         90    6.50   5.50 6-Campbell-Fuhrman vs 1-Yan-Tu
+         50    8.00   4.00 7-Galer-Setterholm vs 3-Tipton-Hesson
+        300    0.50  11.50 8-Bailey-Stoll vs 14-Krah-Poore
+        120    2.00  10.00 9-Abernethy-Wright vs 2-Hendrickson-Roselle
+  100         10.00   2.00 10-Laughary-Cowles vs 4-Gray-Brown
+         90    6.50   5.50 11-Heller-Heller vs 6-Mohrman-Christensen
+        100    4.50   7.50 12-Ruprecht-Eng vs 8-Moore-Zaugg
+  110         12.00   0.00 13-Miller-Pesce vs 10-Latta-Stever
+        110    3.00   9.00 14-Diamond-Saul vs 12-Binney-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170   10.50   1.50 1-Baer-Bolson vs 4-Gray-Brown
+        230    6.00   6.00 2-Bovarnick-Gravitz vs 6-Mohrman-Christensen
+        650    3.00   9.00 3-Schwaighart-Felure vs 8-Moore-Zaugg
+        200    8.00   4.00 4-Tootill-Fowler vs 10-Latta-Stever
+        200    8.00   4.00 5-Taylor-Ford vs 12-Binney-Romeo
+        800    0.00  12.00 6-Campbell-Fuhrman vs 14-Krah-Poore
+        650    3.00   9.00 7-Galer-Setterholm vs 2-Hendrickson-Roselle
+        170   10.50   1.50 8-Bailey-Stoll vs 1-Yan-Tu
+        650    3.00   9.00 9-Abernethy-Wright vs 3-Tipton-Hesson
+        650    3.00   9.00 10-Laughary-Cowles vs 5-Chalfan-Ring
+        120   12.00   0.00 11-Heller-Heller vs 7-Delfs-Myers
+        650    3.00   9.00 12-Ruprecht-Eng vs 9-Fleming-Jarvis
+        200    8.00   4.00 13-Miller-Pesce vs 11-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430         11.50   0.50 1-Baer-Bolson vs 4-Gray-Brown
+  100          7.00   5.00 2-Bovarnick-Gravitz vs 6-Mohrman-Christensen
+        100    2.50   9.50 3-Schwaighart-Felure vs 8-Moore-Zaugg
+  400         10.00   2.00 4-Tootill-Fowler vs 10-Latta-Stever
+        100    2.50   9.50 5-Taylor-Ford vs 12-Binney-Romeo
+  300          9.00   3.00 6-Campbell-Fuhrman vs 14-Krah-Poore
+  430         11.50   0.50 7-Galer-Setterholm vs 2-Hendrickson-Roselle
+  130          8.00   4.00 8-Bailey-Stoll vs 1-Yan-Tu
+        100    2.50   9.50 9-Abernethy-Wright vs 3-Tipton-Hesson
+        100    2.50   9.50 10-Laughary-Cowles vs 5-Chalfan-Ring
+        100    2.50   9.50 11-Heller-Heller vs 7-Delfs-Myers
+        100    2.50   9.50 12-Ruprecht-Eng vs 9-Fleming-Jarvis
+         50    6.00   6.00 13-Miller-Pesce vs 11-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    6.00   6.00 1-Baer-Bolson vs 3-Tipton-Hesson
+        100    8.50   3.50 2-Bovarnick-Gravitz vs 5-Chalfan-Ring
+        620    1.50  10.50 3-Schwaighart-Felure vs 7-Delfs-Myers
+        130    7.00   5.00 4-Tootill-Fowler vs 9-Fleming-Jarvis
+  200         11.50   0.50 5-Taylor-Ford vs 11-Berg-Hankins
+        300    4.00   8.00 7-Galer-Setterholm vs 1-Yan-Tu
+  200         11.50   0.50 8-Bailey-Stoll vs 2-Hendrickson-Roselle
+  140         10.00   2.00 9-Abernethy-Wright vs 4-Gray-Brown
+        300    4.00   8.00 10-Laughary-Cowles vs 6-Mohrman-Christensen
+        620    1.50  10.50 11-Heller-Heller vs 8-Moore-Zaugg
+        670    0.00  12.00 12-Ruprecht-Eng vs 10-Latta-Stever
+        100    8.50   3.50 13-Miller-Pesce vs 12-Binney-Romeo
+        300    4.00   8.00 14-Diamond-Saul vs 14-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00  11.00 1-Baer-Bolson vs 3-Tipton-Hesson
+    PASS       8.50   3.50 2-Bovarnick-Gravitz vs 5-Chalfan-Ring
+  200         11.50   0.50 3-Schwaighart-Felure vs 7-Delfs-Myers
+         90    6.00   6.00 4-Tootill-Fowler vs 9-Fleming-Jarvis
+  100         10.00   2.00 5-Taylor-Ford vs 11-Berg-Hankins
+         90    6.00   6.00 7-Galer-Setterholm vs 1-Yan-Tu
+        100    3.50   8.50 8-Bailey-Stoll vs 2-Hendrickson-Roselle
+        100    3.50   8.50 9-Abernethy-Wright vs 4-Gray-Brown
+        120    1.00  11.00 10-Laughary-Cowles vs 6-Mohrman-Christensen
+        120    1.00  11.00 11-Heller-Heller vs 8-Moore-Zaugg
+    PASS       8.50   3.50 12-Ruprecht-Eng vs 10-Latta-Stever
+  200         11.50   0.50 13-Miller-Pesce vs 12-Binney-Romeo
+         90    6.00   6.00 14-Diamond-Saul vs 14-Krah-Poore
+----------------------------------------------------------------------

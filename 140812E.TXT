@@ -1,0 +1,505 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>August 12, 2014    |CLUB NO.>158048    | 08/12/2014 22:37
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian/Kim       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=5/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 William Campbell       Joel Fuhrman             B    .     1     .    119.81  49.30  0.40(B) 
+
+ 2 Paul Schwaighart       John Aslin               A    .     .     .    127.13  52.32          
+
+ 3 Christopher Jarvis     Greg Fleming             B    .     .     .     92.81  38.19          
+
+ 4 David Binney           Dave Drischell           B    .     2     .    117.56  48.38  0.28(B) 
+
+ 5 Corneliu Galer         Kevin Bolan              A    4     .     .    133.31  54.86  0.39(A) 
+
+ 6 Pete Cowles            Clay Laughary            C    .     .     1    114.75  47.22  0.16(C) 
+
+ 7 Jeffrey Ford           Ken Christiansen         A    3     .     .    135.00  55.56  0.55(A) 
+
+ 8 Hal Antonson           Dennis Heller            A    2     .     .    146.81  60.42  0.77(A) 
+
+ 9 Martha Potter          Terry Graham             C    .     .     .     99.00  40.74          
+
+10 Ray Miller             Kim Eng                  A    .     .     .    107.50  44.24          
+
+11 Mike Bovarnick         B Drajpuch               A    1     .     .    147.38  60.65  1.10(A) 
+
+
+                                          Totals                        1341.06       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>August 12, 2014    |CLUB NO.>158048    | 08/12/2014 22:37
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian/Kim       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=7/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Christensen       Mike Ring                B    1     1     .    143.00  58.85  1.10(A) 
+
+ 2 Dave Setterholm        Stanford Christie        A    4     .     .    130.50  53.70  0.39(A) 
+
+ 3 Maurice Blustein       Becky Stevens            A    .     .     .    116.50  47.94          
+
+ 4 Nick Tipton            Galen Hesson             B    .     .     .    116.50  47.94          
+
+ 5 Dell Berg              David Hankins            A    .     .     .     98.50  40.53          
+
+ 6 Moises Saul            Irving Sonkin            C    .     .     .     99.00  40.74          
+
+ 7 Hugh Hendrickson       Geoff Abbot              C    .     .     .    109.00  44.86          
+
+ 8 John Krah              Daniel Poore             C    .     .     1    127.50  52.47  0.24(C) 
+
+ 9 Dong Yan               Xiang Tu                 B    2     2     .    138.50  57.00  0.77(A) 
+
+10 Brian Zaugg            Liliana Diaconescu       B    3     3     .    136.00  55.97  0.55(A) 
+
+
+
+
+                                          Totals                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  250          9.00   0.00 1-Campbell-Fuhrman vs 1-Christensen-Ring
+   50          8.00   1.00 2-Schwaighart-Aslin vs 5-Berg-Hankins
+        480    0.50   8.50 3-Jarvis-Fleming vs 7-Hendrickson-Abbot
+        450    4.00   5.00 4-Binney-Drischell vs 9-Yan-Tu
+        450    4.00   5.00 6-Cowles-Laughary vs 2-Setterholm-Christie
+        450    4.00   5.00 7-Ford-Christiansen vs 4-Tipton-Hesson
+        450    4.00   5.00 8-Antonson-Heller vs 6-Saul-Sonkin
+        450    4.00   5.00 9-Potter-Graham vs 8-Krah-Poore
+        480    0.50   8.50 10-Miller-Eng vs 10-Zaugg-Diaconescu
+        300    7.00   2.00 11-Bovarnick-Drajpuch vs 3-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          8.00   1.00 1-Campbell-Fuhrman vs 1-Christensen-Ring
+  660          3.00   6.00 2-Schwaighart-Aslin vs 5-Berg-Hankins
+  680          5.50   3.50 3-Jarvis-Fleming vs 7-Hendrickson-Abbot
+  140          2.00   7.00 4-Binney-Drischell vs 9-Yan-Tu
+        100    1.00   8.00 6-Cowles-Laughary vs 2-Setterholm-Christie
+        300    0.00   9.00 7-Ford-Christiansen vs 4-Tipton-Hesson
+  680          5.50   3.50 8-Antonson-Heller vs 6-Saul-Sonkin
+ 1460          9.00   0.00 9-Potter-Graham vs 8-Krah-Poore
+  680          5.50   3.50 10-Miller-Eng vs 10-Zaugg-Diaconescu
+  680          5.50   3.50 11-Bovarnick-Drajpuch vs 3-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   6.50 1-Campbell-Fuhrman vs 1-Christensen-Ring
+  140          2.50   6.50 2-Schwaighart-Aslin vs 5-Berg-Hankins
+  170          7.00   2.00 3-Jarvis-Fleming vs 7-Hendrickson-Abbot
+  140          2.50   6.50 4-Binney-Drischell vs 9-Yan-Tu
+  140          2.50   6.50 6-Cowles-Laughary vs 2-Setterholm-Christie
+  140          2.50   6.50 7-Ford-Christiansen vs 4-Tipton-Hesson
+  170          7.00   2.00 8-Antonson-Heller vs 6-Saul-Sonkin
+  140          2.50   6.50 9-Potter-Graham vs 8-Krah-Poore
+  170          7.00   2.00 10-Miller-Eng vs 10-Zaugg-Diaconescu
+  420          9.00   0.00 11-Bovarnick-Drajpuch vs 3-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.00   9.00 2-Schwaighart-Aslin vs 2-Setterholm-Christie
+  100          4.50   4.50 3-Jarvis-Fleming vs 6-Saul-Sonkin
+  200          8.00   1.00 4-Binney-Drischell vs 8-Krah-Poore
+  100          4.50   4.50 5-Galer-Bolan vs 10-Zaugg-Diaconescu
+        620    2.00   7.00 6-Cowles-Laughary vs 1-Christensen-Ring
+        650    1.00   8.00 7-Ford-Christiansen vs 3-Blustein-Stevens
+  200          8.00   1.00 8-Antonson-Heller vs 5-Berg-Hankins
+  100          4.50   4.50 9-Potter-Graham vs 7-Hendrickson-Abbot
+  100          4.50   4.50 10-Miller-Eng vs 9-Yan-Tu
+  200          8.00   1.00 11-Bovarnick-Drajpuch vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.50   2.50 2-Schwaighart-Aslin vs 2-Setterholm-Christie
+   50          6.50   2.50 3-Jarvis-Fleming vs 6-Saul-Sonkin
+        420    0.50   8.50 4-Binney-Drischell vs 8-Krah-Poore
+        120    4.00   5.00 5-Galer-Bolan vs 10-Zaugg-Diaconescu
+        150    2.00   7.00 6-Cowles-Laughary vs 1-Christensen-Ring
+        420    0.50   8.50 7-Ford-Christiansen vs 3-Blustein-Stevens
+  100          9.00   0.00 8-Antonson-Heller vs 5-Berg-Hankins
+        140    3.00   6.00 9-Potter-Graham vs 7-Hendrickson-Abbot
+   50          6.50   2.50 10-Miller-Eng vs 9-Yan-Tu
+   50          6.50   2.50 11-Bovarnick-Drajpuch vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   2.00 2-Schwaighart-Aslin vs 2-Setterholm-Christie
+        800    0.00   9.00 3-Jarvis-Fleming vs 6-Saul-Sonkin
+  100          7.00   2.00 4-Binney-Drischell vs 8-Krah-Poore
+        170    4.00   5.00 5-Galer-Bolan vs 10-Zaugg-Diaconescu
+        620    2.00   7.00 6-Cowles-Laughary vs 1-Christensen-Ring
+        620    2.00   7.00 7-Ford-Christiansen vs 3-Blustein-Stevens
+  200          9.00   0.00 8-Antonson-Heller vs 5-Berg-Hankins
+        620    2.00   7.00 9-Potter-Graham vs 7-Hendrickson-Abbot
+  100          7.00   2.00 10-Miller-Eng vs 9-Yan-Tu
+        140    5.00   4.00 11-Bovarnick-Drajpuch vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.00   8.00 1-Campbell-Fuhrman vs 10-Zaugg-Diaconescu
+        500    1.00   8.00 2-Schwaighart-Aslin vs 1-Christensen-Ring
+  100          7.00   2.00 3-Jarvis-Fleming vs 3-Blustein-Stevens
+        200    4.50   4.50 4-Binney-Drischell vs 7-Hendrickson-Abbot
+  200          8.00   1.00 5-Galer-Bolan vs 9-Yan-Tu
+  300          9.00   0.00 7-Ford-Christiansen vs 2-Setterholm-Christie
+        500    1.00   8.00 8-Antonson-Heller vs 4-Tipton-Hesson
+        200    4.50   4.50 9-Potter-Graham vs 6-Saul-Sonkin
+        200    4.50   4.50 10-Miller-Eng vs 8-Krah-Poore
+        200    4.50   4.50 11-Bovarnick-Drajpuch vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    0.00   9.00 1-Campbell-Fuhrman vs 10-Zaugg-Diaconescu
+        450    2.50   6.50 2-Schwaighart-Aslin vs 1-Christensen-Ring
+        420    5.50   3.50 3-Jarvis-Fleming vs 3-Blustein-Stevens
+        420    5.50   3.50 4-Binney-Drischell vs 7-Hendrickson-Abbot
+   50          8.50   0.50 5-Galer-Bolan vs 9-Yan-Tu
+        420    5.50   3.50 7-Ford-Christiansen vs 2-Setterholm-Christie
+        420    5.50   3.50 8-Antonson-Heller vs 4-Tipton-Hesson
+   50          8.50   0.50 9-Potter-Graham vs 6-Saul-Sonkin
+        480    1.00   8.00 10-Miller-Eng vs 8-Krah-Poore
+        450    2.50   6.50 11-Bovarnick-Drajpuch vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.00   1.00 1-Campbell-Fuhrman vs 10-Zaugg-Diaconescu
+        600    0.50   8.50 2-Schwaighart-Aslin vs 1-Christensen-Ring
+        150    3.50   5.50 3-Jarvis-Fleming vs 3-Blustein-Stevens
+        120    6.00   3.00 4-Binney-Drischell vs 7-Hendrickson-Abbot
+  100          8.00   1.00 5-Galer-Bolan vs 9-Yan-Tu
+  100          8.00   1.00 7-Ford-Christiansen vs 2-Setterholm-Christie
+        150    3.50   5.50 8-Antonson-Heller vs 4-Tipton-Hesson
+        150    3.50   5.50 9-Potter-Graham vs 6-Saul-Sonkin
+        600    0.50   8.50 10-Miller-Eng vs 8-Krah-Poore
+        150    3.50   5.50 11-Bovarnick-Drajpuch vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   4.50 1-Campbell-Fuhrman vs 9-Yan-Tu
+  170          0.50   8.50 3-Jarvis-Fleming vs 2-Setterholm-Christie
+  200          2.00   7.00 4-Binney-Drischell vs 4-Tipton-Hesson
+ 1130          9.00   0.00 5-Galer-Bolan vs 8-Krah-Poore
+  170          0.50   8.50 6-Cowles-Laughary vs 10-Zaugg-Diaconescu
+  620          4.50   4.50 7-Ford-Christiansen vs 1-Christensen-Ring
+  650          6.50   2.50 8-Antonson-Heller vs 3-Blustein-Stevens
+  650          6.50   2.50 9-Potter-Graham vs 5-Berg-Hankins
+  230          3.00   6.00 10-Miller-Eng vs 7-Hendrickson-Abbot
+  680          8.00   1.00 11-Bovarnick-Drajpuch vs 6-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   7.00 1-Campbell-Fuhrman vs 9-Yan-Tu
+        130    0.00   9.00 3-Jarvis-Fleming vs 2-Setterholm-Christie
+  130          6.50   2.50 4-Binney-Drischell vs 4-Tipton-Hesson
+  130          6.50   2.50 5-Galer-Bolan vs 8-Krah-Poore
+  130          6.50   2.50 6-Cowles-Laughary vs 10-Zaugg-Diaconescu
+  110          4.00   5.00 7-Ford-Christiansen vs 1-Christensen-Ring
+        110    1.00   8.00 8-Antonson-Heller vs 3-Blustein-Stevens
+  130          6.50   2.50 9-Potter-Graham vs 5-Berg-Hankins
+  100          3.00   6.00 10-Miller-Eng vs 7-Hendrickson-Abbot
+  150          9.00   0.00 11-Bovarnick-Drajpuch vs 6-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   7.00 1-Campbell-Fuhrman vs 9-Yan-Tu
+   50          5.00   4.00 3-Jarvis-Fleming vs 2-Setterholm-Christie
+        140    2.00   7.00 4-Binney-Drischell vs 4-Tipton-Hesson
+  170          9.00   0.00 5-Galer-Bolan vs 8-Krah-Poore
+  100          6.50   2.50 6-Cowles-Laughary vs 10-Zaugg-Diaconescu
+        140    2.00   7.00 7-Ford-Christiansen vs 1-Christensen-Ring
+  140          8.00   1.00 8-Antonson-Heller vs 3-Blustein-Stevens
+        140    2.00   7.00 9-Potter-Graham vs 5-Berg-Hankins
+        140    2.00   7.00 10-Miller-Eng vs 7-Hendrickson-Abbot
+  100          6.50   2.50 11-Bovarnick-Drajpuch vs 6-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          1.00   8.00 1-Campbell-Fuhrman vs 8-Krah-Poore
+ 1440          6.00   3.00 2-Schwaighart-Aslin vs 10-Zaugg-Diaconescu
+ 1440          6.00   3.00 3-Jarvis-Fleming vs 1-Christensen-Ring
+ 1440          6.00   3.00 4-Binney-Drischell vs 3-Blustein-Stevens
+ 1440          6.00   3.00 5-Galer-Bolan vs 5-Berg-Hankins
+  690          1.00   8.00 6-Cowles-Laughary vs 9-Yan-Tu
+ 1440          6.00   3.00 8-Antonson-Heller vs 2-Setterholm-Christie
+  690          1.00   8.00 9-Potter-Graham vs 4-Tipton-Hesson
+ 1440          6.00   3.00 10-Miller-Eng vs 6-Saul-Sonkin
+ 1440          6.00   3.00 11-Bovarnick-Drajpuch vs 7-Hendrickson-Abbot
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   8.00 1-Campbell-Fuhrman vs 8-Krah-Poore
+  140          4.50   4.50 2-Schwaighart-Aslin vs 10-Zaugg-Diaconescu
+  140          4.50   4.50 3-Jarvis-Fleming vs 1-Christensen-Ring
+  140          4.50   4.50 4-Binney-Drischell vs 3-Blustein-Stevens
+  140          4.50   4.50 5-Galer-Bolan vs 5-Berg-Hankins
+  170          7.50   1.50 6-Cowles-Laughary vs 9-Yan-Tu
+  530          9.00   0.00 8-Antonson-Heller vs 2-Setterholm-Christie
+  110          2.00   7.00 9-Potter-Graham vs 4-Tipton-Hesson
+         90    0.00   9.00 10-Miller-Eng vs 6-Saul-Sonkin
+  170          7.50   1.50 11-Bovarnick-Drajpuch vs 7-Hendrickson-Abbot
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        550    1.50   7.50 1-Campbell-Fuhrman vs 8-Krah-Poore
+        650    0.00   9.00 2-Schwaighart-Aslin vs 10-Zaugg-Diaconescu
+        430    3.00   6.00 3-Jarvis-Fleming vs 1-Christensen-Ring
+  150          8.00   1.00 4-Binney-Drischell vs 3-Blustein-Stevens
+        200    4.50   4.50 5-Galer-Bolan vs 5-Berg-Hankins
+        550    1.50   7.50 6-Cowles-Laughary vs 9-Yan-Tu
+        150    6.00   3.00 8-Antonson-Heller vs 2-Setterholm-Christie
+  670          9.00   0.00 9-Potter-Graham vs 4-Tipton-Hesson
+        200    4.50   4.50 10-Miller-Eng vs 6-Saul-Sonkin
+  140          7.00   2.00 11-Bovarnick-Drajpuch vs 7-Hendrickson-Abbot
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          7.50   1.50 1-Campbell-Fuhrman vs 7-Hendrickson-Abbot
+  400          4.00   5.00 2-Schwaighart-Aslin vs 9-Yan-Tu
+  400          4.00   5.00 4-Binney-Drischell vs 2-Setterholm-Christie
+  200          2.00   7.00 5-Galer-Bolan vs 4-Tipton-Hesson
+  450          7.50   1.50 6-Cowles-Laughary vs 6-Saul-Sonkin
+  400          4.00   5.00 7-Ford-Christiansen vs 10-Zaugg-Diaconescu
+  450          7.50   1.50 8-Antonson-Heller vs 1-Christensen-Ring
+  450          7.50   1.50 9-Potter-Graham vs 3-Blustein-Stevens
+         50    0.00   9.00 10-Miller-Eng vs 5-Berg-Hankins
+  150          1.00   8.00 11-Bovarnick-Drajpuch vs 8-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    4.00   5.00 1-Campbell-Fuhrman vs 7-Hendrickson-Abbot
+        300    7.00   2.00 2-Schwaighart-Aslin vs 9-Yan-Tu
+        100    8.00   1.00 4-Binney-Drischell vs 2-Setterholm-Christie
+        450    1.00   8.00 5-Galer-Bolan vs 4-Tipton-Hesson
+        650    0.00   9.00 6-Cowles-Laughary vs 6-Saul-Sonkin
+        420    4.00   5.00 7-Ford-Christiansen vs 10-Zaugg-Diaconescu
+        420    4.00   5.00 8-Antonson-Heller vs 1-Christensen-Ring
+         50    9.00   0.00 9-Potter-Graham vs 3-Blustein-Stevens
+        420    4.00   5.00 10-Miller-Eng vs 5-Berg-Hankins
+        420    4.00   5.00 11-Bovarnick-Drajpuch vs 8-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   4.00 1-Campbell-Fuhrman vs 7-Hendrickson-Abbot
+  200          7.50   1.50 2-Schwaighart-Aslin vs 9-Yan-Tu
+        100    1.00   8.00 4-Binney-Drischell vs 2-Setterholm-Christie
+        100    1.00   8.00 5-Galer-Bolan vs 4-Tipton-Hesson
+  140          3.50   5.50 6-Cowles-Laughary vs 6-Saul-Sonkin
+  630          9.00   0.00 7-Ford-Christiansen vs 10-Zaugg-Diaconescu
+  140          3.50   5.50 8-Antonson-Heller vs 1-Christensen-Ring
+        100    1.00   8.00 9-Potter-Graham vs 3-Blustein-Stevens
+  170          6.00   3.00 10-Miller-Eng vs 5-Berg-Hankins
+  200          7.50   1.50 11-Bovarnick-Drajpuch vs 8-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.50   0.50 1-Campbell-Fuhrman vs 6-Saul-Sonkin
+        600    2.50   6.50 2-Schwaighart-Aslin vs 8-Krah-Poore
+        600    2.50   6.50 3-Jarvis-Fleming vs 10-Zaugg-Diaconescu
+        110    5.00   4.00 4-Binney-Drischell vs 1-Christensen-Ring
+        150    4.00   5.00 5-Galer-Bolan vs 3-Blustein-Stevens
+        100    6.50   2.50 6-Cowles-Laughary vs 5-Berg-Hankins
+        100    6.50   2.50 7-Ford-Christiansen vs 7-Hendrickson-Abbot
+        630    0.50   8.50 9-Potter-Graham vs 2-Setterholm-Christie
+  100          8.50   0.50 10-Miller-Eng vs 4-Tipton-Hesson
+        630    0.50   8.50 11-Bovarnick-Drajpuch vs 9-Yan-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          8.00   1.00 1-Campbell-Fuhrman vs 6-Saul-Sonkin
+        140    2.50   6.50 2-Schwaighart-Aslin vs 8-Krah-Poore
+        170    0.50   8.50 3-Jarvis-Fleming vs 10-Zaugg-Diaconescu
+        110    4.00   5.00 4-Binney-Drischell vs 1-Christensen-Ring
+        170    0.50   8.50 5-Galer-Bolan vs 3-Blustein-Stevens
+  100          5.00   4.00 6-Cowles-Laughary vs 5-Berg-Hankins
+  150          8.00   1.00 7-Ford-Christiansen vs 7-Hendrickson-Abbot
+        140    2.50   6.50 9-Potter-Graham vs 2-Setterholm-Christie
+  150          8.00   1.00 10-Miller-Eng vs 4-Tipton-Hesson
+  130          6.00   3.00 11-Bovarnick-Drajpuch vs 9-Yan-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1100    0.00   9.00 1-Campbell-Fuhrman vs 6-Saul-Sonkin
+  110          7.50   1.50 2-Schwaighart-Aslin vs 8-Krah-Poore
+        110    5.00   4.00 3-Jarvis-Fleming vs 10-Zaugg-Diaconescu
+        200    4.00   5.00 4-Binney-Drischell vs 1-Christensen-Ring
+  300          9.00   0.00 5-Galer-Bolan vs 3-Blustein-Stevens
+  110          7.50   1.50 6-Cowles-Laughary vs 5-Berg-Hankins
+        300    2.50   6.50 7-Ford-Christiansen vs 7-Hendrickson-Abbot
+        400    1.00   8.00 9-Potter-Graham vs 2-Setterholm-Christie
+   50          6.00   3.00 10-Miller-Eng vs 4-Tipton-Hesson
+        300    2.50   6.50 11-Bovarnick-Drajpuch vs 9-Yan-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.50   6.50 1-Campbell-Fuhrman vs 5-Berg-Hankins
+        620    5.00   4.00 2-Schwaighart-Aslin vs 7-Hendrickson-Abbot
+        630    2.50   6.50 3-Jarvis-Fleming vs 9-Yan-Tu
+        630    2.50   6.50 5-Galer-Bolan vs 2-Setterholm-Christie
+        600    7.00   2.00 6-Cowles-Laughary vs 4-Tipton-Hesson
+        600    7.00   2.00 7-Ford-Christiansen vs 6-Saul-Sonkin
+        600    7.00   2.00 8-Antonson-Heller vs 8-Krah-Poore
+        630    2.50   6.50 9-Potter-Graham vs 1-Christensen-Ring
+        650    0.00   9.00 10-Miller-Eng vs 3-Blustein-Stevens
+        500    9.00   0.00 11-Bovarnick-Drajpuch vs 10-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   5.00 1-Campbell-Fuhrman vs 5-Berg-Hankins
+  100          9.00   0.00 2-Schwaighart-Aslin vs 7-Hendrickson-Abbot
+        140    0.00   9.00 3-Jarvis-Fleming vs 9-Yan-Tu
+        110    4.00   5.00 5-Galer-Bolan vs 2-Setterholm-Christie
+         90    8.00   1.00 6-Cowles-Laughary vs 4-Tipton-Hesson
+        110    4.00   5.00 7-Ford-Christiansen vs 6-Saul-Sonkin
+        110    4.00   5.00 8-Antonson-Heller vs 8-Krah-Poore
+        110    4.00   5.00 9-Potter-Graham vs 1-Christensen-Ring
+        110    4.00   5.00 10-Miller-Eng vs 3-Blustein-Stevens
+        110    4.00   5.00 11-Bovarnick-Drajpuch vs 10-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    6.00   3.00 1-Campbell-Fuhrman vs 5-Berg-Hankins
+  100          8.00   1.00 2-Schwaighart-Aslin vs 7-Hendrickson-Abbot
+        130    2.50   6.50 3-Jarvis-Fleming vs 9-Yan-Tu
+        100    6.00   3.00 5-Galer-Bolan vs 2-Setterholm-Christie
+        100    6.00   3.00 6-Cowles-Laughary vs 4-Tipton-Hesson
+  110          9.00   0.00 7-Ford-Christiansen vs 6-Saul-Sonkin
+        110    4.00   5.00 8-Antonson-Heller vs 8-Krah-Poore
+        170    0.00   9.00 9-Potter-Graham vs 1-Christensen-Ring
+        130    2.50   6.50 10-Miller-Eng vs 3-Blustein-Stevens
+        150    1.00   8.00 11-Bovarnick-Drajpuch vs 10-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          8.00   1.00 1-Campbell-Fuhrman vs 4-Tipton-Hesson
+  100          5.50   3.50 2-Schwaighart-Aslin vs 6-Saul-Sonkin
+        100    3.50   5.50 3-Jarvis-Fleming vs 8-Krah-Poore
+  100          5.50   3.50 4-Binney-Drischell vs 10-Zaugg-Diaconescu
+        100    3.50   5.50 5-Galer-Bolan vs 1-Christensen-Ring
+  110          7.00   2.00 6-Cowles-Laughary vs 3-Blustein-Stevens
+  470          9.00   0.00 7-Ford-Christiansen vs 5-Berg-Hankins
+        150    1.50   7.50 8-Antonson-Heller vs 7-Hendrickson-Abbot
+        150    1.50   7.50 9-Potter-Graham vs 9-Yan-Tu
+        670    0.00   9.00 10-Miller-Eng vs 2-Setterholm-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          9.00   0.00 1-Campbell-Fuhrman vs 4-Tipton-Hesson
+        110    5.00   4.00 2-Schwaighart-Aslin vs 6-Saul-Sonkin
+        150    2.00   7.00 3-Jarvis-Fleming vs 8-Krah-Poore
+        150    2.00   7.00 4-Binney-Drischell vs 10-Zaugg-Diaconescu
+        110    5.00   4.00 5-Galer-Bolan vs 1-Christensen-Ring
+        100    7.00   2.00 6-Cowles-Laughary vs 3-Blustein-Stevens
+         90    8.00   1.00 7-Ford-Christiansen vs 5-Berg-Hankins
+        150    2.00   7.00 8-Antonson-Heller vs 7-Hendrickson-Abbot
+        180    0.00   9.00 9-Potter-Graham vs 9-Yan-Tu
+        110    5.00   4.00 10-Miller-Eng vs 2-Setterholm-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   5.50 1-Campbell-Fuhrman vs 4-Tipton-Hesson
+  100          8.00   1.00 2-Schwaighart-Aslin vs 6-Saul-Sonkin
+         90    5.00   4.00 3-Jarvis-Fleming vs 8-Krah-Poore
+        110    2.00   7.00 4-Binney-Drischell vs 10-Zaugg-Diaconescu
+        100    3.50   5.50 5-Galer-Bolan vs 1-Christensen-Ring
+        500    0.00   9.00 6-Cowles-Laughary vs 3-Blustein-Stevens
+   50          6.00   3.00 7-Ford-Christiansen vs 5-Berg-Hankins
+  100          8.00   1.00 8-Antonson-Heller vs 7-Hendrickson-Abbot
+        170    1.00   8.00 9-Potter-Graham vs 9-Yan-Tu
+  100          8.00   1.00 10-Miller-Eng vs 2-Setterholm-Christie
+----------------------------------------------------------------------

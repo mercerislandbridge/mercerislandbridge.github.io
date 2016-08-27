@@ -1,0 +1,397 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>March 10, 2015     |SANCTION>L503446C  | 03/10/2015 22:03
+---------------------,-- ------------------- -------------,---------------------
+DIR> Tbz             |RATING>Unit Championship            |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=3/C=1                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 William Campbell       Joel Fuhrman             B   1     1     .   |   1     1     .    104.00  61.90  2.63(OA)
+
+ 2 David Baer             Rose Bolson              A   2     .     .   |   2     .     .     98.00  58.33  1.97(OA)
+
+ 3 Ken Christiansen       Valliappa Lakshmanan     A   .     .     .   |   .     .     .     72.50  43.15          
+
+ 4 Paul Schwaighart       Diane Felure             A   .     .     .   |   .     .     .     79.50  47.32          
+
+ 5 Connie Heller          Dennis Heller            A   .     .     .   |   .     .     .     87.00  51.79          
+
+ 6 Brian Zaugg            Galen Hesson             A   .     .     .   |   .     .     .     72.00  42.86          
+
+ 7 Jeffrey Ford           Nick Jong                B  5/6   2/3    .   |   3     .     .     92.00  54.76  0.88(OB)
+
+ 8 Daniel Poore           Ann Romeo                C   .     .     .   |   .     .     .     67.00  39.88          
+
+
+                                          Totals                                            672.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>March 10, 2015     |SANCTION>L503446C  | 03/10/2015 22:03
+---------------------,-- ------------------- -------------,---------------------
+DIR> Tbz             |RATING>Unit Championship            |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=5/C=2                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Corneliu Galer         Chris Pesce              B  5/6   2/3    .   |   3     1     .     92.00  54.76  0.88(OB)
+
+ 2 Mike Ring              Mike Christensen         B   .     .     .   |   .     2     .     89.50  53.27  0.50(SB)
+
+ 3 Alain Schreiber        Allen Reiter             A   4     .     .   |   2     .     .     93.50  55.65  1.11(OA)
+
+ 4 Pete Cowles            Clay Laughary            C   .     .     .   |   .     .     .     68.00  40.48          
+
+ 5 Dell Berg              David Hankins            A   3     .     .   |   1     .     .     95.00  56.55  1.48(OA)
+
+ 6 David Taylor           David Binney             A   .     .     .   |   .     .     .     87.00  51.79          
+
+ 7 Mirjana Reams          Aaron Mohrman            B   .     .     .   |   .     .     .     79.50  47.32          
+
+ 8 Irving Sonkin          Moises Saul              C   .     .     .   |   .     .     .     67.50  40.18          
+
+
+                                          Totals                                            672.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    6.00   1.00 1-Campbell-Fuhrman vs 1-Galer-Pesce
+        170    2.50   4.50 2-Baer-Bolson vs 3-Schreiber-Reiter
+        400    1.00   6.00 3-Christiansen-Lakshmanan vs 5-Berg-Hankins
+        170    2.50   4.50 4-Schwaighart-Felure vs 7-Reams-Mohrman
+   50          7.00   0.00 5-Heller-Heller vs 2-Ring-Christensen
+        800    0.00   7.00 6-Zaugg-Hesson vs 4-Cowles-Laughary
+        150    4.00   3.00 7-Ford-Jong vs 6-Taylor-Binney
+        140    5.00   2.00 8-Poore-Romeo vs 8-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   2.00 1-Campbell-Fuhrman vs 1-Galer-Pesce
+  100          5.00   2.00 2-Baer-Bolson vs 3-Schreiber-Reiter
+   50          2.50   4.50 3-Christiansen-Lakshmanan vs 5-Berg-Hankins
+        300    0.00   7.00 4-Schwaighart-Felure vs 7-Reams-Mohrman
+  100          5.00   2.00 5-Heller-Heller vs 2-Ring-Christensen
+  150          7.00   0.00 6-Zaugg-Hesson vs 4-Cowles-Laughary
+        100    1.00   6.00 7-Ford-Jong vs 6-Taylor-Binney
+   50          2.50   4.50 8-Poore-Romeo vs 8-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   7.00 1-Campbell-Fuhrman vs 1-Galer-Pesce
+  430          3.00   4.00 2-Baer-Bolson vs 3-Schreiber-Reiter
+  460          6.00   1.00 3-Christiansen-Lakshmanan vs 5-Berg-Hankins
+  460          6.00   1.00 4-Schwaighart-Felure vs 7-Reams-Mohrman
+  150          1.00   6.00 5-Heller-Heller vs 2-Ring-Christensen
+  430          3.00   4.00 6-Zaugg-Hesson vs 4-Cowles-Laughary
+  460          6.00   1.00 7-Ford-Jong vs 6-Taylor-Binney
+  430          3.00   4.00 8-Poore-Romeo vs 8-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.00   0.00 1-Campbell-Fuhrman vs 8-Sonkin-Saul
+        110    2.50   4.50 2-Baer-Bolson vs 2-Ring-Christensen
+         90    5.00   2.00 3-Christiansen-Lakshmanan vs 4-Cowles-Laughary
+  100          6.00   1.00 4-Schwaighart-Felure vs 6-Taylor-Binney
+        110    2.50   4.50 5-Heller-Heller vs 1-Galer-Pesce
+        100    4.00   3.00 6-Zaugg-Hesson vs 3-Schreiber-Reiter
+        200    0.50   6.50 7-Ford-Jong vs 5-Berg-Hankins
+        200    0.50   6.50 8-Poore-Romeo vs 7-Reams-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   2.00 1-Campbell-Fuhrman vs 8-Sonkin-Saul
+   50          5.00   2.00 2-Baer-Bolson vs 2-Ring-Christensen
+   50          5.00   2.00 3-Christiansen-Lakshmanan vs 4-Cowles-Laughary
+  100          7.00   0.00 4-Schwaighart-Felure vs 6-Taylor-Binney
+         90    2.00   5.00 5-Heller-Heller vs 1-Galer-Pesce
+    PASS       3.00   4.00 6-Zaugg-Hesson vs 3-Schreiber-Reiter
+        150    0.00   7.00 7-Ford-Jong vs 5-Berg-Hankins
+        120    1.00   6.00 8-Poore-Romeo vs 7-Reams-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.50   4.50 1-Campbell-Fuhrman vs 8-Sonkin-Saul
+  430          2.50   4.50 2-Baer-Bolson vs 2-Ring-Christensen
+  460          5.00   2.00 3-Christiansen-Lakshmanan vs 4-Cowles-Laughary
+        100    0.50   6.50 4-Schwaighart-Felure vs 6-Taylor-Binney
+  460          5.00   2.00 5-Heller-Heller vs 1-Galer-Pesce
+        100    0.50   6.50 6-Zaugg-Hesson vs 3-Schreiber-Reiter
+  460          5.00   2.00 7-Ford-Jong vs 5-Berg-Hankins
+  490          7.00   0.00 8-Poore-Romeo vs 7-Reams-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          7.00   0.00 1-Campbell-Fuhrman vs 7-Reams-Mohrman
+  170          5.50   1.50 2-Baer-Bolson vs 1-Galer-Pesce
+        100    0.00   7.00 3-Christiansen-Lakshmanan vs 3-Schreiber-Reiter
+  140          2.50   4.50 4-Schwaighart-Felure vs 5-Berg-Hankins
+  170          5.50   1.50 5-Heller-Heller vs 8-Sonkin-Saul
+  140          2.50   4.50 6-Zaugg-Hesson vs 2-Ring-Christensen
+  140          2.50   4.50 7-Ford-Jong vs 4-Cowles-Laughary
+  140          2.50   4.50 8-Poore-Romeo vs 6-Taylor-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          5.00   2.00 1-Campbell-Fuhrman vs 7-Reams-Mohrman
+        140    0.00   7.00 2-Baer-Bolson vs 1-Galer-Pesce
+        100    1.50   5.50 3-Christiansen-Lakshmanan vs 3-Schreiber-Reiter
+         50    3.50   3.50 4-Schwaighart-Felure vs 5-Berg-Hankins
+  430          6.50   0.50 5-Heller-Heller vs 8-Sonkin-Saul
+        100    1.50   5.50 6-Zaugg-Hesson vs 2-Ring-Christensen
+  430          6.50   0.50 7-Ford-Jong vs 4-Cowles-Laughary
+         50    3.50   3.50 8-Poore-Romeo vs 6-Taylor-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   3.00 1-Campbell-Fuhrman vs 7-Reams-Mohrman
+        500    2.00   5.00 2-Baer-Bolson vs 1-Galer-Pesce
+        750    1.00   6.00 3-Christiansen-Lakshmanan vs 3-Schreiber-Reiter
+        800    0.00   7.00 4-Schwaighart-Felure vs 5-Berg-Hankins
+         50    6.00   1.00 5-Heller-Heller vs 8-Sonkin-Saul
+         50    6.00   1.00 6-Zaugg-Hesson vs 2-Ring-Christensen
+         50    6.00   1.00 7-Ford-Jong vs 4-Cowles-Laughary
+        300    3.00   4.00 8-Poore-Romeo vs 6-Taylor-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          6.50   0.50 1-Campbell-Fuhrman vs 6-Taylor-Binney
+  500          6.50   0.50 2-Baer-Bolson vs 8-Sonkin-Saul
+  100          4.50   2.50 3-Christiansen-Lakshmanan vs 2-Ring-Christensen
+   90          3.00   4.00 4-Schwaighart-Felure vs 4-Cowles-Laughary
+        110    0.50   6.50 5-Heller-Heller vs 7-Reams-Mohrman
+        100    2.00   5.00 6-Zaugg-Hesson vs 1-Galer-Pesce
+        110    0.50   6.50 7-Ford-Jong vs 3-Schreiber-Reiter
+  100          4.50   2.50 8-Poore-Romeo vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.00   6.00 1-Campbell-Fuhrman vs 6-Taylor-Binney
+        110    3.50   3.50 2-Baer-Bolson vs 8-Sonkin-Saul
+        110    3.50   3.50 3-Christiansen-Lakshmanan vs 2-Ring-Christensen
+        100    6.00   1.00 4-Schwaighart-Felure vs 4-Cowles-Laughary
+        110    3.50   3.50 5-Heller-Heller vs 7-Reams-Mohrman
+  150          7.00   0.00 6-Zaugg-Hesson vs 1-Galer-Pesce
+        110    3.50   3.50 7-Ford-Jong vs 3-Schreiber-Reiter
+        420    0.00   7.00 8-Poore-Romeo vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   7.00 1-Campbell-Fuhrman vs 6-Taylor-Binney
+  100          7.00   0.00 2-Baer-Bolson vs 8-Sonkin-Saul
+        130    4.50   2.50 3-Christiansen-Lakshmanan vs 2-Ring-Christensen
+   50          6.00   1.00 4-Schwaighart-Felure vs 4-Cowles-Laughary
+        150    2.50   4.50 5-Heller-Heller vs 7-Reams-Mohrman
+        210    1.00   6.00 6-Zaugg-Hesson vs 1-Galer-Pesce
+        130    4.50   2.50 7-Ford-Jong vs 3-Schreiber-Reiter
+        150    2.50   4.50 8-Poore-Romeo vs 5-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.50   5.50 1-Campbell-Fuhrman vs 5-Berg-Hankins
+        680    1.50   5.50 2-Baer-Bolson vs 7-Reams-Mohrman
+        680    1.50   5.50 3-Christiansen-Lakshmanan vs 1-Galer-Pesce
+        650    5.50   1.50 4-Schwaighart-Felure vs 3-Schreiber-Reiter
+        650    5.50   1.50 5-Heller-Heller vs 6-Taylor-Binney
+        650    5.50   1.50 6-Zaugg-Hesson vs 8-Sonkin-Saul
+        650    5.50   1.50 7-Ford-Jong vs 2-Ring-Christensen
+        680    1.50   5.50 8-Poore-Romeo vs 4-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    6.00   1.00 1-Campbell-Fuhrman vs 5-Berg-Hankins
+         50    7.00   0.00 2-Baer-Bolson vs 7-Reams-Mohrman
+        450    1.00   6.00 3-Christiansen-Lakshmanan vs 1-Galer-Pesce
+        420    3.50   3.50 4-Schwaighart-Felure vs 3-Schreiber-Reiter
+        200    5.00   2.00 5-Heller-Heller vs 6-Taylor-Binney
+        450    1.00   6.00 6-Zaugg-Hesson vs 8-Sonkin-Saul
+        450    1.00   6.00 7-Ford-Jong vs 2-Ring-Christensen
+        420    3.50   3.50 8-Poore-Romeo vs 4-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   1.00 1-Campbell-Fuhrman vs 5-Berg-Hankins
+   50          3.00   4.00 2-Baer-Bolson vs 7-Reams-Mohrman
+   50          3.00   4.00 3-Christiansen-Lakshmanan vs 1-Galer-Pesce
+  100          6.00   1.00 4-Schwaighart-Felure vs 3-Schreiber-Reiter
+  100          6.00   1.00 5-Heller-Heller vs 6-Taylor-Binney
+   50          3.00   4.00 6-Zaugg-Hesson vs 8-Sonkin-Saul
+        500    0.00   7.00 7-Ford-Jong vs 2-Ring-Christensen
+        200    1.00   6.00 8-Poore-Romeo vs 4-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          6.00   1.00 1-Campbell-Fuhrman vs 4-Cowles-Laughary
+  100          4.00   3.00 2-Baer-Bolson vs 6-Taylor-Binney
+        120    0.00   7.00 3-Christiansen-Lakshmanan vs 8-Sonkin-Saul
+  110          5.00   2.00 4-Schwaighart-Felure vs 2-Ring-Christensen
+         50    3.00   4.00 5-Heller-Heller vs 5-Berg-Hankins
+        100    1.50   5.50 6-Zaugg-Hesson vs 7-Reams-Mohrman
+  200          7.00   0.00 7-Ford-Jong vs 1-Galer-Pesce
+        100    1.50   5.50 8-Poore-Romeo vs 3-Schreiber-Reiter
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   4.50 1-Campbell-Fuhrman vs 4-Cowles-Laughary
+    PASS       5.50   1.50 2-Baer-Bolson vs 6-Taylor-Binney
+         50    4.00   3.00 3-Christiansen-Lakshmanan vs 8-Sonkin-Saul
+        800    0.00   7.00 4-Schwaighart-Felure vs 2-Ring-Christensen
+        140    2.50   4.50 5-Heller-Heller vs 5-Berg-Hankins
+   50          7.00   0.00 6-Zaugg-Hesson vs 7-Reams-Mohrman
+        170    1.00   6.00 7-Ford-Jong vs 1-Galer-Pesce
+    PASS       5.50   1.50 8-Poore-Romeo vs 3-Schreiber-Reiter
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    4.00   3.00 1-Campbell-Fuhrman vs 4-Cowles-Laughary
+        450    4.00   3.00 2-Baer-Bolson vs 6-Taylor-Binney
+        450    4.00   3.00 3-Christiansen-Lakshmanan vs 8-Sonkin-Saul
+        460    0.50   6.50 4-Schwaighart-Felure vs 2-Ring-Christensen
+        460    0.50   6.50 5-Heller-Heller vs 5-Berg-Hankins
+        450    4.00   3.00 6-Zaugg-Hesson vs 7-Reams-Mohrman
+   50          7.00   0.00 7-Ford-Jong vs 1-Galer-Pesce
+        450    4.00   3.00 8-Poore-Romeo vs 3-Schreiber-Reiter
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   1.00 1-Campbell-Fuhrman vs 3-Schreiber-Reiter
+         50    4.50   2.50 2-Baer-Bolson vs 5-Berg-Hankins
+         50    4.50   2.50 3-Christiansen-Lakshmanan vs 7-Reams-Mohrman
+        100    2.50   4.50 4-Schwaighart-Felure vs 1-Galer-Pesce
+        110    1.00   6.00 5-Heller-Heller vs 4-Cowles-Laughary
+        170    0.00   7.00 6-Zaugg-Hesson vs 6-Taylor-Binney
+  140          7.00   0.00 7-Ford-Jong vs 8-Sonkin-Saul
+        100    2.50   4.50 8-Poore-Romeo vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.50   2.50 1-Campbell-Fuhrman vs 3-Schreiber-Reiter
+  650          4.50   2.50 2-Baer-Bolson vs 5-Berg-Hankins
+        100    0.00   7.00 3-Christiansen-Lakshmanan vs 7-Reams-Mohrman
+  650          4.50   2.50 4-Schwaighart-Felure vs 1-Galer-Pesce
+  650          4.50   2.50 5-Heller-Heller vs 4-Cowles-Laughary
+  620          1.00   6.00 6-Zaugg-Hesson vs 6-Taylor-Binney
+  660          7.00   0.00 7-Ford-Jong vs 8-Sonkin-Saul
+  630          2.00   5.00 8-Poore-Romeo vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   3.00 1-Campbell-Fuhrman vs 3-Schreiber-Reiter
+  620          5.00   2.00 2-Baer-Bolson vs 5-Berg-Hankins
+  650          6.00   1.00 3-Christiansen-Lakshmanan vs 7-Reams-Mohrman
+        100    2.00   5.00 4-Schwaighart-Felure vs 1-Galer-Pesce
+  850          7.00   0.00 5-Heller-Heller vs 4-Cowles-Laughary
+       1100    0.00   7.00 6-Zaugg-Hesson vs 6-Taylor-Binney
+        100    2.00   5.00 7-Ford-Jong vs 8-Sonkin-Saul
+        100    2.00   5.00 8-Poore-Romeo vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    3.00   4.00 1-Campbell-Fuhrman vs 2-Ring-Christensen
+        600    6.00   1.00 2-Baer-Bolson vs 4-Cowles-Laughary
+        600    6.00   1.00 3-Christiansen-Lakshmanan vs 6-Taylor-Binney
+        630    3.00   4.00 4-Schwaighart-Felure vs 8-Sonkin-Saul
+        660    0.50   6.50 5-Heller-Heller vs 3-Schreiber-Reiter
+        630    3.00   4.00 6-Zaugg-Hesson vs 5-Berg-Hankins
+        600    6.00   1.00 7-Ford-Jong vs 7-Reams-Mohrman
+        660    0.50   6.50 8-Poore-Romeo vs 1-Galer-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          6.00   1.00 1-Campbell-Fuhrman vs 2-Ring-Christensen
+  110          1.00   6.00 2-Baer-Bolson vs 4-Cowles-Laughary
+  110          1.00   6.00 3-Christiansen-Lakshmanan vs 6-Taylor-Binney
+  110          1.00   6.00 4-Schwaighart-Felure vs 8-Sonkin-Saul
+  130          4.50   2.50 5-Heller-Heller vs 3-Schreiber-Reiter
+  120          3.00   4.00 6-Zaugg-Hesson vs 5-Berg-Hankins
+  130          4.50   2.50 7-Ford-Jong vs 7-Reams-Mohrman
+  670          7.00   0.00 8-Poore-Romeo vs 1-Galer-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.50   1.50 1-Campbell-Fuhrman vs 2-Ring-Christensen
+         50    7.00   0.00 2-Baer-Bolson vs 4-Cowles-Laughary
+        300    2.00   5.00 3-Christiansen-Lakshmanan vs 6-Taylor-Binney
+        150    3.00   4.00 4-Schwaighart-Felure vs 8-Sonkin-Saul
+        500    0.00   7.00 5-Heller-Heller vs 3-Schreiber-Reiter
+        100    5.50   1.50 6-Zaugg-Hesson vs 5-Berg-Hankins
+        130    4.00   3.00 7-Ford-Jong vs 7-Reams-Mohrman
+        420    1.00   6.00 8-Poore-Romeo vs 1-Galer-Pesce
+----------------------------------------------------------------------

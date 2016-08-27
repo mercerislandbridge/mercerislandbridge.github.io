@@ -1,0 +1,536 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>March 25, 2014     |CLUB NO.>158048    | 04/01/2014 18:33
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian/Chris     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2000/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=9/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 William Campbell       Joel Fuhrman             B    .     4     .    131.06  48.54  0.25(B) 
+
+ 2 Mirjana Reams          Douglas Wake             B    5     3     .    137.81  51.04  0.36(B) 
+
+ 3 Pete Cowles            Clay Laughary            B    4     2     .    144.00  53.33  0.50(B) 
+
+ 4 Christopher Jarvis     Greg Fleming             B    .     .     .     99.00  36.67          
+
+ 5 B Drajpuch             James Spurlin            B    .     .     .    123.75  45.83          
+
+ 6 Corneliu Galer         Ken Christiansen         A    .     .     .    124.88  46.25          
+
+ 7 Kent Koprowicz         Lee Hooks                C    .     .     .    124.88  46.25          
+
+ 8 Larry Li               Daniel Poore             C   2/3    1     1    162.00  60.00  0.72(A) 
+
+ 9 Dennis Heller          Connie Heller            A    1     .     .    171.56  63.54  1.20(A) 
+
+10 Mike Ring              Brian Zaugg              B    .     .     .    123.50  45.74          
+
+11 Stanford Christie      Jim Aitken               A   2/3    .     .    162.00  60.00  0.72(A) 
+
+12 Irving Sonkin          Moises Saul              C    .     .     .    116.00  42.96          
+
+
+                                          Totals                        1620.44       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>March 25, 2014     |CLUB NO.>158048    | 04/01/2014 18:33
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian/Chris     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2000/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=7/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 Hugh Hendrickson       Martin Gelfand           B    .     .     .    114.50  42.41          
+
+ 3 Paul Schwaighart       Sharon Miller            A    1     .     .    156.00  57.78  1.20(A) 
+
+ 4 Maurice Blustein       Becky Stevens            A    4     .     .    142.00  52.59  0.42(A) 
+
+ 5 Nick Tipton            Galen Hesson             B    5     2     .    138.50  51.30  0.39(B) 
+
+ 6 Suzanne Sax            Amy DeShaw               A    3     .     .    144.50  53.52  0.60(A) 
+
+ 7 David Wright           Mike Christensen         B    .     .     .    134.50  49.81          
+
+ 8 Martha Potter          Terry Graham             C    .     .     .    115.00  42.59          
+
+ 9 Penny Lepp             Ray Lepp                 C    2     1     1    154.50  57.22  0.84(A) 
+
+10 Adam Ruprecht          Chris Moore              B    .     .     .    128.00  47.41          
+
+11 Dell Berg              David Hankins            A    .     .     .    122.00  45.19          
+
+12 Edward Horwitz         William Jolly            B    .     3     .    135.50  50.19  0.28(B) 
+
+
+                                          Totals                        1485.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   7.50 2-Reams-Wake vs 6-Sax-DeShaw
+         50    2.50   7.50 3-Cowles-Laughary vs 8-Potter-Graham
+  100          5.00   5.00 4-Jarvis-Fleming vs 10-Ruprecht-Moore
+         50    2.50   7.50 5-Drajpuch-Spurlin vs 12-Horwitz-Jolly
+         50    2.50   7.50 6-Galer-Christiansen vs 2-Hendrickson-Gelfand
+  140          6.50   3.50 7-Koprowicz-Hooks vs 3-Schwaighart-Miller
+  630         10.00   0.00 8-Li-Poore vs 5-Tipton-Hesson
+        140    0.00  10.00 9-Heller-Heller vs 7-Wright-Christensen
+  170          8.00   2.00 10-Ring-Zaugg vs 9-Lepp-Lepp
+  530          9.00   1.00 11-Christie-Aitken vs 11-Berg-Hankins
+  140          6.50   3.50 12-Sonkin-Saul vs 4-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          5.00   5.00 2-Reams-Wake vs 6-Sax-DeShaw
+  150          2.00   8.00 3-Cowles-Laughary vs 8-Potter-Graham
+  690          8.50   1.50 4-Jarvis-Fleming vs 10-Ruprecht-Moore
+  600          5.00   5.00 5-Drajpuch-Spurlin vs 12-Horwitz-Jolly
+  150          2.00   8.00 6-Galer-Christiansen vs 2-Hendrickson-Gelfand
+  150          2.00   8.00 7-Koprowicz-Hooks vs 3-Schwaighart-Miller
+  600          5.00   5.00 8-Li-Poore vs 5-Tipton-Hesson
+  800         10.00   0.00 9-Heller-Heller vs 7-Wright-Christensen
+  650          7.00   3.00 10-Ring-Zaugg vs 9-Lepp-Lepp
+  690          8.50   1.50 11-Christie-Aitken vs 11-Berg-Hankins
+        140    0.00  10.00 12-Sonkin-Saul vs 4-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   8.50 2-Reams-Wake vs 6-Sax-DeShaw
+        170    6.00   4.00 3-Cowles-Laughary vs 8-Potter-Graham
+        650    0.00  10.00 4-Jarvis-Fleming vs 10-Ruprecht-Moore
+        170    6.00   4.00 5-Drajpuch-Spurlin vs 12-Horwitz-Jolly
+        200    4.00   6.00 6-Galer-Christiansen vs 2-Hendrickson-Gelfand
+        300    3.00   7.00 7-Koprowicz-Hooks vs 3-Schwaighart-Miller
+  110         10.00   0.00 8-Li-Poore vs 5-Tipton-Hesson
+        170    6.00   4.00 9-Heller-Heller vs 7-Wright-Christensen
+        620    1.50   8.50 10-Ring-Zaugg vs 9-Lepp-Lepp
+        100    8.50   1.50 11-Christie-Aitken vs 11-Berg-Hankins
+        100    8.50   1.50 12-Sonkin-Saul vs 4-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          8.00   2.00 1-Campbell-Fuhrman vs 12-Horwitz-Jolly
+  650          3.50   6.50 2-Reams-Wake vs 2-Hendrickson-Gelfand
+  680          8.00   2.00 3-Cowles-Laughary vs 7-Wright-Christensen
+  650          3.50   6.50 4-Jarvis-Fleming vs 9-Lepp-Lepp
+  650          3.50   6.50 5-Drajpuch-Spurlin vs 11-Berg-Hankins
+  650          3.50   6.50 7-Koprowicz-Hooks vs 4-Blustein-Stevens
+  650          3.50   6.50 8-Li-Poore vs 6-Sax-DeShaw
+  680          8.00   2.00 9-Heller-Heller vs 8-Potter-Graham
+        100    0.00  10.00 10-Ring-Zaugg vs 10-Ruprecht-Moore
+ 1430         10.00   0.00 11-Christie-Aitken vs 3-Schwaighart-Miller
+  650          3.50   6.50 12-Sonkin-Saul vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          8.50   1.50 1-Campbell-Fuhrman vs 12-Horwitz-Jolly
+  620          8.50   1.50 2-Reams-Wake vs 2-Hendrickson-Gelfand
+        100    2.50   7.50 3-Cowles-Laughary vs 7-Wright-Christensen
+        100    2.50   7.50 4-Jarvis-Fleming vs 9-Lepp-Lepp
+  620          8.50   1.50 5-Drajpuch-Spurlin vs 11-Berg-Hankins
+        100    2.50   7.50 7-Koprowicz-Hooks vs 4-Blustein-Stevens
+        100    2.50   7.50 8-Li-Poore vs 6-Sax-DeShaw
+  620          8.50   1.50 9-Heller-Heller vs 8-Potter-Graham
+        100    2.50   7.50 10-Ring-Zaugg vs 10-Ruprecht-Moore
+  170          6.00   4.00 11-Christie-Aitken vs 3-Schwaighart-Miller
+        100    2.50   7.50 12-Sonkin-Saul vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          6.00   4.00 1-Campbell-Fuhrman vs 12-Horwitz-Jolly
+        100    1.50   8.50 2-Reams-Wake vs 2-Hendrickson-Gelfand
+         50    4.50   5.50 3-Cowles-Laughary vs 7-Wright-Christensen
+        100    1.50   8.50 4-Jarvis-Fleming vs 9-Lepp-Lepp
+  140          8.00   2.00 5-Drajpuch-Spurlin vs 11-Berg-Hankins
+         50    4.50   5.50 7-Koprowicz-Hooks vs 4-Blustein-Stevens
+  140          8.00   2.00 8-Li-Poore vs 6-Sax-DeShaw
+  800         10.00   0.00 9-Heller-Heller vs 8-Potter-Graham
+        100    1.50   8.50 10-Ring-Zaugg vs 10-Ruprecht-Moore
+  140          8.00   2.00 11-Christie-Aitken vs 3-Schwaighart-Miller
+        100    1.50   8.50 12-Sonkin-Saul vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.50   8.50 1-Campbell-Fuhrman vs 11-Berg-Hankins
+  620          4.50   5.50 3-Cowles-Laughary vs 3-Schwaighart-Miller
+  200          1.50   8.50 4-Jarvis-Fleming vs 8-Potter-Graham
+  620          4.50   5.50 5-Drajpuch-Spurlin vs 10-Ruprecht-Moore
+  200          1.50   8.50 6-Galer-Christiansen vs 12-Horwitz-Jolly
+  650          8.00   2.00 7-Koprowicz-Hooks vs 5-Tipton-Hesson
+  650          8.00   2.00 8-Li-Poore vs 7-Wright-Christensen
+  650          8.00   2.00 9-Heller-Heller vs 9-Lepp-Lepp
+  650          8.00   2.00 10-Ring-Zaugg vs 2-Hendrickson-Gelfand
+  200          1.50   8.50 11-Christie-Aitken vs 4-Blustein-Stevens
+  650          8.00   2.00 12-Sonkin-Saul vs 6-Sax-DeShaw
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          7.50   2.50 1-Campbell-Fuhrman vs 11-Berg-Hankins
+  130          5.00   5.00 3-Cowles-Laughary vs 3-Schwaighart-Miller
+         50    2.00   8.00 4-Jarvis-Fleming vs 8-Potter-Graham
+  420          7.50   2.50 5-Drajpuch-Spurlin vs 10-Ruprecht-Moore
+  500          9.50   0.50 6-Galer-Christiansen vs 12-Horwitz-Jolly
+  100          4.00   6.00 7-Koprowicz-Hooks vs 5-Tipton-Hesson
+         50    2.00   8.00 8-Li-Poore vs 7-Wright-Christensen
+        150    0.00  10.00 9-Heller-Heller vs 9-Lepp-Lepp
+         50    2.00   8.00 10-Ring-Zaugg vs 2-Hendrickson-Gelfand
+  500          9.50   0.50 11-Christie-Aitken vs 4-Blustein-Stevens
+  300          6.00   4.00 12-Sonkin-Saul vs 6-Sax-DeShaw
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          9.00   1.00 1-Campbell-Fuhrman vs 11-Berg-Hankins
+  800         10.00   0.00 3-Cowles-Laughary vs 3-Schwaighart-Miller
+         50    6.00   4.00 4-Jarvis-Fleming vs 8-Potter-Graham
+        100    2.50   7.50 5-Drajpuch-Spurlin vs 10-Ruprecht-Moore
+        100    2.50   7.50 6-Galer-Christiansen vs 12-Horwitz-Jolly
+        100    2.50   7.50 7-Koprowicz-Hooks vs 5-Tipton-Hesson
+        100    2.50   7.50 8-Li-Poore vs 7-Wright-Christensen
+   90          7.00   3.00 9-Heller-Heller vs 9-Lepp-Lepp
+  130          8.00   2.00 10-Ring-Zaugg vs 2-Hendrickson-Gelfand
+        100    2.50   7.50 11-Christie-Aitken vs 4-Blustein-Stevens
+        100    2.50   7.50 12-Sonkin-Saul vs 6-Sax-DeShaw
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   3.00 1-Campbell-Fuhrman vs 10-Ruprecht-Moore
+        150    4.50   5.50 2-Reams-Wake vs 12-Horwitz-Jolly
+        500    2.00   8.00 3-Cowles-Laughary vs 2-Hendrickson-Gelfand
+        150    4.50   5.50 4-Jarvis-Fleming vs 4-Blustein-Stevens
+  100          7.00   3.00 5-Drajpuch-Spurlin vs 9-Lepp-Lepp
+  200          9.00   1.00 6-Galer-Christiansen vs 11-Berg-Hankins
+  100          7.00   3.00 7-Koprowicz-Hooks vs 6-Sax-DeShaw
+  300         10.00   0.00 8-Li-Poore vs 8-Potter-Graham
+        600    1.00   9.00 10-Ring-Zaugg vs 3-Schwaighart-Miller
+        300    3.00   7.00 11-Christie-Aitken vs 5-Tipton-Hesson
+        800    0.00  10.00 12-Sonkin-Saul vs 7-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    6.00   4.00 1-Campbell-Fuhrman vs 10-Ruprecht-Moore
+        430    7.50   2.50 2-Reams-Wake vs 12-Horwitz-Jolly
+        400    9.00   1.00 3-Cowles-Laughary vs 2-Hendrickson-Gelfand
+        490    0.50   9.50 4-Jarvis-Fleming vs 4-Blustein-Stevens
+        460    3.50   6.50 5-Drajpuch-Spurlin vs 9-Lepp-Lepp
+        460    3.50   6.50 6-Galer-Christiansen vs 11-Berg-Hankins
+        490    0.50   9.50 7-Koprowicz-Hooks vs 6-Sax-DeShaw
+        180   10.00   0.00 8-Li-Poore vs 8-Potter-Graham
+        460    3.50   6.50 10-Ring-Zaugg vs 3-Schwaighart-Miller
+        430    7.50   2.50 11-Christie-Aitken vs 5-Tipton-Hesson
+        460    3.50   6.50 12-Sonkin-Saul vs 7-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.50   4.50 1-Campbell-Fuhrman vs 10-Ruprecht-Moore
+         90    2.00   8.00 2-Reams-Wake vs 12-Horwitz-Jolly
+  690         10.00   0.00 3-Cowles-Laughary vs 2-Hendrickson-Gelfand
+        110    0.50   9.50 4-Jarvis-Fleming vs 4-Blustein-Stevens
+  100          3.50   6.50 5-Drajpuch-Spurlin vs 9-Lepp-Lepp
+  600          7.50   2.50 6-Galer-Christiansen vs 11-Berg-Hankins
+  600          7.50   2.50 7-Koprowicz-Hooks vs 6-Sax-DeShaw
+  630          9.00   1.00 8-Li-Poore vs 8-Potter-Graham
+        110    0.50   9.50 10-Ring-Zaugg vs 3-Schwaighart-Miller
+  100          3.50   6.50 11-Christie-Aitken vs 5-Tipton-Hesson
+  110          5.50   4.50 12-Sonkin-Saul vs 7-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   8.50 1-Campbell-Fuhrman vs 9-Lepp-Lepp
+        200    1.50   8.50 2-Reams-Wake vs 11-Berg-Hankins
+        100    5.50   4.50 4-Jarvis-Fleming vs 3-Schwaighart-Miller
+        200    1.50   8.50 5-Drajpuch-Spurlin vs 5-Tipton-Hesson
+        140    4.00   6.00 6-Galer-Christiansen vs 10-Ruprecht-Moore
+  110          8.50   1.50 7-Koprowicz-Hooks vs 7-Wright-Christensen
+  110          8.50   1.50 8-Li-Poore vs 12-Horwitz-Jolly
+        100    5.50   4.50 9-Heller-Heller vs 2-Hendrickson-Gelfand
+        200    1.50   8.50 10-Ring-Zaugg vs 4-Blustein-Stevens
+  110          8.50   1.50 11-Christie-Aitken vs 6-Sax-DeShaw
+  110          8.50   1.50 12-Sonkin-Saul vs 8-Potter-Graham
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.50   4.50 1-Campbell-Fuhrman vs 9-Lepp-Lepp
+  450          5.50   4.50 2-Reams-Wake vs 11-Berg-Hankins
+        100    0.00  10.00 4-Jarvis-Fleming vs 3-Schwaighart-Miller
+  450          5.50   4.50 5-Drajpuch-Spurlin vs 5-Tipton-Hesson
+  450          5.50   4.50 6-Galer-Christiansen vs 10-Ruprecht-Moore
+  450          5.50   4.50 7-Koprowicz-Hooks vs 7-Wright-Christensen
+  450          5.50   4.50 8-Li-Poore vs 12-Horwitz-Jolly
+  480         10.00   0.00 9-Heller-Heller vs 2-Hendrickson-Gelfand
+  450          5.50   4.50 10-Ring-Zaugg vs 4-Blustein-Stevens
+  450          5.50   4.50 11-Christie-Aitken vs 6-Sax-DeShaw
+  400          1.00   9.00 12-Sonkin-Saul vs 8-Potter-Graham
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.00   8.00 1-Campbell-Fuhrman vs 9-Lepp-Lepp
+ 1430          6.50   3.50 2-Reams-Wake vs 11-Berg-Hankins
+        100    0.00  10.00 4-Jarvis-Fleming vs 3-Schwaighart-Miller
+ 1430          6.50   3.50 5-Drajpuch-Spurlin vs 5-Tipton-Hesson
+ 1470          9.00   1.00 6-Galer-Christiansen vs 10-Ruprecht-Moore
+  680          2.00   8.00 7-Koprowicz-Hooks vs 7-Wright-Christensen
+  690          4.00   6.00 8-Li-Poore vs 12-Horwitz-Jolly
+ 1470          9.00   1.00 9-Heller-Heller vs 2-Hendrickson-Gelfand
+ 1470          9.00   1.00 10-Ring-Zaugg vs 4-Blustein-Stevens
+  720          5.00   5.00 11-Christie-Aitken vs 6-Sax-DeShaw
+  680          2.00   8.00 12-Sonkin-Saul vs 8-Potter-Graham
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          7.50   2.50 1-Campbell-Fuhrman vs 8-Potter-Graham
+  420          4.50   5.50 2-Reams-Wake vs 10-Ruprecht-Moore
+  420          4.50   5.50 3-Cowles-Laughary vs 12-Horwitz-Jolly
+  450          7.50   2.50 4-Jarvis-Fleming vs 2-Hendrickson-Gelfand
+        150    0.00  10.00 5-Drajpuch-Spurlin vs 4-Blustein-Stevens
+         50    1.00   9.00 6-Galer-Christiansen vs 6-Sax-DeShaw
+  420          4.50   5.50 7-Koprowicz-Hooks vs 11-Berg-Hankins
+  460          9.50   0.50 9-Heller-Heller vs 3-Schwaighart-Miller
+  460          9.50   0.50 10-Ring-Zaugg vs 5-Tipton-Hesson
+  420          4.50   5.50 11-Christie-Aitken vs 7-Wright-Christensen
+  170          2.00   8.00 12-Sonkin-Saul vs 9-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   5.00 1-Campbell-Fuhrman vs 8-Potter-Graham
+  920          9.50   0.50 2-Reams-Wake vs 10-Ruprecht-Moore
+  420          7.50   2.50 3-Cowles-Laughary vs 12-Horwitz-Jolly
+  170          5.00   5.00 4-Jarvis-Fleming vs 2-Hendrickson-Gelfand
+  150          2.00   8.00 5-Drajpuch-Spurlin vs 4-Blustein-Stevens
+  150          2.00   8.00 6-Galer-Christiansen vs 6-Sax-DeShaw
+  170          5.00   5.00 7-Koprowicz-Hooks vs 11-Berg-Hankins
+  140          0.00  10.00 9-Heller-Heller vs 3-Schwaighart-Miller
+  150          2.00   8.00 10-Ring-Zaugg vs 5-Tipton-Hesson
+  420          7.50   2.50 11-Christie-Aitken vs 7-Wright-Christensen
+  920          9.50   0.50 12-Sonkin-Saul vs 9-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   9.00 1-Campbell-Fuhrman vs 8-Potter-Graham
+        170    3.50   6.50 2-Reams-Wake vs 10-Ruprecht-Moore
+        170    3.50   6.50 3-Cowles-Laughary vs 12-Horwitz-Jolly
+  730         10.00   0.00 4-Jarvis-Fleming vs 2-Hendrickson-Gelfand
+   50          8.50   1.50 5-Drajpuch-Spurlin vs 4-Blustein-Stevens
+        170    3.50   6.50 6-Galer-Christiansen vs 6-Sax-DeShaw
+        140    6.00   4.00 7-Koprowicz-Hooks vs 11-Berg-Hankins
+        110    7.00   3.00 9-Heller-Heller vs 3-Schwaighart-Miller
+        170    3.50   6.50 10-Ring-Zaugg vs 5-Tipton-Hesson
+   50          8.50   1.50 11-Christie-Aitken vs 7-Wright-Christensen
+        450    0.00  10.00 12-Sonkin-Saul vs 9-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          9.50   0.50 1-Campbell-Fuhrman vs 7-Wright-Christensen
+        500    3.00   7.00 2-Reams-Wake vs 9-Lepp-Lepp
+        170    4.00   6.00 3-Cowles-Laughary vs 11-Berg-Hankins
+        660    1.50   8.50 5-Drajpuch-Spurlin vs 3-Schwaighart-Miller
+        150    5.50   4.50 6-Galer-Christiansen vs 5-Tipton-Hesson
+        660    1.50   8.50 7-Koprowicz-Hooks vs 12-Horwitz-Jolly
+        150    5.50   4.50 8-Li-Poore vs 2-Hendrickson-Gelfand
+        130    8.00   2.00 9-Heller-Heller vs 4-Blustein-Stevens
+  100          9.50   0.50 10-Ring-Zaugg vs 6-Sax-DeShaw
+        800    0.00  10.00 11-Christie-Aitken vs 8-Potter-Graham
+        140    7.00   3.00 12-Sonkin-Saul vs 10-Ruprecht-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    5.00   5.00 1-Campbell-Fuhrman vs 7-Wright-Christensen
+        650    5.00   5.00 2-Reams-Wake vs 9-Lepp-Lepp
+        650    5.00   5.00 3-Cowles-Laughary vs 11-Berg-Hankins
+        650    5.00   5.00 5-Drajpuch-Spurlin vs 3-Schwaighart-Miller
+        650    5.00   5.00 6-Galer-Christiansen vs 5-Tipton-Hesson
+        650    5.00   5.00 7-Koprowicz-Hooks vs 12-Horwitz-Jolly
+        650    5.00   5.00 8-Li-Poore vs 2-Hendrickson-Gelfand
+        650    5.00   5.00 9-Heller-Heller vs 4-Blustein-Stevens
+        650    5.00   5.00 10-Ring-Zaugg vs 6-Sax-DeShaw
+        650    5.00   5.00 11-Christie-Aitken vs 8-Potter-Graham
+        650    5.00   5.00 12-Sonkin-Saul vs 10-Ruprecht-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          6.50   3.50 1-Campbell-Fuhrman vs 7-Wright-Christensen
+  680          6.50   3.50 2-Reams-Wake vs 9-Lepp-Lepp
+  650          2.00   8.00 3-Cowles-Laughary vs 11-Berg-Hankins
+  660          4.00   6.00 5-Drajpuch-Spurlin vs 3-Schwaighart-Miller
+ 1100         10.00   0.00 6-Galer-Christiansen vs 5-Tipton-Hesson
+        300    0.00  10.00 7-Koprowicz-Hooks vs 12-Horwitz-Jolly
+  650          2.00   8.00 8-Li-Poore vs 2-Hendrickson-Gelfand
+  690          9.00   1.00 9-Heller-Heller vs 4-Blustein-Stevens
+  680          6.50   3.50 10-Ring-Zaugg vs 6-Sax-DeShaw
+  680          6.50   3.50 11-Christie-Aitken vs 8-Potter-Graham
+  650          2.00   8.00 12-Sonkin-Saul vs 10-Ruprecht-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.50   2.50 1-Campbell-Fuhrman vs 6-Sax-DeShaw
+  100          7.50   2.50 2-Reams-Wake vs 8-Potter-Graham
+  300         10.00   0.00 3-Cowles-Laughary vs 10-Ruprecht-Moore
+    PASS       4.50   5.50 4-Jarvis-Fleming vs 12-Horwitz-Jolly
+         50    2.50   7.50 5-Drajpuch-Spurlin vs 2-Hendrickson-Gelfand
+         50    2.50   7.50 6-Galer-Christiansen vs 4-Blustein-Stevens
+  100          7.50   2.50 8-Li-Poore vs 3-Schwaighart-Miller
+  100          7.50   2.50 9-Heller-Heller vs 5-Tipton-Hesson
+        100    1.00   9.00 10-Ring-Zaugg vs 7-Wright-Christensen
+    PASS       4.50   5.50 11-Christie-Aitken vs 9-Lepp-Lepp
+        120    0.00  10.00 12-Sonkin-Saul vs 11-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00  10.00 1-Campbell-Fuhrman vs 6-Sax-DeShaw
+  200          8.50   1.50 2-Reams-Wake vs 8-Potter-Graham
+        140    1.00   9.00 3-Cowles-Laughary vs 10-Ruprecht-Moore
+        100    4.00   6.00 4-Jarvis-Fleming vs 12-Horwitz-Jolly
+  200          8.50   1.50 5-Drajpuch-Spurlin vs 2-Hendrickson-Gelfand
+  200          8.50   1.50 6-Galer-Christiansen vs 4-Blustein-Stevens
+        110    2.50   7.50 8-Li-Poore vs 3-Schwaighart-Miller
+  100          5.50   4.50 9-Heller-Heller vs 5-Tipton-Hesson
+        110    2.50   7.50 10-Ring-Zaugg vs 7-Wright-Christensen
+  100          5.50   4.50 11-Christie-Aitken vs 9-Lepp-Lepp
+  200          8.50   1.50 12-Sonkin-Saul vs 11-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.50   9.50 1-Campbell-Fuhrman vs 6-Sax-DeShaw
+  100         10.00   0.00 2-Reams-Wake vs 8-Potter-Graham
+   50          7.50   2.50 3-Cowles-Laughary vs 10-Ruprecht-Moore
+   50          7.50   2.50 4-Jarvis-Fleming vs 12-Horwitz-Jolly
+        110    2.50   7.50 5-Drajpuch-Spurlin vs 2-Hendrickson-Gelfand
+         50    5.00   5.00 6-Galer-Christiansen vs 4-Blustein-Stevens
+        100    4.00   6.00 8-Li-Poore vs 3-Schwaighart-Miller
+        110    2.50   7.50 9-Heller-Heller vs 5-Tipton-Hesson
+   50          7.50   2.50 10-Ring-Zaugg vs 7-Wright-Christensen
+        130    0.50   9.50 11-Christie-Aitken vs 9-Lepp-Lepp
+   50          7.50   2.50 12-Sonkin-Saul vs 11-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    1.50   8.50 1-Campbell-Fuhrman vs 5-Tipton-Hesson
+       1430    1.50   8.50 2-Reams-Wake vs 7-Wright-Christensen
+        650    6.50   3.50 3-Cowles-Laughary vs 9-Lepp-Lepp
+       1430    1.50   8.50 4-Jarvis-Fleming vs 11-Berg-Hankins
+        680    4.50   5.50 6-Galer-Christiansen vs 3-Schwaighart-Miller
+       1430    1.50   8.50 7-Koprowicz-Hooks vs 2-Hendrickson-Gelfand
+  100          9.00   1.00 8-Li-Poore vs 4-Blustein-Stevens
+  100          9.00   1.00 9-Heller-Heller vs 6-Sax-DeShaw
+        680    4.50   5.50 10-Ring-Zaugg vs 8-Potter-Graham
+  100          9.00   1.00 11-Christie-Aitken vs 10-Ruprecht-Moore
+        650    6.50   3.50 12-Sonkin-Saul vs 12-Horwitz-Jolly
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.50   6.50 1-Campbell-Fuhrman vs 5-Tipton-Hesson
+  110          9.00   1.00 2-Reams-Wake vs 7-Wright-Christensen
+        100    6.50   3.50 3-Cowles-Laughary vs 9-Lepp-Lepp
+        100    6.50   3.50 4-Jarvis-Fleming vs 11-Berg-Hankins
+        300    1.00   9.00 6-Galer-Christiansen vs 3-Schwaighart-Miller
+  140         10.00   0.00 7-Koprowicz-Hooks vs 2-Hendrickson-Gelfand
+        300    1.00   9.00 8-Li-Poore vs 4-Blustein-Stevens
+        200    3.50   6.50 9-Heller-Heller vs 6-Sax-DeShaw
+        100    6.50   3.50 10-Ring-Zaugg vs 8-Potter-Graham
+        100    6.50   3.50 11-Christie-Aitken vs 10-Ruprecht-Moore
+        300    1.00   9.00 12-Sonkin-Saul vs 12-Horwitz-Jolly
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   9.00 1-Campbell-Fuhrman vs 5-Tipton-Hesson
+        230    4.00   6.00 2-Reams-Wake vs 7-Wright-Christensen
+        230    4.00   6.00 3-Cowles-Laughary vs 9-Lepp-Lepp
+        830    0.00  10.00 4-Jarvis-Fleming vs 11-Berg-Hankins
+        300    2.00   8.00 6-Galer-Christiansen vs 3-Schwaighart-Miller
+  170         10.00   0.00 7-Koprowicz-Hooks vs 2-Hendrickson-Gelfand
+        100    9.00   1.00 8-Li-Poore vs 4-Blustein-Stevens
+        230    4.00   6.00 9-Heller-Heller vs 6-Sax-DeShaw
+        200    6.00   4.00 10-Ring-Zaugg vs 8-Potter-Graham
+        170    7.50   2.50 11-Christie-Aitken vs 10-Ruprecht-Moore
+        170    7.50   2.50 12-Sonkin-Saul vs 12-Horwitz-Jolly
+----------------------------------------------------------------------
