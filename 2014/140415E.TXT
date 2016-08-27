@@ -1,0 +1,532 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>April 15, 2014     |CLUB NO.>158048    | 04/22/2014 18:31
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=6/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 William Campbell       David Roselle            B    .     .     .    125.50  46.48          
+
+ 2 Alan Tesler            Barbara Higgins          C    .     1     1    144.50  53.52  0.48(B) 
+
+ 3 Dave Drischell         Rose Bolson              A    .     .     .    131.00  48.52          
+
+ 4 Jennifer Chalfan       Melinda Westgate         B    .     .     .     99.50  36.85          
+
+ 5 Shawn Abernethy        Mike Ring                B    .     .     .    118.50  43.89          
+
+ 6 Jeffrey Ford           Kim Eng                  A    4     .     .    149.00  55.19  0.39(A) 
+
+ 7 Mike Christensen       Maurice Blustein         A    1     .     .    159.50  59.07  1.10(A) 
+
+ 8 Dennis Heller          Corneliu Galer           A    3     .     .    153.50  56.85  0.55(A) 
+
+ 9 Julius Budos           Stephen Kalish           B    .     .     .    117.50  43.52          
+
+10 Ray Miller             Stanford Christie        A    2     .     .    158.50  58.70  0.77(A) 
+
+11 Kent Koprowicz         Lee Hooks                C    .     2     .    128.00  47.41  0.34(B) 
+
+
+                                          Totals                        1485.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>April 15, 2014     |CLUB NO.>158048    | 04/22/2014 18:31
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=8/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B    .     .     .    130.50  48.33          
+
+ 2 John Krah              Daniel Poore             C    3     2     1    144.00  53.33  0.55(A) 
+
+ 3 Liliana Diaconescu     Brian Zaugg              B    .     .     .    124.50  46.11          
+
+ 4 Penny Lepp             Ray Lepp                 C    .     .     .    109.00  40.37          
+
+ 5 Dong Yan               James Spurlin            B    .     3     .    137.50  50.93  0.32(B) 
+
+ 6 Dell Berg              David Hankins            A    1     .     .    172.00  63.70  1.10(A) 
+
+ 7 Jim Aitken             Patrick Dunn             A    4     .     .    141.50  52.41  0.39(A) 
+
+ 8 Paul Schwaighart       Sharon Miller            A    .     .     .    126.00  46.67          
+
+ 9 Yuri Wiitala           Gert Wiitala             B    2     1     .    145.50  53.89  0.77(A) 
+
+10 Pete Cowles            Clay Laughary            C    .     .     2    136.50  50.56  0.22(C) 
+
+11 Ron Mc Mullen          Margaret Mc Mullen       C    .     .     .    118.00  43.70          
+
+
+                                          Totals                        1485.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    8.50   1.50 1-Campbell-Roselle vs 1-Tipton-Hesson
+        300    3.50   6.50 2-Tesler-Higgins vs 5-Yan-Spurlin
+        300    3.50   6.50 3-Drischell-Bolson vs 7-Aitken-Dunn
+        300    3.50   6.50 4-Chalfan-Westgate vs 9-Wiitala-Wiitala
+        300    3.50   6.50 5-Abernethy-Ring vs 11-Mc Mullen-Mc Mullen
+        300    3.50   6.50 6-Ford-Eng vs 2-Krah-Poore
+        100    8.50   1.50 7-Christensen-Blustein vs 4-Lepp-Lepp
+        300    3.50   6.50 8-Heller-Galer vs 6-Berg-Hankins
+        300    3.50   6.50 9-Budos-Kalish vs 8-Schwaighart-Miller
+        300    3.50   6.50 10-Miller-Christie vs 10-Cowles-Laughary
+   50         10.00   0.00 11-Koprowicz-Hooks vs 3-Diaconescu-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.50   5.50 1-Campbell-Roselle vs 1-Tipton-Hesson
+  150          0.00  10.00 2-Tesler-Higgins vs 5-Yan-Spurlin
+  660          6.00   4.00 3-Drischell-Bolson vs 7-Aitken-Dunn
+  600          3.00   7.00 4-Chalfan-Westgate vs 9-Wiitala-Wiitala
+  680          8.50   1.50 5-Abernethy-Ring vs 11-Mc Mullen-Mc Mullen
+  500          2.00   8.00 6-Ford-Eng vs 2-Krah-Poore
+  680          8.50   1.50 7-Christensen-Blustein vs 4-Lepp-Lepp
+  680          8.50   1.50 8-Heller-Galer vs 6-Berg-Hankins
+  650          4.50   5.50 9-Budos-Kalish vs 8-Schwaighart-Miller
+  680          8.50   1.50 10-Miller-Christie vs 10-Cowles-Laughary
+  170          1.00   9.00 11-Koprowicz-Hooks vs 3-Diaconescu-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          8.00   2.00 1-Campbell-Roselle vs 1-Tipton-Hesson
+         50    2.00   8.00 2-Tesler-Higgins vs 5-Yan-Spurlin
+         50    2.00   8.00 3-Drischell-Bolson vs 7-Aitken-Dunn
+         50    2.00   8.00 4-Chalfan-Westgate vs 9-Wiitala-Wiitala
+  450          8.00   2.00 5-Abernethy-Ring vs 11-Mc Mullen-Mc Mullen
+  420          5.50   4.50 6-Ford-Eng vs 2-Krah-Poore
+  420          5.50   4.50 7-Christensen-Blustein vs 4-Lepp-Lepp
+         50    2.00   8.00 8-Heller-Galer vs 6-Berg-Hankins
+  450          8.00   2.00 9-Budos-Kalish vs 8-Schwaighart-Miller
+  460         10.00   0.00 10-Miller-Christie vs 10-Cowles-Laughary
+         50    2.00   8.00 11-Koprowicz-Hooks vs 3-Diaconescu-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   8.00 1-Campbell-Roselle vs 11-Mc Mullen-Mc Mullen
+        110    5.00   5.00 2-Tesler-Higgins vs 2-Krah-Poore
+        200    2.00   8.00 3-Drischell-Bolson vs 6-Berg-Hankins
+ 1100         10.00   0.00 4-Chalfan-Westgate vs 8-Schwaighart-Miller
+        200    2.00   8.00 5-Abernethy-Ring vs 10-Cowles-Laughary
+  200          9.00   1.00 6-Ford-Eng vs 1-Tipton-Hesson
+        200    2.00   8.00 7-Christensen-Blustein vs 3-Diaconescu-Zaugg
+  140          8.00   2.00 8-Heller-Galer vs 5-Yan-Spurlin
+  110          7.00   3.00 9-Budos-Kalish vs 7-Aitken-Dunn
+        200    2.00   8.00 10-Miller-Christie vs 9-Wiitala-Wiitala
+        100    6.00   4.00 11-Koprowicz-Hooks vs 4-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   9.00 1-Campbell-Roselle vs 11-Mc Mullen-Mc Mullen
+  630          9.50   0.50 2-Tesler-Higgins vs 2-Krah-Poore
+  380          4.00   6.00 3-Drischell-Bolson vs 6-Berg-Hankins
+        100    1.00   9.00 4-Chalfan-Westgate vs 8-Schwaighart-Miller
+  500          5.00   5.00 5-Abernethy-Ring vs 10-Cowles-Laughary
+  600          7.00   3.00 6-Ford-Eng vs 1-Tipton-Hesson
+  100          3.00   7.00 7-Christensen-Blustein vs 3-Diaconescu-Zaugg
+  600          7.00   3.00 8-Heller-Galer vs 5-Yan-Spurlin
+  600          7.00   3.00 9-Budos-Kalish vs 7-Aitken-Dunn
+        100    1.00   9.00 10-Miller-Christie vs 9-Wiitala-Wiitala
+  630          9.50   0.50 11-Koprowicz-Hooks vs 4-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.50   4.50 1-Campbell-Roselle vs 11-Mc Mullen-Mc Mullen
+  170          1.00   9.00 2-Tesler-Higgins vs 2-Krah-Poore
+  170          1.00   9.00 3-Drischell-Bolson vs 6-Berg-Hankins
+  170          1.00   9.00 4-Chalfan-Westgate vs 8-Schwaighart-Miller
+  420          5.50   4.50 5-Abernethy-Ring vs 10-Cowles-Laughary
+  420          5.50   4.50 6-Ford-Eng vs 1-Tipton-Hesson
+  420          5.50   4.50 7-Christensen-Blustein vs 3-Diaconescu-Zaugg
+  420          5.50   4.50 8-Heller-Galer vs 5-Yan-Spurlin
+  420          5.50   4.50 9-Budos-Kalish vs 7-Aitken-Dunn
+  450          9.50   0.50 10-Miller-Christie vs 9-Wiitala-Wiitala
+  450          9.50   0.50 11-Koprowicz-Hooks vs 4-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   8.00 1-Campbell-Roselle vs 10-Cowles-Laughary
+        620    6.00   4.00 2-Tesler-Higgins vs 1-Tipton-Hesson
+  100          9.50   0.50 3-Drischell-Bolson vs 3-Diaconescu-Zaugg
+        620    6.00   4.00 4-Chalfan-Westgate vs 7-Aitken-Dunn
+        650    2.00   8.00 5-Abernethy-Ring vs 9-Wiitala-Wiitala
+  100          9.50   0.50 6-Ford-Eng vs 11-Mc Mullen-Mc Mullen
+        620    6.00   4.00 7-Christensen-Blustein vs 2-Krah-Poore
+        200    8.00   2.00 8-Heller-Galer vs 4-Lepp-Lepp
+        650    2.00   8.00 9-Budos-Kalish vs 6-Berg-Hankins
+        650    2.00   8.00 10-Miller-Christie vs 8-Schwaighart-Miller
+        650    2.00   8.00 11-Koprowicz-Hooks vs 5-Yan-Spurlin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.50   6.50 1-Campbell-Roselle vs 10-Cowles-Laughary
+  420          6.50   3.50 2-Tesler-Higgins vs 1-Tipton-Hesson
+  420          6.50   3.50 3-Drischell-Bolson vs 3-Diaconescu-Zaugg
+  100          2.00   8.00 4-Chalfan-Westgate vs 7-Aitken-Dunn
+        100    0.50   9.50 5-Abernethy-Ring vs 9-Wiitala-Wiitala
+  420          6.50   3.50 6-Ford-Eng vs 11-Mc Mullen-Mc Mullen
+  630         10.00   0.00 7-Christensen-Blustein vs 2-Krah-Poore
+        100    0.50   9.50 8-Heller-Galer vs 4-Lepp-Lepp
+  300          3.50   6.50 9-Budos-Kalish vs 6-Berg-Hankins
+  420          6.50   3.50 10-Miller-Christie vs 8-Schwaighart-Miller
+  500          9.00   1.00 11-Koprowicz-Hooks vs 5-Yan-Spurlin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   5.50 1-Campbell-Roselle vs 10-Cowles-Laughary
+  100          4.50   5.50 2-Tesler-Higgins vs 1-Tipton-Hesson
+  100          4.50   5.50 3-Drischell-Bolson vs 3-Diaconescu-Zaugg
+  100          4.50   5.50 4-Chalfan-Westgate vs 7-Aitken-Dunn
+  100          4.50   5.50 5-Abernethy-Ring vs 9-Wiitala-Wiitala
+  100          4.50   5.50 6-Ford-Eng vs 11-Mc Mullen-Mc Mullen
+  200          9.50   0.50 7-Christensen-Blustein vs 2-Krah-Poore
+  200          9.50   0.50 8-Heller-Galer vs 4-Lepp-Lepp
+  100          4.50   5.50 9-Budos-Kalish vs 6-Berg-Hankins
+  100          4.50   5.50 10-Miller-Christie vs 8-Schwaighart-Miller
+        600    0.00  10.00 11-Koprowicz-Hooks vs 5-Yan-Spurlin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    6.50   3.50 1-Campbell-Roselle vs 9-Wiitala-Wiitala
+        100    8.00   2.00 2-Tesler-Higgins vs 11-Mc Mullen-Mc Mullen
+  200          9.50   0.50 3-Drischell-Bolson vs 2-Krah-Poore
+        600    0.00  10.00 4-Chalfan-Westgate vs 4-Lepp-Lepp
+        200    4.00   6.00 5-Abernethy-Ring vs 8-Schwaighart-Miller
+        140    6.50   3.50 6-Ford-Eng vs 10-Cowles-Laughary
+        200    4.00   6.00 7-Christensen-Blustein vs 1-Tipton-Hesson
+        200    4.00   6.00 8-Heller-Galer vs 3-Diaconescu-Zaugg
+  200          9.50   0.50 9-Budos-Kalish vs 5-Yan-Spurlin
+        500    1.00   9.00 10-Miller-Christie vs 7-Aitken-Dunn
+        400    2.00   8.00 11-Koprowicz-Hooks vs 6-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.50   2.50 1-Campbell-Roselle vs 9-Wiitala-Wiitala
+  170         10.00   0.00 2-Tesler-Higgins vs 11-Mc Mullen-Mc Mullen
+  100          7.50   2.50 3-Drischell-Bolson vs 2-Krah-Poore
+        140    2.00   8.00 4-Chalfan-Westgate vs 4-Lepp-Lepp
+  100          7.50   2.50 5-Abernethy-Ring vs 8-Schwaighart-Miller
+        170    0.00  10.00 6-Ford-Eng vs 10-Cowles-Laughary
+  100          7.50   2.50 7-Christensen-Blustein vs 1-Tipton-Hesson
+        140    2.00   8.00 8-Heller-Galer vs 3-Diaconescu-Zaugg
+   50          4.50   5.50 9-Budos-Kalish vs 5-Yan-Spurlin
+   50          4.50   5.50 10-Miller-Christie vs 7-Aitken-Dunn
+        140    2.00   8.00 11-Koprowicz-Hooks vs 6-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        590    0.00  10.00 1-Campbell-Roselle vs 9-Wiitala-Wiitala
+        110    4.00   6.00 2-Tesler-Higgins vs 11-Mc Mullen-Mc Mullen
+        430    1.00   9.00 3-Drischell-Bolson vs 2-Krah-Poore
+        280    2.00   8.00 4-Chalfan-Westgate vs 4-Lepp-Lepp
+   50          5.00   5.00 5-Abernethy-Ring vs 8-Schwaighart-Miller
+  140          9.00   1.00 6-Ford-Eng vs 10-Cowles-Laughary
+  100          7.00   3.00 7-Christensen-Blustein vs 1-Tipton-Hesson
+  150         10.00   0.00 8-Heller-Galer vs 3-Diaconescu-Zaugg
+  100          7.00   3.00 9-Budos-Kalish vs 5-Yan-Spurlin
+  100          7.00   3.00 10-Miller-Christie vs 7-Aitken-Dunn
+        150    3.00   7.00 11-Koprowicz-Hooks vs 6-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.50   6.50 1-Campbell-Roselle vs 8-Schwaighart-Miller
+  650          3.50   6.50 2-Tesler-Higgins vs 10-Cowles-Laughary
+ 1430          8.50   1.50 3-Drischell-Bolson vs 1-Tipton-Hesson
+ 1430          8.50   1.50 4-Chalfan-Westgate vs 3-Diaconescu-Zaugg
+        200    1.00   9.00 5-Abernethy-Ring vs 5-Yan-Spurlin
+  680          5.50   4.50 6-Ford-Eng vs 9-Wiitala-Wiitala
+ 1430          8.50   1.50 7-Christensen-Blustein vs 11-Mc Mullen-Mc Mullen
+ 1430          8.50   1.50 8-Heller-Galer vs 2-Krah-Poore
+        300    0.00  10.00 9-Budos-Kalish vs 4-Lepp-Lepp
+  680          5.50   4.50 10-Miller-Christie vs 6-Berg-Hankins
+        100    2.00   8.00 11-Koprowicz-Hooks vs 7-Aitken-Dunn
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.50   6.50 1-Campbell-Roselle vs 8-Schwaighart-Miller
+        150    3.50   6.50 2-Tesler-Higgins vs 10-Cowles-Laughary
+        150    3.50   6.50 3-Drischell-Bolson vs 1-Tipton-Hesson
+        400    0.50   9.50 4-Chalfan-Westgate vs 3-Diaconescu-Zaugg
+  100         10.00   0.00 5-Abernethy-Ring vs 5-Yan-Spurlin
+        110    6.50   3.50 6-Ford-Eng vs 9-Wiitala-Wiitala
+        110    6.50   3.50 7-Christensen-Blustein vs 11-Mc Mullen-Mc Mullen
+        400    0.50   9.50 8-Heller-Galer vs 2-Krah-Poore
+        100    8.50   1.50 9-Budos-Kalish vs 4-Lepp-Lepp
+        100    8.50   1.50 10-Miller-Christie vs 6-Berg-Hankins
+        150    3.50   6.50 11-Koprowicz-Hooks vs 7-Aitken-Dunn
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          8.00   2.00 1-Campbell-Roselle vs 8-Schwaighart-Miller
+  130          5.50   4.50 2-Tesler-Higgins vs 10-Cowles-Laughary
+  110          2.50   7.50 3-Drischell-Bolson vs 1-Tipton-Hesson
+  130          5.50   4.50 4-Chalfan-Westgate vs 3-Diaconescu-Zaugg
+        200    0.50   9.50 5-Abernethy-Ring vs 5-Yan-Spurlin
+  600          9.00   1.00 6-Ford-Eng vs 9-Wiitala-Wiitala
+        200    0.50   9.50 7-Christensen-Blustein vs 11-Mc Mullen-Mc Mullen
+  130          5.50   4.50 8-Heller-Galer vs 2-Krah-Poore
+  130          5.50   4.50 9-Budos-Kalish vs 4-Lepp-Lepp
+  650         10.00   0.00 10-Miller-Christie vs 6-Berg-Hankins
+  110          2.50   7.50 11-Koprowicz-Hooks vs 7-Aitken-Dunn
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.00  10.00 1-Campbell-Roselle vs 7-Aitken-Dunn
+        110    4.50   5.50 2-Tesler-Higgins vs 9-Wiitala-Wiitala
+  170         10.00   0.00 3-Drischell-Bolson vs 11-Mc Mullen-Mc Mullen
+        140    2.00   8.00 4-Chalfan-Westgate vs 2-Krah-Poore
+  140          8.50   1.50 5-Abernethy-Ring vs 4-Lepp-Lepp
+        110    4.50   5.50 6-Ford-Eng vs 6-Berg-Hankins
+  100          7.00   3.00 7-Christensen-Blustein vs 10-Cowles-Laughary
+         50    6.00   4.00 8-Heller-Galer vs 1-Tipton-Hesson
+        140    2.00   8.00 9-Budos-Kalish vs 3-Diaconescu-Zaugg
+        140    2.00   8.00 10-Miller-Christie vs 5-Yan-Spurlin
+  140          8.50   1.50 11-Koprowicz-Hooks vs 8-Schwaighart-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   5.00 1-Campbell-Roselle vs 7-Aitken-Dunn
+  690         10.00   0.00 2-Tesler-Higgins vs 9-Wiitala-Wiitala
+         50    1.50   8.50 3-Drischell-Bolson vs 11-Mc Mullen-Mc Mullen
+  140          5.00   5.00 4-Chalfan-Westgate vs 2-Krah-Poore
+  420          8.00   2.00 5-Abernethy-Ring vs 4-Lepp-Lepp
+         50    1.50   8.50 6-Ford-Eng vs 6-Berg-Hankins
+  210          7.00   3.00 7-Christensen-Blustein vs 10-Cowles-Laughary
+         50    1.50   8.50 8-Heller-Galer vs 1-Tipton-Hesson
+  140          5.00   5.00 9-Budos-Kalish vs 3-Diaconescu-Zaugg
+  450          9.00   1.00 10-Miller-Christie vs 5-Yan-Spurlin
+         50    1.50   8.50 11-Koprowicz-Hooks vs 8-Schwaighart-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    5.00   5.00 1-Campbell-Roselle vs 7-Aitken-Dunn
+        170    5.00   5.00 2-Tesler-Higgins vs 9-Wiitala-Wiitala
+        170    5.00   5.00 3-Drischell-Bolson vs 11-Mc Mullen-Mc Mullen
+        170    5.00   5.00 4-Chalfan-Westgate vs 2-Krah-Poore
+        420    0.00  10.00 5-Abernethy-Ring vs 4-Lepp-Lepp
+        170    5.00   5.00 6-Ford-Eng vs 6-Berg-Hankins
+        170    5.00   5.00 7-Christensen-Blustein vs 10-Cowles-Laughary
+        110   10.00   0.00 8-Heller-Galer vs 1-Tipton-Hesson
+        170    5.00   5.00 9-Budos-Kalish vs 3-Diaconescu-Zaugg
+        170    5.00   5.00 10-Miller-Christie vs 5-Yan-Spurlin
+        170    5.00   5.00 11-Koprowicz-Hooks vs 8-Schwaighart-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   8.50 1-Campbell-Roselle vs 6-Berg-Hankins
+  170          7.00   3.00 2-Tesler-Higgins vs 8-Schwaighart-Miller
+         50    3.50   6.50 3-Drischell-Bolson vs 10-Cowles-Laughary
+  120          5.00   5.00 4-Chalfan-Westgate vs 1-Tipton-Hesson
+        180    0.00  10.00 5-Abernethy-Ring vs 3-Diaconescu-Zaugg
+  140          6.00   4.00 6-Ford-Eng vs 5-Yan-Spurlin
+  430          9.00   1.00 7-Christensen-Blustein vs 7-Aitken-Dunn
+  420          8.00   2.00 8-Heller-Galer vs 11-Mc Mullen-Mc Mullen
+         50    3.50   6.50 9-Budos-Kalish vs 2-Krah-Poore
+  450         10.00   0.00 10-Miller-Christie vs 4-Lepp-Lepp
+        100    1.50   8.50 11-Koprowicz-Hooks vs 9-Wiitala-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    4.50   5.50 1-Campbell-Roselle vs 6-Berg-Hankins
+        140    4.50   5.50 2-Tesler-Higgins vs 8-Schwaighart-Miller
+        140    4.50   5.50 3-Drischell-Bolson vs 10-Cowles-Laughary
+        170    0.50   9.50 4-Chalfan-Westgate vs 1-Tipton-Hesson
+  130          8.00   2.00 5-Abernethy-Ring vs 3-Diaconescu-Zaugg
+        170    0.50   9.50 6-Ford-Eng vs 5-Yan-Spurlin
+        140    4.50   5.50 7-Christensen-Blustein vs 7-Aitken-Dunn
+        140    4.50   5.50 8-Heller-Galer vs 11-Mc Mullen-Mc Mullen
+        140    4.50   5.50 9-Budos-Kalish vs 2-Krah-Poore
+  600         10.00   0.00 10-Miller-Christie vs 4-Lepp-Lepp
+  200          9.00   1.00 11-Koprowicz-Hooks vs 9-Wiitala-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    2.00   8.00 1-Campbell-Roselle vs 6-Berg-Hankins
+  620          8.50   1.50 2-Tesler-Higgins vs 8-Schwaighart-Miller
+        200    4.50   5.50 3-Drischell-Bolson vs 10-Cowles-Laughary
+        200    4.50   5.50 4-Chalfan-Westgate vs 1-Tipton-Hesson
+        650    1.00   9.00 5-Abernethy-Ring vs 3-Diaconescu-Zaugg
+        450    3.00   7.00 6-Ford-Eng vs 5-Yan-Spurlin
+        100    7.00   3.00 7-Christensen-Blustein vs 7-Aitken-Dunn
+  790         10.00   0.00 8-Heller-Galer vs 11-Mc Mullen-Mc Mullen
+        980    0.00  10.00 9-Budos-Kalish vs 2-Krah-Poore
+        140    6.00   4.00 10-Miller-Christie vs 4-Lepp-Lepp
+  620          8.50   1.50 11-Koprowicz-Hooks vs 9-Wiitala-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    4.50   5.50 1-Campbell-Roselle vs 5-Yan-Spurlin
+  100         10.00   0.00 2-Tesler-Higgins vs 7-Aitken-Dunn
+        620    4.50   5.50 3-Drischell-Bolson vs 9-Wiitala-Wiitala
+        620    4.50   5.50 4-Chalfan-Westgate vs 11-Mc Mullen-Mc Mullen
+        620    4.50   5.50 5-Abernethy-Ring vs 2-Krah-Poore
+        620    4.50   5.50 6-Ford-Eng vs 4-Lepp-Lepp
+        620    4.50   5.50 7-Christensen-Blustein vs 6-Berg-Hankins
+        620    4.50   5.50 8-Heller-Galer vs 8-Schwaighart-Miller
+        620    4.50   5.50 9-Budos-Kalish vs 1-Tipton-Hesson
+        620    4.50   5.50 10-Miller-Christie vs 3-Diaconescu-Zaugg
+        620    4.50   5.50 11-Koprowicz-Hooks vs 10-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          6.50   3.50 1-Campbell-Roselle vs 5-Yan-Spurlin
+  660          6.50   3.50 2-Tesler-Higgins vs 7-Aitken-Dunn
+  660          6.50   3.50 3-Drischell-Bolson vs 9-Wiitala-Wiitala
+  660          6.50   3.50 4-Chalfan-Westgate vs 11-Mc Mullen-Mc Mullen
+  630          2.50   7.50 5-Abernethy-Ring vs 2-Krah-Poore
+  660          6.50   3.50 6-Ford-Eng vs 4-Lepp-Lepp
+  600          0.50   9.50 7-Christensen-Blustein vs 6-Berg-Hankins
+  660          6.50   3.50 8-Heller-Galer vs 8-Schwaighart-Miller
+  600          0.50   9.50 9-Budos-Kalish vs 1-Tipton-Hesson
+  690         10.00   0.00 10-Miller-Christie vs 3-Diaconescu-Zaugg
+  630          2.50   7.50 11-Koprowicz-Hooks vs 10-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    6.00   4.00 1-Campbell-Roselle vs 5-Yan-Spurlin
+        430    6.00   4.00 2-Tesler-Higgins vs 7-Aitken-Dunn
+        460    2.00   8.00 3-Drischell-Bolson vs 9-Wiitala-Wiitala
+        460    2.00   8.00 4-Chalfan-Westgate vs 11-Mc Mullen-Mc Mullen
+        430    6.00   4.00 5-Abernethy-Ring vs 2-Krah-Poore
+        460    2.00   8.00 6-Ford-Eng vs 4-Lepp-Lepp
+        460    2.00   8.00 7-Christensen-Blustein vs 6-Berg-Hankins
+        400    8.00   2.00 8-Heller-Galer vs 8-Schwaighart-Miller
+        460    2.00   8.00 9-Budos-Kalish vs 1-Tipton-Hesson
+   50          9.50   0.50 10-Miller-Christie vs 3-Diaconescu-Zaugg
+   50          9.50   0.50 11-Koprowicz-Hooks vs 10-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    4.50   5.50 1-Campbell-Roselle vs 4-Lepp-Lepp
+        660    4.50   5.50 2-Tesler-Higgins vs 6-Berg-Hankins
+        690    0.00  10.00 3-Drischell-Bolson vs 8-Schwaighart-Miller
+        660    4.50   5.50 4-Chalfan-Westgate vs 10-Cowles-Laughary
+        660    4.50   5.50 5-Abernethy-Ring vs 1-Tipton-Hesson
+        130   10.00   0.00 6-Ford-Eng vs 3-Diaconescu-Zaugg
+        600    9.00   1.00 7-Christensen-Blustein vs 5-Yan-Spurlin
+        660    4.50   5.50 8-Heller-Galer vs 7-Aitken-Dunn
+        660    4.50   5.50 9-Budos-Kalish vs 9-Wiitala-Wiitala
+        660    4.50   5.50 10-Miller-Christie vs 2-Krah-Poore
+        660    4.50   5.50 11-Koprowicz-Hooks vs 11-Mc Mullen-Mc Mullen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    8.00   2.00 1-Campbell-Roselle vs 4-Lepp-Lepp
+        600    1.50   8.50 2-Tesler-Higgins vs 6-Berg-Hankins
+        130    8.00   2.00 3-Drischell-Bolson vs 8-Schwaighart-Miller
+        150    4.50   5.50 4-Chalfan-Westgate vs 10-Cowles-Laughary
+        130    8.00   2.00 5-Abernethy-Ring vs 1-Tipton-Hesson
+        130    8.00   2.00 6-Ford-Eng vs 3-Diaconescu-Zaugg
+        150    4.50   5.50 7-Christensen-Blustein vs 5-Yan-Spurlin
+        210    3.00   7.00 8-Heller-Galer vs 7-Aitken-Dunn
+        600    1.50   8.50 9-Budos-Kalish vs 9-Wiitala-Wiitala
+        630    0.00  10.00 10-Miller-Christie vs 2-Krah-Poore
+        130    8.00   2.00 11-Koprowicz-Hooks vs 11-Mc Mullen-Mc Mullen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  920          9.50   0.50 1-Campbell-Roselle vs 4-Lepp-Lepp
+  420          4.00   6.00 2-Tesler-Higgins vs 6-Berg-Hankins
+  920          9.50   0.50 3-Drischell-Bolson vs 8-Schwaighart-Miller
+  420          4.00   6.00 4-Chalfan-Westgate vs 10-Cowles-Laughary
+         50    0.00  10.00 5-Abernethy-Ring vs 1-Tipton-Hesson
+  800          8.00   2.00 6-Ford-Eng vs 3-Diaconescu-Zaugg
+  490          7.00   3.00 7-Christensen-Blustein vs 5-Yan-Spurlin
+  420          4.00   6.00 8-Heller-Galer vs 7-Aitken-Dunn
+  420          4.00   6.00 9-Budos-Kalish vs 9-Wiitala-Wiitala
+  420          4.00   6.00 10-Miller-Christie vs 2-Krah-Poore
+  150          1.00   9.00 11-Koprowicz-Hooks vs 11-Mc Mullen-Mc Mullen
+----------------------------------------------------------------------

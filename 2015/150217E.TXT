@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 17, 2015  |CLUB NO.>158048    | 02/17/2015 22:36
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=7/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Dell Berg              David Hankins            A   1     .     .   |   1     .     .     72.50  60.42  2.48(OA)
+
+ 2 B Drajpuch             James Spurlin            B   .     .     .   |   .     .     .     56.00  46.67          
+
+ 3 John Krah              Daniel Poore             C   .     .     .   |   .     .     .     57.50  47.92          
+
+ 4 Mike Bovarnick         Phyllis Gravitz          A   .     .     .   |   .     .     .     60.00  50.00          
+
+ 5 Kim Eng                Jeffrey Ford             A   3     .     .   |   3     .     .     64.00  53.33  1.40(OA)
+
+ 6 Mike Christensen       Mike Ring                B  5/6   3/4    .   |  5/6   3/4    .     61.00  50.83  0.81(OB)
+
+ 7 Ray Miller             Chris Moore              A   .     .     .   |   .     .     .     58.00  48.33          
+
+ 8 Bryan Delfs            Shawn Abernethy          C  5/6   3/4    .   |  5/6   3/4    1     61.00  50.83  0.81(OB)
+
+ 9 Irving Sonkin          Elizabeth Saul           C   .     .     .   |   .     .     .     50.00  41.67          
+
+10 Nick Tipton            Galen Hesson             B   2     1     .   |   2     1     .     64.50  53.75  1.86(OA)
+
+11 Dave Setterholm        Corneliu Galer           A   .     .     .   |   .     .     .     57.50  47.92          
+
+12 Brian Zaugg            Ann Romeo                B   4     2     .   |   4     2     .     63.00  52.50  1.22(OB)
+
+
+
+14 Connie Heller          Dennis Heller            A   .     .     .   |   .     .     .     55.00  45.83          
+
+
+                                          Totals                                            780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  440          2.50   2.50 1-Berg-Hankins vs 3-Krah-Poore
+  440          2.50   2.50 2-Drajpuch-Spurlin vs 6-Christensen-Ring
+  800          4.50   0.50 4-Bovarnick-Gravitz vs 9-Sonkin-Saul
+  420          1.00   4.00 5-Eng-Ford vs 12-Zaugg-Romeo
+  800          4.50   0.50 7-Miller-Moore vs 8-Delfs-Abernethy
+  400          0.00   5.00 14-Heller-Heller vs 11-Setterholm-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.00   3.00 1-Berg-Hankins vs 3-Krah-Poore
+        400    2.00   3.00 2-Drajpuch-Spurlin vs 6-Christensen-Ring
+   50          5.00   0.00 4-Bovarnick-Gravitz vs 9-Sonkin-Saul
+        400    2.00   3.00 5-Eng-Ford vs 12-Zaugg-Romeo
+        400    2.00   3.00 7-Miller-Moore vs 8-Delfs-Abernethy
+        400    2.00   3.00 14-Heller-Heller vs 11-Setterholm-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  590          4.50   0.50 1-Berg-Hankins vs 11-Setterholm-Galer
+  420          2.00   3.00 2-Drajpuch-Spurlin vs 4-Bovarnick-Gravitz
+  590          4.50   0.50 3-Krah-Poore vs 7-Miller-Moore
+        100    0.00   5.00 5-Eng-Ford vs 10-Tipton-Hesson
+  420          2.00   3.00 8-Delfs-Abernethy vs 9-Sonkin-Saul
+  420          2.00   3.00 14-Heller-Heller vs 12-Zaugg-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   1.00 1-Berg-Hankins vs 11-Setterholm-Galer
+        690    2.50   2.50 2-Drajpuch-Spurlin vs 4-Bovarnick-Gravitz
+        690    2.50   2.50 3-Krah-Poore vs 7-Miller-Moore
+  300          5.00   0.00 5-Eng-Ford vs 10-Tipton-Hesson
+        720    0.50   4.50 8-Delfs-Abernethy vs 9-Sonkin-Saul
+        720    0.50   4.50 14-Heller-Heller vs 12-Zaugg-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   0.50 2-Drajpuch-Spurlin vs 12-Zaugg-Romeo
+  170          1.00   4.00 3-Krah-Poore vs 5-Eng-Ford
+  170          1.00   4.00 4-Bovarnick-Gravitz vs 8-Delfs-Abernethy
+  200          3.00   2.00 6-Christensen-Ring vs 11-Setterholm-Galer
+  170          1.00   4.00 7-Miller-Moore vs 1-Berg-Hankins
+  620          4.50   0.50 9-Sonkin-Saul vs 10-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   1.50 2-Drajpuch-Spurlin vs 12-Zaugg-Romeo
+        600    2.00   3.00 3-Krah-Poore vs 5-Eng-Ford
+  100          3.50   1.50 4-Bovarnick-Gravitz vs 8-Delfs-Abernethy
+        630    0.00   5.00 6-Christensen-Ring vs 11-Setterholm-Galer
+  200          5.00   0.00 7-Miller-Moore vs 1-Berg-Hankins
+        620    1.00   4.00 9-Sonkin-Saul vs 10-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   3.50 4-Bovarnick-Gravitz vs 6-Christensen-Ring
+        650    1.50   3.50 5-Eng-Ford vs 9-Sonkin-Saul
+        620    4.50   0.50 7-Miller-Moore vs 12-Zaugg-Romeo
+        650    1.50   3.50 8-Delfs-Abernethy vs 2-Drajpuch-Spurlin
+        650    1.50   3.50 10-Tipton-Hesson vs 11-Setterholm-Galer
+        620    4.50   0.50 14-Heller-Heller vs 1-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    2.50   2.50 4-Bovarnick-Gravitz vs 6-Christensen-Ring
+        480    2.50   2.50 5-Eng-Ford vs 9-Sonkin-Saul
+        480    2.50   2.50 7-Miller-Moore vs 12-Zaugg-Romeo
+        170    5.00   0.00 8-Delfs-Abernethy vs 2-Drajpuch-Spurlin
+        480    2.50   2.50 10-Tipton-Hesson vs 11-Setterholm-Galer
+        500    0.00   5.00 14-Heller-Heller vs 1-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   1.00 4-Bovarnick-Gravitz vs 1-Berg-Hankins
+  420          5.00   0.00 5-Eng-Ford vs 7-Miller-Moore
+  150          2.00   3.00 6-Christensen-Ring vs 10-Tipton-Hesson
+         50    0.50   4.50 9-Sonkin-Saul vs 3-Krah-Poore
+         50    0.50   4.50 11-Setterholm-Galer vs 12-Zaugg-Romeo
+  170          3.00   2.00 14-Heller-Heller vs 2-Drajpuch-Spurlin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   4.00 4-Bovarnick-Gravitz vs 1-Berg-Hankins
+        150    1.00   4.00 5-Eng-Ford vs 7-Miller-Moore
+        150    1.00   4.00 6-Christensen-Ring vs 10-Tipton-Hesson
+         90    5.00   0.00 9-Sonkin-Saul vs 3-Krah-Poore
+        120    4.00   1.00 11-Setterholm-Galer vs 12-Zaugg-Romeo
+        140    3.00   2.00 14-Heller-Heller vs 2-Drajpuch-Spurlin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   3.00 5-Eng-Ford vs 2-Drajpuch-Spurlin
+  100          5.00   0.00 6-Christensen-Ring vs 8-Delfs-Abernethy
+        100    2.00   3.00 7-Miller-Moore vs 11-Setterholm-Galer
+        150    0.00   5.00 9-Sonkin-Saul vs 1-Berg-Hankins
+         50    4.00   1.00 10-Tipton-Hesson vs 4-Bovarnick-Gravitz
+        100    2.00   3.00 14-Heller-Heller vs 3-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.50   2.50 5-Eng-Ford vs 2-Drajpuch-Spurlin
+   50          5.00   0.00 6-Christensen-Ring vs 8-Delfs-Abernethy
+        420    1.00   4.00 7-Miller-Moore vs 11-Setterholm-Galer
+        430    0.00   5.00 9-Sonkin-Saul vs 1-Berg-Hankins
+        200    4.00   1.00 10-Tipton-Hesson vs 4-Bovarnick-Gravitz
+        400    2.50   2.50 14-Heller-Heller vs 3-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   3.50 6-Christensen-Ring vs 3-Krah-Poore
+  100          4.00   1.00 7-Miller-Moore vs 9-Sonkin-Saul
+        100    1.50   3.50 8-Delfs-Abernethy vs 12-Zaugg-Romeo
+        100    1.50   3.50 10-Tipton-Hesson vs 2-Drajpuch-Spurlin
+        100    1.50   3.50 11-Setterholm-Galer vs 5-Eng-Ford
+  150          5.00   0.00 14-Heller-Heller vs 4-Bovarnick-Gravitz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.50   2.50 6-Christensen-Ring vs 3-Krah-Poore
+        420    2.50   2.50 7-Miller-Moore vs 9-Sonkin-Saul
+        420    2.50   2.50 8-Delfs-Abernethy vs 12-Zaugg-Romeo
+        400    5.00   0.00 10-Tipton-Hesson vs 2-Drajpuch-Spurlin
+        450    0.00   5.00 11-Setterholm-Galer vs 5-Eng-Ford
+        420    2.50   2.50 14-Heller-Heller vs 4-Bovarnick-Gravitz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    5.00   0.00 1-Berg-Hankins vs 2-Drajpuch-Spurlin
+        490    3.50   1.50 7-Miller-Moore vs 4-Bovarnick-Gravitz
+        920    1.50   3.50 8-Delfs-Abernethy vs 10-Tipton-Hesson
+       1100    0.00   5.00 11-Setterholm-Galer vs 3-Krah-Poore
+        920    1.50   3.50 12-Zaugg-Romeo vs 6-Christensen-Ring
+        490    3.50   1.50 14-Heller-Heller vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   5.00 1-Berg-Hankins vs 2-Drajpuch-Spurlin
+  130          3.00   2.00 7-Miller-Moore vs 4-Bovarnick-Gravitz
+  400          4.50   0.50 8-Delfs-Abernethy vs 10-Tipton-Hesson
+         50    1.50   3.50 11-Setterholm-Galer vs 3-Krah-Poore
+  400          4.50   0.50 12-Zaugg-Romeo vs 6-Christensen-Ring
+         50    1.50   3.50 14-Heller-Heller vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.00   0.00 2-Drajpuch-Spurlin vs 3-Krah-Poore
+  300          3.50   1.50 8-Delfs-Abernethy vs 5-Eng-Ford
+         50    0.50   4.50 9-Sonkin-Saul vs 11-Setterholm-Galer
+  300          3.50   1.50 10-Tipton-Hesson vs 1-Berg-Hankins
+         50    0.50   4.50 12-Zaugg-Romeo vs 4-Bovarnick-Gravitz
+  100          2.00   3.00 14-Heller-Heller vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.50   2.50 2-Drajpuch-Spurlin vs 3-Krah-Poore
+   50          5.00   0.00 8-Delfs-Abernethy vs 5-Eng-Ford
+        450    0.50   4.50 9-Sonkin-Saul vs 11-Setterholm-Galer
+        420    2.50   2.50 10-Tipton-Hesson vs 1-Berg-Hankins
+        400    4.00   1.00 12-Zaugg-Romeo vs 4-Bovarnick-Gravitz
+        450    0.50   4.50 14-Heller-Heller vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   0.00 1-Berg-Hankins vs 8-Delfs-Abernethy
+        100    0.00   5.00 3-Krah-Poore vs 4-Bovarnick-Gravitz
+    PASS       2.00   3.00 9-Sonkin-Saul vs 6-Christensen-Ring
+         50    1.00   4.00 10-Tipton-Hesson vs 12-Zaugg-Romeo
+   90          3.00   2.00 11-Setterholm-Galer vs 2-Drajpuch-Spurlin
+  100          4.00   1.00 14-Heller-Heller vs 7-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   2.50 1-Berg-Hankins vs 8-Delfs-Abernethy
+  200          4.50   0.50 3-Krah-Poore vs 4-Bovarnick-Gravitz
+        650    0.00   5.00 9-Sonkin-Saul vs 6-Christensen-Ring
+        140    1.00   4.00 10-Tipton-Hesson vs 12-Zaugg-Romeo
+  200          4.50   0.50 11-Setterholm-Galer vs 2-Drajpuch-Spurlin
+  100          2.50   2.50 14-Heller-Heller vs 7-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   1.00 1-Berg-Hankins vs 6-Christensen-Ring
+         80    1.50   3.50 2-Drajpuch-Spurlin vs 9-Sonkin-Saul
+         80    1.50   3.50 4-Bovarnick-Gravitz vs 5-Eng-Ford
+   50          4.00   1.00 10-Tipton-Hesson vs 7-Miller-Moore
+   50          4.00   1.00 12-Zaugg-Romeo vs 3-Krah-Poore
+        110    0.00   5.00 14-Heller-Heller vs 8-Delfs-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.00   2.00 1-Berg-Hankins vs 6-Christensen-Ring
+        100    0.00   5.00 2-Drajpuch-Spurlin vs 9-Sonkin-Saul
+  420          4.00   1.00 4-Bovarnick-Gravitz vs 5-Eng-Ford
+  150          2.00   3.00 10-Tipton-Hesson vs 7-Miller-Moore
+  590          5.00   0.00 12-Zaugg-Romeo vs 3-Krah-Poore
+         50    1.00   4.00 14-Heller-Heller vs 8-Delfs-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   3.00 2-Drajpuch-Spurlin vs 7-Miller-Moore
+        140    3.00   2.00 3-Krah-Poore vs 10-Tipton-Hesson
+  730          5.00   0.00 5-Eng-Ford vs 6-Christensen-Ring
+        620    0.50   4.50 11-Setterholm-Galer vs 8-Delfs-Abernethy
+        620    0.50   4.50 12-Zaugg-Romeo vs 1-Berg-Hankins
+  300          4.00   1.00 14-Heller-Heller vs 9-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   1.00 2-Drajpuch-Spurlin vs 7-Miller-Moore
+        140    0.50   4.50 3-Krah-Poore vs 10-Tipton-Hesson
+   50          4.00   1.00 5-Eng-Ford vs 6-Christensen-Ring
+        140    0.50   4.50 11-Setterholm-Galer vs 8-Delfs-Abernethy
+        100    2.00   3.00 12-Zaugg-Romeo vs 1-Berg-Hankins
+   50          4.00   1.00 14-Heller-Heller vs 9-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.00   5.00 1-Berg-Hankins vs 5-Eng-Ford
+        110    2.00   3.00 3-Krah-Poore vs 8-Delfs-Abernethy
+         50    3.00   2.00 4-Bovarnick-Gravitz vs 11-Setterholm-Galer
+  200          5.00   0.00 6-Christensen-Ring vs 7-Miller-Moore
+        140    1.00   4.00 12-Zaugg-Romeo vs 9-Sonkin-Saul
+   90          4.00   1.00 14-Heller-Heller vs 10-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    4.00   1.00 1-Berg-Hankins vs 5-Eng-Ford
+        170    4.00   1.00 3-Krah-Poore vs 8-Delfs-Abernethy
+        170    4.00   1.00 4-Bovarnick-Gravitz vs 11-Setterholm-Galer
+        620    1.00   4.00 6-Christensen-Ring vs 7-Miller-Moore
+        620    1.00   4.00 12-Zaugg-Romeo vs 9-Sonkin-Saul
+        620    1.00   4.00 14-Heller-Heller vs 10-Tipton-Hesson
+----------------------------------------------------------------------

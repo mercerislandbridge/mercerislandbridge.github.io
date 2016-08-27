@@ -1,0 +1,474 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>July 30, 2013      |CLUB NO.>158048    | 07/30/2013 22:23
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2000/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=4/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Paul Schwaighart       John Aslin               A    .     .     .     99.00  45.83          
+
+ 2 Ronald White           Fred Verplank            C    .     2     .     96.19  44.53  0.22(B) 
+
+ 3 Howard Epley           John Maki                A    4     .     .    115.31  53.38  0.35(A) 
+
+ 4 Stanford Christie      Jennifer Chalfan         A    .     .     .    102.38  47.40          
+
+ 5 Bill Hagen             Karen Epley              A    2     .     .    119.81  55.47  0.70(A) 
+
+ 6 David Roselle          Dong Yan                 B    .     1     .    105.19  48.70  0.32(B) 
+
+ 7 Dennis Heller          Connie Heller            A    3     .     .    119.25  55.21  0.50(A) 
+
+ 8 Shawn Abernethy        Chris Moore              B    .     .     .     92.50  42.82          
+
+ 9 Ray Miller             David Wright             A    1     .     .    145.13  67.19  1.00(A) 
+
+10 John Tracey            Susan Tracey             C    .     .     .     87.19  40.37          
+
+
+                                          Totals                        1081.95       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>July 30, 2013      |CLUB NO.>158048    | 07/30/2013 22:23
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2000/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=1                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Alain Schreiber        Becky Stevens            B    .     .     .     98.50  45.60          
+
+ 2 Dell Berg              David Hankins            A    2     .     .    115.00  53.24  0.70(A) 
+
+ 3 Gary Haldane           Sharon Miller            B   3/4   2/3    .    112.50  52.08  0.43(A) 
+
+ 4 Mike Marcelais         Mike Christensen         B    .     .     .     98.00  45.37          
+
+ 5 Ferechteh Barazi       Adam Ruprecht            C    1     1     .    122.00  56.48  1.00(A) 
+
+ 6 Bryan Gerard           Mark Zellmer             B    .     .     .     96.00  44.44          
+
+ 7 Dave Setterholm        David Binney             A    .     .     .    111.00  51.39          
+
+ 8 Joel Fuhrman           Scott Martin             B   3/4   2/3    .    112.50  52.08  0.43(A) 
+
+
+
+10 Corneliu Galer         Hal Antonson             A    .     .     .    106.50  49.31          
+
+
+                                          Totals                         972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   4.00 1-Schwaighart-Aslin vs 1-Schreiber-Stevens
+         50    1.50   6.50 2-White-Verplank vs 4-Marcelais-Christensen
+  430          7.00   1.00 3-Epley-Maki vs 6-Gerard-Zellmer
+  420          4.00   4.00 4-Christie-Chalfan vs 8-Fuhrman-Martin
+  430          7.00   1.00 5-Hagen-Epley vs 10-Galer-Antonson
+        100    0.00   8.00 6-Roselle-Yan vs 3-Haldane-Miller
+  420          4.00   4.00 7-Heller-Heller vs 5-Barazi-Ruprecht
+  430          7.00   1.00 8-Abernethy-Moore vs 7-Setterholm-Binney
+         50    1.50   6.50 10-Tracey-Tracey vs 2-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   8.00 1-Schwaighart-Aslin vs 1-Schreiber-Stevens
+   50          4.50   3.50 2-White-Verplank vs 4-Marcelais-Christensen
+   50          4.50   3.50 3-Epley-Maki vs 6-Gerard-Zellmer
+   50          4.50   3.50 4-Christie-Chalfan vs 8-Fuhrman-Martin
+  100          7.50   0.50 5-Hagen-Epley vs 10-Galer-Antonson
+        170    1.00   7.00 6-Roselle-Yan vs 3-Haldane-Miller
+  100          7.50   0.50 7-Heller-Heller vs 5-Barazi-Ruprecht
+        140    2.00   6.00 8-Abernethy-Moore vs 7-Setterholm-Binney
+   50          4.50   3.50 10-Tracey-Tracey vs 2-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   1.00 1-Schwaighart-Aslin vs 1-Schreiber-Stevens
+  100          7.00   1.00 2-White-Verplank vs 4-Marcelais-Christensen
+  100          7.00   1.00 3-Epley-Maki vs 6-Gerard-Zellmer
+        680    2.00   6.00 4-Christie-Chalfan vs 8-Fuhrman-Martin
+        620    4.50   3.50 5-Hagen-Epley vs 10-Galer-Antonson
+        630    3.00   5.00 6-Roselle-Yan vs 3-Haldane-Miller
+        620    4.50   3.50 7-Heller-Heller vs 5-Barazi-Ruprecht
+        690    1.00   7.00 8-Abernethy-Moore vs 7-Setterholm-Binney
+       1430    0.00   8.00 10-Tracey-Tracey vs 2-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          1.50   6.50 1-Schwaighart-Aslin vs 10-Galer-Antonson
+  660          5.50   2.50 2-White-Verplank vs 2-Berg-Hankins
+  130          1.50   6.50 3-Epley-Maki vs 5-Barazi-Ruprecht
+  660          5.50   2.50 4-Christie-Chalfan vs 7-Setterholm-Binney
+  660          5.50   2.50 6-Roselle-Yan vs 4-Marcelais-Christensen
+  660          5.50   2.50 7-Heller-Heller vs 6-Gerard-Zellmer
+  630          3.00   5.00 8-Abernethy-Moore vs 8-Fuhrman-Martin
+  690          8.00   0.00 9-Miller-Wright vs 1-Schreiber-Stevens
+        100    0.00   8.00 10-Tracey-Tracey vs 3-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   3.50 1-Schwaighart-Aslin vs 10-Galer-Antonson
+        100    1.00   7.00 2-White-Verplank vs 2-Berg-Hankins
+  650          7.00   1.00 3-Epley-Maki vs 5-Barazi-Ruprecht
+  200          4.50   3.50 4-Christie-Chalfan vs 7-Setterholm-Binney
+  100          2.50   5.50 6-Roselle-Yan vs 4-Marcelais-Christensen
+  100          2.50   5.50 7-Heller-Heller vs 6-Gerard-Zellmer
+        510    0.00   8.00 8-Abernethy-Moore vs 8-Fuhrman-Martin
+  650          7.00   1.00 9-Miller-Wright vs 1-Schreiber-Stevens
+  650          7.00   1.00 10-Tracey-Tracey vs 3-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.50   3.50 1-Schwaighart-Aslin vs 10-Galer-Antonson
+  280          8.00   0.00 2-White-Verplank vs 2-Berg-Hankins
+        200    0.00   8.00 3-Epley-Maki vs 5-Barazi-Ruprecht
+  200          7.00   1.00 4-Christie-Chalfan vs 7-Setterholm-Binney
+  110          2.50   5.50 6-Roselle-Yan vs 4-Marcelais-Christensen
+        100    1.00   7.00 7-Heller-Heller vs 6-Gerard-Zellmer
+  110          2.50   5.50 8-Abernethy-Moore vs 8-Fuhrman-Martin
+  130          4.50   3.50 9-Miller-Wright vs 1-Schreiber-Stevens
+  150          6.00   2.00 10-Tracey-Tracey vs 3-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.50   5.50 2-White-Verplank vs 1-Schreiber-Stevens
+        200    7.50   0.50 3-Epley-Maki vs 3-Haldane-Miller
+        950    0.00   8.00 4-Christie-Chalfan vs 6-Gerard-Zellmer
+        600    5.00   3.00 5-Hagen-Epley vs 8-Fuhrman-Martin
+        800    1.00   7.00 6-Roselle-Yan vs 5-Barazi-Ruprecht
+        200    7.50   0.50 7-Heller-Heller vs 7-Setterholm-Binney
+        620    2.50   5.50 8-Abernethy-Moore vs 10-Galer-Antonson
+        600    5.00   3.00 9-Miller-Wright vs 2-Berg-Hankins
+        600    5.00   3.00 10-Tracey-Tracey vs 4-Marcelais-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.50   2.50 2-White-Verplank vs 1-Schreiber-Stevens
+         50    2.50   5.50 3-Epley-Maki vs 3-Haldane-Miller
+         50    2.50   5.50 4-Christie-Chalfan vs 6-Gerard-Zellmer
+  140          7.50   0.50 5-Hagen-Epley vs 8-Fuhrman-Martin
+        100    0.00   8.00 6-Roselle-Yan vs 5-Barazi-Ruprecht
+  140          7.50   0.50 7-Heller-Heller vs 7-Setterholm-Binney
+  110          5.50   2.50 8-Abernethy-Moore vs 10-Galer-Antonson
+         50    2.50   5.50 9-Miller-Wright vs 2-Berg-Hankins
+         50    2.50   5.50 10-Tracey-Tracey vs 4-Marcelais-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.00   3.00 2-White-Verplank vs 1-Schreiber-Stevens
+  110          5.00   3.00 3-Epley-Maki vs 3-Haldane-Miller
+         50    1.00   7.00 4-Christie-Chalfan vs 6-Gerard-Zellmer
+  120          8.00   0.00 5-Hagen-Epley vs 8-Fuhrman-Martin
+  110          5.00   3.00 6-Roselle-Yan vs 5-Barazi-Ruprecht
+  110          5.00   3.00 7-Heller-Heller vs 7-Setterholm-Binney
+         50    1.00   7.00 8-Abernethy-Moore vs 10-Galer-Antonson
+  110          5.00   3.00 9-Miller-Wright vs 2-Berg-Hankins
+         50    1.00   7.00 10-Tracey-Tracey vs 4-Marcelais-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.50   3.50 1-Schwaighart-Aslin vs 8-Fuhrman-Martin
+  650          4.50   3.50 2-White-Verplank vs 10-Galer-Antonson
+  650          4.50   3.50 3-Epley-Maki vs 2-Berg-Hankins
+  650          4.50   3.50 4-Christie-Chalfan vs 4-Marcelais-Christensen
+  200          0.00   8.00 5-Hagen-Epley vs 7-Setterholm-Binney
+  650          4.50   3.50 6-Roselle-Yan vs 6-Gerard-Zellmer
+  650          4.50   3.50 8-Abernethy-Moore vs 1-Schreiber-Stevens
+  650          4.50   3.50 9-Miller-Wright vs 3-Haldane-Miller
+  650          4.50   3.50 10-Tracey-Tracey vs 5-Barazi-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    5.00   3.00 1-Schwaighart-Aslin vs 8-Fuhrman-Martin
+        150    2.50   5.50 2-White-Verplank vs 10-Galer-Antonson
+  150          8.00   0.00 3-Epley-Maki vs 2-Berg-Hankins
+        140    5.00   3.00 4-Christie-Chalfan vs 4-Marcelais-Christensen
+        150    2.50   5.50 5-Hagen-Epley vs 7-Setterholm-Binney
+   50          7.00   1.00 6-Roselle-Yan vs 6-Gerard-Zellmer
+        530    0.00   8.00 8-Abernethy-Moore vs 1-Schreiber-Stevens
+        140    5.00   3.00 9-Miller-Wright vs 3-Haldane-Miller
+        170    1.00   7.00 10-Tracey-Tracey vs 5-Barazi-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.50   7.50 1-Schwaighart-Aslin vs 8-Fuhrman-Martin
+        450    3.00   5.00 2-White-Verplank vs 10-Galer-Antonson
+        650    0.50   7.50 3-Epley-Maki vs 2-Berg-Hankins
+        450    3.00   5.00 4-Christie-Chalfan vs 4-Marcelais-Christensen
+        200    6.50   1.50 5-Hagen-Epley vs 7-Setterholm-Binney
+        200    6.50   1.50 6-Roselle-Yan vs 6-Gerard-Zellmer
+        200    6.50   1.50 8-Abernethy-Moore vs 1-Schreiber-Stevens
+        200    6.50   1.50 9-Miller-Wright vs 3-Haldane-Miller
+        450    3.00   5.00 10-Tracey-Tracey vs 5-Barazi-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   7.00 1-Schwaighart-Aslin vs 7-Setterholm-Binney
+  620          5.50   2.50 3-Epley-Maki vs 1-Schreiber-Stevens
+  620          5.50   2.50 4-Christie-Chalfan vs 3-Haldane-Miller
+        100    1.00   7.00 5-Hagen-Epley vs 5-Barazi-Ruprecht
+  140          3.00   5.00 6-Roselle-Yan vs 8-Fuhrman-Martin
+  650          7.00   1.00 7-Heller-Heller vs 10-Galer-Antonson
+        100    1.00   7.00 8-Abernethy-Moore vs 2-Berg-Hankins
+ 1100          8.00   0.00 9-Miller-Wright vs 4-Marcelais-Christensen
+  600          4.00   4.00 10-Tracey-Tracey vs 6-Gerard-Zellmer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.50   5.50 1-Schwaighart-Aslin vs 7-Setterholm-Binney
+        130    2.50   5.50 3-Epley-Maki vs 1-Schreiber-Stevens
+        120    4.00   4.00 4-Christie-Chalfan vs 3-Haldane-Miller
+        150    1.00   7.00 5-Hagen-Epley vs 5-Barazi-Ruprecht
+   50          7.50   0.50 6-Roselle-Yan vs 8-Fuhrman-Martin
+         90    6.00   2.00 7-Heller-Heller vs 10-Galer-Antonson
+        400    0.00   8.00 8-Abernethy-Moore vs 2-Berg-Hankins
+   50          7.50   0.50 9-Miller-Wright vs 4-Marcelais-Christensen
+        110    5.00   3.00 10-Tracey-Tracey vs 6-Gerard-Zellmer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.50   2.50 1-Schwaighart-Aslin vs 7-Setterholm-Binney
+  620          0.50   7.50 3-Epley-Maki vs 1-Schreiber-Stevens
+  650          5.50   2.50 4-Christie-Chalfan vs 3-Haldane-Miller
+  630          2.00   6.00 5-Hagen-Epley vs 5-Barazi-Ruprecht
+  620          0.50   7.50 6-Roselle-Yan vs 8-Fuhrman-Martin
+  650          5.50   2.50 7-Heller-Heller vs 10-Galer-Antonson
+  650          5.50   2.50 8-Abernethy-Moore vs 2-Berg-Hankins
+  650          5.50   2.50 9-Miller-Wright vs 4-Marcelais-Christensen
+  650          5.50   2.50 10-Tracey-Tracey vs 6-Gerard-Zellmer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    7.50   0.50 1-Schwaighart-Aslin vs 6-Gerard-Zellmer
+        660    0.50   7.50 2-White-Verplank vs 8-Fuhrman-Martin
+        630    5.50   2.50 3-Epley-Maki vs 10-Galer-Antonson
+        650    3.00   5.00 4-Christie-Chalfan vs 2-Berg-Hankins
+        620    7.50   0.50 5-Hagen-Epley vs 4-Marcelais-Christensen
+        630    5.50   2.50 7-Heller-Heller vs 1-Schreiber-Stevens
+        660    0.50   7.50 8-Abernethy-Moore vs 3-Haldane-Miller
+        650    3.00   5.00 9-Miller-Wright vs 5-Barazi-Ruprecht
+        650    3.00   5.00 10-Tracey-Tracey vs 7-Setterholm-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   4.00 1-Schwaighart-Aslin vs 6-Gerard-Zellmer
+        100    2.50   5.50 2-White-Verplank vs 8-Fuhrman-Martin
+  500          7.50   0.50 3-Epley-Maki vs 10-Galer-Antonson
+        100    2.50   5.50 4-Christie-Chalfan vs 2-Berg-Hankins
+  110          6.00   2.00 5-Hagen-Epley vs 4-Marcelais-Christensen
+        470    0.00   8.00 7-Heller-Heller vs 1-Schreiber-Stevens
+  500          7.50   0.50 8-Abernethy-Moore vs 3-Haldane-Miller
+   90          5.00   3.00 9-Miller-Wright vs 5-Barazi-Ruprecht
+        200    1.00   7.00 10-Tracey-Tracey vs 7-Setterholm-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   4.00 1-Schwaighart-Aslin vs 6-Gerard-Zellmer
+  170          4.00   4.00 2-White-Verplank vs 8-Fuhrman-Martin
+  170          4.00   4.00 3-Epley-Maki vs 10-Galer-Antonson
+  170          4.00   4.00 4-Christie-Chalfan vs 2-Berg-Hankins
+  170          4.00   4.00 5-Hagen-Epley vs 4-Marcelais-Christensen
+  170          4.00   4.00 7-Heller-Heller vs 1-Schreiber-Stevens
+  170          4.00   4.00 8-Abernethy-Moore vs 3-Haldane-Miller
+  620          8.00   0.00 9-Miller-Wright vs 5-Barazi-Ruprecht
+  140          0.00   8.00 10-Tracey-Tracey vs 7-Setterholm-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   7.00 1-Schwaighart-Aslin vs 5-Barazi-Ruprecht
+        170    3.50   4.50 2-White-Verplank vs 7-Setterholm-Binney
+        140    6.50   1.50 4-Christie-Chalfan vs 1-Schreiber-Stevens
+        170    3.50   4.50 5-Hagen-Epley vs 3-Haldane-Miller
+        170    3.50   4.50 6-Roselle-Yan vs 10-Galer-Antonson
+        800    0.00   8.00 7-Heller-Heller vs 2-Berg-Hankins
+        140    6.50   1.50 8-Abernethy-Moore vs 4-Marcelais-Christensen
+        170    3.50   4.50 9-Miller-Wright vs 6-Gerard-Zellmer
+  100          8.00   0.00 10-Tracey-Tracey vs 8-Fuhrman-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.00   1.00 1-Schwaighart-Aslin vs 5-Barazi-Ruprecht
+        170    0.00   8.00 2-White-Verplank vs 7-Setterholm-Binney
+  100          3.00   5.00 4-Christie-Chalfan vs 1-Schreiber-Stevens
+  100          3.00   5.00 5-Hagen-Epley vs 3-Haldane-Miller
+  100          3.00   5.00 6-Roselle-Yan vs 10-Galer-Antonson
+  100          3.00   5.00 7-Heller-Heller vs 2-Berg-Hankins
+  100          3.00   5.00 8-Abernethy-Moore vs 4-Marcelais-Christensen
+  400          8.00   0.00 9-Miller-Wright vs 6-Gerard-Zellmer
+  170          6.00   2.00 10-Tracey-Tracey vs 8-Fuhrman-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   5.00 1-Schwaighart-Aslin vs 5-Barazi-Ruprecht
+        300    0.00   8.00 2-White-Verplank vs 7-Setterholm-Binney
+  110          5.00   3.00 4-Christie-Chalfan vs 1-Schreiber-Stevens
+        100    1.00   7.00 5-Hagen-Epley vs 3-Haldane-Miller
+  150          7.50   0.50 6-Roselle-Yan vs 10-Galer-Antonson
+  150          7.50   0.50 7-Heller-Heller vs 2-Berg-Hankins
+  100          3.00   5.00 8-Abernethy-Moore vs 4-Marcelais-Christensen
+  100          3.00   5.00 9-Miller-Wright vs 6-Gerard-Zellmer
+  130          6.00   2.00 10-Tracey-Tracey vs 8-Fuhrman-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.50   3.50 1-Schwaighart-Aslin vs 4-Marcelais-Christensen
+  130          4.50   3.50 2-White-Verplank vs 6-Gerard-Zellmer
+  100          1.00   7.00 3-Epley-Maki vs 8-Fuhrman-Martin
+        100    0.00   8.00 4-Christie-Chalfan vs 10-Galer-Antonson
+  130          4.50   3.50 5-Hagen-Epley vs 2-Berg-Hankins
+  200          7.00   1.00 6-Roselle-Yan vs 1-Schreiber-Stevens
+  130          4.50   3.50 7-Heller-Heller vs 3-Haldane-Miller
+  110          2.00   6.00 8-Abernethy-Moore vs 5-Barazi-Ruprecht
+  800          8.00   0.00 9-Miller-Wright vs 7-Setterholm-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    2.00   6.00 1-Schwaighart-Aslin vs 4-Marcelais-Christensen
+  100          7.00   1.00 2-White-Verplank vs 6-Gerard-Zellmer
+   90          5.00   3.00 3-Epley-Maki vs 8-Fuhrman-Martin
+         80    4.00   4.00 4-Christie-Chalfan vs 10-Galer-Antonson
+  100          7.00   1.00 5-Hagen-Epley vs 2-Berg-Hankins
+        180    0.00   8.00 6-Roselle-Yan vs 1-Schreiber-Stevens
+         90    2.00   6.00 7-Heller-Heller vs 3-Haldane-Miller
+         90    2.00   6.00 8-Abernethy-Moore vs 5-Barazi-Ruprecht
+  100          7.00   1.00 9-Miller-Wright vs 7-Setterholm-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   6.00 1-Schwaighart-Aslin vs 4-Marcelais-Christensen
+        100    0.00   8.00 2-White-Verplank vs 6-Gerard-Zellmer
+  450          4.50   3.50 3-Epley-Maki vs 8-Fuhrman-Martin
+  450          4.50   3.50 4-Christie-Chalfan vs 10-Galer-Antonson
+  100          2.00   6.00 5-Hagen-Epley vs 2-Berg-Hankins
+ 1400          8.00   0.00 6-Roselle-Yan vs 1-Schreiber-Stevens
+  100          2.00   6.00 7-Heller-Heller vs 3-Haldane-Miller
+  650          7.00   1.00 8-Abernethy-Moore vs 5-Barazi-Ruprecht
+  500          6.00   2.00 9-Miller-Wright vs 7-Setterholm-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.50   6.50 1-Schwaighart-Aslin vs 3-Haldane-Miller
+        300    4.50   3.50 2-White-Verplank vs 5-Barazi-Ruprecht
+        300    4.50   3.50 3-Epley-Maki vs 7-Setterholm-Binney
+        300    4.50   3.50 5-Hagen-Epley vs 1-Schreiber-Stevens
+        300    4.50   3.50 6-Roselle-Yan vs 2-Berg-Hankins
+        150    7.00   1.00 7-Heller-Heller vs 4-Marcelais-Christensen
+  100          8.00   0.00 8-Abernethy-Moore vs 6-Gerard-Zellmer
+        500    1.50   6.50 9-Miller-Wright vs 8-Fuhrman-Martin
+        600    0.00   8.00 10-Tracey-Tracey vs 10-Galer-Antonson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.50   3.50 1-Schwaighart-Aslin vs 3-Haldane-Miller
+  500          0.50   7.50 2-White-Verplank vs 5-Barazi-Ruprecht
+  680          4.50   3.50 3-Epley-Maki vs 7-Setterholm-Binney
+  680          4.50   3.50 5-Hagen-Epley vs 1-Schreiber-Stevens
+ 1430          8.00   0.00 6-Roselle-Yan vs 2-Berg-Hankins
+  680          4.50   3.50 7-Heller-Heller vs 4-Marcelais-Christensen
+  680          4.50   3.50 8-Abernethy-Moore vs 6-Gerard-Zellmer
+  680          4.50   3.50 9-Miller-Wright vs 8-Fuhrman-Martin
+  500          0.50   7.50 10-Tracey-Tracey vs 10-Galer-Antonson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    6.50   1.50 1-Schwaighart-Aslin vs 3-Haldane-Miller
+   50          8.00   0.00 2-White-Verplank vs 5-Barazi-Ruprecht
+        420    2.50   5.50 3-Epley-Maki vs 7-Setterholm-Binney
+        140    6.50   1.50 5-Hagen-Epley vs 1-Schreiber-Stevens
+        420    2.50   5.50 6-Roselle-Yan vs 2-Berg-Hankins
+        420    2.50   5.50 7-Heller-Heller vs 4-Marcelais-Christensen
+        420    2.50   5.50 8-Abernethy-Moore vs 6-Gerard-Zellmer
+        420    2.50   5.50 9-Miller-Wright vs 8-Fuhrman-Martin
+        420    2.50   5.50 10-Tracey-Tracey vs 10-Galer-Antonson
+----------------------------------------------------------------------

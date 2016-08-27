@@ -1,0 +1,303 @@
+
+EVENT>Instant Matchpoints      |SESSION>Friday Morn  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 16, 2015   |CLUB NO.>          | 04/04/2016 18:22
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>ACBL Wide instant matchpoint |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE> 1100.0 |TOP> 100 |MP LIMITS>None           |CLUB>
+------------ --------- ------------------------- -------------------------------
+PAIRS> 12                                        ,------,------------,------,---------,
+-------------------------------------------------| O'all|   Section  |      |Final    |
+No Name                   Name                   |  Rank| Rank|Score | Pct  |Awards   |
+------------------------------------------------- ------ ----- ------ ------ --------- 
+ 1 Kim Eng                Jeffrey Ford                    5   1126.00  51.18  0.21Red 
+                                                                              0.20Blk 
+ 2 Brian Zaugg            Liliana Diaconescu                  1094.00  49.73          
+
+ 3 Patrick Dunn           Polly Dunn                2     2   1228.00  55.82  1.13Red 
+                                                                              1.12Blk 
+ 4 Leah Sieg              Eric Sieg                            854.00  38.82          
+
+ 5 Ray Miller             Ann Romeo                           1100.00  50.00          
+
+ 6 David Wright           Shawn Abernethy                      940.00  42.73          
+
+ 7 Adam Ruprecht          Christopher Jarvis        4     4   1184.00  53.82  0.64Red 
+                                                                              0.63Blk 
+ 8 Stanford Christie      Dave Setterholm           1     1   1463.00  66.50  1.00Gold
+                                                                              2.00R/B 
+ 9 Bill O Brien           Kevin Bolan               3     3   1214.00  55.18  0.85Red 
+                                                                              0.84Blk 
+10 McKenzie Myers         Jennifer Chalfan                    1114.00  50.64          
+
+11 Mike Christensen       Bryan Delfs                         1051.00  47.77          
+
+12 Kathy Gilman           Chris Pesce                          832.00  37.82          
+
+
+                                          Totals             13200.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300         52.00  48.00 3-Dunn-Dunn vs 10-Myers-Chalfan
+  400         58.00  42.00 7-Ruprecht-Jarvis vs 6-Wright-Abernethy
+  800         97.00   3.00 8-Christie-Setterholm vs 5-Miller-Romeo
+  430         76.00  24.00 9-O Brien-Bolan vs 4-Sieg-Sieg
+  500         94.00   6.00 11-Christensen-Delfs vs 2-Zaugg-Diaconescu
+  150         32.00  68.00 12-Gilman-Pesce vs 1-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170         62.00  38.00 3-Dunn-Dunn vs 10-Myers-Chalfan
+  170         62.00  38.00 7-Ruprecht-Jarvis vs 6-Wright-Abernethy
+  600         81.00  19.00 8-Christie-Setterholm vs 5-Miller-Romeo
+  660         97.00   3.00 9-O Brien-Bolan vs 4-Sieg-Sieg
+        100   10.00  90.00 11-Christensen-Delfs vs 2-Zaugg-Diaconescu
+  110         19.00  81.00 12-Gilman-Pesce vs 1-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50   41.00  59.00 1-Eng-Ford vs 3-Dunn-Dunn
+         50   41.00  59.00 4-Sieg-Sieg vs 11-Christensen-Delfs
+  130         66.00  34.00 8-Christie-Setterholm vs 7-Ruprecht-Jarvis
+  200         79.00  21.00 9-O Brien-Bolan vs 6-Wright-Abernethy
+        790    3.00  97.00 10-Myers-Chalfan vs 5-Miller-Romeo
+        100   24.00  76.00 12-Gilman-Pesce vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200   11.00  89.00 1-Eng-Ford vs 3-Dunn-Dunn
+        100   32.00  68.00 4-Sieg-Sieg vs 11-Christensen-Delfs
+  110         54.00  46.00 8-Christie-Setterholm vs 7-Ruprecht-Jarvis
+  120         65.00  35.00 9-O Brien-Bolan vs 6-Wright-Abernethy
+  140         75.00  25.00 10-Myers-Chalfan vs 5-Miller-Romeo
+  110         54.00  46.00 12-Gilman-Pesce vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480   19.00  81.00 2-Zaugg-Diaconescu vs 4-Sieg-Sieg
+        480   19.00  81.00 5-Miller-Romeo vs 1-Eng-Ford
+        480   19.00  81.00 9-O Brien-Bolan vs 8-Christie-Setterholm
+        480   19.00  81.00 10-Myers-Chalfan vs 7-Ruprecht-Jarvis
+  100         98.00   2.00 11-Christensen-Delfs vs 6-Wright-Abernethy
+        480   19.00  81.00 12-Gilman-Pesce vs 3-Dunn-Dunn
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400         83.00  17.00 2-Zaugg-Diaconescu vs 4-Sieg-Sieg
+        150    3.00  97.00 5-Miller-Romeo vs 1-Eng-Ford
+         50   25.00  75.00 9-O Brien-Bolan vs 8-Christie-Setterholm
+  150         61.00  39.00 10-Myers-Chalfan vs 7-Ruprecht-Jarvis
+  130         45.00  55.00 11-Christensen-Delfs vs 6-Wright-Abernethy
+         50   25.00  75.00 12-Gilman-Pesce vs 3-Dunn-Dunn
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100   21.00  79.00 1-Eng-Ford vs 7-Ruprecht-Jarvis
+        100   21.00  79.00 3-Dunn-Dunn vs 5-Miller-Romeo
+        100   21.00  79.00 6-Wright-Abernethy vs 2-Zaugg-Diaconescu
+        100   21.00  79.00 10-Myers-Chalfan vs 9-O Brien-Bolan
+        100   21.00  79.00 11-Christensen-Delfs vs 8-Christie-Setterholm
+        100   21.00  79.00 12-Gilman-Pesce vs 4-Sieg-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        990    9.00  91.00 1-Eng-Ford vs 7-Ruprecht-Jarvis
+        990    9.00  91.00 3-Dunn-Dunn vs 5-Miller-Romeo
+        990    9.00  91.00 6-Wright-Abernethy vs 2-Zaugg-Diaconescu
+        990    9.00  91.00 10-Myers-Chalfan vs 9-O Brien-Bolan
+        980   36.00  64.00 11-Christensen-Delfs vs 8-Christie-Setterholm
+        980   36.00  64.00 12-Gilman-Pesce vs 4-Sieg-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200         95.00   5.00 1-Eng-Ford vs 9-O Brien-Bolan
+  300         97.00   3.00 2-Zaugg-Diaconescu vs 8-Christie-Setterholm
+        130   35.00  65.00 4-Sieg-Sieg vs 6-Wright-Abernethy
+        100   79.00  21.00 7-Ruprecht-Jarvis vs 3-Dunn-Dunn
+        130   35.00  65.00 11-Christensen-Delfs vs 10-Myers-Chalfan
+        130   35.00  65.00 12-Gilman-Pesce vs 5-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100         36.00  64.00 1-Eng-Ford vs 9-O Brien-Bolan
+        120   11.00  89.00 2-Zaugg-Diaconescu vs 8-Christie-Setterholm
+        800    0.00 100.00 4-Sieg-Sieg vs 6-Wright-Abernethy
+  100         36.00  64.00 7-Ruprecht-Jarvis vs 3-Dunn-Dunn
+  100         36.00  64.00 11-Christensen-Delfs vs 10-Myers-Chalfan
+  200         67.00  33.00 12-Gilman-Pesce vs 5-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430         90.00  10.00 1-Eng-Ford vs 11-Christensen-Delfs
+  400         67.00  33.00 2-Zaugg-Diaconescu vs 10-Myers-Chalfan
+  120         22.00  78.00 3-Dunn-Dunn vs 9-O Brien-Bolan
+  120         22.00  78.00 5-Miller-Romeo vs 7-Ruprecht-Jarvis
+  430         90.00  10.00 8-Christie-Setterholm vs 4-Sieg-Sieg
+  180         49.00  51.00 12-Gilman-Pesce vs 6-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420   30.00  70.00 1-Eng-Ford vs 11-Christensen-Delfs
+        490    8.00  92.00 2-Zaugg-Diaconescu vs 10-Myers-Chalfan
+        430   18.00  82.00 3-Dunn-Dunn vs 9-O Brien-Bolan
+        450   15.00  85.00 5-Miller-Romeo vs 7-Ruprecht-Jarvis
+   50         76.00  24.00 8-Christie-Setterholm vs 4-Sieg-Sieg
+        450   15.00  85.00 12-Gilman-Pesce vs 6-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660         63.00  37.00 2-Zaugg-Diaconescu vs 1-Eng-Ford
+  660         63.00  37.00 3-Dunn-Dunn vs 11-Christensen-Delfs
+  660         63.00  37.00 4-Sieg-Sieg vs 10-Myers-Chalfan
+  630         25.00  75.00 6-Wright-Abernethy vs 8-Christie-Setterholm
+  630         25.00  75.00 9-O Brien-Bolan vs 5-Miller-Romeo
+  690         97.00   3.00 12-Gilman-Pesce vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    8.00  92.00 2-Zaugg-Diaconescu vs 1-Eng-Ford
+ 2200        100.00   0.00 3-Dunn-Dunn vs 11-Christensen-Delfs
+        980    8.00  92.00 4-Sieg-Sieg vs 10-Myers-Chalfan
+        480   55.00  45.00 6-Wright-Abernethy vs 8-Christie-Setterholm
+        480   55.00  45.00 9-O Brien-Bolan vs 5-Miller-Romeo
+        980    8.00  92.00 12-Gilman-Pesce vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500         95.00   5.00 3-Dunn-Dunn vs 2-Zaugg-Diaconescu
+        100   43.00  57.00 4-Sieg-Sieg vs 1-Eng-Ford
+  300         91.00   9.00 5-Miller-Romeo vs 11-Christensen-Delfs
+  100         71.00  29.00 7-Ruprecht-Jarvis vs 9-O Brien-Bolan
+  620         97.00   3.00 10-Myers-Chalfan vs 6-Wright-Abernethy
+        170   25.00  75.00 12-Gilman-Pesce vs 8-Christie-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140   43.00  57.00 3-Dunn-Dunn vs 2-Zaugg-Diaconescu
+        150   39.00  61.00 4-Sieg-Sieg vs 1-Eng-Ford
+  100         67.00  33.00 5-Miller-Romeo vs 11-Christensen-Delfs
+  100         67.00  33.00 7-Ruprecht-Jarvis vs 9-O Brien-Bolan
+        120   47.00  53.00 10-Myers-Chalfan vs 6-Wright-Abernethy
+        600   23.00  77.00 12-Gilman-Pesce vs 8-Christie-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420         43.00  57.00 4-Sieg-Sieg vs 3-Dunn-Dunn
+  420         43.00  57.00 5-Miller-Romeo vs 2-Zaugg-Diaconescu
+  450         85.00  15.00 6-Wright-Abernethy vs 1-Eng-Ford
+  450         85.00  15.00 8-Christie-Setterholm vs 10-Myers-Chalfan
+  450         85.00  15.00 11-Christensen-Delfs vs 7-Ruprecht-Jarvis
+  450         85.00  15.00 12-Gilman-Pesce vs 9-O Brien-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620         55.00  45.00 4-Sieg-Sieg vs 3-Dunn-Dunn
+  650         85.00  15.00 5-Miller-Romeo vs 2-Zaugg-Diaconescu
+        200   16.00  84.00 6-Wright-Abernethy vs 1-Eng-Ford
+  100         21.00  79.00 8-Christie-Setterholm vs 10-Myers-Chalfan
+  620         55.00  45.00 11-Christensen-Delfs vs 7-Ruprecht-Jarvis
+        100   18.00  82.00 12-Gilman-Pesce vs 9-O Brien-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650   13.00  87.00 1-Eng-Ford vs 8-Christie-Setterholm
+         90   97.00   3.00 5-Miller-Romeo vs 4-Sieg-Sieg
+        300   57.00  43.00 6-Wright-Abernethy vs 3-Dunn-Dunn
+        650   13.00  87.00 7-Ruprecht-Jarvis vs 2-Zaugg-Diaconescu
+        500   44.00  56.00 9-O Brien-Bolan vs 11-Christensen-Delfs
+        620   29.00  71.00 12-Gilman-Pesce vs 10-Myers-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170   24.00  76.00 1-Eng-Ford vs 8-Christie-Setterholm
+        170   24.00  76.00 5-Miller-Romeo vs 4-Sieg-Sieg
+        170   24.00  76.00 6-Wright-Abernethy vs 3-Dunn-Dunn
+        170   24.00  76.00 7-Ruprecht-Jarvis vs 2-Zaugg-Diaconescu
+        170   24.00  76.00 9-O Brien-Bolan vs 11-Christensen-Delfs
+  100         69.00  31.00 12-Gilman-Pesce vs 10-Myers-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130   16.00  84.00 2-Zaugg-Diaconescu vs 9-O Brien-Bolan
+   50         61.00  39.00 6-Wright-Abernethy vs 5-Miller-Romeo
+        130   16.00  84.00 7-Ruprecht-Jarvis vs 4-Sieg-Sieg
+        110   30.00  70.00 8-Christie-Setterholm vs 3-Dunn-Dunn
+  110         80.00  20.00 10-Myers-Chalfan vs 1-Eng-Ford
+        100   45.00  55.00 12-Gilman-Pesce vs 11-Christensen-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630   37.00  63.00 2-Zaugg-Diaconescu vs 9-O Brien-Bolan
+        630   37.00  63.00 6-Wright-Abernethy vs 5-Miller-Romeo
+        600   70.00  30.00 7-Ruprecht-Jarvis vs 4-Sieg-Sieg
+        630   37.00  63.00 8-Christie-Setterholm vs 3-Dunn-Dunn
+        630   37.00  63.00 10-Myers-Chalfan vs 1-Eng-Ford
+        630   37.00  63.00 12-Gilman-Pesce vs 11-Christensen-Delfs
+----------------------------------------------------------------------

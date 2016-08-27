@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 18, 2013      |CLUB NO.>158048    | 06/25/2013 18:36
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   6 |MP LIMITS>None/2000/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=9/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Joel Fuhrman           Scott Martin             B    .     .     .     77.54  46.15          
+
+ 2 Dee Berry              Jerry Tierney            A    6     .     .     88.31  52.57  0.25(A) 
+
+ 3 William Campbell       Bryan Gerard             C    .     .     1     85.50  50.89  0.24(C) 
+
+ 4 Mike Bovarnick         Phyllis Gravitz          A    .     .     .     79.69  47.43          
+
+ 5 Ray Miller             Chris Moore              A    2     .     .     91.54  54.49  1.05(A) 
+
+ 6 Suzanne Sax            Amy DeShaw               A    .     .     .     86.15  51.28          
+
+ 7 Corneliu Galer         Jingsong Liu             B    3     2     .     90.46  53.85  0.75(A) 
+
+ 8 Maurice Blustein       Becky Stevens            A    .     .     .     68.92  41.02          
+
+ 9 Julius Budos           Stephen Kalish           B   4/5   3/4    .     88.85  52.89  0.42(A) 
+
+
+
+11 Kim Eng                Jeffrey Ford             B    1     1     .     94.77  56.41  1.50(A) 
+
+12 Ruth Bunin             Kathryn Chalfan          C    .     .     .     74.85  44.55          
+
+13 Gary Haldane           Sharon Miller            B   4/5   3/4    .     88.85  52.89  0.42(A) 
+
+14 Ronald White           Fred Verplank            C    .     .     .     82.38  49.04          
+
+15 Dennis Heller          Hal Antonson             A    .     .     .     75.38  44.87          
+
+16 Mike Christensen       Mike Ring                B    .     .     .     86.69  51.60          
+
+
+                                          Totals                        1259.88       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   5.00 5-Miller-Moore vs 15-Heller-Antonson
+        140    0.00   6.00 6-Sax-DeShaw vs 7-Galer-Liu
+  100          4.50   1.50 9-Budos-Kalish vs 3-Campbell-Gerard
+  100          4.50   1.50 12-Bunin-Chalfan vs 2-Berry-Tierney
+   50          2.00   4.00 13-Haldane-Miller vs 4-Bovarnick-Gravitz
+  100          4.50   1.50 14-White-Verplank vs 11-Eng-Ford
+  100          4.50   1.50 16-Christensen-Ring vs 1-Fuhrman-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   1.00 5-Miller-Moore vs 15-Heller-Antonson
+  110          6.00   0.00 6-Sax-DeShaw vs 7-Galer-Liu
+        170    0.00   6.00 9-Budos-Kalish vs 3-Campbell-Gerard
+        130    2.50   3.50 12-Bunin-Chalfan vs 2-Berry-Tierney
+        140    1.00   5.00 13-Haldane-Miller vs 4-Bovarnick-Gravitz
+   50          4.00   2.00 14-White-Verplank vs 11-Eng-Ford
+        130    2.50   3.50 16-Christensen-Ring vs 1-Fuhrman-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   2.00 1-Fuhrman-Martin vs 12-Bunin-Chalfan
+        100    2.50   3.50 6-Sax-DeShaw vs 15-Heller-Antonson
+  200          6.00   0.00 7-Galer-Liu vs 8-Blustein-Stevens
+        300    0.00   6.00 9-Budos-Kalish vs 11-Eng-Ford
+        100    2.50   3.50 13-Haldane-Miller vs 3-Campbell-Gerard
+  130          5.00   1.00 14-White-Verplank vs 5-Miller-Moore
+        150    1.00   5.00 16-Christensen-Ring vs 2-Berry-Tierney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   1.50 1-Fuhrman-Martin vs 12-Bunin-Chalfan
+  100          4.50   1.50 6-Sax-DeShaw vs 15-Heller-Antonson
+  100          4.50   1.50 7-Galer-Liu vs 8-Blustein-Stevens
+        110    0.50   5.50 9-Budos-Kalish vs 11-Eng-Ford
+  100          4.50   1.50 13-Haldane-Miller vs 3-Campbell-Gerard
+         90    2.00   4.00 14-White-Verplank vs 5-Miller-Moore
+        110    0.50   5.50 16-Christensen-Ring vs 2-Berry-Tierney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   4.00 1-Fuhrman-Martin vs 6-Sax-DeShaw
+        100    2.00   4.00 2-Berry-Tierney vs 13-Haldane-Miller
+  650          6.00   0.00 7-Galer-Liu vs 15-Heller-Antonson
+  620          4.50   1.50 8-Blustein-Stevens vs 9-Budos-Kalish
+        100    2.00   4.00 11-Eng-Ford vs 5-Miller-Moore
+        300    0.00   6.00 14-White-Verplank vs 4-Bovarnick-Gravitz
+  620          4.50   1.50 16-Christensen-Ring vs 3-Campbell-Gerard
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   5.00 1-Fuhrman-Martin vs 6-Sax-DeShaw
+   90          2.00   4.00 2-Berry-Tierney vs 13-Haldane-Miller
+  100          4.00   2.00 7-Galer-Liu vs 15-Heller-Antonson
+        110    0.00   6.00 8-Blustein-Stevens vs 9-Budos-Kalish
+  200          6.00   0.00 11-Eng-Ford vs 5-Miller-Moore
+  100          4.00   2.00 14-White-Verplank vs 4-Bovarnick-Gravitz
+  100          4.00   2.00 16-Christensen-Ring vs 3-Campbell-Gerard
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   3.00 1-Fuhrman-Martin vs 5-Miller-Moore
+        110    3.00   3.00 2-Berry-Tierney vs 7-Galer-Liu
+        140    1.00   5.00 3-Campbell-Gerard vs 14-White-Verplank
+  110          6.00   0.00 8-Blustein-Stevens vs 15-Heller-Antonson
+        500    0.00   6.00 11-Eng-Ford vs 13-Haldane-Miller
+  100          5.00   1.00 12-Bunin-Chalfan vs 6-Sax-DeShaw
+        110    3.00   3.00 16-Christensen-Ring vs 4-Bovarnick-Gravitz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.00   2.00 1-Fuhrman-Martin vs 5-Miller-Moore
+  110          2.00   4.00 2-Berry-Tierney vs 7-Galer-Liu
+  180          5.00   1.00 3-Campbell-Gerard vs 14-White-Verplank
+   90          0.00   6.00 8-Blustein-Stevens vs 15-Heller-Antonson
+  110          2.00   4.00 11-Eng-Ford vs 13-Haldane-Miller
+  110          2.00   4.00 12-Bunin-Chalfan vs 6-Sax-DeShaw
+  800          6.00   0.00 16-Christensen-Ring vs 4-Bovarnick-Gravitz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          5.50   0.50 2-Berry-Tierney vs 6-Sax-DeShaw
+         50    2.50   3.50 3-Campbell-Gerard vs 8-Blustein-Stevens
+        140    0.00   6.00 4-Bovarnick-Gravitz vs 1-Fuhrman-Martin
+   90          5.50   0.50 9-Budos-Kalish vs 15-Heller-Antonson
+         50    2.50   3.50 12-Bunin-Chalfan vs 14-White-Verplank
+         50    2.50   3.50 13-Haldane-Miller vs 7-Galer-Liu
+         50    2.50   3.50 16-Christensen-Ring vs 5-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.50   3.50 2-Berry-Tierney vs 6-Sax-DeShaw
+  620          6.00   0.00 3-Campbell-Gerard vs 8-Blustein-Stevens
+  600          2.50   3.50 4-Bovarnick-Gravitz vs 1-Fuhrman-Martin
+  600          2.50   3.50 9-Budos-Kalish vs 15-Heller-Antonson
+  600          2.50   3.50 12-Bunin-Chalfan vs 14-White-Verplank
+  600          2.50   3.50 13-Haldane-Miller vs 7-Galer-Liu
+  600          2.50   3.50 16-Christensen-Ring vs 5-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          4.00   2.00 3-Campbell-Gerard vs 7-Galer-Liu
+  940          1.50   4.50 4-Bovarnick-Gravitz vs 9-Budos-Kalish
+  940          1.50   4.50 5-Miller-Moore vs 2-Berry-Tierney
+ 1440          5.50   0.50 11-Eng-Ford vs 12-Bunin-Chalfan
+ 1440          5.50   0.50 13-Haldane-Miller vs 1-Fuhrman-Martin
+  940          1.50   4.50 14-White-Verplank vs 8-Blustein-Stevens
+  940          1.50   4.50 16-Christensen-Ring vs 6-Sax-DeShaw
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   3.00 3-Campbell-Gerard vs 7-Galer-Liu
+        200    0.50   5.50 4-Bovarnick-Gravitz vs 9-Budos-Kalish
+  660          5.00   1.00 5-Miller-Moore vs 2-Berry-Tierney
+        100    3.00   3.00 11-Eng-Ford vs 12-Bunin-Chalfan
+ 1400          6.00   0.00 13-Haldane-Miller vs 1-Fuhrman-Martin
+        200    0.50   5.50 14-White-Verplank vs 8-Blustein-Stevens
+        100    3.00   3.00 16-Christensen-Ring vs 6-Sax-DeShaw
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.50   4.50 1-Fuhrman-Martin vs 9-Budos-Kalish
+        110    3.00   3.00 4-Bovarnick-Gravitz vs 8-Blustein-Stevens
+        100    4.00   2.00 6-Sax-DeShaw vs 3-Campbell-Gerard
+         80    5.00   1.00 12-Bunin-Chalfan vs 13-Haldane-Miller
+  200          6.00   0.00 14-White-Verplank vs 2-Berry-Tierney
+        130    1.50   4.50 15-Heller-Antonson vs 11-Eng-Ford
+        200    0.00   6.00 16-Christensen-Ring vs 7-Galer-Liu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    1.50   4.50 1-Fuhrman-Martin vs 9-Budos-Kalish
+        100    6.00   0.00 4-Bovarnick-Gravitz vs 8-Blustein-Stevens
+        430    0.00   6.00 6-Sax-DeShaw vs 3-Campbell-Gerard
+        150    3.00   3.00 12-Bunin-Chalfan vs 13-Haldane-Miller
+        140    4.50   1.50 14-White-Verplank vs 2-Berry-Tierney
+        180    1.50   4.50 15-Heller-Antonson vs 11-Eng-Ford
+        140    4.50   1.50 16-Christensen-Ring vs 7-Galer-Liu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.00   6.00 1-Fuhrman-Martin vs 3-Campbell-Gerard
+   50          3.50   2.50 5-Miller-Moore vs 9-Budos-Kalish
+   50          3.50   2.50 6-Sax-DeShaw vs 11-Eng-Ford
+   50          3.50   2.50 7-Galer-Liu vs 4-Bovarnick-Gravitz
+   50          3.50   2.50 13-Haldane-Miller vs 14-White-Verplank
+   50          3.50   2.50 15-Heller-Antonson vs 12-Bunin-Chalfan
+   50          3.50   2.50 16-Christensen-Ring vs 8-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   5.50 1-Fuhrman-Martin vs 3-Campbell-Gerard
+         50    3.00   3.00 5-Miller-Moore vs 9-Budos-Kalish
+         50    3.00   3.00 6-Sax-DeShaw vs 11-Eng-Ford
+        100    0.50   5.50 7-Galer-Liu vs 4-Bovarnick-Gravitz
+         50    3.00   3.00 13-Haldane-Miller vs 14-White-Verplank
+  430          6.00   0.00 15-Heller-Antonson vs 12-Bunin-Chalfan
+  110          5.00   1.00 16-Christensen-Ring vs 8-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   4.50 2-Berry-Tierney vs 4-Bovarnick-Gravitz
+         50    4.00   2.00 3-Campbell-Gerard vs 11-Eng-Ford
+  110          6.00   0.00 7-Galer-Liu vs 12-Bunin-Chalfan
+        100    1.50   4.50 8-Blustein-Stevens vs 5-Miller-Moore
+        150    0.00   6.00 14-White-Verplank vs 1-Fuhrman-Martin
+         50    4.00   2.00 15-Heller-Antonson vs 13-Haldane-Miller
+         50    4.00   2.00 16-Christensen-Ring vs 9-Budos-Kalish
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   0.00 2-Berry-Tierney vs 4-Bovarnick-Gravitz
+   50          4.50   1.50 3-Campbell-Gerard vs 11-Eng-Ford
+        100    3.00   3.00 7-Galer-Liu vs 12-Bunin-Chalfan
+        170    1.50   4.50 8-Blustein-Stevens vs 5-Miller-Moore
+   50          4.50   1.50 14-White-Verplank vs 1-Fuhrman-Martin
+        420    0.00   6.00 15-Heller-Antonson vs 13-Haldane-Miller
+        170    1.50   4.50 16-Christensen-Ring vs 9-Budos-Kalish
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   1.50 1-Fuhrman-Martin vs 2-Berry-Tierney
+         90    1.00   5.00 3-Campbell-Gerard vs 5-Miller-Moore
+         50    2.50   3.50 4-Bovarnick-Gravitz vs 12-Bunin-Chalfan
+        150    0.00   6.00 7-Galer-Liu vs 11-Eng-Ford
+         50    2.50   3.50 8-Blustein-Stevens vs 13-Haldane-Miller
+  100          4.50   1.50 9-Budos-Kalish vs 6-Sax-DeShaw
+  110          6.00   0.00 15-Heller-Antonson vs 14-White-Verplank
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   1.50 1-Fuhrman-Martin vs 2-Berry-Tierney
+        200    0.00   6.00 3-Campbell-Gerard vs 5-Miller-Moore
+  140          4.50   1.50 4-Bovarnick-Gravitz vs 12-Bunin-Chalfan
+  100          3.00   3.00 7-Galer-Liu vs 11-Eng-Ford
+  200          6.00   0.00 8-Blustein-Stevens vs 13-Haldane-Miller
+        100    2.00   4.00 9-Budos-Kalish vs 6-Sax-DeShaw
+        110    1.00   5.00 15-Heller-Antonson vs 14-White-Verplank
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   6.00 2-Berry-Tierney vs 3-Campbell-Gerard
+  650          4.50   1.50 4-Bovarnick-Gravitz vs 6-Sax-DeShaw
+  620          1.50   4.50 5-Miller-Moore vs 13-Haldane-Miller
+  650          4.50   1.50 8-Blustein-Stevens vs 12-Bunin-Chalfan
+  650          4.50   1.50 9-Budos-Kalish vs 14-White-Verplank
+  620          1.50   4.50 15-Heller-Antonson vs 1-Fuhrman-Martin
+  650          4.50   1.50 16-Christensen-Ring vs 11-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   2.50 2-Berry-Tierney vs 3-Campbell-Gerard
+         50    0.00   6.00 4-Bovarnick-Gravitz vs 6-Sax-DeShaw
+  140          3.50   2.50 5-Miller-Moore vs 13-Haldane-Miller
+  140          3.50   2.50 8-Blustein-Stevens vs 12-Bunin-Chalfan
+  170          6.00   0.00 9-Budos-Kalish vs 14-White-Verplank
+  140          3.50   2.50 15-Heller-Antonson vs 1-Fuhrman-Martin
+  110          1.00   5.00 16-Christensen-Ring vs 11-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   5.00 3-Campbell-Gerard vs 4-Bovarnick-Gravitz
+        100    1.00   5.00 5-Miller-Moore vs 7-Galer-Liu
+   90          3.00   3.00 6-Sax-DeShaw vs 14-White-Verplank
+  120          5.00   1.00 9-Budos-Kalish vs 13-Haldane-Miller
+  120          5.00   1.00 11-Eng-Ford vs 8-Blustein-Stevens
+        100    1.00   5.00 15-Heller-Antonson vs 2-Berry-Tierney
+  120          5.00   1.00 16-Christensen-Ring vs 12-Bunin-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          2.50   3.50 3-Campbell-Gerard vs 4-Bovarnick-Gravitz
+  460          2.50   3.50 5-Miller-Moore vs 7-Galer-Liu
+  480          5.00   1.00 6-Sax-DeShaw vs 14-White-Verplank
+  300          0.00   6.00 9-Budos-Kalish vs 13-Haldane-Miller
+  480          5.00   1.00 11-Eng-Ford vs 8-Blustein-Stevens
+  450          1.00   5.00 15-Heller-Antonson vs 2-Berry-Tierney
+  480          5.00   1.00 16-Christensen-Ring vs 12-Bunin-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.50   3.50 4-Bovarnick-Gravitz vs 5-Miller-Moore
+        620    2.50   3.50 6-Sax-DeShaw vs 8-Blustein-Stevens
+        650    0.50   5.50 7-Galer-Liu vs 1-Fuhrman-Martin
+        650    0.50   5.50 11-Eng-Ford vs 2-Berry-Tierney
+  100          4.50   1.50 12-Bunin-Chalfan vs 9-Budos-Kalish
+  100          4.50   1.50 15-Heller-Antonson vs 3-Campbell-Gerard
+  400          6.00   0.00 16-Christensen-Ring vs 13-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.50   4.50 4-Bovarnick-Gravitz vs 5-Miller-Moore
+  170          4.00   2.00 6-Sax-DeShaw vs 8-Blustein-Stevens
+  140          1.50   4.50 7-Galer-Liu vs 1-Fuhrman-Martin
+        100    0.00   6.00 11-Eng-Ford vs 2-Berry-Tierney
+  300          6.00   0.00 12-Bunin-Chalfan vs 9-Budos-Kalish
+  170          4.00   2.00 15-Heller-Antonson vs 3-Campbell-Gerard
+  170          4.00   2.00 16-Christensen-Ring vs 13-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.00   4.00 4-Bovarnick-Gravitz vs 15-Heller-Antonson
+   50          4.00   2.00 5-Miller-Moore vs 6-Sax-DeShaw
+        430    0.00   6.00 7-Galer-Liu vs 9-Budos-Kalish
+   50          4.00   2.00 8-Blustein-Stevens vs 2-Berry-Tierney
+  150          6.00   0.00 11-Eng-Ford vs 1-Fuhrman-Martin
+   50          4.00   2.00 12-Bunin-Chalfan vs 3-Campbell-Gerard
+        420    1.00   5.00 16-Christensen-Ring vs 14-White-Verplank
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   4.00 4-Bovarnick-Gravitz vs 15-Heller-Antonson
+  140          4.50   1.50 5-Miller-Moore vs 6-Sax-DeShaw
+  140          4.50   1.50 7-Galer-Liu vs 9-Budos-Kalish
+        100    1.00   5.00 8-Blustein-Stevens vs 2-Berry-Tierney
+  140          4.50   1.50 11-Eng-Ford vs 1-Fuhrman-Martin
+  140          4.50   1.50 12-Bunin-Chalfan vs 3-Campbell-Gerard
+        530    0.00   6.00 16-Christensen-Ring vs 14-White-Verplank
+----------------------------------------------------------------------

@@ -1,0 +1,470 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>December 10, 2013  |CLUB NO.>158048    | 12/10/2013 22:41
+---------------------,-- ------------------- -------------,---------------------
+DIR> Chris/Brian     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=7/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Shawn Abernethy        Jingsong Liu             B    .     .     .     91.00  42.13          
+
+ 2 Moises Saul            Karen Hudesman           C    .     .     .     77.50  35.88          
+
+ 3 Chris Pesce            Mike Ring                B    .     .     .    102.50  47.45          
+
+ 4 William Campbell       Bryan Gerard             C    4     3     1    120.00  55.56  0.32(A) 
+
+ 5 Hugh Hendrickson       Corneliu Galer           B    .     .     .    111.50  51.62          
+
+ 6 Dennis Heller          Connie Heller            A    .     .     .     97.00  44.91          
+
+ 7 Brian Zaugg            Chris Moore              A    1     .     .    128.00  59.26  0.90(A) 
+
+ 8 Allen Reiter           Ofir Hamaradi            B    3     2     .    121.00  56.02  0.45(A) 
+
+ 9 Nick Tipton            David Baer               B    2     1     .    123.50  57.18  0.63(A) 
+
+
+                                          Totals                         972.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>December 10, 2013  |CLUB NO.>158048    | 12/10/2013 22:41
+---------------------,-- ------------------- -------------,---------------------
+DIR> Chris/Brian     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=6/C=4                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Galen Hesson           Liliana Diaconescu       B    .     2     .    108.50  50.23  0.34(B) 
+
+ 2 Mirjana Reams          Douglas Wake             C    .     .     2     99.00  45.83  0.22(C) 
+
+ 3 Maurice Blustein       Becky Stevens            A    3     .     .    114.50  53.01  0.45(A) 
+
+ 4 Penny Lepp             Ray Lepp                 C    .     .     .     95.50  44.21          
+
+ 5 Mike Bovarnick         Phyllis Gravitz          A    2     .     .    123.00  56.94  0.63(A) 
+
+ 6 David Roselle          Mike Christensen         B    .     .     .     94.50  43.75          
+
+ 7 Clay Laughary          Pete Cowles              C    4     1     1    114.00  52.78  0.48(B) 
+
+ 8 Dell Berg              David Hankins            A    1     .     .    128.50  59.49  0.90(A) 
+
+ 9 Lee Hooks              Sanatan Saraf            C    .     .     .     94.50  43.75          
+
+
+                                          Totals                         972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.50   2.50 1-Abernethy-Liu vs 1-Hesson-Diaconescu
+   90          0.00   8.00 2-Saul-Hudesman vs 3-Blustein-Stevens
+  130          3.00   5.00 3-Pesce-Ring vs 5-Bovarnick-Gravitz
+  400          8.00   0.00 4-Campbell-Gerard vs 7-Laughary-Cowles
+  180          7.00   1.00 5-Hendrickson-Galer vs 9-Hooks-Saraf
+  110          1.00   7.00 6-Heller-Heller vs 2-Reams-Wake
+  150          5.50   2.50 7-Zaugg-Moore vs 4-Lepp-Lepp
+  130          3.00   5.00 8-Reiter-Hamaradi vs 6-Roselle-Christensen
+  130          3.00   5.00 9-Tipton-Baer vs 8-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    5.00   3.00 1-Abernethy-Liu vs 1-Hesson-Diaconescu
+        130    2.50   5.50 2-Saul-Hudesman vs 3-Blustein-Stevens
+        180    1.00   7.00 3-Pesce-Ring vs 5-Bovarnick-Gravitz
+        110    4.00   4.00 4-Campbell-Gerard vs 7-Laughary-Cowles
+   50          6.50   1.50 5-Hendrickson-Galer vs 9-Hooks-Saraf
+   50          6.50   1.50 6-Heller-Heller vs 2-Reams-Wake
+  110          8.00   0.00 7-Zaugg-Moore vs 4-Lepp-Lepp
+        200    0.00   8.00 8-Reiter-Hamaradi vs 6-Roselle-Christensen
+        130    2.50   5.50 9-Tipton-Baer vs 8-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  920          4.00   4.00 1-Abernethy-Liu vs 1-Hesson-Diaconescu
+  920          4.00   4.00 2-Saul-Hudesman vs 3-Blustein-Stevens
+  920          4.00   4.00 3-Pesce-Ring vs 5-Bovarnick-Gravitz
+ 1090          8.00   0.00 4-Campbell-Gerard vs 7-Laughary-Cowles
+         50    1.00   7.00 5-Hendrickson-Galer vs 9-Hooks-Saraf
+  920          4.00   4.00 6-Heller-Heller vs 2-Reams-Wake
+  920          4.00   4.00 7-Zaugg-Moore vs 4-Lepp-Lepp
+  990          7.00   1.00 8-Reiter-Hamaradi vs 6-Roselle-Christensen
+        100    0.00   8.00 9-Tipton-Baer vs 8-Berg-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1440    1.00   7.00 1-Abernethy-Liu vs 9-Hooks-Saraf
+       1390    2.50   5.50 2-Saul-Hudesman vs 2-Reams-Wake
+       1390    2.50   5.50 3-Pesce-Ring vs 4-Lepp-Lepp
+  200          7.50   0.50 4-Campbell-Gerard vs 6-Roselle-Christensen
+        650    4.50   3.50 5-Hendrickson-Galer vs 8-Berg-Hankins
+        650    4.50   3.50 6-Heller-Heller vs 1-Hesson-Diaconescu
+  200          7.50   0.50 7-Zaugg-Moore vs 3-Blustein-Stevens
+  100          6.00   2.00 8-Reiter-Hamaradi vs 5-Bovarnick-Gravitz
+       2140    0.00   8.00 9-Tipton-Baer vs 7-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.00   8.00 1-Abernethy-Liu vs 9-Hooks-Saraf
+  650          3.50   4.50 2-Saul-Hudesman vs 2-Reams-Wake
+  680          7.50   0.50 3-Pesce-Ring vs 4-Lepp-Lepp
+  650          3.50   4.50 4-Campbell-Gerard vs 6-Roselle-Christensen
+  650          3.50   4.50 5-Hendrickson-Galer vs 8-Berg-Hankins
+  650          3.50   4.50 6-Heller-Heller vs 1-Hesson-Diaconescu
+  650          3.50   4.50 7-Zaugg-Moore vs 3-Blustein-Stevens
+  650          3.50   4.50 8-Reiter-Hamaradi vs 5-Bovarnick-Gravitz
+  680          7.50   0.50 9-Tipton-Baer vs 7-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        670    0.00   8.00 1-Abernethy-Liu vs 9-Hooks-Saraf
+         50    2.50   5.50 2-Saul-Hudesman vs 2-Reams-Wake
+  110          6.50   1.50 3-Pesce-Ring vs 4-Lepp-Lepp
+         50    2.50   5.50 4-Campbell-Gerard vs 6-Roselle-Christensen
+  110          6.50   1.50 5-Hendrickson-Galer vs 8-Berg-Hankins
+  100          4.50   3.50 6-Heller-Heller vs 1-Hesson-Diaconescu
+  100          4.50   3.50 7-Zaugg-Moore vs 3-Blustein-Stevens
+  200          8.00   0.00 8-Reiter-Hamaradi vs 5-Bovarnick-Gravitz
+         90    1.00   7.00 9-Tipton-Baer vs 7-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   5.00 1-Abernethy-Liu vs 8-Berg-Hankins
+  100          6.00   2.00 2-Saul-Hudesman vs 1-Hesson-Diaconescu
+    PASS       4.00   4.00 3-Pesce-Ring vs 3-Blustein-Stevens
+        130    1.50   6.50 4-Campbell-Gerard vs 5-Bovarnick-Gravitz
+        200    0.00   8.00 5-Hendrickson-Galer vs 7-Laughary-Cowles
+  100          6.00   2.00 6-Heller-Heller vs 9-Hooks-Saraf
+        130    1.50   6.50 7-Zaugg-Moore vs 2-Reams-Wake
+  110          8.00   0.00 8-Reiter-Hamaradi vs 4-Lepp-Lepp
+  100          6.00   2.00 9-Tipton-Baer vs 6-Roselle-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00   7.00 1-Abernethy-Liu vs 8-Berg-Hankins
+        430    3.00   5.00 2-Saul-Hudesman vs 1-Hesson-Diaconescu
+        150    5.00   3.00 3-Pesce-Ring vs 3-Blustein-Stevens
+        460    1.00   7.00 4-Campbell-Gerard vs 5-Bovarnick-Gravitz
+   50          6.50   1.50 5-Hendrickson-Galer vs 7-Laughary-Cowles
+        460    1.00   7.00 6-Heller-Heller vs 9-Hooks-Saraf
+        420    4.00   4.00 7-Zaugg-Moore vs 2-Reams-Wake
+  100          8.00   0.00 8-Reiter-Hamaradi vs 4-Lepp-Lepp
+   50          6.50   1.50 9-Tipton-Baer vs 6-Roselle-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.50   5.50 1-Abernethy-Liu vs 8-Berg-Hankins
+  130          1.00   7.00 2-Saul-Hudesman vs 1-Hesson-Diaconescu
+  150          2.50   5.50 3-Pesce-Ring vs 3-Blustein-Stevens
+  400          4.50   3.50 4-Campbell-Gerard vs 5-Bovarnick-Gravitz
+         50    0.00   8.00 5-Hendrickson-Galer vs 7-Laughary-Cowles
+  400          4.50   3.50 6-Heller-Heller vs 9-Hooks-Saraf
+  920          8.00   0.00 7-Zaugg-Moore vs 2-Reams-Wake
+  460          6.50   1.50 8-Reiter-Hamaradi vs 4-Lepp-Lepp
+  460          6.50   1.50 9-Tipton-Baer vs 6-Roselle-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          6.00   2.00 1-Abernethy-Liu vs 7-Laughary-Cowles
+        140    0.00   8.00 2-Saul-Hudesman vs 9-Hooks-Saraf
+  100          1.00   7.00 3-Pesce-Ring vs 2-Reams-Wake
+  600          3.00   5.00 4-Campbell-Gerard vs 4-Lepp-Lepp
+  170          2.00   6.00 5-Hendrickson-Galer vs 6-Roselle-Christensen
+  620          6.00   2.00 6-Heller-Heller vs 8-Berg-Hankins
+  620          6.00   2.00 7-Zaugg-Moore vs 1-Hesson-Diaconescu
+  620          6.00   2.00 8-Reiter-Hamaradi vs 3-Blustein-Stevens
+  620          6.00   2.00 9-Tipton-Baer vs 5-Bovarnick-Gravitz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.00   7.00 1-Abernethy-Liu vs 7-Laughary-Cowles
+  430          7.00   1.00 2-Saul-Hudesman vs 9-Hooks-Saraf
+  430          7.00   1.00 3-Pesce-Ring vs 2-Reams-Wake
+  400          4.00   4.00 4-Campbell-Gerard vs 4-Lepp-Lepp
+        150    0.00   8.00 5-Hendrickson-Galer vs 6-Roselle-Christensen
+  400          4.00   4.00 6-Heller-Heller vs 8-Berg-Hankins
+  210          2.00   6.00 7-Zaugg-Moore vs 1-Hesson-Diaconescu
+  400          4.00   4.00 8-Reiter-Hamaradi vs 3-Blustein-Stevens
+  430          7.00   1.00 9-Tipton-Baer vs 5-Bovarnick-Gravitz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.50   1.50 1-Abernethy-Liu vs 7-Laughary-Cowles
+        100    3.00   5.00 2-Saul-Hudesman vs 9-Hooks-Saraf
+  140          6.50   1.50 3-Pesce-Ring vs 2-Reams-Wake
+        130    1.50   6.50 4-Campbell-Gerard vs 4-Lepp-Lepp
+  140          6.50   1.50 5-Hendrickson-Galer vs 6-Roselle-Christensen
+  140          6.50   1.50 6-Heller-Heller vs 8-Berg-Hankins
+  100          4.00   4.00 7-Zaugg-Moore vs 1-Hesson-Diaconescu
+        130    1.50   6.50 8-Reiter-Hamaradi vs 3-Blustein-Stevens
+        430    0.00   8.00 9-Tipton-Baer vs 5-Bovarnick-Gravitz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1070          8.00   0.00 1-Abernethy-Liu vs 6-Roselle-Christensen
+        180    1.00   7.00 2-Saul-Hudesman vs 8-Berg-Hankins
+        630    0.00   8.00 3-Pesce-Ring vs 1-Hesson-Diaconescu
+  160          5.00   3.00 4-Campbell-Gerard vs 3-Blustein-Stevens
+        130    3.00   5.00 5-Hendrickson-Galer vs 5-Bovarnick-Gravitz
+        150    2.00   6.00 6-Heller-Heller vs 7-Laughary-Cowles
+  200          6.50   1.50 7-Zaugg-Moore vs 9-Hooks-Saraf
+  100          4.00   4.00 8-Reiter-Hamaradi vs 2-Reams-Wake
+  200          6.50   1.50 9-Tipton-Baer vs 4-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          7.50   0.50 1-Abernethy-Liu vs 6-Roselle-Christensen
+  170          4.00   4.00 2-Saul-Hudesman vs 8-Berg-Hankins
+  140          0.50   7.50 3-Pesce-Ring vs 1-Hesson-Diaconescu
+  170          4.00   4.00 4-Campbell-Gerard vs 3-Blustein-Stevens
+  170          4.00   4.00 5-Hendrickson-Galer vs 5-Bovarnick-Gravitz
+  140          0.50   7.50 6-Heller-Heller vs 7-Laughary-Cowles
+  170          4.00   4.00 7-Zaugg-Moore vs 9-Hooks-Saraf
+  420          7.50   0.50 8-Reiter-Hamaradi vs 2-Reams-Wake
+  170          4.00   4.00 9-Tipton-Baer vs 4-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   5.00 1-Abernethy-Liu vs 6-Roselle-Christensen
+   50          3.00   5.00 2-Saul-Hudesman vs 8-Berg-Hankins
+  170          7.00   1.00 3-Pesce-Ring vs 1-Hesson-Diaconescu
+        420    0.00   8.00 4-Campbell-Gerard vs 3-Blustein-Stevens
+  150          6.00   2.00 5-Hendrickson-Galer vs 5-Bovarnick-Gravitz
+        200    1.00   7.00 6-Heller-Heller vs 7-Laughary-Cowles
+  800          8.00   0.00 7-Zaugg-Moore vs 9-Hooks-Saraf
+  100          5.00   3.00 8-Reiter-Hamaradi vs 2-Reams-Wake
+   50          3.00   5.00 9-Tipton-Baer vs 4-Lepp-Lepp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   8.00 1-Abernethy-Liu vs 5-Bovarnick-Gravitz
+         50    4.00   4.00 2-Saul-Hudesman vs 7-Laughary-Cowles
+  200          8.00   0.00 3-Pesce-Ring vs 9-Hooks-Saraf
+         50    4.00   4.00 4-Campbell-Gerard vs 2-Reams-Wake
+        150    1.00   7.00 5-Hendrickson-Galer vs 4-Lepp-Lepp
+  100          6.50   1.50 6-Heller-Heller vs 6-Roselle-Christensen
+        100    2.00   6.00 7-Zaugg-Moore vs 8-Berg-Hankins
+         50    4.00   4.00 8-Reiter-Hamaradi vs 1-Hesson-Diaconescu
+  100          6.50   1.50 9-Tipton-Baer vs 3-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          5.50   2.50 1-Abernethy-Liu vs 5-Bovarnick-Gravitz
+  430          3.00   5.00 2-Saul-Hudesman vs 7-Laughary-Cowles
+  400          2.00   6.00 3-Pesce-Ring vs 9-Hooks-Saraf
+  490          8.00   0.00 4-Campbell-Gerard vs 2-Reams-Wake
+  460          5.50   2.50 5-Hendrickson-Galer vs 4-Lepp-Lepp
+  460          5.50   2.50 6-Heller-Heller vs 6-Roselle-Christensen
+  150          0.50   7.50 7-Zaugg-Moore vs 8-Berg-Hankins
+  460          5.50   2.50 8-Reiter-Hamaradi vs 1-Hesson-Diaconescu
+  150          0.50   7.50 9-Tipton-Baer vs 3-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   2.50 1-Abernethy-Liu vs 5-Bovarnick-Gravitz
+        200    0.50   7.50 2-Saul-Hudesman vs 7-Laughary-Cowles
+        100    3.00   5.00 3-Pesce-Ring vs 9-Hooks-Saraf
+  130          7.50   0.50 4-Campbell-Gerard vs 2-Reams-Wake
+  130          7.50   0.50 5-Hendrickson-Galer vs 4-Lepp-Lepp
+        100    3.00   5.00 6-Heller-Heller vs 6-Roselle-Christensen
+        100    3.00   5.00 7-Zaugg-Moore vs 8-Berg-Hankins
+        200    0.50   7.50 8-Reiter-Hamaradi vs 1-Hesson-Diaconescu
+   50          5.50   2.50 9-Tipton-Baer vs 3-Blustein-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.00   5.00 1-Abernethy-Liu vs 4-Lepp-Lepp
+  610          8.00   0.00 2-Saul-Hudesman vs 6-Roselle-Christensen
+  150          2.00   6.00 3-Pesce-Ring vs 8-Berg-Hankins
+  130          1.00   7.00 4-Campbell-Gerard vs 1-Hesson-Diaconescu
+  430          5.00   3.00 5-Hendrickson-Galer vs 3-Blustein-Stevens
+  110          0.00   8.00 6-Heller-Heller vs 5-Bovarnick-Gravitz
+  510          7.00   1.00 7-Zaugg-Moore vs 7-Laughary-Cowles
+  430          5.00   3.00 8-Reiter-Hamaradi vs 9-Hooks-Saraf
+  430          5.00   3.00 9-Tipton-Baer vs 2-Reams-Wake
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   8.00 1-Abernethy-Liu vs 4-Lepp-Lepp
+  300          4.50   3.50 2-Saul-Hudesman vs 6-Roselle-Christensen
+  110          1.00   7.00 3-Pesce-Ring vs 8-Berg-Hankins
+  200          3.00   5.00 4-Campbell-Gerard vs 1-Hesson-Diaconescu
+  850          8.00   0.00 5-Hendrickson-Galer vs 3-Blustein-Stevens
+  150          2.00   6.00 6-Heller-Heller vs 5-Bovarnick-Gravitz
+  800          6.50   1.50 7-Zaugg-Moore vs 7-Laughary-Cowles
+  300          4.50   3.50 8-Reiter-Hamaradi vs 9-Hooks-Saraf
+  800          6.50   1.50 9-Tipton-Baer vs 2-Reams-Wake
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   2.00 1-Abernethy-Liu vs 4-Lepp-Lepp
+        450    0.50   7.50 2-Saul-Hudesman vs 6-Roselle-Christensen
+        120    3.00   5.00 3-Pesce-Ring vs 8-Berg-Hankins
+        120    3.00   5.00 4-Campbell-Gerard vs 1-Hesson-Diaconescu
+        120    3.00   5.00 5-Hendrickson-Galer vs 3-Blustein-Stevens
+        450    0.50   7.50 6-Heller-Heller vs 5-Bovarnick-Gravitz
+   50          6.00   2.00 7-Zaugg-Moore vs 7-Laughary-Cowles
+  100          8.00   0.00 8-Reiter-Hamaradi vs 9-Hooks-Saraf
+   50          6.00   2.00 9-Tipton-Baer vs 2-Reams-Wake
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.50   4.50 1-Abernethy-Liu vs 3-Blustein-Stevens
+        650    0.50   7.50 2-Saul-Hudesman vs 5-Bovarnick-Gravitz
+        620    3.50   4.50 3-Pesce-Ring vs 7-Laughary-Cowles
+  100          7.50   0.50 4-Campbell-Gerard vs 9-Hooks-Saraf
+        620    3.50   4.50 5-Hendrickson-Galer vs 2-Reams-Wake
+        620    3.50   4.50 6-Heller-Heller vs 4-Lepp-Lepp
+  100          7.50   0.50 7-Zaugg-Moore vs 6-Roselle-Christensen
+        650    0.50   7.50 8-Reiter-Hamaradi vs 8-Berg-Hankins
+        170    6.00   2.00 9-Tipton-Baer vs 1-Hesson-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   3.50 1-Abernethy-Liu vs 3-Blustein-Stevens
+  200          7.50   0.50 2-Saul-Hudesman vs 5-Bovarnick-Gravitz
+  200          7.50   0.50 3-Pesce-Ring vs 7-Laughary-Cowles
+  100          4.50   3.50 4-Campbell-Gerard vs 9-Hooks-Saraf
+        150    1.00   7.00 5-Hendrickson-Galer vs 2-Reams-Wake
+        140    2.00   6.00 6-Heller-Heller vs 4-Lepp-Lepp
+        500    0.00   8.00 7-Zaugg-Moore vs 6-Roselle-Christensen
+  100          4.50   3.50 8-Reiter-Hamaradi vs 8-Berg-Hankins
+  100          4.50   3.50 9-Tipton-Baer vs 1-Hesson-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.50   7.50 1-Abernethy-Liu vs 3-Blustein-Stevens
+        430    0.50   7.50 2-Saul-Hudesman vs 5-Bovarnick-Gravitz
+        400    4.00   4.00 3-Pesce-Ring vs 7-Laughary-Cowles
+        170    6.00   2.00 4-Campbell-Gerard vs 9-Hooks-Saraf
+        420    2.50   5.50 5-Hendrickson-Galer vs 2-Reams-Wake
+        140    8.00   0.00 6-Heller-Heller vs 4-Lepp-Lepp
+        170    6.00   2.00 7-Zaugg-Moore vs 6-Roselle-Christensen
+        420    2.50   5.50 8-Reiter-Hamaradi vs 8-Berg-Hankins
+        170    6.00   2.00 9-Tipton-Baer vs 1-Hesson-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          7.50   0.50 1-Abernethy-Liu vs 2-Reams-Wake
+        140    0.50   7.50 2-Saul-Hudesman vs 4-Lepp-Lepp
+  100          3.50   4.50 3-Pesce-Ring vs 6-Roselle-Christensen
+  100          3.50   4.50 4-Campbell-Gerard vs 8-Berg-Hankins
+  200          6.00   2.00 5-Hendrickson-Galer vs 1-Hesson-Diaconescu
+  100          3.50   4.50 6-Heller-Heller vs 3-Blustein-Stevens
+  100          3.50   4.50 7-Zaugg-Moore vs 5-Bovarnick-Gravitz
+        140    0.50   7.50 8-Reiter-Hamaradi vs 7-Laughary-Cowles
+  300          7.50   0.50 9-Tipton-Baer vs 9-Hooks-Saraf
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   8.00 1-Abernethy-Liu vs 2-Reams-Wake
+        140    1.00   7.00 2-Saul-Hudesman vs 4-Lepp-Lepp
+        110    3.00   5.00 3-Pesce-Ring vs 6-Roselle-Christensen
+  100          6.00   2.00 4-Campbell-Gerard vs 8-Berg-Hankins
+  200          7.50   0.50 5-Hendrickson-Galer vs 1-Hesson-Diaconescu
+        110    3.00   5.00 6-Heller-Heller vs 3-Blustein-Stevens
+        100    5.00   3.00 7-Zaugg-Moore vs 5-Bovarnick-Gravitz
+  200          7.50   0.50 8-Reiter-Hamaradi vs 7-Laughary-Cowles
+        110    3.00   5.00 9-Tipton-Baer vs 9-Hooks-Saraf
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.00   7.00 1-Abernethy-Liu vs 2-Reams-Wake
+        130    4.00   4.00 2-Saul-Hudesman vs 4-Lepp-Lepp
+        130    4.00   4.00 3-Pesce-Ring vs 6-Roselle-Christensen
+  110          8.00   0.00 4-Campbell-Gerard vs 8-Berg-Hankins
+        130    4.00   4.00 5-Hendrickson-Galer vs 1-Hesson-Diaconescu
+        130    4.00   4.00 6-Heller-Heller vs 3-Blustein-Stevens
+        130    4.00   4.00 7-Zaugg-Moore vs 5-Bovarnick-Gravitz
+        570    0.00   8.00 8-Reiter-Hamaradi vs 7-Laughary-Cowles
+    PASS       7.00   1.00 9-Tipton-Baer vs 9-Hooks-Saraf
+----------------------------------------------------------------------
