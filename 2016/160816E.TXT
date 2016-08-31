@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>August 16, 2016    |CLUB NO.>158048    | 08/16/2016 22:22
+DATE>August 16, 2016    |CLUB NO.>158048    | 08/30/2016 18:47
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Eng Abernethy   |RATING>Club - North American Pairs  |MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,7 +11,7 @@ PAIRS IN STRAT A=10/B=7/C=2                      ,---,------------,-------------
 -------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Kevin Cline            David Hankins            B   Q   Q        1     1     .   |   1     1     .    147.00  60.49  1.88Red 
+ 1 Kevin Cline            David Hankins            B   Q   Q        1     1     .   |   1     1     .    148.00  60.91  1.88Red 
                                                                                                                         1.87Blk 
  2 Chris Pesce            Shawn Abernethy          B   Q   Q        4     3     .   |   2     2     .    133.00  54.73  0.79Red 
                                                                                                                         0.79Blk 
@@ -19,9 +19,9 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
 
  4 Tracey Guice           Beau Hovda               C           Q    .     .     .   |   .     .     .     98.50  40.53          
 
- 5 David Baer             Rose Bolson              A   Q            .     .     .   |   .     .     .    124.50  51.23          
+ 5 David Baer             Rose Bolson              A   Q            .     .     .   |   .     .     .    123.00  50.62          
 
- 6 Ann Romeo              Brian Zaugg              B                .     .     .   |   .     .     .    100.50  41.36          
+ 6 Ann Romeo              Brian Zaugg              B                .     .     .   |   .     .     .    101.00  41.56          
 
  7 Brad Rind              Terry Jacobson           C   Q   Q   Q    5     4     .   |   3     3     .    130.00  53.50  0.60Red 
                                                                                                                         0.59Blk 
@@ -35,7 +35,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
                                           Totals                                                        1215.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>August 16, 2016    |CLUB NO.>158048    | 08/16/2016 22:22
+DATE>August 16, 2016    |CLUB NO.>158048    | 08/30/2016 18:47
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Eng Abernethy   |RATING>Club - North American Pairs  |MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -51,17 +51,17 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
                                                                                                                         0.47Blk 
  3 Kim Eng                Jeffrey Ford             A   Q            .     .     .   |   .     .     .    123.50  50.82          
 
- 4 Dave Setterholm        Gary Haldane             A   Q            3     .     .   |   2     .     .    135.50  55.76  1.06Red 
+ 4 Dave Setterholm        Gary Haldane             A   Q            3     .     .   |   2     .     .    137.00  56.38  1.06Red 
                                                                                                                         1.05Blk 
  5 Nick Tipton            Galen Hesson             B                .     .     .   |   .     .     .    106.50  43.83          
 
- 6 Mike Christensen       Mike Ring                B   Q   Q        2     2     .   |   1     1     .    146.00  60.08  1.41Red 
+ 6 Mike Christensen       Mike Ring                B   Q   Q        2     2     .   |   1     1     .    145.00  59.67  1.41Red 
                                                                                                                         1.40Blk 
  7 Pete Cowles            Clay Laughary            B   Q   Q        .     .     .   |   .     .     .    121.50  50.00          
 
  8 Eric Sieg              Dong Yan                 B                .     .     .   |   .     .     .    111.00  45.68          
 
- 9 Stanford Christie      Ray Miller               A   Q            .     .     .   |   4     .     .    127.50  52.47  0.33Red 
+ 9 Stanford Christie      Ray Miller               A   Q            .     .     .   |   4     .     .    127.00  52.26  0.33Red 
                                                                                                                         0.33Blk 
 10 John Krah              Daniel Poore             B                .     .     .   |   .     .     .     96.50  39.71          
 
@@ -344,12 +344,12 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        150    1.00   8.00 1-Cline-Hankins vs 6-Christensen-Ring
+        150    2.00   7.00 1-Cline-Hankins vs 6-Christensen-Ring
   100          9.00   0.00 2-Pesce-Abernethy vs 8-Sieg-Yan
         110    6.00   3.00 3-Breeze-Lakshmanan vs 10-Krah-Poore
         130    3.00   6.00 4-Guice-Hovda vs 2-Fuhrman-Stuberg
-        140    2.00   7.00 5-Baer-Bolson vs 4-Setterholm-Haldane
-        400    0.00   9.00 6-Romeo-Zaugg vs 9-Christie-Miller
+        400    0.50   8.50 5-Baer-Bolson vs 4-Setterholm-Haldane
+        400    0.50   8.50 6-Romeo-Zaugg vs 9-Christie-Miller
         110    6.00   3.00 7-Rind-Jacobson vs 1-Binney-Walker
         110    6.00   3.00 8-Campbell-Hendrickson vs 3-Eng-Ford
         110    6.00   3.00 9-Handley-Epley vs 5-Tipton-Hesson
