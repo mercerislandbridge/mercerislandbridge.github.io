@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 13, 2016 |CLUB NO.>158048    | 09/13/2016 22:01
+DATE>September 13, 2016 |CLUB NO.>158048    | 09/20/2016 18:40
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,27 +11,27 @@ PAIRS IN STRAT A=8/B=4/C=2                       ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Jennifer Ballantyne    David Binney             A    .     .     .     88.50  52.68          
+ 1 Jennifer Ballantyne    David Binney             A    .     .     .     89.00  52.98          
 
- 2 Corneliu Galer         Chris Pesce              B    .     .     .     70.50  41.96          
+ 2 Corneliu Galer         Chris Pesce              B    .     .     .     71.00  42.26          
 
  3 Tim White              Renae Gunstone-White     B    .     2     .     74.50  44.35  0.22(B) 
 
  4 David Taylor           Victor Bremson           A    2     .     .    101.00  60.12  0.56(A) 
 
- 5 Connie Heller          Dennis Heller            A    .     .     .     80.50  47.92          
+ 5 Connie Heller          Dennis Heller            A    .     .     .     78.00  46.43          
 
- 6 William Campbell       Hugh Hendrickson         C    .     .     .     57.00  33.93          
+ 6 William Campbell       Hugh Hendrickson         C    .     .     .     57.50  34.23          
 
  7 Harry Steiner          Ray Miller               A    3     .     .     92.50  55.06  0.40(A) 
 
- 8 Brad Rind              Terry Jacobson           C    1     1     .    107.50  63.99  0.80(A) 
+ 8 Brad Rind              Terry Jacobson           C    1     1     .    108.50  64.58  0.80(A) 
 
 
                                           Totals                         672.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 13, 2016 |CLUB NO.>158048    | 09/13/2016 22:01
+DATE>September 13, 2016 |CLUB NO.>158048    | 09/20/2016 18:40
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -41,15 +41,15 @@ PAIRS IN STRAT A=8/B=6/C=2                       ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Nick Tipton            Galen Hesson             B    2     1     .     95.50  56.85  0.56(A) 
+ 1 Nick Tipton            Galen Hesson             B    2     1     .     94.50  56.25  0.56(A) 
 
- 2 David Hankins          Kevin Cline              C    .     .     .     75.00  44.64          
+ 2 David Hankins          Kevin Cline              C    .     .     .     74.50  44.35          
 
- 3 Eric Sieg              Jeffrey Ford             A    1     .     .    107.50  63.99  0.80(A) 
+ 3 Eric Sieg              Jeffrey Ford             A    1     .     .    110.00  65.48  0.80(A) 
 
- 4 Joel Fuhrman           David Walker             B    .     .     .     65.50  38.99          
+ 4 Joel Fuhrman           David Walker             B    .     .     .     65.00  38.69          
 
- 5 Brian Zaugg            Shawn Abernethy          B    .     .     .     84.50  50.30          
+ 5 Brian Zaugg            Shawn Abernethy          B    .     .     .     84.00  50.00          
 
  6 Dell Berg              Christopher Jarvis       A    .     .     .     75.50  44.94          
 
@@ -358,12 +358,12 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   90          2.50   4.50 1-Ballantyne-Binney vs 2-Hankins-Cline
+   90          2.00   5.00 1-Ballantyne-Binney vs 2-Hankins-Cline
   110          5.50   1.50 2-Galer-Pesce vs 4-Fuhrman-Walker
-         50    1.00   6.00 3-White-Gunstone-White vs 6-Berg-Jarvis
+         50    0.00   7.00 3-White-Gunstone-White vs 6-Berg-Jarvis
   110          5.50   1.50 4-Taylor-Bremson vs 8-Krah-Poore
-        690    0.00   7.00 5-Heller-Heller vs 3-Sieg-Ford
-   90          2.50   4.50 6-Campbell-Hendrickson vs 5-Zaugg-Abernethy
+   90          2.00   5.00 5-Heller-Heller vs 3-Sieg-Ford
+   90          2.00   5.00 6-Campbell-Hendrickson vs 5-Zaugg-Abernethy
   110          5.50   1.50 7-Steiner-Miller vs 7-Christensen-Ring
   110          5.50   1.50 8-Rind-Jacobson vs 1-Tipton-Hesson
 ----------------------------------------------------------------------
@@ -386,12 +386,12 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        460    3.50   3.50 1-Ballantyne-Binney vs 2-Hankins-Cline
-        490    2.00   5.00 2-Galer-Pesce vs 4-Fuhrman-Walker
-        400    5.50   1.50 3-White-Gunstone-White vs 6-Berg-Jarvis
+        460    4.50   2.50 1-Ballantyne-Binney vs 2-Hankins-Cline
+        490    2.50   4.50 2-Galer-Pesce vs 4-Fuhrman-Walker
+        400    6.50   0.50 3-White-Gunstone-White vs 6-Berg-Jarvis
         920    0.50   6.50 4-Taylor-Bremson vs 8-Krah-Poore
-         90    7.00   0.00 5-Heller-Heller vs 3-Sieg-Ford
-        400    5.50   1.50 6-Campbell-Hendrickson vs 5-Zaugg-Abernethy
+        490    2.50   4.50 5-Heller-Heller vs 3-Sieg-Ford
+        400    6.50   0.50 6-Campbell-Hendrickson vs 5-Zaugg-Abernethy
         920    0.50   6.50 7-Steiner-Miller vs 7-Christensen-Ring
-        460    3.50   3.50 8-Rind-Jacobson vs 1-Tipton-Hesson
+        460    4.50   2.50 8-Rind-Jacobson vs 1-Tipton-Hesson
 ----------------------------------------------------------------------
