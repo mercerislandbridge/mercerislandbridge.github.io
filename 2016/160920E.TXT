@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> P N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 20, 2016 |CLUB NO.>158048    | 09/20/2016 22:19
+DATE>September 20, 2016 |CLUB NO.>158048    | 09/27/2016 18:33
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,31 +11,31 @@ PAIRS IN STRAT A=10/B=6/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Edith DeShaw           Amy DeShaw               A    .     .     .    121.00  49.79          
+ 1 Edith DeShaw           Amy DeShaw               A    .     .     .    123.50  50.82          
 
- 2 Ann Romeo              Brian Zaugg              B    .     .     .    102.50  42.18          
+ 2 Ann Romeo              Brian Zaugg              B    .     .     .    103.50  42.59          
 
- 3 Jeffrey Ford           Kim Eng                  A    .     .     .    113.00  46.50          
+ 3 Jeffrey Ford           Kim Eng                  A    .     .     .    115.50  47.53          
 
- 4 Pete Cowles            Clay Laughary            C    .     .     .    123.00  50.62          
+ 4 Pete Cowles            Clay Laughary            C    .     .     .    125.50  51.65          
 
- 5 Shawn Abernethy        Eric Sieg                C    2     1     1    132.50  54.53  0.70(A) 
+ 5 Shawn Abernethy        Eric Sieg                C    4     2     1    126.00  51.85  0.35(A) 
 
- 6 David Taylor           Chris Pesce              B    4     2     .    126.00  51.85  0.35(A) 
+ 6 David Taylor           Chris Pesce              B    3     1     .    128.50  52.88  0.50(A) 
 
- 7 Bryan Delfs            Jennifer Chalfan         A    1     .     .    155.00  63.79  1.00(A) 
+ 7 Bryan Delfs            Jennifer Chalfan         A    1     .     .    149.50  61.52  1.00(A) 
 
- 8 Dex Stuberg            Joel Fuhrman             B    .     .     .    100.00  41.15          
+ 8 Dex Stuberg            Joel Fuhrman             B    .     .     .    101.50  41.77          
 
- 9 Ray Miller             Chris Moore              A    3     .     .    130.50  53.70  0.50(A) 
+ 9 Ray Miller             Chris Moore              A    2     .     .    132.50  54.53  0.70(A) 
 
-10 Brad Rind              Terry Jacobson           C    .     .     .    111.50  45.88          
+10 Brad Rind              Terry Jacobson           C    .     .     .    109.00  44.86          
 
 
                                           Totals                        1215.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> P E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 20, 2016 |CLUB NO.>158048    | 09/20/2016 22:19
+DATE>September 20, 2016 |CLUB NO.>158048    | 09/27/2016 18:33
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -45,25 +45,25 @@ PAIRS IN STRAT A=10/B=7/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Chen Molan             William Chen             A    2     .     .    134.50  55.35  0.70(A) 
+ 1 Chen Molan             William Chen             A    3     .     .    133.00  54.73  0.50(A) 
 
- 2 David Hankins          Kevin Cline              B    .     3     .    129.00  53.09  0.28(B) 
+ 2 David Hankins          Kevin Cline              B    .     3     .    127.50  52.47  0.28(B) 
 
- 3 David Baer             Rose Bolson              A    .     .     .    122.50  50.41          
+ 3 David Baer             Rose Bolson              A    .     .     .    120.00  49.38          
 
- 4 Moises Saul            Irving Sonkin            C    .     .     .    100.00  41.15          
+ 4 Moises Saul            Irving Sonkin            C    .     .     .     99.00  40.74          
 
- 5 Mike Ring              Mike Christensen         B    3     2     .    133.50  54.94  0.50(A) 
+ 5 Mike Ring              Mike Christensen         B    2     2     .    139.00  57.20  0.70(A) 
 
- 6 Gary Haldane           Sharon Miller            B    .     .     .     90.50  37.24          
+ 6 Gary Haldane           Sharon Miller            B    .     .     .     91.50  37.65          
 
- 7 Adam Ruprecht          Christopher Jarvis       C    .     .     .    120.50  49.59          
+ 7 Adam Ruprecht          Christopher Jarvis       C    .     .     .    118.50  48.77          
 
- 8 Nick Tipton            Galen Hesson             B    .     .     .    105.00  43.21          
+ 8 Nick Tipton            Galen Hesson             B    .     .     .    110.50  45.47          
 
- 9 Stanford Christie      Corneliu Galer           A    4     .     .    130.00  53.50  0.35(A) 
+ 9 Stanford Christie      Corneliu Galer           A    4     .     .    128.00  52.67  0.35(A) 
 
-10 John Krah              Daniel Poore             C    1     1     1    149.50  61.52  1.00(A) 
+10 John Krah              Daniel Poore             C    1     1     1    148.00  60.91  1.00(A) 
 
 
                                           Totals                        1215.00       
@@ -72,16 +72,16 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        200    6.00   3.00 1-DeShaw-DeShaw vs 1-Molan-Chen
-        450    2.00   7.00 2-Romeo-Zaugg vs 4-Saul-Sonkin
-        100    8.00   1.00 3-Ford-Eng vs 6-Haldane-Miller
-        200    6.00   3.00 4-Cowles-Laughary vs 8-Tipton-Hesson
-        450    2.00   7.00 5-Abernethy-Sieg vs 10-Krah-Poore
-        200    6.00   3.00 6-Taylor-Pesce vs 3-Baer-Bolson
-  450          9.00   0.00 7-Delfs-Chalfan vs 5-Ring-Christensen
-        450    2.00   7.00 8-Stuberg-Fuhrman vs 7-Ruprecht-Jarvis
-        450    2.00   7.00 9-Miller-Moore vs 9-Christie-Galer
-        450    2.00   7.00 10-Rind-Jacobson vs 2-Hankins-Cline
+        200    7.00   2.00 1-DeShaw-DeShaw vs 1-Molan-Chen
+        450    2.50   6.50 2-Romeo-Zaugg vs 4-Saul-Sonkin
+        100    9.00   0.00 3-Ford-Eng vs 6-Haldane-Miller
+        200    7.00   2.00 4-Cowles-Laughary vs 8-Tipton-Hesson
+        450    2.50   6.50 5-Abernethy-Sieg vs 10-Krah-Poore
+        200    7.00   2.00 6-Taylor-Pesce vs 3-Baer-Bolson
+        450    2.50   6.50 7-Delfs-Chalfan vs 5-Ring-Christensen
+        450    2.50   6.50 8-Stuberg-Fuhrman vs 7-Ruprecht-Jarvis
+        450    2.50   6.50 9-Miller-Moore vs 9-Christie-Galer
+        450    2.50   6.50 10-Rind-Jacobson vs 2-Hankins-Cline
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 2
@@ -184,15 +184,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-         90    6.00   3.00 1-DeShaw-DeShaw vs 9-Christie-Galer
+         90    7.00   2.00 1-DeShaw-DeShaw vs 9-Christie-Galer
         530    0.00   9.00 2-Romeo-Zaugg vs 1-Molan-Chen
-        130    4.00   5.00 3-Ford-Eng vs 3-Baer-Bolson
-        130    4.00   5.00 4-Cowles-Laughary vs 6-Haldane-Miller
-  420          9.00   0.00 5-Abernethy-Sieg vs 8-Tipton-Hesson
-   50          7.00   2.00 6-Taylor-Pesce vs 5-Ring-Christensen
-  100          8.00   1.00 7-Delfs-Chalfan vs 7-Ruprecht-Jarvis
-        150    2.00   7.00 8-Stuberg-Fuhrman vs 10-Krah-Poore
-        130    4.00   5.00 9-Miller-Moore vs 2-Hankins-Cline
+        130    5.00   4.00 3-Ford-Eng vs 3-Baer-Bolson
+        130    5.00   4.00 4-Cowles-Laughary vs 6-Haldane-Miller
+        420    2.00   7.00 5-Abernethy-Sieg vs 8-Tipton-Hesson
+   50          8.00   1.00 6-Taylor-Pesce vs 5-Ring-Christensen
+  100          9.00   0.00 7-Delfs-Chalfan vs 7-Ruprecht-Jarvis
+        150    3.00   6.00 8-Stuberg-Fuhrman vs 10-Krah-Poore
+        130    5.00   4.00 9-Miller-Moore vs 2-Hankins-Cline
         470    1.00   8.00 10-Rind-Jacobson vs 4-Saul-Sonkin
 ----------------------------------------------------------------------
 
@@ -296,16 +296,16 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        170    5.50   3.50 1-DeShaw-DeShaw vs 7-Ruprecht-Jarvis
-        170    5.50   3.50 2-Romeo-Zaugg vs 9-Christie-Galer
-        170    5.50   3.50 3-Ford-Eng vs 1-Molan-Chen
-        170    5.50   3.50 4-Cowles-Laughary vs 3-Baer-Bolson
+        170    6.00   3.00 1-DeShaw-DeShaw vs 7-Ruprecht-Jarvis
+        170    6.00   3.00 2-Romeo-Zaugg vs 9-Christie-Galer
+        170    6.00   3.00 3-Ford-Eng vs 1-Molan-Chen
+        170    6.00   3.00 4-Cowles-Laughary vs 3-Baer-Bolson
         420    1.00   8.00 5-Abernethy-Sieg vs 5-Ring-Christensen
-        170    5.50   3.50 6-Taylor-Pesce vs 8-Tipton-Hesson
+        170    6.00   3.00 6-Taylor-Pesce vs 8-Tipton-Hesson
         420    1.00   8.00 7-Delfs-Chalfan vs 10-Krah-Poore
         420    1.00   8.00 8-Stuberg-Fuhrman vs 2-Hankins-Cline
-        170    5.50   3.50 9-Miller-Moore vs 4-Saul-Sonkin
-  170          9.00   0.00 10-Rind-Jacobson vs 6-Haldane-Miller
+        170    6.00   3.00 9-Miller-Moore vs 4-Saul-Sonkin
+        170    6.00   3.00 10-Rind-Jacobson vs 6-Haldane-Miller
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 16
