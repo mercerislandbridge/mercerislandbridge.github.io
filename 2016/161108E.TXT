@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 8, 2016   |CLUB NO.>158048    | 11/08/2016 22:36
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club ACBL Membership         |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=11/C=6                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Terry Jacobson         Brad Rind                C   4     1     1   |   4     1     1    103.00  56.59  2.10(OB)
+
+ 2 Corneliu Galer         Rose Bolson              A   .     .     .   |   .     .     .     88.50  48.63          
+
+ 3 Henry Lortz            Bogdam Vulcan            A   .     .     .   |   .     .     .     90.00  49.45          
+
+ 4 Chris Pesce            Shawn Abernethy          B   .     3     .   |   6     3     .     98.50  54.12  1.18(OB)
+
+ 5 Pete Cowles            Clay Laughary            C   .     .     .   |   .     .     .     66.00  36.26          
+
+ 6 David Hankins          Kevin Cline              B   .     .     .   |   .     .     .     91.00  50.00          
+
+ 7 Thomas Stever          Muhunthan Sivapragasam   B   5     2     .   |   5     2     .    101.50  55.77  1.58(OB)
+
+ 8 Jeffrey Ford           Bryan Delfs              A   2     .     .   |   2     .     .    104.50  57.42  2.54(OA)
+
+ 9 Mike Ring              Mike Christensen         B   .     4     .   |   .     4     .     95.50  52.47  0.89(OB)
+
+10 Ray Miller             Kim Eng                  A   1     .     .   |   1     .     .    107.50  59.07  3.38(OA)
+
+11 Craig Von Land         Craig Ruden              C   .     .     .   |   .     .     .     79.00  43.41          
+
+12 John Krah              Daniel Poore             C   .     .     2   |   .     .     2     84.50  46.43  0.96(OC)
+
+13 Moises Saul            Irving Sonkin            C   .     .     .   |   .     .     .     75.00  41.21          
+
+14 Connie Heller          Dennis Heller            A   3     .     .   |   3     .     .    104.00  57.14  1.90(OA)
+
+15 Nick Tipton            Beau Hovda               B   .     .     .   |   .     .     .     93.50  51.37          
+
+16 Steven Mark Lewis      Jolanta Janowski         C   .     .     .   |   .     .     .     74.00  40.66          
+
+
+                                          Totals                                           1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          4.50   2.50 4-Pesce-Abernethy vs 14-Heller-Heller
+  980          6.50   0.50 6-Hankins-Cline vs 5-Cowles-Laughary
+        470    0.00   7.00 8-Ford-Delfs vs 12-Krah-Poore
+  980          6.50   0.50 9-Ring-Christensen vs 11-Von Land-Ruden
+  300          3.00   4.00 10-Miller-Eng vs 2-Galer-Bolson
+         50    1.50   5.50 13-Saul-Sonkin vs 7-Stever-Sivapragasam
+         50    1.50   5.50 15-Tipton-Hovda vs 3-Lortz-Vulcan
+  480          4.50   2.50 16-Lewis-Janowski vs 1-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.00   6.00 4-Pesce-Abernethy vs 14-Heller-Heller
+   50          4.00   3.00 6-Hankins-Cline vs 5-Cowles-Laughary
+   50          4.00   3.00 8-Ford-Delfs vs 12-Krah-Poore
+  100          6.50   0.50 9-Ring-Christensen vs 11-Von Land-Ruden
+  100          6.50   0.50 10-Miller-Eng vs 2-Galer-Bolson
+        120    2.00   5.00 13-Saul-Sonkin vs 7-Stever-Sivapragasam
+   50          4.00   3.00 15-Tipton-Hovda vs 3-Lortz-Vulcan
+        800    0.00   7.00 16-Lewis-Janowski vs 1-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    5.50   1.50 1-Jacobson-Rind vs 8-Ford-Delfs
+        650    2.50   4.50 4-Pesce-Abernethy vs 15-Tipton-Hovda
+        650    2.50   4.50 5-Cowles-Laughary vs 14-Heller-Heller
+        620    5.50   1.50 7-Stever-Sivapragasam vs 6-Hankins-Cline
+        650    2.50   4.50 9-Ring-Christensen vs 13-Saul-Sonkin
+  100          7.00   0.00 10-Miller-Eng vs 12-Krah-Poore
+        660    0.00   7.00 11-Von Land-Ruden vs 3-Lortz-Vulcan
+        650    2.50   4.50 16-Lewis-Janowski vs 2-Galer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          3.50   3.50 1-Jacobson-Rind vs 8-Ford-Delfs
+  650          7.00   0.00 4-Pesce-Abernethy vs 15-Tipton-Hovda
+        100    1.00   6.00 5-Cowles-Laughary vs 14-Heller-Heller
+  620          5.50   1.50 7-Stever-Sivapragasam vs 6-Hankins-Cline
+        100    1.00   6.00 9-Ring-Christensen vs 13-Saul-Sonkin
+        100    1.00   6.00 10-Miller-Eng vs 12-Krah-Poore
+  620          5.50   1.50 11-Von Land-Ruden vs 3-Lortz-Vulcan
+  500          3.50   3.50 16-Lewis-Janowski vs 2-Galer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   1.00 2-Galer-Bolson vs 9-Ring-Christensen
+        140    3.00   4.00 5-Cowles-Laughary vs 15-Tipton-Hovda
+   50          6.00   1.00 6-Hankins-Cline vs 14-Heller-Heller
+        140    3.00   4.00 8-Ford-Delfs vs 7-Stever-Sivapragasam
+        140    3.00   4.00 10-Miller-Eng vs 1-Jacobson-Rind
+   50          6.00   1.00 11-Von Land-Ruden vs 13-Saul-Sonkin
+        170    0.50   6.50 12-Krah-Poore vs 4-Pesce-Abernethy
+        170    0.50   6.50 16-Lewis-Janowski vs 3-Lortz-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          5.00   2.00 2-Galer-Bolson vs 9-Ring-Christensen
+         50    0.00   7.00 5-Cowles-Laughary vs 15-Tipton-Hovda
+  460          2.00   5.00 6-Hankins-Cline vs 14-Heller-Heller
+  490          5.00   2.00 8-Ford-Delfs vs 7-Stever-Sivapragasam
+  460          2.00   5.00 10-Miller-Eng vs 1-Jacobson-Rind
+  990          7.00   0.00 11-Von Land-Ruden vs 13-Saul-Sonkin
+  490          5.00   2.00 12-Krah-Poore vs 4-Pesce-Abernethy
+  460          2.00   5.00 16-Lewis-Janowski vs 3-Lortz-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          1.50   5.50 3-Lortz-Vulcan vs 10-Miller-Eng
+  630          5.50   1.50 6-Hankins-Cline vs 15-Tipton-Hovda
+  600          1.50   5.50 9-Ring-Christensen vs 8-Ford-Delfs
+  630          5.50   1.50 11-Von Land-Ruden vs 2-Galer-Bolson
+  600          1.50   5.50 12-Krah-Poore vs 1-Jacobson-Rind
+  630          5.50   1.50 13-Saul-Sonkin vs 5-Cowles-Laughary
+  630          5.50   1.50 14-Heller-Heller vs 7-Stever-Sivapragasam
+  600          1.50   5.50 16-Lewis-Janowski vs 4-Pesce-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   5.00 3-Lortz-Vulcan vs 10-Miller-Eng
+  490          6.00   1.00 6-Hankins-Cline vs 15-Tipton-Hovda
+  450          2.00   5.00 9-Ring-Christensen vs 8-Ford-Delfs
+  420          0.00   7.00 11-Von Land-Ruden vs 2-Galer-Bolson
+ 1010          7.00   0.00 12-Krah-Poore vs 1-Jacobson-Rind
+  460          4.00   3.00 13-Saul-Sonkin vs 5-Cowles-Laughary
+  450          2.00   5.00 14-Heller-Heller vs 7-Stever-Sivapragasam
+  480          5.00   2.00 16-Lewis-Janowski vs 4-Pesce-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.50   0.50 1-Jacobson-Rind vs 6-Hankins-Cline
+  100          6.50   0.50 4-Pesce-Abernethy vs 11-Von Land-Ruden
+        170    4.50   2.50 7-Stever-Sivapragasam vs 15-Tipton-Hovda
+        170    4.50   2.50 10-Miller-Eng vs 9-Ring-Christensen
+        200    3.00   4.00 12-Krah-Poore vs 3-Lortz-Vulcan
+        650    0.00   7.00 13-Saul-Sonkin vs 2-Galer-Bolson
+        630    1.00   6.00 14-Heller-Heller vs 8-Ford-Delfs
+        620    2.00   5.00 16-Lewis-Janowski vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    6.50   0.50 1-Jacobson-Rind vs 6-Hankins-Cline
+        120    2.50   4.50 4-Pesce-Abernethy vs 11-Von Land-Ruden
+         90    6.50   0.50 7-Stever-Sivapragasam vs 15-Tipton-Hovda
+        120    2.50   4.50 10-Miller-Eng vs 9-Ring-Christensen
+        150    0.00   7.00 12-Krah-Poore vs 3-Lortz-Vulcan
+        120    2.50   4.50 13-Saul-Sonkin vs 2-Galer-Bolson
+        120    2.50   4.50 14-Heller-Heller vs 8-Ford-Delfs
+        110    5.00   2.00 16-Lewis-Janowski vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   2.00 1-Jacobson-Rind vs 3-Lortz-Vulcan
+   50          1.50   5.50 2-Galer-Bolson vs 7-Stever-Sivapragasam
+  100          5.00   2.00 5-Cowles-Laughary vs 12-Krah-Poore
+  100          5.00   2.00 8-Ford-Delfs vs 15-Tipton-Hovda
+   50          1.50   5.50 11-Von Land-Ruden vs 10-Miller-Eng
+   50          1.50   5.50 13-Saul-Sonkin vs 4-Pesce-Abernethy
+   50          1.50   5.50 14-Heller-Heller vs 9-Ring-Christensen
+  110          7.00   0.00 16-Lewis-Janowski vs 6-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          7.00   0.00 1-Jacobson-Rind vs 3-Lortz-Vulcan
+        200    1.50   5.50 2-Galer-Bolson vs 7-Stever-Sivapragasam
+        470    0.00   7.00 5-Cowles-Laughary vs 12-Krah-Poore
+        100    4.00   3.00 8-Ford-Delfs vs 15-Tipton-Hovda
+        200    1.50   5.50 11-Von Land-Ruden vs 10-Miller-Eng
+        140    3.00   4.00 13-Saul-Sonkin vs 4-Pesce-Abernethy
+  600          6.00   1.00 14-Heller-Heller vs 9-Ring-Christensen
+   50          5.00   2.00 16-Lewis-Janowski vs 6-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   4.50 1-Jacobson-Rind vs 5-Cowles-Laughary
+  110          2.50   4.50 2-Galer-Bolson vs 4-Pesce-Abernethy
+  110          2.50   4.50 3-Lortz-Vulcan vs 8-Ford-Delfs
+  110          2.50   4.50 6-Hankins-Cline vs 13-Saul-Sonkin
+  140          6.50   0.50 9-Ring-Christensen vs 15-Tipton-Hovda
+  110          2.50   4.50 12-Krah-Poore vs 11-Von Land-Ruden
+  140          6.50   0.50 14-Heller-Heller vs 10-Miller-Eng
+  110          2.50   4.50 16-Lewis-Janowski vs 7-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          7.00   0.00 1-Jacobson-Rind vs 5-Cowles-Laughary
+  420          3.50   3.50 2-Galer-Bolson vs 4-Pesce-Abernethy
+  300          1.00   6.00 3-Lortz-Vulcan vs 8-Ford-Delfs
+  450          5.00   2.00 6-Hankins-Cline vs 13-Saul-Sonkin
+  300          1.00   6.00 9-Ring-Christensen vs 15-Tipton-Hovda
+  420          3.50   3.50 12-Krah-Poore vs 11-Von Land-Ruden
+  590          6.00   1.00 14-Heller-Heller vs 10-Miller-Eng
+  300          1.00   6.00 16-Lewis-Janowski vs 7-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.00   3.00 2-Galer-Bolson vs 6-Hankins-Cline
+  660          5.50   1.50 3-Lortz-Vulcan vs 5-Cowles-Laughary
+        200    1.50   5.50 4-Pesce-Abernethy vs 9-Ring-Christensen
+        300    0.00   7.00 7-Stever-Sivapragasam vs 1-Jacobson-Rind
+  660          5.50   1.50 10-Miller-Eng vs 15-Tipton-Hovda
+        100    3.00   4.00 13-Saul-Sonkin vs 12-Krah-Poore
+  690          7.00   0.00 14-Heller-Heller vs 11-Von Land-Ruden
+        200    1.50   5.50 16-Lewis-Janowski vs 8-Ford-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.00   5.00 2-Galer-Bolson vs 6-Hankins-Cline
+  200          5.00   2.00 3-Lortz-Vulcan vs 5-Cowles-Laughary
+        600    0.50   6.50 4-Pesce-Abernethy vs 9-Ring-Christensen
+  200          5.00   2.00 7-Stever-Sivapragasam vs 1-Jacobson-Rind
+  200          5.00   2.00 10-Miller-Eng vs 15-Tipton-Hovda
+  140          3.00   4.00 13-Saul-Sonkin vs 12-Krah-Poore
+  650          7.00   0.00 14-Heller-Heller vs 11-Von Land-Ruden
+        600    0.50   6.50 16-Lewis-Janowski vs 8-Ford-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.00   0.00 1-Jacobson-Rind vs 13-Saul-Sonkin
+  100          6.00   1.00 3-Lortz-Vulcan vs 7-Stever-Sivapragasam
+        140    4.00   3.00 4-Pesce-Abernethy vs 6-Hankins-Cline
+        450    0.00   7.00 5-Cowles-Laughary vs 10-Miller-Eng
+        420    2.50   4.50 8-Ford-Delfs vs 2-Galer-Bolson
+        420    2.50   4.50 14-Heller-Heller vs 12-Krah-Poore
+   50          5.00   2.00 15-Tipton-Hovda vs 11-Von Land-Ruden
+        430    1.00   6.00 16-Lewis-Janowski vs 9-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   6.00 1-Jacobson-Rind vs 13-Saul-Sonkin
+   50          3.00   4.00 3-Lortz-Vulcan vs 7-Stever-Sivapragasam
+   50          3.00   4.00 4-Pesce-Abernethy vs 6-Hankins-Cline
+        100    0.00   7.00 5-Cowles-Laughary vs 10-Miller-Eng
+  110          7.00   0.00 8-Ford-Delfs vs 2-Galer-Bolson
+   50          3.00   4.00 14-Heller-Heller vs 12-Krah-Poore
+   90          5.00   2.00 15-Tipton-Hovda vs 11-Von Land-Ruden
+  100          6.00   1.00 16-Lewis-Janowski vs 9-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    7.00   0.00 2-Galer-Bolson vs 1-Jacobson-Rind
+        200    4.00   3.00 4-Pesce-Abernethy vs 8-Ford-Delfs
+        500    2.00   5.00 5-Cowles-Laughary vs 7-Stever-Sivapragasam
+        600    0.50   6.50 6-Hankins-Cline vs 11-Von Land-Ruden
+        150    5.50   1.50 9-Ring-Christensen vs 3-Lortz-Vulcan
+        600    0.50   6.50 14-Heller-Heller vs 13-Saul-Sonkin
+        150    5.50   1.50 15-Tipton-Hovda vs 12-Krah-Poore
+        300    3.00   4.00 16-Lewis-Janowski vs 10-Miller-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   3.50 2-Galer-Bolson vs 1-Jacobson-Rind
+  140          5.00   2.00 4-Pesce-Abernethy vs 8-Ford-Delfs
+  100          3.50   3.50 5-Cowles-Laughary vs 7-Stever-Sivapragasam
+        100    1.50   5.50 6-Hankins-Cline vs 11-Von Land-Ruden
+  200          6.00   1.00 9-Ring-Christensen vs 3-Lortz-Vulcan
+        100    1.50   5.50 14-Heller-Heller vs 13-Saul-Sonkin
+  300          7.00   0.00 15-Tipton-Hovda vs 12-Krah-Poore
+        200    0.00   7.00 16-Lewis-Janowski vs 10-Miller-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    4.00   3.00 1-Jacobson-Rind vs 14-Heller-Heller
+        480    4.00   3.00 3-Lortz-Vulcan vs 2-Galer-Bolson
+        480    4.00   3.00 5-Cowles-Laughary vs 9-Ring-Christensen
+        480    4.00   3.00 6-Hankins-Cline vs 8-Ford-Delfs
+        480    4.00   3.00 7-Stever-Sivapragasam vs 12-Krah-Poore
+        480    4.00   3.00 10-Miller-Eng vs 4-Pesce-Abernethy
+        480    4.00   3.00 15-Tipton-Hovda vs 13-Saul-Sonkin
+        980    0.00   7.00 16-Lewis-Janowski vs 11-Von Land-Ruden
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   6.00 1-Jacobson-Rind vs 14-Heller-Heller
+         50    4.00   3.00 3-Lortz-Vulcan vs 2-Galer-Bolson
+  140          6.00   1.00 5-Cowles-Laughary vs 9-Ring-Christensen
+  430          7.00   0.00 6-Hankins-Cline vs 8-Ford-Delfs
+        100    1.00   6.00 7-Stever-Sivapragasam vs 12-Krah-Poore
+        100    1.00   6.00 10-Miller-Eng vs 4-Pesce-Abernethy
+         50    4.00   3.00 15-Tipton-Hovda vs 13-Saul-Sonkin
+         50    4.00   3.00 16-Lewis-Janowski vs 11-Von Land-Ruden
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    4.00   3.00 2-Galer-Bolson vs 14-Heller-Heller
+        600    4.00   3.00 4-Pesce-Abernethy vs 3-Lortz-Vulcan
+        630    0.50   6.50 6-Hankins-Cline vs 10-Miller-Eng
+        600    4.00   3.00 7-Stever-Sivapragasam vs 9-Ring-Christensen
+  100          7.00   0.00 8-Ford-Delfs vs 13-Saul-Sonkin
+        600    4.00   3.00 11-Von Land-Ruden vs 5-Cowles-Laughary
+        600    4.00   3.00 15-Tipton-Hovda vs 1-Jacobson-Rind
+        630    0.50   6.50 16-Lewis-Janowski vs 12-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.50   5.50 2-Galer-Bolson vs 14-Heller-Heller
+        430    3.50   3.50 4-Pesce-Abernethy vs 3-Lortz-Vulcan
+        400    6.00   1.00 6-Hankins-Cline vs 10-Miller-Eng
+        460    0.00   7.00 7-Stever-Sivapragasam vs 9-Ring-Christensen
+        430    3.50   3.50 8-Ford-Delfs vs 13-Saul-Sonkin
+        450    1.50   5.50 11-Von Land-Ruden vs 5-Cowles-Laughary
+   50          7.00   0.00 15-Tipton-Hovda vs 1-Jacobson-Rind
+        420    5.00   2.00 16-Lewis-Janowski vs 12-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1370    2.00   5.00 3-Lortz-Vulcan vs 14-Heller-Heller
+        300    5.50   1.50 5-Cowles-Laughary vs 4-Pesce-Abernethy
+        170    7.00   0.00 7-Stever-Sivapragasam vs 11-Von Land-Ruden
+       1390    0.50   6.50 8-Ford-Delfs vs 10-Miller-Eng
+        800    3.00   4.00 9-Ring-Christensen vs 1-Jacobson-Rind
+       1390    0.50   6.50 12-Krah-Poore vs 6-Hankins-Cline
+        300    5.50   1.50 15-Tipton-Hovda vs 2-Galer-Bolson
+        720    4.00   3.00 16-Lewis-Janowski vs 13-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.00   4.00 3-Lortz-Vulcan vs 14-Heller-Heller
+        230    2.00   5.00 5-Cowles-Laughary vs 4-Pesce-Abernethy
+        650    0.50   6.50 7-Stever-Sivapragasam vs 11-Von Land-Ruden
+        110    6.50   0.50 8-Ford-Delfs vs 10-Miller-Eng
+        170    4.00   3.00 9-Ring-Christensen vs 1-Jacobson-Rind
+        650    0.50   6.50 12-Krah-Poore vs 6-Hankins-Cline
+        150    5.00   2.00 15-Tipton-Hovda vs 2-Galer-Bolson
+        110    6.50   0.50 16-Lewis-Janowski vs 13-Saul-Sonkin
+----------------------------------------------------------------------
