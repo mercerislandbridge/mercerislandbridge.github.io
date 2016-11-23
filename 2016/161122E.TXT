@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>November 22, 2016  |CLUB NO.>158048    | 11/22/2016 22:40
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>ACBL wide Charity            |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=4/C=3                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Shawn Abernethy        Ken Christiansen         A   3     .     .   |   2     .     .    107.50  56.88  2.00(OA)
+
+ 2 Corneliu Galer         Valliappa Lakshmanan     B   .     .     .   |   4     1     .     96.00  50.79  0.92(SB)
+
+ 3 Brad Rind              Terry Jacobson           C   .     .     .   |   .     2     1     95.00  50.26  0.64(SB)
+
+ 4 Kim Eng                Jeffrey Ford             A   .     .     .   |   .     .     .     93.50  49.47          
+
+ 5 Stanford Christie      Allan Lazar              A   2     .     .   |   1     .     .    110.00  58.20  2.67(OA)
+
+
+
+ 7 William Campbell       Tony Marshall            C   .     .     .   |   .     .     .     85.00  44.97          
+
+ 8 Ray Miller             Jennifer Chalfan         A   .     .     .   |   3     .     .     98.50  52.12  0.89(SA)
+
+ 9 Ann Romeo              Beau Hovda               C   .     .     .   |   .     .     .     70.50  37.30          
+
+
+                                          Totals                                            756.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>November 22, 2016  |CLUB NO.>158048    | 11/22/2016 22:40
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>ACBL wide Charity            |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=8/C=1                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Patrick Dunn           Polly Dunn               A   .     .     .   |  4/5    .     .    100.69  53.28  0.49(SA)
+
+ 2 Tim White              Renae Gunstone-White     B   .     .     .   |   .     .     .     83.25  44.05          
+
+ 3 Adam Ruprecht          Christopher Jarvis       B   .     4     .   |  4/5    .     .    100.69  53.28  0.89(OB)
+
+ 4 David Taylor           Victor Bremson           B   .     .     .   |   .     .     .     90.56  47.92          
+
+ 5 Thomas Stever          Muhunthan Sivapragasam   B   .     .     .   |   .     .     .     66.38  35.12          
+
+ 6 Hugh Hendrickson       David Hankins            B   1     1     .   |   1     1     .    110.25  58.33  3.56(OA)
+
+ 7 David Roselle          Sue Anderson             B   4     2     .   |   2     2     .    105.19  55.66  1.58(OB)
+
+ 8 Mike Ring              Brian Zaugg              B   .     .     .   |   .     .     .     90.00  47.62          
+
+ 9 John Krah              Daniel Poore             C   5     3     .   |   3     3     .    103.50  54.76  1.18(OB)
+
+
+                                          Totals                                            850.51       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          4.00   3.00 1-Abernethy-Christiansen vs 1-Dunn-Dunn
+  120          4.00   3.00 2-Galer-Lakshmanan vs 3-Ruprecht-Jarvis
+  150          6.00   1.00 3-Rind-Jacobson vs 5-Stever-Sivapragasam
+  110          1.50   5.50 4-Eng-Ford vs 7-Roselle-Anderson
+  180          7.00   0.00 5-Christie-Lazar vs 9-Krah-Poore
+  110          1.50   5.50 7-Campbell-Marshall vs 4-Taylor-Bremson
+         50    0.00   7.00 8-Miller-Chalfan vs 6-Hendrickson-Hankins
+  120          4.00   3.00 9-Romeo-Hovda vs 8-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   7.00 1-Abernethy-Christiansen vs 1-Dunn-Dunn
+  670          7.00   0.00 2-Galer-Lakshmanan vs 3-Ruprecht-Jarvis
+        120    3.00   4.00 3-Rind-Jacobson vs 5-Stever-Sivapragasam
+        120    3.00   4.00 4-Eng-Ford vs 7-Roselle-Anderson
+        120    3.00   4.00 5-Christie-Lazar vs 9-Krah-Poore
+        120    3.00   4.00 7-Campbell-Marshall vs 4-Taylor-Bremson
+        120    3.00   4.00 8-Miller-Chalfan vs 6-Hendrickson-Hankins
+         90    6.00   1.00 9-Romeo-Hovda vs 8-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    5.50   1.50 1-Abernethy-Christiansen vs 1-Dunn-Dunn
+        100    3.50   3.50 2-Galer-Lakshmanan vs 3-Ruprecht-Jarvis
+  110          7.00   0.00 3-Rind-Jacobson vs 5-Stever-Sivapragasam
+        200    1.50   5.50 4-Eng-Ford vs 7-Roselle-Anderson
+        500    0.00   7.00 5-Christie-Lazar vs 9-Krah-Poore
+         50    5.50   1.50 7-Campbell-Marshall vs 4-Taylor-Bremson
+        200    1.50   5.50 8-Miller-Chalfan vs 6-Hendrickson-Hankins
+        100    3.50   3.50 9-Romeo-Hovda vs 8-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1390          4.00   3.00 1-Abernethy-Christiansen vs 9-Krah-Poore
+ 1390          4.00   3.00 2-Galer-Lakshmanan vs 2-White-Gunstone-White
+ 2140          6.50   0.50 3-Rind-Jacobson vs 4-Taylor-Bremson
+ 2140          6.50   0.50 4-Eng-Ford vs 6-Hendrickson-Hankins
+  650          2.00   5.00 5-Christie-Lazar vs 8-Ring-Zaugg
+  640          0.50   6.50 7-Campbell-Marshall vs 3-Ruprecht-Jarvis
+ 1390          4.00   3.00 8-Miller-Chalfan vs 5-Stever-Sivapragasam
+  640          0.50   6.50 9-Romeo-Hovda vs 7-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          6.50   0.50 1-Abernethy-Christiansen vs 9-Krah-Poore
+  600          2.00   5.00 2-Galer-Lakshmanan vs 2-White-Gunstone-White
+  170          1.00   6.00 3-Rind-Jacobson vs 4-Taylor-Bremson
+        200    0.00   7.00 4-Eng-Ford vs 6-Hendrickson-Hankins
+  660          5.00   2.00 5-Christie-Lazar vs 8-Ring-Zaugg
+  630          3.50   3.50 7-Campbell-Marshall vs 3-Ruprecht-Jarvis
+  690          6.50   0.50 8-Miller-Chalfan vs 5-Stever-Sivapragasam
+  630          3.50   3.50 9-Romeo-Hovda vs 7-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    2.00   5.00 1-Abernethy-Christiansen vs 9-Krah-Poore
+        690    2.00   5.00 2-Galer-Lakshmanan vs 2-White-Gunstone-White
+        690    2.00   5.00 3-Rind-Jacobson vs 4-Taylor-Bremson
+        690    2.00   5.00 4-Eng-Ford vs 6-Hendrickson-Hankins
+        660    5.00   2.00 5-Christie-Lazar vs 8-Ring-Zaugg
+        630    6.50   0.50 7-Campbell-Marshall vs 3-Ruprecht-Jarvis
+        630    6.50   0.50 8-Miller-Chalfan vs 5-Stever-Sivapragasam
+        690    2.00   5.00 9-Romeo-Hovda vs 7-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   5.00 1-Abernethy-Christiansen vs 8-Ring-Zaugg
+  870          6.00   1.00 2-Galer-Lakshmanan vs 1-Dunn-Dunn
+  930          7.00   0.00 3-Rind-Jacobson vs 3-Ruprecht-Jarvis
+        300    0.00   7.00 4-Eng-Ford vs 5-Stever-Sivapragasam
+  200          4.00   3.00 5-Christie-Lazar vs 7-Roselle-Anderson
+  110          3.00   4.00 7-Campbell-Marshall vs 2-White-Gunstone-White
+        170    1.00   6.00 8-Miller-Chalfan vs 4-Taylor-Bremson
+  790          5.00   2.00 9-Romeo-Hovda vs 6-Hendrickson-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        990    0.00   7.00 1-Abernethy-Christiansen vs 8-Ring-Zaugg
+        920    1.00   6.00 2-Galer-Lakshmanan vs 1-Dunn-Dunn
+        490    3.00   4.00 3-Rind-Jacobson vs 3-Ruprecht-Jarvis
+        490    3.00   4.00 4-Eng-Ford vs 5-Stever-Sivapragasam
+        400    6.00   1.00 5-Christie-Lazar vs 7-Roselle-Anderson
+        170    7.00   0.00 7-Campbell-Marshall vs 2-White-Gunstone-White
+        420    5.00   2.00 8-Miller-Chalfan vs 4-Taylor-Bremson
+        490    3.00   4.00 9-Romeo-Hovda vs 6-Hendrickson-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   6.00 1-Abernethy-Christiansen vs 8-Ring-Zaugg
+  170          5.50   1.50 2-Galer-Lakshmanan vs 1-Dunn-Dunn
+  100          1.00   6.00 3-Rind-Jacobson vs 3-Ruprecht-Jarvis
+  170          5.50   1.50 4-Eng-Ford vs 5-Stever-Sivapragasam
+  170          5.50   1.50 5-Christie-Lazar vs 7-Roselle-Anderson
+  140          3.00   4.00 7-Campbell-Marshall vs 2-White-Gunstone-White
+  170          5.50   1.50 8-Miller-Chalfan vs 4-Taylor-Bremson
+  100          1.00   6.00 9-Romeo-Hovda vs 6-Hendrickson-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   4.00 1-Abernethy-Christiansen vs 7-Roselle-Anderson
+        110    3.00   4.00 2-Galer-Lakshmanan vs 9-Krah-Poore
+        140    0.50   6.50 3-Rind-Jacobson vs 2-White-Gunstone-White
+  100          5.50   1.50 4-Eng-Ford vs 4-Taylor-Bremson
+  100          5.50   1.50 5-Christie-Lazar vs 6-Hendrickson-Hankins
+        110    3.00   4.00 7-Campbell-Marshall vs 1-Dunn-Dunn
+        140    0.50   6.50 8-Miller-Chalfan vs 3-Ruprecht-Jarvis
+  200          7.00   0.00 9-Romeo-Hovda vs 5-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    4.50   2.50 1-Abernethy-Christiansen vs 7-Roselle-Anderson
+        480    1.50   5.50 2-Galer-Lakshmanan vs 9-Krah-Poore
+        480    1.50   5.50 3-Rind-Jacobson vs 2-White-Gunstone-White
+        480    1.50   5.50 4-Eng-Ford vs 4-Taylor-Bremson
+  100          7.00   0.00 5-Christie-Lazar vs 6-Hendrickson-Hankins
+        480    1.50   5.50 7-Campbell-Marshall vs 1-Dunn-Dunn
+   50          6.00   1.00 8-Miller-Chalfan vs 3-Ruprecht-Jarvis
+        300    4.50   2.50 9-Romeo-Hovda vs 5-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.50   3.50 1-Abernethy-Christiansen vs 7-Roselle-Anderson
+  100          2.00   5.00 2-Galer-Lakshmanan vs 9-Krah-Poore
+  300          5.00   2.00 3-Rind-Jacobson vs 2-White-Gunstone-White
+  660          7.00   0.00 4-Eng-Ford vs 4-Taylor-Bremson
+  600          6.00   1.00 5-Christie-Lazar vs 6-Hendrickson-Hankins
+        100    0.50   6.50 7-Campbell-Marshall vs 1-Dunn-Dunn
+        100    0.50   6.50 8-Miller-Chalfan vs 3-Ruprecht-Jarvis
+  150          3.50   3.50 9-Romeo-Hovda vs 5-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   7.00 1-Abernethy-Christiansen vs 6-Hendrickson-Hankins
+   90          5.50   1.50 2-Galer-Lakshmanan vs 8-Ring-Zaugg
+        100    3.00   4.00 3-Rind-Jacobson vs 1-Dunn-Dunn
+   90          5.50   1.50 4-Eng-Ford vs 3-Ruprecht-Jarvis
+        200    1.00   6.00 5-Christie-Lazar vs 5-Stever-Sivapragasam
+        100    3.00   4.00 7-Campbell-Marshall vs 9-Krah-Poore
+  120          7.00   0.00 8-Miller-Chalfan vs 2-White-Gunstone-White
+        100    3.00   4.00 9-Romeo-Hovda vs 4-Taylor-Bremson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.50   0.50 1-Abernethy-Christiansen vs 6-Hendrickson-Hankins
+        120    3.00   4.00 2-Galer-Lakshmanan vs 8-Ring-Zaugg
+         90    4.00   3.00 3-Rind-Jacobson vs 1-Dunn-Dunn
+        470    0.00   7.00 4-Eng-Ford vs 3-Ruprecht-Jarvis
+         50    5.00   2.00 5-Christie-Lazar vs 5-Stever-Sivapragasam
+        180    2.00   5.00 7-Campbell-Marshall vs 9-Krah-Poore
+  100          6.50   0.50 8-Miller-Chalfan vs 2-White-Gunstone-White
+        300    1.00   6.00 9-Romeo-Hovda vs 4-Taylor-Bremson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   2.00 1-Abernethy-Christiansen vs 6-Hendrickson-Hankins
+        110    1.00   6.00 2-Galer-Lakshmanan vs 8-Ring-Zaugg
+  200          7.00   0.00 3-Rind-Jacobson vs 1-Dunn-Dunn
+        200    0.00   7.00 4-Eng-Ford vs 3-Ruprecht-Jarvis
+  150          5.00   2.00 5-Christie-Lazar vs 5-Stever-Sivapragasam
+   50          3.00   4.00 7-Campbell-Marshall vs 9-Krah-Poore
+  150          5.00   2.00 8-Miller-Chalfan vs 2-White-Gunstone-White
+        100    2.00   5.00 9-Romeo-Hovda vs 4-Taylor-Bremson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.50   4.50 1-Abernethy-Christiansen vs 5-Stever-Sivapragasam
+        120    2.50   4.50 2-Galer-Lakshmanan vs 7-Roselle-Anderson
+        140    0.00   7.00 3-Rind-Jacobson vs 9-Krah-Poore
+         90    5.50   1.50 4-Eng-Ford vs 2-White-Gunstone-White
+         90    5.50   1.50 5-Christie-Lazar vs 4-Taylor-Bremson
+  200          7.00   0.00 7-Campbell-Marshall vs 8-Ring-Zaugg
+        120    2.50   4.50 8-Miller-Chalfan vs 1-Dunn-Dunn
+        120    2.50   4.50 9-Romeo-Hovda vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         80    3.00   4.00 1-Abernethy-Christiansen vs 5-Stever-Sivapragasam
+   90          6.50   0.50 2-Galer-Lakshmanan vs 7-Roselle-Anderson
+   50          4.50   2.50 3-Rind-Jacobson vs 9-Krah-Poore
+   90          6.50   0.50 4-Eng-Ford vs 2-White-Gunstone-White
+        110    1.50   5.50 5-Christie-Lazar vs 4-Taylor-Bremson
+   50          4.50   2.50 7-Campbell-Marshall vs 8-Ring-Zaugg
+        110    1.50   5.50 8-Miller-Chalfan vs 1-Dunn-Dunn
+        150    0.00   7.00 9-Romeo-Hovda vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.00   0.00 1-Abernethy-Christiansen vs 5-Stever-Sivapragasam
+        180    1.00   6.00 2-Galer-Lakshmanan vs 7-Roselle-Anderson
+        130    2.50   4.50 3-Rind-Jacobson vs 9-Krah-Poore
+  110          6.00   1.00 4-Eng-Ford vs 2-White-Gunstone-White
+   50          4.50   2.50 5-Christie-Lazar vs 4-Taylor-Bremson
+   50          4.50   2.50 7-Campbell-Marshall vs 8-Ring-Zaugg
+        130    2.50   4.50 8-Miller-Chalfan vs 1-Dunn-Dunn
+        200    0.00   7.00 9-Romeo-Hovda vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   5.00 1-Abernethy-Christiansen vs 4-Taylor-Bremson
+        500    0.00   7.00 2-Galer-Lakshmanan vs 6-Hendrickson-Hankins
+  200          7.00   0.00 3-Rind-Jacobson vs 8-Ring-Zaugg
+        100    6.00   1.00 4-Eng-Ford vs 1-Dunn-Dunn
+        170    4.00   3.00 5-Christie-Lazar vs 3-Ruprecht-Jarvis
+        200    2.00   5.00 7-Campbell-Marshall vs 7-Roselle-Anderson
+        130    5.00   2.00 8-Miller-Chalfan vs 9-Krah-Poore
+        200    2.00   5.00 9-Romeo-Hovda vs 2-White-Gunstone-White
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   1.50 1-Abernethy-Christiansen vs 4-Taylor-Bremson
+  200          5.50   1.50 2-Galer-Lakshmanan vs 6-Hendrickson-Hankins
+  100          4.00   3.00 3-Rind-Jacobson vs 8-Ring-Zaugg
+  620          7.00   0.00 4-Eng-Ford vs 1-Dunn-Dunn
+        200    1.00   6.00 5-Christie-Lazar vs 3-Ruprecht-Jarvis
+        730    0.00   7.00 7-Campbell-Marshall vs 7-Roselle-Anderson
+        140    2.50   4.50 8-Miller-Chalfan vs 9-Krah-Poore
+        140    2.50   4.50 9-Romeo-Hovda vs 2-White-Gunstone-White
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.00   0.00 1-Abernethy-Christiansen vs 4-Taylor-Bremson
+        120    4.50   2.50 2-Galer-Lakshmanan vs 6-Hendrickson-Hankins
+        140    3.00   4.00 3-Rind-Jacobson vs 8-Ring-Zaugg
+        120    4.50   2.50 4-Eng-Ford vs 1-Dunn-Dunn
+        150    2.00   5.00 5-Christie-Lazar vs 3-Ruprecht-Jarvis
+        400    0.50   6.50 7-Campbell-Marshall vs 7-Roselle-Anderson
+         90    6.00   1.00 8-Miller-Chalfan vs 9-Krah-Poore
+        400    0.50   6.50 9-Romeo-Hovda vs 2-White-Gunstone-White
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          7.00   0.00 1-Abernethy-Christiansen vs 3-Ruprecht-Jarvis
+  200          5.00   2.00 2-Galer-Lakshmanan vs 5-Stever-Sivapragasam
+  300          6.00   1.00 3-Rind-Jacobson vs 7-Roselle-Anderson
+  100          2.50   4.50 4-Eng-Ford vs 9-Krah-Poore
+  100          2.50   4.50 5-Christie-Lazar vs 2-White-Gunstone-White
+  100          2.50   4.50 7-Campbell-Marshall vs 6-Hendrickson-Hankins
+  100          2.50   4.50 8-Miller-Chalfan vs 8-Ring-Zaugg
+         90    0.00   7.00 9-Romeo-Hovda vs 1-Dunn-Dunn
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          6.50   0.50 1-Abernethy-Christiansen vs 3-Ruprecht-Jarvis
+  600          3.50   3.50 2-Galer-Lakshmanan vs 5-Stever-Sivapragasam
+  600          3.50   3.50 3-Rind-Jacobson vs 7-Roselle-Anderson
+  600          3.50   3.50 4-Eng-Ford vs 9-Krah-Poore
+  630          6.50   0.50 5-Christie-Lazar vs 2-White-Gunstone-White
+  100          1.00   6.00 7-Campbell-Marshall vs 6-Hendrickson-Hankins
+  600          3.50   3.50 8-Miller-Chalfan vs 8-Ring-Zaugg
+       1100    0.00   7.00 9-Romeo-Hovda vs 1-Dunn-Dunn
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          7.00   0.00 1-Abernethy-Christiansen vs 3-Ruprecht-Jarvis
+  420          6.00   1.00 2-Galer-Lakshmanan vs 5-Stever-Sivapragasam
+  300          4.50   2.50 3-Rind-Jacobson vs 7-Roselle-Anderson
+        510    0.00   7.00 4-Eng-Ford vs 9-Krah-Poore
+   50          3.00   4.00 5-Christie-Lazar vs 2-White-Gunstone-White
+        110    2.00   5.00 7-Campbell-Marshall vs 6-Hendrickson-Hankins
+  300          4.50   2.50 8-Miller-Chalfan vs 8-Ring-Zaugg
+        150    1.00   6.00 9-Romeo-Hovda vs 1-Dunn-Dunn
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.50   2.50 1-Abernethy-Christiansen vs 2-White-Gunstone-White
+        620    1.50   5.50 2-Galer-Lakshmanan vs 4-Taylor-Bremson
+        620    1.50   5.50 3-Rind-Jacobson vs 6-Hendrickson-Hankins
+        170    6.00   1.00 4-Eng-Ford vs 8-Ring-Zaugg
+        200    4.50   2.50 5-Christie-Lazar vs 1-Dunn-Dunn
+        620    1.50   5.50 7-Campbell-Marshall vs 5-Stever-Sivapragasam
+  200          7.00   0.00 8-Miller-Chalfan vs 7-Roselle-Anderson
+        620    1.50   5.50 9-Romeo-Hovda vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    5.00   2.00 1-Abernethy-Christiansen vs 2-White-Gunstone-White
+        200    3.00   4.00 2-Galer-Lakshmanan vs 4-Taylor-Bremson
+        600    0.50   6.50 3-Rind-Jacobson vs 6-Hendrickson-Hankins
+        600    0.50   6.50 4-Eng-Ford vs 8-Ring-Zaugg
+        130    5.00   2.00 5-Christie-Lazar vs 1-Dunn-Dunn
+  200          7.00   0.00 7-Campbell-Marshall vs 5-Stever-Sivapragasam
+        500    2.00   5.00 8-Miller-Chalfan vs 7-Roselle-Anderson
+        130    5.00   2.00 9-Romeo-Hovda vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    3.00   4.00 1-Abernethy-Christiansen vs 2-White-Gunstone-White
+        460    6.00   1.00 2-Galer-Lakshmanan vs 4-Taylor-Bremson
+        990    0.50   6.50 3-Rind-Jacobson vs 6-Hendrickson-Hankins
+        490    3.00   4.00 4-Eng-Ford vs 8-Ring-Zaugg
+        490    3.00   4.00 5-Christie-Lazar vs 1-Dunn-Dunn
+        460    6.00   1.00 7-Campbell-Marshall vs 5-Stever-Sivapragasam
+        990    0.50   6.50 8-Miller-Chalfan vs 7-Roselle-Anderson
+        460    6.00   1.00 9-Romeo-Hovda vs 9-Krah-Poore
+----------------------------------------------------------------------
