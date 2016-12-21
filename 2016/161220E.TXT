@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>December 20, 2016  |CLUB NO.>158048    | 12/20/2016 22:19
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/1400 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=6/C=4                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Steve Beatty           Tom Carmichael           A    1     .     .    128.50  67.99  0.90(A) 
+
+ 2 Dex Stuberg            Joel Fuhrman             B    .     .     .     84.00  44.44          
+
+
+
+ 4 Chris Pesce            Corneliu Galer           C    2     1     1    112.50  59.52  0.63(A) 
+
+ 5 David Binney           David Walker             B    .     .     .     89.00  47.09          
+
+ 6 Brad Rind              Terry Jacobson           C    .     .     .     68.00  35.98          
+
+ 7 William Campbell       Hugh Hendrickson         C    .     .     .     80.00  42.33          
+
+ 8 Kim Eng                Jeffrey Ford             A    3     .     .     97.50  51.59  0.45(A) 
+
+ 9 Ann Romeo              Leah Sieg                C    4     2     2     96.50  51.06  0.34(B) 
+
+
+                                          Totals                         756.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>December 20, 2016  |CLUB NO.>158048    | 12/20/2016 22:19
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/1400 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=7/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Moore            Brian Zaugg              A    .     .     .     97.31  51.49          
+
+ 2 David Roselle          Sue Anderson             B    2     2     .    112.50  59.52  0.63(A) 
+
+ 3 David Hankins          Kevin Cline              B    .     .     .     95.63  50.60          
+
+ 4 Mike Christensen       Mike Ring                B    3     3     .    103.50  54.76  0.45(A) 
+
+ 5 Thomas Stever          Muhunthan Sivapragasam   C    .     .     .     91.13  48.22          
+
+ 6 Nick Tipton            Galen Hesson             B    .     .     .     68.63  36.31          
+
+ 7 Paul Wayne English     Judith Dubester          C    .     .     .     65.81  34.82          
+
+ 8 Eric Sieg              Jenni Carmichael         A    4     .     .    100.69  53.28  0.32(A) 
+
+ 9 John Krah              Daniel Poore             C    1     1     1    115.31  61.01  0.90(A) 
+
+
+                                          Totals                         850.51       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.50   0.50 1-Beatty-Carmichael vs 1-Moore-Zaugg
+        170    1.00   6.00 2-Stuberg-Fuhrman vs 3-Hankins-Cline
+        100    4.00   3.00 4-Pesce-Galer vs 7-English-Dubester
+        140    3.00   4.00 5-Binney-Walker vs 9-Krah-Poore
+        300    0.00   7.00 6-Rind-Jacobson vs 2-Roselle-Anderson
+  110          6.50   0.50 7-Campbell-Hendrickson vs 4-Christensen-Ring
+   90          5.00   2.00 8-Eng-Ford vs 6-Tipton-Hesson
+        150    2.00   5.00 9-Romeo-Sieg vs 8-Sieg-Carmichael
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   1.50 1-Beatty-Carmichael vs 1-Moore-Zaugg
+        150    1.00   6.00 2-Stuberg-Fuhrman vs 3-Hankins-Cline
+   50          5.50   1.50 4-Pesce-Galer vs 7-English-Dubester
+   50          5.50   1.50 5-Binney-Walker vs 9-Krah-Poore
+        200    0.00   7.00 6-Rind-Jacobson vs 2-Roselle-Anderson
+   50          5.50   1.50 7-Campbell-Hendrickson vs 4-Christensen-Ring
+        100    3.00   4.00 8-Eng-Ford vs 6-Tipton-Hesson
+        110    2.00   5.00 9-Romeo-Sieg vs 8-Sieg-Carmichael
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        710    6.00   1.00 1-Beatty-Carmichael vs 1-Moore-Zaugg
+        720    4.00   3.00 2-Stuberg-Fuhrman vs 3-Hankins-Cline
+        710    6.00   1.00 4-Pesce-Galer vs 7-English-Dubester
+       2220    1.00   6.00 5-Binney-Walker vs 9-Krah-Poore
+        710    6.00   1.00 6-Rind-Jacobson vs 2-Roselle-Anderson
+       2220    1.00   6.00 7-Campbell-Hendrickson vs 4-Christensen-Ring
+       1390    3.00   4.00 8-Eng-Ford vs 6-Tipton-Hesson
+       2220    1.00   6.00 9-Romeo-Sieg vs 8-Sieg-Carmichael
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   6.00 1-Beatty-Carmichael vs 9-Krah-Poore
+  650          5.00   2.00 2-Stuberg-Fuhrman vs 2-Roselle-Anderson
+  170          3.00   4.00 4-Pesce-Galer vs 6-Tipton-Hesson
+        100    1.00   6.00 5-Binney-Walker vs 8-Sieg-Carmichael
+        100    1.00   6.00 6-Rind-Jacobson vs 1-Moore-Zaugg
+  650          5.00   2.00 7-Campbell-Hendrickson vs 3-Hankins-Cline
+  650          5.00   2.00 8-Eng-Ford vs 5-Stever-Sivapragasam
+  790          7.00   0.00 9-Romeo-Sieg vs 7-English-Dubester
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          7.00   0.00 1-Beatty-Carmichael vs 9-Krah-Poore
+  120          4.00   3.00 2-Stuberg-Fuhrman vs 2-Roselle-Anderson
+        100    1.50   5.50 4-Pesce-Galer vs 6-Tipton-Hesson
+        100    1.50   5.50 5-Binney-Walker vs 8-Sieg-Carmichael
+  300          6.00   1.00 6-Rind-Jacobson vs 1-Moore-Zaugg
+  120          4.00   3.00 7-Campbell-Hendrickson vs 3-Hankins-Cline
+  120          4.00   3.00 8-Eng-Ford vs 5-Stever-Sivapragasam
+        500    0.00   7.00 9-Romeo-Sieg vs 7-English-Dubester
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          6.50   0.50 1-Beatty-Carmichael vs 9-Krah-Poore
+         50    3.50   3.50 2-Stuberg-Fuhrman vs 2-Roselle-Anderson
+         50    3.50   3.50 4-Pesce-Galer vs 6-Tipton-Hesson
+        100    1.00   6.00 5-Binney-Walker vs 8-Sieg-Carmichael
+        100    1.00   6.00 6-Rind-Jacobson vs 1-Moore-Zaugg
+        100    1.00   6.00 7-Campbell-Hendrickson vs 3-Hankins-Cline
+  170          5.00   2.00 8-Eng-Ford vs 5-Stever-Sivapragasam
+  420          6.50   0.50 9-Romeo-Sieg vs 7-English-Dubester
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    6.50   0.50 1-Beatty-Carmichael vs 8-Sieg-Carmichael
+        600    2.50   4.50 2-Stuberg-Fuhrman vs 1-Moore-Zaugg
+        600    2.50   4.50 4-Pesce-Galer vs 5-Stever-Sivapragasam
+        200    4.00   3.00 5-Binney-Walker vs 7-English-Dubester
+        630    1.00   6.00 6-Rind-Jacobson vs 9-Krah-Poore
+        660    0.00   7.00 7-Campbell-Hendrickson vs 2-Roselle-Anderson
+        150    6.50   0.50 8-Eng-Ford vs 4-Christensen-Ring
+        170    5.00   2.00 9-Romeo-Sieg vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          6.00   1.00 1-Beatty-Carmichael vs 8-Sieg-Carmichael
+  100          0.00   7.00 2-Stuberg-Fuhrman vs 1-Moore-Zaugg
+  450          6.00   1.00 4-Pesce-Galer vs 5-Stever-Sivapragasam
+  200          3.00   4.00 5-Binney-Walker vs 7-English-Dubester
+  150          1.00   6.00 6-Rind-Jacobson vs 9-Krah-Poore
+  200          3.00   4.00 7-Campbell-Hendrickson vs 2-Roselle-Anderson
+  450          6.00   1.00 8-Eng-Ford vs 4-Christensen-Ring
+  200          3.00   4.00 9-Romeo-Sieg vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    3.50   3.50 1-Beatty-Carmichael vs 8-Sieg-Carmichael
+        680    3.50   3.50 2-Stuberg-Fuhrman vs 1-Moore-Zaugg
+        650    5.00   2.00 4-Pesce-Galer vs 5-Stever-Sivapragasam
+        620    6.00   1.00 5-Binney-Walker vs 7-English-Dubester
+       1430    0.00   7.00 6-Rind-Jacobson vs 9-Krah-Poore
+       1100    2.00   5.00 7-Campbell-Hendrickson vs 2-Roselle-Anderson
+       1400    1.00   6.00 8-Eng-Ford vs 4-Christensen-Ring
+  300          7.00   0.00 9-Romeo-Sieg vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    6.00   1.00 1-Beatty-Carmichael vs 7-English-Dubester
+       1430    2.00   5.00 2-Stuberg-Fuhrman vs 9-Krah-Poore
+       1430    2.00   5.00 4-Pesce-Galer vs 4-Christensen-Ring
+        680    6.00   1.00 5-Binney-Walker vs 6-Tipton-Hesson
+       1430    2.00   5.00 6-Rind-Jacobson vs 8-Sieg-Carmichael
+       1430    2.00   5.00 7-Campbell-Hendrickson vs 1-Moore-Zaugg
+       1430    2.00   5.00 8-Eng-Ford vs 3-Hankins-Cline
+        680    6.00   1.00 9-Romeo-Sieg vs 5-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  590          7.00   0.00 1-Beatty-Carmichael vs 7-English-Dubester
+        110    0.00   7.00 2-Stuberg-Fuhrman vs 9-Krah-Poore
+  170          5.00   2.00 4-Pesce-Galer vs 4-Christensen-Ring
+  140          3.50   3.50 5-Binney-Walker vs 6-Tipton-Hesson
+  140          3.50   3.50 6-Rind-Jacobson vs 8-Sieg-Carmichael
+   50          1.00   6.00 7-Campbell-Hendrickson vs 1-Moore-Zaugg
+  110          2.00   5.00 8-Eng-Ford vs 3-Hankins-Cline
+  550          6.00   1.00 9-Romeo-Sieg vs 5-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          7.00   0.00 1-Beatty-Carmichael vs 7-English-Dubester
+   50          1.00   6.00 2-Stuberg-Fuhrman vs 9-Krah-Poore
+  650          4.50   2.50 4-Pesce-Galer vs 4-Christensen-Ring
+  650          4.50   2.50 5-Binney-Walker vs 6-Tipton-Hesson
+  650          4.50   2.50 6-Rind-Jacobson vs 8-Sieg-Carmichael
+  100          2.00   5.00 7-Campbell-Hendrickson vs 1-Moore-Zaugg
+  650          4.50   2.50 8-Eng-Ford vs 3-Hankins-Cline
+        100    0.00   7.00 9-Romeo-Sieg vs 5-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.00   2.00 1-Beatty-Carmichael vs 6-Tipton-Hesson
+  100          3.50   3.50 2-Stuberg-Fuhrman vs 8-Sieg-Carmichael
+  500          6.00   1.00 4-Pesce-Galer vs 3-Hankins-Cline
+        800    0.00   7.00 5-Binney-Walker vs 5-Stever-Sivapragasam
+        110    1.50   5.50 6-Rind-Jacobson vs 7-English-Dubester
+  670          7.00   0.00 7-Campbell-Hendrickson vs 9-Krah-Poore
+  100          3.50   3.50 8-Eng-Ford vs 2-Roselle-Anderson
+        110    1.50   5.50 9-Romeo-Sieg vs 4-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.00   2.00 1-Beatty-Carmichael vs 6-Tipton-Hesson
+  140          2.00   5.00 2-Stuberg-Fuhrman vs 8-Sieg-Carmichael
+  420          5.00   2.00 4-Pesce-Galer vs 3-Hankins-Cline
+  420          5.00   2.00 5-Binney-Walker vs 5-Stever-Sivapragasam
+  420          5.00   2.00 6-Rind-Jacobson vs 7-English-Dubester
+        100    0.00   7.00 7-Campbell-Hendrickson vs 9-Krah-Poore
+  420          5.00   2.00 8-Eng-Ford vs 2-Roselle-Anderson
+         50    1.00   6.00 9-Romeo-Sieg vs 4-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.50   1.50 1-Beatty-Carmichael vs 6-Tipton-Hesson
+        140    2.00   5.00 2-Stuberg-Fuhrman vs 8-Sieg-Carmichael
+  130          4.00   3.00 4-Pesce-Galer vs 3-Hankins-Cline
+  910          7.00   0.00 5-Binney-Walker vs 5-Stever-Sivapragasam
+        500    1.00   6.00 6-Rind-Jacobson vs 7-English-Dubester
+   50          3.00   4.00 7-Campbell-Hendrickson vs 9-Krah-Poore
+        630    0.00   7.00 8-Eng-Ford vs 2-Roselle-Anderson
+  150          5.50   1.50 9-Romeo-Sieg vs 4-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   2.50 1-Beatty-Carmichael vs 5-Stever-Sivapragasam
+        130    2.00   5.00 2-Stuberg-Fuhrman vs 7-English-Dubester
+         50    4.50   2.50 4-Pesce-Galer vs 2-Roselle-Anderson
+        250    0.50   6.50 5-Binney-Walker vs 4-Christensen-Ring
+   90          6.00   1.00 6-Rind-Jacobson vs 6-Tipton-Hesson
+  120          7.00   0.00 7-Campbell-Hendrickson vs 8-Sieg-Carmichael
+        250    0.50   6.50 8-Eng-Ford vs 1-Moore-Zaugg
+        100    3.00   4.00 9-Romeo-Sieg vs 3-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   4.50 1-Beatty-Carmichael vs 5-Stever-Sivapragasam
+  100          6.00   1.00 2-Stuberg-Fuhrman vs 7-English-Dubester
+         50    4.00   3.00 4-Pesce-Galer vs 2-Roselle-Anderson
+        400    0.50   6.50 5-Binney-Walker vs 4-Christensen-Ring
+  470          7.00   0.00 6-Rind-Jacobson vs 6-Tipton-Hesson
+        400    0.50   6.50 7-Campbell-Hendrickson vs 8-Sieg-Carmichael
+   50          5.00   2.00 8-Eng-Ford vs 1-Moore-Zaugg
+        100    2.50   4.50 9-Romeo-Sieg vs 3-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   3.00 1-Beatty-Carmichael vs 5-Stever-Sivapragasam
+   50          4.00   3.00 2-Stuberg-Fuhrman vs 7-English-Dubester
+        110    0.00   7.00 4-Pesce-Galer vs 2-Roselle-Anderson
+  100          7.00   0.00 5-Binney-Walker vs 4-Christensen-Ring
+   50          4.00   3.00 6-Rind-Jacobson vs 6-Tipton-Hesson
+         90    1.00   6.00 7-Campbell-Hendrickson vs 8-Sieg-Carmichael
+   50          4.00   3.00 8-Eng-Ford vs 1-Moore-Zaugg
+   50          4.00   3.00 9-Romeo-Sieg vs 3-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          5.00   2.00 1-Beatty-Carmichael vs 4-Christensen-Ring
+   90          5.00   2.00 2-Stuberg-Fuhrman vs 6-Tipton-Hesson
+   90          5.00   2.00 4-Pesce-Galer vs 1-Moore-Zaugg
+  110          7.00   0.00 5-Binney-Walker vs 3-Hankins-Cline
+         50    1.00   6.00 6-Rind-Jacobson vs 5-Stever-Sivapragasam
+         50    1.00   6.00 7-Campbell-Hendrickson vs 7-English-Dubester
+         50    1.00   6.00 8-Eng-Ford vs 9-Krah-Poore
+   80          3.00   4.00 9-Romeo-Sieg vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   1.50 1-Beatty-Carmichael vs 4-Christensen-Ring
+  200          5.50   1.50 2-Stuberg-Fuhrman vs 6-Tipton-Hesson
+        140    2.00   5.00 4-Pesce-Galer vs 1-Moore-Zaugg
+         90    3.00   4.00 5-Binney-Walker vs 3-Hankins-Cline
+        200    1.00   6.00 6-Rind-Jacobson vs 5-Stever-Sivapragasam
+  300          7.00   0.00 7-Campbell-Hendrickson vs 7-English-Dubester
+        620    0.00   7.00 8-Eng-Ford vs 9-Krah-Poore
+  100          4.00   3.00 9-Romeo-Sieg vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00   6.00 1-Beatty-Carmichael vs 4-Christensen-Ring
+        150    7.00   0.00 2-Stuberg-Fuhrman vs 6-Tipton-Hesson
+        430    4.00   3.00 4-Pesce-Galer vs 1-Moore-Zaugg
+        460    1.00   6.00 5-Binney-Walker vs 3-Hankins-Cline
+        430    4.00   3.00 6-Rind-Jacobson vs 5-Stever-Sivapragasam
+        430    4.00   3.00 7-Campbell-Hendrickson vs 7-English-Dubester
+        460    1.00   6.00 8-Eng-Ford vs 9-Krah-Poore
+        420    6.00   1.00 9-Romeo-Sieg vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   3.00 1-Beatty-Carmichael vs 3-Hankins-Cline
+  100          4.00   3.00 2-Stuberg-Fuhrman vs 5-Stever-Sivapragasam
+  100          4.00   3.00 4-Pesce-Galer vs 9-Krah-Poore
+        600    0.50   6.50 5-Binney-Walker vs 2-Roselle-Anderson
+        600    0.50   6.50 6-Rind-Jacobson vs 4-Christensen-Ring
+  100          4.00   3.00 7-Campbell-Hendrickson vs 6-Tipton-Hesson
+  100          4.00   3.00 8-Eng-Ford vs 8-Sieg-Carmichael
+  200          7.00   0.00 9-Romeo-Sieg vs 1-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   4.00 1-Beatty-Carmichael vs 3-Hankins-Cline
+  110          7.00   0.00 2-Stuberg-Fuhrman vs 5-Stever-Sivapragasam
+  100          5.50   1.50 4-Pesce-Galer vs 9-Krah-Poore
+        120    4.00   3.00 5-Binney-Walker vs 2-Roselle-Anderson
+       1560    0.00   7.00 6-Rind-Jacobson vs 4-Christensen-Ring
+        180    2.00   5.00 7-Campbell-Hendrickson vs 6-Tipton-Hesson
+  100          5.50   1.50 8-Eng-Ford vs 8-Sieg-Carmichael
+        200    1.00   6.00 9-Romeo-Sieg vs 1-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          6.50   0.50 1-Beatty-Carmichael vs 3-Hankins-Cline
+        200    0.00   7.00 2-Stuberg-Fuhrman vs 5-Stever-Sivapragasam
+  170          6.50   0.50 4-Pesce-Galer vs 9-Krah-Poore
+         50    1.50   5.50 5-Binney-Walker vs 2-Roselle-Anderson
+         50    1.50   5.50 6-Rind-Jacobson vs 4-Christensen-Ring
+   50          3.00   4.00 7-Campbell-Hendrickson vs 6-Tipton-Hesson
+  140          5.00   2.00 8-Eng-Ford vs 8-Sieg-Carmichael
+  100          4.00   3.00 9-Romeo-Sieg vs 1-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.50   6.50 1-Beatty-Carmichael vs 2-Roselle-Anderson
+        680    4.00   3.00 2-Stuberg-Fuhrman vs 4-Christensen-Ring
+        500    7.00   0.00 4-Pesce-Galer vs 8-Sieg-Carmichael
+       1430    0.50   6.50 5-Binney-Walker vs 1-Moore-Zaugg
+        680    4.00   3.00 6-Rind-Jacobson vs 3-Hankins-Cline
+        680    4.00   3.00 7-Campbell-Hendrickson vs 5-Stever-Sivapragasam
+        680    4.00   3.00 8-Eng-Ford vs 7-English-Dubester
+        680    4.00   3.00 9-Romeo-Sieg vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  750          6.00   1.00 1-Beatty-Carmichael vs 2-Roselle-Anderson
+        730    0.00   7.00 2-Stuberg-Fuhrman vs 4-Christensen-Ring
+        140    2.00   5.00 4-Pesce-Galer vs 8-Sieg-Carmichael
+  910          7.00   0.00 5-Binney-Walker vs 1-Moore-Zaugg
+        300    1.00   6.00 6-Rind-Jacobson vs 3-Hankins-Cline
+        110    3.50   3.50 7-Campbell-Hendrickson vs 5-Stever-Sivapragasam
+        100    5.00   2.00 8-Eng-Ford vs 7-English-Dubester
+        110    3.50   3.50 9-Romeo-Sieg vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   5.00 1-Beatty-Carmichael vs 2-Roselle-Anderson
+        100    4.50   2.50 2-Stuberg-Fuhrman vs 4-Christensen-Ring
+        100    4.50   2.50 4-Pesce-Galer vs 8-Sieg-Carmichael
+        100    4.50   2.50 5-Binney-Walker vs 1-Moore-Zaugg
+        100    4.50   2.50 6-Rind-Jacobson vs 3-Hankins-Cline
+        800    0.00   7.00 7-Campbell-Hendrickson vs 5-Stever-Sivapragasam
+   90          7.00   0.00 8-Eng-Ford vs 7-English-Dubester
+        170    1.00   6.00 9-Romeo-Sieg vs 9-Krah-Poore
+----------------------------------------------------------------------
