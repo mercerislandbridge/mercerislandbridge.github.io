@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>December 13, 2016  |CLUB NO.>158048    | 12/13/2016 22:25
+DATE>December 13, 2016  |CLUB NO.>158048    | 12/20/2016 18:50
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Shawn/brian     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -19,9 +19,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  4 Eric Sieg              Jeffrey Ford             B    .     .     .     99.00  52.38          
 
- 5 Connie Heller          Dennis Heller            A    .     .     .     94.50  50.00          
+ 5 William Campbell       Hugh Hendrickson         B    .     .     .     94.50  50.00          
 
- 6 William Campbell       Hugh Hendrickson         B    .     .     .     74.25  39.29          
+ 6 Connie Heller          Dennis Heller            A    .     .     .     74.25  39.29          
 
  7 Chris Pesce            Kathy Gilman             C    4     2     .    106.31  56.25  0.34(B) 
 
@@ -33,7 +33,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
                                           Totals                         850.50       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>December 13, 2016  |CLUB NO.>158048    | 12/13/2016 22:25
+DATE>December 13, 2016  |CLUB NO.>158048    | 12/20/2016 18:50
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Shawn/brian     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -71,8 +71,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         730    0.00   7.00 1-Abernethy-Zaugg vs 1-Setterholm-Christiansen
    50          6.00   1.00 2-Rind-Jacobson vs 3-Binney-Walker
   100          7.00   0.00 3-Delfs-Chalfan vs 5-White-Gunstone-White
-        200    4.00   3.00 5-Heller-Heller vs 9-Christie-Lazar
-        450    2.50   4.50 6-Campbell-Hendrickson vs 2-Hankins-Cline
+        200    4.00   3.00 5-Campbell-Hendrickson vs 9-Christie-Lazar
+        450    2.50   4.50 6-Heller-Heller vs 2-Hankins-Cline
         490    1.00   6.00 7-Pesce-Gilman vs 4-Roselle-Anderson
         170    5.00   2.00 8-Miller-Eng vs 6-Galer-Jarvis
         450    2.50   4.50 9-Romeo-Hovda vs 8-Ring-Christensen
@@ -85,8 +85,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   180          5.50   1.50 1-Abernethy-Zaugg vs 1-Setterholm-Christiansen
   130          2.00   5.00 2-Rind-Jacobson vs 3-Binney-Walker
   620          7.00   0.00 3-Delfs-Chalfan vs 5-White-Gunstone-White
-  170          4.00   3.00 5-Heller-Heller vs 9-Christie-Lazar
-  130          2.00   5.00 6-Campbell-Hendrickson vs 2-Hankins-Cline
+  170          4.00   3.00 5-Campbell-Hendrickson vs 9-Christie-Lazar
+  130          2.00   5.00 6-Heller-Heller vs 2-Hankins-Cline
   130          2.00   5.00 7-Pesce-Gilman vs 4-Roselle-Anderson
   180          5.50   1.50 8-Miller-Eng vs 6-Galer-Jarvis
         100    0.00   7.00 9-Romeo-Hovda vs 8-Ring-Christensen
@@ -99,8 +99,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         150    1.00   6.00 1-Abernethy-Zaugg vs 1-Setterholm-Christiansen
   420          6.00   1.00 2-Rind-Jacobson vs 3-Binney-Walker
   430          7.00   0.00 3-Delfs-Chalfan vs 5-White-Gunstone-White
-         50    4.00   3.00 5-Heller-Heller vs 9-Christie-Lazar
-        150    1.00   6.00 6-Campbell-Hendrickson vs 2-Hankins-Cline
+         50    4.00   3.00 5-Campbell-Hendrickson vs 9-Christie-Lazar
+        150    1.00   6.00 6-Heller-Heller vs 2-Hankins-Cline
   110          5.00   2.00 7-Pesce-Gilman vs 4-Roselle-Anderson
         100    3.00   4.00 8-Miller-Eng vs 6-Galer-Jarvis
         150    1.00   6.00 9-Romeo-Hovda vs 8-Ring-Christensen
@@ -114,8 +114,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         100    0.50   6.50 2-Rind-Jacobson vs 2-Hankins-Cline
   300          6.00   1.00 3-Delfs-Chalfan vs 4-Roselle-Anderson
         100    0.50   6.50 4-Sieg-Ford vs 6-Galer-Jarvis
-  140          2.50   4.50 5-Heller-Heller vs 8-Ring-Christensen
-  140          2.50   4.50 6-Campbell-Hendrickson vs 1-Setterholm-Christiansen
+  140          2.50   4.50 5-Campbell-Hendrickson vs 8-Ring-Christensen
+  140          2.50   4.50 6-Heller-Heller vs 1-Setterholm-Christiansen
   170          4.50   2.50 7-Pesce-Gilman vs 3-Binney-Walker
   170          4.50   2.50 8-Miller-Eng vs 5-White-Gunstone-White
 ----------------------------------------------------------------------
@@ -128,8 +128,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         200    1.50   5.50 2-Rind-Jacobson vs 2-Hankins-Cline
         110    4.00   3.00 3-Delfs-Chalfan vs 4-Roselle-Anderson
         100    5.00   2.00 4-Sieg-Ford vs 6-Galer-Jarvis
-  670          7.00   0.00 5-Heller-Heller vs 8-Ring-Christensen
-        300    0.00   7.00 6-Campbell-Hendrickson vs 1-Setterholm-Christiansen
+  670          7.00   0.00 5-Campbell-Hendrickson vs 8-Ring-Christensen
+        300    0.00   7.00 6-Heller-Heller vs 1-Setterholm-Christiansen
         200    1.50   5.50 7-Pesce-Gilman vs 3-Binney-Walker
   110          6.00   1.00 8-Miller-Eng vs 5-White-Gunstone-White
 ----------------------------------------------------------------------
@@ -142,8 +142,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   200          5.00   2.00 2-Rind-Jacobson vs 2-Hankins-Cline
   300          6.00   1.00 3-Delfs-Chalfan vs 4-Roselle-Anderson
         100    1.00   6.00 4-Sieg-Ford vs 6-Galer-Jarvis
-  100          2.50   4.50 5-Heller-Heller vs 8-Ring-Christensen
-        110    0.00   7.00 6-Campbell-Hendrickson vs 1-Setterholm-Christiansen
+  100          2.50   4.50 5-Campbell-Hendrickson vs 8-Ring-Christensen
+        110    0.00   7.00 6-Heller-Heller vs 1-Setterholm-Christiansen
   130          4.00   3.00 7-Pesce-Gilman vs 3-Binney-Walker
   100          2.50   4.50 8-Miller-Eng vs 5-White-Gunstone-White
 ----------------------------------------------------------------------
@@ -156,7 +156,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   110          3.50   3.50 2-Rind-Jacobson vs 1-Setterholm-Christiansen
   140          6.00   1.00 3-Delfs-Chalfan vs 3-Binney-Walker
   140          6.00   1.00 4-Sieg-Ford vs 5-White-Gunstone-White
-  110          3.50   3.50 6-Campbell-Hendrickson vs 9-Christie-Lazar
+  110          3.50   3.50 6-Heller-Heller vs 9-Christie-Lazar
         100    2.00   5.00 7-Pesce-Gilman vs 2-Hankins-Cline
   140          6.00   1.00 8-Miller-Eng vs 4-Roselle-Anderson
         110    1.00   6.00 9-Romeo-Hovda vs 6-Galer-Jarvis
@@ -170,7 +170,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   170          6.00   1.00 2-Rind-Jacobson vs 1-Setterholm-Christiansen
    50          2.50   4.50 3-Delfs-Chalfan vs 3-Binney-Walker
   450          7.00   0.00 4-Sieg-Ford vs 5-White-Gunstone-White
-   50          2.50   4.50 6-Campbell-Hendrickson vs 9-Christie-Lazar
+   50          2.50   4.50 6-Heller-Heller vs 9-Christie-Lazar
          50    0.50   6.50 7-Pesce-Gilman vs 2-Hankins-Cline
   110          4.00   3.00 8-Miller-Eng vs 4-Roselle-Anderson
          50    0.50   6.50 9-Romeo-Hovda vs 6-Galer-Jarvis
@@ -184,7 +184,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         300    5.00   2.00 2-Rind-Jacobson vs 1-Setterholm-Christiansen
         630    2.00   5.00 3-Delfs-Chalfan vs 3-Binney-Walker
   200          7.00   0.00 4-Sieg-Ford vs 5-White-Gunstone-White
-        660    1.00   6.00 6-Campbell-Hendrickson vs 9-Christie-Lazar
+        660    1.00   6.00 6-Heller-Heller vs 9-Christie-Lazar
         620    3.00   4.00 7-Pesce-Gilman vs 2-Hankins-Cline
         140    6.00   1.00 8-Miller-Eng vs 4-Roselle-Anderson
         500    4.00   3.00 9-Romeo-Hovda vs 6-Galer-Jarvis
@@ -197,8 +197,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   110          7.00   0.00 2-Rind-Jacobson vs 9-Christie-Lazar
    90          5.50   1.50 3-Delfs-Chalfan vs 2-Hankins-Cline
         200    1.00   6.00 4-Sieg-Ford vs 4-Roselle-Anderson
-        200    1.00   6.00 5-Heller-Heller vs 6-Galer-Jarvis
-        200    1.00   6.00 6-Campbell-Hendrickson vs 8-Ring-Christensen
+        200    1.00   6.00 5-Campbell-Hendrickson vs 6-Galer-Jarvis
+        200    1.00   6.00 6-Heller-Heller vs 8-Ring-Christensen
    90          5.50   1.50 7-Pesce-Gilman vs 1-Setterholm-Christiansen
         100    3.50   3.50 8-Miller-Eng vs 3-Binney-Walker
         100    3.50   3.50 9-Romeo-Hovda vs 5-White-Gunstone-White
@@ -211,8 +211,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   490          4.50   2.50 2-Rind-Jacobson vs 9-Christie-Lazar
   490          4.50   2.50 3-Delfs-Chalfan vs 2-Hankins-Cline
   490          4.50   2.50 4-Sieg-Ford vs 4-Roselle-Anderson
-  430          1.00   6.00 5-Heller-Heller vs 6-Galer-Jarvis
-  490          4.50   2.50 6-Campbell-Hendrickson vs 8-Ring-Christensen
+  430          1.00   6.00 5-Campbell-Hendrickson vs 6-Galer-Jarvis
+  490          4.50   2.50 6-Heller-Heller vs 8-Ring-Christensen
   490          4.50   2.50 7-Pesce-Gilman vs 1-Setterholm-Christiansen
   490          4.50   2.50 8-Miller-Eng vs 3-Binney-Walker
   170          0.00   7.00 9-Romeo-Hovda vs 5-White-Gunstone-White
@@ -225,8 +225,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   850          7.00   0.00 2-Rind-Jacobson vs 9-Christie-Lazar
    50          1.00   6.00 3-Delfs-Chalfan vs 2-Hankins-Cline
   300          3.00   4.00 4-Sieg-Ford vs 4-Roselle-Anderson
-  650          5.50   1.50 5-Heller-Heller vs 6-Galer-Jarvis
-  650          5.50   1.50 6-Campbell-Hendrickson vs 8-Ring-Christensen
+  650          5.50   1.50 5-Campbell-Hendrickson vs 6-Galer-Jarvis
+  650          5.50   1.50 6-Heller-Heller vs 8-Ring-Christensen
   100          2.00   5.00 7-Pesce-Gilman vs 1-Setterholm-Christiansen
   500          4.00   3.00 8-Miller-Eng vs 3-Binney-Walker
         100    0.00   7.00 9-Romeo-Hovda vs 5-White-Gunstone-White
@@ -240,7 +240,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   100          4.00   3.00 2-Rind-Jacobson vs 8-Ring-Christensen
         100    2.00   5.00 3-Delfs-Chalfan vs 1-Setterholm-Christiansen
   120          6.00   1.00 4-Sieg-Ford vs 3-Binney-Walker
-  200          7.00   0.00 5-Heller-Heller vs 5-White-Gunstone-White
+  200          7.00   0.00 5-Campbell-Hendrickson vs 5-White-Gunstone-White
         100    2.00   5.00 7-Pesce-Gilman vs 9-Christie-Lazar
   110          5.00   2.00 8-Miller-Eng vs 2-Hankins-Cline
         110    0.00   7.00 9-Romeo-Hovda vs 4-Roselle-Anderson
@@ -254,7 +254,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   300          2.00   5.00 2-Rind-Jacobson vs 8-Ring-Christensen
   460          7.00   0.00 3-Delfs-Chalfan vs 1-Setterholm-Christiansen
   420          4.50   2.50 4-Sieg-Ford vs 3-Binney-Walker
-  150          1.00   6.00 5-Heller-Heller vs 5-White-Gunstone-White
+  150          1.00   6.00 5-Campbell-Hendrickson vs 5-White-Gunstone-White
   420          4.50   2.50 7-Pesce-Gilman vs 9-Christie-Lazar
   420          4.50   2.50 8-Miller-Eng vs 2-Hankins-Cline
    50          0.00   7.00 9-Romeo-Hovda vs 4-Roselle-Anderson
@@ -268,7 +268,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         200    1.00   6.00 2-Rind-Jacobson vs 8-Ring-Christensen
         110    4.50   2.50 3-Delfs-Chalfan vs 1-Setterholm-Christiansen
         200    1.00   6.00 4-Sieg-Ford vs 3-Binney-Walker
-  110          7.00   0.00 5-Heller-Heller vs 5-White-Gunstone-White
+  110          7.00   0.00 5-Campbell-Hendrickson vs 5-White-Gunstone-White
    50          6.00   1.00 7-Pesce-Gilman vs 9-Christie-Lazar
         200    1.00   6.00 8-Miller-Eng vs 2-Hankins-Cline
         110    4.50   2.50 9-Romeo-Hovda vs 4-Roselle-Anderson
@@ -281,8 +281,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         110    1.00   6.00 1-Abernethy-Zaugg vs 5-White-Gunstone-White
          50    3.50   3.50 3-Delfs-Chalfan vs 9-Christie-Lazar
         100    2.00   5.00 4-Sieg-Ford vs 2-Hankins-Cline
-    PASS       5.00   2.00 5-Heller-Heller vs 4-Roselle-Anderson
-  200          6.50   0.50 6-Campbell-Hendrickson vs 6-Galer-Jarvis
+    PASS       5.00   2.00 5-Campbell-Hendrickson vs 4-Roselle-Anderson
+  200          6.50   0.50 6-Heller-Heller vs 6-Galer-Jarvis
   200          6.50   0.50 7-Pesce-Gilman vs 8-Ring-Christensen
          50    3.50   3.50 8-Miller-Eng vs 1-Setterholm-Christiansen
         200    0.00   7.00 9-Romeo-Hovda vs 3-Binney-Walker
@@ -295,8 +295,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    50          2.00   5.00 1-Abernethy-Zaugg vs 5-White-Gunstone-White
   100          4.50   2.50 3-Delfs-Chalfan vs 9-Christie-Lazar
   500          6.50   0.50 4-Sieg-Ford vs 2-Hankins-Cline
-   50          2.00   5.00 5-Heller-Heller vs 4-Roselle-Anderson
-   50          2.00   5.00 6-Campbell-Hendrickson vs 6-Galer-Jarvis
+   50          2.00   5.00 5-Campbell-Hendrickson vs 4-Roselle-Anderson
+   50          2.00   5.00 6-Heller-Heller vs 6-Galer-Jarvis
   500          6.50   0.50 7-Pesce-Gilman vs 8-Ring-Christensen
          50    0.00   7.00 8-Miller-Eng vs 1-Setterholm-Christiansen
   100          4.50   2.50 9-Romeo-Hovda vs 3-Binney-Walker
@@ -309,8 +309,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         500    0.00   7.00 1-Abernethy-Zaugg vs 5-White-Gunstone-White
         300    1.00   6.00 3-Delfs-Chalfan vs 9-Christie-Lazar
   500          5.00   2.00 4-Sieg-Ford vs 2-Hankins-Cline
-        100    2.00   5.00 5-Heller-Heller vs 4-Roselle-Anderson
-   50          3.00   4.00 6-Campbell-Hendrickson vs 6-Galer-Jarvis
+        100    2.00   5.00 5-Campbell-Hendrickson vs 4-Roselle-Anderson
+   50          3.00   4.00 6-Heller-Heller vs 6-Galer-Jarvis
   300          4.00   3.00 7-Pesce-Gilman vs 8-Ring-Christensen
  1100          7.00   0.00 8-Miller-Eng vs 1-Setterholm-Christiansen
   600          6.00   1.00 9-Romeo-Hovda vs 3-Binney-Walker
@@ -324,8 +324,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         180    4.00   3.00 2-Rind-Jacobson vs 6-Galer-Jarvis
         660    0.00   7.00 3-Delfs-Chalfan vs 8-Ring-Christensen
         600    2.00   5.00 4-Sieg-Ford vs 1-Setterholm-Christiansen
-        130    5.50   1.50 5-Heller-Heller vs 3-Binney-Walker
-        130    5.50   1.50 6-Campbell-Hendrickson vs 5-White-Gunstone-White
+        130    5.50   1.50 5-Campbell-Hendrickson vs 3-Binney-Walker
+        130    5.50   1.50 6-Heller-Heller vs 5-White-Gunstone-White
         600    2.00   5.00 8-Miller-Eng vs 9-Christie-Lazar
   300          7.00   0.00 9-Romeo-Hovda vs 2-Hankins-Cline
 ----------------------------------------------------------------------
@@ -338,8 +338,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         680    0.00   7.00 2-Rind-Jacobson vs 6-Galer-Jarvis
         620    3.50   3.50 3-Delfs-Chalfan vs 8-Ring-Christensen
         620    3.50   3.50 4-Sieg-Ford vs 1-Setterholm-Christiansen
-        620    3.50   3.50 5-Heller-Heller vs 3-Binney-Walker
-        630    1.00   6.00 6-Campbell-Hendrickson vs 5-White-Gunstone-White
+        620    3.50   3.50 5-Campbell-Hendrickson vs 3-Binney-Walker
+        630    1.00   6.00 6-Heller-Heller vs 5-White-Gunstone-White
         200    6.00   1.00 8-Miller-Eng vs 9-Christie-Lazar
   500          7.00   0.00 9-Romeo-Hovda vs 2-Hankins-Cline
 ----------------------------------------------------------------------
@@ -352,8 +352,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         120    5.00   2.00 2-Rind-Jacobson vs 6-Galer-Jarvis
         420    0.50   6.50 3-Delfs-Chalfan vs 8-Ring-Christensen
         140    3.50   3.50 4-Sieg-Ford vs 1-Setterholm-Christiansen
-        150    2.00   5.00 5-Heller-Heller vs 3-Binney-Walker
-   50          6.50   0.50 6-Campbell-Hendrickson vs 5-White-Gunstone-White
+        150    2.00   5.00 5-Campbell-Hendrickson vs 3-Binney-Walker
+   50          6.50   0.50 6-Heller-Heller vs 5-White-Gunstone-White
         420    0.50   6.50 8-Miller-Eng vs 9-Christie-Lazar
         140    3.50   3.50 9-Romeo-Hovda vs 2-Hankins-Cline
 ----------------------------------------------------------------------
@@ -365,8 +365,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   480          3.50   3.50 1-Abernethy-Zaugg vs 3-Binney-Walker
   480          3.50   3.50 2-Rind-Jacobson vs 5-White-Gunstone-White
   480          3.50   3.50 4-Sieg-Ford vs 9-Christie-Lazar
-  480          3.50   3.50 5-Heller-Heller vs 2-Hankins-Cline
-  480          3.50   3.50 6-Campbell-Hendrickson vs 4-Roselle-Anderson
+  480          3.50   3.50 5-Campbell-Hendrickson vs 2-Hankins-Cline
+  480          3.50   3.50 6-Heller-Heller vs 4-Roselle-Anderson
   480          3.50   3.50 7-Pesce-Gilman vs 6-Galer-Jarvis
   480          3.50   3.50 8-Miller-Eng vs 8-Ring-Christensen
   480          3.50   3.50 9-Romeo-Hovda vs 1-Setterholm-Christiansen
@@ -379,8 +379,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         650    4.00   3.00 1-Abernethy-Zaugg vs 3-Binney-Walker
         600    7.00   0.00 2-Rind-Jacobson vs 5-White-Gunstone-White
         620    6.00   1.00 4-Sieg-Ford vs 9-Christie-Lazar
-        650    4.00   3.00 5-Heller-Heller vs 2-Hankins-Cline
-        660    1.00   6.00 6-Campbell-Hendrickson vs 4-Roselle-Anderson
+        650    4.00   3.00 5-Campbell-Hendrickson vs 2-Hankins-Cline
+        660    1.00   6.00 6-Heller-Heller vs 4-Roselle-Anderson
         660    1.00   6.00 7-Pesce-Gilman vs 6-Galer-Jarvis
         650    4.00   3.00 8-Miller-Eng vs 8-Ring-Christensen
         660    1.00   6.00 9-Romeo-Hovda vs 1-Setterholm-Christiansen
@@ -393,8 +393,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         300    2.00   5.00 1-Abernethy-Zaugg vs 3-Binney-Walker
         150    5.50   1.50 2-Rind-Jacobson vs 5-White-Gunstone-White
         200    3.50   3.50 4-Sieg-Ford vs 9-Christie-Lazar
-        200    3.50   3.50 5-Heller-Heller vs 2-Hankins-Cline
-        430    0.50   6.50 6-Campbell-Hendrickson vs 4-Roselle-Anderson
+        200    3.50   3.50 5-Campbell-Hendrickson vs 2-Hankins-Cline
+        430    0.50   6.50 6-Heller-Heller vs 4-Roselle-Anderson
         100    7.00   0.00 7-Pesce-Gilman vs 6-Galer-Jarvis
         150    5.50   1.50 8-Miller-Eng vs 8-Ring-Christensen
         430    0.50   6.50 9-Romeo-Hovda vs 1-Setterholm-Christiansen
@@ -408,8 +408,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         650    2.00   5.00 2-Rind-Jacobson vs 4-Roselle-Anderson
         620    5.00   2.00 3-Delfs-Chalfan vs 6-Galer-Jarvis
         650    2.00   5.00 4-Sieg-Ford vs 8-Ring-Christensen
-        650    2.00   5.00 5-Heller-Heller vs 1-Setterholm-Christiansen
-        620    5.00   2.00 6-Campbell-Hendrickson vs 3-Binney-Walker
+        650    2.00   5.00 5-Campbell-Hendrickson vs 1-Setterholm-Christiansen
+        620    5.00   2.00 6-Heller-Heller vs 3-Binney-Walker
         200    7.00   0.00 7-Pesce-Gilman vs 5-White-Gunstone-White
         620    5.00   2.00 9-Romeo-Hovda vs 9-Christie-Lazar
 ----------------------------------------------------------------------
@@ -422,8 +422,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   500          7.00   0.00 2-Rind-Jacobson vs 4-Roselle-Anderson
   130          6.00   1.00 3-Delfs-Chalfan vs 6-Galer-Jarvis
         100    4.00   3.00 4-Sieg-Ford vs 8-Ring-Christensen
-        170    1.00   6.00 5-Heller-Heller vs 1-Setterholm-Christiansen
-        140    2.00   5.00 6-Campbell-Hendrickson vs 3-Binney-Walker
+        170    1.00   6.00 5-Campbell-Hendrickson vs 1-Setterholm-Christiansen
+        140    2.00   5.00 6-Heller-Heller vs 3-Binney-Walker
         100    4.00   3.00 7-Pesce-Gilman vs 5-White-Gunstone-White
         100    4.00   3.00 9-Romeo-Hovda vs 9-Christie-Lazar
 ----------------------------------------------------------------------
@@ -436,8 +436,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    50          3.50   3.50 2-Rind-Jacobson vs 4-Roselle-Anderson
    50          3.50   3.50 3-Delfs-Chalfan vs 6-Galer-Jarvis
         110    0.00   7.00 4-Sieg-Ford vs 8-Ring-Christensen
-   50          3.50   3.50 5-Heller-Heller vs 1-Setterholm-Christiansen
-   50          3.50   3.50 6-Campbell-Hendrickson vs 3-Binney-Walker
+   50          3.50   3.50 5-Campbell-Hendrickson vs 1-Setterholm-Christiansen
+   50          3.50   3.50 6-Heller-Heller vs 3-Binney-Walker
   110          7.00   0.00 7-Pesce-Gilman vs 5-White-Gunstone-White
    50          3.50   3.50 9-Romeo-Hovda vs 9-Christie-Lazar
 ----------------------------------------------------------------------

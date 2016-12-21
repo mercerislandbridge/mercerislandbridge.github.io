@@ -9,8 +9,12 @@ print 'title:  "%s" Results' % title
 print 'date: %s' % curr_time
 print 'categories: results'
 print '---'
+count = 0;
 for line in sys.stdin:
-    print re.sub("(http\S*)", "[\g<0>](\g<0>)", line.strip())
+    if count < 7:
+        count += 1
+    else:
+        print re.sub("(http\S*)", "[\g<0>](\g<0>)", line.strip())
 
 
 
