@@ -1,0 +1,26 @@
+Created by TCG MERGE, Version 1.5.0
+
+Filename              : 161220E-INFO.TXT
+Created               : 2016.12.20 (at 10:26:18 PM)
+Transaction ID        : 2348443
+Club Number           : 158048
+Club Name             : Mercercrest Bridge Club
+Session Date          : 2016.12.20
+Session               : Tuesday Evening
+Game type             : TCG Participant
+Gamefile              : 161220.ACE
+BWSfile               : 161220E.BWS
+
+Copy successful?
+ Gamefile             : True
+ BWSfile              : True
+ Internet Connection  : True
+
+Configuration settings
+ Gamefile folder      : C:\ACBLSCOR\GAMEFILE
+ BWS folder           : C:\ACBLSCOR\GAMEFILE
+ Handfile folder      : C:\ACBLSCOR\GAMEFILE
+ PDF folder           : C:\ACBLSCOR\GAMEFILE
+ TCG Results Folder   : C:\Users\Mercercrest\Dropbox\158048\ACBLMerge\In
+ Power Rating Folder  : 
+ Power Rating Autocopy: NO

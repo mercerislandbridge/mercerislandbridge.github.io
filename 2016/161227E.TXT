@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 27, 2016  |CLUB NO.>158048    | 12/27/2016 22:35
+---------------------,-- ------------------- -------------,---------------------
+DIR> J               |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=8/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Roselle          Ken Christiansen         A    .     .     .     75.50  48.40          
+
+ 2 Kevin Cline            David Hankins            B    6     .     .     79.50  50.96  0.23(A) 
+
+ 3 Brad Rind              Terry Jacobson           C    .     .     .     79.00  50.64          
+
+ 4 Kim Eng                Shawn Abernethy          B    2     1     .     91.50  58.65  0.98(A) 
+
+ 5 David Binney           David Walker             A    .     .     .     74.50  47.76          
+
+ 6 Ann Romeo              John Krah                C    .     .     .     51.50  33.01          
+
+ 7 Ray Miller             Stanford Christie        A    5     .     .     81.00  51.92  0.28(A) 
+
+ 8 William Campbell       Hugh Hendrickson         C    4     3     1     85.50  54.81  0.49(A) 
+
+ 9 David Baer             Rose Bolson              A    .     .     .     74.50  47.76          
+
+10 Nick Tipton            Galen Hesson             B    .     .     .     75.50  48.40          
+
+11 Mike Christensen       David Wright             B    3     2     .     90.50  58.01  0.70(A) 
+
+12 Dave Setterholm        Corneliu Galer           A    1     .     .     92.00  58.97  1.40(A) 
+
+13 Brian Zaugg            Becky Stevens            B    .     .     .     70.00  44.87          
+
+14 Connie Heller          Dennis Heller            A    .     .     .     71.50  45.83          
+
+
+                                          Totals                        1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.50   5.50 1-Roselle-Christiansen vs 3-Rind-Jacobson
+   50          6.00   0.00 2-Cline-Hankins vs 6-Romeo-Krah
+        110    5.00   1.00 4-Eng-Abernethy vs 9-Baer-Bolson
+        400    0.50   5.50 5-Binney-Walker vs 12-Setterholm-Galer
+        140    3.00   3.00 7-Miller-Christie vs 8-Campbell-Hendrickson
+        140    3.00   3.00 13-Zaugg-Stevens vs 10-Tipton-Hesson
+        140    3.00   3.00 14-Heller-Heller vs 11-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   3.00 1-Roselle-Christiansen vs 3-Rind-Jacobson
+  150          4.00   2.00 2-Cline-Hankins vs 6-Romeo-Krah
+  500          5.50   0.50 4-Eng-Abernethy vs 9-Baer-Bolson
+  500          5.50   0.50 5-Binney-Walker vs 12-Setterholm-Galer
+        100    1.00   5.00 7-Miller-Christie vs 8-Campbell-Hendrickson
+   50          2.00   4.00 13-Zaugg-Stevens vs 10-Tipton-Hesson
+        110    0.00   6.00 14-Heller-Heller vs 11-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          5.00   1.00 1-Roselle-Christiansen vs 11-Christensen-Wright
+  120          5.00   1.00 2-Cline-Hankins vs 4-Eng-Abernethy
+   90          2.00   4.00 3-Rind-Jacobson vs 7-Miller-Christie
+   90          2.00   4.00 5-Binney-Walker vs 10-Tipton-Hesson
+   90          2.00   4.00 6-Romeo-Krah vs 13-Zaugg-Stevens
+  120          5.00   1.00 8-Campbell-Hendrickson vs 9-Baer-Bolson
+         50    0.00   6.00 14-Heller-Heller vs 12-Setterholm-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   0.00 1-Roselle-Christiansen vs 11-Christensen-Wright
+        200    2.50   3.50 2-Cline-Hankins vs 4-Eng-Abernethy
+        200    2.50   3.50 3-Rind-Jacobson vs 7-Miller-Christie
+        200    2.50   3.50 5-Binney-Walker vs 10-Tipton-Hesson
+        500    0.00   6.00 6-Romeo-Krah vs 13-Zaugg-Stevens
+        170    5.00   1.00 8-Campbell-Hendrickson vs 9-Baer-Bolson
+        200    2.50   3.50 14-Heller-Heller vs 12-Setterholm-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   4.50 2-Cline-Hankins vs 12-Setterholm-Galer
+        650    1.50   4.50 3-Rind-Jacobson vs 5-Binney-Walker
+        230    6.00   0.00 4-Eng-Abernethy vs 8-Campbell-Hendrickson
+        750    0.00   6.00 6-Romeo-Krah vs 11-Christensen-Wright
+        550    3.50   2.50 7-Miller-Christie vs 1-Roselle-Christiansen
+        550    3.50   2.50 9-Baer-Bolson vs 10-Tipton-Hesson
+        480    5.00   1.00 14-Heller-Heller vs 13-Zaugg-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.00   3.00 2-Cline-Hankins vs 12-Setterholm-Galer
+  400          3.00   3.00 3-Rind-Jacobson vs 5-Binney-Walker
+  500          6.00   0.00 4-Eng-Abernethy vs 8-Campbell-Hendrickson
+  400          3.00   3.00 6-Romeo-Krah vs 11-Christensen-Wright
+  400          3.00   3.00 7-Miller-Christie vs 1-Roselle-Christiansen
+         50    0.00   6.00 9-Baer-Bolson vs 10-Tipton-Hesson
+  400          3.00   3.00 14-Heller-Heller vs 13-Zaugg-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   0.50 3-Rind-Jacobson vs 13-Zaugg-Stevens
+  200          5.50   0.50 4-Eng-Abernethy vs 6-Romeo-Krah
+         90    3.50   2.50 5-Binney-Walker vs 9-Baer-Bolson
+        100    2.00   4.00 7-Miller-Christie vs 12-Setterholm-Galer
+        110    0.50   5.50 8-Campbell-Hendrickson vs 2-Cline-Hankins
+         90    3.50   2.50 10-Tipton-Hesson vs 11-Christensen-Wright
+        110    0.50   5.50 14-Heller-Heller vs 1-Roselle-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.50   2.50 3-Rind-Jacobson vs 13-Zaugg-Stevens
+  450          3.50   2.50 4-Eng-Abernethy vs 6-Romeo-Krah
+  450          3.50   2.50 5-Binney-Walker vs 9-Baer-Bolson
+  460          6.00   0.00 7-Miller-Christie vs 12-Setterholm-Galer
+  420          0.50   5.50 8-Campbell-Hendrickson vs 2-Cline-Hankins
+  420          0.50   5.50 10-Tipton-Hesson vs 11-Christensen-Wright
+  450          3.50   2.50 14-Heller-Heller vs 1-Roselle-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.00   0.00 4-Eng-Abernethy vs 1-Roselle-Christiansen
+         50    2.50   3.50 5-Binney-Walker vs 7-Miller-Christie
+         50    2.50   3.50 6-Romeo-Krah vs 10-Tipton-Hesson
+  110          5.00   1.00 8-Campbell-Hendrickson vs 13-Zaugg-Stevens
+         50    2.50   3.50 9-Baer-Bolson vs 3-Rind-Jacobson
+         50    2.50   3.50 11-Christensen-Wright vs 12-Setterholm-Galer
+        100    0.00   6.00 14-Heller-Heller vs 2-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          6.00   0.00 4-Eng-Abernethy vs 1-Roselle-Christiansen
+  140          2.00   4.00 5-Binney-Walker vs 7-Miller-Christie
+        100    0.00   6.00 6-Romeo-Krah vs 10-Tipton-Hesson
+  200          4.00   2.00 8-Campbell-Hendrickson vs 13-Zaugg-Stevens
+  140          2.00   4.00 9-Baer-Bolson vs 3-Rind-Jacobson
+  140          2.00   4.00 11-Christensen-Wright vs 12-Setterholm-Galer
+  620          5.00   1.00 14-Heller-Heller vs 2-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  520          1.00   5.00 5-Binney-Walker vs 2-Cline-Hankins
+  520          1.00   5.00 6-Romeo-Krah vs 8-Campbell-Hendrickson
+  520          1.00   5.00 7-Miller-Christie vs 11-Christensen-Wright
+ 1020          5.50   0.50 9-Baer-Bolson vs 1-Roselle-Christiansen
+ 1010          3.50   2.50 10-Tipton-Hesson vs 4-Eng-Abernethy
+ 1020          5.50   0.50 12-Setterholm-Galer vs 13-Zaugg-Stevens
+ 1010          3.50   2.50 14-Heller-Heller vs 3-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    4.50   1.50 5-Binney-Walker vs 2-Cline-Hankins
+        100    2.50   3.50 6-Romeo-Krah vs 8-Campbell-Hendrickson
+        110    1.00   5.00 7-Miller-Christie vs 11-Christensen-Wright
+        100    2.50   3.50 9-Baer-Bolson vs 1-Roselle-Christiansen
+         90    4.50   1.50 10-Tipton-Hesson vs 4-Eng-Abernethy
+        200    0.00   6.00 12-Setterholm-Galer vs 13-Zaugg-Stevens
+  100          6.00   0.00 14-Heller-Heller vs 3-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.50   5.50 6-Romeo-Krah vs 3-Rind-Jacobson
+        620    4.00   2.00 7-Miller-Christie vs 9-Baer-Bolson
+        620    4.00   2.00 8-Campbell-Hendrickson vs 12-Setterholm-Galer
+        650    0.50   5.50 10-Tipton-Hesson vs 2-Cline-Hankins
+        620    4.00   2.00 11-Christensen-Wright vs 5-Binney-Walker
+        620    4.00   2.00 13-Zaugg-Stevens vs 1-Roselle-Christiansen
+        620    4.00   2.00 14-Heller-Heller vs 4-Eng-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.50   3.50 6-Romeo-Krah vs 3-Rind-Jacobson
+   90          2.50   3.50 7-Miller-Christie vs 9-Baer-Bolson
+  120          5.00   1.00 8-Campbell-Hendrickson vs 12-Setterholm-Galer
+   90          2.50   3.50 10-Tipton-Hesson vs 2-Cline-Hankins
+  300          6.00   0.00 11-Christensen-Wright vs 5-Binney-Walker
+        100    0.00   6.00 13-Zaugg-Stevens vs 1-Roselle-Christiansen
+   90          2.50   3.50 14-Heller-Heller vs 4-Eng-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.50   2.50 1-Roselle-Christiansen vs 2-Cline-Hankins
+         90    3.50   2.50 7-Miller-Christie vs 4-Eng-Abernethy
+        120    0.50   5.50 8-Campbell-Hendrickson vs 10-Tipton-Hesson
+  150          6.00   0.00 9-Baer-Bolson vs 13-Zaugg-Stevens
+         90    3.50   2.50 11-Christensen-Wright vs 3-Rind-Jacobson
+         90    3.50   2.50 12-Setterholm-Galer vs 6-Romeo-Krah
+        120    0.50   5.50 14-Heller-Heller vs 5-Binney-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   4.00 1-Roselle-Christiansen vs 2-Cline-Hankins
+         50    1.00   5.00 7-Miller-Christie vs 4-Eng-Abernethy
+  170          6.00   0.00 8-Campbell-Hendrickson vs 10-Tipton-Hesson
+  140          4.00   2.00 9-Baer-Bolson vs 13-Zaugg-Stevens
+  140          4.00   2.00 11-Christensen-Wright vs 3-Rind-Jacobson
+  140          4.00   2.00 12-Setterholm-Galer vs 6-Romeo-Krah
+        110    0.00   6.00 14-Heller-Heller vs 5-Binney-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.00   5.00 2-Cline-Hankins vs 3-Rind-Jacobson
+  140          1.00   5.00 8-Campbell-Hendrickson vs 5-Binney-Walker
+  420          5.50   0.50 9-Baer-Bolson vs 11-Christensen-Wright
+  170          3.00   3.00 10-Tipton-Hesson vs 1-Roselle-Christiansen
+  420          5.50   0.50 12-Setterholm-Galer vs 4-Eng-Abernethy
+  140          1.00   5.00 13-Zaugg-Stevens vs 7-Miller-Christie
+  300          4.00   2.00 14-Heller-Heller vs 6-Romeo-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    2.50   3.50 2-Cline-Hankins vs 3-Rind-Jacobson
+        420    4.50   1.50 8-Campbell-Hendrickson vs 5-Binney-Walker
+        420    4.50   1.50 9-Baer-Bolson vs 11-Christensen-Wright
+        520    1.00   5.00 10-Tipton-Hesson vs 1-Roselle-Christiansen
+  100          6.00   0.00 12-Setterholm-Galer vs 4-Eng-Abernethy
+        920    0.00   6.00 13-Zaugg-Stevens vs 7-Miller-Christie
+        490    2.50   3.50 14-Heller-Heller vs 6-Romeo-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.00   3.00 1-Roselle-Christiansen vs 8-Campbell-Hendrickson
+  480          3.00   3.00 3-Rind-Jacobson vs 4-Eng-Abernethy
+  480          3.00   3.00 9-Baer-Bolson vs 6-Romeo-Krah
+  450          0.00   6.00 10-Tipton-Hesson vs 12-Setterholm-Galer
+  980          6.00   0.00 11-Christensen-Wright vs 2-Cline-Hankins
+  480          3.00   3.00 13-Zaugg-Stevens vs 5-Binney-Walker
+  480          3.00   3.00 14-Heller-Heller vs 7-Miller-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   4.00 1-Roselle-Christiansen vs 8-Campbell-Hendrickson
+        110    2.00   4.00 3-Rind-Jacobson vs 4-Eng-Abernethy
+        140    0.00   6.00 9-Baer-Bolson vs 6-Romeo-Krah
+        110    2.00   4.00 10-Tipton-Hesson vs 12-Setterholm-Galer
+  500          6.00   0.00 11-Christensen-Wright vs 2-Cline-Hankins
+  200          4.50   1.50 13-Zaugg-Stevens vs 5-Binney-Walker
+  200          4.50   1.50 14-Heller-Heller vs 7-Miller-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    0.00   6.00 1-Roselle-Christiansen vs 6-Romeo-Krah
+        420    3.50   2.50 2-Cline-Hankins vs 9-Baer-Bolson
+  250          6.00   0.00 4-Eng-Abernethy vs 5-Binney-Walker
+        170    5.00   1.00 10-Tipton-Hesson vs 7-Miller-Christie
+        500    1.00   5.00 11-Christensen-Wright vs 13-Zaugg-Stevens
+        460    2.00   4.00 12-Setterholm-Galer vs 3-Rind-Jacobson
+        420    3.50   2.50 14-Heller-Heller vs 8-Campbell-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          6.00   0.00 1-Roselle-Christiansen vs 6-Romeo-Krah
+        150    0.00   6.00 2-Cline-Hankins vs 9-Baer-Bolson
+  420          4.50   1.50 4-Eng-Abernethy vs 5-Binney-Walker
+         50    2.50   3.50 10-Tipton-Hesson vs 7-Miller-Christie
+         50    2.50   3.50 11-Christensen-Wright vs 13-Zaugg-Stevens
+  420          4.50   1.50 12-Setterholm-Galer vs 3-Rind-Jacobson
+        100    1.00   5.00 14-Heller-Heller vs 8-Campbell-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   1.50 2-Cline-Hankins vs 7-Miller-Christie
+  200          4.50   1.50 3-Rind-Jacobson vs 10-Tipton-Hesson
+  110          2.00   4.00 5-Binney-Walker vs 6-Romeo-Krah
+  140          3.00   3.00 11-Christensen-Wright vs 8-Campbell-Hendrickson
+  500          6.00   0.00 12-Setterholm-Galer vs 1-Roselle-Christiansen
+  100          1.00   5.00 13-Zaugg-Stevens vs 4-Eng-Abernethy
+        180    0.00   6.00 14-Heller-Heller vs 9-Baer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.50   3.50 2-Cline-Hankins vs 7-Miller-Christie
+        170    0.50   5.50 3-Rind-Jacobson vs 10-Tipton-Hesson
+         90    5.00   1.00 5-Binney-Walker vs 6-Romeo-Krah
+        120    2.50   3.50 11-Christensen-Wright vs 8-Campbell-Hendrickson
+        170    0.50   5.50 12-Setterholm-Galer vs 1-Roselle-Christiansen
+   50          6.00   0.00 13-Zaugg-Stevens vs 4-Eng-Abernethy
+        100    4.00   2.00 14-Heller-Heller vs 9-Baer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   6.00 1-Roselle-Christiansen vs 5-Binney-Walker
+        140    2.50   3.50 3-Rind-Jacobson vs 8-Campbell-Hendrickson
+        170    1.00   5.00 4-Eng-Abernethy vs 11-Christensen-Wright
+        140    2.50   3.50 6-Romeo-Krah vs 7-Miller-Christie
+        110    4.50   1.50 12-Setterholm-Galer vs 9-Baer-Bolson
+        100    6.00   0.00 13-Zaugg-Stevens vs 2-Cline-Hankins
+        110    4.50   1.50 14-Heller-Heller vs 10-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.50   0.50 1-Roselle-Christiansen vs 5-Binney-Walker
+  620          2.50   3.50 3-Rind-Jacobson vs 8-Campbell-Hendrickson
+  620          2.50   3.50 4-Eng-Abernethy vs 11-Christensen-Wright
+  150          0.00   6.00 6-Romeo-Krah vs 7-Miller-Christie
+  620          2.50   3.50 12-Setterholm-Galer vs 9-Baer-Bolson
+  620          2.50   3.50 13-Zaugg-Stevens vs 2-Cline-Hankins
+  650          5.50   0.50 14-Heller-Heller vs 10-Tipton-Hesson
+----------------------------------------------------------------------
