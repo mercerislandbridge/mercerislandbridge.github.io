@@ -1,0 +1,505 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> Q N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>January 10, 2017   |CLUB NO.>158048    | 01/10/2017 22:36
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=5/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Dave Setterholm        Corneliu Galer           A    3     .     .    140.63  57.87  0.55(A) 
+
+ 2 Steven Mark Lewis      Jolanta Janowski         C    .     2     2    128.81  53.01  0.28(B) 
+
+ 3 David Baer             Rose Bolson              A    .     .     .    110.81  45.60          
+
+ 4 Charles James          Andrea James             A    .     .     .    111.94  46.07          
+
+ 5 David Walker           Joel Fuhrman             B    .     .     .     97.31  40.05          
+
+ 6 Stanford Christie      Allan Lazar              A    .     .     .    128.25  52.78          
+
+ 7 Pete Cowles            Clay Laughary            C    4     1     1    130.50  53.70  0.40(B) 
+
+ 8 Connie Heller          Dennis Heller            A    2     .     .    141.19  58.10  0.77(A) 
+
+ 9 William Campbell       Tony Marshall            C    .     .     .     82.50  33.95          
+
+10 Ray Miller             Kim Eng                  A    1     .     .    146.00  60.08  1.10(A) 
+
+11 Brad Rind              Terry Jacobson           C    .     .     .    120.38  49.54          
+
+
+                                          Totals                        1338.32       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> Q E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>January 10, 2017   |CLUB NO.>158048    | 01/10/2017 22:36
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=7/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Pesce            Ken Christiansen         A    .     .     .    113.00  46.50          
+
+ 2 David Hankins          Kevin Cline              B    4     2     .    126.00  51.85  0.39(A) 
+
+ 3 Nick Tipton            Galen Hesson             B    .     .     .    117.50  48.35          
+
+ 4 Valerie Lycette        Mark McWiggins           C    .     3     .    122.50  50.41  0.28(B) 
+
+ 5 David Roselle          Sue Anderson             B    .     .     .     88.50  36.42          
+
+ 6 Jeffrey Ford           Bryan Delfs              A    3     .     .    134.00  55.14  0.55(A) 
+
+ 7 John Krah              Daniel Poore             C    2     1     1    139.00  57.20  0.77(A) 
+
+ 8 Brian Zaugg            Shawn Abernethy          B    .     .     .    119.00  48.97          
+
+ 9 Tommy Bailey           Evan Stoll               C    .     .     .    113.00  46.50          
+
+10 Mike Christensen       Mike Ring                A    1     .     .    142.50  58.64  1.10(A) 
+
+
+
+
+                                          Totals                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          9.00   0.00 1-Setterholm-Galer vs 1-Pesce-Christiansen
+  420          6.00   3.00 2-Lewis-Janowski vs 5-Roselle-Anderson
+  420          6.00   3.00 3-Baer-Bolson vs 7-Krah-Poore
+  200          2.50   6.50 4-James-James vs 9-Bailey-Stoll
+  200          2.50   6.50 6-Christie-Lazar vs 2-Hankins-Cline
+  170          1.00   8.00 7-Cowles-Laughary vs 4-Lycette-McWiggins
+  420          6.00   3.00 8-Heller-Heller vs 6-Ford-Delfs
+  140          0.00   9.00 9-Campbell-Marshall vs 8-Zaugg-Abernethy
+  420          6.00   3.00 10-Miller-Eng vs 10-Christensen-Ring
+  420          6.00   3.00 11-Rind-Jacobson vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          6.00   3.00 1-Setterholm-Galer vs 1-Pesce-Christiansen
+  680          6.00   3.00 2-Lewis-Janowski vs 5-Roselle-Anderson
+  680          6.00   3.00 3-Baer-Bolson vs 7-Krah-Poore
+  680          6.00   3.00 4-James-James vs 9-Bailey-Stoll
+  600          1.50   7.50 6-Christie-Lazar vs 2-Hankins-Cline
+  680          6.00   3.00 7-Cowles-Laughary vs 4-Lycette-McWiggins
+  680          6.00   3.00 8-Heller-Heller vs 6-Ford-Delfs
+  170          0.00   9.00 9-Campbell-Marshall vs 8-Zaugg-Abernethy
+  680          6.00   3.00 10-Miller-Eng vs 10-Christensen-Ring
+  600          1.50   7.50 11-Rind-Jacobson vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   7.50 1-Setterholm-Galer vs 1-Pesce-Christiansen
+  200          8.50   0.50 2-Lewis-Janowski vs 5-Roselle-Anderson
+  100          5.00   4.00 3-Baer-Bolson vs 7-Krah-Poore
+         50    1.50   7.50 4-James-James vs 9-Bailey-Stoll
+  100          5.00   4.00 6-Christie-Lazar vs 2-Hankins-Cline
+        300    0.00   9.00 7-Cowles-Laughary vs 4-Lycette-McWiggins
+  100          5.00   4.00 8-Heller-Heller vs 6-Ford-Delfs
+  100          5.00   4.00 9-Campbell-Marshall vs 8-Zaugg-Abernethy
+  200          8.50   0.50 10-Miller-Eng vs 10-Christensen-Ring
+  100          5.00   4.00 11-Rind-Jacobson vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          9.00   0.00 2-Lewis-Janowski vs 2-Hankins-Cline
+  100          5.00   4.00 3-Baer-Bolson vs 6-Ford-Delfs
+  100          5.00   4.00 4-James-James vs 8-Zaugg-Abernethy
+        620    0.50   8.50 5-Walker-Fuhrman vs 10-Christensen-Ring
+  100          5.00   4.00 6-Christie-Lazar vs 1-Pesce-Christiansen
+        620    0.50   8.50 7-Cowles-Laughary vs 3-Tipton-Hesson
+  100          5.00   4.00 8-Heller-Heller vs 5-Roselle-Anderson
+  100          5.00   4.00 9-Campbell-Marshall vs 7-Krah-Poore
+  100          5.00   4.00 10-Miller-Eng vs 9-Bailey-Stoll
+  100          5.00   4.00 11-Rind-Jacobson vs 4-Lycette-McWiggins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.50   8.50 2-Lewis-Janowski vs 2-Hankins-Cline
+        110    3.50   5.50 3-Baer-Bolson vs 6-Ford-Delfs
+        120    2.00   7.00 4-James-James vs 8-Zaugg-Abernethy
+        110    3.50   5.50 5-Walker-Fuhrman vs 10-Christensen-Ring
+        100    6.00   3.00 6-Christie-Lazar vs 1-Pesce-Christiansen
+  150          9.00   0.00 7-Cowles-Laughary vs 3-Tipton-Hesson
+         90    8.00   1.00 8-Heller-Heller vs 5-Roselle-Anderson
+        100    6.00   3.00 9-Campbell-Marshall vs 7-Krah-Poore
+        500    0.50   8.50 10-Miller-Eng vs 9-Bailey-Stoll
+        100    6.00   3.00 11-Rind-Jacobson vs 4-Lycette-McWiggins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.00   9.00 2-Lewis-Janowski vs 2-Hankins-Cline
+        600    2.50   6.50 3-Baer-Bolson vs 6-Ford-Delfs
+  300          9.00   0.00 4-James-James vs 8-Zaugg-Abernethy
+        630    1.00   8.00 5-Walker-Fuhrman vs 10-Christensen-Ring
+  100          6.00   3.00 6-Christie-Lazar vs 1-Pesce-Christiansen
+  100          6.00   3.00 7-Cowles-Laughary vs 3-Tipton-Hesson
+        170    4.00   5.00 8-Heller-Heller vs 5-Roselle-Anderson
+        600    2.50   6.50 9-Campbell-Marshall vs 7-Krah-Poore
+  200          8.00   1.00 10-Miller-Eng vs 9-Bailey-Stoll
+  100          6.00   3.00 11-Rind-Jacobson vs 4-Lycette-McWiggins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    5.00   4.00 1-Setterholm-Galer vs 10-Christensen-Ring
+        630    5.00   4.00 2-Lewis-Janowski vs 1-Pesce-Christiansen
+  100          9.00   0.00 3-Baer-Bolson vs 3-Tipton-Hesson
+        630    5.00   4.00 4-James-James vs 7-Krah-Poore
+        630    5.00   4.00 5-Walker-Fuhrman vs 9-Bailey-Stoll
+        650    2.00   7.00 7-Cowles-Laughary vs 2-Hankins-Cline
+        660    0.50   8.50 8-Heller-Heller vs 4-Lycette-McWiggins
+        660    0.50   8.50 9-Campbell-Marshall vs 6-Ford-Delfs
+        630    5.00   4.00 10-Miller-Eng vs 8-Zaugg-Abernethy
+        180    8.00   1.00 11-Rind-Jacobson vs 5-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          6.00   3.00 1-Setterholm-Galer vs 10-Christensen-Ring
+  400          6.00   3.00 2-Lewis-Janowski vs 1-Pesce-Christiansen
+  100          1.00   8.00 3-Baer-Bolson vs 3-Tipton-Hesson
+  420          8.00   1.00 4-James-James vs 7-Krah-Poore
+  150          3.00   6.00 5-Walker-Fuhrman vs 9-Bailey-Stoll
+  150          3.00   6.00 7-Cowles-Laughary vs 2-Hankins-Cline
+  500          9.00   0.00 8-Heller-Heller vs 4-Lycette-McWiggins
+   50          0.00   9.00 9-Campbell-Marshall vs 6-Ford-Delfs
+  400          6.00   3.00 10-Miller-Eng vs 8-Zaugg-Abernethy
+  150          3.00   6.00 11-Rind-Jacobson vs 5-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   6.00 1-Setterholm-Galer vs 10-Christensen-Ring
+  100          7.00   2.00 2-Lewis-Janowski vs 1-Pesce-Christiansen
+        140    1.00   8.00 3-Baer-Bolson vs 3-Tipton-Hesson
+        140    1.00   8.00 4-James-James vs 7-Krah-Poore
+  100          7.00   2.00 5-Walker-Fuhrman vs 9-Bailey-Stoll
+  100          7.00   2.00 7-Cowles-Laughary vs 2-Hankins-Cline
+         50    4.50   4.50 8-Heller-Heller vs 4-Lycette-McWiggins
+        140    1.00   8.00 9-Campbell-Marshall vs 6-Ford-Delfs
+         50    4.50   4.50 10-Miller-Eng vs 8-Zaugg-Abernethy
+  300          9.00   0.00 11-Rind-Jacobson vs 5-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   5.00 1-Setterholm-Galer vs 9-Bailey-Stoll
+  130          8.00   1.00 3-Baer-Bolson vs 2-Hankins-Cline
+        100    4.00   5.00 4-James-James vs 4-Lycette-McWiggins
+  110          6.50   2.50 5-Walker-Fuhrman vs 8-Zaugg-Abernethy
+        100    4.00   5.00 6-Christie-Lazar vs 10-Christensen-Ring
+  710          9.00   0.00 7-Cowles-Laughary vs 1-Pesce-Christiansen
+  110          6.50   2.50 8-Heller-Heller vs 3-Tipton-Hesson
+        110    2.00   7.00 9-Campbell-Marshall vs 5-Roselle-Anderson
+        200    0.00   9.00 10-Miller-Eng vs 7-Krah-Poore
+        140    1.00   8.00 11-Rind-Jacobson vs 6-Ford-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    7.00   2.00 1-Setterholm-Galer vs 9-Bailey-Stoll
+        120    2.50   6.50 3-Baer-Bolson vs 2-Hankins-Cline
+        120    2.50   6.50 4-James-James vs 4-Lycette-McWiggins
+         90    7.00   2.00 5-Walker-Fuhrman vs 8-Zaugg-Abernethy
+        120    2.50   6.50 6-Christie-Lazar vs 10-Christensen-Ring
+         90    7.00   2.00 7-Cowles-Laughary vs 1-Pesce-Christiansen
+        120    2.50   6.50 8-Heller-Heller vs 3-Tipton-Hesson
+        120    2.50   6.50 9-Campbell-Marshall vs 5-Roselle-Anderson
+  100          9.00   0.00 10-Miller-Eng vs 7-Krah-Poore
+        120    2.50   6.50 11-Rind-Jacobson vs 6-Ford-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        440    6.00   3.00 1-Setterholm-Galer vs 9-Bailey-Stoll
+       1020    1.00   8.00 3-Baer-Bolson vs 2-Hankins-Cline
+   50          8.50   0.50 4-James-James vs 4-Lycette-McWiggins
+        400    7.00   2.00 5-Walker-Fuhrman vs 8-Zaugg-Abernethy
+       1440    0.00   9.00 6-Christie-Lazar vs 10-Christensen-Ring
+        940    3.50   5.50 7-Cowles-Laughary vs 1-Pesce-Christiansen
+   50          8.50   0.50 8-Heller-Heller vs 3-Tipton-Hesson
+        940    3.50   5.50 9-Campbell-Marshall vs 5-Roselle-Anderson
+        940    3.50   5.50 10-Miller-Eng vs 7-Krah-Poore
+        940    3.50   5.50 11-Rind-Jacobson vs 6-Ford-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   7.00 1-Setterholm-Galer vs 8-Zaugg-Abernethy
+        200    0.00   9.00 2-Lewis-Janowski vs 10-Christensen-Ring
+  660          5.50   3.50 3-Baer-Bolson vs 1-Pesce-Christiansen
+  660          5.50   3.50 4-James-James vs 3-Tipton-Hesson
+  660          5.50   3.50 5-Walker-Fuhrman vs 5-Roselle-Anderson
+ 1440          9.00   0.00 6-Christie-Lazar vs 9-Bailey-Stoll
+  690          8.00   1.00 8-Heller-Heller vs 2-Hankins-Cline
+  660          5.50   3.50 9-Campbell-Marshall vs 4-Lycette-McWiggins
+        100    2.00   7.00 10-Miller-Eng vs 6-Ford-Delfs
+        100    2.00   7.00 11-Rind-Jacobson vs 7-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    4.00   5.00 1-Setterholm-Galer vs 8-Zaugg-Abernethy
+   50          8.50   0.50 2-Lewis-Janowski vs 10-Christensen-Ring
+        450    4.00   5.00 3-Baer-Bolson vs 1-Pesce-Christiansen
+        450    4.00   5.00 4-James-James vs 3-Tipton-Hesson
+        460    0.50   8.50 5-Walker-Fuhrman vs 5-Roselle-Anderson
+        450    4.00   5.00 6-Christie-Lazar vs 9-Bailey-Stoll
+   50          8.50   0.50 8-Heller-Heller vs 2-Hankins-Cline
+        460    0.50   8.50 9-Campbell-Marshall vs 4-Lycette-McWiggins
+        450    4.00   5.00 10-Miller-Eng vs 6-Ford-Delfs
+        430    7.00   2.00 11-Rind-Jacobson vs 7-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          8.00   1.00 1-Setterholm-Galer vs 8-Zaugg-Abernethy
+  150          4.50   4.50 2-Lewis-Janowski vs 10-Christensen-Ring
+  100          3.00   6.00 3-Baer-Bolson vs 1-Pesce-Christiansen
+  150          4.50   4.50 4-James-James vs 3-Tipton-Hesson
+        140    1.50   7.50 5-Walker-Fuhrman vs 5-Roselle-Anderson
+        200    0.00   9.00 6-Christie-Lazar vs 9-Bailey-Stoll
+  600          8.00   1.00 8-Heller-Heller vs 2-Hankins-Cline
+        140    1.50   7.50 9-Campbell-Marshall vs 4-Lycette-McWiggins
+  600          8.00   1.00 10-Miller-Eng vs 6-Ford-Delfs
+  300          6.00   3.00 11-Rind-Jacobson vs 7-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   6.50 1-Setterholm-Galer vs 7-Krah-Poore
+         50    2.50   6.50 2-Lewis-Janowski vs 9-Bailey-Stoll
+  420          8.00   1.00 4-James-James vs 2-Hankins-Cline
+         50    2.50   6.50 5-Walker-Fuhrman vs 4-Lycette-McWiggins
+         50    2.50   6.50 6-Christie-Lazar vs 6-Ford-Delfs
+  420          8.00   1.00 7-Cowles-Laughary vs 10-Christensen-Ring
+         50    2.50   6.50 8-Heller-Heller vs 1-Pesce-Christiansen
+  140          6.00   3.00 9-Campbell-Marshall vs 3-Tipton-Hesson
+  420          8.00   1.00 10-Miller-Eng vs 5-Roselle-Anderson
+         50    2.50   6.50 11-Rind-Jacobson vs 8-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          0.50   8.50 1-Setterholm-Galer vs 7-Krah-Poore
+  450          5.50   3.50 2-Lewis-Janowski vs 9-Bailey-Stoll
+  450          5.50   3.50 4-James-James vs 2-Hankins-Cline
+  430          0.50   8.50 5-Walker-Fuhrman vs 4-Lycette-McWiggins
+  450          5.50   3.50 6-Christie-Lazar vs 6-Ford-Delfs
+  450          5.50   3.50 7-Cowles-Laughary vs 10-Christensen-Ring
+  450          5.50   3.50 8-Heller-Heller vs 1-Pesce-Christiansen
+  450          5.50   3.50 9-Campbell-Marshall vs 3-Tipton-Hesson
+  450          5.50   3.50 10-Miller-Eng vs 5-Roselle-Anderson
+  450          5.50   3.50 11-Rind-Jacobson vs 8-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   4.50 1-Setterholm-Galer vs 7-Krah-Poore
+  120          7.00   2.00 2-Lewis-Janowski vs 9-Bailey-Stoll
+        100    0.00   9.00 4-James-James vs 2-Hankins-Cline
+  120          7.00   2.00 5-Walker-Fuhrman vs 4-Lycette-McWiggins
+   50          2.00   7.00 6-Christie-Lazar vs 6-Ford-Delfs
+  120          7.00   2.00 7-Cowles-Laughary vs 10-Christensen-Ring
+  100          4.50   4.50 8-Heller-Heller vs 1-Pesce-Christiansen
+    PASS       1.00   8.00 9-Campbell-Marshall vs 3-Tipton-Hesson
+  150          9.00   0.00 10-Miller-Eng vs 5-Roselle-Anderson
+   90          3.00   6.00 11-Rind-Jacobson vs 8-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.00   4.00 1-Setterholm-Galer vs 6-Ford-Delfs
+  800          9.00   0.00 2-Lewis-Janowski vs 8-Zaugg-Abernethy
+  430          7.00   2.00 3-Baer-Bolson vs 10-Christensen-Ring
+  400          4.00   5.00 4-James-James vs 1-Pesce-Christiansen
+         50    1.00   8.00 5-Walker-Fuhrman vs 3-Tipton-Hesson
+  200          3.00   6.00 6-Christie-Lazar vs 5-Roselle-Anderson
+         50    1.00   8.00 7-Cowles-Laughary vs 7-Krah-Poore
+         50    1.00   8.00 9-Campbell-Marshall vs 2-Hankins-Cline
+  430          7.00   2.00 10-Miller-Eng vs 4-Lycette-McWiggins
+  430          7.00   2.00 11-Rind-Jacobson vs 9-Bailey-Stoll
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          8.00   1.00 1-Setterholm-Galer vs 6-Ford-Delfs
+  100          5.50   3.50 2-Lewis-Janowski vs 8-Zaugg-Abernethy
+        300    1.50   7.50 3-Baer-Bolson vs 10-Christensen-Ring
+        300    1.50   7.50 4-James-James vs 1-Pesce-Christiansen
+  100          5.50   3.50 5-Walker-Fuhrman vs 3-Tipton-Hesson
+  710          9.00   0.00 6-Christie-Lazar vs 5-Roselle-Anderson
+        500    0.00   9.00 7-Cowles-Laughary vs 7-Krah-Poore
+  100          5.50   3.50 9-Campbell-Marshall vs 2-Hankins-Cline
+        140    3.00   6.00 10-Miller-Eng vs 4-Lycette-McWiggins
+  100          5.50   3.50 11-Rind-Jacobson vs 9-Bailey-Stoll
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   3.50 1-Setterholm-Galer vs 6-Ford-Delfs
+        480    1.50   7.50 2-Lewis-Janowski vs 8-Zaugg-Abernethy
+        750    0.00   9.00 3-Baer-Bolson vs 10-Christensen-Ring
+  650          8.00   1.00 4-James-James vs 1-Pesce-Christiansen
+        480    1.50   7.50 5-Walker-Fuhrman vs 3-Tipton-Hesson
+  650          8.00   1.00 6-Christie-Lazar vs 5-Roselle-Anderson
+        100    4.00   5.00 7-Cowles-Laughary vs 7-Krah-Poore
+  100          5.50   3.50 9-Campbell-Marshall vs 2-Hankins-Cline
+  650          8.00   1.00 10-Miller-Eng vs 4-Lycette-McWiggins
+        200    3.00   6.00 11-Rind-Jacobson vs 9-Bailey-Stoll
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          9.00   0.00 1-Setterholm-Galer vs 5-Roselle-Anderson
+        650    3.50   5.50 2-Lewis-Janowski vs 7-Krah-Poore
+        650    3.50   5.50 3-Baer-Bolson vs 9-Bailey-Stoll
+        650    3.50   5.50 5-Walker-Fuhrman vs 2-Hankins-Cline
+        660    0.50   8.50 6-Christie-Lazar vs 4-Lycette-McWiggins
+        620    6.50   2.50 7-Cowles-Laughary vs 6-Ford-Delfs
+        620    6.50   2.50 8-Heller-Heller vs 8-Zaugg-Abernethy
+        660    0.50   8.50 9-Campbell-Marshall vs 1-Pesce-Christiansen
+  100          8.00   1.00 10-Miller-Eng vs 3-Tipton-Hesson
+        650    3.50   5.50 11-Rind-Jacobson vs 10-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   3.50 1-Setterholm-Galer vs 5-Roselle-Anderson
+        100    1.00   8.00 2-Lewis-Janowski vs 7-Krah-Poore
+  200          5.50   3.50 3-Baer-Bolson vs 9-Bailey-Stoll
+  140          2.00   7.00 5-Walker-Fuhrman vs 2-Hankins-Cline
+  650          8.50   0.50 6-Christie-Lazar vs 4-Lycette-McWiggins
+  650          8.50   0.50 7-Cowles-Laughary vs 6-Ford-Delfs
+  200          5.50   3.50 8-Heller-Heller vs 8-Zaugg-Abernethy
+        200    0.00   9.00 9-Campbell-Marshall vs 1-Pesce-Christiansen
+  170          3.00   6.00 10-Miller-Eng vs 3-Tipton-Hesson
+  200          5.50   3.50 11-Rind-Jacobson vs 10-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          7.00   2.00 1-Setterholm-Galer vs 5-Roselle-Anderson
+  110          7.00   2.00 2-Lewis-Janowski vs 7-Krah-Poore
+  110          7.00   2.00 3-Baer-Bolson vs 9-Bailey-Stoll
+        100    2.00   7.00 5-Walker-Fuhrman vs 2-Hankins-Cline
+  110          7.00   2.00 6-Christie-Lazar vs 4-Lycette-McWiggins
+         50    4.00   5.00 7-Cowles-Laughary vs 6-Ford-Delfs
+         90    3.00   6.00 8-Heller-Heller vs 8-Zaugg-Abernethy
+  110          7.00   2.00 9-Campbell-Marshall vs 1-Pesce-Christiansen
+        200    1.00   8.00 10-Miller-Eng vs 3-Tipton-Hesson
+        280    0.00   9.00 11-Rind-Jacobson vs 10-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          7.50   1.50 1-Setterholm-Galer vs 4-Lycette-McWiggins
+  140          1.00   8.00 2-Lewis-Janowski vs 6-Ford-Delfs
+  420          7.50   1.50 3-Baer-Bolson vs 8-Zaugg-Abernethy
+  170          3.00   6.00 4-James-James vs 10-Christensen-Ring
+  170          3.00   6.00 5-Walker-Fuhrman vs 1-Pesce-Christiansen
+  420          7.50   1.50 6-Christie-Lazar vs 3-Tipton-Hesson
+  300          5.00   4.00 7-Cowles-Laughary vs 5-Roselle-Anderson
+        100    0.00   9.00 8-Heller-Heller vs 7-Krah-Poore
+  420          7.50   1.50 9-Campbell-Marshall vs 9-Bailey-Stoll
+  170          3.00   6.00 10-Miller-Eng vs 2-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   5.50 1-Setterholm-Galer vs 4-Lycette-McWiggins
+  620          8.50   0.50 2-Lewis-Janowski vs 6-Ford-Delfs
+        100    0.50   8.50 3-Baer-Bolson vs 8-Zaugg-Abernethy
+        100    0.50   8.50 4-James-James vs 10-Christensen-Ring
+  140          3.50   5.50 5-Walker-Fuhrman vs 1-Pesce-Christiansen
+  620          8.50   0.50 6-Christie-Lazar vs 3-Tipton-Hesson
+  140          3.50   5.50 7-Cowles-Laughary vs 5-Roselle-Anderson
+  170          6.50   2.50 8-Heller-Heller vs 7-Krah-Poore
+  140          3.50   5.50 9-Campbell-Marshall vs 9-Bailey-Stoll
+  170          6.50   2.50 10-Miller-Eng vs 2-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   4.00 1-Setterholm-Galer vs 4-Lycette-McWiggins
+         50    1.50   7.50 2-Lewis-Janowski vs 6-Ford-Delfs
+   50          3.00   6.00 3-Baer-Bolson vs 8-Zaugg-Abernethy
+        100    0.00   9.00 4-James-James vs 10-Christensen-Ring
+  400          6.50   2.50 5-Walker-Fuhrman vs 1-Pesce-Christiansen
+  400          6.50   2.50 6-Christie-Lazar vs 3-Tipton-Hesson
+  550          9.00   0.00 7-Cowles-Laughary vs 5-Roselle-Anderson
+         50    1.50   7.50 8-Heller-Heller vs 7-Krah-Poore
+  100          4.00   5.00 9-Campbell-Marshall vs 9-Bailey-Stoll
+  430          8.00   1.00 10-Miller-Eng vs 2-Hankins-Cline
+----------------------------------------------------------------------

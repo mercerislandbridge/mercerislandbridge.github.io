@@ -1,15 +1,15 @@
 Created by TCG MERGE, Version 1.5.0
 
-Filename              : 161220E-INFO.TXT
-Created               : 2016.12.20 (at 10:26:18 PM)
-Transaction ID        : 2348443
+Filename              : 170103E-INFO.TXT
+Created               : 2017.01.03 (at 10:46:41 PM)
+Transaction ID        : 4307367
 Club Number           : 158048
 Club Name             : Mercercrest Bridge Club
-Session Date          : 2016.12.20
+Session Date          : 2017.01.03
 Session               : Tuesday Evening
 Game type             : TCG Participant
-Gamefile              : 161220.ACE
-BWSfile               : 161220E.BWS
+Gamefile              : 170103.ACE
+BWSfile               : 170103E.BWS
 
 Copy successful?
  Gamefile             : True
