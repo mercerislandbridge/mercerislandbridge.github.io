@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> Q N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>January 10, 2017   |CLUB NO.>158048    | 01/10/2017 22:36
+DATE>January 10, 2017   |CLUB NO.>158048    | 01/17/2017 18:24
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,33 +11,33 @@ PAIRS IN STRAT A=11/B=5/C=4                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Dave Setterholm        Corneliu Galer           A    3     .     .    140.63  57.87  0.55(A) 
+ 1 Dave Setterholm        Corneliu Galer           A    1     .     .    145.69  59.95  1.10(A) 
 
- 2 Steven Mark Lewis      Jolanta Janowski         C    .     2     2    128.81  53.01  0.28(B) 
+ 2 Steven Mark Lewis      Jolanta Janowski         C    .     2     2    127.69  52.55  0.28(B) 
 
  3 David Baer             Rose Bolson              A    .     .     .    110.81  45.60          
 
  4 Charles James          Andrea James             A    .     .     .    111.94  46.07          
 
- 5 David Walker           Joel Fuhrman             B    .     .     .     97.31  40.05          
+ 5 David Walker           Joel Fuhrman             B    .     .     .     96.19  39.58          
 
  6 Stanford Christie      Allan Lazar              A    .     .     .    128.25  52.78          
 
- 7 Pete Cowles            Clay Laughary            C    4     1     1    130.50  53.70  0.40(B) 
+ 7 Pete Cowles            Clay Laughary            C    4     1     1    129.38  53.24  0.40(B) 
 
- 8 Connie Heller          Dennis Heller            A    2     .     .    141.19  58.10  0.77(A) 
+ 8 Connie Heller          Dennis Heller            A    3     .     .    140.63  57.87  0.55(A) 
 
  9 William Campbell       Tony Marshall            C    .     .     .     82.50  33.95          
 
-10 Ray Miller             Kim Eng                  A    1     .     .    146.00  60.08  1.10(A) 
+10 Ray Miller             Kim Eng                  A    2     .     .    145.00  59.67  0.77(A) 
 
 11 Brad Rind              Terry Jacobson           C    .     .     .    120.38  49.54          
 
 
-                                          Totals                        1338.32       
+                                          Totals                        1338.46       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> Q E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>January 10, 2017   |CLUB NO.>158048    | 01/10/2017 22:36
+DATE>January 10, 2017   |CLUB NO.>158048    | 01/17/2017 18:24
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -47,25 +47,25 @@ PAIRS IN STRAT A=11/B=7/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Chris Pesce            Ken Christiansen         A    .     .     .    113.00  46.50          
+ 1 Chris Pesce            Ken Christiansen         A    .     .     .    113.50  46.71          
 
  2 David Hankins          Kevin Cline              B    4     2     .    126.00  51.85  0.39(A) 
 
  3 Nick Tipton            Galen Hesson             B    .     .     .    117.50  48.35          
 
- 4 Valerie Lycette        Mark McWiggins           C    .     3     .    122.50  50.41  0.28(B) 
+ 4 Valerie Lycette        Mark McWiggins           C    .     3     .    123.50  50.82  0.28(B) 
 
- 5 David Roselle          Sue Anderson             B    .     .     .     88.50  36.42          
+ 5 David Roselle          Sue Anderson             B    .     .     .     89.50  36.83          
 
  6 Jeffrey Ford           Bryan Delfs              A    3     .     .    134.00  55.14  0.55(A) 
 
- 7 John Krah              Daniel Poore             C    2     1     1    139.00  57.20  0.77(A) 
+ 7 John Krah              Daniel Poore             C    2     1     1    134.50  55.35  0.77(A) 
 
  8 Brian Zaugg            Shawn Abernethy          B    .     .     .    119.00  48.97          
 
- 9 Tommy Bailey           Evan Stoll               C    .     .     .    113.00  46.50          
+ 9 Tommy Bailey           Evan Stoll               C    .     .     .    114.00  46.91          
 
-10 Mike Christensen       Mike Ring                A    1     .     .    142.50  58.64  1.10(A) 
+10 Mike Christensen       Mike Ring                A    1     .     .    143.50  59.05  1.10(A) 
 
 
 
@@ -348,15 +348,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  100          4.50   4.50 1-Setterholm-Galer vs 7-Krah-Poore
-  120          7.00   2.00 2-Lewis-Janowski vs 9-Bailey-Stoll
+  300          9.00   0.00 1-Setterholm-Galer vs 7-Krah-Poore
+  120          6.00   3.00 2-Lewis-Janowski vs 9-Bailey-Stoll
         100    0.00   9.00 4-James-James vs 2-Hankins-Cline
-  120          7.00   2.00 5-Walker-Fuhrman vs 4-Lycette-McWiggins
+  120          6.00   3.00 5-Walker-Fuhrman vs 4-Lycette-McWiggins
    50          2.00   7.00 6-Christie-Lazar vs 6-Ford-Delfs
-  120          7.00   2.00 7-Cowles-Laughary vs 10-Christensen-Ring
-  100          4.50   4.50 8-Heller-Heller vs 1-Pesce-Christiansen
+  120          6.00   3.00 7-Cowles-Laughary vs 10-Christensen-Ring
+  100          4.00   5.00 8-Heller-Heller vs 1-Pesce-Christiansen
     PASS       1.00   8.00 9-Campbell-Marshall vs 3-Tipton-Hesson
-  150          9.00   0.00 10-Miller-Eng vs 5-Roselle-Anderson
+  150          8.00   1.00 10-Miller-Eng vs 5-Roselle-Anderson
    90          3.00   6.00 11-Rind-Jacobson vs 8-Zaugg-Abernethy
 ----------------------------------------------------------------------
 
