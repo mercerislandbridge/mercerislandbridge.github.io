@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 28, 2017  |CLUB NO.>158048    | 02/28/2017 22:29
+DATE>February 28, 2017  |CLUB NO.>158048    | 03/07/2017 18:08
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -17,7 +17,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  3 Shawn Abernethy        Brian Zaugg              B    .     .     .    131.63  48.75          
 
- 4 Kevin Cline            David Hankins            B    4     3     .    144.56  53.54  0.42(A) 
+ 4 Kevin Cline            David Hankins            B    4     3     .    145.13  53.75  0.42(A) 
 
  5 William Herman         Michele Herman           C    .     .     .    135.00  50.00          
 
@@ -31,15 +31,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
 10 Yuri Wiitala           Peiyush Jain             C    1     1     1    157.50  58.33  1.20(A) 
 
-11 Ray Miller             Jennifer Chalfan         A    .     .     .    132.00  48.89          
+11 Ray Miller             Jennifer Chalfan         A    .     .     .    132.50  49.07          
 
-12 John Ellis             Larry Holdren            C    .     .     .     92.50  34.26          
+12 John Ellis             Larry Holdren            C    .     .     .     91.50  33.89          
 
 
-                                          Totals                        1622.89       
+                                          Totals                        1622.96       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 28, 2017  |CLUB NO.>158048    | 02/28/2017 22:29
+DATE>February 28, 2017  |CLUB NO.>158048    | 03/07/2017 18:08
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -55,19 +55,19 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  3 David Roselle          Sue Anderson             B    .     .     .    128.00  47.41          
 
- 4 Corneliu Galer         Chris Pesce              B    3     3     .    146.00  54.07  0.60(A) 
+ 4 Corneliu Galer         Chris Pesce              B    3     3     .    145.50  53.89  0.60(A) 
 
  5 Kim Eng                Jeffrey Ford             A    4     .     .    143.50  53.15  0.42(A) 
 
- 6 J.C. Chupack           Scott Chupack            B    .     .     .    131.00  48.52          
+ 6 J.C. Chupack           Scott Chupack            B   5/6   4/5    .    132.00  48.89  0.22(A) 
 
  7 Pete Cowles            Clay Laughary            C    .     .     .    130.00  48.15          
 
- 8 Dex Stuberg            Joel Fuhrman             B    .     .     .    125.50  46.48          
+ 8 Dex Stuberg            Joel Fuhrman             B    .     .     .    125.00  46.30          
 
  9 Nick Tipton            Galen Hesson             B    .     .     .    127.50  47.22          
 
-10 Muhunthan Sivapragasam Thomas Stever            B    5     4     .    132.00  48.89  0.28(B) 
+10 Muhunthan Sivapragasam Thomas Stever            B   5/6   4/5    .    132.00  48.89  0.22(A) 
 
 11 Mike Christensen       David Wright             B    1     1     .    160.00  59.26  1.20(A) 
 
@@ -201,15 +201,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
         460    0.00  10.00 1-Lewis-Janowski vs 11-Christensen-Wright
         130    4.50   5.50 3-Abernethy-Zaugg vs 3-Roselle-Anderson
-        400    2.00   8.00 4-Cline-Hankins vs 8-Stuberg-Fuhrman
+        400    2.50   7.50 4-Cline-Hankins vs 8-Stuberg-Fuhrman
         130    4.50   5.50 5-Herman-Herman vs 10-Sivapragasam-Stever
    50          8.00   2.00 6-Nathan-Sieg vs 12-Krah-Poore
    50          8.00   2.00 7-Rind-Jacobson vs 5-Eng-Ford
         100    6.00   4.00 8-Lakshmanan-Sieg vs 7-Cowles-Laughary
    50          8.00   2.00 9-Heller-Heller vs 9-Tipton-Hesson
   100         10.00   0.00 10-Wiitala-Jain vs 2-Delfs-Glass
-        400    2.00   8.00 11-Miller-Chalfan vs 4-Galer-Pesce
-        400    2.00   8.00 12-Ellis-Holdren vs 6-Chupack-Chupack
+        400    2.50   7.50 11-Miller-Chalfan vs 4-Galer-Pesce
+        430    1.00   9.00 12-Ellis-Holdren vs 6-Chupack-Chupack
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 9
