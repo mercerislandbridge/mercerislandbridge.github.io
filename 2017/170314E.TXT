@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>March 14, 2017     |CLUB NO.>158048    | 03/14/2017 22:28
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian Zaugg     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/1500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=8/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Hugh Hendrickson       Beau Hovda               B    3     1     .    105.50  57.97  0.80(A) 
+
+ 2 Marvin Gray            Thomas Brown             B    .     3     .     96.00  52.75  0.32(B) 
+
+ 3 Girish Nathan          Leah Sieg                C    5     2     1    103.50  56.87  0.45(B) 
+
+ 4 David Roselle          Sue Anderson             A    .     .     .     71.00  39.01          
+
+ 5 Chris Pesce            Mike Ring                A    4     .     .    104.00  57.14  0.56(A) 
+
+ 6 David Taylor           Craig Mills              A    .     .     .     86.00  47.25          
+
+ 7 John Krah              Daniel Poore             C    .     .     2     91.00  50.00  0.22(C) 
+
+ 8 Moises Saul            Irving Sonkin            C    .     .     .     81.50  44.78          
+
+ 9 David Hankins          Kevin Cline              A    2     .     .    111.00  60.99  1.12(A) 
+
+10 Brian Zaugg            Bogdan Vulcan            B    .     .     .     84.00  46.15          
+
+11 David Baer             Rose Bolson              A    6     .     .    102.50  56.32  0.27(A) 
+
+12 Joel Fuhrman           David Walker             A    .     .     .     93.50  51.37          
+
+13 Nick Tipton            Galen Hesson             A    .     .     .     82.00  45.05          
+
+14 William Campbell       Ann Romeo                B    .     .     .     69.50  38.19          
+
+15 Grant Davis            Steven Mark Lewis        C    .     .     .     63.00  34.62          
+
+16 Corneliu Galer         Dennis Heller            A    1     .     .    112.00  61.54  1.50(A) 
+
+
+                                          Totals                        1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.50   4.50 4-Roselle-Anderson vs 14-Campbell-Romeo
+        450    0.00   7.00 6-Taylor-Mills vs 5-Pesce-Ring
+        130    5.00   2.00 8-Saul-Sonkin vs 12-Fuhrman-Walker
+   50          6.50   0.50 9-Hankins-Cline vs 11-Baer-Bolson
+        420    2.50   4.50 10-Zaugg-Vulcan vs 2-Gray-Brown
+        420    2.50   4.50 13-Tipton-Hesson vs 7-Krah-Poore
+        420    2.50   4.50 15-Davis-Lewis vs 3-Nathan-Sieg
+   50          6.50   0.50 16-Galer-Heller vs 1-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          2.00   5.00 4-Roselle-Anderson vs 14-Campbell-Romeo
+ 1430          2.00   5.00 6-Taylor-Mills vs 5-Pesce-Ring
+ 1460          5.50   1.50 8-Saul-Sonkin vs 12-Fuhrman-Walker
+ 1430          2.00   5.00 9-Hankins-Cline vs 11-Baer-Bolson
+ 1460          5.50   1.50 10-Zaugg-Vulcan vs 2-Gray-Brown
+  710          0.00   7.00 13-Tipton-Hesson vs 7-Krah-Poore
+ 1460          5.50   1.50 15-Davis-Lewis vs 3-Nathan-Sieg
+ 1460          5.50   1.50 16-Galer-Heller vs 1-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          7.00   0.00 1-Hendrickson-Hovda vs 8-Saul-Sonkin
+         50    1.50   5.50 4-Roselle-Anderson vs 15-Davis-Lewis
+  430          5.50   1.50 5-Pesce-Ring vs 14-Campbell-Romeo
+  420          3.50   3.50 7-Krah-Poore vs 6-Taylor-Mills
+  420          3.50   3.50 9-Hankins-Cline vs 13-Tipton-Hesson
+        100    0.00   7.00 10-Zaugg-Vulcan vs 12-Fuhrman-Walker
+  430          5.50   1.50 11-Baer-Bolson vs 3-Nathan-Sieg
+         50    1.50   5.50 16-Galer-Heller vs 2-Gray-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.00   0.00 1-Hendrickson-Hovda vs 8-Saul-Sonkin
+        300    1.00   6.00 4-Roselle-Anderson vs 15-Davis-Lewis
+  100          6.00   1.00 5-Pesce-Ring vs 14-Campbell-Romeo
+        200    3.00   4.00 7-Krah-Poore vs 6-Taylor-Mills
+        100    5.00   2.00 9-Hankins-Cline vs 13-Tipton-Hesson
+        200    3.00   4.00 10-Zaugg-Vulcan vs 12-Fuhrman-Walker
+        400    0.00   7.00 11-Baer-Bolson vs 3-Nathan-Sieg
+        200    3.00   4.00 16-Galer-Heller vs 2-Gray-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   6.50 2-Gray-Brown vs 9-Hankins-Cline
+  170          6.00   1.00 5-Pesce-Ring vs 15-Davis-Lewis
+         80    3.00   4.00 6-Taylor-Mills vs 14-Campbell-Romeo
+  300          7.00   0.00 8-Saul-Sonkin vs 7-Krah-Poore
+        100    2.00   5.00 10-Zaugg-Vulcan vs 1-Hendrickson-Hovda
+  100          4.50   2.50 11-Baer-Bolson vs 13-Tipton-Hesson
+  100          4.50   2.50 12-Fuhrman-Walker vs 4-Roselle-Anderson
+        200    0.50   6.50 16-Galer-Heller vs 3-Nathan-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    1.00   6.00 2-Gray-Brown vs 9-Hankins-Cline
+        600    3.50   3.50 5-Pesce-Ring vs 15-Davis-Lewis
+  100          6.50   0.50 6-Taylor-Mills vs 14-Campbell-Romeo
+        600    3.50   3.50 8-Saul-Sonkin vs 7-Krah-Poore
+        630    1.00   6.00 10-Zaugg-Vulcan vs 1-Hendrickson-Hovda
+        180    5.00   2.00 11-Baer-Bolson vs 13-Tipton-Hesson
+        630    1.00   6.00 12-Fuhrman-Walker vs 4-Roselle-Anderson
+  100          6.50   0.50 16-Galer-Heller vs 3-Nathan-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          7.00   0.00 3-Nathan-Sieg vs 10-Zaugg-Vulcan
+        120    1.00   6.00 6-Taylor-Mills vs 15-Davis-Lewis
+        100    4.50   2.50 9-Hankins-Cline vs 8-Saul-Sonkin
+        110    2.50   4.50 11-Baer-Bolson vs 2-Gray-Brown
+        630    0.00   7.00 12-Fuhrman-Walker vs 1-Hendrickson-Hovda
+        100    4.50   2.50 13-Tipton-Hesson vs 5-Pesce-Ring
+        110    2.50   4.50 14-Campbell-Romeo vs 7-Krah-Poore
+  100          6.00   1.00 16-Galer-Heller vs 4-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          4.50   2.50 3-Nathan-Sieg vs 10-Zaugg-Vulcan
+  430          4.50   2.50 6-Taylor-Mills vs 15-Davis-Lewis
+  430          4.50   2.50 9-Hankins-Cline vs 8-Saul-Sonkin
+  430          4.50   2.50 11-Baer-Bolson vs 2-Gray-Brown
+  210          0.00   7.00 12-Fuhrman-Walker vs 1-Hendrickson-Hovda
+  430          4.50   2.50 13-Tipton-Hesson vs 5-Pesce-Ring
+  300          1.00   6.00 14-Campbell-Romeo vs 7-Krah-Poore
+  430          4.50   2.50 16-Galer-Heller vs 4-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    5.50   1.50 1-Hendrickson-Hovda vs 6-Taylor-Mills
+        680    1.50   5.50 4-Roselle-Anderson vs 11-Baer-Bolson
+        650    5.50   1.50 7-Krah-Poore vs 15-Davis-Lewis
+        650    5.50   1.50 10-Zaugg-Vulcan vs 9-Hankins-Cline
+        650    5.50   1.50 12-Fuhrman-Walker vs 3-Nathan-Sieg
+        680    1.50   5.50 13-Tipton-Hesson vs 2-Gray-Brown
+        680    1.50   5.50 14-Campbell-Romeo vs 8-Saul-Sonkin
+        680    1.50   5.50 16-Galer-Heller vs 5-Pesce-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.50   5.50 1-Hendrickson-Hovda vs 6-Taylor-Mills
+  200          0.00   7.00 4-Roselle-Anderson vs 11-Baer-Bolson
+  650          5.00   2.00 7-Krah-Poore vs 15-Davis-Lewis
+  620          1.50   5.50 10-Zaugg-Vulcan vs 9-Hankins-Cline
+  650          5.00   2.00 12-Fuhrman-Walker vs 3-Nathan-Sieg
+  650          5.00   2.00 13-Tipton-Hesson vs 2-Gray-Brown
+  650          5.00   2.00 14-Campbell-Romeo vs 8-Saul-Sonkin
+  650          5.00   2.00 16-Galer-Heller vs 5-Pesce-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   5.00 1-Hendrickson-Hovda vs 3-Nathan-Sieg
+         50    5.50   1.50 2-Gray-Brown vs 7-Krah-Poore
+        140    2.00   5.00 5-Pesce-Ring vs 12-Fuhrman-Walker
+   50          7.00   0.00 8-Saul-Sonkin vs 15-Davis-Lewis
+        140    2.00   5.00 11-Baer-Bolson vs 10-Zaugg-Vulcan
+         50    5.50   1.50 13-Tipton-Hesson vs 4-Roselle-Anderson
+        140    2.00   5.00 14-Campbell-Romeo vs 9-Hankins-Cline
+        140    2.00   5.00 16-Galer-Heller vs 6-Taylor-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   2.50 1-Hendrickson-Hovda vs 3-Nathan-Sieg
+        420    0.50   6.50 2-Gray-Brown vs 7-Krah-Poore
+   50          4.50   2.50 5-Pesce-Ring vs 12-Fuhrman-Walker
+        170    2.00   5.00 8-Saul-Sonkin vs 15-Davis-Lewis
+  620          7.00   0.00 11-Baer-Bolson vs 10-Zaugg-Vulcan
+        100    3.00   4.00 13-Tipton-Hesson vs 4-Roselle-Anderson
+        420    0.50   6.50 14-Campbell-Romeo vs 9-Hankins-Cline
+  100          6.00   1.00 16-Galer-Heller vs 6-Taylor-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   3.00 1-Hendrickson-Hovda vs 5-Pesce-Ring
+        120    0.00   7.00 2-Gray-Brown vs 4-Roselle-Anderson
+  100          2.50   4.50 3-Nathan-Sieg vs 8-Saul-Sonkin
+  100          2.50   4.50 6-Taylor-Mills vs 13-Tipton-Hesson
+  300          6.00   1.00 9-Hankins-Cline vs 15-Davis-Lewis
+         90    1.00   6.00 12-Fuhrman-Walker vs 11-Baer-Bolson
+  300          6.00   1.00 14-Campbell-Romeo vs 10-Zaugg-Vulcan
+  300          6.00   1.00 16-Galer-Heller vs 7-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.50   1.50 1-Hendrickson-Hovda vs 5-Pesce-Ring
+   50          1.50   5.50 2-Gray-Brown vs 4-Roselle-Anderson
+  450          4.00   3.00 3-Nathan-Sieg vs 8-Saul-Sonkin
+  690          7.00   0.00 6-Taylor-Mills vs 13-Tipton-Hesson
+  100          3.00   4.00 9-Hankins-Cline vs 15-Davis-Lewis
+  650          5.50   1.50 12-Fuhrman-Walker vs 11-Baer-Bolson
+        420    0.00   7.00 14-Campbell-Romeo vs 10-Zaugg-Vulcan
+   50          1.50   5.50 16-Galer-Heller vs 7-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.50   2.50 2-Gray-Brown vs 6-Taylor-Mills
+  680          4.50   2.50 3-Nathan-Sieg vs 5-Pesce-Ring
+        200    0.00   7.00 4-Roselle-Anderson vs 9-Hankins-Cline
+  650          2.50   4.50 7-Krah-Poore vs 1-Hendrickson-Hovda
+  710          6.50   0.50 10-Zaugg-Vulcan vs 15-Davis-Lewis
+  650          2.50   4.50 13-Tipton-Hesson vs 12-Fuhrman-Walker
+  200          1.00   6.00 14-Campbell-Romeo vs 11-Baer-Bolson
+  710          6.50   0.50 16-Galer-Heller vs 8-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    4.50   2.50 2-Gray-Brown vs 6-Taylor-Mills
+        120    4.50   2.50 3-Nathan-Sieg vs 5-Pesce-Ring
+        500    0.00   7.00 4-Roselle-Anderson vs 9-Hankins-Cline
+        150    1.50   5.50 7-Krah-Poore vs 1-Hendrickson-Hovda
+         90    7.00   0.00 10-Zaugg-Vulcan vs 15-Davis-Lewis
+        150    1.50   5.50 13-Tipton-Hesson vs 12-Fuhrman-Walker
+        120    4.50   2.50 14-Campbell-Romeo vs 11-Baer-Bolson
+        120    4.50   2.50 16-Galer-Heller vs 8-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   4.50 1-Hendrickson-Hovda vs 13-Tipton-Hesson
+  170          7.00   0.00 3-Nathan-Sieg vs 7-Krah-Poore
+        140    0.50   6.50 4-Roselle-Anderson vs 6-Taylor-Mills
+  100          6.00   1.00 5-Pesce-Ring vs 10-Zaugg-Vulcan
+   50          4.50   2.50 8-Saul-Sonkin vs 2-Gray-Brown
+   50          4.50   2.50 14-Campbell-Romeo vs 12-Fuhrman-Walker
+        140    0.50   6.50 15-Davis-Lewis vs 11-Baer-Bolson
+        100    2.50   4.50 16-Galer-Heller vs 9-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.50   3.50 1-Hendrickson-Hovda vs 13-Tipton-Hesson
+        420    3.50   3.50 3-Nathan-Sieg vs 7-Krah-Poore
+   50          6.00   1.00 4-Roselle-Anderson vs 6-Taylor-Mills
+  100          7.00   0.00 5-Pesce-Ring vs 10-Zaugg-Vulcan
+        500    1.00   6.00 8-Saul-Sonkin vs 2-Gray-Brown
+        420    3.50   3.50 14-Campbell-Romeo vs 12-Fuhrman-Walker
+        800    0.00   7.00 15-Davis-Lewis vs 11-Baer-Bolson
+        420    3.50   3.50 16-Galer-Heller vs 9-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          7.00   0.00 2-Gray-Brown vs 1-Hendrickson-Hovda
+  520          3.00   4.00 4-Roselle-Anderson vs 8-Saul-Sonkin
+  940          5.50   1.50 5-Pesce-Ring vs 7-Krah-Poore
+  420          0.50   6.50 6-Taylor-Mills vs 11-Baer-Bolson
+  460          2.00   5.00 9-Hankins-Cline vs 3-Nathan-Sieg
+  420          0.50   6.50 14-Campbell-Romeo vs 13-Tipton-Hesson
+  920          4.00   3.00 15-Davis-Lewis vs 12-Fuhrman-Walker
+  940          5.50   1.50 16-Galer-Heller vs 10-Zaugg-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   1.00 2-Gray-Brown vs 1-Hendrickson-Hovda
+  200          7.00   0.00 4-Roselle-Anderson vs 8-Saul-Sonkin
+        620    2.00   5.00 5-Pesce-Ring vs 7-Krah-Poore
+        140    5.00   2.00 6-Taylor-Mills vs 11-Baer-Bolson
+        620    2.00   5.00 9-Hankins-Cline vs 3-Nathan-Sieg
+        620    2.00   5.00 14-Campbell-Romeo vs 13-Tipton-Hesson
+        620    2.00   5.00 15-Davis-Lewis vs 12-Fuhrman-Walker
+        620    2.00   5.00 16-Galer-Heller vs 10-Zaugg-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   5.00 1-Hendrickson-Hovda vs 14-Campbell-Romeo
+   50          5.50   1.50 3-Nathan-Sieg vs 2-Gray-Brown
+   50          5.50   1.50 5-Pesce-Ring vs 9-Hankins-Cline
+   50          5.50   1.50 6-Taylor-Mills vs 8-Saul-Sonkin
+        110    2.00   5.00 7-Krah-Poore vs 12-Fuhrman-Walker
+        110    2.00   5.00 10-Zaugg-Vulcan vs 4-Roselle-Anderson
+        140    0.00   7.00 15-Davis-Lewis vs 13-Tipton-Hesson
+   50          5.50   1.50 16-Galer-Heller vs 11-Baer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    7.00   0.00 1-Hendrickson-Hovda vs 14-Campbell-Romeo
+        650    2.00   5.00 3-Nathan-Sieg vs 2-Gray-Brown
+        650    2.00   5.00 5-Pesce-Ring vs 9-Hankins-Cline
+        620    4.00   3.00 6-Taylor-Mills vs 8-Saul-Sonkin
+        660    0.00   7.00 7-Krah-Poore vs 12-Fuhrman-Walker
+        300    6.00   1.00 10-Zaugg-Vulcan vs 4-Roselle-Anderson
+        650    2.00   5.00 15-Davis-Lewis vs 13-Tipton-Hesson
+        600    5.00   2.00 16-Galer-Heller vs 11-Baer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.00   2.00 2-Gray-Brown vs 14-Campbell-Romeo
+        200    2.50   4.50 4-Roselle-Anderson vs 3-Nathan-Sieg
+        500    0.00   7.00 6-Taylor-Mills vs 10-Zaugg-Vulcan
+        100    5.00   2.00 7-Krah-Poore vs 9-Hankins-Cline
+        100    5.00   2.00 8-Saul-Sonkin vs 13-Tipton-Hesson
+        300    1.00   6.00 11-Baer-Bolson vs 5-Pesce-Ring
+        200    2.50   4.50 15-Davis-Lewis vs 1-Hendrickson-Hovda
+   90          7.00   0.00 16-Galer-Heller vs 12-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    5.00   2.00 2-Gray-Brown vs 14-Campbell-Romeo
+        490    0.00   7.00 4-Roselle-Anderson vs 3-Nathan-Sieg
+        420    5.00   2.00 6-Taylor-Mills vs 10-Zaugg-Vulcan
+        420    5.00   2.00 7-Krah-Poore vs 9-Hankins-Cline
+        420    5.00   2.00 8-Saul-Sonkin vs 13-Tipton-Hesson
+        420    5.00   2.00 11-Baer-Bolson vs 5-Pesce-Ring
+        450    1.50   5.50 15-Davis-Lewis vs 1-Hendrickson-Hovda
+        450    1.50   5.50 16-Galer-Heller vs 12-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   6.00 3-Nathan-Sieg vs 14-Campbell-Romeo
+  200          6.50   0.50 5-Pesce-Ring vs 4-Roselle-Anderson
+        650    1.00   6.00 7-Krah-Poore vs 11-Baer-Bolson
+        650    1.00   6.00 8-Saul-Sonkin vs 10-Zaugg-Vulcan
+  100          5.00   2.00 9-Hankins-Cline vs 1-Hendrickson-Hovda
+        200    4.00   3.00 12-Fuhrman-Walker vs 6-Taylor-Mills
+        620    3.00   4.00 15-Davis-Lewis vs 2-Gray-Brown
+  200          6.50   0.50 16-Galer-Heller vs 13-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   3.50 3-Nathan-Sieg vs 14-Campbell-Romeo
+        200    0.00   7.00 5-Pesce-Ring vs 4-Roselle-Anderson
+  200          7.00   0.00 7-Krah-Poore vs 11-Baer-Bolson
+        100    3.50   3.50 8-Saul-Sonkin vs 10-Zaugg-Vulcan
+        100    3.50   3.50 9-Hankins-Cline vs 1-Hendrickson-Hovda
+        100    3.50   3.50 12-Fuhrman-Walker vs 6-Taylor-Mills
+        120    1.00   6.00 15-Davis-Lewis vs 2-Gray-Brown
+  110          6.00   1.00 16-Galer-Heller vs 13-Tipton-Hesson
+----------------------------------------------------------------------
