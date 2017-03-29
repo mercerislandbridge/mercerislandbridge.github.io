@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>March 21, 2017     |CLUB NO.>158048    | 03/21/2017 22:30
+DATE>March 21, 2017     |CLUB NO.>158048    | 03/28/2017 18:25
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,25 +11,25 @@ PAIRS IN STRAT A=11/B=6/C=5                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 David Binney           David Walker             A    .     .     .    143.50  53.15          
+ 1 David Binney           David Walker             A   4/5    .     .    148.00  54.81  0.31(A) 
 
- 2 Jeremy Gulley          Shawn Abernethy          C    .     .     .    101.50  37.59          
+ 2 Jeremy Gulley          Shawn Abernethy          C    .     .     .    100.50  37.22          
 
- 3 Pete Cowles            Clay Laughary            C    .     .     .    110.50  40.93          
+ 3 Pete Cowles            Clay Laughary            C    .     .     .    110.00  40.74          
 
- 4 Brad Rind              Terry Jacobson           C    .     2     1    130.50  48.33  0.40(C) 
+ 4 Brad Rind              Terry Jacobson           C    .     2     1    130.00  48.15  0.40(C) 
 
- 5 David Baer             Rose Bolson              A    4     .     .    149.00  55.19  0.39(A) 
+ 5 David Baer             Rose Bolson              A   4/5    .     .    148.00  54.81  0.31(A) 
 
- 6 Steven Mark Lewis                               C    .     .     2    115.50  42.78  0.28(C) 
+ 6 Steven Mark Lewis                               C    .     .     2    115.00  42.59  0.28(C) 
 
  7 Stanford Christie      Eric Sieg                A    3     .     .    158.00  58.52  0.55(A) 
 
  8 Connie Heller          Dennis Heller            A    .     .     .    140.50  52.04          
 
- 9 Hugh Hendrickson       Ann Romeo                B    2     1     .    160.00  59.26  0.77(A) 
+ 9 Hugh Hendrickson       Ann Romeo                B    2     1     .    159.50  59.07  0.77(A) 
 
-10 Ray Miller             Chris Moore              A    1     .     .    164.50  60.93  1.10(A) 
+10 Ray Miller             Chris Moore              A    1     .     .    164.00  60.74  1.10(A) 
 
 11 Girish Nathan          Leah Sieg                C    .     .     .    111.50  41.30          
 
@@ -37,7 +37,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
                                           Totals                        1485.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>March 21, 2017     |CLUB NO.>158048    | 03/21/2017 22:30
+DATE>March 21, 2017     |CLUB NO.>158048    | 03/28/2017 18:25
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -47,27 +47,27 @@ PAIRS IN STRAT A=11/B=8/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Corneliu Galer         Ken Christiansen         A    3     .     .    159.50  59.07  0.55(A) 
+ 1 Corneliu Galer         Ken Christiansen         A    2     .     .    160.50  59.44  0.77(A) 
 
- 2 Chris Pesce            David Taylor             B    .     .     .    134.00  49.63          
+ 2 Chris Pesce            David Taylor             B    .     .     .    135.00  50.00          
 
  3 Kim Eng                Jeffrey Ford             A    .     .     .    124.00  45.93          
 
- 4 Moises Saul            Irving Sonkin            C    .     .     .    118.00  43.70          
+ 4 Moises Saul            Irving Sonkin            C    .     .     .    116.00  42.96          
 
- 5 Nick Tipton            Galen Hesson             B    2     2     .    161.50  59.81  0.77(A) 
+ 5 Nick Tipton            Galen Hesson             B    3     2     .    159.50  59.07  0.55(A) 
 
  6 Adam Ruprecht          Christopher Jarvis       C    4     3     1    156.50  57.96  0.39(A) 
 
- 7 David Hankins          Kevin Cline              B    1     1     .    163.50  60.56  1.10(A) 
+ 7 David Hankins          Kevin Cline              B    1     1     .    164.50  60.93  1.10(A) 
 
- 8 Paul Schwaighart       Sue Anderson             A    .     .     .    109.50  40.56          
+ 8 Paul Schwaighart       Sue Anderson             A    .     .     .    110.00  40.74          
 
  9 Tim White              Renae Gunstone-White     B    .     .     .    101.00  37.41          
 
 10 Mike Christensen       Mike Ring                B    .     .     .    130.00  48.15          
 
-11 John Krah              Daniel Poore             C    .     .     .    127.50  47.22          
+11 John Krah              Daniel Poore             C    .     .     .    128.00  47.41          
 
 
                                           Totals                        1485.00       
@@ -450,33 +450,33 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
- 1430         10.00   0.00 1-Binney-Walker vs 5-Tipton-Hesson
+        200    3.00   7.00 1-Binney-Walker vs 5-Tipton-Hesson
         650    0.00  10.00 2-Gulley-Abernethy vs 7-Hankins-Cline
-        100    6.50   3.50 3-Cowles-Laughary vs 9-White-Gunstone-White
-        170    5.00   5.00 4-Rind-Jacobson vs 11-Krah-Poore
-        200    2.50   7.50 5-Baer-Bolson vs 2-Pesce-Taylor
-        200    2.50   7.50 6-Lewis- vs 4-Saul-Sonkin
-  110          8.50   1.50 7-Christie-Sieg vs 6-Ruprecht-Jarvis
-  110          8.50   1.50 8-Heller-Heller vs 8-Schwaighart-Anderson
-        200    2.50   7.50 9-Hendrickson-Romeo vs 1-Galer-Christiansen
-        100    6.50   3.50 10-Miller-Moore vs 3-Eng-Ford
-        200    2.50   7.50 11-Nathan-Sieg vs 10-Christensen-Ring
+        100    7.50   2.50 3-Cowles-Laughary vs 9-White-Gunstone-White
+        170    6.00   4.00 4-Rind-Jacobson vs 11-Krah-Poore
+        200    3.00   7.00 5-Baer-Bolson vs 2-Pesce-Taylor
+        200    3.00   7.00 6-Lewis- vs 4-Saul-Sonkin
+  110          9.50   0.50 7-Christie-Sieg vs 6-Ruprecht-Jarvis
+  110          9.50   0.50 8-Heller-Heller vs 8-Schwaighart-Anderson
+        200    3.00   7.00 9-Hendrickson-Romeo vs 1-Galer-Christiansen
+        100    7.50   2.50 10-Miller-Moore vs 3-Eng-Ford
+        200    3.00   7.00 11-Nathan-Sieg vs 10-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 24
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  400          1.00   9.00 1-Binney-Walker vs 5-Tipton-Hesson
-  480          4.50   5.50 2-Gulley-Abernethy vs 7-Hankins-Cline
-  480          4.50   5.50 3-Cowles-Laughary vs 9-White-Gunstone-White
-  490          8.50   1.50 4-Rind-Jacobson vs 11-Krah-Poore
-  490          8.50   1.50 5-Baer-Bolson vs 2-Pesce-Taylor
-  480          4.50   5.50 6-Lewis- vs 4-Saul-Sonkin
-  480          4.50   5.50 7-Christie-Sieg vs 6-Ruprecht-Jarvis
-  480          4.50   5.50 8-Heller-Heller vs 8-Schwaighart-Anderson
-  480          4.50   5.50 9-Hendrickson-Romeo vs 1-Galer-Christiansen
-  920         10.00   0.00 10-Miller-Moore vs 3-Eng-Ford
+  980         10.00   0.00 1-Binney-Walker vs 5-Tipton-Hesson
+  480          3.50   6.50 2-Gulley-Abernethy vs 7-Hankins-Cline
+  480          3.50   6.50 3-Cowles-Laughary vs 9-White-Gunstone-White
+  490          7.50   2.50 4-Rind-Jacobson vs 11-Krah-Poore
+  490          7.50   2.50 5-Baer-Bolson vs 2-Pesce-Taylor
+  480          3.50   6.50 6-Lewis- vs 4-Saul-Sonkin
+  480          3.50   6.50 7-Christie-Sieg vs 6-Ruprecht-Jarvis
+  480          3.50   6.50 8-Heller-Heller vs 8-Schwaighart-Anderson
+  480          3.50   6.50 9-Hendrickson-Romeo vs 1-Galer-Christiansen
+  920          9.00   1.00 10-Miller-Moore vs 3-Eng-Ford
          50    0.00  10.00 11-Nathan-Sieg vs 10-Christensen-Ring
 ----------------------------------------------------------------------
 
@@ -484,17 +484,17 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  200          4.00   6.00 1-Binney-Walker vs 4-Saul-Sonkin
+  400          6.50   3.50 1-Binney-Walker vs 4-Saul-Sonkin
   180          2.00   8.00 2-Gulley-Abernethy vs 6-Ruprecht-Jarvis
-  400          7.00   3.00 3-Cowles-Laughary vs 8-Schwaighart-Anderson
-  200          4.00   6.00 4-Rind-Jacobson vs 10-Christensen-Ring
-  400          7.00   3.00 5-Baer-Bolson vs 1-Galer-Christiansen
+  400          6.50   3.50 3-Cowles-Laughary vs 8-Schwaighart-Anderson
+  200          3.50   6.50 4-Rind-Jacobson vs 10-Christensen-Ring
+  400          6.50   3.50 5-Baer-Bolson vs 1-Galer-Christiansen
         140    0.00  10.00 6-Lewis- vs 3-Eng-Ford
   430          9.50   0.50 7-Christie-Sieg vs 5-Tipton-Hesson
   150          1.00   9.00 8-Heller-Heller vs 7-Hankins-Cline
   430          9.50   0.50 9-Hendrickson-Romeo vs 9-White-Gunstone-White
-  400          7.00   3.00 10-Miller-Moore vs 2-Pesce-Taylor
-  200          4.00   6.00 11-Nathan-Sieg vs 11-Krah-Poore
+  400          6.50   3.50 10-Miller-Moore vs 2-Pesce-Taylor
+  200          3.50   6.50 11-Nathan-Sieg vs 11-Krah-Poore
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 26
