@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>April 11, 2017     |CLUB NO.>158048    | 04/11/2017 22:29
+---------------------,-- ------------------- -------------,---------------------
+DIR> Mike C & Bryan  |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Pesce            Corneliu Galer           B    .     .     .     86.06  45.53          
+
+ 2 Jeffrey Ford           Bryan Delfs              A    1     .     .    109.69  58.04  0.90(A) 
+
+ 3 Shawn Abernethy        Brian Zaugg              B   2/3   1/2    .    101.25  53.57  0.54(A) 
+
+ 4 Mark McWiggins         Valerie Lycette          C    .     .     .     97.88  51.79          
+
+ 5 David Baer             Rose Bolson              A    .     .     .     90.56  47.92          
+
+ 6 Connie Heller          Dennis Heller            A    4     .     .    100.69  53.28  0.32(A) 
+
+ 7 William Campbell       Tracey Guice             C    .     .     .     83.25  44.05          
+
+ 8 Ray Miller             Kim Eng                  A    .     .     .     79.88  42.26          
+
+ 9 Ann Romeo              Leah Sieg                B   2/3   1/2    .    101.25  53.57  0.54(A) 
+
+
+                                          Totals                         850.51       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>April 11, 2017     |CLUB NO.>158048    | 04/11/2017 22:29
+---------------------,-- ------------------- -------------,---------------------
+DIR> Mike C & Bryan  |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=6/C=1                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Christopher Jarvis     Ken Christiansen         A    3     .     .     99.00  52.38  0.45(A) 
+
+ 2 Stanford Christie      Eric Sieg                A    4     .     .     96.50  51.06  0.32(A) 
+
+ 3 David Roselle          Nelson Davis             B    .     .     .     75.00  39.68          
+
+ 4 Hugh Hendrickson       Girish Nathan            B    .     .     .     93.00  49.21          
+
+ 5 Nick Tipton            Galen Hesson             B    2     2     .    101.50  53.70  0.63(A) 
+
+ 6 Joel Fuhrman           David Walker             B    1     1     .    107.00  56.61  0.90(A) 
+
+
+
+ 8 Mike Ring              Mike Christensen         B    .     .     .     88.00  46.56          
+
+ 9 John Krah              Daniel Poore             C    .     .     .     96.00  50.79          
+
+
+                                          Totals                         756.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   5.00 1-Pesce-Galer vs 1-Jarvis-Christiansen
+        420    6.00   1.00 2-Ford-Delfs vs 3-Roselle-Davis
+        450    2.00   5.00 3-Abernethy-Zaugg vs 5-Tipton-Hesson
+        420    6.00   1.00 5-Baer-Bolson vs 9-Krah-Poore
+        450    2.00   5.00 6-Heller-Heller vs 2-Christie-Sieg
+        420    6.00   1.00 7-Campbell-Guice vs 4-Hendrickson-Nathan
+        450    2.00   5.00 8-Miller-Eng vs 6-Fuhrman-Walker
+        450    2.00   5.00 9-Romeo-Sieg vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.50   5.50 1-Pesce-Galer vs 1-Jarvis-Christiansen
+        500    1.50   5.50 2-Ford-Delfs vs 3-Roselle-Davis
+        200    3.50   3.50 3-Abernethy-Zaugg vs 5-Tipton-Hesson
+        150    5.00   2.00 5-Baer-Bolson vs 9-Krah-Poore
+        200    3.50   3.50 6-Heller-Heller vs 2-Christie-Sieg
+        100    6.50   0.50 7-Campbell-Guice vs 4-Hendrickson-Nathan
+        100    6.50   0.50 8-Miller-Eng vs 6-Fuhrman-Walker
+        800    0.00   7.00 9-Romeo-Sieg vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   4.00 1-Pesce-Galer vs 1-Jarvis-Christiansen
+        650    3.00   4.00 2-Ford-Delfs vs 3-Roselle-Davis
+        650    3.00   4.00 3-Abernethy-Zaugg vs 5-Tipton-Hesson
+        650    3.00   4.00 5-Baer-Bolson vs 9-Krah-Poore
+        650    3.00   4.00 6-Heller-Heller vs 2-Christie-Sieg
+        650    3.00   4.00 7-Campbell-Guice vs 4-Hendrickson-Nathan
+        650    3.00   4.00 8-Miller-Eng vs 6-Fuhrman-Walker
+        150    7.00   0.00 9-Romeo-Sieg vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   3.00 1-Pesce-Galer vs 9-Krah-Poore
+ 1100          7.00   0.00 2-Ford-Delfs vs 2-Christie-Sieg
+  620          4.00   3.00 3-Abernethy-Zaugg vs 4-Hendrickson-Nathan
+  110          1.00   6.00 4-McWiggins-Lycette vs 6-Fuhrman-Walker
+  650          6.00   1.00 5-Baer-Bolson vs 8-Ring-Christensen
+  170          2.00   5.00 6-Heller-Heller vs 1-Jarvis-Christiansen
+  620          4.00   3.00 7-Campbell-Guice vs 3-Roselle-Davis
+        200    0.00   7.00 8-Miller-Eng vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   2.00 1-Pesce-Galer vs 9-Krah-Poore
+  100          7.00   0.00 2-Ford-Delfs vs 2-Christie-Sieg
+   50          5.00   2.00 3-Abernethy-Zaugg vs 4-Hendrickson-Nathan
+   50          5.00   2.00 4-McWiggins-Lycette vs 6-Fuhrman-Walker
+        120    1.50   5.50 5-Baer-Bolson vs 8-Ring-Christensen
+        400    0.00   7.00 6-Heller-Heller vs 1-Jarvis-Christiansen
+        120    1.50   5.50 7-Campbell-Guice vs 3-Roselle-Davis
+        100    3.00   4.00 8-Miller-Eng vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          7.00   0.00 1-Pesce-Galer vs 9-Krah-Poore
+  420          3.50   3.50 2-Ford-Delfs vs 2-Christie-Sieg
+  420          3.50   3.50 3-Abernethy-Zaugg vs 4-Hendrickson-Nathan
+         50    0.00   7.00 4-McWiggins-Lycette vs 6-Fuhrman-Walker
+  420          3.50   3.50 5-Baer-Bolson vs 8-Ring-Christensen
+  420          3.50   3.50 6-Heller-Heller vs 1-Jarvis-Christiansen
+  420          3.50   3.50 7-Campbell-Guice vs 3-Roselle-Davis
+  420          3.50   3.50 8-Miller-Eng vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   5.00 1-Pesce-Galer vs 8-Ring-Christensen
+        100    2.00   5.00 2-Ford-Delfs vs 1-Jarvis-Christiansen
+ 1440          6.50   0.50 3-Abernethy-Zaugg vs 3-Roselle-Davis
+        100    2.00   5.00 4-McWiggins-Lycette vs 5-Tipton-Hesson
+ 1440          6.50   0.50 6-Heller-Heller vs 9-Krah-Poore
+  650          5.00   2.00 7-Campbell-Guice vs 2-Christie-Sieg
+        100    2.00   5.00 8-Miller-Eng vs 4-Hendrickson-Nathan
+        100    2.00   5.00 9-Romeo-Sieg vs 6-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   7.00 1-Pesce-Galer vs 8-Ring-Christensen
+        140    4.50   2.50 2-Ford-Delfs vs 1-Jarvis-Christiansen
+        140    4.50   2.50 3-Abernethy-Zaugg vs 3-Roselle-Davis
+        140    4.50   2.50 4-McWiggins-Lycette vs 5-Tipton-Hesson
+        140    4.50   2.50 6-Heller-Heller vs 9-Krah-Poore
+        150    1.00   6.00 7-Campbell-Guice vs 2-Christie-Sieg
+        140    4.50   2.50 8-Miller-Eng vs 4-Hendrickson-Nathan
+        140    4.50   2.50 9-Romeo-Sieg vs 6-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          6.00   1.00 1-Pesce-Galer vs 8-Ring-Christensen
+  150          6.00   1.00 2-Ford-Delfs vs 1-Jarvis-Christiansen
+         50    3.00   4.00 3-Abernethy-Zaugg vs 3-Roselle-Davis
+        100    1.00   6.00 4-McWiggins-Lycette vs 5-Tipton-Hesson
+   90          4.00   3.00 6-Heller-Heller vs 9-Krah-Poore
+        140    0.00   7.00 7-Campbell-Guice vs 2-Christie-Sieg
+         90    2.00   5.00 8-Miller-Eng vs 4-Hendrickson-Nathan
+  150          6.00   1.00 9-Romeo-Sieg vs 6-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   5.50 2-Ford-Delfs vs 9-Krah-Poore
+        650    1.50   5.50 3-Abernethy-Zaugg vs 2-Christie-Sieg
+        650    1.50   5.50 4-McWiggins-Lycette vs 4-Hendrickson-Nathan
+        300    4.00   3.00 5-Baer-Bolson vs 6-Fuhrman-Walker
+        650    1.50   5.50 6-Heller-Heller vs 8-Ring-Christensen
+        200    5.50   1.50 7-Campbell-Guice vs 1-Jarvis-Christiansen
+        200    5.50   1.50 8-Miller-Eng vs 3-Roselle-Davis
+        170    7.00   0.00 9-Romeo-Sieg vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.00   2.00 2-Ford-Delfs vs 9-Krah-Poore
+  420          5.00   2.00 3-Abernethy-Zaugg vs 2-Christie-Sieg
+  590          7.00   0.00 4-McWiggins-Lycette vs 4-Hendrickson-Nathan
+         50    1.50   5.50 5-Baer-Bolson vs 6-Fuhrman-Walker
+  420          5.00   2.00 6-Heller-Heller vs 8-Ring-Christensen
+         50    1.50   5.50 7-Campbell-Guice vs 1-Jarvis-Christiansen
+  300          3.00   4.00 8-Miller-Eng vs 3-Roselle-Davis
+        100    0.00   7.00 9-Romeo-Sieg vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   5.50 2-Ford-Delfs vs 9-Krah-Poore
+  850          7.00   0.00 3-Abernethy-Zaugg vs 2-Christie-Sieg
+  100          3.00   4.00 4-McWiggins-Lycette vs 4-Hendrickson-Nathan
+   50          1.50   5.50 5-Baer-Bolson vs 6-Fuhrman-Walker
+  650          5.00   2.00 6-Heller-Heller vs 8-Ring-Christensen
+        420    0.00   7.00 7-Campbell-Guice vs 1-Jarvis-Christiansen
+  650          5.00   2.00 8-Miller-Eng vs 3-Roselle-Davis
+  650          5.00   2.00 9-Romeo-Sieg vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   6.00 1-Pesce-Galer vs 6-Fuhrman-Walker
+  680          5.00   2.00 2-Ford-Delfs vs 8-Ring-Christensen
+  680          5.00   2.00 3-Abernethy-Zaugg vs 1-Jarvis-Christiansen
+        300    0.00   7.00 4-McWiggins-Lycette vs 3-Roselle-Davis
+  680          5.00   2.00 5-Baer-Bolson vs 5-Tipton-Hesson
+  230          2.00   5.00 7-Campbell-Guice vs 9-Krah-Poore
+  680          5.00   2.00 8-Miller-Eng vs 2-Christie-Sieg
+  680          5.00   2.00 9-Romeo-Sieg vs 4-Hendrickson-Nathan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   5.00 1-Pesce-Galer vs 6-Fuhrman-Walker
+        110    7.00   0.00 2-Ford-Delfs vs 8-Ring-Christensen
+        140    5.00   2.00 3-Abernethy-Zaugg vs 1-Jarvis-Christiansen
+        140    5.00   2.00 4-McWiggins-Lycette vs 3-Roselle-Davis
+        170    2.00   5.00 5-Baer-Bolson vs 5-Tipton-Hesson
+        140    5.00   2.00 7-Campbell-Guice vs 9-Krah-Poore
+        230    0.00   7.00 8-Miller-Eng vs 2-Christie-Sieg
+        170    2.00   5.00 9-Romeo-Sieg vs 4-Hendrickson-Nathan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.50   4.50 1-Pesce-Galer vs 6-Fuhrman-Walker
+  100          7.00   0.00 2-Ford-Delfs vs 8-Ring-Christensen
+        300    1.00   6.00 3-Abernethy-Zaugg vs 1-Jarvis-Christiansen
+   50          5.50   1.50 4-McWiggins-Lycette vs 3-Roselle-Davis
+        200    2.50   4.50 5-Baer-Bolson vs 5-Tipton-Hesson
+   50          5.50   1.50 7-Campbell-Guice vs 9-Krah-Poore
+        500    0.00   7.00 8-Miller-Eng vs 2-Christie-Sieg
+    PASS       4.00   3.00 9-Romeo-Sieg vs 4-Hendrickson-Nathan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   7.00 1-Pesce-Galer vs 5-Tipton-Hesson
+  100          1.50   5.50 3-Abernethy-Zaugg vs 9-Krah-Poore
+  470          6.00   1.00 4-McWiggins-Lycette vs 2-Christie-Sieg
+  150          5.00   2.00 5-Baer-Bolson vs 4-Hendrickson-Nathan
+  110          3.00   4.00 6-Heller-Heller vs 6-Fuhrman-Walker
+  100          1.50   5.50 7-Campbell-Guice vs 8-Ring-Christensen
+  140          4.00   3.00 8-Miller-Eng vs 1-Jarvis-Christiansen
+  510          7.00   0.00 9-Romeo-Sieg vs 3-Roselle-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          5.00   2.00 1-Pesce-Galer vs 5-Tipton-Hesson
+        150    0.00   7.00 3-Abernethy-Zaugg vs 9-Krah-Poore
+  120          5.00   2.00 4-McWiggins-Lycette vs 2-Christie-Sieg
+         50    1.00   6.00 5-Baer-Bolson vs 4-Hendrickson-Nathan
+   50          2.00   5.00 6-Heller-Heller vs 6-Fuhrman-Walker
+  110          3.00   4.00 7-Campbell-Guice vs 8-Ring-Christensen
+  120          5.00   2.00 8-Miller-Eng vs 1-Jarvis-Christiansen
+  490          7.00   0.00 9-Romeo-Sieg vs 3-Roselle-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          6.50   0.50 1-Pesce-Galer vs 5-Tipton-Hesson
+  650          3.00   4.00 3-Abernethy-Zaugg vs 9-Krah-Poore
+  620          0.00   7.00 4-McWiggins-Lycette vs 2-Christie-Sieg
+  650          3.00   4.00 5-Baer-Bolson vs 4-Hendrickson-Nathan
+  650          3.00   4.00 6-Heller-Heller vs 6-Fuhrman-Walker
+  650          3.00   4.00 7-Campbell-Guice vs 8-Ring-Christensen
+  650          3.00   4.00 8-Miller-Eng vs 1-Jarvis-Christiansen
+  680          6.50   0.50 9-Romeo-Sieg vs 3-Roselle-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   4.00 1-Pesce-Galer vs 4-Hendrickson-Nathan
+         50    3.00   4.00 2-Ford-Delfs vs 6-Fuhrman-Walker
+         50    3.00   4.00 3-Abernethy-Zaugg vs 8-Ring-Christensen
+  420          6.00   1.00 4-McWiggins-Lycette vs 1-Jarvis-Christiansen
+        100    0.00   7.00 5-Baer-Bolson vs 3-Roselle-Davis
+  450          7.00   0.00 6-Heller-Heller vs 5-Tipton-Hesson
+         50    3.00   4.00 8-Miller-Eng vs 9-Krah-Poore
+         50    3.00   4.00 9-Romeo-Sieg vs 2-Christie-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   6.00 1-Pesce-Galer vs 4-Hendrickson-Nathan
+  100          1.00   6.00 2-Ford-Delfs vs 6-Fuhrman-Walker
+  140          5.00   2.00 3-Abernethy-Zaugg vs 8-Ring-Christensen
+  130          3.50   3.50 4-McWiggins-Lycette vs 1-Jarvis-Christiansen
+  130          3.50   3.50 5-Baer-Bolson vs 3-Roselle-Davis
+  200          6.50   0.50 6-Heller-Heller vs 5-Tipton-Hesson
+  100          1.00   6.00 8-Miller-Eng vs 9-Krah-Poore
+  200          6.50   0.50 9-Romeo-Sieg vs 2-Christie-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.00   6.00 1-Pesce-Galer vs 4-Hendrickson-Nathan
+   50          5.50   1.50 2-Ford-Delfs vs 6-Fuhrman-Walker
+   50          5.50   1.50 3-Abernethy-Zaugg vs 8-Ring-Christensen
+   50          5.50   1.50 4-McWiggins-Lycette vs 1-Jarvis-Christiansen
+   50          5.50   1.50 5-Baer-Bolson vs 3-Roselle-Davis
+        110    3.00   4.00 6-Heller-Heller vs 5-Tipton-Hesson
+        460    0.00   7.00 8-Miller-Eng vs 9-Krah-Poore
+        150    2.00   5.00 9-Romeo-Sieg vs 2-Christie-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    5.00   2.00 1-Pesce-Galer vs 3-Roselle-Davis
+        630    1.00   6.00 2-Ford-Delfs vs 5-Tipton-Hesson
+        630    1.00   6.00 4-McWiggins-Lycette vs 9-Krah-Poore
+        630    1.00   6.00 5-Baer-Bolson vs 2-Christie-Sieg
+        600    5.00   2.00 6-Heller-Heller vs 4-Hendrickson-Nathan
+        600    5.00   2.00 7-Campbell-Guice vs 6-Fuhrman-Walker
+        600    5.00   2.00 8-Miller-Eng vs 8-Ring-Christensen
+        600    5.00   2.00 9-Romeo-Sieg vs 1-Jarvis-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          6.00   1.00 1-Pesce-Galer vs 3-Roselle-Davis
+        100    3.50   3.50 2-Ford-Delfs vs 5-Tipton-Hesson
+  140          7.00   0.00 4-McWiggins-Lycette vs 9-Krah-Poore
+        620    1.00   6.00 5-Baer-Bolson vs 2-Christie-Sieg
+  110          5.00   2.00 6-Heller-Heller vs 4-Hendrickson-Nathan
+        200    2.00   5.00 7-Campbell-Guice vs 6-Fuhrman-Walker
+        930    0.00   7.00 8-Miller-Eng vs 8-Ring-Christensen
+        100    3.50   3.50 9-Romeo-Sieg vs 1-Jarvis-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   4.50 1-Pesce-Galer vs 3-Roselle-Davis
+  100          4.00   3.00 2-Ford-Delfs vs 5-Tipton-Hesson
+  170          6.00   1.00 4-McWiggins-Lycette vs 9-Krah-Poore
+  630          7.00   0.00 5-Baer-Bolson vs 2-Christie-Sieg
+        150    1.00   6.00 6-Heller-Heller vs 4-Hendrickson-Nathan
+   50          2.50   4.50 7-Campbell-Guice vs 6-Fuhrman-Walker
+  140          5.00   2.00 8-Miller-Eng vs 8-Ring-Christensen
+        400    0.00   7.00 9-Romeo-Sieg vs 1-Jarvis-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   7.00 1-Pesce-Galer vs 2-Christie-Sieg
+         50    3.00   4.00 2-Ford-Delfs vs 4-Hendrickson-Nathan
+  140          6.00   1.00 3-Abernethy-Zaugg vs 6-Fuhrman-Walker
+  110          4.00   3.00 4-McWiggins-Lycette vs 8-Ring-Christensen
+  140          6.00   1.00 5-Baer-Bolson vs 1-Jarvis-Christiansen
+  140          6.00   1.00 6-Heller-Heller vs 3-Roselle-Davis
+        100    2.00   5.00 7-Campbell-Guice vs 5-Tipton-Hesson
+        140    1.00   6.00 9-Romeo-Sieg vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          4.00   3.00 1-Pesce-Galer vs 2-Christie-Sieg
+  690          4.00   3.00 2-Ford-Delfs vs 4-Hendrickson-Nathan
+        800    0.00   7.00 3-Abernethy-Zaugg vs 6-Fuhrman-Walker
+  690          4.00   3.00 4-McWiggins-Lycette vs 8-Ring-Christensen
+  690          4.00   3.00 5-Baer-Bolson vs 1-Jarvis-Christiansen
+  690          4.00   3.00 6-Heller-Heller vs 3-Roselle-Davis
+  690          4.00   3.00 7-Campbell-Guice vs 5-Tipton-Hesson
+  690          4.00   3.00 9-Romeo-Sieg vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          6.50   0.50 1-Pesce-Galer vs 2-Christie-Sieg
+  430          5.00   2.00 2-Ford-Delfs vs 4-Hendrickson-Nathan
+  500          6.50   0.50 3-Abernethy-Zaugg vs 6-Fuhrman-Walker
+  300          3.50   3.50 4-McWiggins-Lycette vs 8-Ring-Christensen
+   50          2.00   5.00 5-Baer-Bolson vs 1-Jarvis-Christiansen
+  300          3.50   3.50 6-Heller-Heller vs 3-Roselle-Davis
+         50    1.00   6.00 7-Campbell-Guice vs 5-Tipton-Hesson
+        500    0.00   7.00 9-Romeo-Sieg vs 9-Krah-Poore
+----------------------------------------------------------------------
