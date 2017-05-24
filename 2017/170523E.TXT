@@ -1,13 +1,13 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>May 23, 2017       |CLUB NO.>158048    | 05/23/2017 22:28
+DATE>May 23, 2017       |CLUB NO.>158048    | 05/23/2017 22:40
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Bryan & Shawn   |RATING>Grass Roots Fund             |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
-AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/2000 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=11/B=6/C=2                      ,---,-----------------,-------------------------,------,---------,
+PAIRS IN STRAT A=11/B=6/C=3                      ,---,-----------------,-------------------------,------,---------,
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
@@ -17,7 +17,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
  3 Bryan Delfs            Tom Carmichael           A   .     .     .   |   4     .     .    132.19  54.40  0.54(SA)
 
- 4 Brad Rind              John Uchida              C   .     3     .   |   .     .     .    114.75  47.22  0.86(OB)
+ 4 Brad Rind              John Uchida              C   .     3     1   |   .     .     1    114.75  47.22  1.23(OC)
 
  5 Peiyush Jain           Rajendra Gokhale         A   4     .     .   |   3     .     .    138.38  56.95  1.29(OA)
 
@@ -31,19 +31,19 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
 10 John Krah              Daniel Poore             C   .     .     .   |   .     .     .     96.19  39.58          
 
-11 Tim White              Leah Sieg                B   .     .     .   |   .     .     .     91.13  37.50          
+11 Tim White              Leah Sieg                C   .     .     .   |   .     .     .     91.13  37.50          
 
 
                                           Totals                                           1339.58       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>May 23, 2017       |CLUB NO.>158048    | 05/23/2017 22:28
+DATE>May 23, 2017       |CLUB NO.>158048    | 05/23/2017 22:40
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Bryan & Shawn   |RATING>Grass Roots Fund             |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
-AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/2000 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=11/B=4/C=2                      ,---,-----------------,-------------------------,------,---------,
+PAIRS IN STRAT A=11/B=4/C=3                      ,---,-----------------,-------------------------,------,---------,
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
@@ -63,7 +63,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
  8 Stanford Christie      Corneliu Galer           A   3     .     .   |   1     .     .    139.00  57.20  1.72(OA)
 
- 9 David Walker           Tom Ottley               B   .     4     .   |   .     1     .    113.50  46.71  0.71(SB)
+ 9 David Walker           Tom Ottley               C   .     4     2   |   .     1     1    113.50  46.71  0.92(OC)
 
 
 
