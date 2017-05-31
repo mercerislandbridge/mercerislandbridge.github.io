@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 30, 2017       |CLUB NO.>158048    | 05/30/2017 22:31
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=11/C=5                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Shawn Abernethy          B    4     1     .    103.00  56.59  0.88(B) 
+
+ 2 Irving Sonkin          Lorenzo Migliorini       C    .     4     2     89.71  49.29  0.31(B) 
+
+ 3 Ray Miller             Chris Pesce              A    3     .     .    104.29  57.30  0.80(A) 
+
+ 4 Nick Tipton            Galen Hesson             B    .     2     .     93.35  51.29  0.62(B) 
+
+ 5 Pete Cowles            Clay Laughary            C    .     .     .     78.72  43.25          
+
+ 6 Craig Mills            Lisa Brock               C    .     .     .     71.78  39.44          
+
+ 7 Valliappa Lakshmanan   Christopher Jarvis       B    .     .     .     65.72  36.11          
+
+ 8 Stanford Christie      Corneliu Galer           A    6     .     .     95.00  52.20  0.27(A) 
+
+ 9 John Krah              Daniel Poore             C    .     3     1     90.88  49.93  0.44(B) 
+
+10 Brad Rind              Terry Jacobson           C    .     .     .     79.21  43.52          
+
+11 David Taylor           Jeffrey Ford             A    2     .     .    112.21  61.65  1.12(A) 
+
+12 Mike Christensen       Becky Stevens            B    .     .     .     88.79  48.79          
+
+13 Eric Sieg              Jenni Carmichael         A    1     .     .    118.62  65.18  1.50(A) 
+
+14 David Roselle          Sue Anderson             B    .     .     .     75.28  41.36          
+
+15 Joel Fuhrman           Dex Stuberg              B    .     .     .     89.65  49.26          
+
+16 Mike Ring              Dave Setterholm          A    5     .     .     99.79  54.83  0.32(A) 
+
+
+                                          Totals                        1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          7.00   0.00 4-Tipton-Hesson vs 14-Roselle-Anderson
+        490    0.00   7.00 6-Mills-Brock vs 5-Cowles-Laughary
+        430    2.50   4.50 8-Christie-Galer vs 12-Christensen-Stevens
+        420    4.50   2.50 9-Krah-Poore vs 11-Taylor-Ford
+        430    2.50   4.50 10-Rind-Jacobson vs 2-Sonkin-Migliorini
+   50          6.00   1.00 13-Sieg-Carmichael vs 7-Lakshmanan-Jarvis
+        420    4.50   2.50 15-Fuhrman-Stuberg vs 3-Miller-Pesce
+        460    1.00   6.00 16-Ring-Setterholm vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   2.50 4-Tipton-Hesson vs 14-Roselle-Anderson
+        200    2.50   4.50 6-Mills-Brock vs 5-Cowles-Laughary
+        500    0.50   6.50 8-Christie-Galer vs 12-Christensen-Stevens
+        500    0.50   6.50 9-Krah-Poore vs 11-Taylor-Ford
+        100    4.50   2.50 10-Rind-Jacobson vs 2-Sonkin-Migliorini
+  930          7.00   0.00 13-Sieg-Carmichael vs 7-Lakshmanan-Jarvis
+        200    2.50   4.50 15-Fuhrman-Stuberg vs 3-Miller-Pesce
+  790          6.00   1.00 16-Ring-Setterholm vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.79   1.21 1-Zaugg-Abernethy vs 8-Christie-Galer
+        100    0.64   6.36 4-Tipton-Hesson vs 15-Fuhrman-Stuberg
+  450          5.79   1.21 5-Cowles-Laughary vs 14-Roselle-Anderson
+  450          5.79   1.21 7-Lakshmanan-Jarvis vs 6-Mills-Brock
+  AVE-  AVE+   2.44   4.56 9-Krah-Poore vs 13-Sieg-Carmichael
+  430          3.50   3.50 10-Rind-Jacobson vs 12-Christensen-Stevens
+        100    0.64   6.36 11-Taylor-Ford vs 3-Miller-Pesce
+  420          2.36   4.64 16-Ring-Setterholm vs 2-Sonkin-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    1.21   5.79 1-Zaugg-Abernethy vs 8-Christie-Galer
+  100          5.21   1.79 4-Tipton-Hesson vs 15-Fuhrman-Stuberg
+  200          6.93   0.07 5-Cowles-Laughary vs 14-Roselle-Anderson
+        120    2.93   4.07 7-Lakshmanan-Jarvis vs 6-Mills-Brock
+  AVE-  AVE+   2.44   4.56 9-Krah-Poore vs 13-Sieg-Carmichael
+  100          5.21   1.79 10-Rind-Jacobson vs 12-Christensen-Stevens
+       1100    0.07   6.93 11-Taylor-Ford vs 3-Miller-Pesce
+        120    2.93   4.07 16-Ring-Setterholm vs 2-Sonkin-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          5.50   1.50 2-Sonkin-Migliorini vs 9-Krah-Poore
+  650          0.50   6.50 5-Cowles-Laughary vs 15-Fuhrman-Stuberg
+ 1430          5.50   1.50 6-Mills-Brock vs 14-Roselle-Anderson
+  680          2.50   4.50 8-Christie-Galer vs 7-Lakshmanan-Jarvis
+  650          0.50   6.50 10-Rind-Jacobson vs 1-Zaugg-Abernethy
+  680          2.50   4.50 11-Taylor-Ford vs 13-Sieg-Carmichael
+ 1430          5.50   1.50 12-Christensen-Stevens vs 4-Tipton-Hesson
+ 1430          5.50   1.50 16-Ring-Setterholm vs 3-Miller-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   4.00 2-Sonkin-Migliorini vs 9-Krah-Poore
+        150    0.50   6.50 5-Cowles-Laughary vs 15-Fuhrman-Stuberg
+        100    3.00   4.00 6-Mills-Brock vs 14-Roselle-Anderson
+         50    5.50   1.50 8-Christie-Galer vs 7-Lakshmanan-Jarvis
+        150    0.50   6.50 10-Rind-Jacobson vs 1-Zaugg-Abernethy
+         50    5.50   1.50 11-Taylor-Ford vs 13-Sieg-Carmichael
+ 1400          7.00   0.00 12-Christensen-Stevens vs 4-Tipton-Hesson
+        100    3.00   4.00 16-Ring-Setterholm vs 3-Miller-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  230          1.50   5.50 3-Miller-Pesce vs 10-Rind-Jacobson
+  200          0.00   7.00 6-Mills-Brock vs 15-Fuhrman-Stuberg
+  650          5.00   2.00 9-Krah-Poore vs 8-Christie-Galer
+  230          1.50   5.50 11-Taylor-Ford vs 2-Sonkin-Migliorini
+  650          5.00   2.00 12-Christensen-Stevens vs 1-Zaugg-Abernethy
+  620          3.00   4.00 13-Sieg-Carmichael vs 5-Cowles-Laughary
+  680          7.00   0.00 14-Roselle-Anderson vs 7-Lakshmanan-Jarvis
+  650          5.00   2.00 16-Ring-Setterholm vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   7.00 3-Miller-Pesce vs 10-Rind-Jacobson
+   50          5.00   2.00 6-Mills-Brock vs 15-Fuhrman-Stuberg
+        140    2.00   5.00 9-Krah-Poore vs 8-Christie-Galer
+   50          5.00   2.00 11-Taylor-Ford vs 2-Sonkin-Migliorini
+        200    1.00   6.00 12-Christensen-Stevens vs 1-Zaugg-Abernethy
+   50          5.00   2.00 13-Sieg-Carmichael vs 5-Cowles-Laughary
+   50          5.00   2.00 14-Roselle-Anderson vs 7-Lakshmanan-Jarvis
+   50          5.00   2.00 16-Ring-Setterholm vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.50   3.50 1-Zaugg-Abernethy vs 6-Mills-Brock
+        500    0.00   7.00 4-Tipton-Hesson vs 11-Taylor-Ford
+  430          6.00   1.00 7-Lakshmanan-Jarvis vs 15-Fuhrman-Stuberg
+  400          3.50   3.50 10-Rind-Jacobson vs 9-Krah-Poore
+        300    1.00   6.00 12-Christensen-Stevens vs 3-Miller-Pesce
+  430          6.00   1.00 13-Sieg-Carmichael vs 2-Sonkin-Migliorini
+        100    2.00   5.00 14-Roselle-Anderson vs 8-Christie-Galer
+  430          6.00   1.00 16-Ring-Setterholm vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.00   0.00 1-Zaugg-Abernethy vs 6-Mills-Brock
+        100    1.00   6.00 4-Tipton-Hesson vs 11-Taylor-Ford
+  110          4.50   2.50 7-Lakshmanan-Jarvis vs 15-Fuhrman-Stuberg
+         90    2.00   5.00 10-Rind-Jacobson vs 9-Krah-Poore
+    PASS       3.00   4.00 12-Christensen-Stevens vs 3-Miller-Pesce
+  120          6.00   1.00 13-Sieg-Carmichael vs 2-Sonkin-Migliorini
+        110    0.00   7.00 14-Roselle-Anderson vs 8-Christie-Galer
+  110          4.50   2.50 16-Ring-Setterholm vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   7.00 1-Zaugg-Abernethy vs 3-Miller-Pesce
+        150    1.00   6.00 2-Sonkin-Migliorini vs 7-Lakshmanan-Jarvis
+        100    3.00   4.00 5-Cowles-Laughary vs 12-Christensen-Stevens
+  140          6.50   0.50 8-Christie-Galer vs 15-Fuhrman-Stuberg
+         50    4.00   3.00 11-Taylor-Ford vs 10-Rind-Jacobson
+        130    2.00   5.00 13-Sieg-Carmichael vs 4-Tipton-Hesson
+  100          5.00   2.00 14-Roselle-Anderson vs 9-Krah-Poore
+  140          6.50   0.50 16-Ring-Setterholm vs 6-Mills-Brock
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   6.00 1-Zaugg-Abernethy vs 3-Miller-Pesce
+        110    4.00   3.00 2-Sonkin-Migliorini vs 7-Lakshmanan-Jarvis
+        180    0.00   7.00 5-Cowles-Laughary vs 12-Christensen-Stevens
+        110    4.00   3.00 8-Christie-Galer vs 15-Fuhrman-Stuberg
+  110          7.00   0.00 11-Taylor-Ford vs 10-Rind-Jacobson
+         90    6.00   1.00 13-Sieg-Carmichael vs 4-Tipton-Hesson
+        120    2.00   5.00 14-Roselle-Anderson vs 9-Krah-Poore
+        110    4.00   3.00 16-Ring-Setterholm vs 6-Mills-Brock
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    4.00   3.00 1-Zaugg-Abernethy vs 5-Cowles-Laughary
+        620    1.50   5.50 2-Sonkin-Migliorini vs 4-Tipton-Hesson
+        200    3.00   4.00 3-Miller-Pesce vs 8-Christie-Galer
+       1370    0.00   7.00 6-Mills-Brock vs 13-Sieg-Carmichael
+        620    1.50   5.50 9-Krah-Poore vs 15-Fuhrman-Stuberg
+  200          5.00   2.00 12-Christensen-Stevens vs 11-Taylor-Ford
+  300          6.00   1.00 14-Roselle-Anderson vs 10-Rind-Jacobson
+  500          7.00   0.00 16-Ring-Setterholm vs 7-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    2.00   5.00 1-Zaugg-Abernethy vs 5-Cowles-Laughary
+        460    2.00   5.00 2-Sonkin-Migliorini vs 4-Tipton-Hesson
+        460    2.00   5.00 3-Miller-Pesce vs 8-Christie-Galer
+        460    2.00   5.00 6-Mills-Brock vs 13-Sieg-Carmichael
+        420    6.50   0.50 9-Krah-Poore vs 15-Fuhrman-Stuberg
+        460    2.00   5.00 12-Christensen-Stevens vs 11-Taylor-Ford
+        420    6.50   0.50 14-Roselle-Anderson vs 10-Rind-Jacobson
+        430    5.00   2.00 16-Ring-Setterholm vs 7-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   4.50 2-Sonkin-Migliorini vs 6-Mills-Brock
+  110          6.00   1.00 3-Miller-Pesce vs 5-Cowles-Laughary
+        100    2.50   4.50 4-Tipton-Hesson vs 9-Krah-Poore
+        140    0.50   6.50 7-Lakshmanan-Jarvis vs 1-Zaugg-Abernethy
+  100          4.50   2.50 10-Rind-Jacobson vs 15-Fuhrman-Stuberg
+  140          7.00   0.00 13-Sieg-Carmichael vs 12-Christensen-Stevens
+  100          4.50   2.50 14-Roselle-Anderson vs 11-Taylor-Ford
+        140    0.50   6.50 16-Ring-Setterholm vs 8-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.00   6.00 2-Sonkin-Migliorini vs 6-Mills-Brock
+  100          7.00   0.00 3-Miller-Pesce vs 5-Cowles-Laughary
+        140    4.00   3.00 4-Tipton-Hesson vs 9-Krah-Poore
+        300    1.00   6.00 7-Lakshmanan-Jarvis vs 1-Zaugg-Abernethy
+        100    6.00   1.00 10-Rind-Jacobson vs 15-Fuhrman-Stuberg
+        140    4.00   3.00 13-Sieg-Carmichael vs 12-Christensen-Stevens
+        300    1.00   6.00 14-Roselle-Anderson vs 11-Taylor-Ford
+        140    4.00   3.00 16-Ring-Setterholm vs 8-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   2.50 1-Zaugg-Abernethy vs 13-Sieg-Carmichael
+  140          4.50   2.50 3-Miller-Pesce vs 7-Lakshmanan-Jarvis
+  300          7.00   0.00 5-Cowles-Laughary vs 10-Rind-Jacobson
+         50    1.50   5.50 6-Mills-Brock vs 4-Tipton-Hesson
+         50    1.50   5.50 8-Christie-Galer vs 2-Sonkin-Migliorini
+  150          6.00   1.00 14-Roselle-Anderson vs 12-Christensen-Stevens
+        100    0.00   7.00 15-Fuhrman-Stuberg vs 11-Taylor-Ford
+  100          3.00   4.00 16-Ring-Setterholm vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          0.00   7.00 1-Zaugg-Abernethy vs 13-Sieg-Carmichael
+  690          7.00   0.00 3-Miller-Pesce vs 7-Lakshmanan-Jarvis
+  650          2.00   5.00 5-Cowles-Laughary vs 10-Rind-Jacobson
+  650          2.00   5.00 6-Mills-Brock vs 4-Tipton-Hesson
+  650          2.00   5.00 8-Christie-Galer vs 2-Sonkin-Migliorini
+  660          5.00   2.00 14-Roselle-Anderson vs 12-Christensen-Stevens
+  660          5.00   2.00 15-Fuhrman-Stuberg vs 11-Taylor-Ford
+  660          5.00   2.00 16-Ring-Setterholm vs 9-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.50   2.50 2-Sonkin-Migliorini vs 1-Zaugg-Abernethy
+       1430    1.00   6.00 4-Tipton-Hesson vs 8-Christie-Galer
+       1430    1.00   6.00 5-Cowles-Laughary vs 7-Lakshmanan-Jarvis
+        680    4.50   2.50 6-Mills-Brock vs 11-Taylor-Ford
+        680    4.50   2.50 9-Krah-Poore vs 3-Miller-Pesce
+       1430    1.00   6.00 14-Roselle-Anderson vs 13-Sieg-Carmichael
+        500    7.00   0.00 15-Fuhrman-Stuberg vs 12-Christensen-Stevens
+        680    4.50   2.50 16-Ring-Setterholm vs 10-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   5.50 2-Sonkin-Migliorini vs 1-Zaugg-Abernethy
+        620    5.50   1.50 4-Tipton-Hesson vs 8-Christie-Galer
+        650    1.50   5.50 5-Cowles-Laughary vs 7-Lakshmanan-Jarvis
+        650    1.50   5.50 6-Mills-Brock vs 11-Taylor-Ford
+        620    5.50   1.50 9-Krah-Poore vs 3-Miller-Pesce
+        620    5.50   1.50 14-Roselle-Anderson vs 13-Sieg-Carmichael
+        620    5.50   1.50 15-Fuhrman-Stuberg vs 12-Christensen-Stevens
+        650    1.50   5.50 16-Ring-Setterholm vs 10-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    7.00   0.00 1-Zaugg-Abernethy vs 14-Roselle-Anderson
+        450    1.50   5.50 3-Miller-Pesce vs 2-Sonkin-Migliorini
+        420    5.00   2.00 5-Cowles-Laughary vs 9-Krah-Poore
+        420    5.00   2.00 6-Mills-Brock vs 8-Christie-Galer
+        450    1.50   5.50 7-Lakshmanan-Jarvis vs 12-Christensen-Stevens
+        450    1.50   5.50 10-Rind-Jacobson vs 4-Tipton-Hesson
+        420    5.00   2.00 15-Fuhrman-Stuberg vs 13-Sieg-Carmichael
+        450    1.50   5.50 16-Ring-Setterholm vs 11-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.50   0.50 1-Zaugg-Abernethy vs 14-Roselle-Anderson
+        650    4.00   3.00 3-Miller-Pesce vs 2-Sonkin-Migliorini
+        650    4.00   3.00 5-Cowles-Laughary vs 9-Krah-Poore
+  100          6.50   0.50 6-Mills-Brock vs 8-Christie-Galer
+        650    4.00   3.00 7-Lakshmanan-Jarvis vs 12-Christensen-Stevens
+        680    2.00   5.00 10-Rind-Jacobson vs 4-Tipton-Hesson
+       1430    0.50   6.50 15-Fuhrman-Stuberg vs 13-Sieg-Carmichael
+       1430    0.50   6.50 16-Ring-Setterholm vs 11-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   6.00 2-Sonkin-Migliorini vs 14-Roselle-Anderson
+  200          5.00   2.00 4-Tipton-Hesson vs 3-Miller-Pesce
+  110          3.00   4.00 6-Mills-Brock vs 10-Rind-Jacobson
+  100          1.00   6.00 7-Lakshmanan-Jarvis vs 9-Krah-Poore
+  100          1.00   6.00 8-Christie-Galer vs 13-Sieg-Carmichael
+ 1190          7.00   0.00 11-Taylor-Ford vs 5-Cowles-Laughary
+  200          5.00   2.00 15-Fuhrman-Stuberg vs 1-Zaugg-Abernethy
+  200          5.00   2.00 16-Ring-Setterholm vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   1.00 2-Sonkin-Migliorini vs 14-Roselle-Anderson
+   50          6.00   1.00 4-Tipton-Hesson vs 3-Miller-Pesce
+        130    1.50   5.50 6-Mills-Brock vs 10-Rind-Jacobson
+        130    1.50   5.50 7-Lakshmanan-Jarvis vs 9-Krah-Poore
+        100    4.00   3.00 8-Christie-Galer vs 13-Sieg-Carmichael
+        130    1.50   5.50 11-Taylor-Ford vs 5-Cowles-Laughary
+   50          6.00   1.00 15-Fuhrman-Stuberg vs 1-Zaugg-Abernethy
+        130    1.50   5.50 16-Ring-Setterholm vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   2.00 3-Miller-Pesce vs 14-Roselle-Anderson
+        140    2.00   5.00 5-Cowles-Laughary vs 4-Tipton-Hesson
+        170    1.00   6.00 7-Lakshmanan-Jarvis vs 11-Taylor-Ford
+  100          5.00   2.00 8-Christie-Galer vs 10-Rind-Jacobson
+  100          5.00   2.00 9-Krah-Poore vs 1-Zaugg-Abernethy
+        100    3.00   4.00 12-Christensen-Stevens vs 6-Mills-Brock
+        500    0.00   7.00 15-Fuhrman-Stuberg vs 2-Sonkin-Migliorini
+  110          7.00   0.00 16-Ring-Setterholm vs 13-Sieg-Carmichael
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          7.00   0.00 3-Miller-Pesce vs 14-Roselle-Anderson
+  500          4.00   3.00 5-Cowles-Laughary vs 4-Tipton-Hesson
+  200          2.00   5.00 7-Lakshmanan-Jarvis vs 11-Taylor-Ford
+  620          5.50   1.50 8-Christie-Galer vs 10-Rind-Jacobson
+        130    0.00   7.00 9-Krah-Poore vs 1-Zaugg-Abernethy
+  620          5.50   1.50 12-Christensen-Stevens vs 6-Mills-Brock
+  200          2.00   5.00 15-Fuhrman-Stuberg vs 2-Sonkin-Migliorini
+  200          2.00   5.00 16-Ring-Setterholm vs 13-Sieg-Carmichael
+----------------------------------------------------------------------
