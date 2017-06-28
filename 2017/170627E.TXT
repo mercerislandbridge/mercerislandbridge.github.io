@@ -1,0 +1,505 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>June 27, 2017      |CLUB NO.>158048    | 06/27/2017 22:27
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=5/C=1                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Sue Anderson           Rose Bolson              A    .     .     .    124.31  51.16          
+
+ 2 Ann Romeo              Leah Sieg                B    .     2     .    116.44  47.92  0.28(B) 
+
+ 3 Dex Stuberg            Joel Fuhrman             B    .     .     .    108.56  44.67          
+
+ 4 David Binney           Hal Antonson             A    .     .     .    131.06  53.93          
+
+ 5 Jennifer Ballantyne    David Taylor             A    .     .     .     97.88  40.28          
+
+ 6 David Baer             Ken Christiansen         A    1     .     .    150.75  62.04  1.10(A) 
+
+ 7 Steven Mark Lewis      Grant Davis              C    .     .     .     90.56  37.27          
+
+ 8 Connie Heller          Dennis Heller            A    2     .     .    142.88  58.80  0.77(A) 
+
+ 9 Tim White              Renae Gunstone-White     B    .     .     .    105.50  43.42          
+
+10 Ray Miller             Becky Stevens            A    3     .     .    137.00  56.38  0.55(A) 
+
+11 Kevin Cline            David Hankins            B    4     1     .    131.63  54.17  0.40(B) 
+
+
+                                          Totals                        1336.57       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>June 27, 2017      |CLUB NO.>158048    | 06/27/2017 22:27
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=7/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Eric Sieg              Ken Scholes              A    1     .     .    155.50  63.99  1.10(A) 
+
+ 2 John Krah              Daniel Poore             C   2/3   1/2    .    132.00  54.32  0.66(A) 
+
+ 3 Nick Tipton            Galen Hesson             B    .     .     .     89.00  36.63          
+
+ 4 Valliappa Lakshmanan   Corneliu Galer           B    4     3     .    125.50  51.65  0.39(A) 
+
+ 5 Jeffrey Ford           Bryan Delfs              A    .     .     .    125.00  51.44          
+
+ 6 Dave Setterholm        Stanford Christie        A    .     .     .    113.50  46.71          
+
+ 7 Terry Jacobson         Brad Rind                C    .     .     .    120.00  49.38          
+
+ 8 Brian Zaugg            Mike Ring                B    .     .     .    112.00  46.09          
+
+ 9 Muhunthan Sivapragasam Adam Ruprecht            B    .     .     .    110.50  45.47          
+
+10 Mike Christensen       David Wright             B   2/3   1/2    .    132.00  54.32  0.66(A) 
+
+
+
+
+                                          Totals                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    3.50   5.50 1-Anderson-Bolson vs 1-Sieg-Scholes
+        100    6.50   2.50 2-Romeo-Sieg vs 5-Ford-Delfs
+        300    3.50   5.50 3-Stuberg-Fuhrman vs 7-Jacobson-Rind
+        450    1.00   8.00 4-Binney-Antonson vs 9-Sivapragasam-Ruprecht
+        300    3.50   5.50 6-Baer-Christiansen vs 2-Krah-Poore
+        300    3.50   5.50 7-Lewis-Davis vs 4-Lakshmanan-Galer
+        100    6.50   2.50 8-Heller-Heller vs 6-Setterholm-Christie
+        510    0.00   9.00 9-White-Gunstone-White vs 8-Zaugg-Ring
+  500          9.00   0.00 10-Miller-Stevens vs 10-Christensen-Wright
+         50    8.00   1.00 11-Cline-Hankins vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.00   4.00 1-Anderson-Bolson vs 1-Sieg-Scholes
+  650          5.00   4.00 2-Romeo-Sieg vs 5-Ford-Delfs
+  650          5.00   4.00 3-Stuberg-Fuhrman vs 7-Jacobson-Rind
+  650          5.00   4.00 4-Binney-Antonson vs 9-Sivapragasam-Ruprecht
+  650          5.00   4.00 6-Baer-Christiansen vs 2-Krah-Poore
+  650          5.00   4.00 7-Lewis-Davis vs 4-Lakshmanan-Galer
+  650          5.00   4.00 8-Heller-Heller vs 6-Setterholm-Christie
+  140          0.00   9.00 9-White-Gunstone-White vs 8-Zaugg-Ring
+  650          5.00   4.00 10-Miller-Stevens vs 10-Christensen-Wright
+  650          5.00   4.00 11-Cline-Hankins vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          6.50   2.50 1-Anderson-Bolson vs 1-Sieg-Scholes
+  450          6.50   2.50 2-Romeo-Sieg vs 5-Ford-Delfs
+         50    1.00   8.00 3-Stuberg-Fuhrman vs 7-Jacobson-Rind
+  450          6.50   2.50 4-Binney-Antonson vs 9-Sivapragasam-Ruprecht
+         50    1.00   8.00 6-Baer-Christiansen vs 2-Krah-Poore
+  110          3.00   6.00 7-Lewis-Davis vs 4-Lakshmanan-Galer
+  420          4.00   5.00 8-Heller-Heller vs 6-Setterholm-Christie
+  450          6.50   2.50 9-White-Gunstone-White vs 8-Zaugg-Ring
+         50    1.00   8.00 10-Miller-Stevens vs 10-Christensen-Wright
+  480          9.00   0.00 11-Cline-Hankins vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    4.50   4.50 2-Romeo-Sieg vs 2-Krah-Poore
+         90    4.50   4.50 3-Stuberg-Fuhrman vs 6-Setterholm-Christie
+         90    4.50   4.50 4-Binney-Antonson vs 8-Zaugg-Ring
+         90    4.50   4.50 5-Ballantyne-Taylor vs 10-Christensen-Wright
+         90    4.50   4.50 6-Baer-Christiansen vs 1-Sieg-Scholes
+         90    4.50   4.50 7-Lewis-Davis vs 3-Tipton-Hesson
+         90    4.50   4.50 8-Heller-Heller vs 5-Ford-Delfs
+        120    0.00   9.00 9-White-Gunstone-White vs 7-Jacobson-Rind
+         90    4.50   4.50 10-Miller-Stevens vs 9-Sivapragasam-Ruprecht
+  100          9.00   0.00 11-Cline-Hankins vs 4-Lakshmanan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          7.00   2.00 2-Romeo-Sieg vs 2-Krah-Poore
+   50          4.50   4.50 3-Stuberg-Fuhrman vs 6-Setterholm-Christie
+        110    2.00   7.00 4-Binney-Antonson vs 8-Zaugg-Ring
+        140    0.00   9.00 5-Ballantyne-Taylor vs 10-Christensen-Wright
+        110    2.00   7.00 6-Baer-Christiansen vs 1-Sieg-Scholes
+  140          6.00   3.00 7-Lewis-Davis vs 3-Tipton-Hesson
+        110    2.00   7.00 8-Heller-Heller vs 5-Ford-Delfs
+  200          8.00   1.00 9-White-Gunstone-White vs 7-Jacobson-Rind
+  300          9.00   0.00 10-Miller-Stevens vs 9-Sivapragasam-Ruprecht
+   50          4.50   4.50 11-Cline-Hankins vs 4-Lakshmanan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    6.50   2.50 2-Romeo-Sieg vs 2-Krah-Poore
+        300    5.00   4.00 3-Stuberg-Fuhrman vs 6-Setterholm-Christie
+        200    6.50   2.50 4-Binney-Antonson vs 8-Zaugg-Ring
+        500    3.00   6.00 5-Ballantyne-Taylor vs 10-Christensen-Wright
+        650    0.50   8.50 6-Baer-Christiansen vs 1-Sieg-Scholes
+        650    0.50   8.50 7-Lewis-Davis vs 3-Tipton-Hesson
+        500    3.00   6.00 8-Heller-Heller vs 5-Ford-Delfs
+        100    9.00   0.00 9-White-Gunstone-White vs 7-Jacobson-Rind
+        150    8.00   1.00 10-Miller-Stevens vs 9-Sivapragasam-Ruprecht
+        500    3.00   6.00 11-Cline-Hankins vs 4-Lakshmanan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          8.50   0.50 1-Anderson-Bolson vs 10-Christensen-Wright
+        800    0.00   9.00 2-Romeo-Sieg vs 1-Sieg-Scholes
+        630    1.00   8.00 3-Stuberg-Fuhrman vs 3-Tipton-Hesson
+        200    3.50   5.50 4-Binney-Antonson vs 7-Jacobson-Rind
+        600    2.00   7.00 5-Ballantyne-Taylor vs 9-Sivapragasam-Ruprecht
+  300          8.50   0.50 7-Lewis-Davis vs 2-Krah-Poore
+        200    3.50   5.50 8-Heller-Heller vs 4-Lakshmanan-Galer
+  200          6.50   2.50 9-White-Gunstone-White vs 6-Setterholm-Christie
+  100          5.00   4.00 10-Miller-Stevens vs 8-Zaugg-Ring
+  200          6.50   2.50 11-Cline-Hankins vs 5-Ford-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        990    2.50   6.50 1-Anderson-Bolson vs 10-Christensen-Wright
+        990    2.50   6.50 2-Romeo-Sieg vs 1-Sieg-Scholes
+        490    7.00   2.00 3-Stuberg-Fuhrman vs 3-Tipton-Hesson
+        460    9.00   0.00 4-Binney-Antonson vs 7-Jacobson-Rind
+        520    5.00   4.00 5-Ballantyne-Taylor vs 9-Sivapragasam-Ruprecht
+       1020    0.00   9.00 7-Lewis-Davis vs 2-Krah-Poore
+        490    7.00   2.00 8-Heller-Heller vs 4-Lakshmanan-Galer
+        490    7.00   2.00 9-White-Gunstone-White vs 6-Setterholm-Christie
+        990    2.50   6.50 10-Miller-Stevens vs 8-Zaugg-Ring
+        990    2.50   6.50 11-Cline-Hankins vs 5-Ford-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   4.00 1-Anderson-Bolson vs 10-Christensen-Wright
+         50    0.50   8.50 2-Romeo-Sieg vs 1-Sieg-Scholes
+  590          9.00   0.00 3-Stuberg-Fuhrman vs 3-Tipton-Hesson
+  170          2.50   6.50 4-Binney-Antonson vs 7-Jacobson-Rind
+  170          2.50   6.50 5-Ballantyne-Taylor vs 9-Sivapragasam-Ruprecht
+  450          8.00   1.00 7-Lewis-Davis vs 2-Krah-Poore
+  200          5.00   4.00 8-Heller-Heller vs 4-Lakshmanan-Galer
+  230          7.00   2.00 9-White-Gunstone-White vs 6-Setterholm-Christie
+         50    0.50   8.50 10-Miller-Stevens vs 8-Zaugg-Ring
+  200          5.00   4.00 11-Cline-Hankins vs 5-Ford-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          9.00   0.00 1-Anderson-Bolson vs 9-Sivapragasam-Ruprecht
+        120    2.00   7.00 3-Stuberg-Fuhrman vs 2-Krah-Poore
+  300          5.50   3.50 4-Binney-Antonson vs 4-Lakshmanan-Galer
+  300          5.50   3.50 5-Ballantyne-Taylor vs 8-Zaugg-Ring
+        120    2.00   7.00 6-Baer-Christiansen vs 10-Christensen-Wright
+        120    2.00   7.00 7-Lewis-Davis vs 1-Sieg-Scholes
+  400          8.00   1.00 8-Heller-Heller vs 3-Tipton-Hesson
+  300          5.50   3.50 9-White-Gunstone-White vs 5-Ford-Delfs
+  300          5.50   3.50 10-Miller-Stevens vs 7-Jacobson-Rind
+        140    0.00   9.00 11-Cline-Hankins vs 6-Setterholm-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          9.00   0.00 1-Anderson-Bolson vs 9-Sivapragasam-Ruprecht
+        100    3.50   5.50 3-Stuberg-Fuhrman vs 2-Krah-Poore
+        420    0.00   9.00 4-Binney-Antonson vs 4-Lakshmanan-Galer
+         50    5.50   3.50 5-Ballantyne-Taylor vs 8-Zaugg-Ring
+  100          8.00   1.00 6-Baer-Christiansen vs 10-Christensen-Wright
+        300    1.00   8.00 7-Lewis-Davis vs 1-Sieg-Scholes
+        100    3.50   5.50 8-Heller-Heller vs 3-Tipton-Hesson
+        170    2.00   7.00 9-White-Gunstone-White vs 5-Ford-Delfs
+         50    5.50   3.50 10-Miller-Stevens vs 7-Jacobson-Rind
+   50          7.00   2.00 11-Cline-Hankins vs 6-Setterholm-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   7.50 1-Anderson-Bolson vs 9-Sivapragasam-Ruprecht
+         90    6.50   2.50 3-Stuberg-Fuhrman vs 2-Krah-Poore
+        120    3.50   5.50 4-Binney-Antonson vs 4-Lakshmanan-Galer
+         90    6.50   2.50 5-Ballantyne-Taylor vs 8-Zaugg-Ring
+        100    5.00   4.00 6-Baer-Christiansen vs 10-Christensen-Wright
+        200    1.50   7.50 7-Lewis-Davis vs 1-Sieg-Scholes
+  110          8.50   0.50 8-Heller-Heller vs 3-Tipton-Hesson
+  110          8.50   0.50 9-White-Gunstone-White vs 5-Ford-Delfs
+        380    0.00   9.00 10-Miller-Stevens vs 7-Jacobson-Rind
+        120    3.50   5.50 11-Cline-Hankins vs 6-Setterholm-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.50   5.50 1-Anderson-Bolson vs 8-Zaugg-Ring
+  620          3.50   5.50 2-Romeo-Sieg vs 10-Christensen-Wright
+  620          3.50   5.50 3-Stuberg-Fuhrman vs 1-Sieg-Scholes
+  630          7.50   1.50 4-Binney-Antonson vs 3-Tipton-Hesson
+  620          3.50   5.50 5-Ballantyne-Taylor vs 5-Ford-Delfs
+  630          7.50   1.50 6-Baer-Christiansen vs 9-Sivapragasam-Ruprecht
+        100    0.00   9.00 8-Heller-Heller vs 2-Krah-Poore
+  200          1.00   8.00 9-White-Gunstone-White vs 4-Lakshmanan-Galer
+  630          7.50   1.50 10-Miller-Stevens vs 6-Setterholm-Christie
+  630          7.50   1.50 11-Cline-Hankins vs 7-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   3.00 1-Anderson-Bolson vs 8-Zaugg-Ring
+   50          4.00   5.00 2-Romeo-Sieg vs 10-Christensen-Wright
+        110    1.00   8.00 3-Stuberg-Fuhrman vs 1-Sieg-Scholes
+  180          8.50   0.50 4-Binney-Antonson vs 3-Tipton-Hesson
+   50          4.00   5.00 5-Ballantyne-Taylor vs 5-Ford-Delfs
+  180          8.50   0.50 6-Baer-Christiansen vs 9-Sivapragasam-Ruprecht
+   50          4.00   5.00 8-Heller-Heller vs 2-Krah-Poore
+        150    0.00   9.00 9-White-Gunstone-White vs 4-Lakshmanan-Galer
+  120          7.00   2.00 10-Miller-Stevens vs 6-Setterholm-Christie
+         50    2.00   7.00 11-Cline-Hankins vs 7-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          8.50   0.50 1-Anderson-Bolson vs 8-Zaugg-Ring
+        480    0.00   9.00 2-Romeo-Sieg vs 10-Christensen-Wright
+        450    3.50   5.50 3-Stuberg-Fuhrman vs 1-Sieg-Scholes
+        420    7.00   2.00 4-Binney-Antonson vs 3-Tipton-Hesson
+        450    3.50   5.50 5-Ballantyne-Taylor vs 5-Ford-Delfs
+   50          8.50   0.50 6-Baer-Christiansen vs 9-Sivapragasam-Ruprecht
+        450    3.50   5.50 8-Heller-Heller vs 2-Krah-Poore
+        450    3.50   5.50 9-White-Gunstone-White vs 4-Lakshmanan-Galer
+        450    3.50   5.50 10-Miller-Stevens vs 6-Setterholm-Christie
+        450    3.50   5.50 11-Cline-Hankins vs 7-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          5.50   3.50 1-Anderson-Bolson vs 7-Jacobson-Rind
+  480          2.00   7.00 2-Romeo-Sieg vs 9-Sivapragasam-Ruprecht
+ 1010          8.50   0.50 4-Binney-Antonson vs 2-Krah-Poore
+  480          2.00   7.00 5-Ballantyne-Taylor vs 4-Lakshmanan-Galer
+  480          2.00   7.00 6-Baer-Christiansen vs 6-Setterholm-Christie
+  510          5.50   3.50 7-Lewis-Davis vs 10-Christensen-Wright
+ 1010          8.50   0.50 8-Heller-Heller vs 1-Sieg-Scholes
+        950    0.00   9.00 9-White-Gunstone-White vs 3-Tipton-Hesson
+  510          5.50   3.50 10-Miller-Stevens vs 5-Ford-Delfs
+  510          5.50   3.50 11-Cline-Hankins vs 8-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.50   5.50 1-Anderson-Bolson vs 7-Jacobson-Rind
+        500    0.00   9.00 2-Romeo-Sieg vs 9-Sivapragasam-Ruprecht
+   50          6.50   2.50 4-Binney-Antonson vs 2-Krah-Poore
+        430    1.00   8.00 5-Ballantyne-Taylor vs 4-Lakshmanan-Galer
+   50          6.50   2.50 6-Baer-Christiansen vs 6-Setterholm-Christie
+        130    2.00   7.00 7-Lewis-Davis vs 10-Christensen-Wright
+  100          9.00   0.00 8-Heller-Heller vs 1-Sieg-Scholes
+        110    3.50   5.50 9-White-Gunstone-White vs 3-Tipton-Hesson
+   50          6.50   2.50 10-Miller-Stevens vs 5-Ford-Delfs
+   50          6.50   2.50 11-Cline-Hankins vs 8-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   5.50 1-Anderson-Bolson vs 7-Jacobson-Rind
+  150          5.00   4.00 2-Romeo-Sieg vs 9-Sivapragasam-Ruprecht
+        100    1.00   8.00 4-Binney-Antonson vs 2-Krah-Poore
+  500          6.50   2.50 5-Ballantyne-Taylor vs 4-Lakshmanan-Galer
+  600          8.00   1.00 6-Baer-Christiansen vs 6-Setterholm-Christie
+        100    1.00   8.00 7-Lewis-Davis vs 10-Christensen-Wright
+   50          3.50   5.50 8-Heller-Heller vs 1-Sieg-Scholes
+        100    1.00   8.00 9-White-Gunstone-White vs 3-Tipton-Hesson
+  620          9.00   0.00 10-Miller-Stevens vs 5-Ford-Delfs
+  500          6.50   2.50 11-Cline-Hankins vs 8-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   5.00 1-Anderson-Bolson vs 6-Setterholm-Christie
+  400          9.00   0.00 2-Romeo-Sieg vs 8-Zaugg-Ring
+         50    4.00   5.00 3-Stuberg-Fuhrman vs 10-Christensen-Wright
+         50    4.00   5.00 4-Binney-Antonson vs 1-Sieg-Scholes
+         50    4.00   5.00 5-Ballantyne-Taylor vs 3-Tipton-Hesson
+         50    4.00   5.00 6-Baer-Christiansen vs 5-Ford-Delfs
+  120          8.00   1.00 7-Lewis-Davis vs 7-Jacobson-Rind
+         50    4.00   5.00 9-White-Gunstone-White vs 2-Krah-Poore
+         50    4.00   5.00 10-Miller-Stevens vs 4-Lakshmanan-Galer
+        100    0.00   9.00 11-Cline-Hankins vs 9-Sivapragasam-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.50   8.50 1-Anderson-Bolson vs 6-Setterholm-Christie
+  650          9.00   0.00 2-Romeo-Sieg vs 8-Zaugg-Ring
+  100          0.50   8.50 3-Stuberg-Fuhrman vs 10-Christensen-Wright
+  170          3.00   6.00 4-Binney-Antonson vs 1-Sieg-Scholes
+  400          7.00   2.00 5-Ballantyne-Taylor vs 3-Tipton-Hesson
+  620          8.00   1.00 6-Baer-Christiansen vs 5-Ford-Delfs
+  170          3.00   6.00 7-Lewis-Davis vs 7-Jacobson-Rind
+  200          5.50   3.50 9-White-Gunstone-White vs 2-Krah-Poore
+  200          5.50   3.50 10-Miller-Stevens vs 4-Lakshmanan-Galer
+  170          3.00   6.00 11-Cline-Hankins vs 9-Sivapragasam-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.50   6.50 1-Anderson-Bolson vs 6-Setterholm-Christie
+        140    7.00   2.00 2-Romeo-Sieg vs 8-Zaugg-Ring
+        100    8.00   1.00 3-Stuberg-Fuhrman vs 10-Christensen-Wright
+        200    2.50   6.50 4-Binney-Antonson vs 1-Sieg-Scholes
+        200    2.50   6.50 5-Ballantyne-Taylor vs 3-Tipton-Hesson
+        170    5.50   3.50 6-Baer-Christiansen vs 5-Ford-Delfs
+        300    0.00   9.00 7-Lewis-Davis vs 7-Jacobson-Rind
+        170    5.50   3.50 9-White-Gunstone-White vs 2-Krah-Poore
+        200    2.50   6.50 10-Miller-Stevens vs 4-Lakshmanan-Galer
+   50          9.00   0.00 11-Cline-Hankins vs 9-Sivapragasam-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   8.00 1-Anderson-Bolson vs 5-Ford-Delfs
+        150    1.00   8.00 2-Romeo-Sieg vs 7-Jacobson-Rind
+  110          6.00   3.00 3-Stuberg-Fuhrman vs 9-Sivapragasam-Ruprecht
+        110    3.50   5.50 5-Ballantyne-Taylor vs 2-Krah-Poore
+  500          9.00   0.00 6-Baer-Christiansen vs 4-Lakshmanan-Galer
+        110    3.50   5.50 7-Lewis-Davis vs 6-Setterholm-Christie
+  130          7.00   2.00 8-Heller-Heller vs 8-Zaugg-Ring
+        150    1.00   8.00 9-White-Gunstone-White vs 1-Sieg-Scholes
+  200          8.00   1.00 10-Miller-Stevens vs 3-Tipton-Hesson
+        100    5.00   4.00 11-Cline-Hankins vs 10-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    6.00   3.00 1-Anderson-Bolson vs 5-Ford-Delfs
+        150    6.00   3.00 2-Romeo-Sieg vs 7-Jacobson-Rind
+        600    1.50   7.50 3-Stuberg-Fuhrman vs 9-Sivapragasam-Ruprecht
+        630    0.00   9.00 5-Ballantyne-Taylor vs 2-Krah-Poore
+        150    6.00   3.00 6-Baer-Christiansen vs 4-Lakshmanan-Galer
+        120    9.00   0.00 7-Lewis-Davis vs 6-Setterholm-Christie
+        600    1.50   7.50 8-Heller-Heller vs 8-Zaugg-Ring
+        150    6.00   3.00 9-White-Gunstone-White vs 1-Sieg-Scholes
+        150    6.00   3.00 10-Miller-Stevens vs 3-Tipton-Hesson
+        180    3.00   6.00 11-Cline-Hankins vs 10-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    0.00   9.00 1-Anderson-Bolson vs 5-Ford-Delfs
+        450    4.00   5.00 2-Romeo-Sieg vs 7-Jacobson-Rind
+        400    6.50   2.50 3-Stuberg-Fuhrman vs 9-Sivapragasam-Ruprecht
+        420    5.00   4.00 5-Ballantyne-Taylor vs 2-Krah-Poore
+  150          8.50   0.50 6-Baer-Christiansen vs 4-Lakshmanan-Galer
+        650    1.00   8.00 7-Lewis-Davis vs 6-Setterholm-Christie
+        400    6.50   2.50 8-Heller-Heller vs 8-Zaugg-Ring
+        500    2.50   6.50 9-White-Gunstone-White vs 1-Sieg-Scholes
+  150          8.50   0.50 10-Miller-Stevens vs 3-Tipton-Hesson
+        500    2.50   6.50 11-Cline-Hankins vs 10-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          4.00   5.00 1-Anderson-Bolson vs 4-Lakshmanan-Galer
+  430          4.00   5.00 2-Romeo-Sieg vs 6-Setterholm-Christie
+         50    0.00   9.00 3-Stuberg-Fuhrman vs 8-Zaugg-Ring
+  450          8.00   1.00 4-Binney-Antonson vs 10-Christensen-Wright
+  430          4.00   5.00 5-Ballantyne-Taylor vs 1-Sieg-Scholes
+  430          4.00   5.00 6-Baer-Christiansen vs 3-Tipton-Hesson
+  430          4.00   5.00 7-Lewis-Davis vs 5-Ford-Delfs
+  460          9.00   0.00 8-Heller-Heller vs 7-Jacobson-Rind
+  430          4.00   5.00 9-White-Gunstone-White vs 9-Sivapragasam-Ruprecht
+  430          4.00   5.00 10-Miller-Stevens vs 2-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.50   3.50 1-Anderson-Bolson vs 4-Lakshmanan-Galer
+        140    1.50   7.50 2-Romeo-Sieg vs 6-Setterholm-Christie
+        100    3.50   5.50 3-Stuberg-Fuhrman vs 8-Zaugg-Ring
+  170          8.00   1.00 4-Binney-Antonson vs 10-Christensen-Wright
+        100    3.50   5.50 5-Ballantyne-Taylor vs 1-Sieg-Scholes
+  170          8.00   1.00 6-Baer-Christiansen vs 3-Tipton-Hesson
+        200    0.00   9.00 7-Lewis-Davis vs 5-Ford-Delfs
+  170          8.00   1.00 8-Heller-Heller vs 7-Jacobson-Rind
+  110          5.50   3.50 9-White-Gunstone-White vs 9-Sivapragasam-Ruprecht
+        140    1.50   7.50 10-Miller-Stevens vs 2-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          6.00   3.00 1-Anderson-Bolson vs 4-Lakshmanan-Galer
+  480          8.50   0.50 2-Romeo-Sieg vs 6-Setterholm-Christie
+  450          6.00   3.00 3-Stuberg-Fuhrman vs 8-Zaugg-Ring
+  420          2.50   6.50 4-Binney-Antonson vs 10-Christensen-Wright
+  420          2.50   6.50 5-Ballantyne-Taylor vs 1-Sieg-Scholes
+  480          8.50   0.50 6-Baer-Christiansen vs 3-Tipton-Hesson
+  170          0.00   9.00 7-Lewis-Davis vs 5-Ford-Delfs
+  450          6.00   3.00 8-Heller-Heller vs 7-Jacobson-Rind
+  420          2.50   6.50 9-White-Gunstone-White vs 9-Sivapragasam-Ruprecht
+  420          2.50   6.50 10-Miller-Stevens vs 2-Krah-Poore
+----------------------------------------------------------------------
