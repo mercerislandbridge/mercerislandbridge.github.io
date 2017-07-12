@@ -1,0 +1,470 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>July 11, 2017      |CLUB NO.>158048    | 07/11/2017 22:24
+---------------------,-- ------------------- -------------,---------------------
+DIR> Bryan & Shawn   |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500      |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=3                           ,---,--------,-----------,-------------------,------,---------,
+-------------------------------------------------|   |Qualify |  Overall  |      Section      |      |Final    |
+No Name                   Name                   |Flt| A   B  |Rnk-A|Rnk-B|Rnk-A|Rnk-B| Score | Pct  |Awards   |
+------------------------------------------------- --- -------- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Jenni Carmichael       Bryan Delfs              A   Q        .     .   |   3     .    119.50  55.32  0.45Red 
+                                                                                                        0.44Blk 
+ 2 Ann Romeo              Galen Hesson             A            .     .   |   .     .     83.00  38.43          
+
+ 3 Brian Zaugg            Shawn Abernethy          A   Q        .     .   |   .     .    110.50  51.16          
+
+ 4 Victor Bremson         Dennis Duryea            B       Q    .     .   |   .     1     95.00  43.98  0.43Red 
+                                                                                                        0.42Blk 
+ 5 Henry Lortz            Bogdan Vulcan            A   Q        1     .   |   1     .    143.50  66.44  1.78Red 
+                                                                                                        1.78Blk 
+ 6 Connie Heller          Dennis Heller            A   Q        .     .   |   4     .    114.50  53.01  0.31Red 
+                                                                                                        0.31Blk 
+ 7 William Campbell       Tracey Guice             B            .     .   |   .     .     87.50  40.51          
+
+ 8 Ray Miller             Jeffrey Ford             A   Q        3     .   |   2     .    127.00  58.80  1.00Red 
+                                                                                                        1.00Blk 
+ 9 Brad Rind              Terry Jacobson           B       Q    .     .   |   .     .     91.50  42.36          
+
+
+                                          Totals                                         972.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>July 11, 2017      |CLUB NO.>158048    | 07/11/2017 22:24
+---------------------,-- ------------------- -------------,---------------------
+DIR> Bryan & Shawn   |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500      |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5                           ,---,--------,-----------,-------------------,------,---------,
+-------------------------------------------------|   |Qualify |  Overall  |      Section      |      |Final    |
+No Name                   Name                   |Flt| A   B  |Rnk-A|Rnk-B|Rnk-A|Rnk-B| Score | Pct  |Awards   |
+------------------------------------------------- --- -------- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Stanford Christie      Ken Christiansen         A   Q        .     .   |   4     .    114.00  52.78  0.31Red 
+                                                                                                        0.31Blk 
+ 2 John Krah              Daniel Poore             B   Q   Q    4     1   |   2     1    125.50  58.10  0.92Red 
+                                                                                                        0.92Blk 
+ 3 Chris Pesce            David Taylor             A   Q        .     .   |   .     .    110.50  51.16          
+
+ 4 David Hankins          Kevin Cline              B            .     .   |   .     .     95.00  43.98          
+
+ 5 Kim Eng                Eric Sieg                A   Q        2     .   |   1     .    136.00  62.96  1.34Red 
+                                                                                                        1.33Blk 
+ 6 David Roselle          Sue Anderson             B   Q   Q    .     3   |   .     .    110.50  51.16  0.52Red 
+                                                                                                        0.52Blk 
+ 7 Hugh Hendrickson       Beau Hovda               B   Q   Q    5     2   |   3     2    122.50  56.71  0.69Red 
+                                                                                                        0.69Blk 
+ 8 Mike Ring              Mike Christensen         A            .     .   |   .     .     91.50  42.36          
+
+ 9 Clay Laughary          Pete Cowles              B            .     .   |   .     .     66.50  30.79          
+
+
+                                          Totals                                         972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.50   5.50 1-Carmichael-Delfs vs 1-Christie-Christiansen
+        800    0.00   8.00 2-Romeo-Hesson vs 3-Pesce-Taylor
+        100    4.50   3.50 3-Zaugg-Abernethy vs 5-Eng-Sieg
+        420    1.00   7.00 4-Bremson-Duryea vs 7-Hendrickson-Hovda
+  300          8.00   0.00 5-Lortz-Vulcan vs 9-Laughary-Cowles
+        100    4.50   3.50 6-Heller-Heller vs 2-Krah-Poore
+  100          6.50   1.50 7-Campbell-Guice vs 4-Hankins-Cline
+  100          6.50   1.50 8-Miller-Ford vs 6-Roselle-Anderson
+        300    2.50   5.50 9-Rind-Jacobson vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.50   6.50 1-Carmichael-Delfs vs 1-Christie-Christiansen
+  620          1.50   6.50 2-Romeo-Hesson vs 3-Pesce-Taylor
+  680          4.00   4.00 3-Zaugg-Abernethy vs 5-Eng-Sieg
+  170          0.00   8.00 4-Bremson-Duryea vs 7-Hendrickson-Hovda
+  690          5.50   2.50 5-Lortz-Vulcan vs 9-Laughary-Cowles
+  690          5.50   2.50 6-Heller-Heller vs 2-Krah-Poore
+ 1100          8.00   0.00 7-Campbell-Guice vs 4-Hankins-Cline
+  660          3.00   5.00 8-Miller-Ford vs 6-Roselle-Anderson
+  800          7.00   1.00 9-Rind-Jacobson vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.50   5.50 1-Carmichael-Delfs vs 1-Christie-Christiansen
+        140    6.00   2.00 2-Romeo-Hesson vs 3-Pesce-Taylor
+        600    0.00   8.00 3-Zaugg-Abernethy vs 5-Eng-Sieg
+        140    6.00   2.00 4-Bremson-Duryea vs 7-Hendrickson-Hovda
+        140    6.00   2.00 5-Lortz-Vulcan vs 9-Laughary-Cowles
+        170    1.00   7.00 6-Heller-Heller vs 2-Krah-Poore
+        150    2.50   5.50 7-Campbell-Guice vs 4-Hankins-Cline
+        140    6.00   2.00 8-Miller-Ford vs 6-Roselle-Anderson
+        140    6.00   2.00 9-Rind-Jacobson vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.00   2.00 1-Carmichael-Delfs vs 9-Laughary-Cowles
+         90    2.00   6.00 2-Romeo-Hesson vs 2-Krah-Poore
+  800          8.00   0.00 3-Zaugg-Abernethy vs 4-Hankins-Cline
+  140          6.00   2.00 4-Bremson-Duryea vs 6-Roselle-Anderson
+  140          6.00   2.00 5-Lortz-Vulcan vs 8-Ring-Christensen
+  110          3.50   4.50 6-Heller-Heller vs 1-Christie-Christiansen
+        110    1.00   7.00 7-Campbell-Guice vs 3-Pesce-Taylor
+  110          3.50   4.50 8-Miller-Ford vs 5-Eng-Sieg
+        200    0.00   8.00 9-Rind-Jacobson vs 7-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   5.50 1-Carmichael-Delfs vs 9-Laughary-Cowles
+   50          5.00   3.00 2-Romeo-Hesson vs 2-Krah-Poore
+  180          8.00   0.00 3-Zaugg-Abernethy vs 4-Hankins-Cline
+        110    0.50   7.50 4-Bremson-Duryea vs 6-Roselle-Anderson
+   50          5.00   3.00 5-Lortz-Vulcan vs 8-Ring-Christensen
+   50          5.00   3.00 6-Heller-Heller vs 1-Christie-Christiansen
+        110    0.50   7.50 7-Campbell-Guice vs 3-Pesce-Taylor
+        100    2.50   5.50 8-Miller-Ford vs 5-Eng-Sieg
+  100          7.00   1.00 9-Rind-Jacobson vs 7-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    6.50   1.50 1-Carmichael-Delfs vs 9-Laughary-Cowles
+        680    3.50   4.50 2-Romeo-Hesson vs 2-Krah-Poore
+        650    6.50   1.50 3-Zaugg-Abernethy vs 4-Hankins-Cline
+       1430    0.50   7.50 4-Bremson-Duryea vs 6-Roselle-Anderson
+  100          8.00   0.00 5-Lortz-Vulcan vs 8-Ring-Christensen
+        680    3.50   4.50 6-Heller-Heller vs 1-Christie-Christiansen
+        680    3.50   4.50 7-Campbell-Guice vs 3-Pesce-Taylor
+       1430    0.50   7.50 8-Miller-Ford vs 5-Eng-Sieg
+        680    3.50   4.50 9-Rind-Jacobson vs 7-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.00   3.00 1-Carmichael-Delfs vs 8-Ring-Christensen
+  650          5.00   3.00 2-Romeo-Hesson vs 1-Christie-Christiansen
+  500          2.00   6.00 3-Zaugg-Abernethy vs 3-Pesce-Taylor
+  100          0.00   8.00 4-Bremson-Duryea vs 5-Eng-Sieg
+  650          5.00   3.00 5-Lortz-Vulcan vs 7-Hendrickson-Hovda
+  990          8.00   0.00 6-Heller-Heller vs 9-Laughary-Cowles
+  650          5.00   3.00 7-Campbell-Guice vs 2-Krah-Poore
+  650          5.00   3.00 8-Miller-Ford vs 4-Hankins-Cline
+  200          1.00   7.00 9-Rind-Jacobson vs 6-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          5.00   3.00 1-Carmichael-Delfs vs 8-Ring-Christensen
+  170          3.00   5.00 2-Romeo-Hesson vs 1-Christie-Christiansen
+  490          7.50   0.50 3-Zaugg-Abernethy vs 3-Pesce-Taylor
+        150    0.00   8.00 4-Bremson-Duryea vs 5-Eng-Sieg
+  490          7.50   0.50 5-Lortz-Vulcan vs 7-Hendrickson-Hovda
+        100    1.00   7.00 6-Heller-Heller vs 9-Laughary-Cowles
+  140          2.00   6.00 7-Campbell-Guice vs 2-Krah-Poore
+  430          6.00   2.00 8-Miller-Ford vs 4-Hankins-Cline
+  200          4.00   4.00 9-Rind-Jacobson vs 6-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   3.00 1-Carmichael-Delfs vs 8-Ring-Christensen
+         90    1.50   6.50 2-Romeo-Hesson vs 1-Christie-Christiansen
+         90    1.50   6.50 3-Zaugg-Abernethy vs 3-Pesce-Taylor
+         90    1.50   6.50 4-Bremson-Duryea vs 5-Eng-Sieg
+  100          5.00   3.00 5-Lortz-Vulcan vs 7-Hendrickson-Hovda
+  200          7.50   0.50 6-Heller-Heller vs 9-Laughary-Cowles
+         90    1.50   6.50 7-Campbell-Guice vs 2-Krah-Poore
+  100          5.00   3.00 8-Miller-Ford vs 4-Hankins-Cline
+  200          7.50   0.50 9-Rind-Jacobson vs 6-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.50   4.50 1-Carmichael-Delfs vs 7-Hendrickson-Hovda
+  680          6.00   2.00 2-Romeo-Hesson vs 9-Laughary-Cowles
+        100    0.50   7.50 3-Zaugg-Abernethy vs 2-Krah-Poore
+  650          3.50   4.50 4-Bremson-Duryea vs 4-Hankins-Cline
+  680          6.00   2.00 5-Lortz-Vulcan vs 6-Roselle-Anderson
+  680          6.00   2.00 6-Heller-Heller vs 8-Ring-Christensen
+  620          2.00   6.00 7-Campbell-Guice vs 1-Christie-Christiansen
+ 1430          8.00   0.00 8-Miller-Ford vs 3-Pesce-Taylor
+        100    0.50   7.50 9-Rind-Jacobson vs 5-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          4.00   4.00 1-Carmichael-Delfs vs 7-Hendrickson-Hovda
+  420          5.50   2.50 2-Romeo-Hesson vs 9-Laughary-Cowles
+  450          7.50   0.50 3-Zaugg-Abernethy vs 2-Krah-Poore
+        100    0.00   8.00 4-Bremson-Duryea vs 4-Hankins-Cline
+  450          7.50   0.50 5-Lortz-Vulcan vs 6-Roselle-Anderson
+         50    1.50   6.50 6-Heller-Heller vs 8-Ring-Christensen
+         50    1.50   6.50 7-Campbell-Guice vs 1-Christie-Christiansen
+  300          3.00   5.00 8-Miller-Ford vs 3-Pesce-Taylor
+  420          5.50   2.50 9-Rind-Jacobson vs 5-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   3.50 1-Carmichael-Delfs vs 7-Hendrickson-Hovda
+  150          7.00   1.00 2-Romeo-Hesson vs 9-Laughary-Cowles
+        200    1.00   7.00 3-Zaugg-Abernethy vs 2-Krah-Poore
+  100          4.50   3.50 4-Bremson-Duryea vs 4-Hankins-Cline
+        110    2.00   6.00 5-Lortz-Vulcan vs 6-Roselle-Anderson
+  200          8.00   0.00 6-Heller-Heller vs 8-Ring-Christensen
+        500    0.00   8.00 7-Campbell-Guice vs 1-Christie-Christiansen
+  100          4.50   3.50 8-Miller-Ford vs 3-Pesce-Taylor
+  100          4.50   3.50 9-Rind-Jacobson vs 5-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.00   5.00 1-Carmichael-Delfs vs 6-Roselle-Anderson
+  200          8.00   0.00 2-Romeo-Hesson vs 8-Ring-Christensen
+        300    0.00   8.00 3-Zaugg-Abernethy vs 1-Christie-Christiansen
+   90          5.00   3.00 4-Bremson-Duryea vs 3-Pesce-Taylor
+   90          5.00   3.00 5-Lortz-Vulcan vs 5-Eng-Sieg
+        170    2.00   6.00 6-Heller-Heller vs 7-Hendrickson-Hovda
+  100          7.00   1.00 7-Campbell-Guice vs 9-Laughary-Cowles
+        200    1.00   7.00 8-Miller-Ford vs 2-Krah-Poore
+   90          5.00   3.00 9-Rind-Jacobson vs 4-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.50   0.50 1-Carmichael-Delfs vs 6-Roselle-Anderson
+        150    0.00   8.00 2-Romeo-Hesson vs 8-Ring-Christensen
+        120    2.00   6.00 3-Zaugg-Abernethy vs 1-Christie-Christiansen
+         90    4.50   3.50 4-Bremson-Duryea vs 3-Pesce-Taylor
+        120    2.00   6.00 5-Lortz-Vulcan vs 5-Eng-Sieg
+   50          7.50   0.50 6-Heller-Heller vs 7-Hendrickson-Hovda
+        120    2.00   6.00 7-Campbell-Guice vs 9-Laughary-Cowles
+         50    6.00   2.00 8-Miller-Ford vs 2-Krah-Poore
+         90    4.50   3.50 9-Rind-Jacobson vs 4-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   4.00 1-Carmichael-Delfs vs 6-Roselle-Anderson
+        500    2.00   6.00 2-Romeo-Hesson vs 8-Ring-Christensen
+        100    5.00   3.00 3-Zaugg-Abernethy vs 1-Christie-Christiansen
+   90          6.50   1.50 4-Bremson-Duryea vs 3-Pesce-Taylor
+   90          6.50   1.50 5-Lortz-Vulcan vs 5-Eng-Sieg
+        300    3.00   5.00 6-Heller-Heller vs 7-Hendrickson-Hovda
+  120          8.00   0.00 7-Campbell-Guice vs 9-Laughary-Cowles
+        800    0.00   8.00 8-Miller-Ford vs 2-Krah-Poore
+        570    1.00   7.00 9-Rind-Jacobson vs 4-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   2.00 1-Carmichael-Delfs vs 5-Eng-Sieg
+  110          1.50   6.50 2-Romeo-Hesson vs 7-Hendrickson-Hovda
+  530          7.00   1.00 3-Zaugg-Abernethy vs 9-Laughary-Cowles
+  140          4.00   4.00 4-Bremson-Duryea vs 2-Krah-Poore
+  140          4.00   4.00 5-Lortz-Vulcan vs 4-Hankins-Cline
+  140          4.00   4.00 6-Heller-Heller vs 6-Roselle-Anderson
+  110          1.50   6.50 7-Campbell-Guice vs 8-Ring-Christensen
+  570          8.00   0.00 8-Miller-Ford vs 1-Christie-Christiansen
+        100    0.00   8.00 9-Rind-Jacobson vs 3-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.50   4.50 1-Carmichael-Delfs vs 5-Eng-Sieg
+        400    3.50   4.50 2-Romeo-Hesson vs 7-Hendrickson-Hovda
+        150    7.00   1.00 3-Zaugg-Abernethy vs 9-Laughary-Cowles
+        920    0.00   8.00 4-Bremson-Duryea vs 2-Krah-Poore
+        400    3.50   4.50 5-Lortz-Vulcan vs 4-Hankins-Cline
+        400    3.50   4.50 6-Heller-Heller vs 6-Roselle-Anderson
+        140    8.00   0.00 7-Campbell-Guice vs 8-Ring-Christensen
+        400    3.50   4.50 8-Miller-Ford vs 1-Christie-Christiansen
+        400    3.50   4.50 9-Rind-Jacobson vs 3-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   2.50 1-Carmichael-Delfs vs 5-Eng-Sieg
+        200    0.00   8.00 2-Romeo-Hesson vs 7-Hendrickson-Hovda
+  110          7.00   1.00 3-Zaugg-Abernethy vs 9-Laughary-Cowles
+  100          5.50   2.50 4-Bremson-Duryea vs 2-Krah-Poore
+        100    2.00   6.00 5-Lortz-Vulcan vs 4-Hankins-Cline
+   50          3.50   4.50 6-Heller-Heller vs 6-Roselle-Anderson
+        110    1.00   7.00 7-Campbell-Guice vs 8-Ring-Christensen
+  500          8.00   0.00 8-Miller-Ford vs 1-Christie-Christiansen
+   50          3.50   4.50 9-Rind-Jacobson vs 3-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          7.50   0.50 1-Carmichael-Delfs vs 4-Hankins-Cline
+  400          0.00   8.00 2-Romeo-Hesson vs 6-Roselle-Anderson
+  450          4.50   3.50 3-Zaugg-Abernethy vs 8-Ring-Christensen
+  450          4.50   3.50 4-Bremson-Duryea vs 1-Christie-Christiansen
+  450          4.50   3.50 5-Lortz-Vulcan vs 3-Pesce-Taylor
+  450          4.50   3.50 6-Heller-Heller vs 5-Eng-Sieg
+  420          1.00   7.00 7-Campbell-Guice vs 7-Hendrickson-Hovda
+  480          7.50   0.50 8-Miller-Ford vs 9-Laughary-Cowles
+  430          2.00   6.00 9-Rind-Jacobson vs 2-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.00   7.00 1-Carmichael-Delfs vs 4-Hankins-Cline
+        500    1.00   7.00 2-Romeo-Hesson vs 6-Roselle-Anderson
+        500    1.00   7.00 3-Zaugg-Abernethy vs 8-Ring-Christensen
+  110          7.00   1.00 4-Bremson-Duryea vs 1-Christie-Christiansen
+        100    6.00   2.00 5-Lortz-Vulcan vs 3-Pesce-Taylor
+        200    4.00   4.00 6-Heller-Heller vs 5-Eng-Sieg
+  130          8.00   0.00 7-Campbell-Guice vs 7-Hendrickson-Hovda
+        200    4.00   4.00 8-Miller-Ford vs 9-Laughary-Cowles
+        200    4.00   4.00 9-Rind-Jacobson vs 2-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          6.00   2.00 1-Carmichael-Delfs vs 4-Hankins-Cline
+  620          1.50   6.50 2-Romeo-Hesson vs 6-Roselle-Anderson
+  620          1.50   6.50 3-Zaugg-Abernethy vs 8-Ring-Christensen
+  650          6.00   2.00 4-Bremson-Duryea vs 1-Christie-Christiansen
+  650          6.00   2.00 5-Lortz-Vulcan vs 3-Pesce-Taylor
+  650          6.00   2.00 6-Heller-Heller vs 5-Eng-Sieg
+  620          1.50   6.50 7-Campbell-Guice vs 7-Hendrickson-Hovda
+  650          6.00   2.00 8-Miller-Ford vs 9-Laughary-Cowles
+  620          1.50   6.50 9-Rind-Jacobson vs 2-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          7.50   0.50 1-Carmichael-Delfs vs 3-Pesce-Taylor
+        620    1.50   6.50 2-Romeo-Hesson vs 5-Eng-Sieg
+        100    4.00   4.00 3-Zaugg-Abernethy vs 7-Hendrickson-Hovda
+  420          7.50   0.50 4-Bremson-Duryea vs 9-Laughary-Cowles
+         50    6.00   2.00 5-Lortz-Vulcan vs 2-Krah-Poore
+        620    1.50   6.50 6-Heller-Heller vs 4-Hankins-Cline
+        100    4.00   4.00 7-Campbell-Guice vs 6-Roselle-Anderson
+        100    4.00   4.00 8-Miller-Ford vs 8-Ring-Christensen
+        790    0.00   8.00 9-Rind-Jacobson vs 1-Christie-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   8.00 1-Carmichael-Delfs vs 3-Pesce-Taylor
+        150    1.00   7.00 2-Romeo-Hesson vs 5-Eng-Sieg
+        100    4.50   3.50 3-Zaugg-Abernethy vs 7-Hendrickson-Hovda
+  110          7.50   0.50 4-Bremson-Duryea vs 9-Laughary-Cowles
+        120    3.00   5.00 5-Lortz-Vulcan vs 2-Krah-Poore
+        100    4.50   3.50 6-Heller-Heller vs 4-Hankins-Cline
+        130    2.00   6.00 7-Campbell-Guice vs 6-Roselle-Anderson
+  110          7.50   0.50 8-Miller-Ford vs 8-Ring-Christensen
+  100          6.00   2.00 9-Rind-Jacobson vs 1-Christie-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    7.00   1.00 1-Carmichael-Delfs vs 3-Pesce-Taylor
+        450    3.00   5.00 2-Romeo-Hesson vs 5-Eng-Sieg
+        550    0.00   8.00 3-Zaugg-Abernethy vs 7-Hendrickson-Hovda
+        500    1.00   7.00 4-Bremson-Duryea vs 9-Laughary-Cowles
+        300    6.00   2.00 5-Lortz-Vulcan vs 2-Krah-Poore
+        450    3.00   5.00 6-Heller-Heller vs 4-Hankins-Cline
+        420    5.00   3.00 7-Campbell-Guice vs 6-Roselle-Anderson
+   50          8.00   0.00 8-Miller-Ford vs 8-Ring-Christensen
+        450    3.00   5.00 9-Rind-Jacobson vs 1-Christie-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.00   5.00 1-Carmichael-Delfs vs 2-Krah-Poore
+  980          7.00   1.00 2-Romeo-Hesson vs 4-Hankins-Cline
+  480          3.00   5.00 3-Zaugg-Abernethy vs 6-Roselle-Anderson
+  480          3.00   5.00 4-Bremson-Duryea vs 8-Ring-Christensen
+ 1010          8.00   0.00 5-Lortz-Vulcan vs 1-Christie-Christiansen
+  480          3.00   5.00 6-Heller-Heller vs 3-Pesce-Taylor
+  480          3.00   5.00 7-Campbell-Guice vs 5-Eng-Sieg
+  480          3.00   5.00 8-Miller-Ford vs 7-Hendrickson-Hovda
+  480          3.00   5.00 9-Rind-Jacobson vs 9-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   3.50 1-Carmichael-Delfs vs 2-Krah-Poore
+        120    2.00   6.00 2-Romeo-Hesson vs 4-Hankins-Cline
+  600          8.00   0.00 3-Zaugg-Abernethy vs 6-Roselle-Anderson
+        100    4.50   3.50 4-Bremson-Duryea vs 8-Ring-Christensen
+        100    4.50   3.50 5-Lortz-Vulcan vs 1-Christie-Christiansen
+        100    4.50   3.50 6-Heller-Heller vs 3-Pesce-Taylor
+        200    0.50   7.50 7-Campbell-Guice vs 5-Eng-Sieg
+  100          7.00   1.00 8-Miller-Ford vs 7-Hendrickson-Hovda
+        200    0.50   7.50 9-Rind-Jacobson vs 9-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    5.00   3.00 1-Carmichael-Delfs vs 2-Krah-Poore
+        400    5.00   3.00 2-Romeo-Hesson vs 4-Hankins-Cline
+        400    5.00   3.00 3-Zaugg-Abernethy vs 6-Roselle-Anderson
+        400    5.00   3.00 4-Bremson-Duryea vs 8-Ring-Christensen
+        400    5.00   3.00 5-Lortz-Vulcan vs 1-Christie-Christiansen
+        400    5.00   3.00 6-Heller-Heller vs 3-Pesce-Taylor
+        420    1.00   7.00 7-Campbell-Guice vs 5-Eng-Sieg
+        460    0.00   8.00 8-Miller-Ford vs 7-Hendrickson-Hovda
+        400    5.00   3.00 9-Rind-Jacobson vs 9-Laughary-Cowles
+----------------------------------------------------------------------
