@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 18, 2017      |CLUB NO.>158048    | 07/18/2017 22:41
+---------------------,-- ------------------- -------------,---------------------
+DIR> BRYAN & MIKE    |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=7/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Hankins          Kevin Cline              B    .     .     .     73.13  46.88          
+
+ 2 Barry Balof            Claire Valente           C    6     2     .     83.42  53.47  0.39(B) 
+
+ 3 Ray Miller             Chris Moore              A   3/4    .     .     85.50  54.81  0.64(A) 
+
+ 4 Leah Sieg              Galen Hesson             A    .     .     .     75.29  48.26          
+
+ 5 Pete Cowles            Clay Laughary            B    .     .     .     70.42  45.14          
+
+
+
+ 7 Gary Haldane           Sue Anderson             B    5     1     .     83.96  53.82  0.56(B) 
+
+ 8 Dave Setterholm        Douglas Kuschner         A    .     .     .     80.71  51.74          
+
+ 9 Brian Zaugg            Shawn Abernethy          A   3/4    .     .     85.50  54.81  0.64(A) 
+
+10 Bryan Delfs            Jennifer Chalfan         A    1     .     .     92.08  59.03  1.50(A) 
+
+11 John Krah              Ann Romeo                B    .    3/4    .     74.75  47.92  0.24(B) 
+
+12 Moises Saul            Irving Sonkin            B    .    3/4    .     74.75  47.92  0.24(B) 
+
+13 Stanford Christie      Eric Sieg                A    2     .     .     86.67  55.56  1.05(A) 
+
+14 Steven Mark Lewis      Grant Davis              C    .     .     .     64.46  41.32          
+
+15 Mike Christensen       Becky Stevens            A    .     .     .     65.54  42.01          
+
+16 Ole Godefroy           Julie Godefroy           A    .     .     .     72.58  46.53          
+
+
+                                          Totals                        1168.76       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   1.50 4-Sieg-Hesson vs 14-Lewis-Davis
+   50          4.50   1.50 8-Setterholm-Kuschner vs 12-Saul-Sonkin
+   50          4.50   1.50 9-Zaugg-Abernethy vs 11-Krah-Romeo
+        140    1.00   5.00 10-Delfs-Chalfan vs 2-Balof-Valente
+         50    2.00   4.00 13-Christie-Sieg vs 7-Haldane-Anderson
+        420    0.00   6.00 15-Christensen-Stevens vs 3-Miller-Moore
+   50          4.50   1.50 16-Godefroy-Godefroy vs 1-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.50   3.50 4-Sieg-Hesson vs 14-Lewis-Davis
+  150          2.50   3.50 8-Setterholm-Kuschner vs 12-Saul-Sonkin
+  100          0.50   5.50 9-Zaugg-Abernethy vs 11-Krah-Romeo
+  180          4.00   2.00 10-Delfs-Chalfan vs 2-Balof-Valente
+  600          6.00   0.00 13-Christie-Sieg vs 7-Haldane-Anderson
+  300          5.00   1.00 15-Christensen-Stevens vs 3-Miller-Moore
+  100          0.50   5.50 16-Godefroy-Godefroy vs 1-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          0.00   6.00 1-Hankins-Cline vs 8-Setterholm-Kuschner
+  980          2.00   4.00 4-Sieg-Hesson vs 15-Christensen-Stevens
+  980          2.00   4.00 5-Cowles-Laughary vs 14-Lewis-Davis
+  990          4.00   2.00 9-Zaugg-Abernethy vs 13-Christie-Sieg
+ 1010          5.50   0.50 10-Delfs-Chalfan vs 12-Saul-Sonkin
+ 1010          5.50   0.50 11-Krah-Romeo vs 3-Miller-Moore
+  980          2.00   4.00 16-Godefroy-Godefroy vs 2-Balof-Valente
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   3.00 1-Hankins-Cline vs 8-Setterholm-Kuschner
+  650          3.00   3.00 4-Sieg-Hesson vs 15-Christensen-Stevens
+  650          3.00   3.00 5-Cowles-Laughary vs 14-Lewis-Davis
+  990          6.00   0.00 9-Zaugg-Abernethy vs 13-Christie-Sieg
+  850          5.00   1.00 10-Delfs-Chalfan vs 12-Saul-Sonkin
+  400          1.00   5.00 11-Krah-Romeo vs 3-Miller-Moore
+        200    0.00   6.00 16-Godefroy-Godefroy vs 2-Balof-Valente
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   2.50 2-Balof-Valente vs 9-Zaugg-Abernethy
+        100    1.50   4.50 5-Cowles-Laughary vs 15-Christensen-Stevens
+        100    1.50   4.50 8-Setterholm-Kuschner vs 7-Haldane-Anderson
+   50          3.50   2.50 10-Delfs-Chalfan vs 1-Hankins-Cline
+   90          5.50   0.50 11-Krah-Romeo vs 13-Christie-Sieg
+   90          5.50   0.50 12-Saul-Sonkin vs 4-Sieg-Hesson
+        200    0.00   6.00 16-Godefroy-Godefroy vs 3-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   6.00 2-Balof-Valente vs 9-Zaugg-Abernethy
+  100          5.50   0.50 5-Cowles-Laughary vs 15-Christensen-Stevens
+        620    2.00   4.00 8-Setterholm-Kuschner vs 7-Haldane-Anderson
+  100          5.50   0.50 10-Delfs-Chalfan vs 1-Hankins-Cline
+        140    4.00   2.00 11-Krah-Romeo vs 13-Christie-Sieg
+        620    2.00   4.00 12-Saul-Sonkin vs 4-Sieg-Hesson
+        620    2.00   4.00 16-Godefroy-Godefroy vs 3-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          5.50   0.50 3-Miller-Moore vs 10-Delfs-Chalfan
+  110          4.00   2.00 9-Zaugg-Abernethy vs 8-Setterholm-Kuschner
+   90          1.50   4.50 11-Krah-Romeo vs 2-Balof-Valente
+   90          1.50   4.50 12-Saul-Sonkin vs 1-Hankins-Cline
+  120          5.50   0.50 13-Christie-Sieg vs 5-Cowles-Laughary
+   90          1.50   4.50 14-Lewis-Davis vs 7-Haldane-Anderson
+   90          1.50   4.50 16-Godefroy-Godefroy vs 4-Sieg-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.50   1.50 3-Miller-Moore vs 10-Delfs-Chalfan
+        300    0.00   6.00 9-Zaugg-Abernethy vs 8-Setterholm-Kuschner
+  500          6.00   0.00 11-Krah-Romeo vs 2-Balof-Valente
+  150          4.50   1.50 12-Saul-Sonkin vs 1-Hankins-Cline
+  110          2.00   4.00 13-Christie-Sieg vs 5-Cowles-Laughary
+        100    1.00   5.00 14-Lewis-Davis vs 7-Haldane-Anderson
+  130          3.00   3.00 16-Godefroy-Godefroy vs 4-Sieg-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          4.50   1.50 4-Sieg-Hesson vs 11-Krah-Romeo
+  460          2.00   4.00 7-Haldane-Anderson vs 15-Christensen-Stevens
+  400          0.00   6.00 10-Delfs-Chalfan vs 9-Zaugg-Abernethy
+  480          3.00   3.00 12-Saul-Sonkin vs 3-Miller-Moore
+  980          6.00   0.00 13-Christie-Sieg vs 2-Balof-Valente
+  420          1.00   5.00 14-Lewis-Davis vs 8-Setterholm-Kuschner
+  510          4.50   1.50 16-Godefroy-Godefroy vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.00   3.00 4-Sieg-Hesson vs 11-Krah-Romeo
+        120    1.50   4.50 7-Haldane-Anderson vs 15-Christensen-Stevens
+        120    1.50   4.50 10-Delfs-Chalfan vs 9-Zaugg-Abernethy
+        150    0.00   6.00 12-Saul-Sonkin vs 3-Miller-Moore
+   90          4.00   2.00 13-Christie-Sieg vs 2-Balof-Valente
+  100          5.50   0.50 14-Lewis-Davis vs 8-Setterholm-Kuschner
+  100          5.50   0.50 16-Godefroy-Godefroy vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    3.00   3.00 1-Hankins-Cline vs 3-Miller-Moore
+        480    3.00   3.00 2-Balof-Valente vs 7-Haldane-Anderson
+        480    3.00   3.00 5-Cowles-Laughary vs 12-Saul-Sonkin
+        480    3.00   3.00 8-Setterholm-Kuschner vs 15-Christensen-Stevens
+        480    3.00   3.00 11-Krah-Romeo vs 10-Delfs-Chalfan
+        480    3.00   3.00 13-Christie-Sieg vs 4-Sieg-Hesson
+        480    3.00   3.00 14-Lewis-Davis vs 9-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   3.50 1-Hankins-Cline vs 3-Miller-Moore
+        450    2.50   3.50 2-Balof-Valente vs 7-Haldane-Anderson
+        450    2.50   3.50 5-Cowles-Laughary vs 12-Saul-Sonkin
+   50          6.00   0.00 8-Setterholm-Kuschner vs 15-Christensen-Stevens
+        450    2.50   3.50 11-Krah-Romeo vs 10-Delfs-Chalfan
+        450    2.50   3.50 13-Christie-Sieg vs 4-Sieg-Hesson
+        450    2.50   3.50 14-Lewis-Davis vs 9-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   1.00 1-Hankins-Cline vs 5-Cowles-Laughary
+  120          3.00   3.00 2-Balof-Valente vs 4-Sieg-Hesson
+        100    0.00   6.00 3-Miller-Moore vs 8-Setterholm-Kuschner
+  120          3.00   3.00 9-Zaugg-Abernethy vs 15-Christensen-Stevens
+  180          6.00   0.00 12-Saul-Sonkin vs 11-Krah-Romeo
+   90          1.00   5.00 14-Lewis-Davis vs 10-Delfs-Chalfan
+  120          3.00   3.00 16-Godefroy-Godefroy vs 7-Haldane-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   2.50 1-Hankins-Cline vs 5-Cowles-Laughary
+  140          6.00   0.00 2-Balof-Valente vs 4-Sieg-Hesson
+        100    1.50   4.50 3-Miller-Moore vs 8-Setterholm-Kuschner
+   50          3.50   2.50 9-Zaugg-Abernethy vs 15-Christensen-Stevens
+  110          5.00   1.00 12-Saul-Sonkin vs 11-Krah-Romeo
+        100    1.50   4.50 14-Lewis-Davis vs 10-Delfs-Chalfan
+        200    0.00   6.00 16-Godefroy-Godefroy vs 7-Haldane-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   3.50 3-Miller-Moore vs 5-Cowles-Laughary
+        980    0.00   6.00 4-Sieg-Hesson vs 9-Zaugg-Abernethy
+        450    2.50   3.50 7-Haldane-Anderson vs 1-Hankins-Cline
+        420    5.00   1.00 10-Delfs-Chalfan vs 15-Christensen-Stevens
+        450    2.50   3.50 13-Christie-Sieg vs 12-Saul-Sonkin
+        450    2.50   3.50 14-Lewis-Davis vs 11-Krah-Romeo
+   50          6.00   0.00 16-Godefroy-Godefroy vs 8-Setterholm-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    6.00   0.00 3-Miller-Moore vs 5-Cowles-Laughary
+        620    3.00   3.00 4-Sieg-Hesson vs 9-Zaugg-Abernethy
+        680    1.50   4.50 7-Haldane-Anderson vs 1-Hankins-Cline
+        500    4.00   2.00 10-Delfs-Chalfan vs 15-Christensen-Stevens
+        150    5.00   1.00 13-Christie-Sieg vs 12-Saul-Sonkin
+        800    0.00   6.00 14-Lewis-Davis vs 11-Krah-Romeo
+        680    1.50   4.50 16-Godefroy-Godefroy vs 8-Setterholm-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        250    1.00   5.00 1-Hankins-Cline vs 13-Christie-Sieg
+   50          5.50   0.50 3-Miller-Moore vs 7-Haldane-Anderson
+        110    3.00   3.00 5-Cowles-Laughary vs 10-Delfs-Chalfan
+        100    4.00   2.00 8-Setterholm-Kuschner vs 2-Balof-Valente
+   50          5.50   0.50 14-Lewis-Davis vs 12-Saul-Sonkin
+        250    1.00   5.00 15-Christensen-Stevens vs 11-Krah-Romeo
+        250    1.00   5.00 16-Godefroy-Godefroy vs 9-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   5.50 1-Hankins-Cline vs 13-Christie-Sieg
+   50          4.00   2.00 3-Miller-Moore vs 7-Haldane-Anderson
+        100    2.00   4.00 5-Cowles-Laughary vs 10-Delfs-Chalfan
+   50          4.00   2.00 8-Setterholm-Kuschner vs 2-Balof-Valente
+        200    0.50   5.50 14-Lewis-Davis vs 12-Saul-Sonkin
+   50          4.00   2.00 15-Christensen-Stevens vs 11-Krah-Romeo
+  100          6.00   0.00 16-Godefroy-Godefroy vs 9-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   3.50 2-Balof-Valente vs 1-Hankins-Cline
+  100          6.00   0.00 4-Sieg-Hesson vs 8-Setterholm-Kuschner
+        140    2.50   3.50 5-Cowles-Laughary vs 7-Haldane-Anderson
+        140    2.50   3.50 9-Zaugg-Abernethy vs 3-Miller-Moore
+        100    5.00   1.00 14-Lewis-Davis vs 13-Christie-Sieg
+        140    2.50   3.50 15-Christensen-Stevens vs 12-Saul-Sonkin
+        730    0.00   6.00 16-Godefroy-Godefroy vs 10-Delfs-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   5.00 2-Balof-Valente vs 1-Hankins-Cline
+  110          3.00   3.00 4-Sieg-Hesson vs 8-Setterholm-Kuschner
+  200          5.00   1.00 5-Cowles-Laughary vs 7-Haldane-Anderson
+        100    2.00   4.00 9-Zaugg-Abernethy vs 3-Miller-Moore
+        300    0.00   6.00 14-Lewis-Davis vs 13-Christie-Sieg
+  130          4.00   2.00 15-Christensen-Stevens vs 12-Saul-Sonkin
+  500          6.00   0.00 16-Godefroy-Godefroy vs 10-Delfs-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   1.00 1-Hankins-Cline vs 14-Lewis-Davis
+        140    1.00   5.00 3-Miller-Moore vs 2-Balof-Valente
+   50          3.00   3.00 5-Cowles-Laughary vs 9-Zaugg-Abernethy
+  150          6.00   0.00 7-Haldane-Anderson vs 12-Saul-Sonkin
+   50          3.00   3.00 10-Delfs-Chalfan vs 4-Sieg-Hesson
+        170    0.00   6.00 15-Christensen-Stevens vs 13-Christie-Sieg
+   50          3.00   3.00 16-Godefroy-Godefroy vs 11-Krah-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   6.00 1-Hankins-Cline vs 14-Lewis-Davis
+        100    1.00   5.00 3-Miller-Moore vs 2-Balof-Valente
+  200          4.50   1.50 5-Cowles-Laughary vs 9-Zaugg-Abernethy
+  100          2.50   3.50 7-Haldane-Anderson vs 12-Saul-Sonkin
+  300          6.00   0.00 10-Delfs-Chalfan vs 4-Sieg-Hesson
+  100          2.50   3.50 15-Christensen-Stevens vs 13-Christie-Sieg
+  200          4.50   1.50 16-Godefroy-Godefroy vs 11-Krah-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    5.00   1.00 2-Balof-Valente vs 14-Lewis-Davis
+  500          6.00   0.00 4-Sieg-Hesson vs 3-Miller-Moore
+       1460    1.50   4.50 7-Haldane-Anderson vs 9-Zaugg-Abernethy
+       1460    1.50   4.50 8-Setterholm-Kuschner vs 13-Christie-Sieg
+        680    4.00   2.00 11-Krah-Romeo vs 5-Cowles-Laughary
+       1460    1.50   4.50 15-Christensen-Stevens vs 1-Hankins-Cline
+       1460    1.50   4.50 16-Godefroy-Godefroy vs 12-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   1.00 2-Balof-Valente vs 14-Lewis-Davis
+         50    1.50   4.50 4-Sieg-Hesson vs 3-Miller-Moore
+  510          6.00   0.00 7-Haldane-Anderson vs 9-Zaugg-Abernethy
+  130          3.00   3.00 8-Setterholm-Kuschner vs 13-Christie-Sieg
+        300    0.00   6.00 11-Krah-Romeo vs 5-Cowles-Laughary
+  150          4.00   2.00 15-Christensen-Stevens vs 1-Hankins-Cline
+         50    1.50   4.50 16-Godefroy-Godefroy vs 12-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   2.00 3-Miller-Moore vs 14-Lewis-Davis
+        100    2.00   4.00 5-Cowles-Laughary vs 4-Sieg-Hesson
+  200          5.50   0.50 7-Haldane-Anderson vs 11-Krah-Romeo
+        110    1.00   5.00 8-Setterholm-Kuschner vs 10-Delfs-Chalfan
+   90          3.00   3.00 9-Zaugg-Abernethy vs 1-Hankins-Cline
+        170    0.00   6.00 15-Christensen-Stevens vs 2-Balof-Valente
+  200          5.50   0.50 16-Godefroy-Godefroy vs 13-Christie-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   6.00 3-Miller-Moore vs 14-Lewis-Davis
+  200          4.00   2.00 5-Cowles-Laughary vs 4-Sieg-Hesson
+  200          4.00   2.00 7-Haldane-Anderson vs 11-Krah-Romeo
+  100          1.00   5.00 8-Setterholm-Kuschner vs 10-Delfs-Chalfan
+  200          4.00   2.00 9-Zaugg-Abernethy vs 1-Hankins-Cline
+  200          4.00   2.00 15-Christensen-Stevens vs 2-Balof-Valente
+  200          4.00   2.00 16-Godefroy-Godefroy vs 13-Christie-Sieg
+----------------------------------------------------------------------
