@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 25, 2017      |CLUB NO.>158048    | 07/25/2017 22:31
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=11/C=4                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Dave Setterholm        Ken Christiansen         A    1     .     .    101.17  64.85  1.50(A) 
+
+ 2 Ann Romeo              Leah Sieg                B    .     .     .     56.42  36.17          
+
+ 3 Mike Ring              Brian Zaugg              B    6     4     .     86.08  55.18  0.31(B) 
+
+ 4 Larry Baum             Donald Stark             C    .     .     .     70.15  44.97          
+
+ 5 Pete Cowles            Clay Laughary            C    .     .     .     72.85  46.70          
+
+ 6 Terry Jacobson         Brad Rind                C    5     3     2     86.40  55.38  0.44(B) 
+
+ 7 Nick Tipton            Galen Hesson             B    .     .     .     76.65  49.13          
+
+ 8 Mike Christensen       Stanford Christie        A    2     .     .     97.77  62.67  1.05(A) 
+
+ 9 David Taylor           Chris Pesce              B    .     .     .     78.65  50.42          
+
+10 Victor Bremson         Dennis Duryea            B    .     .     .     70.25  45.03          
+
+11 Jeremy Gulley          Shawn Abernethy          B    4     2     .     86.94  55.73  0.62(B) 
+
+12 Hugh Hendrickson       Nelson Davis             B    .     .     .     66.35  42.53          
+
+
+
+14 Patrick Dunn           Polly Dunn               A    .     .     .     68.71  44.04          
+
+15 Marilyn Dierickx       Irving Sonkin            C    3     1     1     87.66  56.19  0.88(B) 
+
+16 David Baer             Rose Bolson              A    .     .     .     65.54  42.01          
+
+
+                                          Totals                        1171.59       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        440    3.00   3.00 4-Baum-Stark vs 14-Dunn-Dunn
+  100          6.00   0.00 6-Jacobson-Rind vs 5-Cowles-Laughary
+        100    5.00   1.00 8-Christensen-Christie vs 12-Hendrickson-Davis
+        500    1.00   5.00 9-Taylor-Pesce vs 11-Gulley-Abernethy
+        420    4.00   2.00 10-Bremson-Duryea vs 2-Romeo-Sieg
+        490    2.00   4.00 15-Dierickx-Sonkin vs 3-Ring-Zaugg
+        920    0.00   6.00 16-Baer-Bolson vs 1-Setterholm-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   5.00 4-Baum-Stark vs 14-Dunn-Dunn
+        490    0.00   6.00 6-Jacobson-Rind vs 5-Cowles-Laughary
+        400    5.50   0.50 8-Christensen-Christie vs 12-Hendrickson-Davis
+        400    5.50   0.50 9-Taylor-Pesce vs 11-Gulley-Abernethy
+        420    3.50   2.50 10-Bremson-Duryea vs 2-Romeo-Sieg
+        420    3.50   2.50 15-Dierickx-Sonkin vs 3-Ring-Zaugg
+        430    2.00   4.00 16-Baer-Bolson vs 1-Setterholm-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   2.50 1-Setterholm-Christiansen vs 8-Christensen-Christie
+  170          0.50   5.50 4-Baum-Stark vs 15-Dierickx-Sonkin
+  450          5.50   0.50 5-Cowles-Laughary vs 14-Dunn-Dunn
+  420          3.50   2.50 7-Tipton-Hesson vs 6-Jacobson-Rind
+  170          0.50   5.50 10-Bremson-Duryea vs 12-Hendrickson-Davis
+  450          5.50   0.50 11-Gulley-Abernethy vs 3-Ring-Zaugg
+  400          2.00   4.00 16-Baer-Bolson vs 2-Romeo-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   0.00 1-Setterholm-Christiansen vs 8-Christensen-Christie
+  100          3.50   2.50 4-Baum-Stark vs 15-Dierickx-Sonkin
+  100          3.50   2.50 5-Cowles-Laughary vs 14-Dunn-Dunn
+        110    0.50   5.50 7-Tipton-Hesson vs 6-Jacobson-Rind
+        110    0.50   5.50 10-Bremson-Duryea vs 12-Hendrickson-Davis
+  100          3.50   2.50 11-Gulley-Abernethy vs 3-Ring-Zaugg
+  100          3.50   2.50 16-Baer-Bolson vs 2-Romeo-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.50   4.50 2-Romeo-Sieg vs 9-Taylor-Pesce
+  200          1.50   4.50 5-Cowles-Laughary vs 15-Dierickx-Sonkin
+  650          5.00   1.00 6-Jacobson-Rind vs 14-Dunn-Dunn
+  650          5.00   1.00 8-Christensen-Christie vs 7-Tipton-Hesson
+  200          1.50   4.50 10-Bremson-Duryea vs 1-Setterholm-Christiansen
+  200          1.50   4.50 12-Hendrickson-Davis vs 4-Baum-Stark
+  650          5.00   1.00 16-Baer-Bolson vs 3-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   2.50 2-Romeo-Sieg vs 9-Taylor-Pesce
+  450          6.00   0.00 5-Cowles-Laughary vs 15-Dierickx-Sonkin
+  420          3.50   2.50 6-Jacobson-Rind vs 14-Dunn-Dunn
+  420          3.50   2.50 8-Christensen-Christie vs 7-Tipton-Hesson
+  200          1.00   5.00 10-Bremson-Duryea vs 1-Setterholm-Christiansen
+  420          3.50   2.50 12-Hendrickson-Davis vs 4-Baum-Stark
+  100          0.00   6.00 16-Baer-Bolson vs 3-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  850          6.00   0.00 3-Ring-Zaugg vs 10-Bremson-Duryea
+        650    1.00   5.00 6-Jacobson-Rind vs 15-Dierickx-Sonkin
+        500    2.00   4.00 9-Taylor-Pesce vs 8-Christensen-Christie
+        850    0.00   6.00 11-Gulley-Abernethy vs 2-Romeo-Sieg
+        100    3.00   3.00 12-Hendrickson-Davis vs 1-Setterholm-Christiansen
+  650          4.50   1.50 14-Dunn-Dunn vs 7-Tipton-Hesson
+  650          4.50   1.50 16-Baer-Bolson vs 4-Baum-Stark
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          6.00   0.00 3-Ring-Zaugg vs 10-Bremson-Duryea
+  120          3.00   3.00 6-Jacobson-Rind vs 15-Dierickx-Sonkin
+        100    0.00   6.00 9-Taylor-Pesce vs 8-Christensen-Christie
+  120          3.00   3.00 11-Gulley-Abernethy vs 2-Romeo-Sieg
+   50          1.00   5.00 12-Hendrickson-Davis vs 1-Setterholm-Christiansen
+  130          5.00   1.00 14-Dunn-Dunn vs 7-Tipton-Hesson
+  120          3.00   3.00 16-Baer-Bolson vs 4-Baum-Stark
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   3.00 1-Setterholm-Christiansen vs 6-Jacobson-Rind
+  100          4.00   2.00 4-Baum-Stark vs 11-Gulley-Abernethy
+        140    1.00   5.00 7-Tipton-Hesson vs 15-Dierickx-Sonkin
+  470          6.00   0.00 10-Bremson-Duryea vs 9-Taylor-Pesce
+        140    1.00   5.00 12-Hendrickson-Davis vs 3-Ring-Zaugg
+        140    1.00   5.00 14-Dunn-Dunn vs 8-Christensen-Christie
+  110          5.00   1.00 16-Baer-Bolson vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.00   2.00 1-Setterholm-Christiansen vs 6-Jacobson-Rind
+        650    4.00   2.00 4-Baum-Stark vs 11-Gulley-Abernethy
+       1400    0.00   6.00 7-Tipton-Hesson vs 15-Dierickx-Sonkin
+        800    2.00   4.00 10-Bremson-Duryea vs 9-Taylor-Pesce
+        500    6.00   0.00 12-Hendrickson-Davis vs 3-Ring-Zaugg
+       1100    1.00   5.00 14-Dunn-Dunn vs 8-Christensen-Christie
+        650    4.00   2.00 16-Baer-Bolson vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          2.00   4.00 1-Setterholm-Christiansen vs 3-Ring-Zaugg
+  420          0.00   6.00 2-Romeo-Sieg vs 7-Tipton-Hesson
+  460          2.00   4.00 5-Cowles-Laughary vs 12-Hendrickson-Davis
+  460          2.00   4.00 8-Christensen-Christie vs 15-Dierickx-Sonkin
+  990          6.00   0.00 11-Gulley-Abernethy vs 10-Bremson-Duryea
+  920          5.00   1.00 14-Dunn-Dunn vs 9-Taylor-Pesce
+  480          4.00   2.00 16-Baer-Bolson vs 6-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.50   2.50 1-Setterholm-Christiansen vs 3-Ring-Zaugg
+        450    1.00   5.00 2-Romeo-Sieg vs 7-Tipton-Hesson
+        170    5.50   0.50 5-Cowles-Laughary vs 12-Hendrickson-Davis
+        170    5.50   0.50 8-Christensen-Christie vs 15-Dierickx-Sonkin
+        420    3.50   2.50 11-Gulley-Abernethy vs 10-Bremson-Duryea
+        450    1.00   5.00 14-Dunn-Dunn vs 9-Taylor-Pesce
+        450    1.00   5.00 16-Baer-Bolson vs 6-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   2.00 1-Setterholm-Christiansen vs 5-Cowles-Laughary
+        100    0.50   5.50 2-Romeo-Sieg vs 4-Baum-Stark
+  620          4.00   2.00 3-Ring-Zaugg vs 8-Christensen-Christie
+  620          4.00   2.00 9-Taylor-Pesce vs 15-Dierickx-Sonkin
+        100    0.50   5.50 12-Hendrickson-Davis vs 11-Gulley-Abernethy
+  620          4.00   2.00 14-Dunn-Dunn vs 10-Bremson-Duryea
+  620          4.00   2.00 16-Baer-Bolson vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.50   0.50 1-Setterholm-Christiansen vs 5-Cowles-Laughary
+  450          5.50   0.50 2-Romeo-Sieg vs 4-Baum-Stark
+  420          4.00   2.00 3-Ring-Zaugg vs 8-Christensen-Christie
+  300          2.50   3.50 9-Taylor-Pesce vs 15-Dierickx-Sonkin
+  300          2.50   3.50 12-Hendrickson-Davis vs 11-Gulley-Abernethy
+         50    0.00   6.00 14-Dunn-Dunn vs 10-Bremson-Duryea
+  100          1.00   5.00 16-Baer-Bolson vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   5.50 2-Romeo-Sieg vs 6-Jacobson-Rind
+  630          6.00   0.00 3-Ring-Zaugg vs 5-Cowles-Laughary
+  130          5.00   1.00 4-Baum-Stark vs 9-Taylor-Pesce
+        110    2.00   4.00 7-Tipton-Hesson vs 1-Setterholm-Christiansen
+  100          3.50   2.50 10-Bremson-Duryea vs 15-Dierickx-Sonkin
+        200    0.50   5.50 14-Dunn-Dunn vs 11-Gulley-Abernethy
+  100          3.50   2.50 16-Baer-Bolson vs 8-Christensen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   3.00 2-Romeo-Sieg vs 6-Jacobson-Rind
+         50    0.00   6.00 3-Ring-Zaugg vs 5-Cowles-Laughary
+  450          3.00   3.00 4-Baum-Stark vs 9-Taylor-Pesce
+  450          3.00   3.00 7-Tipton-Hesson vs 1-Setterholm-Christiansen
+  480          6.00   0.00 10-Bremson-Duryea vs 15-Dierickx-Sonkin
+  450          3.00   3.00 14-Dunn-Dunn vs 11-Gulley-Abernethy
+  450          3.00   3.00 16-Baer-Bolson vs 8-Christensen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   3.00 3-Ring-Zaugg vs 7-Tipton-Hesson
+        100    1.00   5.00 4-Baum-Stark vs 6-Jacobson-Rind
+        100    1.00   5.00 5-Cowles-Laughary vs 10-Bremson-Duryea
+  170          4.00   2.00 8-Christensen-Christie vs 2-Romeo-Sieg
+        100    1.00   5.00 14-Dunn-Dunn vs 12-Hendrickson-Davis
+  420          5.50   0.50 15-Dierickx-Sonkin vs 11-Gulley-Abernethy
+  420          5.50   0.50 16-Baer-Bolson vs 9-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.50   2.50 3-Ring-Zaugg vs 7-Tipton-Hesson
+  620          3.50   2.50 4-Baum-Stark vs 6-Jacobson-Rind
+  620          3.50   2.50 5-Cowles-Laughary vs 10-Bremson-Duryea
+  660          6.00   0.00 8-Christensen-Christie vs 2-Romeo-Sieg
+  620          3.50   2.50 14-Dunn-Dunn vs 12-Hendrickson-Davis
+  300          1.00   5.00 15-Dierickx-Sonkin vs 11-Gulley-Abernethy
+        170    0.00   6.00 16-Baer-Bolson vs 9-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   5.00 2-Romeo-Sieg vs 1-Setterholm-Christiansen
+        620    0.00   6.00 4-Baum-Stark vs 8-Christensen-Christie
+        170    3.00   3.00 5-Cowles-Laughary vs 7-Tipton-Hesson
+        170    3.00   3.00 6-Jacobson-Rind vs 11-Gulley-Abernethy
+        140    5.00   1.00 9-Taylor-Pesce vs 3-Ring-Zaugg
+  200          6.00   0.00 15-Dierickx-Sonkin vs 12-Hendrickson-Davis
+        170    3.00   3.00 16-Baer-Bolson vs 10-Bremson-Duryea
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.00   5.00 2-Romeo-Sieg vs 1-Setterholm-Christiansen
+  620          4.50   1.50 4-Baum-Stark vs 8-Christensen-Christie
+  620          4.50   1.50 5-Cowles-Laughary vs 7-Tipton-Hesson
+        100    0.00   6.00 6-Jacobson-Rind vs 11-Gulley-Abernethy
+  620          4.50   1.50 9-Taylor-Pesce vs 3-Ring-Zaugg
+  620          4.50   1.50 15-Dierickx-Sonkin vs 12-Hendrickson-Davis
+  180          2.00   4.00 16-Baer-Bolson vs 10-Bremson-Duryea
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.00   4.00 1-Setterholm-Christiansen vs 14-Dunn-Dunn
+   50          5.00   1.00 3-Ring-Zaugg vs 2-Romeo-Sieg
+        430    1.00   5.00 5-Cowles-Laughary vs 9-Taylor-Pesce
+        110    3.50   2.50 6-Jacobson-Rind vs 8-Christensen-Christie
+        110    3.50   2.50 7-Tipton-Hesson vs 12-Hendrickson-Davis
+  100          6.00   0.00 10-Bremson-Duryea vs 4-Baum-Stark
+        800    0.00   6.00 16-Baer-Bolson vs 11-Gulley-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.50   2.50 1-Setterholm-Christiansen vs 14-Dunn-Dunn
+  100          6.00   0.00 3-Ring-Zaugg vs 2-Romeo-Sieg
+        680    1.00   5.00 5-Cowles-Laughary vs 9-Taylor-Pesce
+        680    1.00   5.00 6-Jacobson-Rind vs 8-Christensen-Christie
+        620    5.00   1.00 7-Tipton-Hesson vs 12-Hendrickson-Davis
+        680    1.00   5.00 10-Bremson-Duryea vs 4-Baum-Stark
+        650    3.50   2.50 16-Baer-Bolson vs 11-Gulley-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          0.50   5.50 2-Romeo-Sieg vs 14-Dunn-Dunn
+  650          4.00   2.00 4-Baum-Stark vs 3-Ring-Zaugg
+  650          4.00   2.00 6-Jacobson-Rind vs 10-Bremson-Duryea
+  650          4.00   2.00 7-Tipton-Hesson vs 9-Taylor-Pesce
+  650          4.00   2.00 11-Gulley-Abernethy vs 5-Cowles-Laughary
+  650          4.00   2.00 15-Dierickx-Sonkin vs 1-Setterholm-Christiansen
+  620          0.50   5.50 16-Baer-Bolson vs 12-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          6.00   0.00 2-Romeo-Sieg vs 14-Dunn-Dunn
+         50    0.50   5.50 4-Baum-Stark vs 3-Ring-Zaugg
+  450          3.50   2.50 6-Jacobson-Rind vs 10-Bremson-Duryea
+  450          3.50   2.50 7-Tipton-Hesson vs 9-Taylor-Pesce
+  450          3.50   2.50 11-Gulley-Abernethy vs 5-Cowles-Laughary
+  450          3.50   2.50 15-Dierickx-Sonkin vs 1-Setterholm-Christiansen
+         50    0.50   5.50 16-Baer-Bolson vs 12-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.08   5.92 3-Ring-Zaugg vs 14-Dunn-Dunn
+  430          4.75   1.25 5-Cowles-Laughary vs 4-Baum-Stark
+  430          4.75   1.25 7-Tipton-Hesson vs 11-Gulley-Abernethy
+  AVE+  AVE+   3.60   3.89 9-Taylor-Pesce vs 1-Setterholm-Christiansen
+  430          4.75   1.25 10-Bremson-Duryea vs 8-Christensen-Christie
+         50    1.25   4.75 12-Hendrickson-Davis vs 6-Jacobson-Rind
+  130          2.42   3.58 15-Dierickx-Sonkin vs 2-Romeo-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.50   1.50 3-Ring-Zaugg vs 14-Dunn-Dunn
+        660    2.50   3.50 5-Cowles-Laughary vs 4-Baum-Stark
+        230    6.00   0.00 7-Tipton-Hesson vs 11-Gulley-Abernethy
+        660    2.50   3.50 9-Taylor-Pesce vs 1-Setterholm-Christiansen
+        680    0.50   5.50 10-Bremson-Duryea vs 8-Christensen-Christie
+        680    0.50   5.50 12-Hendrickson-Davis vs 6-Jacobson-Rind
+        650    4.50   1.50 15-Dierickx-Sonkin vs 2-Romeo-Sieg
+----------------------------------------------------------------------
