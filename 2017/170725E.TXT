@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>July 25, 2017      |CLUB NO.>158048    | 07/25/2017 22:31
+DATE>July 25, 2017      |CLUB NO.>158048    | 08/01/2017 18:52
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -13,38 +13,38 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
  1 Dave Setterholm        Ken Christiansen         A    1     .     .    101.17  64.85  1.50(A) 
 
- 2 Ann Romeo              Leah Sieg                B    .     .     .     56.42  36.17          
+ 2 Ann Romeo              Leah Sieg                B    .     .     .     54.71  35.07          
 
- 3 Mike Ring              Brian Zaugg              B    6     4     .     86.08  55.18  0.31(B) 
+ 3 Mike Ring              Brian Zaugg              B    6     4     .     86.20  55.26  0.31(B) 
 
- 4 Larry Baum             Donald Stark             C    .     .     .     70.15  44.97          
+ 4 Larry Baum             Donald Stark             C    .     .     .     69.23  44.38          
 
- 5 Pete Cowles            Clay Laughary            C    .     .     .     72.85  46.70          
+ 5 Pete Cowles            Clay Laughary            C    .     .     .     72.69  46.60          
 
- 6 Terry Jacobson         Brad Rind                C    5     3     2     86.40  55.38  0.44(B) 
+ 6 Terry Jacobson         Brad Rind                C    5     3     2     86.56  55.49  0.44(B) 
 
- 7 Nick Tipton            Galen Hesson             B    .     .     .     76.65  49.13          
+ 7 Nick Tipton            Galen Hesson             B    .     .     .     77.03  49.38          
 
- 8 Mike Christensen       Stanford Christie        A    2     .     .     97.77  62.67  1.05(A) 
+ 8 Mike Christensen       Stanford Christie        A    2     .     .    100.10  64.17  1.05(A) 
 
- 9 David Taylor           Chris Pesce              B    .     .     .     78.65  50.42          
+ 9 David Taylor           Chris Pesce              B    .     .     .     77.57  49.72          
 
-10 Victor Bremson         Dennis Duryea            B    .     .     .     70.25  45.03          
+10 Victor Bremson         Dennis Duryea            B    .     .     .     69.60  44.62          
 
-11 Jeremy Gulley          Shawn Abernethy          B    4     2     .     86.94  55.73  0.62(B) 
+11 Jeremy Gulley          Shawn Abernethy          B    4     2     .     87.10  55.83  0.62(B) 
 
-12 Hugh Hendrickson       Nelson Davis             B    .     .     .     66.35  42.53          
-
-
-
-14 Patrick Dunn           Polly Dunn               A    .     .     .     68.71  44.04          
-
-15 Marilyn Dierickx       Irving Sonkin            C    3     1     1     87.66  56.19  0.88(B) 
-
-16 David Baer             Rose Bolson              A    .     .     .     65.54  42.01          
+12 Hugh Hendrickson       Nelson Davis             B    .     .     .     67.28  43.13          
 
 
-                                          Totals                        1171.59       
+
+14 Patrick Dunn           Polly Dunn               A    .     .     .     68.03  43.61          
+
+15 Marilyn Dierickx       Irving Sonkin            C    3     1     1     87.75  56.25  0.88(B) 
+
+16 David Baer             Rose Bolson              A    .     .     .     66.63  42.71          
+
+
+                                          Totals                        1171.65       
 
  RESULTS OF BOARD 1
 
@@ -258,26 +258,26 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-         50    3.00   3.00 3-Ring-Zaugg vs 7-Tipton-Hesson
+         50    3.50   2.50 3-Ring-Zaugg vs 7-Tipton-Hesson
         100    1.00   5.00 4-Baum-Stark vs 6-Jacobson-Rind
         100    1.00   5.00 5-Cowles-Laughary vs 10-Bremson-Duryea
-  170          4.00   2.00 8-Christensen-Christie vs 2-Romeo-Sieg
+  170          5.00   1.00 8-Christensen-Christie vs 2-Romeo-Sieg
         100    1.00   5.00 14-Dunn-Dunn vs 12-Hendrickson-Davis
-  420          5.50   0.50 15-Dierickx-Sonkin vs 11-Gulley-Abernethy
-  420          5.50   0.50 16-Baer-Bolson vs 9-Taylor-Pesce
+  420          6.00   0.00 15-Dierickx-Sonkin vs 11-Gulley-Abernethy
+         50    3.50   2.50 16-Baer-Bolson vs 9-Taylor-Pesce
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 18
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  620          3.50   2.50 3-Ring-Zaugg vs 7-Tipton-Hesson
-  620          3.50   2.50 4-Baum-Stark vs 6-Jacobson-Rind
-  620          3.50   2.50 5-Cowles-Laughary vs 10-Bremson-Duryea
+  620          3.00   3.00 3-Ring-Zaugg vs 7-Tipton-Hesson
+  620          3.00   3.00 4-Baum-Stark vs 6-Jacobson-Rind
+  620          3.00   3.00 5-Cowles-Laughary vs 10-Bremson-Duryea
   660          6.00   0.00 8-Christensen-Christie vs 2-Romeo-Sieg
-  620          3.50   2.50 14-Dunn-Dunn vs 12-Hendrickson-Davis
-  300          1.00   5.00 15-Dierickx-Sonkin vs 11-Gulley-Abernethy
-        170    0.00   6.00 16-Baer-Bolson vs 9-Taylor-Pesce
+  620          3.00   3.00 14-Dunn-Dunn vs 12-Hendrickson-Davis
+  300          0.00   6.00 15-Dierickx-Sonkin vs 11-Gulley-Abernethy
+  620          3.00   3.00 16-Baer-Bolson vs 9-Taylor-Pesce
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 19
@@ -362,13 +362,13 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        100    0.08   5.92 3-Ring-Zaugg vs 14-Dunn-Dunn
-  430          4.75   1.25 5-Cowles-Laughary vs 4-Baum-Stark
-  430          4.75   1.25 7-Tipton-Hesson vs 11-Gulley-Abernethy
+        100    0.20   5.80 3-Ring-Zaugg vs 14-Dunn-Dunn
+  430          5.10   0.90 5-Cowles-Laughary vs 4-Baum-Stark
+  430          5.10   0.90 7-Tipton-Hesson vs 11-Gulley-Abernethy
   AVE+  AVE+   3.60   3.89 9-Taylor-Pesce vs 1-Setterholm-Christiansen
-  430          4.75   1.25 10-Bremson-Duryea vs 8-Christensen-Christie
-         50    1.25   4.75 12-Hendrickson-Davis vs 6-Jacobson-Rind
-  130          2.42   3.58 15-Dierickx-Sonkin vs 2-Romeo-Sieg
+  AVE+  AVE-   3.60   2.40 10-Bremson-Duryea vs 8-Christensen-Christie
+         50    1.60   4.40 12-Hendrickson-Davis vs 6-Jacobson-Rind
+  130          3.00   3.00 15-Dierickx-Sonkin vs 2-Romeo-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 26
