@@ -1,0 +1,549 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>August 15, 2017    |CLUB NO.>158048    | 08/15/2017 22:35
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  143.0 |TOP>  11 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=9/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Jennifer Chalfan         A    3     .     .    162.50  56.82  0.65(A) 
+
+ 2 Adam Ruprecht          Christopher Jarvis       B    1     1     .    173.33  60.60  1.30(A) 
+
+ 3 Chris Pesce            David Taylor             B    .     .     .    131.08  45.83          
+
+ 4 Dex Stuberg            Joel Fuhrman             B    .     .     .    122.96  42.99          
+
+ 5 Leah Sieg              Nathan Glass             C    .     .     .    106.17  37.12          
+
+ 6 Peiyush Jain           Praveen Holenarsipur     C    4     2     1    161.42  56.44  0.50(B) 
+
+ 7 Rose Bolson            David Baer               A    5     .     .    157.08  54.92  0.26(A) 
+
+ 8 Steven Lewis           Grant Davis              B    .     .     .    128.38  44.89          
+
+ 9 Tracey Guice           Ivy French               C    .     .     .    113.21  39.58          
+
+10 Dennis Heller          John Weinberg            A    2     .     .    166.29  58.14  0.91(A) 
+
+11 William Campbell       Nelson Davis             B    .     4     .    141.38  49.43  0.25(B) 
+
+12 Ann Romeo              Ray Miller               A    .     .     .    147.88  51.71          
+
+13 Terry Sand             Brad Rind                C    .     3     2    147.33  51.51  0.36(B) 
+
+
+                                          Totals                        1859.01       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>August 15, 2017    |CLUB NO.>158048    | 08/15/2017 22:35
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  143.0 |TOP>  11 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=9/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jenni Carmichael       Eric Sieg                A    1     .     .    173.00  60.49  1.30(A) 
+
+ 2 Clay Laughary          Pete Cowles              C    .     .     .    126.50  44.23          
+
+
+
+ 4 Sue Anderson           David Roselle            B    .     4     .    143.00  50.00  0.25(B) 
+
+ 5 Les Miller             Cathleen Miller          C    .     .     2    142.00  49.65  0.28(C) 
+
+ 6 Nick Tipton            Galen Hesson             B    2     1     .    156.50  54.72  0.91(A) 
+
+ 7 Jeffrey Ford           Kim Eng                  A    5     .     .    151.50  52.97  0.26(A) 
+
+ 8 Moises Saul            Irving Sonkin            C    .     .     .    122.00  42.66          
+
+ 9 Chris Brown            Aaron Brown              C    .     .     .    121.00  42.31          
+
+10 Brian Zaugg            Stanford Christie        A    4     .     .    152.00  53.15  0.46(A) 
+
+11 Beau Hovda             Hugh Hendrickson         B    .     .     .    124.00  43.36          
+
+12 Mike Christensen       Mike Ring                B    .     3     .    149.50  52.27  0.36(B) 
+
+13 Daniel Poore           John Krah                C    3     2     1    155.00  54.20  0.65(A) 
+
+
+                                          Totals                        1716.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          6.00   5.00 1-Delfs-Chalfan vs 1-Carmichael-Sieg
+  420          0.00  11.00 3-Pesce-Taylor vs 5-Miller-Miller
+  990          9.50   1.50 4-Stuberg-Fuhrman vs 7-Ford-Eng
+  460          1.00  10.00 5-Sieg-Glass vs 9-Brown-Brown
+  990          9.50   1.50 6-Jain-Holenarsipur vs 11-Hovda-Hendrickson
+  490          3.50   7.50 7-Bolson-Baer vs 13-Poore-Krah
+  990          9.50   1.50 8-Lewis-Davis vs 2-Laughary-Cowles
+  490          3.50   7.50 9-Guice-French vs 4-Anderson-Roselle
+  990          9.50   1.50 10-Heller-Weinberg vs 6-Tipton-Hesson
+  480          2.00   9.00 11-Campbell-Davis vs 8-Saul-Sonkin
+  980          6.00   5.00 12-Romeo-Miller vs 10-Zaugg-Christie
+  980          6.00   5.00 13-Sand-Rind vs 12-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          8.50   2.50 1-Delfs-Chalfan vs 1-Carmichael-Sieg
+  200          2.50   8.50 3-Pesce-Taylor vs 5-Miller-Miller
+  650          8.50   2.50 4-Stuberg-Fuhrman vs 7-Ford-Eng
+  200          2.50   8.50 5-Sieg-Glass vs 9-Brown-Brown
+  650          8.50   2.50 6-Jain-Holenarsipur vs 11-Hovda-Hendrickson
+  200          2.50   8.50 7-Bolson-Baer vs 13-Poore-Krah
+  650          8.50   2.50 8-Lewis-Davis vs 2-Laughary-Cowles
+  650          8.50   2.50 9-Guice-French vs 4-Anderson-Roselle
+  200          2.50   8.50 10-Heller-Weinberg vs 6-Tipton-Hesson
+  200          2.50   8.50 11-Campbell-Davis vs 8-Saul-Sonkin
+  200          2.50   8.50 12-Romeo-Miller vs 10-Zaugg-Christie
+  650          8.50   2.50 13-Sand-Rind vs 12-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   8.00 1-Delfs-Chalfan vs 13-Poore-Krah
+  100          9.50   1.50 2-Ruprecht-Jarvis vs 2-Laughary-Cowles
+        650    3.00   8.00 3-Pesce-Taylor vs 4-Anderson-Roselle
+  100          9.50   1.50 4-Stuberg-Fuhrman vs 6-Tipton-Hesson
+  100          9.50   1.50 5-Sieg-Glass vs 8-Saul-Sonkin
+        650    3.00   8.00 6-Jain-Holenarsipur vs 10-Zaugg-Christie
+        630    7.00   4.00 7-Bolson-Baer vs 12-Christensen-Ring
+        650    3.00   8.00 8-Lewis-Davis vs 1-Carmichael-Sieg
+        650    3.00   8.00 10-Heller-Weinberg vs 5-Miller-Miller
+        650    3.00   8.00 11-Campbell-Davis vs 7-Ford-Eng
+        650    3.00   8.00 12-Romeo-Miller vs 9-Brown-Brown
+  100          9.50   1.50 13-Sand-Rind vs 11-Hovda-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          8.50   2.50 1-Delfs-Chalfan vs 13-Poore-Krah
+  650         11.00   0.00 2-Ruprecht-Jarvis vs 2-Laughary-Cowles
+        100    1.00  10.00 3-Pesce-Taylor vs 4-Anderson-Roselle
+  150          5.50   5.50 4-Stuberg-Fuhrman vs 6-Tipton-Hesson
+  150          5.50   5.50 5-Sieg-Glass vs 8-Saul-Sonkin
+  150          5.50   5.50 6-Jain-Holenarsipur vs 10-Zaugg-Christie
+  600          8.50   2.50 7-Bolson-Baer vs 12-Christensen-Ring
+        100    1.00  10.00 8-Lewis-Davis vs 1-Carmichael-Sieg
+  150          5.50   5.50 10-Heller-Weinberg vs 5-Miller-Miller
+  140          3.00   8.00 11-Campbell-Davis vs 7-Ford-Eng
+  620         10.00   1.00 12-Romeo-Miller vs 9-Brown-Brown
+        100    1.00  10.00 13-Sand-Rind vs 11-Hovda-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   9.50 1-Delfs-Chalfan vs 12-Christensen-Ring
+   50          4.00   7.00 2-Ruprecht-Jarvis vs 1-Carmichael-Sieg
+  620          9.00   2.00 4-Stuberg-Fuhrman vs 5-Miller-Miller
+        200    1.50   9.50 5-Sieg-Glass vs 7-Ford-Eng
+  170          6.50   4.50 6-Jain-Holenarsipur vs 9-Brown-Brown
+  140          5.00   6.00 7-Bolson-Baer vs 11-Hovda-Hendrickson
+  620          9.00   2.00 8-Lewis-Davis vs 13-Poore-Krah
+        500    0.00  11.00 9-Guice-French vs 2-Laughary-Cowles
+  930         11.00   0.00 10-Heller-Weinberg vs 4-Anderson-Roselle
+  170          6.50   4.50 11-Campbell-Davis vs 6-Tipton-Hesson
+  620          9.00   2.00 12-Romeo-Miller vs 8-Saul-Sonkin
+        130    3.00   8.00 13-Sand-Rind vs 10-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    2.50   8.50 1-Delfs-Chalfan vs 12-Christensen-Ring
+        650    5.50   5.50 2-Ruprecht-Jarvis vs 1-Carmichael-Sieg
+        650    5.50   5.50 4-Stuberg-Fuhrman vs 5-Miller-Miller
+        680    2.50   8.50 5-Sieg-Glass vs 7-Ford-Eng
+        620    8.00   3.00 6-Jain-Holenarsipur vs 9-Brown-Brown
+        650    5.50   5.50 7-Bolson-Baer vs 11-Hovda-Hendrickson
+        500    9.50   1.50 8-Lewis-Davis vs 13-Poore-Krah
+       1430    0.00  11.00 9-Guice-French vs 2-Laughary-Cowles
+  100         11.00   0.00 10-Heller-Weinberg vs 4-Anderson-Roselle
+        800    1.00  10.00 11-Campbell-Davis vs 6-Tipton-Hesson
+        500    9.50   1.50 12-Romeo-Miller vs 8-Saul-Sonkin
+        650    5.50   5.50 13-Sand-Rind vs 10-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50  10.50 1-Delfs-Chalfan vs 11-Hovda-Hendrickson
+  200          9.00   2.00 2-Ruprecht-Jarvis vs 13-Poore-Krah
+  800         11.00   0.00 3-Pesce-Taylor vs 2-Laughary-Cowles
+        200    0.50  10.50 4-Stuberg-Fuhrman vs 4-Anderson-Roselle
+         80    4.00   7.00 5-Sieg-Glass vs 6-Tipton-Hesson
+  600         10.00   1.00 6-Jain-Holenarsipur vs 8-Saul-Sonkin
+  110          7.00   4.00 7-Bolson-Baer vs 10-Zaugg-Christie
+   90          5.50   5.50 8-Lewis-Davis vs 12-Christensen-Ring
+        100    2.50   8.50 9-Guice-French vs 1-Carmichael-Sieg
+        100    2.50   8.50 11-Campbell-Davis vs 5-Miller-Miller
+   90          5.50   5.50 12-Romeo-Miller vs 7-Ford-Eng
+  120          8.00   3.00 13-Sand-Rind vs 9-Brown-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    9.50   1.50 1-Delfs-Chalfan vs 11-Hovda-Hendrickson
+        210    5.00   6.00 2-Ruprecht-Jarvis vs 13-Poore-Krah
+        130    7.50   3.50 3-Pesce-Taylor vs 2-Laughary-Cowles
+        430    2.00   9.00 4-Stuberg-Fuhrman vs 4-Anderson-Roselle
+        430    2.00   9.00 5-Sieg-Glass vs 6-Tipton-Hesson
+        150    6.00   5.00 6-Jain-Holenarsipur vs 8-Saul-Sonkin
+        400    4.00   7.00 7-Bolson-Baer vs 10-Zaugg-Christie
+        430    2.00   9.00 8-Lewis-Davis vs 12-Christensen-Ring
+       1100    0.00  11.00 9-Guice-French vs 1-Carmichael-Sieg
+   50         11.00   0.00 11-Campbell-Davis vs 5-Miller-Miller
+        130    7.50   3.50 12-Romeo-Miller vs 7-Ford-Eng
+        110    9.50   1.50 13-Sand-Rind vs 9-Brown-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.50   4.50 1-Delfs-Chalfan vs 10-Zaugg-Christie
+         50    3.50   7.50 2-Ruprecht-Jarvis vs 12-Christensen-Ring
+  140          9.50   1.50 3-Pesce-Taylor vs 1-Carmichael-Sieg
+  110          6.50   4.50 5-Sieg-Glass vs 5-Miller-Miller
+        140    2.00   9.00 6-Jain-Holenarsipur vs 7-Ford-Eng
+  140          9.50   1.50 7-Bolson-Baer vs 9-Brown-Brown
+        170    0.50  10.50 8-Lewis-Davis vs 11-Hovda-Hendrickson
+        170    0.50  10.50 9-Guice-French vs 13-Poore-Krah
+  170         11.00   0.00 10-Heller-Weinberg vs 2-Laughary-Cowles
+         50    3.50   7.50 11-Campbell-Davis vs 4-Anderson-Roselle
+  110          6.50   4.50 12-Romeo-Miller vs 6-Tipton-Hesson
+  110          6.50   4.50 13-Sand-Rind vs 8-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  710          8.00   3.00 1-Delfs-Chalfan vs 10-Zaugg-Christie
+  710          8.00   3.00 2-Ruprecht-Jarvis vs 12-Christensen-Ring
+ 1460         11.00   0.00 3-Pesce-Taylor vs 1-Carmichael-Sieg
+  680          4.00   7.00 5-Sieg-Glass vs 5-Miller-Miller
+ 1100         10.00   1.00 6-Jain-Holenarsipur vs 7-Ford-Eng
+  710          8.00   3.00 7-Bolson-Baer vs 9-Brown-Brown
+  680          4.00   7.00 8-Lewis-Davis vs 11-Hovda-Hendrickson
+  650          1.00  10.00 9-Guice-French vs 13-Poore-Krah
+  680          4.00   7.00 10-Heller-Weinberg vs 2-Laughary-Cowles
+  680          4.00   7.00 11-Campbell-Davis vs 4-Anderson-Roselle
+  680          4.00   7.00 12-Romeo-Miller vs 6-Tipton-Hesson
+        100    0.00  11.00 13-Sand-Rind vs 8-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100         11.00   0.00 1-Delfs-Chalfan vs 9-Brown-Brown
+   50          9.00   2.00 2-Ruprecht-Jarvis vs 11-Hovda-Hendrickson
+         90    4.50   6.50 3-Pesce-Taylor vs 13-Poore-Krah
+   50          9.00   2.00 4-Stuberg-Fuhrman vs 2-Laughary-Cowles
+        120    1.00  10.00 5-Sieg-Glass vs 4-Anderson-Roselle
+        120    1.00  10.00 6-Jain-Holenarsipur vs 6-Tipton-Hesson
+   50          9.00   2.00 7-Bolson-Baer vs 8-Saul-Sonkin
+         50    6.00   5.00 8-Lewis-Davis vs 10-Zaugg-Christie
+        100    3.00   8.00 9-Guice-French vs 12-Christensen-Ring
+        120    1.00  10.00 10-Heller-Weinberg vs 1-Carmichael-Sieg
+    PASS       7.00   4.00 12-Romeo-Miller vs 5-Miller-Miller
+         90    4.50   6.50 13-Sand-Rind vs 7-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50  10.50 1-Delfs-Chalfan vs 9-Brown-Brown
+  140          6.00   5.00 2-Ruprecht-Jarvis vs 11-Hovda-Hendrickson
+  140          6.00   5.00 3-Pesce-Taylor vs 13-Poore-Krah
+         90    2.00   9.00 4-Stuberg-Fuhrman vs 2-Laughary-Cowles
+  300         11.00   0.00 5-Sieg-Glass vs 4-Anderson-Roselle
+  170         10.00   1.00 6-Jain-Holenarsipur vs 6-Tipton-Hesson
+  140          6.00   5.00 7-Bolson-Baer vs 8-Saul-Sonkin
+  140          6.00   5.00 8-Lewis-Davis vs 10-Zaugg-Christie
+  140          6.00   5.00 9-Guice-French vs 12-Christensen-Ring
+  140          6.00   5.00 10-Heller-Weinberg vs 1-Carmichael-Sieg
+        100    0.50  10.50 12-Romeo-Miller vs 5-Miller-Miller
+  140          6.00   5.00 13-Sand-Rind vs 7-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    7.50   3.50 1-Delfs-Chalfan vs 8-Saul-Sonkin
+  100         10.00   1.00 2-Ruprecht-Jarvis vs 10-Zaugg-Christie
+         90    7.50   3.50 3-Pesce-Taylor vs 12-Christensen-Ring
+        110    4.00   7.00 4-Stuberg-Fuhrman vs 1-Carmichael-Sieg
+        110    4.00   7.00 6-Jain-Holenarsipur vs 5-Miller-Miller
+  180         11.00   0.00 7-Bolson-Baer vs 7-Ford-Eng
+        110    4.00   7.00 8-Lewis-Davis vs 9-Brown-Brown
+         90    7.50   3.50 9-Guice-French vs 11-Hovda-Hendrickson
+        200    1.00  10.00 10-Heller-Weinberg vs 13-Poore-Krah
+         90    7.50   3.50 11-Campbell-Davis vs 2-Laughary-Cowles
+        140    2.00   9.00 12-Romeo-Miller vs 4-Anderson-Roselle
+        500    0.00  11.00 13-Sand-Rind vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.00   4.00 1-Delfs-Chalfan vs 8-Saul-Sonkin
+  450         11.00   0.00 2-Ruprecht-Jarvis vs 10-Zaugg-Christie
+         50    1.50   9.50 3-Pesce-Taylor vs 12-Christensen-Ring
+  100          3.00   8.00 4-Stuberg-Fuhrman vs 1-Carmichael-Sieg
+  200          7.00   4.00 6-Jain-Holenarsipur vs 5-Miller-Miller
+  420          9.50   1.50 7-Bolson-Baer vs 7-Ford-Eng
+         50    1.50   9.50 8-Lewis-Davis vs 9-Brown-Brown
+  420          9.50   1.50 9-Guice-French vs 11-Hovda-Hendrickson
+  140          4.00   7.00 10-Heller-Weinberg vs 13-Poore-Krah
+  200          7.00   4.00 11-Campbell-Davis vs 2-Laughary-Cowles
+        100    0.00  11.00 12-Romeo-Miller vs 4-Anderson-Roselle
+  170          5.00   6.00 13-Sand-Rind vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00  10.00 1-Delfs-Chalfan vs 7-Ford-Eng
+  110          8.00   3.00 2-Ruprecht-Jarvis vs 9-Brown-Brown
+         90    3.50   7.50 3-Pesce-Taylor vs 11-Hovda-Hendrickson
+   50          5.00   6.00 4-Stuberg-Fuhrman vs 13-Poore-Krah
+        100    1.00  10.00 5-Sieg-Glass vs 2-Laughary-Cowles
+  670         11.00   0.00 6-Jain-Holenarsipur vs 4-Anderson-Roselle
+  110          8.00   3.00 7-Bolson-Baer vs 6-Tipton-Hesson
+   90          6.00   5.00 8-Lewis-Davis vs 8-Saul-Sonkin
+        100    1.00  10.00 9-Guice-French vs 10-Zaugg-Christie
+  150         10.00   1.00 10-Heller-Weinberg vs 12-Christensen-Ring
+         90    3.50   7.50 11-Campbell-Davis vs 1-Carmichael-Sieg
+  110          8.00   3.00 13-Sand-Rind vs 5-Miller-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    6.50   4.50 1-Delfs-Chalfan vs 7-Ford-Eng
+  200         10.00   1.00 2-Ruprecht-Jarvis vs 9-Brown-Brown
+        120    3.00   8.00 3-Pesce-Taylor vs 11-Hovda-Hendrickson
+        150    1.00  10.00 4-Stuberg-Fuhrman vs 13-Poore-Krah
+         90    6.50   4.50 5-Sieg-Glass vs 2-Laughary-Cowles
+  500         11.00   0.00 6-Jain-Holenarsipur vs 4-Anderson-Roselle
+  100          9.00   2.00 7-Bolson-Baer vs 6-Tipton-Hesson
+        600    0.00  11.00 8-Lewis-Davis vs 8-Saul-Sonkin
+         90    6.50   4.50 9-Guice-French vs 10-Zaugg-Christie
+        120    3.00   8.00 10-Heller-Weinberg vs 12-Christensen-Ring
+         90    6.50   4.50 11-Campbell-Davis vs 1-Carmichael-Sieg
+        120    3.00   8.00 13-Sand-Rind vs 5-Miller-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150         10.00   1.00 1-Delfs-Chalfan vs 6-Tipton-Hesson
+   90          6.00   5.00 2-Ruprecht-Jarvis vs 8-Saul-Sonkin
+        100    3.50   7.50 3-Pesce-Taylor vs 10-Zaugg-Christie
+         50    5.00   6.00 4-Stuberg-Fuhrman vs 12-Christensen-Ring
+        150    1.00  10.00 5-Sieg-Glass vs 1-Carmichael-Sieg
+  110          7.00   4.00 7-Bolson-Baer vs 5-Miller-Miller
+        150    1.00  10.00 8-Lewis-Davis vs 7-Ford-Eng
+        150    1.00  10.00 9-Guice-French vs 9-Brown-Brown
+  170         11.00   0.00 10-Heller-Weinberg vs 11-Hovda-Hendrickson
+  140          9.00   2.00 11-Campbell-Davis vs 13-Poore-Krah
+  130          8.00   3.00 12-Romeo-Miller vs 2-Laughary-Cowles
+        100    3.50   7.50 13-Sand-Rind vs 4-Anderson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    8.00   3.00 1-Delfs-Chalfan vs 6-Tipton-Hesson
+        120   10.00   1.00 2-Ruprecht-Jarvis vs 8-Saul-Sonkin
+        430    0.50  10.50 3-Pesce-Taylor vs 10-Zaugg-Christie
+        430    0.50  10.50 4-Stuberg-Fuhrman vs 12-Christensen-Ring
+        400    3.00   8.00 5-Sieg-Glass vs 1-Carmichael-Sieg
+        150    8.00   3.00 7-Bolson-Baer vs 5-Miller-Miller
+        170    6.00   5.00 8-Lewis-Davis vs 7-Ford-Eng
+        400    3.00   8.00 9-Guice-French vs 9-Brown-Brown
+   50         11.00   0.00 10-Heller-Weinberg vs 11-Hovda-Hendrickson
+        150    8.00   3.00 11-Campbell-Davis vs 13-Poore-Krah
+        180    5.00   6.00 12-Romeo-Miller vs 2-Laughary-Cowles
+        400    3.00   8.00 13-Sand-Rind vs 4-Anderson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    7.50   3.50 1-Delfs-Chalfan vs 5-Miller-Miller
+         50    7.50   3.50 2-Ruprecht-Jarvis vs 7-Ford-Eng
+  420         11.00   0.00 3-Pesce-Taylor vs 9-Brown-Brown
+        100    3.00   8.00 4-Stuberg-Fuhrman vs 11-Hovda-Hendrickson
+        120    0.00  11.00 5-Sieg-Glass vs 13-Poore-Krah
+        100    3.00   8.00 6-Jain-Holenarsipur vs 2-Laughary-Cowles
+        100    3.00   8.00 7-Bolson-Baer vs 4-Anderson-Roselle
+        100    3.00   8.00 8-Lewis-Davis vs 6-Tipton-Hesson
+         50    7.50   3.50 9-Guice-French vs 8-Saul-Sonkin
+  140         10.00   1.00 10-Heller-Weinberg vs 10-Zaugg-Christie
+        100    3.00   8.00 11-Campbell-Davis vs 12-Christensen-Ring
+         50    7.50   3.50 12-Romeo-Miller vs 1-Carmichael-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300         10.50   0.50 1-Delfs-Chalfan vs 5-Miller-Miller
+  100          3.50   7.50 2-Ruprecht-Jarvis vs 7-Ford-Eng
+  200          7.50   3.50 3-Pesce-Taylor vs 9-Brown-Brown
+  100          3.50   7.50 4-Stuberg-Fuhrman vs 11-Hovda-Hendrickson
+  100          3.50   7.50 5-Sieg-Glass vs 13-Poore-Krah
+  100          3.50   7.50 6-Jain-Holenarsipur vs 2-Laughary-Cowles
+  200          7.50   3.50 7-Bolson-Baer vs 4-Anderson-Roselle
+  200          7.50   3.50 8-Lewis-Davis vs 6-Tipton-Hesson
+  200          7.50   3.50 9-Guice-French vs 8-Saul-Sonkin
+         90    1.00  10.00 10-Heller-Weinberg vs 10-Zaugg-Christie
+  300         10.50   0.50 11-Campbell-Davis vs 12-Christensen-Ring
+        140    0.00  11.00 12-Romeo-Miller vs 1-Carmichael-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    1.00  10.00 1-Delfs-Chalfan vs 4-Anderson-Roselle
+        400    5.00   6.00 2-Ruprecht-Jarvis vs 6-Tipton-Hesson
+   50          9.00   2.00 3-Pesce-Taylor vs 8-Saul-Sonkin
+        430    1.00  10.00 4-Stuberg-Fuhrman vs 10-Zaugg-Christie
+        400    5.00   6.00 5-Sieg-Glass vs 12-Christensen-Ring
+        400    5.00   6.00 6-Jain-Holenarsipur vs 1-Carmichael-Sieg
+        430    1.00  10.00 8-Lewis-Davis vs 5-Miller-Miller
+        400    5.00   6.00 9-Guice-French vs 7-Ford-Eng
+  100         11.00   0.00 10-Heller-Weinberg vs 9-Brown-Brown
+   50          9.00   2.00 11-Campbell-Davis vs 11-Hovda-Hendrickson
+        400    5.00   6.00 12-Romeo-Miller vs 13-Poore-Krah
+   50          9.00   2.00 13-Sand-Rind vs 2-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400         10.50   0.50 1-Delfs-Chalfan vs 4-Anderson-Roselle
+        110    0.00  11.00 2-Ruprecht-Jarvis vs 6-Tipton-Hesson
+  300          9.00   2.00 3-Pesce-Taylor vs 8-Saul-Sonkin
+  120          6.00   5.00 4-Stuberg-Fuhrman vs 10-Zaugg-Christie
+         80    1.50   9.50 5-Sieg-Glass vs 12-Christensen-Ring
+  100          3.00   8.00 6-Jain-Holenarsipur vs 1-Carmichael-Sieg
+  110          4.50   6.50 8-Lewis-Davis vs 5-Miller-Miller
+         80    1.50   9.50 9-Guice-French vs 7-Ford-Eng
+  200          8.00   3.00 10-Heller-Weinberg vs 9-Brown-Brown
+  110          4.50   6.50 11-Campbell-Davis vs 11-Hovda-Hendrickson
+  400         10.50   0.50 12-Romeo-Miller vs 13-Poore-Krah
+  130          7.00   4.00 13-Sand-Rind vs 2-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   9.00 2-Ruprecht-Jarvis vs 5-Miller-Miller
+        200    2.00   9.00 3-Pesce-Taylor vs 7-Ford-Eng
+   90          7.00   4.00 4-Stuberg-Fuhrman vs 9-Brown-Brown
+        100    6.00   5.00 5-Sieg-Glass vs 11-Hovda-Hendrickson
+  100          8.50   2.50 6-Jain-Holenarsipur vs 13-Poore-Krah
+        200    2.00   9.00 7-Bolson-Baer vs 2-Laughary-Cowles
+  100          8.50   2.50 8-Lewis-Davis vs 4-Anderson-Roselle
+  110         10.00   1.00 9-Guice-French vs 6-Tipton-Hesson
+        730    0.00  11.00 10-Heller-Weinberg vs 8-Saul-Sonkin
+        140    4.50   6.50 11-Campbell-Davis vs 10-Zaugg-Christie
+        140    4.50   6.50 12-Romeo-Miller vs 12-Christensen-Ring
+  200         11.00   0.00 13-Sand-Rind vs 1-Carmichael-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.50   5.50 2-Ruprecht-Jarvis vs 5-Miller-Miller
+  140          5.50   5.50 3-Pesce-Taylor vs 7-Ford-Eng
+         50    2.50   8.50 4-Stuberg-Fuhrman vs 9-Brown-Brown
+  400          9.00   2.00 5-Sieg-Glass vs 11-Hovda-Hendrickson
+        100    0.50  10.50 6-Jain-Holenarsipur vs 13-Poore-Krah
+         50    2.50   8.50 7-Bolson-Baer vs 2-Laughary-Cowles
+  490         11.00   0.00 8-Lewis-Davis vs 4-Anderson-Roselle
+        100    0.50  10.50 9-Guice-French vs 6-Tipton-Hesson
+  170          8.00   3.00 10-Heller-Weinberg vs 8-Saul-Sonkin
+  140          5.50   5.50 11-Campbell-Davis vs 10-Zaugg-Christie
+  450         10.00   1.00 12-Romeo-Miller vs 12-Christensen-Ring
+  140          5.50   5.50 13-Sand-Rind vs 1-Carmichael-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    6.50   4.50 1-Delfs-Chalfan vs 2-Laughary-Cowles
+        200    2.00   9.00 2-Ruprecht-Jarvis vs 4-Anderson-Roselle
+        620    0.00  11.00 3-Pesce-Taylor vs 6-Tipton-Hesson
+        170    4.50   6.50 4-Stuberg-Fuhrman vs 8-Saul-Sonkin
+        140    6.50   4.50 5-Sieg-Glass vs 10-Zaugg-Christie
+  200         11.00   0.00 6-Jain-Holenarsipur vs 12-Christensen-Ring
+        200    2.00   9.00 7-Bolson-Baer vs 1-Carmichael-Sieg
+        100    9.00   2.00 9-Guice-French vs 5-Miller-Miller
+        170    4.50   6.50 10-Heller-Weinberg vs 7-Ford-Eng
+        100    9.00   2.00 11-Campbell-Davis vs 9-Brown-Brown
+        200    2.00   9.00 12-Romeo-Miller vs 11-Hovda-Hendrickson
+        100    9.00   2.00 13-Sand-Rind vs 13-Poore-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       8.00   3.00 1-Delfs-Chalfan vs 2-Laughary-Cowles
+  100          9.00   2.00 2-Ruprecht-Jarvis vs 4-Anderson-Roselle
+        120    1.50   9.50 3-Pesce-Taylor vs 6-Tipton-Hesson
+         90    6.50   4.50 4-Stuberg-Fuhrman vs 8-Saul-Sonkin
+        100    4.00   7.00 5-Sieg-Glass vs 10-Zaugg-Christie
+        120    1.50   9.50 6-Jain-Holenarsipur vs 12-Christensen-Ring
+        200    0.00  11.00 7-Bolson-Baer vs 1-Carmichael-Sieg
+  120         10.00   1.00 9-Guice-French vs 5-Miller-Miller
+         90    6.50   4.50 10-Heller-Weinberg vs 7-Ford-Eng
+        100    4.00   7.00 11-Campbell-Davis vs 9-Brown-Brown
+  140         11.00   0.00 12-Romeo-Miller vs 11-Hovda-Hendrickson
+        100    4.00   7.00 13-Sand-Rind vs 13-Poore-Krah
+----------------------------------------------------------------------
