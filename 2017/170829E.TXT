@@ -1,76 +1,76 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>August 29, 2017    |CLUB NO.>158048    | 08/29/2017 22:26
+DATE>August 29, 2017    |CLUB NO.>158048    | 09/05/2017 18:22
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Bryan & Shawn   |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
-AVE>  121.5 |TOP>   9 |MP LIMITS>None           |CLUB>Mercercrest
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS> 11                                        ,----,------,------------,------,---------,
--------------------------------------------------|    | O'all|   Section  |      |Final    |
-No Name                   Name                   |Qual|  Rank| Rank|Score | Pct  |Awards   |
-------------------------------------------------- ---- ------ ----- ------ ------ --------- 
- 1 Kim Eng                Tom Carmichael           Q     2     2    158.63  65.28  1.48Red 
-                                                                                   1.48Blk 
- 2 Bryan Delfs            Kevin Epley              Q     6     4    132.75  54.63  0.47Red 
-                                                                                   0.46Blk 
- 3 Steven Mark Lewis      Yuri Wiitala             Q                123.75  50.93          
+PAIRS IN STRAT A=11/B=7/C=3                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Tom Carmichael           A   Q            2     .     .   |   2     .     .    158.63  65.28  1.48Red 
+                                                                                                                        1.48Blk 
+ 2 Bryan Delfs            Kevin Epley              B   Q   Q        3     1     .   |   3     1     .    133.31  54.86  1.11Red 
+                                                                                                                        1.11Blk 
+ 3 Steven Mark Lewis      Yuri Wiitala             C   Q   Q   Q    .     3     2   |   .     2     1    123.75  50.93  0.59Red 
+                                                                                                                        0.59Blk 
+ 4 Pete Cowles            Clay Laughary            B       Q        .     .     .   |   .     .     .    115.31  47.45          
 
- 4 Pete Cowles            Clay Laughary                             114.75  47.22          
+ 5 Jeannie Falls          Bruce Baker-Harvey       C                .     .     .   |   .     .     .     97.31  40.05          
 
- 5 Jeannie Falls          Bruce Baker-Harvey                         96.75  39.81          
+ 6 Rose Bolson            Shawn Abernethy          A                .     .     .   |   .     .     .     92.25  37.96          
 
- 6 Rose Bolson            Shawn Abernethy                            91.69  37.73          
+ 7 Tracey Guice           Ivy French               C   Q   Q   Q    .     .     .   |   .     3     .    118.13  48.61  0.28Red 
+                                                                                                                        0.28Blk 
+ 8 Connie Heller          Dennis Heller            A   Q            6     .     .   |   4     .     .    132.19  54.40  0.47Red 
+                                                                                                                        0.46Blk 
+ 9 Adam Ruprecht          Christopher Jarvis       B                .     .     .   |   .     .     .    107.50  44.24          
 
- 7 Tracey Guice           Ivy French               Q                118.13  48.61          
-
- 8 Connie Heller          Dennis Heller            Q     3     3    134.44  55.33  1.11Red 
-                                                                                   1.11Blk 
- 9 Adam Ruprecht          Christopher Jarvis                        107.50  44.24          
-
-10 Ray Miller             Chris Pesce              Q     1     1    165.00  67.90  1.97Red 
-                                                                                   1.97Blk 
-11 Ann Romeo              Martha Jenkins                             89.44  36.81          
+10 Ray Miller             Chris Pesce              A   Q            1     .     .   |   1     .     .    165.00  67.90  1.97Red 
+                                                                                                                        1.97Blk 
+11 Ann Romeo              Martha Jenkins           B                .     .     .   |   .     .     .     89.44  36.81          
 
 
-                                          Totals                   1332.83       
+                                          Totals                                                        1332.82       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>August 29, 2017    |CLUB NO.>158048    | 08/29/2017 22:26
+DATE>August 29, 2017    |CLUB NO.>158048    | 09/05/2017 18:22
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Bryan & Shawn   |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
-AVE>  121.5 |TOP>   9 |MP LIMITS>None           |CLUB>Mercercrest
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS> 11                                        ,----,------,------------,------,---------,
--------------------------------------------------|    | O'all|   Section  |      |Final    |
-No Name                   Name                   |Qual|  Rank| Rank|Score | Pct  |Awards   |
-------------------------------------------------- ---- ------ ----- ------ ------ --------- 
- 1 Jenni Carmichael       Greg Humphreys           Q    4/5   1/2   133.50  54.94  0.84Red 
-                                                                                   0.84Blk 
- 2 Eric Sieg              Stanford Christie        Q                123.00  50.62          
+PAIRS IN STRAT A=11/B=4/C=3                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Jenni Carmichael       Greg Humphreys           A   Q           4/5    .     .   |  1/2    .     .    133.00  54.73  0.84Red 
+                                                                                                                        0.84Blk 
+ 2 Eric Sieg              Stanford Christie        A   Q            .     .     .   |   .     .     .    123.00  50.62          
 
- 3 Brian Zaugg            Mike Ring                                 104.00  42.80          
+ 3 Brian Zaugg            Mike Ring                A                .     .     .   |   .     .     .    103.50  42.59          
 
- 4 John Krah              Daniel Poore                              115.00  47.33          
+ 4 John Krah              Daniel Poore             B                .     .     .   |   .     .     .    115.00  47.33          
 
- 5 Xiang Tu               Jack Yuan                Q                122.50  50.41          
+ 5 Xiang Tu               Jack Yuan                C   Q   Q   Q    .     4     .   |   .     2     .    122.50  50.41  0.45Red 
+                                                                                                                        0.44Blk 
+ 6 Nick Tipton            Galen Hesson             A   Q           4/5    .     .   |  1/2    .     .    133.00  54.73  0.84Red 
+                                                                                                                        0.84Blk 
+ 7 Irving Sonkin          Craig Von Land           C   Q   Q   Q    .     2     1   |   4     1     1    128.50  52.88  0.79Red 
+                                                                                                                        0.79Blk 
+ 8 David Taylor           Jeffrey Ford             A                .     .     .   |   .     .     .    113.00  46.50          
 
- 6 Nick Tipton            Galen Hesson             Q    4/5   1/2   133.50  54.94  0.84Red 
-                                                                                   0.84Blk 
- 7 Irving Sonkin          Craig Von Land           Q           4    126.50  52.06  0.35Red 
-                                                                                   0.34Blk 
- 8 David Taylor           Jeffrey Ford                              113.00  46.50          
+ 9 Brad Rind              Terry Jacobson           C                .     .     .   |   .     .     .    114.00  46.91          
 
- 9 Brad Rind              Terry Jacobson                            114.00  46.91          
-
-10 Mike Christensen       David Wright             Q           3    130.00  53.50  0.50Red 
-                                                                                   0.49Blk 
+10 Mike Christensen       David Wright             A   Q            .     .     .   |   3     .     .    129.50  53.29  0.50Red 
+                                                                                                                        0.49Blk 
 
 
 
-                                          Totals                   1215.00       
+                                          Totals                                                        1215.00       
 
  RESULTS OF BOARD 1
 
@@ -477,13 +477,13 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   210          9.00   0.00 1-Eng-Carmichael vs 4-Krah-Poore
-  110          4.50   4.50 2-Delfs-Epley vs 6-Tipton-Hesson
+  110          5.00   4.00 2-Delfs-Epley vs 6-Tipton-Hesson
         200    0.50   8.50 3-Lewis-Wiitala vs 8-Taylor-Ford
-  110          4.50   4.50 4-Cowles-Laughary vs 10-Christensen-Wright
-  100          2.00   7.00 5-Falls-Baker-Harvey vs 1-Carmichael-Humphreys
-  110          4.50   4.50 6-Bolson-Abernethy vs 3-Zaugg-Ring
+  110          5.00   4.00 4-Cowles-Laughary vs 10-Christensen-Wright
+  100          2.50   6.50 5-Falls-Baker-Harvey vs 1-Carmichael-Humphreys
+  110          5.00   4.00 6-Bolson-Abernethy vs 3-Zaugg-Ring
   200          8.00   1.00 7-Guice-French vs 5-Tu-Yuan
-  110          4.50   4.50 8-Heller-Heller vs 7-Sonkin-Von Land
+  100          2.50   6.50 8-Heller-Heller vs 7-Sonkin-Von Land
   120          7.00   2.00 9-Ruprecht-Jarvis vs 9-Rind-Jacobson
         200    0.50   8.50 10-Miller-Pesce vs 2-Sieg-Christie
 ----------------------------------------------------------------------

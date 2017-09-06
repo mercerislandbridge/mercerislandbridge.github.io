@@ -670,7 +670,7 @@ function boarddata() {
 [-200,2.00,"1","5","5H* S -1",-140,3.00,"2","7","3S E",990,9.00,"3","9","4H* S +1",620,6.50,"5","2","4H S",620,6.50,"6","4","4H N",620,6.50,"7","6","4H S",-680,0.00,"8","8","4S W +2",-650,1.00,"9","1","4S E +1",620,6.50,"10","3","4H S",170,4.00,"11","10","3H S +1"],
 [-50,4.00,"1","5","2S S -1",110,8.00,"2","7","2S S",-50,4.00,"3","9","1N S -1",-50,4.00,"5","2","3S N -1",50,6.00,"6","4","1N W -1",110,8.00,"7","6","2S S",-100,1.50,"8","8","1N S -2",-120,0.00,"9","1","1N E +1",110,8.00,"10","3","2S N",-100,1.50,"11","10","2H N -2"],
 [460,8.00,"1","4","3N S +2",420,2.50,"2","6","4S S",460,8.00,"3","8","3N N +2",420,2.50,"4","10","4S S",420,2.50,"5","1","4S S",420,2.50,"6","3","4S N",420,2.50,"7","5","4S S",420,2.50,"8","7","4S S",460,8.00,"9","9","3N N +2",450,6.00,"10","2","4S S +1"],
-[210,9.00,"1","4","1N S +4",110,4.50,"2","6","2S N",-200,0.50,"3","8","1N S -2",110,4.50,"4","10","2S N",100,2.00,"5","1","2D E -1",110,4.50,"6","3","2S N",200,8.00,"7","5","3D W -2",110,4.50,"8","7","2H E -1",120,7.00,"9","9","1N S +1",-200,0.50,"10","2","2S* N -1"],
+[210,9.00,"1","4","1N S +4",110,5.00,"2","6","2S N",-200,0.50,"3","8","1N S -2",110,5.00,"4","10","2S N",100,2.50,"5","1","2D E -1",110,5.00,"6","3","2S N",200,8.00,"7","5","3D W -2",100,2.50,"8","7","2H E -1",120,7.00,"9","9","1N S +1",-200,0.50,"10","2","2S* N -1"],
 [-300,0.50,"1","4","3S* S -2",-110,4.00,"2","6","3D W",-50,7.50,"3","8","2H S -1",-110,4.00,"4","10","2D W +1",-110,4.00,"5","1","2D W +1",-300,0.50,"6","3","2H* S -2",50,9.00,"7","5","4D W -1",-110,4.00,"8","7","2D W +1",-50,7.50,"9","9","2H S -1",-110,4.00,"10","2","2D W +1"]
 ];
   return [top, handix, times_played, hasContracts, hasLeads, b];
@@ -715,74 +715,92 @@ Jump directly to board
  <a href="#board_results27">27</a>
 </div>
 
-<table class="winners winners1col">
+<table class="winnersWrapper">
 <caption class="winnersCaption"><span class="stars">&#9733; &#9733; &#9733;&nbsp;&nbsp;</span>Masterpoint Winners&nbsp;&nbsp;<span class="stars">&#9733; &#9733; &#9733;</span></caption>
+<tr>
+<td>
+<table class="winners winners2col">
   <thead><tr> <td>Partnership</td> <td class="center">Pct</td> <td>Masterpoints</td> </tr></thead>
   <tbody>
   <tr> <td>Chris Pesce - Ray Miller</td> <td class="right">67.90</td> <td>1.97 Red, 1.97 Blk</td> </tr>
   <tr> <td>Kim Eng - Tom Carmichael</td> <td class="right">65.28</td> <td>1.48 Red, 1.48 Blk</td> </tr>
-  <tr> <td>Connie Heller - Dennis Heller</td> <td class="right">55.33</td> <td>1.11 Red, 1.11 Blk</td> </tr>
-  <tr> <td>Greg Humphreys - Jenni Carmichael</td> <td class="right">54.94</td> <td>0.84 Red, 0.84 Blk</td> </tr>
-  <tr> <td>Galen Hesson - Nick Tipton</td> <td class="right">54.94</td> <td>0.84 Red, 0.84 Blk</td> </tr>
-  <tr> <td>Bryan Delfs - Kevin Epley</td> <td class="right">54.63</td> <td>0.47 Red, 0.46 Blk</td> </tr>
-  <tr> <td>David Wright - Mike Christensen</td> <td class="right">53.50</td> <td>0.50 Red, 0.49 Blk</td> </tr>
-  <tr> <td>Craig Von Land - Irving Sonkin</td> <td class="right">52.06</td> <td>0.35 Red, 0.34 Blk</td> </tr>
+  <tr> <td>Bryan Delfs - Kevin Epley</td> <td class="right">54.86</td> <td>1.11 Red, 1.11 Blk</td> </tr>
+  <tr> <td>Greg Humphreys - Jenni Carmichael</td> <td class="right">54.73</td> <td>0.84 Red, 0.84 Blk</td> </tr>
+  <tr> <td>Galen Hesson - Nick Tipton</td> <td class="right">54.73</td> <td>0.84 Red, 0.84 Blk</td> </tr>
+  <tr> <td>Connie Heller - Dennis Heller</td> <td class="right">54.40</td> <td>0.47 Red, 0.46 Blk</td> </tr>
   </tbody>
 </table>
+</td>
+<td>
+<table class="winners winners2col">
+  <thead><tr> <td>Partnership</td> <td class="center">Pct</td> <td>Masterpoints</td> </tr></thead>
+  <tbody>
+  <tr> <td>David Wright - Mike Christensen</td> <td class="right">53.29</td> <td>0.50 Red, 0.49 Blk</td> </tr>
+  <tr> <td>Craig Von Land - Irving Sonkin</td> <td class="right">52.88</td> <td>0.79 Red, 0.79 Blk</td> </tr>
+  <tr> <td>Steven Mark Lewis - Yuri Wiitala</td> <td class="right">50.93</td> <td>0.59 Red, 0.59 Blk</td> </tr>
+  <tr> <td>Jack Yuan - Xiang Tu</td> <td class="right">50.41</td> <td>0.45 Red, 0.44 Blk</td> </tr>
+  <tr> <td>Ivy French - Tracey Guice</td> <td class="right">48.61</td> <td>0.28 Red, 0.28 Blk</td> </tr>
+  </tbody>
+</table>
+</td>
+</tr></table>
 
 <pre>
 EVENT&gt;Tuesday Evening Pairs    |SESSION&gt;Tuesday Eve  |SECTION&gt; A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE&gt;August 29, 2017    |CLUB NO.&gt;158048    | 08/29/2017 22:26
+DATE&gt;August 29, 2017    |CLUB NO.&gt;158048    | 09/05/2017 18:22
 ---------------------,-- ------------------- -------------,---------------------
 DIR&gt; Bryan & Shawn   |RATING&gt;Club - North American Pairs  |MOVEMENT&gt;MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
-AVE&gt;  121.5 |TOP&gt;   9 |MP LIMITS&gt;None           |CLUB&gt;Mercercrest
+AVE&gt;  121.5 |TOP&gt;   9 |MP LIMITS&gt;None/2500/500  |CLUB&gt;Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS&gt; 11                                        ,----,------,------------,------,---------,
--------------------------------------------------|    | O'all|   Section  |      |Final    |
-No Name                   Name                   |Qual|  Rank| Rank|Score | Pct  |Awards   |
-------------------------------------------------- ---- ------ ----- ------ ------ --------- 
- <a href="javascript:recap('A1N')">1</a> Kim Eng                Tom Carmichael           Q     2     2    158.63  65.28  1.48Red 
-                                                                                   1.48Blk 
- <a href="javascript:recap('A2N')">2</a> Bryan Delfs            Kevin Epley              Q     6     4    132.75  54.63  0.47Red 
-                                                                                   0.46Blk 
- <a href="javascript:recap('A3N')">3</a> Steven Mark Lewis      Yuri Wiitala             Q                123.75  50.93          
- <a href="javascript:recap('A4N')">4</a> Pete Cowles            Clay Laughary                             114.75  47.22          
- <a href="javascript:recap('A5N')">5</a> Jeannie Falls          Bruce Baker-Harvey                         96.75  39.81          
- <a href="javascript:recap('A6N')">6</a> Rose Bolson            Shawn Abernethy                            91.69  37.73          
- <a href="javascript:recap('A7N')">7</a> Tracey Guice           Ivy French               Q                118.13  48.61          
- <a href="javascript:recap('A8N')">8</a> Connie Heller          Dennis Heller            Q     3     3    134.44  55.33  1.11Red 
-                                                                                   1.11Blk 
- <a href="javascript:recap('A9N')">9</a> Adam Ruprecht          Christopher Jarvis                        107.50  44.24          
-<a href="javascript:recap('A10N')">10</a> Ray Miller             Chris Pesce              Q     1     1    165.00  67.90  1.97Red 
-                                                                                   1.97Blk 
-<a href="javascript:recap('A11N')">11</a> Ann Romeo              Martha Jenkins                             89.44  36.81          
-                                          Totals                   1332.83       
+PAIRS IN STRAT A=11/B=7/C=3                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ <a href="javascript:recap('A1N')">1</a> Kim Eng                Tom Carmichael           A   Q            2     .     .   |   2     .     .    158.63  65.28  1.48Red 
+                                                                                                                        1.48Blk 
+ <a href="javascript:recap('A2N')">2</a> Bryan Delfs            Kevin Epley              B   Q   Q        3     1     .   |   3     1     .    133.31  54.86  1.11Red 
+                                                                                                                        1.11Blk 
+ <a href="javascript:recap('A3N')">3</a> Steven Mark Lewis      Yuri Wiitala             C   Q   Q   Q    .     3     2   |   .     2     1    123.75  50.93  0.59Red 
+                                                                                                                        0.59Blk 
+ <a href="javascript:recap('A4N')">4</a> Pete Cowles            Clay Laughary            B       Q        .     .     .   |   .     .     .    115.31  47.45          
+ <a href="javascript:recap('A5N')">5</a> Jeannie Falls          Bruce Baker-Harvey       C                .     .     .   |   .     .     .     97.31  40.05          
+ <a href="javascript:recap('A6N')">6</a> Rose Bolson            Shawn Abernethy          A                .     .     .   |   .     .     .     92.25  37.96          
+ <a href="javascript:recap('A7N')">7</a> Tracey Guice           Ivy French               C   Q   Q   Q    .     .     .   |   .     3     .    118.13  48.61  0.28Red 
+                                                                                                                        0.28Blk 
+ <a href="javascript:recap('A8N')">8</a> Connie Heller          Dennis Heller            A   Q            6     .     .   |   4     .     .    132.19  54.40  0.47Red 
+                                                                                                                        0.46Blk 
+ <a href="javascript:recap('A9N')">9</a> Adam Ruprecht          Christopher Jarvis       B                .     .     .   |   .     .     .    107.50  44.24          
+<a href="javascript:recap('A10N')">10</a> Ray Miller             Chris Pesce              A   Q            1     .     .   |   1     .     .    165.00  67.90  1.97Red 
+                                                                                                                        1.97Blk 
+<a href="javascript:recap('A11N')">11</a> Ann Romeo              Martha Jenkins           B                .     .     .   |   .     .     .     89.44  36.81          
+                                          Totals                                                        1332.82       
 
 EVENT&gt;Tuesday Evening Pairs    |SESSION&gt;Tuesday Eve  |SECTION&gt; A E-W
 ------------------------,------ ------------,-------- --------------------------
-AVE&gt;  121.5 |TOP&gt;   9 |MP LIMITS&gt;None           |CLUB&gt;Mercercrest
+AVE&gt;  121.5 |TOP&gt;   9 |MP LIMITS&gt;None/2500/500  |CLUB&gt;Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS&gt; 11                                        ,----,------,------------,------,---------,
--------------------------------------------------|    | O'all|   Section  |      |Final    |
-No Name                   Name                   |Qual|  Rank| Rank|Score | Pct  |Awards   |
-------------------------------------------------- ---- ------ ----- ------ ------ --------- 
- <a href="javascript:recap('A1E')">1</a> Jenni Carmichael       Greg Humphreys           Q    4/5   1/2   133.50  54.94  0.84Red 
-                                                                                   0.84Blk 
- <a href="javascript:recap('A2E')">2</a> Eric Sieg              Stanford Christie        Q                123.00  50.62          
- <a href="javascript:recap('A3E')">3</a> Brian Zaugg            Mike Ring                                 104.00  42.80          
- <a href="javascript:recap('A4E')">4</a> John Krah              Daniel Poore                              115.00  47.33          
- <a href="javascript:recap('A5E')">5</a> Xiang Tu               Jack Yuan                Q                122.50  50.41          
- <a href="javascript:recap('A6E')">6</a> Nick Tipton            Galen Hesson             Q    4/5   1/2   133.50  54.94  0.84Red 
-                                                                                   0.84Blk 
- <a href="javascript:recap('A7E')">7</a> Irving Sonkin          Craig Von Land           Q           4    126.50  52.06  0.35Red 
-                                                                                   0.34Blk 
- <a href="javascript:recap('A8E')">8</a> David Taylor           Jeffrey Ford                              113.00  46.50          
- <a href="javascript:recap('A9E')">9</a> Brad Rind              Terry Jacobson                            114.00  46.91          
-<a href="javascript:recap('A10E')">10</a> Mike Christensen       David Wright             Q           3    130.00  53.50  0.50Red 
-                                                                                   0.49Blk 
-                                          Totals                   1215.00       
+PAIRS IN STRAT A=11/B=4/C=3                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ <a href="javascript:recap('A1E')">1</a> Jenni Carmichael       Greg Humphreys           A   Q           4/5    .     .   |  1/2    .     .    133.00  54.73  0.84Red 
+                                                                                                                        0.84Blk 
+ <a href="javascript:recap('A2E')">2</a> Eric Sieg              Stanford Christie        A   Q            .     .     .   |   .     .     .    123.00  50.62          
+ <a href="javascript:recap('A3E')">3</a> Brian Zaugg            Mike Ring                A                .     .     .   |   .     .     .    103.50  42.59          
+ <a href="javascript:recap('A4E')">4</a> John Krah              Daniel Poore             B                .     .     .   |   .     .     .    115.00  47.33          
+ <a href="javascript:recap('A5E')">5</a> Xiang Tu               Jack Yuan                C   Q   Q   Q    .     4     .   |   .     2     .    122.50  50.41  0.45Red 
+                                                                                                                        0.44Blk 
+ <a href="javascript:recap('A6E')">6</a> Nick Tipton            Galen Hesson             A   Q           4/5    .     .   |  1/2    .     .    133.00  54.73  0.84Red 
+                                                                                                                        0.84Blk 
+ <a href="javascript:recap('A7E')">7</a> Irving Sonkin          Craig Von Land           C   Q   Q   Q    .     2     1   |   4     1     1    128.50  52.88  0.79Red 
+                                                                                                                        0.79Blk 
+ <a href="javascript:recap('A8E')">8</a> David Taylor           Jeffrey Ford             A                .     .     .   |   .     .     .    113.00  46.50          
+ <a href="javascript:recap('A9E')">9</a> Brad Rind              Terry Jacobson           C                .     .     .   |   .     .     .    114.00  46.91          
+<a href="javascript:recap('A10E')">10</a> Mike Christensen       David Wright             A   Q            .     .     .   |   3     .     .    129.50  53.29  0.50Red 
+                                                                                                                        0.49Blk 
+                                          Totals                                                        1215.00       
 
 </pre>
 <table id="main_table">
@@ -920,7 +938,7 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;3&clubs;&nbsp;3/2<span class="hs">&hearts;</span>&nbsp;<span class="ddfail"> &diams;3 &spades;6 NT4</span></td></tr>
+        <tr><td>NS:&nbsp;3&clubs;&nbsp;2/3<span class="hs">&hearts;</span>&nbsp;<span class="ddfail"> &diams;3 &spades;6 NT4</span></td></tr>
         <tr><td>EW:&nbsp;4/3<span class="hs">&diams;</span>&nbsp;1&spades;&nbsp;<span class="ddfail"> &clubs;4 &hearts;4 NT6</span></td></tr>
       </table>
     </td>
@@ -1000,7 +1018,7 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;1&clubs;&nbsp;<span class="ddfail"> &diams;3 &hearts;5 &spades;5/6 NT4</span></td></tr>
+        <tr><td>NS:&nbsp;1&clubs;&nbsp;<span class="ddfail"> &diams;3 &hearts;5 &spades;6/5 NT4</span></td></tr>
         <tr><td>EW:&nbsp;4<span class="hs">&diams;</span>&nbsp;2<span class="hs">&hearts;</span>&nbsp;1&spades;&nbsp;1NT&nbsp;<span class="ddfail"> &clubs;6</span></td></tr>
       </table>
     </td>
@@ -1160,7 +1178,7 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;2/3 &diams;5 &hearts;6 &spades;6 NT5</span></td></tr>
+        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;3/2 &diams;5 &hearts;6 &spades;6 NT5</span></td></tr>
         <tr><td>EW:&nbsp;4&clubs;&nbsp;2<span class="hs">&diams;</span>&nbsp;1<span class="hs">&hearts;</span>&nbsp;-/1&spades;&nbsp;2NT&nbsp;<span class="ddfail"> &spades;6/7</span></td></tr>
       </table>
     </td>
@@ -1480,13 +1498,13 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;1&clubs;&nbsp;2<span class="hs">&hearts;</span>&nbsp;2/3&spades;&nbsp;1NT&nbsp;<span class="ddfail"> &diams;3</span></td></tr>
+        <tr><td>NS:&nbsp;1&clubs;&nbsp;2<span class="hs">&hearts;</span>&nbsp;3/2&spades;&nbsp;1NT&nbsp;<span class="ddfail"> &diams;3</span></td></tr>
         <tr><td>EW:&nbsp;3<span class="hs">&diams;</span>&nbsp;<span class="ddfail"> &clubs;6 &hearts;5 &spades;4 NT6</span></td></tr>
       </table>
     </td>
   </tr></table>
   <table class="lott_par_copyaids"><tr>
-    <td>LoTT: 18 - 18 = 0<br>Par: +140 3&spades;-S</td>
+    <td>LoTT: 18 - 18 = 0<br>Par: +140 3&spades;-N</td>
 <p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s754hKQ75dQ87cT73&s=sKJT62hAJ83dcA965&e=sA3hT964d65432c42&w=sQ98h2dAKJT9cKQJ8&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('9','Q98.2.AKJT9.KQJ8','754.KQ75.Q87.T73','A3.T964.65432.42','KJT62.AJ83..A965')"></td>
   </tr></table>
 </td>
@@ -1720,13 +1738,13 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;4&clubs;&nbsp;3<span class="hs">&diams;</span>&nbsp;4/5<span class="hs">&hearts;</span>&nbsp;3&spades;&nbsp;3NT</td></tr>
+        <tr><td>NS:&nbsp;4&clubs;&nbsp;3<span class="hs">&diams;</span>&nbsp;5/4<span class="hs">&hearts;</span>&nbsp;3&spades;&nbsp;3NT</td></tr>
         <tr><td>EW:&nbsp;<span class="ddfail"> &clubs;3 &diams;4 &hearts;2 &spades;3 NT3</span></td></tr>
       </table>
     </td>
   </tr></table>
   <table class="lott_par_copyaids"><tr>
-    <td>LoTT: 15 - 14 = +1<br>Par: +650 5<span class="hs">&hearts;</span>-S</td>
+    <td>LoTT: 15 - 14 = +1<br>Par: +650 5<span class="hs">&hearts;</span>-N</td>
 <p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAKQ5hQT8dA843cK6&s=s73hA952dJ9cAT985&e=sT62hJ763dKT76cJ2&w=sJ984hK4dQ52cQ743&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('12','J984.K4.Q52.Q743','AKQ5.QT8.A843.K6','T62.J763.KT76.J2','73.A952.J9.AT985')"></td>
   </tr></table>
 </td>
@@ -1880,7 +1898,7 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;4&clubs;&nbsp;3<span class="hs">&diams;</span>&nbsp;2/3<span class="hs">&hearts;</span>&nbsp;4&spades;&nbsp;4NT</td></tr>
+        <tr><td>NS:&nbsp;4&clubs;&nbsp;3<span class="hs">&diams;</span>&nbsp;3/2<span class="hs">&hearts;</span>&nbsp;4&spades;&nbsp;4NT</td></tr>
         <tr><td>EW:&nbsp;<span class="ddfail"> &clubs;3 &diams;4 &hearts;4 &spades;3 NT3</span></td></tr>
       </table>
     </td>
@@ -2120,7 +2138,7 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;1<span class="hs">&hearts;</span>&nbsp;<span class="ddfail"> &clubs;5 &diams;6/5 &spades;4 NT5</span></td></tr>
+        <tr><td>NS:&nbsp;1<span class="hs">&hearts;</span>&nbsp;<span class="ddfail"> &clubs;5 &diams;5/6 &spades;4 NT5</span></td></tr>
         <tr><td>EW:&nbsp;1&clubs;&nbsp;-/1<span class="hs">&diams;</span>&nbsp;3&spades;&nbsp;2NT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="ddfail"> &diams;6/7 &hearts;5/6</span></td></tr>
       </table>
     </td>
@@ -2440,7 +2458,7 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;3&clubs;&nbsp;2/1<span class="hs">&diams;</span>&nbsp;5<span class="hs">&hearts;</span>&nbsp;3&spades;&nbsp;5NT</td></tr>
+        <tr><td>NS:&nbsp;3&clubs;&nbsp;1/2<span class="hs">&diams;</span>&nbsp;5<span class="hs">&hearts;</span>&nbsp;3&spades;&nbsp;5NT</td></tr>
         <tr><td>EW:&nbsp;<span class="ddfail"> &clubs;3 &diams;5 &hearts;2 &spades;4 NT2</span></td></tr>
       </table>
     </td>
@@ -2760,7 +2778,7 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;3&clubs;&nbsp;3<span class="hs">&diams;</span>&nbsp;2/3<span class="hs">&hearts;</span>&nbsp;4&spades;&nbsp;4NT</td></tr>
+        <tr><td>NS:&nbsp;3&clubs;&nbsp;3<span class="hs">&diams;</span>&nbsp;3/2<span class="hs">&hearts;</span>&nbsp;4&spades;&nbsp;4NT</td></tr>
         <tr><td>EW:&nbsp;<span class="ddfail"> &clubs;4 &diams;3 &hearts;4 &spades;2 NT3</span></td></tr>
       </table>
     </td>
@@ -2856,11 +2874,11 @@ No Name                   Name                   |Qual|  Rank| Rank|Score | Pct 
   210          9.00   0.00  1N S 5    1-Eng-Carmichael vs 4-Krah-Poore
   200          8.00   1.00  3<span class="ds">&diams;</span> W -2   7-Guice-French vs 5-Tu-Yuan
   120          7.00   2.00  1N S 2    9-Ruprecht-Jarvis vs 9-Rind-Jacobson
-  110          4.50   4.50  2&spades; N 2    2-Delfs-Epley vs 6-Tipton-Hesson
-  110          4.50   4.50  2&spades; N 2    4-Cowles-Laughary vs 10-Christensen-Wright
-  110          4.50   4.50  2&spades; N 2    6-Bolson-Abernethy vs 3-Zaugg-Ring
-  110          4.50   4.50  2<span class="hs">&hearts;</span> E -1   8-Heller-Heller vs 7-Sonkin-Von Land
-  100          2.00   7.00  2<span class="ds">&diams;</span> E -1   5-Falls-Baker-Harvey vs 1-Carmichael-Humphreys
+  110          5.00   4.00  2&spades; N 2    2-Delfs-Epley vs 6-Tipton-Hesson
+  110          5.00   4.00  2&spades; N 2    4-Cowles-Laughary vs 10-Christensen-Wright
+  110          5.00   4.00  2&spades; N 2    6-Bolson-Abernethy vs 3-Zaugg-Ring
+  100          2.50   6.50  2<span class="hs">&hearts;</span> E -1   8-Heller-Heller vs 7-Sonkin-Von Land
+  100          2.50   6.50  2<span class="ds">&diams;</span> E -1   5-Falls-Baker-Harvey vs 1-Carmichael-Humphreys
         200    0.50   8.50  1N S -2   3-Lewis-Wiitala vs 8-Taylor-Ford
         200    0.50   8.50  2&spades;* N -1  10-Miller-Pesce vs 2-Sieg-Christie
 </pre>

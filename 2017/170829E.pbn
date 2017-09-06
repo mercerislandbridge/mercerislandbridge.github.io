@@ -48,9 +48,9 @@ S  S  6
 W  S  7
 N  S  6
 E  H  4
-S  H  9
+S  H  8
 W  H  4
-N  H  8
+N  H  9
 E  D 10
 S  D  3
 W  D  9
@@ -74,9 +74,9 @@ S NT  4
 W NT  7
 N NT  4
 E  S  7
-S  S  5
+S  S  6
 W  S  7
-N  S  6
+N  S  5
 E  H  8
 S  H  5
 W  H  8
@@ -146,9 +146,9 @@ S  D  5
 W  D  8
 N  D  5
 E  C 10
-S  C  2
+S  C  3
 W  C 10
-N  C  3
+N  C  2
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -254,9 +254,9 @@ S NT  7
 W NT  6
 N NT  7
 E  S  4
-S  S  8
+S  S  9
 W  S  4
-N  S  9
+N  S  8
 E  H  5
 S  H  8
 W  H  5
@@ -348,9 +348,9 @@ S  S  9
 W  S  3
 N  S  9
 E  H  2
-S  H 10
+S  H 11
 W  H  2
-N  H 11
+N  H 10
 E  D  4
 S  D  9
 W  D  4
@@ -408,9 +408,9 @@ S  S 10
 W  S  3
 N  S 10
 E  H  4
-S  H  8
+S  H  9
 W  H  4
-N  H  9
+N  H  8
 E  D  4
 S  D  9
 W  D  4
@@ -502,9 +502,9 @@ S  H  7
 W  H  6
 N  H  7
 E  D  6
-S  D  6
+S  D  5
 W  D  7
-N  D  5
+N  D  6
 E  C  7
 S  C  5
 W  C  7
@@ -622,9 +622,9 @@ S  H 11
 W  H  2
 N  H 11
 E  D  5
-S  D  8
+S  D  7
 W  D  5
-N  D  7
+N  D  8
 E  C  3
 S  C  9
 W  C  3
@@ -738,9 +738,9 @@ S  S 10
 W  S  2
 N  S 10
 E  H  4
-S  H  8
+S  H  9
 W  H  4
-N  H  9
+N  H  8
 E  D  3
 S  D  9
 W  D  3
