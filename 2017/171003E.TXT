@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>October 3, 2017    |CLUB NO.>158048    | 10/03/2017 22:19
+DATE>October 3, 2017    |CLUB NO.>158048    | 10/10/2017 18:42
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/shawn      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -15,25 +15,25 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  2 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     78.00  41.27          
 
- 3 Mike Ring              Shawn Abernethy          B    .     .     .     94.00  49.74          
+ 3 Mike Ring              Shawn Abernethy          B    .     .     .     94.50  50.00          
 
- 4 Chris Moore            Kim Eng                  A    1     .     .    105.50  55.82  0.90(A) 
+ 4 Chris Moore            Kim Eng                  A    1     .     .    106.50  56.35  0.90(A) 
 
- 5 David Baer             Rose Bolson              A   3/4    .     .     98.50  52.12  0.39(A) 
+ 5 David Baer             Rose Bolson              A    4     .     .     96.00  50.79  0.32(A) 
 
  6 Steven Mark Lewis      Grant Davis              C    .     .     .     86.00  45.50          
 
- 7 William Campbell       Andrea James             B   3/4    2     .     98.50  52.12  0.39(A) 
+ 7 William Campbell       Andrea James             B    3     2     .     98.50  52.12  0.45(A) 
 
  8 Mike Christensen       Scott Chupack            B    .     .     .     93.00  49.21          
 
- 9 Pete Cowles            Clay Laughary            C    2     1     1    102.50  54.23  0.63(A) 
+ 9 Pete Cowles            Clay Laughary            C    2     1     1    103.50  54.76  0.63(A) 
 
 
                                           Totals                         756.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>October 3, 2017    |CLUB NO.>158048    | 10/03/2017 22:19
+DATE>October 3, 2017    |CLUB NO.>158048    | 10/10/2017 18:42
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/shawn      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -45,15 +45,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
  1 Stanford Christie      Ken Christiansen         A    .     .     .     99.56  52.68          
 
- 2 John Krah              Daniel Poore             C    .     .     2     90.00  47.62  0.22(C) 
+ 2 John Krah              Daniel Poore             C    .     .     2     89.44  47.32  0.22(C) 
 
  3 Dex Stuberg            Joel Fuhrman             B    1     1     .    107.44  56.85  0.90(A) 
 
- 4 Jeffrey Ford           Douglas Kuschner         A    .     .     .     89.44  47.32          
+ 4 Jeffrey Ford           Douglas Kuschner         A    .     .     .     88.31  46.72          
 
- 5 Hugh Hendrickson       Beau Hovda               C    2     2     1    105.75  55.95  0.63(A) 
+ 5 Hugh Hendrickson       Beau Hovda               C    2     2     1    104.63  55.36  0.63(A) 
 
- 6 Moises Saul            Irving Sonkin            C    .     .     .     82.13  43.46          
+ 6 Moises Saul            Irving Sonkin            C    .     .     .     84.94  44.94          
 
  7 Nick Tipton            Harold Sanford           C    .     .     .     73.69  38.99          
 
@@ -209,13 +209,13 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         100    1.00   6.00 2-Falls-Baker-Harvey vs 9-Zaugg-Wright
-  400          4.00   3.00 3-Ring-Abernethy vs 2-Krah-Poore
-  430          5.50   1.50 4-Moore-Eng vs 4-Ford-Kuschner
-  450          7.00   0.00 5-Baer-Bolson vs 6-Saul-Sonkin
+  400          4.50   2.50 3-Ring-Abernethy vs 2-Krah-Poore
+  430          6.50   0.50 4-Moore-Eng vs 4-Ford-Kuschner
+  400          4.50   2.50 5-Baer-Bolson vs 6-Saul-Sonkin
          50    2.50   4.50 6-Lewis-Davis vs 8-Pesce-Jarvis
          50    2.50   4.50 7-Campbell-James vs 1-Christie-Christiansen
         150    0.00   7.00 8-Christensen-Chupack vs 3-Stuberg-Fuhrman
-  430          5.50   1.50 9-Cowles-Laughary vs 5-Hendrickson-Hovda
+  430          6.50   0.50 9-Cowles-Laughary vs 5-Hendrickson-Hovda
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 12
