@@ -1,0 +1,336 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 28, 2017  |CLUB NO.>158048    | 11/28/2017 22:39
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=7/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Hankins          Kevin Cline              B    3     1     .     61.50  56.94  0.56(B) 
+
+ 2 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     39.94  36.98          
+
+ 3 Nick Tipton            Galen Hesson             B    .     .     .     48.38  44.80          
+
+ 4 Brad Rind              Terry Jacobson           C    .     2     1     54.00  50.00  0.39(B) 
+
+ 5 Yuri Wiitala           Gert Wiitala             A    .     .     .     52.88  48.96          
+
+ 6 Irving Sonkin          Craig Von Land           C    .     .     2     49.50  45.83  0.22(C) 
+
+ 7 Chris Pesce            Christopher Jarvis       B    .     3     .     51.75  47.92  0.28(B) 
+
+ 8 Mike Ring              Brian Zaugg              A    2     .     .     64.50  59.72  0.77(A) 
+
+
+
+10 Shawn Abernethy        Ken Christiansen         A    1     .     .     65.81  60.94  1.10(A) 
+
+11 Steven Mark Lewis      Grant Davis              C    .     .     .     47.25  43.75          
+
+12 Connie Heller          Dennis Heller            A    4     .     .     56.25  52.08  0.39(A) 
+
+
+                                          Totals                         591.76       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   1.00 3-Tipton-Hesson vs 11-Lewis-Davis
+        130    3.00   1.00 5-Wiitala-Wiitala vs 2-Falls-Baker-Harvey
+        430    1.00   3.00 6-Sonkin-Von Land vs 10-Abernethy-Christiansen
+        130    3.00   1.00 8-Ring-Zaugg vs 4-Rind-Jacobson
+        490    0.00   4.00 12-Heller-Heller vs 1-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   3.00 3-Tipton-Hesson vs 11-Lewis-Davis
+  170          4.00   0.00 5-Wiitala-Wiitala vs 2-Falls-Baker-Harvey
+  140          3.00   1.00 6-Sonkin-Von Land vs 10-Abernethy-Christiansen
+   90          2.00   2.00 8-Ring-Zaugg vs 4-Rind-Jacobson
+        200    0.00   4.00 12-Heller-Heller vs 1-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   0.50 3-Tipton-Hesson vs 11-Lewis-Davis
+  100          3.50   0.50 5-Wiitala-Wiitala vs 2-Falls-Baker-Harvey
+        200    0.00   4.00 6-Sonkin-Von Land vs 10-Abernethy-Christiansen
+         50    1.50   2.50 8-Ring-Zaugg vs 4-Rind-Jacobson
+         50    1.50   2.50 12-Heller-Heller vs 1-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1100    1.00   3.00 1-Hankins-Cline vs 8-Ring-Zaugg
+  100          3.50   0.50 6-Sonkin-Von Land vs 3-Tipton-Hesson
+       1440    0.00   4.00 7-Pesce-Jarvis vs 10-Abernethy-Christiansen
+        600    2.00   2.00 11-Lewis-Davis vs 4-Rind-Jacobson
+  100          3.50   0.50 12-Heller-Heller vs 2-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   3.00 1-Hankins-Cline vs 8-Ring-Zaugg
+        140    0.00   4.00 6-Sonkin-Von Land vs 3-Tipton-Hesson
+  100          2.00   2.00 7-Pesce-Jarvis vs 10-Abernethy-Christiansen
+  130          3.50   0.50 11-Lewis-Davis vs 4-Rind-Jacobson
+  130          3.50   0.50 12-Heller-Heller vs 2-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   2.00 1-Hankins-Cline vs 8-Ring-Zaugg
+         50    0.00   4.00 6-Sonkin-Von Land vs 3-Tipton-Hesson
+   90          1.00   3.00 7-Pesce-Jarvis vs 10-Abernethy-Christiansen
+  150          3.50   0.50 11-Lewis-Davis vs 4-Rind-Jacobson
+  150          3.50   0.50 12-Heller-Heller vs 2-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    1.00   3.00 1-Hankins-Cline vs 6-Sonkin-Von Land
+        630    1.00   3.00 7-Pesce-Jarvis vs 4-Rind-Jacobson
+        620    3.00   1.00 10-Abernethy-Christiansen vs 8-Ring-Zaugg
+        630    1.00   3.00 11-Lewis-Davis vs 5-Wiitala-Wiitala
+        150    4.00   0.00 12-Heller-Heller vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    4.00   0.00 1-Hankins-Cline vs 6-Sonkin-Von Land
+        200    1.00   3.00 7-Pesce-Jarvis vs 4-Rind-Jacobson
+        170    2.50   1.50 10-Abernethy-Christiansen vs 8-Ring-Zaugg
+        170    2.50   1.50 11-Lewis-Davis vs 5-Wiitala-Wiitala
+        420    0.00   4.00 12-Heller-Heller vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   1.00 1-Hankins-Cline vs 6-Sonkin-Von Land
+         50    0.00   4.00 7-Pesce-Jarvis vs 4-Rind-Jacobson
+  640          4.00   0.00 10-Abernethy-Christiansen vs 8-Ring-Zaugg
+  140          1.50   2.50 11-Lewis-Davis vs 5-Wiitala-Wiitala
+  140          1.50   2.50 12-Heller-Heller vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.50   1.50 2-Falls-Baker-Harvey vs 7-Pesce-Jarvis
+        600    2.50   1.50 3-Tipton-Hesson vs 1-Hankins-Cline
+        600    2.50   1.50 8-Ring-Zaugg vs 5-Wiitala-Wiitala
+        600    2.50   1.50 11-Lewis-Davis vs 6-Sonkin-Von Land
+        630    0.00   4.00 12-Heller-Heller vs 4-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          4.00   0.00 2-Falls-Baker-Harvey vs 7-Pesce-Jarvis
+         50    0.00   4.00 3-Tipton-Hesson vs 1-Hankins-Cline
+  460          2.50   1.50 8-Ring-Zaugg vs 5-Wiitala-Wiitala
+  460          2.50   1.50 11-Lewis-Davis vs 6-Sonkin-Von Land
+  430          1.00   3.00 12-Heller-Heller vs 4-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   2.00 2-Falls-Baker-Harvey vs 7-Pesce-Jarvis
+        120    1.00   3.00 3-Tipton-Hesson vs 1-Hankins-Cline
+         90    3.50   0.50 8-Ring-Zaugg vs 5-Wiitala-Wiitala
+        180    0.00   4.00 11-Lewis-Davis vs 6-Sonkin-Von Land
+         90    3.50   0.50 12-Heller-Heller vs 4-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   3.00 1-Hankins-Cline vs 10-Abernethy-Christiansen
+        800    0.00   4.00 3-Tipton-Hesson vs 8-Ring-Zaugg
+         90    2.00   2.00 4-Rind-Jacobson vs 2-Falls-Baker-Harvey
+  100          3.50   0.50 7-Pesce-Jarvis vs 11-Lewis-Davis
+  100          3.50   0.50 12-Heller-Heller vs 5-Wiitala-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   0.50 1-Hankins-Cline vs 10-Abernethy-Christiansen
+         50    1.00   3.00 3-Tipton-Hesson vs 8-Ring-Zaugg
+  420          3.50   0.50 4-Rind-Jacobson vs 2-Falls-Baker-Harvey
+         50    1.00   3.00 7-Pesce-Jarvis vs 11-Lewis-Davis
+         50    1.00   3.00 12-Heller-Heller vs 5-Wiitala-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          1.00   3.00 1-Hankins-Cline vs 10-Abernethy-Christiansen
+  120          1.00   3.00 3-Tipton-Hesson vs 8-Ring-Zaugg
+  120          1.00   3.00 4-Rind-Jacobson vs 2-Falls-Baker-Harvey
+  500          4.00   0.00 7-Pesce-Jarvis vs 11-Lewis-Davis
+  130          3.00   1.00 12-Heller-Heller vs 5-Wiitala-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   2.00 1-Hankins-Cline vs 7-Pesce-Jarvis
+  100          0.00   4.00 2-Falls-Baker-Harvey vs 10-Abernethy-Christiansen
+  140          2.00   2.00 5-Wiitala-Wiitala vs 3-Tipton-Hesson
+  170          4.00   0.00 8-Ring-Zaugg vs 11-Lewis-Davis
+  140          2.00   2.00 12-Heller-Heller vs 6-Sonkin-Von Land
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   4.00 1-Hankins-Cline vs 7-Pesce-Jarvis
+   50          3.50   0.50 2-Falls-Baker-Harvey vs 10-Abernethy-Christiansen
+        140    1.00   3.00 5-Wiitala-Wiitala vs 3-Tipton-Hesson
+   50          3.50   0.50 8-Ring-Zaugg vs 11-Lewis-Davis
+        110    2.00   2.00 12-Heller-Heller vs 6-Sonkin-Von Land
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          1.00   3.00 1-Hankins-Cline vs 7-Pesce-Jarvis
+  630          1.00   3.00 2-Falls-Baker-Harvey vs 10-Abernethy-Christiansen
+  660          3.50   0.50 5-Wiitala-Wiitala vs 3-Tipton-Hesson
+  630          1.00   3.00 8-Ring-Zaugg vs 11-Lewis-Davis
+  660          3.50   0.50 12-Heller-Heller vs 6-Sonkin-Von Land
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.00   3.00 2-Falls-Baker-Harvey vs 8-Ring-Zaugg
+        800    0.00   4.00 5-Wiitala-Wiitala vs 1-Hankins-Cline
+        200    2.50   1.50 6-Sonkin-Von Land vs 4-Rind-Jacobson
+        200    2.50   1.50 10-Abernethy-Christiansen vs 3-Tipton-Hesson
+        150    4.00   0.00 12-Heller-Heller vs 7-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         80    2.00   2.00 2-Falls-Baker-Harvey vs 8-Ring-Zaugg
+        140    0.00   4.00 5-Wiitala-Wiitala vs 1-Hankins-Cline
+  180          4.00   0.00 6-Sonkin-Von Land vs 4-Rind-Jacobson
+  100          3.00   1.00 10-Abernethy-Christiansen vs 3-Tipton-Hesson
+         90    1.00   3.00 12-Heller-Heller vs 7-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    0.00   4.00 2-Falls-Baker-Harvey vs 8-Ring-Zaugg
+        200    4.00   0.00 5-Wiitala-Wiitala vs 1-Hankins-Cline
+        450    2.00   2.00 6-Sonkin-Von Land vs 4-Rind-Jacobson
+        450    2.00   2.00 10-Abernethy-Christiansen vs 3-Tipton-Hesson
+        450    2.00   2.00 12-Heller-Heller vs 7-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   1.50 6-Sonkin-Von Land vs 2-Falls-Baker-Harvey
+  110          1.00   3.00 7-Pesce-Jarvis vs 5-Wiitala-Wiitala
+  200          4.00   0.00 10-Abernethy-Christiansen vs 4-Rind-Jacobson
+  170          2.50   1.50 11-Lewis-Davis vs 1-Hankins-Cline
+  100          0.00   4.00 12-Heller-Heller vs 8-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          2.00   2.00 6-Sonkin-Von Land vs 2-Falls-Baker-Harvey
+  680          4.00   0.00 7-Pesce-Jarvis vs 5-Wiitala-Wiitala
+        100    0.00   4.00 10-Abernethy-Christiansen vs 4-Rind-Jacobson
+  650          2.00   2.00 11-Lewis-Davis vs 1-Hankins-Cline
+  650          2.00   2.00 12-Heller-Heller vs 8-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.50   2.50 6-Sonkin-Von Land vs 2-Falls-Baker-Harvey
+  100          3.00   1.00 7-Pesce-Jarvis vs 5-Wiitala-Wiitala
+         90    1.50   2.50 10-Abernethy-Christiansen vs 4-Rind-Jacobson
+        100    0.00   4.00 11-Lewis-Davis vs 1-Hankins-Cline
+  140          4.00   0.00 12-Heller-Heller vs 8-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.00   3.00 2-Falls-Baker-Harvey vs 11-Lewis-Davis
+        630    0.00   4.00 4-Rind-Jacobson vs 1-Hankins-Cline
+  300          4.00   0.00 5-Wiitala-Wiitala vs 10-Abernethy-Christiansen
+  200          3.00   1.00 7-Pesce-Jarvis vs 3-Tipton-Hesson
+        110    2.00   2.00 8-Ring-Zaugg vs 6-Sonkin-Von Land
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.00   2.00 2-Falls-Baker-Harvey vs 11-Lewis-Davis
+  710          3.50   0.50 4-Rind-Jacobson vs 1-Hankins-Cline
+        100    1.00   3.00 5-Wiitala-Wiitala vs 10-Abernethy-Christiansen
+        200    0.00   4.00 7-Pesce-Jarvis vs 3-Tipton-Hesson
+  710          3.50   0.50 8-Ring-Zaugg vs 6-Sonkin-Von Land
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.00   2.00 2-Falls-Baker-Harvey vs 11-Lewis-Davis
+        120    2.00   2.00 4-Rind-Jacobson vs 1-Hankins-Cline
+        120    2.00   2.00 5-Wiitala-Wiitala vs 10-Abernethy-Christiansen
+         90    4.00   0.00 7-Pesce-Jarvis vs 3-Tipton-Hesson
+        150    0.00   4.00 8-Ring-Zaugg vs 6-Sonkin-Von Land
+----------------------------------------------------------------------
