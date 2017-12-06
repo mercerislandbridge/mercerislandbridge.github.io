@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 5, 2017   |CLUB NO.>158048    | 12/05/2017 22:29
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club ACBL Membership         |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=10/C=3                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Eric Sieg              Stanford Christie        A   .     .     .   |   .     .     .     70.00  44.87          
+
+ 2 David Baer             Rose Bolson              A   .     .     .   |   .     .     .     72.50  46.47          
+
+ 3 John Krah              Daniel Poore             C   3     2     .   |   3     2     1     86.00  55.13  1.79(OA)
+
+ 4 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     71.50  45.83          
+
+ 5 Chris Pesce            Shawn Abernethy          B   .     .     .   |   6     .     .     81.50  52.24  0.38(SA)
+
+ 6 Terry Jacobson         Brad Rind                C   .     .     .   |   .     .     .     65.00  41.67          
+
+ 7 Ray Miller             Chris Moore              A   2     .     .   |   2     .     .     88.00  56.41  2.39(OA)
+
+ 8 Jeannie Falls          Bruce Baker-Harvey       C   .     .     .   |   .     .     .     59.50  38.14          
+
+ 9 Andrea James           Leah Sieg                B   4     3     .   |   4     3     .     85.00  54.49  1.35(OA)
+
+10 David Roselle          Sue Anderson             B   5     4     .   |   5     4     .     82.50  52.88  1.01(OA)
+
+11 Becky Stevens          Mike Christensen         B   1     1     .   |   1     1     .     98.00  62.82  3.19(OA)
+
+12 Adam Ruprecht          Christopher Jarvis       B   .     .     .   |   .     .     .     73.50  47.12          
+
+13 Hugh Hendrickson       Beau Hovda               B   .     .     .   |   .     .     .     80.50  51.60          
+
+14 Connie Heller          Dennis Heller            A   .     .     .   |   .     .     .     78.50  50.32          
+
+
+                                          Totals                                           1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          2.50   3.50 1-Sieg-Christie vs 3-Krah-Poore
+  510          2.50   3.50 2-Baer-Bolson vs 6-Jacobson-Rind
+  510          2.50   3.50 4-Tipton-Hesson vs 9-James-Sieg
+ 1510          6.00   0.00 5-Pesce-Abernethy vs 12-Ruprecht-Jarvis
+ 1010          5.00   1.00 7-Miller-Moore vs 8-Falls-Baker-Harvey
+  510          2.50   3.50 13-Hendrickson-Hovda vs 10-Roselle-Anderson
+  480          0.00   6.00 14-Heller-Heller vs 11-Stevens-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.50   2.50 1-Sieg-Christie vs 3-Krah-Poore
+  120          6.00   0.00 2-Baer-Bolson vs 6-Jacobson-Rind
+        100    1.50   4.50 4-Tipton-Hesson vs 9-James-Sieg
+        200    0.00   6.00 5-Pesce-Abernethy vs 12-Ruprecht-Jarvis
+   90          5.00   1.00 7-Miller-Moore vs 8-Falls-Baker-Harvey
+        100    1.50   4.50 13-Hendrickson-Hovda vs 10-Roselle-Anderson
+         90    3.50   2.50 14-Heller-Heller vs 11-Stevens-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          6.00   0.00 1-Sieg-Christie vs 11-Stevens-Christensen
+  450          3.50   2.50 2-Baer-Bolson vs 4-Tipton-Hesson
+  420          0.50   5.50 3-Krah-Poore vs 7-Miller-Moore
+  420          0.50   5.50 5-Pesce-Abernethy vs 10-Roselle-Anderson
+  450          3.50   2.50 6-Jacobson-Rind vs 13-Hendrickson-Hovda
+  450          3.50   2.50 8-Falls-Baker-Harvey vs 9-James-Sieg
+  450          3.50   2.50 14-Heller-Heller vs 12-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   6.00 1-Sieg-Christie vs 11-Stevens-Christensen
+  170          6.00   0.00 2-Baer-Bolson vs 4-Tipton-Hesson
+        110    1.50   4.50 3-Krah-Poore vs 7-Miller-Moore
+        100    3.50   2.50 5-Pesce-Abernethy vs 10-Roselle-Anderson
+        110    1.50   4.50 6-Jacobson-Rind vs 13-Hendrickson-Hovda
+         90    5.00   1.00 8-Falls-Baker-Harvey vs 9-James-Sieg
+        100    3.50   2.50 14-Heller-Heller vs 12-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   4.50 2-Baer-Bolson vs 12-Ruprecht-Jarvis
+        200    0.00   6.00 3-Krah-Poore vs 5-Pesce-Abernethy
+  800          6.00   0.00 4-Tipton-Hesson vs 8-Falls-Baker-Harvey
+        100    1.50   4.50 6-Jacobson-Rind vs 11-Stevens-Christensen
+  630          5.00   1.00 7-Miller-Moore vs 1-Sieg-Christie
+  600          4.00   2.00 9-James-Sieg vs 10-Roselle-Anderson
+  140          3.00   3.00 14-Heller-Heller vs 13-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   5.00 2-Baer-Bolson vs 12-Ruprecht-Jarvis
+        500    4.00   2.00 3-Krah-Poore vs 5-Pesce-Abernethy
+        650    1.00   5.00 4-Tipton-Hesson vs 8-Falls-Baker-Harvey
+        650    1.00   5.00 6-Jacobson-Rind vs 11-Stevens-Christensen
+        500    4.00   2.00 7-Miller-Moore vs 1-Sieg-Christie
+  100          6.00   0.00 9-James-Sieg vs 10-Roselle-Anderson
+        500    4.00   2.00 14-Heller-Heller vs 13-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   1.00 3-Krah-Poore vs 13-Hendrickson-Hovda
+  170          2.50   3.50 4-Tipton-Hesson vs 6-Jacobson-Rind
+        300    0.50   5.50 5-Pesce-Abernethy vs 9-James-Sieg
+  630          6.00   0.00 7-Miller-Moore vs 12-Ruprecht-Jarvis
+  200          4.00   2.00 8-Falls-Baker-Harvey vs 2-Baer-Bolson
+  170          2.50   3.50 10-Roselle-Anderson vs 11-Stevens-Christensen
+        300    0.50   5.50 14-Heller-Heller vs 1-Sieg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   3.00 3-Krah-Poore vs 13-Hendrickson-Hovda
+  400          4.50   1.50 4-Tipton-Hesson vs 6-Jacobson-Rind
+  430          6.00   0.00 5-Pesce-Abernethy vs 9-James-Sieg
+  400          4.50   1.50 7-Miller-Moore vs 12-Ruprecht-Jarvis
+         50    1.00   5.00 8-Falls-Baker-Harvey vs 2-Baer-Bolson
+         50    1.00   5.00 10-Roselle-Anderson vs 11-Stevens-Christensen
+         50    1.00   5.00 14-Heller-Heller vs 1-Sieg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   1.50 4-Tipton-Hesson vs 1-Sieg-Christie
+        500    1.50   4.50 5-Pesce-Abernethy vs 7-Miller-Moore
+        500    1.50   4.50 6-Jacobson-Rind vs 10-Roselle-Anderson
+         50    6.00   0.00 8-Falls-Baker-Harvey vs 13-Hendrickson-Hovda
+        100    4.50   1.50 9-James-Sieg vs 3-Krah-Poore
+        500    1.50   4.50 11-Stevens-Christensen vs 12-Ruprecht-Jarvis
+        500    1.50   4.50 14-Heller-Heller vs 2-Baer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   3.00 4-Tipton-Hesson vs 1-Sieg-Christie
+  670          6.00   0.00 5-Pesce-Abernethy vs 7-Miller-Moore
+  100          2.00   4.00 6-Jacobson-Rind vs 10-Roselle-Anderson
+         90    1.00   5.00 8-Falls-Baker-Harvey vs 13-Hendrickson-Hovda
+        150    0.00   6.00 9-James-Sieg vs 3-Krah-Poore
+  300          5.00   1.00 11-Stevens-Christensen vs 12-Ruprecht-Jarvis
+  200          4.00   2.00 14-Heller-Heller vs 2-Baer-Bolson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1010    2.00   4.00 5-Pesce-Abernethy vs 2-Baer-Bolson
+       1010    2.00   4.00 6-Jacobson-Rind vs 8-Falls-Baker-Harvey
+        510    4.50   1.50 7-Miller-Moore vs 11-Stevens-Christensen
+  100          6.00   0.00 9-James-Sieg vs 1-Sieg-Christie
+       1510    0.00   6.00 10-Roselle-Anderson vs 4-Tipton-Hesson
+       1010    2.00   4.00 12-Ruprecht-Jarvis vs 13-Hendrickson-Hovda
+        510    4.50   1.50 14-Heller-Heller vs 3-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          6.00   0.00 5-Pesce-Abernethy vs 2-Baer-Bolson
+  100          4.50   1.50 6-Jacobson-Rind vs 8-Falls-Baker-Harvey
+        100    1.00   5.00 7-Miller-Moore vs 11-Stevens-Christensen
+   50          2.00   4.00 9-James-Sieg vs 1-Sieg-Christie
+   90          3.00   3.00 10-Roselle-Anderson vs 4-Tipton-Hesson
+        300    0.00   6.00 12-Ruprecht-Jarvis vs 13-Hendrickson-Hovda
+  100          4.50   1.50 14-Heller-Heller vs 3-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   3.50 6-Jacobson-Rind vs 3-Krah-Poore
+        140    2.50   3.50 7-Miller-Moore vs 9-James-Sieg
+        140    2.50   3.50 8-Falls-Baker-Harvey vs 12-Ruprecht-Jarvis
+        140    2.50   3.50 10-Roselle-Anderson vs 2-Baer-Bolson
+        140    2.50   3.50 11-Stevens-Christensen vs 5-Pesce-Abernethy
+        140    2.50   3.50 13-Hendrickson-Hovda vs 1-Sieg-Christie
+  100          6.00   0.00 14-Heller-Heller vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.50   1.50 6-Jacobson-Rind vs 3-Krah-Poore
+  100          2.50   3.50 7-Miller-Moore vs 9-James-Sieg
+   50          0.50   5.50 8-Falls-Baker-Harvey vs 12-Ruprecht-Jarvis
+  150          4.50   1.50 10-Roselle-Anderson vs 2-Baer-Bolson
+  200          6.00   0.00 11-Stevens-Christensen vs 5-Pesce-Abernethy
+   50          0.50   5.50 13-Hendrickson-Hovda vs 1-Sieg-Christie
+  100          2.50   3.50 14-Heller-Heller vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   5.00 1-Sieg-Christie vs 2-Baer-Bolson
+  110          5.00   1.00 7-Miller-Moore vs 4-Tipton-Hesson
+         90    3.00   3.00 8-Falls-Baker-Harvey vs 10-Roselle-Anderson
+        150    0.00   6.00 9-James-Sieg vs 13-Hendrickson-Hovda
+         90    3.00   3.00 11-Stevens-Christensen vs 3-Krah-Poore
+  670          6.00   0.00 12-Ruprecht-Jarvis vs 6-Jacobson-Rind
+         90    3.00   3.00 14-Heller-Heller vs 5-Pesce-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   3.50 1-Sieg-Christie vs 2-Baer-Bolson
+        100    1.00   5.00 7-Miller-Moore vs 4-Tipton-Hesson
+        170    0.00   6.00 8-Falls-Baker-Harvey vs 10-Roselle-Anderson
+         50    2.50   3.50 9-James-Sieg vs 13-Hendrickson-Hovda
+  110          4.50   1.50 11-Stevens-Christensen vs 3-Krah-Poore
+ 1100          6.00   0.00 12-Ruprecht-Jarvis vs 6-Jacobson-Rind
+  110          4.50   1.50 14-Heller-Heller vs 5-Pesce-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  920          3.00   3.00 2-Baer-Bolson vs 3-Krah-Poore
+         50    1.00   5.00 8-Falls-Baker-Harvey vs 5-Pesce-Abernethy
+  460          2.00   4.00 9-James-Sieg vs 11-Stevens-Christensen
+  990          5.00   1.00 10-Roselle-Anderson vs 1-Sieg-Christie
+        100    0.00   6.00 12-Ruprecht-Jarvis vs 4-Tipton-Hesson
+  990          5.00   1.00 13-Hendrickson-Hovda vs 7-Miller-Moore
+  990          5.00   1.00 14-Heller-Heller vs 6-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   4.00 2-Baer-Bolson vs 3-Krah-Poore
+        200    0.00   6.00 8-Falls-Baker-Harvey vs 5-Pesce-Abernethy
+  150          5.00   1.00 9-James-Sieg vs 11-Stevens-Christensen
+   90          3.00   3.00 10-Roselle-Anderson vs 1-Sieg-Christie
+  100          4.00   2.00 12-Ruprecht-Jarvis vs 4-Tipton-Hesson
+  170          6.00   0.00 13-Hendrickson-Hovda vs 7-Miller-Moore
+        100    1.00   5.00 14-Heller-Heller vs 6-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        560    0.00   6.00 1-Sieg-Christie vs 8-Falls-Baker-Harvey
+  100          6.00   0.00 3-Krah-Poore vs 4-Tipton-Hesson
+         50    5.00   1.00 9-James-Sieg vs 6-Jacobson-Rind
+        100    4.00   2.00 10-Roselle-Anderson vs 12-Ruprecht-Jarvis
+        150    2.50   3.50 11-Stevens-Christensen vs 2-Baer-Bolson
+        150    2.50   3.50 13-Hendrickson-Hovda vs 5-Pesce-Abernethy
+        500    1.00   5.00 14-Heller-Heller vs 7-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    3.00   3.00 1-Sieg-Christie vs 8-Falls-Baker-Harvey
+        660    5.00   1.00 3-Krah-Poore vs 4-Tipton-Hesson
+       1100    0.00   6.00 9-James-Sieg vs 6-Jacobson-Rind
+        680    3.00   3.00 10-Roselle-Anderson vs 12-Ruprecht-Jarvis
+        600    6.00   0.00 11-Stevens-Christensen vs 2-Baer-Bolson
+        680    3.00   3.00 13-Hendrickson-Hovda vs 5-Pesce-Abernethy
+        800    1.00   5.00 14-Heller-Heller vs 7-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.50   2.50 1-Sieg-Christie vs 6-Jacobson-Rind
+  630          0.50   5.50 2-Baer-Bolson vs 9-James-Sieg
+  660          3.50   2.50 4-Tipton-Hesson vs 5-Pesce-Abernethy
+  660          3.50   2.50 10-Roselle-Anderson vs 7-Miller-Moore
+  660          3.50   2.50 11-Stevens-Christensen vs 13-Hendrickson-Hovda
+  630          0.50   5.50 12-Ruprecht-Jarvis vs 3-Krah-Poore
+  690          6.00   0.00 14-Heller-Heller vs 8-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1390    3.00   3.00 1-Sieg-Christie vs 6-Jacobson-Rind
+       1460    0.50   5.50 2-Baer-Bolson vs 9-James-Sieg
+        720    5.00   1.00 4-Tipton-Hesson vs 5-Pesce-Abernethy
+       1440    2.00   4.00 10-Roselle-Anderson vs 7-Miller-Moore
+        720    5.00   1.00 11-Stevens-Christensen vs 13-Hendrickson-Hovda
+       1460    0.50   5.50 12-Ruprecht-Jarvis vs 3-Krah-Poore
+        720    5.00   1.00 14-Heller-Heller vs 8-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.50   2.50 2-Baer-Bolson vs 7-Miller-Moore
+  100          6.00   0.00 3-Krah-Poore vs 10-Roselle-Anderson
+        800    0.50   5.50 5-Pesce-Abernethy vs 6-Jacobson-Rind
+        650    3.50   2.50 11-Stevens-Christensen vs 8-Falls-Baker-Harvey
+        650    3.50   2.50 12-Ruprecht-Jarvis vs 1-Sieg-Christie
+        800    0.50   5.50 13-Hendrickson-Hovda vs 4-Tipton-Hesson
+        650    3.50   2.50 14-Heller-Heller vs 9-James-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   3.00 2-Baer-Bolson vs 7-Miller-Moore
+        100    0.50   5.50 3-Krah-Poore vs 10-Roselle-Anderson
+  150          5.50   0.50 5-Pesce-Abernethy vs 6-Jacobson-Rind
+        100    0.50   5.50 11-Stevens-Christensen vs 8-Falls-Baker-Harvey
+  130          4.00   2.00 12-Ruprecht-Jarvis vs 1-Sieg-Christie
+  150          5.50   0.50 13-Hendrickson-Hovda vs 4-Tipton-Hesson
+         50    2.00   4.00 14-Heller-Heller vs 9-James-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   4.50 1-Sieg-Christie vs 5-Pesce-Abernethy
+        170    5.00   1.00 3-Krah-Poore vs 8-Falls-Baker-Harvey
+        650    1.50   4.50 4-Tipton-Hesson vs 11-Stevens-Christensen
+        150    6.00   0.00 6-Jacobson-Rind vs 7-Miller-Moore
+        200    4.00   2.00 12-Ruprecht-Jarvis vs 9-James-Sieg
+        650    1.50   4.50 13-Hendrickson-Hovda vs 2-Baer-Bolson
+        650    1.50   4.50 14-Heller-Heller vs 10-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          4.00   2.00 1-Sieg-Christie vs 5-Pesce-Abernethy
+  620          5.50   0.50 3-Krah-Poore vs 8-Falls-Baker-Harvey
+        200    0.00   6.00 4-Tipton-Hesson vs 11-Stevens-Christensen
+        130    1.50   4.50 6-Jacobson-Rind vs 7-Miller-Moore
+        130    1.50   4.50 12-Ruprecht-Jarvis vs 9-James-Sieg
+  620          5.50   0.50 13-Hendrickson-Hovda vs 2-Baer-Bolson
+  200          3.00   3.00 14-Heller-Heller vs 10-Roselle-Anderson
+----------------------------------------------------------------------
