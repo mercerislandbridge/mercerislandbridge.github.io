@@ -1,0 +1,474 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>December 12, 2017  |CLUB NO.>158048    | 12/12/2017 22:32
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 David Binney           Andrea James             A    2     .     .    130.50  60.42  0.70(A) 
+
+ 3 Kim Eng                Eric Sieg                A    1     .     .    132.50  61.34  1.00(A) 
+
+ 4 Steven Mark Lewis      Grant Davis              C    .     .     .     92.00  42.59          
+
+ 5 David Walker           Joel Fuhrman             B    .     .     .     95.50  44.21          
+
+ 6 Karen Hudesman         Brian Zaugg              B    .     2     .    102.50  47.45  0.34(B) 
+
+ 7 Pete Cowles            Clay Laughary            C    .     .     2     96.50  44.68  0.22(C) 
+
+ 8 William Campbell       Tracey Guice             C    4     1     1    108.50  50.23  0.48(B) 
+
+ 9 Ray Miller             Ann Romeo                A    3     .     .    129.00  59.72  0.50(A) 
+
+10 Kenneth Diamond        Marilyn Dierickx         C    .     .     .     85.00  39.35          
+
+
+                                          Totals                         972.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>December 12, 2017  |CLUB NO.>158048    | 12/12/2017 22:32
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jeffrey Ford           Ken Scholes              A    .     .     .    104.06  48.18          
+
+ 2 David Roselle          Sue Anderson             B    .     .     .     86.00  39.81          
+
+ 3 Stanford Christie      Katrin Litwin            A    .     .     .    102.94  47.66          
+
+ 4 John Krah              Daniel Poore             C    2     1     1    138.94  64.32  0.70(A) 
+
+ 5 David Hankins          Kevin Cline              B    .     .     .     96.75  44.79          
+
+ 6 Mike Christensen       Mike Ring                A    3     .     .    125.44  58.07  0.50(A) 
+
+ 7 Chris Pesce            Kathy Gilman             B    .     .     .     83.81  38.80          
+
+ 8 Nick Tipton            Galen Hesson             B    4     2     .    109.13  50.52  0.35(A) 
+
+ 9 Ken Christiansen       Dave Setterholm          A    1     .     .    142.88  66.15  1.00(A) 
+
+10 Irving Sonkin          Lorenzo Migliorini       C    .     .     .     92.81  42.97          
+
+
+                                          Totals                        1082.76       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          7.00   1.00 2-Binney-James vs 4-Krah-Poore
+  130          3.50   4.50 3-Eng-Sieg vs 6-Christensen-Ring
+  460          8.00   0.00 4-Lewis-Davis vs 8-Tipton-Hesson
+  130          3.50   4.50 5-Walker-Fuhrman vs 10-Sonkin-Migliorini
+        510    0.00   8.00 6-Hudesman-Zaugg vs 3-Christie-Litwin
+  210          5.50   2.50 7-Cowles-Laughary vs 5-Hankins-Cline
+  100          2.00   6.00 8-Campbell-Guice vs 7-Pesce-Gilman
+  210          5.50   2.50 9-Miller-Romeo vs 9-Christiansen-Setterholm
+        150    1.00   7.00 10-Diamond-Dierickx vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        560    0.00   8.00 2-Binney-James vs 4-Krah-Poore
+        140    7.00   1.00 3-Eng-Sieg vs 6-Christensen-Ring
+        420    2.00   6.00 4-Lewis-Davis vs 8-Tipton-Hesson
+        170    5.00   3.00 5-Walker-Fuhrman vs 10-Sonkin-Migliorini
+        170    5.00   3.00 6-Hudesman-Zaugg vs 3-Christie-Litwin
+        420    2.00   6.00 7-Cowles-Laughary vs 5-Hankins-Cline
+   90          8.00   0.00 8-Campbell-Guice vs 7-Pesce-Gilman
+        420    2.00   6.00 9-Miller-Romeo vs 9-Christiansen-Setterholm
+        170    5.00   3.00 10-Diamond-Dierickx vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   3.50 2-Binney-James vs 4-Krah-Poore
+         50    4.50   3.50 3-Eng-Sieg vs 6-Christensen-Ring
+         50    4.50   3.50 4-Lewis-Davis vs 8-Tipton-Hesson
+        200    0.00   8.00 5-Walker-Fuhrman vs 10-Sonkin-Migliorini
+         50    4.50   3.50 6-Hudesman-Zaugg vs 3-Christie-Litwin
+         50    4.50   3.50 7-Cowles-Laughary vs 5-Hankins-Cline
+  490          8.00   0.00 8-Campbell-Guice vs 7-Pesce-Gilman
+         50    4.50   3.50 9-Miller-Romeo vs 9-Christiansen-Setterholm
+        100    1.00   7.00 10-Diamond-Dierickx vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   3.50 2-Binney-James vs 2-Roselle-Anderson
+  660          8.00   0.00 3-Eng-Sieg vs 5-Hankins-Cline
+  630          6.50   1.50 4-Lewis-Davis vs 7-Pesce-Gilman
+        100    0.50   7.50 5-Walker-Fuhrman vs 9-Christiansen-Setterholm
+        100    0.50   7.50 6-Hudesman-Zaugg vs 4-Krah-Poore
+  140          2.50   5.50 7-Cowles-Laughary vs 6-Christensen-Ring
+  620          4.50   3.50 8-Campbell-Guice vs 8-Tipton-Hesson
+  630          6.50   1.50 9-Miller-Romeo vs 1-Ford-Scholes
+  140          2.50   5.50 10-Diamond-Dierickx vs 3-Christie-Litwin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    4.50   3.50 2-Binney-James vs 2-Roselle-Anderson
+        990    2.50   5.50 3-Eng-Sieg vs 5-Hankins-Cline
+        980    4.50   3.50 4-Lewis-Davis vs 7-Pesce-Gilman
+        990    2.50   5.50 5-Walker-Fuhrman vs 9-Christiansen-Setterholm
+       1010    0.50   7.50 6-Hudesman-Zaugg vs 4-Krah-Poore
+       1010    0.50   7.50 7-Cowles-Laughary vs 6-Christensen-Ring
+  100          7.00   1.00 8-Campbell-Guice vs 8-Tipton-Hesson
+  100          7.00   1.00 9-Miller-Romeo vs 1-Ford-Scholes
+  100          7.00   1.00 10-Diamond-Dierickx vs 3-Christie-Litwin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    5.00   3.00 2-Binney-James vs 2-Roselle-Anderson
+        600    5.00   3.00 3-Eng-Sieg vs 5-Hankins-Cline
+        630    1.50   6.50 4-Lewis-Davis vs 7-Pesce-Gilman
+       1070    0.00   8.00 5-Walker-Fuhrman vs 9-Christiansen-Setterholm
+        600    5.00   3.00 6-Hudesman-Zaugg vs 4-Krah-Poore
+        630    1.50   6.50 7-Cowles-Laughary vs 6-Christensen-Ring
+        600    5.00   3.00 8-Campbell-Guice vs 8-Tipton-Hesson
+        150    8.00   0.00 9-Miller-Romeo vs 1-Ford-Scholes
+        600    5.00   3.00 10-Diamond-Dierickx vs 3-Christie-Litwin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   4.00 2-Binney-James vs 1-Ford-Scholes
+        800    0.00   8.00 3-Eng-Sieg vs 3-Christie-Litwin
+  200          7.50   0.50 4-Lewis-Davis vs 6-Christensen-Ring
+        400    2.00   6.00 5-Walker-Fuhrman vs 8-Tipton-Hesson
+  100          6.00   2.00 6-Hudesman-Zaugg vs 5-Hankins-Cline
+        100    5.00   3.00 7-Cowles-Laughary vs 7-Pesce-Gilman
+        750    1.00   7.00 8-Campbell-Guice vs 10-Sonkin-Migliorini
+        300    3.00   5.00 9-Miller-Romeo vs 2-Roselle-Anderson
+  200          7.50   0.50 10-Diamond-Dierickx vs 4-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    5.50   2.50 2-Binney-James vs 1-Ford-Scholes
+  100          8.00   0.00 3-Eng-Sieg vs 3-Christie-Litwin
+        550    0.00   8.00 4-Lewis-Davis vs 6-Christensen-Ring
+        460    2.00   6.00 5-Walker-Fuhrman vs 8-Tipton-Hesson
+        400    3.00   5.00 6-Hudesman-Zaugg vs 5-Hankins-Cline
+        130    7.00   1.00 7-Cowles-Laughary vs 7-Pesce-Gilman
+        150    5.50   2.50 8-Campbell-Guice vs 10-Sonkin-Migliorini
+        170    4.00   4.00 9-Miller-Romeo vs 2-Roselle-Anderson
+        500    1.00   7.00 10-Diamond-Dierickx vs 4-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    5.50   2.50 2-Binney-James vs 1-Ford-Scholes
+        630    2.00   6.00 3-Eng-Sieg vs 3-Christie-Litwin
+        630    2.00   6.00 4-Lewis-Davis vs 6-Christensen-Ring
+        630    2.00   6.00 5-Walker-Fuhrman vs 8-Tipton-Hesson
+        620    5.50   2.50 6-Hudesman-Zaugg vs 5-Hankins-Cline
+        630    2.00   6.00 7-Cowles-Laughary vs 7-Pesce-Gilman
+  300          8.00   0.00 8-Campbell-Guice vs 10-Sonkin-Migliorini
+        600    7.00   1.00 9-Miller-Romeo vs 2-Roselle-Anderson
+        630    2.00   6.00 10-Diamond-Dierickx vs 4-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          5.00   3.00 2-Binney-James vs 10-Sonkin-Migliorini
+  630          7.00   1.00 3-Eng-Sieg vs 2-Roselle-Anderson
+        100    1.50   6.50 4-Lewis-Davis vs 4-Krah-Poore
+  600          5.00   3.00 5-Walker-Fuhrman vs 7-Pesce-Gilman
+  120          3.00   5.00 6-Hudesman-Zaugg vs 6-Christensen-Ring
+        200    0.00   8.00 7-Cowles-Laughary vs 9-Christiansen-Setterholm
+  600          5.00   3.00 8-Campbell-Guice vs 1-Ford-Scholes
+  670          8.00   0.00 9-Miller-Romeo vs 3-Christie-Litwin
+        100    1.50   6.50 10-Diamond-Dierickx vs 5-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       7.00   1.00 2-Binney-James vs 10-Sonkin-Migliorini
+        140    2.50   5.50 3-Eng-Sieg vs 2-Roselle-Anderson
+        170    0.50   7.50 4-Lewis-Davis vs 4-Krah-Poore
+    PASS       7.00   1.00 5-Walker-Fuhrman vs 7-Pesce-Gilman
+         50    5.00   3.00 6-Hudesman-Zaugg vs 6-Christensen-Ring
+        170    0.50   7.50 7-Cowles-Laughary vs 9-Christiansen-Setterholm
+        140    2.50   5.50 8-Campbell-Guice vs 1-Ford-Scholes
+        110    4.00   4.00 9-Miller-Romeo vs 3-Christie-Litwin
+    PASS       7.00   1.00 10-Diamond-Dierickx vs 5-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          8.00   0.00 2-Binney-James vs 10-Sonkin-Migliorini
+   50          5.50   2.50 3-Eng-Sieg vs 2-Roselle-Anderson
+        140    1.50   6.50 4-Lewis-Davis vs 4-Krah-Poore
+   50          5.50   2.50 5-Walker-Fuhrman vs 7-Pesce-Gilman
+   50          5.50   2.50 6-Hudesman-Zaugg vs 6-Christensen-Ring
+        140    1.50   6.50 7-Cowles-Laughary vs 9-Christiansen-Setterholm
+        140    1.50   6.50 8-Campbell-Guice vs 1-Ford-Scholes
+   50          5.50   2.50 9-Miller-Romeo vs 3-Christie-Litwin
+        140    1.50   6.50 10-Diamond-Dierickx vs 5-Hankins-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.50   6.50 2-Binney-James vs 9-Christiansen-Setterholm
+       1430    0.00   8.00 3-Eng-Sieg vs 1-Ford-Scholes
+  100          7.00   1.00 4-Lewis-Davis vs 3-Christie-Litwin
+        650    4.00   4.00 5-Walker-Fuhrman vs 5-Hankins-Cline
+        650    4.00   4.00 6-Hudesman-Zaugg vs 8-Tipton-Hesson
+        650    4.00   4.00 7-Cowles-Laughary vs 10-Sonkin-Migliorini
+  100          7.00   1.00 8-Campbell-Guice vs 2-Roselle-Anderson
+  100          7.00   1.00 9-Miller-Romeo vs 4-Krah-Poore
+        680    1.50   6.50 10-Diamond-Dierickx vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   4.00 2-Binney-James vs 9-Christiansen-Setterholm
+  150          8.00   0.00 3-Eng-Sieg vs 1-Ford-Scholes
+  100          7.00   1.00 4-Lewis-Davis vs 3-Christie-Litwin
+        400    0.00   8.00 5-Walker-Fuhrman vs 5-Hankins-Cline
+   50          4.00   4.00 6-Hudesman-Zaugg vs 8-Tipton-Hesson
+   50          4.00   4.00 7-Cowles-Laughary vs 10-Sonkin-Migliorini
+   50          4.00   4.00 8-Campbell-Guice vs 2-Roselle-Anderson
+   50          4.00   4.00 9-Miller-Romeo vs 4-Krah-Poore
+        150    1.00   7.00 10-Diamond-Dierickx vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.00   1.00 2-Binney-James vs 9-Christiansen-Setterholm
+   50          7.00   1.00 3-Eng-Sieg vs 1-Ford-Scholes
+        420    0.50   7.50 4-Lewis-Davis vs 3-Christie-Litwin
+        110    4.50   3.50 5-Walker-Fuhrman vs 5-Hankins-Cline
+        130    3.00   5.00 6-Hudesman-Zaugg vs 8-Tipton-Hesson
+   50          7.00   1.00 7-Cowles-Laughary vs 10-Sonkin-Migliorini
+        110    4.50   3.50 8-Campbell-Guice vs 2-Roselle-Anderson
+        420    0.50   7.50 9-Miller-Romeo vs 4-Krah-Poore
+        140    2.00   6.00 10-Diamond-Dierickx vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.50   3.50 2-Binney-James vs 8-Tipton-Hesson
+  110          4.50   3.50 3-Eng-Sieg vs 10-Sonkin-Migliorini
+  800          8.00   0.00 4-Lewis-Davis vs 2-Roselle-Anderson
+         50    2.00   6.00 5-Walker-Fuhrman vs 4-Krah-Poore
+         50    2.00   6.00 6-Hudesman-Zaugg vs 9-Christiansen-Setterholm
+        100    0.00   8.00 7-Cowles-Laughary vs 1-Ford-Scholes
+         50    2.00   6.00 8-Campbell-Guice vs 3-Christie-Litwin
+  140          6.00   2.00 9-Miller-Romeo vs 5-Hankins-Cline
+  470          7.00   1.00 10-Diamond-Dierickx vs 7-Pesce-Gilman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   3.00 2-Binney-James vs 8-Tipton-Hesson
+  300          7.00   1.00 3-Eng-Sieg vs 10-Sonkin-Migliorini
+        100    2.50   5.50 4-Lewis-Davis vs 2-Roselle-Anderson
+        100    2.50   5.50 5-Walker-Fuhrman vs 4-Krah-Poore
+        100    2.50   5.50 6-Hudesman-Zaugg vs 9-Christiansen-Setterholm
+  510          8.00   0.00 7-Cowles-Laughary vs 1-Ford-Scholes
+        100    2.50   5.50 8-Campbell-Guice vs 3-Christie-Litwin
+  150          6.00   2.00 9-Miller-Romeo vs 5-Hankins-Cline
+        420    0.00   8.00 10-Diamond-Dierickx vs 7-Pesce-Gilman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   4.00 2-Binney-James vs 8-Tipton-Hesson
+  140          7.00   1.00 3-Eng-Sieg vs 10-Sonkin-Migliorini
+        500    1.50   6.50 4-Lewis-Davis vs 2-Roselle-Anderson
+        800    0.00   8.00 5-Walker-Fuhrman vs 4-Krah-Poore
+  100          5.00   3.00 6-Hudesman-Zaugg vs 9-Christiansen-Setterholm
+        500    1.50   6.50 7-Cowles-Laughary vs 1-Ford-Scholes
+        420    3.00   5.00 8-Campbell-Guice vs 3-Christie-Litwin
+  140          7.00   1.00 9-Miller-Romeo vs 5-Hankins-Cline
+  140          7.00   1.00 10-Diamond-Dierickx vs 7-Pesce-Gilman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   5.00 2-Binney-James vs 7-Pesce-Gilman
+  140          6.00   2.00 3-Eng-Sieg vs 9-Christiansen-Setterholm
+         50    0.00   8.00 4-Lewis-Davis vs 1-Ford-Scholes
+  140          6.00   2.00 5-Walker-Fuhrman vs 3-Christie-Litwin
+  110          3.00   5.00 6-Hudesman-Zaugg vs 10-Sonkin-Migliorini
+  170          8.00   0.00 7-Cowles-Laughary vs 2-Roselle-Anderson
+  140          6.00   2.00 8-Campbell-Guice vs 4-Krah-Poore
+  110          3.00   5.00 9-Miller-Romeo vs 6-Christensen-Ring
+  100          1.00   7.00 10-Diamond-Dierickx vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        930    0.00   8.00 2-Binney-James vs 7-Pesce-Gilman
+        170    5.00   3.00 3-Eng-Sieg vs 9-Christiansen-Setterholm
+        800    1.00   7.00 4-Lewis-Davis vs 1-Ford-Scholes
+        140    7.00   1.00 5-Walker-Fuhrman vs 3-Christie-Litwin
+        100    8.00   0.00 6-Hudesman-Zaugg vs 10-Sonkin-Migliorini
+        170    5.00   3.00 7-Cowles-Laughary vs 2-Roselle-Anderson
+        620    2.50   5.50 8-Campbell-Guice vs 4-Krah-Poore
+        620    2.50   5.50 9-Miller-Romeo vs 6-Christensen-Ring
+        170    5.00   3.00 10-Diamond-Dierickx vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1390          8.00   0.00 2-Binney-James vs 7-Pesce-Gilman
+  600          0.00   8.00 3-Eng-Sieg vs 9-Christiansen-Setterholm
+  630          3.50   4.50 4-Lewis-Davis vs 1-Ford-Scholes
+  630          3.50   4.50 5-Walker-Fuhrman vs 3-Christie-Litwin
+  620          1.00   7.00 6-Hudesman-Zaugg vs 10-Sonkin-Migliorini
+ 1370          7.00   1.00 7-Cowles-Laughary vs 2-Roselle-Anderson
+  630          3.50   4.50 8-Campbell-Guice vs 4-Krah-Poore
+  690          6.00   2.00 9-Miller-Romeo vs 6-Christensen-Ring
+  630          3.50   4.50 10-Diamond-Dierickx vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          7.00   1.00 2-Binney-James vs 6-Christensen-Ring
+  110          2.00   6.00 3-Eng-Sieg vs 8-Tipton-Hesson
+  140          5.00   3.00 4-Lewis-Davis vs 10-Sonkin-Migliorini
+  170          7.00   1.00 5-Walker-Fuhrman vs 2-Roselle-Anderson
+  170          7.00   1.00 6-Hudesman-Zaugg vs 1-Ford-Scholes
+  110          2.00   6.00 7-Cowles-Laughary vs 3-Christie-Litwin
+  110          2.00   6.00 8-Campbell-Guice vs 5-Hankins-Cline
+  110          2.00   6.00 9-Miller-Romeo vs 7-Pesce-Gilman
+  110          2.00   6.00 10-Diamond-Dierickx vs 9-Christiansen-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    4.00   4.00 2-Binney-James vs 6-Christensen-Ring
+        100    6.00   2.00 3-Eng-Sieg vs 8-Tipton-Hesson
+        170    3.00   5.00 4-Lewis-Davis vs 10-Sonkin-Migliorini
+  140          8.00   0.00 5-Walker-Fuhrman vs 2-Roselle-Anderson
+        180    2.00   6.00 6-Hudesman-Zaugg vs 1-Ford-Scholes
+        110    5.00   3.00 7-Cowles-Laughary vs 3-Christie-Litwin
+        200    1.00   7.00 8-Campbell-Guice vs 5-Hankins-Cline
+  100          7.00   1.00 9-Miller-Romeo vs 7-Pesce-Gilman
+        500    0.00   8.00 10-Diamond-Dierickx vs 9-Christiansen-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.50   1.50 2-Binney-James vs 6-Christensen-Ring
+   50          6.50   1.50 3-Eng-Sieg vs 8-Tipton-Hesson
+        150    0.50   7.50 4-Lewis-Davis vs 10-Sonkin-Migliorini
+        140    3.50   4.50 5-Walker-Fuhrman vs 2-Roselle-Anderson
+        140    3.50   4.50 6-Hudesman-Zaugg vs 1-Ford-Scholes
+        140    3.50   4.50 7-Cowles-Laughary vs 3-Christie-Litwin
+  110          8.00   0.00 8-Campbell-Guice vs 5-Hankins-Cline
+        140    3.50   4.50 9-Miller-Romeo vs 7-Pesce-Gilman
+        150    0.50   7.50 10-Diamond-Dierickx vs 9-Christiansen-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.00   3.00 2-Binney-James vs 5-Hankins-Cline
+  450          5.00   3.00 3-Eng-Sieg vs 7-Pesce-Gilman
+  430          2.00   6.00 4-Lewis-Davis vs 9-Christiansen-Setterholm
+  430          2.00   6.00 5-Walker-Fuhrman vs 1-Ford-Scholes
+  480          7.00   1.00 6-Hudesman-Zaugg vs 2-Roselle-Anderson
+  430          2.00   6.00 7-Cowles-Laughary vs 4-Krah-Poore
+  400          0.00   8.00 8-Campbell-Guice vs 6-Christensen-Ring
+  450          5.00   3.00 9-Miller-Romeo vs 8-Tipton-Hesson
+  980          8.00   0.00 10-Diamond-Dierickx vs 10-Sonkin-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.50   4.50 2-Binney-James vs 5-Hankins-Cline
+  100          8.00   0.00 3-Eng-Sieg vs 7-Pesce-Gilman
+        650    3.50   4.50 4-Lewis-Davis vs 9-Christiansen-Setterholm
+        650    3.50   4.50 5-Walker-Fuhrman vs 1-Ford-Scholes
+        650    3.50   4.50 6-Hudesman-Zaugg vs 2-Roselle-Anderson
+        650    3.50   4.50 7-Cowles-Laughary vs 4-Krah-Poore
+        650    3.50   4.50 8-Campbell-Guice vs 6-Christensen-Ring
+        650    3.50   4.50 9-Miller-Romeo vs 8-Tipton-Hesson
+        650    3.50   4.50 10-Diamond-Dierickx vs 10-Sonkin-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          7.00   1.00 2-Binney-James vs 5-Hankins-Cline
+  170          5.00   3.00 3-Eng-Sieg vs 7-Pesce-Gilman
+  420          7.00   1.00 4-Lewis-Davis vs 9-Christiansen-Setterholm
+  420          7.00   1.00 5-Walker-Fuhrman vs 1-Ford-Scholes
+  140          3.50   4.50 6-Hudesman-Zaugg vs 2-Roselle-Anderson
+  140          3.50   4.50 7-Cowles-Laughary vs 4-Krah-Poore
+         50    1.00   7.00 8-Campbell-Guice vs 6-Christensen-Ring
+         50    1.00   7.00 9-Miller-Romeo vs 8-Tipton-Hesson
+         50    1.00   7.00 10-Diamond-Dierickx vs 10-Sonkin-Migliorini
+----------------------------------------------------------------------
