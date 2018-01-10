@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>January 2, 2018    |CLUB NO.>158048    | 01/02/2018 22:32
+DATE>January 2, 2018    |CLUB NO.>158048    | 01/09/2018 22:52
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Kim Eng         |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -13,11 +13,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
  1 Chris Moore            Kim Eng                  A    2     .     .    158.50  58.70  0.84(A) 
 
- 2 David Hankins          Kevin Cline              B    4     3     .    153.00  56.67  0.42(A) 
+ 2 David Hankins          Kevin Cline              B    4     3     .    153.56  56.87  0.42(A) 
 
  3 Shawn Abernethy        Mike Ring                B    1     1     .    162.00  60.00  1.20(A) 
 
- 4 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .    109.69  40.63          
+ 4 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .    110.25  40.83          
 
  5 David Binney           Andrea James             A    .     .     .    119.25  44.17          
 
@@ -25,21 +25,21 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  7 David Roselle          Sue Anderson             B    .     .     .    131.06  48.54          
 
- 8 David Baer             Rose Bolson              A    .     .     .    133.31  49.37          
+ 8 David Baer             Rose Bolson              A    .     .     .    133.88  49.59          
 
- 9 Xiang Tu               Jack Yuan                C    3     2     1    156.38  57.92  0.60(A) 
+ 9 Xiang Tu               Jack Yuan                C    3     2     1    156.94  58.13  0.60(A) 
 
 10 William Campbell       Ann Romeo                C    .     .     .     87.75  32.50          
 
-11 Ray Miller             Jeffrey Ford             A    5     .     .    146.50  54.26  0.24(A) 
+11 Ray Miller             Jeffrey Ford             A    5     .     .    144.50  53.52  0.24(A) 
 
 12 Chris Pesce            Christopher Jarvis       B    .     .     .    123.50  45.74          
 
 
-                                          Totals                        1617.07       
+                                          Totals                        1617.32       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>January 2, 2018    |CLUB NO.>158048    | 01/02/2018 22:32
+DATE>January 2, 2018    |CLUB NO.>158048    | 01/09/2018 22:52
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Kim Eng         |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -53,25 +53,25 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
 
 
- 3 Morton Latta           Thomas Stever            C    .     .     .    116.00  42.96          
+ 3 Morton Latta           Thomas Stever            C    .     .     .    115.50  42.78          
 
  4 Marilyn Dierickx       Sandy Freeling           C    .     .     .    113.50  42.04          
 
- 5 Joel Fuhrman           David Taylor             A    .     .     .    128.00  47.41          
+ 5 Joel Fuhrman           David Taylor             A    .     .     .    127.50  47.22          
 
  6 Moises Saul            Irving Sonkin            C    .     .     2    131.50  48.70  0.22(C) 
 
- 7 Mike Christensen       Becky Stevens            A   5/6    .     .    140.50  52.04  0.22(A) 
+ 7 Mike Christensen       Becky Stevens            A    5     .     .    140.50  52.04  0.24(A) 
 
- 8 Nick Tipton            Galen Hesson             B    3     2     .    149.50  55.37  0.60(A) 
+ 8 Nick Tipton            Galen Hesson             B    3     2     .    149.00  55.19  0.60(A) 
 
- 9 Liliana Diaconescu     Brian Zaugg              A    4     .     .    146.50  54.26  0.42(A) 
+ 9 Liliana Diaconescu     Brian Zaugg              A    4     .     .    148.50  55.00  0.42(A) 
 
 10 Pete Cowles            Clay Laughary            C    2     1     1    150.50  55.74  0.84(A) 
 
 11 Stanford Christie      Ken Christiansen         A    .     .     .    114.00  42.22          
 
-12 John Krah              Douglas Kuschner         B   5/6    .     .    140.50  52.04  0.22(A) 
+12 John Krah              Douglas Kuschner         B    .     .     .    140.00  51.85          
 
 
                                           Totals                        1485.00       
@@ -472,15 +472,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   140          9.50   0.50 1-Moore-Eng vs 6-Saul-Sonkin
-         50    1.50   8.50 2-Hankins-Cline vs 8-Tipton-Hesson
+         50    2.00   8.00 2-Hankins-Cline vs 8-Tipton-Hesson
   110          7.50   2.50 3-Abernethy-Ring vs 10-Cowles-Laughary
-   50          4.00   6.00 4-Falls-Baker-Harvey vs 12-Krah-Kuschner
+   50          4.50   5.50 4-Falls-Baker-Harvey vs 12-Krah-Kuschner
   110          7.50   2.50 6-Saul-Sieg vs 4-Dierickx-Freeling
   100          6.00   4.00 7-Roselle-Anderson vs 1-Sieg-Delfs
-   50          4.00   6.00 8-Baer-Bolson vs 3-Latta-Stever
-         50    1.50   8.50 9-Tu-Yuan vs 5-Fuhrman-Taylor
+   50          4.50   5.50 8-Baer-Bolson vs 3-Latta-Stever
+         50    2.00   8.00 9-Tu-Yuan vs 5-Fuhrman-Taylor
         800    0.00  10.00 10-Campbell-Romeo vs 7-Christensen-Stevens
-   50          4.00   6.00 11-Miller-Ford vs 9-Diaconescu-Zaugg
+         50    2.00   8.00 11-Miller-Ford vs 9-Diaconescu-Zaugg
   140          9.50   0.50 12-Pesce-Jarvis vs 11-Christie-Christiansen
 ----------------------------------------------------------------------
 
