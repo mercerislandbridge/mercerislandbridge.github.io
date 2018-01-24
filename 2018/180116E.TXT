@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>January 16, 2018   |CLUB NO.>158048    | 01/16/2018 22:31
+DATE>January 16, 2018   |CLUB NO.>158048    | 01/23/2018 18:19
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jenni Carmichael|RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -25,23 +25,23 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  7 Andrea James           Albert Bender            B    5     4     .    146.79  51.33  0.26(A) 
 
- 8 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .    140.29  49.05          
+ 8 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .    139.75  48.86          
 
- 9 Steven Mark Lewis      Grant Davis              C    4     3     .    151.13  52.84  0.46(A) 
+ 9 Steven Mark Lewis      Grant Davis              C    4     3     .    150.58  52.65  0.46(A) 
 
-10 Connie Heller          Dennis Heller            A    .     .     .    105.63  36.93          
+10 Connie Heller          Dennis Heller            A    .     .     .    105.08  36.74          
 
 11 William Campbell       Joel Fuhrman             B    .     .     .    117.00  40.91          
 
 12 Ray Miller             Chris Moore              A    .     .     .    145.71  50.95          
 
-13 Galen Hesson           Leah Sieg                B    .     .     .    141.38  49.43          
+13 Galen Hesson           Leah Sieg                B    .     .     .    143.00  50.00          
 
 
-                                          Totals                        1859.02       
+                                          Totals                        1859.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>January 16, 2018   |CLUB NO.>158048    | 01/16/2018 22:31
+DATE>January 16, 2018   |CLUB NO.>158048    | 01/23/2018 18:19
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jenni Carmichael|RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -59,21 +59,21 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  4 Paul Schwaighart       Sue Anderson             A    .     .     .    153.00  53.50          
 
- 5 Moises Saul            Irving Sonkin            C    .     .     .    122.50  42.83          
+ 5 Moises Saul            Irving Sonkin            C    .     .     .    121.00  42.31          
 
  6 Mike Christensen       Mike Ring                A    5     .     .    154.00  53.85  0.26(A) 
 
  7 Chris Pesce            David Taylor             B    .     .     .    144.50  50.52          
 
- 8 John Krah              Daniel Poore             C    4     2     1    155.50  54.37  0.46(A) 
+ 8 John Krah              Daniel Poore             C    4     2     1    156.00  54.55  0.46(A) 
 
  9 Clay Laughary          Pete Cowles              C    .     .     .    112.00  39.16          
 
-10 Kevin Cline            David Hankins            B    3     1     .    159.50  55.77  0.65(A) 
+10 Kevin Cline            David Hankins            B    3     1     .    160.00  55.94  0.65(A) 
 
 
 
-12 Eric Sieg              Ken Scholes              A    1     .     .    178.50  62.41  1.30(A) 
+12 Eric Sieg              Ken Scholes              A    1     .     .    179.00  62.59  1.30(A) 
 
 13 Christopher Jarvis     Adam Ruprecht            B    .     3     .    149.00  52.10  0.32(B) 
 
@@ -360,12 +360,12 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   100         11.00   0.00 5-Gulley-Romeo vs 2-Hendrickson-Hovda
         120    6.50   4.50 6-Zaugg-Diaconescu vs 4-Schwaighart-Anderson
         120    6.50   4.50 7-James-Bender vs 6-Christensen-Ring
-        150    2.00   9.00 8-Falls-Baker-Harvey vs 8-Krah-Poore
-        150    2.00   9.00 9-Lewis-Davis vs 10-Cline-Hankins
-        150    2.00   9.00 10-Heller-Heller vs 12-Sieg-Scholes
+        150    1.50   9.50 8-Falls-Baker-Harvey vs 8-Krah-Poore
+        150    1.50   9.50 9-Lewis-Davis vs 10-Cline-Hankins
+        150    1.50   9.50 10-Heller-Heller vs 12-Sieg-Scholes
         120    6.50   4.50 11-Campbell-Fuhrman vs 1-Ford-Eng
         120    6.50   4.50 12-Miller-Moore vs 3-Duryea-Budos
-        600    0.00  11.00 13-Hesson-Sieg vs 5-Saul-Sonkin
+        150    1.50   9.50 13-Hesson-Sieg vs 5-Saul-Sonkin
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 17

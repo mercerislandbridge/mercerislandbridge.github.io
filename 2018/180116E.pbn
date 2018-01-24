@@ -100,25 +100,25 @@ N  C  4
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  3
-S NT  6
+S NT  5
 W NT  3
-N NT  5
+N NT  6
 E  S  5
 S  S  8
 W  S  5
 N  S  8
 E  H  4
-S  H  9
+S  H  8
 W  H  4
-N  H  8
+N  H  9
 E  D  6
 S  D  7
 W  D  3
 N  D  7
 E  C 10
-S  C  2
+S  C  3
 W  C 10
-N  C  3
+N  C  2
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -168,17 +168,17 @@ S  S 11
 W  S  2
 N  S 11
 E  H  6
-S  H  6
+S  H  7
 W  H  6
-N  H  7
+N  H  6
 E  D  1
 S  D 11
 W  D  2
 N  D 11
 E  C  5
-S  C  7
+S  C  8
 W  C  4
-N  C  8
+N  C  7
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -284,9 +284,9 @@ S NT  5
 W NT  7
 N NT  5
 E  S  9
-S  S  3
+S  S  4
 W  S  9
-N  S  4
+N  S  3
 E  H  6
 S  H  7
 W  H  6
@@ -318,9 +318,9 @@ S  S  9
 W  S  3
 N  S  9
 E  H  6
-S  H  8
+S  H  7
 W  H  5
-N  H  7
+N  H  8
 E  D  7
 S  D  5
 W  D  7
@@ -416,9 +416,9 @@ S  D  6
 W  D  7
 N  D  6
 E  C  9
-S  C  4
+S  C  3
 W  C  9
-N  C  3
+N  C  4
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -584,9 +584,9 @@ S NT  2
 W NT  9
 N NT  2
 E  S 11
-S  S  2
+S  S  1
 W  S 11
-N  S  1
+N  S  2
 E  H  5
 S  H  8
 W  H  5
@@ -614,13 +614,13 @@ S NT  8
 W NT  4
 N NT  8
 E  S  4
-S  S  8
+S  S  9
 W  S  4
-N  S  9
+N  S  8
 E  H  5
-S  H  7
+S  H  8
 W  H  5
-N  H  8
+N  H  7
 E  D  7
 S  D  6
 W  D  6
@@ -832,9 +832,9 @@ S  H  5
 W  H  8
 N  H  5
 E  D  6
-S  D  6
+S  D  7
 W  D  6
-N  D  7
+N  D  6
 E  C  4
 S  C  8
 W  C  5
@@ -850,13 +850,13 @@ N  C  8
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  3
-S NT  9
+S NT 10
 W NT  3
-N NT 10
+N NT  9
 E  S  7
-S  S  5
+S  S  6
 W  S  7
-N  S  6
+N  S  5
 E  H  5
 S  H  7
 W  H  5
@@ -910,9 +910,9 @@ N  C  7
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  5
-S NT  7
+S NT  8
 W NT  5
-N NT  8
+N NT  7
 E  S  4
 S  S  9
 W  S  4
@@ -926,9 +926,9 @@ S  D  8
 W  D  4
 N  D  8
 E  C  6
-S  C  6
+S  C  7
 W  C  6
-N  C  7
+N  C  6
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -1012,9 +1012,9 @@ S  H  6
 W  H  6
 N  H  6
 E  D  7
-S  D  6
+S  D  5
 W  D  7
-N  D  5
+N  D  6
 E  C  8
 S  C  4
 W  C  8
