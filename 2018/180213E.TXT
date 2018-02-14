@@ -1,0 +1,500 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>February 13, 2018  |CLUB NO.>158048    | 02/13/2018 22:44
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Binney           Joel Fuhrman             A    .     .     .    106.00  43.62          
+
+ 2 Bryan Delfs            J.C. Chupack             B    .     .     .     96.06  39.53          
+
+ 3 Leah Sieg              Elizabeth Saul           B    .     .     .     92.72  38.16          
+
+ 4 Albert Bender          Andrea James             B    .     .     .    108.72  44.74          
+
+ 5 Terry Jacobson         Brad Rind                C    1     1     1    149.17  61.39  1.00(A) 
+
+ 6 Ann Romeo              Tracey Guice             B    .     .     .    123.72  50.91          
+
+ 7 Ray Miller             Eric Sieg                A    2     .     .    144.22  59.35  0.70(A) 
+
+ 8 Clay Laughary          Pete Cowles              C    4     2     .    134.17  55.21  0.39(B) 
+
+ 9 Connie Heller          Dennis Heller            A    3     .     .    134.94  55.53  0.50(A) 
+
+10 Nelson Davis           Alex Woo                 C    .     3     .    124.33  51.16  0.28(B) 
+
+
+                                          Totals                        1214.05       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>February 13, 2018  |CLUB NO.>158048    | 02/13/2018 22:44
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=1                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B    .     .     .    120.06  49.41          
+
+ 2 Brian Zaugg            Shawn Abernethy          B    .     .     .     98.13  40.38          
+
+ 3 David Roselle          Sue Anderson             B    .     .     .    113.67  46.78          
+
+ 4 Katrin Litwin          Stanford Christie        A    4     .     .    126.78  52.17  0.35(A) 
+
+ 5 Moises Saul            Lorenzo Migliorini       B    .     .     .    108.78  44.77          
+
+ 6 John Krah              Daniel Poore             C    3     2     .    129.28  53.20  0.50(A) 
+
+ 7 Mike Christensen       Mike Ring                A    1     .     .    138.28  56.91  1.00(A) 
+
+ 8 Rex Tu                 Becky Stevens            B    .     3     .    121.33  49.93  0.32(B) 
+
+ 9 Kevin Cline            David Hankins            B    .     .     .    120.33  49.52          
+
+10 Hugh Hendrickson       Beau Hovda               B    2     1     .    137.50  56.58  0.70(A) 
+
+
+                                          Totals                        1214.14       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    2.00   7.00 1-Binney-Fuhrman vs 1-Tipton-Hesson
+        510    2.00   7.00 2-Delfs-Chupack vs 4-Litwin-Christie
+        510    2.00   7.00 3-Sieg-Saul vs 6-Krah-Poore
+        450    7.00   2.00 4-Bender-James vs 8-Tu-Stevens
+        300    9.00   0.00 5-Jacobson-Rind vs 10-Hendrickson-Hovda
+       1010    0.00   9.00 6-Romeo-Guice vs 3-Roselle-Anderson
+        480    4.50   4.50 7-Miller-Sieg vs 5-Saul-Migliorini
+        450    7.00   2.00 8-Laughary-Cowles vs 7-Christensen-Ring
+        450    7.00   2.00 9-Heller-Heller vs 9-Cline-Hankins
+        480    4.50   4.50 10-Davis-Woo vs 2-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          7.50   1.50 1-Binney-Fuhrman vs 1-Tipton-Hesson
+  140          4.00   5.00 2-Delfs-Chupack vs 4-Litwin-Christie
+        100    2.00   7.00 3-Sieg-Saul vs 6-Krah-Poore
+        300    1.00   8.00 4-Bender-James vs 8-Tu-Stevens
+  200          5.50   3.50 5-Jacobson-Rind vs 10-Hendrickson-Hovda
+        800    0.00   9.00 6-Romeo-Guice vs 3-Roselle-Anderson
+  200          5.50   3.50 7-Miller-Sieg vs 5-Saul-Migliorini
+  100          3.00   6.00 8-Laughary-Cowles vs 7-Christensen-Ring
+  620          7.50   1.50 9-Heller-Heller vs 9-Cline-Hankins
+  650          9.00   0.00 10-Davis-Woo vs 2-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          8.50   0.50 1-Binney-Fuhrman vs 1-Tipton-Hesson
+        120    3.00   6.00 2-Delfs-Chupack vs 4-Litwin-Christie
+        380    0.50   8.50 3-Sieg-Saul vs 6-Krah-Poore
+        120    3.00   6.00 4-Bender-James vs 8-Tu-Stevens
+        100    5.00   4.00 5-Jacobson-Rind vs 10-Hendrickson-Hovda
+  200          8.50   0.50 6-Romeo-Guice vs 3-Roselle-Anderson
+  100          7.00   2.00 7-Miller-Sieg vs 5-Saul-Migliorini
+        380    0.50   8.50 8-Laughary-Cowles vs 7-Christensen-Ring
+        120    3.00   6.00 9-Heller-Heller vs 9-Cline-Hankins
+         90    6.00   3.00 10-Davis-Woo vs 2-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    4.00   5.00 1-Binney-Fuhrman vs 10-Hendrickson-Hovda
+  300          9.00   0.00 2-Delfs-Chupack vs 2-Zaugg-Abernethy
+        600    2.00   7.00 3-Sieg-Saul vs 5-Saul-Migliorini
+        800    0.00   9.00 4-Bender-James vs 7-Christensen-Ring
+        600    2.00   7.00 5-Jacobson-Rind vs 9-Cline-Hankins
+        600    2.00   7.00 6-Romeo-Guice vs 4-Litwin-Christie
+  110          8.00   1.00 7-Miller-Sieg vs 6-Krah-Poore
+  100          6.50   2.50 8-Laughary-Cowles vs 8-Tu-Stevens
+  100          6.50   2.50 9-Heller-Heller vs 1-Tipton-Hesson
+        130    5.00   4.00 10-Davis-Woo vs 3-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.50   8.50 1-Binney-Fuhrman vs 10-Hendrickson-Hovda
+        170    3.00   6.00 2-Delfs-Chupack vs 2-Zaugg-Abernethy
+        500    0.50   8.50 3-Sieg-Saul vs 5-Saul-Migliorini
+  130          9.00   0.00 4-Bender-James vs 7-Christensen-Ring
+        420    2.00   7.00 5-Jacobson-Rind vs 9-Cline-Hankins
+   50          6.00   3.00 6-Romeo-Guice vs 4-Litwin-Christie
+  110          8.00   1.00 7-Miller-Sieg vs 6-Krah-Poore
+   50          6.00   3.00 8-Laughary-Cowles vs 8-Tu-Stevens
+        100    4.00   5.00 9-Heller-Heller vs 1-Tipton-Hesson
+   50          6.00   3.00 10-Davis-Woo vs 3-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   4.50 1-Binney-Fuhrman vs 10-Hendrickson-Hovda
+  100          1.72   7.28 3-Sieg-Saul vs 5-Saul-Migliorini
+  100          1.72   7.28 4-Bender-James vs 7-Christensen-Ring
+  170          6.17   2.83 5-Jacobson-Rind vs 9-Cline-Hankins
+  100          1.72   7.28 6-Romeo-Guice vs 4-Litwin-Christie
+  100          1.72   7.28 7-Miller-Sieg vs 6-Krah-Poore
+  170          6.17   2.83 8-Laughary-Cowles vs 8-Tu-Stevens
+  420          8.94   0.06 9-Heller-Heller vs 1-Tipton-Hesson
+  200          7.83   1.17 10-Davis-Woo vs 3-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   8.50 1-Binney-Fuhrman vs 9-Cline-Hankins
+  100          3.50   5.50 2-Delfs-Chupack vs 1-Tipton-Hesson
+  300          8.00   1.00 3-Sieg-Saul vs 3-Roselle-Anderson
+        140    0.50   8.50 4-Bender-James vs 6-Krah-Poore
+  300          8.00   1.00 5-Jacobson-Rind vs 8-Tu-Stevens
+  300          8.00   1.00 6-Romeo-Guice vs 5-Saul-Migliorini
+  100          3.50   5.50 7-Miller-Sieg vs 7-Christensen-Ring
+  200          6.00   3.00 8-Laughary-Cowles vs 10-Hendrickson-Hovda
+  100          3.50   5.50 9-Heller-Heller vs 2-Zaugg-Abernethy
+  100          3.50   5.50 10-Davis-Woo vs 4-Litwin-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   4.50 1-Binney-Fuhrman vs 9-Cline-Hankins
+        100    0.00   9.00 2-Delfs-Chupack vs 1-Tipton-Hesson
+  450          9.00   0.00 3-Sieg-Saul vs 3-Roselle-Anderson
+  420          7.50   1.50 4-Bender-James vs 6-Krah-Poore
+  420          7.50   1.50 5-Jacobson-Rind vs 8-Tu-Stevens
+  200          4.50   4.50 6-Romeo-Guice vs 5-Saul-Migliorini
+  200          4.50   4.50 7-Miller-Sieg vs 7-Christensen-Ring
+  200          4.50   4.50 8-Laughary-Cowles vs 10-Hendrickson-Hovda
+         50    1.50   7.50 9-Heller-Heller vs 2-Zaugg-Abernethy
+         50    1.50   7.50 10-Davis-Woo vs 4-Litwin-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    8.00   1.00 1-Binney-Fuhrman vs 9-Cline-Hankins
+        170    2.00   7.00 2-Delfs-Chupack vs 1-Tipton-Hesson
+        100    7.00   2.00 3-Sieg-Saul vs 3-Roselle-Anderson
+        300    1.00   8.00 4-Bender-James vs 6-Krah-Poore
+  100          9.00   0.00 5-Jacobson-Rind vs 8-Tu-Stevens
+        500    0.00   9.00 6-Romeo-Guice vs 5-Saul-Migliorini
+        140    5.00   4.00 7-Miller-Sieg vs 7-Christensen-Ring
+        150    3.00   6.00 8-Laughary-Cowles vs 10-Hendrickson-Hovda
+        140    5.00   4.00 9-Heller-Heller vs 2-Zaugg-Abernethy
+        140    5.00   4.00 10-Davis-Woo vs 4-Litwin-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   4.50 1-Binney-Fuhrman vs 8-Tu-Stevens
+        100    1.50   7.50 2-Delfs-Chupack vs 10-Hendrickson-Hovda
+  620          4.50   4.50 3-Sieg-Saul vs 2-Zaugg-Abernethy
+  650          7.50   1.50 4-Bender-James vs 4-Litwin-Christie
+  100          3.00   6.00 5-Jacobson-Rind vs 7-Christensen-Ring
+        100    1.50   7.50 6-Romeo-Guice vs 6-Krah-Poore
+        300    0.00   9.00 7-Miller-Sieg vs 9-Cline-Hankins
+  630          6.00   3.00 8-Laughary-Cowles vs 1-Tipton-Hesson
+  680          9.00   0.00 9-Heller-Heller vs 3-Roselle-Anderson
+  650          7.50   1.50 10-Davis-Woo vs 5-Saul-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        520    0.00   9.00 1-Binney-Fuhrman vs 8-Tu-Stevens
+        450    2.00   7.00 2-Delfs-Chupack vs 10-Hendrickson-Hovda
+        420    5.50   3.50 3-Sieg-Saul vs 2-Zaugg-Abernethy
+        450    2.00   7.00 4-Bender-James vs 4-Litwin-Christie
+        420    5.50   3.50 5-Jacobson-Rind vs 7-Christensen-Ring
+        200    8.00   1.00 6-Romeo-Guice vs 6-Krah-Poore
+        420    5.50   3.50 7-Miller-Sieg vs 9-Cline-Hankins
+        420    5.50   3.50 8-Laughary-Cowles vs 1-Tipton-Hesson
+        450    2.00   7.00 9-Heller-Heller vs 3-Roselle-Anderson
+   50          9.00   0.00 10-Davis-Woo vs 5-Saul-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          8.00   1.00 1-Binney-Fuhrman vs 8-Tu-Stevens
+        110    3.00   6.00 2-Delfs-Chupack vs 10-Hendrickson-Hovda
+        140    1.50   7.50 3-Sieg-Saul vs 2-Zaugg-Abernethy
+        530    0.00   9.00 4-Bender-James vs 4-Litwin-Christie
+  140          8.00   1.00 5-Jacobson-Rind vs 7-Christensen-Ring
+  120          6.00   3.00 6-Romeo-Guice vs 6-Krah-Poore
+  140          8.00   1.00 7-Miller-Sieg vs 9-Cline-Hankins
+        100    4.00   5.00 8-Laughary-Cowles vs 1-Tipton-Hesson
+  100          5.00   4.00 9-Heller-Heller vs 3-Roselle-Anderson
+        140    1.50   7.50 10-Davis-Woo vs 5-Saul-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    4.50   4.50 1-Binney-Fuhrman vs 7-Christensen-Ring
+        690    4.50   4.50 2-Delfs-Chupack vs 9-Cline-Hankins
+        690    4.50   4.50 3-Sieg-Saul vs 1-Tipton-Hesson
+       1680    0.00   9.00 4-Bender-James vs 3-Roselle-Anderson
+        690    4.50   4.50 5-Jacobson-Rind vs 5-Saul-Migliorini
+        680    8.00   1.00 6-Romeo-Guice vs 8-Tu-Stevens
+       1440    1.00   8.00 7-Miller-Sieg vs 10-Hendrickson-Hovda
+        690    4.50   4.50 8-Laughary-Cowles vs 2-Zaugg-Abernethy
+        660    9.00   0.00 9-Heller-Heller vs 4-Litwin-Christie
+        690    4.50   4.50 10-Davis-Woo vs 6-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.00   7.00 1-Binney-Fuhrman vs 7-Christensen-Ring
+  100          3.50   5.50 2-Delfs-Chupack vs 9-Cline-Hankins
+         50    0.00   9.00 3-Sieg-Saul vs 1-Tipton-Hesson
+  100          3.50   5.50 4-Bender-James vs 3-Roselle-Anderson
+  420          8.50   0.50 5-Jacobson-Rind vs 5-Saul-Migliorini
+  140          5.50   3.50 6-Romeo-Guice vs 8-Tu-Stevens
+  420          8.50   0.50 7-Miller-Sieg vs 10-Hendrickson-Hovda
+   50          1.00   8.00 8-Laughary-Cowles vs 2-Zaugg-Abernethy
+  170          7.00   2.00 9-Heller-Heller vs 4-Litwin-Christie
+  140          5.50   3.50 10-Davis-Woo vs 6-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   8.00 1-Binney-Fuhrman vs 7-Christensen-Ring
+        130    3.00   6.00 2-Delfs-Chupack vs 9-Cline-Hankins
+   50          5.00   4.00 3-Sieg-Saul vs 1-Tipton-Hesson
+  800          9.00   0.00 4-Bender-James vs 3-Roselle-Anderson
+  140          6.00   3.00 5-Jacobson-Rind vs 5-Saul-Migliorini
+  600          8.00   1.00 6-Romeo-Guice vs 8-Tu-Stevens
+        100    4.00   5.00 7-Miller-Sieg vs 10-Hendrickson-Hovda
+        140    2.00   7.00 8-Laughary-Cowles vs 2-Zaugg-Abernethy
+        500    0.00   9.00 9-Heller-Heller vs 4-Litwin-Christie
+  150          7.00   2.00 10-Davis-Woo vs 6-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          4.50   4.50 1-Binney-Fuhrman vs 6-Krah-Poore
+  230          1.00   8.00 2-Delfs-Chupack vs 8-Tu-Stevens
+  480          4.50   4.50 3-Sieg-Saul vs 10-Hendrickson-Hovda
+  510          8.00   1.00 4-Bender-James vs 2-Zaugg-Abernethy
+  480          4.50   4.50 5-Jacobson-Rind vs 4-Litwin-Christie
+  480          4.50   4.50 6-Romeo-Guice vs 9-Cline-Hankins
+  510          8.00   1.00 7-Miller-Sieg vs 1-Tipton-Hesson
+  170          0.00   9.00 8-Laughary-Cowles vs 3-Roselle-Anderson
+  510          8.00   1.00 9-Heller-Heller vs 5-Saul-Migliorini
+  260          2.00   7.00 10-Davis-Woo vs 7-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.00   7.00 1-Binney-Fuhrman vs 6-Krah-Poore
+        170    0.50   8.50 2-Delfs-Chupack vs 8-Tu-Stevens
+        140    3.00   6.00 3-Sieg-Saul vs 10-Hendrickson-Hovda
+        100    4.50   4.50 4-Bender-James vs 2-Zaugg-Abernethy
+  150          9.00   0.00 5-Jacobson-Rind vs 4-Litwin-Christie
+         50    6.50   2.50 6-Romeo-Guice vs 9-Cline-Hankins
+        100    4.50   4.50 7-Miller-Sieg vs 1-Tipton-Hesson
+         50    6.50   2.50 8-Laughary-Cowles vs 3-Roselle-Anderson
+  100          8.00   1.00 9-Heller-Heller vs 5-Saul-Migliorini
+        170    0.50   8.50 10-Davis-Woo vs 7-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.50   5.50 1-Binney-Fuhrman vs 6-Krah-Poore
+   50          7.50   1.50 2-Delfs-Chupack vs 8-Tu-Stevens
+        140    3.50   5.50 3-Sieg-Saul vs 10-Hendrickson-Hovda
+  120          9.00   0.00 4-Bender-James vs 2-Zaugg-Abernethy
+        200    1.50   7.50 5-Jacobson-Rind vs 4-Litwin-Christie
+        100    6.00   3.00 6-Romeo-Guice vs 9-Cline-Hankins
+        110    5.00   4.00 7-Miller-Sieg vs 1-Tipton-Hesson
+   50          7.50   1.50 8-Laughary-Cowles vs 3-Roselle-Anderson
+        200    1.50   7.50 9-Heller-Heller vs 5-Saul-Migliorini
+        530    0.00   9.00 10-Davis-Woo vs 7-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.00   6.00 1-Binney-Fuhrman vs 5-Saul-Migliorini
+  420          6.50   2.50 2-Delfs-Chupack vs 7-Christensen-Ring
+  120          2.00   7.00 3-Sieg-Saul vs 9-Cline-Hankins
+         50    0.50   8.50 4-Bender-James vs 1-Tipton-Hesson
+         50    0.50   8.50 5-Jacobson-Rind vs 3-Roselle-Anderson
+  420          6.50   2.50 6-Romeo-Guice vs 10-Hendrickson-Hovda
+  420          6.50   2.50 7-Miller-Sieg vs 2-Zaugg-Abernethy
+  420          6.50   2.50 8-Laughary-Cowles vs 4-Litwin-Christie
+  420          6.50   2.50 9-Heller-Heller vs 6-Krah-Poore
+  420          6.50   2.50 10-Davis-Woo vs 8-Tu-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.50   6.50 1-Binney-Fuhrman vs 5-Saul-Migliorini
+  650          5.50   3.50 2-Delfs-Chupack vs 7-Christensen-Ring
+  650          5.50   3.50 3-Sieg-Saul vs 9-Cline-Hankins
+  650          5.50   3.50 4-Bender-James vs 1-Tipton-Hesson
+  650          5.50   3.50 5-Jacobson-Rind vs 3-Roselle-Anderson
+  630          2.50   6.50 6-Romeo-Guice vs 10-Hendrickson-Hovda
+  660          8.50   0.50 7-Miller-Sieg vs 2-Zaugg-Abernethy
+  660          8.50   0.50 8-Laughary-Cowles vs 4-Litwin-Christie
+  150          1.00   8.00 9-Heller-Heller vs 6-Krah-Poore
+        100    0.00   9.00 10-Davis-Woo vs 8-Tu-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    6.00   3.00 1-Binney-Fuhrman vs 5-Saul-Migliorini
+        170    4.50   4.50 2-Delfs-Chupack vs 7-Christensen-Ring
+        200    3.00   6.00 3-Sieg-Saul vs 9-Cline-Hankins
+         90    7.00   2.00 4-Bender-James vs 1-Tipton-Hesson
+   50          8.50   0.50 5-Jacobson-Rind vs 3-Roselle-Anderson
+        400    1.50   7.50 6-Romeo-Guice vs 10-Hendrickson-Hovda
+   50          8.50   0.50 7-Miller-Sieg vs 2-Zaugg-Abernethy
+        420    0.00   9.00 8-Laughary-Cowles vs 4-Litwin-Christie
+        170    4.50   4.50 9-Heller-Heller vs 6-Krah-Poore
+        400    1.50   7.50 10-Davis-Woo vs 8-Tu-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          8.00   1.00 1-Binney-Fuhrman vs 4-Litwin-Christie
+        100    0.50   8.50 2-Delfs-Chupack vs 6-Krah-Poore
+        100    0.50   8.50 3-Sieg-Saul vs 8-Tu-Stevens
+  420          6.00   3.00 4-Bender-James vs 10-Hendrickson-Hovda
+  420          6.00   3.00 5-Jacobson-Rind vs 2-Zaugg-Abernethy
+  400          4.00   5.00 6-Romeo-Guice vs 1-Tipton-Hesson
+         50    2.50   6.50 7-Miller-Sieg vs 3-Roselle-Anderson
+  450          9.00   0.00 8-Laughary-Cowles vs 5-Saul-Migliorini
+         50    2.50   6.50 9-Heller-Heller vs 7-Christensen-Ring
+  420          6.00   3.00 10-Davis-Woo vs 9-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    7.50   1.50 1-Binney-Fuhrman vs 4-Litwin-Christie
+        650    4.50   4.50 2-Delfs-Chupack vs 6-Krah-Poore
+        660    1.00   8.00 3-Sieg-Saul vs 8-Tu-Stevens
+        660    1.00   8.00 4-Bender-James vs 10-Hendrickson-Hovda
+        650    4.50   4.50 5-Jacobson-Rind vs 2-Zaugg-Abernethy
+        660    1.00   8.00 6-Romeo-Guice vs 1-Tipton-Hesson
+        650    4.50   4.50 7-Miller-Sieg vs 3-Roselle-Anderson
+        600    7.50   1.50 8-Laughary-Cowles vs 5-Saul-Migliorini
+  200          9.00   0.00 9-Heller-Heller vs 7-Christensen-Ring
+        650    4.50   4.50 10-Davis-Woo vs 9-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   6.50 1-Binney-Fuhrman vs 4-Litwin-Christie
+        420    7.50   1.50 2-Delfs-Chupack vs 6-Krah-Poore
+        450    2.50   6.50 3-Sieg-Saul vs 8-Tu-Stevens
+        450    2.50   6.50 4-Bender-James vs 10-Hendrickson-Hovda
+        450    2.50   6.50 5-Jacobson-Rind vs 2-Zaugg-Abernethy
+        450    2.50   6.50 6-Romeo-Guice vs 1-Tipton-Hesson
+        420    7.50   1.50 7-Miller-Sieg vs 3-Roselle-Anderson
+        420    7.50   1.50 8-Laughary-Cowles vs 5-Saul-Migliorini
+        450    2.50   6.50 9-Heller-Heller vs 7-Christensen-Ring
+        420    7.50   1.50 10-Davis-Woo vs 9-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.50   2.50 1-Binney-Fuhrman vs 3-Roselle-Anderson
+        730    0.00   9.00 2-Delfs-Chupack vs 5-Saul-Migliorini
+  110          6.50   2.50 3-Sieg-Saul vs 7-Christensen-Ring
+         50    2.00   7.00 4-Bender-James vs 9-Cline-Hankins
+  110          6.50   2.50 5-Jacobson-Rind vs 1-Tipton-Hesson
+  110          6.50   2.50 6-Romeo-Guice vs 2-Zaugg-Abernethy
+  110          6.50   2.50 7-Miller-Sieg vs 4-Litwin-Christie
+         50    2.00   7.00 8-Laughary-Cowles vs 6-Krah-Poore
+  110          6.50   2.50 9-Heller-Heller vs 8-Tu-Stevens
+         50    2.00   7.00 10-Davis-Woo vs 10-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.00   9.00 1-Binney-Fuhrman vs 3-Roselle-Anderson
+        620    6.00   3.00 2-Delfs-Chupack vs 5-Saul-Migliorini
+        620    6.00   3.00 3-Sieg-Saul vs 7-Christensen-Ring
+        650    1.50   7.50 4-Bender-James vs 9-Cline-Hankins
+        620    6.00   3.00 5-Jacobson-Rind vs 1-Tipton-Hesson
+        620    6.00   3.00 6-Romeo-Guice vs 2-Zaugg-Abernethy
+        630    3.00   6.00 7-Miller-Sieg vs 4-Litwin-Christie
+        600    9.00   0.00 8-Laughary-Cowles vs 6-Krah-Poore
+        650    1.50   7.50 9-Heller-Heller vs 8-Tu-Stevens
+        620    6.00   3.00 10-Davis-Woo vs 10-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   9.00 1-Binney-Fuhrman vs 3-Roselle-Anderson
+  430          4.50   4.50 2-Delfs-Chupack vs 5-Saul-Migliorini
+  400          1.00   8.00 3-Sieg-Saul vs 7-Christensen-Ring
+  460          8.50   0.50 4-Bender-James vs 9-Cline-Hankins
+  430          4.50   4.50 5-Jacobson-Rind vs 1-Tipton-Hesson
+  460          8.50   0.50 6-Romeo-Guice vs 2-Zaugg-Abernethy
+  430          4.50   4.50 7-Miller-Sieg vs 4-Litwin-Christie
+  430          4.50   4.50 8-Laughary-Cowles vs 6-Krah-Poore
+  430          4.50   4.50 9-Heller-Heller vs 8-Tu-Stevens
+  430          4.50   4.50 10-Davis-Woo vs 10-Hendrickson-Hovda
+----------------------------------------------------------------------
