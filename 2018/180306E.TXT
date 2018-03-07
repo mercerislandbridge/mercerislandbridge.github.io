@@ -1,0 +1,474 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>March 6, 2018      |CLUB NO.>158048    | 03/06/2018 22:32
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Jennifer Chalfan         A    1     .     .    132.00  61.11  1.00(A) 
+
+ 2 Jack Yuan              Rex Tu                   C    4     .     2    112.50  52.08  0.35(A) 
+
+ 3 David Baer             Rose Bolson              A    .     .     .    107.00  49.54          
+
+ 4 Steven Mark Lewis      Grant Davis              C    .     .     .     85.00  39.35          
+
+ 5 Pete Cowles            Clay Laughary            C   2/3   1/2    1    120.00  55.56  0.60(A) 
+
+ 6 Dex Stuberg            Joel Fuhrman             B   2/3   1/2    .    120.00  55.56  0.60(A) 
+
+
+
+ 8 Terry Jacobson         Brad Rind                C    .     .     .     96.50  44.68          
+
+ 9 Ray Miller             Jeffrey Ford             A    .     .     .    109.00  50.46          
+
+10 Ann Romeo              Tracey Guice             B    .     .     .     90.00  41.67          
+
+
+                                          Totals                         972.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>March 6, 2018      |CLUB NO.>158048    | 03/06/2018 22:32
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=10/C=3                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B    .     .     .     92.81  42.97          
+
+ 2 Leah Sieg              Eric Sieg                B    .     .     .    105.75  48.96          
+
+ 3 Julius Budos           Dennis Duryea            B    .     .     .    102.38  47.40          
+
+ 4 Jeannie Falls          Bruce Baker-Harvey       C    4     4     .    113.06  52.34  0.35(A) 
+
+ 5 Hugh Hendrickson       Beau Hovda               B    3     3     .    115.88  53.65  0.50(A) 
+
+ 6 David Roselle          Sue Anderson             B    .     .     .     92.81  42.97          
+
+ 7 David Taylor           Chris Pesce              B    .     .     .    111.38  51.56          
+
+ 8 Craig Von Land         Irving Sonkin            C    .     .     .    105.00  48.61          
+
+ 9 Mike Christensen       Becky Stevens            B    2     2     .    119.81  55.47  0.70(A) 
+
+10 John Krah              Daniel Poore             C    1     1     1    121.50  56.25  1.00(A) 
+
+
+                                          Totals                        1080.38       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          7.00   1.00 1-Delfs-Chalfan vs 1-Tipton-Hesson
+        100    0.50   7.50 2-Yuan-Tu vs 4-Falls-Baker-Harvey
+  140          4.00   4.00 3-Baer-Bolson vs 6-Roselle-Anderson
+  400          6.00   2.00 4-Lewis-Davis vs 8-Von Land-Sonkin
+        100    0.50   7.50 5-Cowles-Laughary vs 10-Krah-Poore
+  210          5.00   3.00 6-Stuberg-Fuhrman vs 3-Budos-Duryea
+  100          3.00   5.00 8-Jacobson-Rind vs 7-Taylor-Pesce
+         50    2.00   6.00 9-Miller-Ford vs 9-Christensen-Stevens
+  460          8.00   0.00 10-Romeo-Guice vs 2-Sieg-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.50   4.50 1-Delfs-Chalfan vs 1-Tipton-Hesson
+        450    3.50   4.50 2-Yuan-Tu vs 4-Falls-Baker-Harvey
+        450    3.50   4.50 3-Baer-Bolson vs 6-Roselle-Anderson
+        450    3.50   4.50 4-Lewis-Davis vs 8-Von Land-Sonkin
+        420    8.00   0.00 5-Cowles-Laughary vs 10-Krah-Poore
+        450    3.50   4.50 6-Stuberg-Fuhrman vs 3-Budos-Duryea
+        450    3.50   4.50 8-Jacobson-Rind vs 7-Taylor-Pesce
+        450    3.50   4.50 9-Miller-Ford vs 9-Christensen-Stevens
+        450    3.50   4.50 10-Romeo-Guice vs 2-Sieg-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.00   4.00 1-Delfs-Chalfan vs 1-Tipton-Hesson
+        200    8.00   0.00 2-Yuan-Tu vs 4-Falls-Baker-Harvey
+        650    4.00   4.00 3-Baer-Bolson vs 6-Roselle-Anderson
+        680    0.50   7.50 4-Lewis-Davis vs 8-Von Land-Sonkin
+        680    0.50   7.50 5-Cowles-Laughary vs 10-Krah-Poore
+        650    4.00   4.00 6-Stuberg-Fuhrman vs 3-Budos-Duryea
+        650    4.00   4.00 8-Jacobson-Rind vs 7-Taylor-Pesce
+        650    4.00   4.00 9-Miller-Ford vs 9-Christensen-Stevens
+        230    7.00   1.00 10-Romeo-Guice vs 2-Sieg-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.50   6.50 1-Delfs-Chalfan vs 10-Krah-Poore
+        100    5.00   3.00 2-Yuan-Tu vs 2-Sieg-Sieg
+  100          6.50   1.50 3-Baer-Bolson vs 5-Hendrickson-Hovda
+        200    0.00   8.00 4-Lewis-Davis vs 7-Taylor-Pesce
+  200          8.00   0.00 5-Cowles-Laughary vs 9-Christensen-Stevens
+        110    3.50   4.50 6-Stuberg-Fuhrman vs 4-Falls-Baker-Harvey
+        110    3.50   4.50 8-Jacobson-Rind vs 8-Von Land-Sonkin
+  100          6.50   1.50 9-Miller-Ford vs 1-Tipton-Hesson
+        130    1.50   6.50 10-Romeo-Guice vs 3-Budos-Duryea
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          6.50   1.50 1-Delfs-Chalfan vs 10-Krah-Poore
+  650          1.00   7.00 2-Yuan-Tu vs 2-Sieg-Sieg
+  680          3.00   5.00 3-Baer-Bolson vs 5-Hendrickson-Hovda
+  200          0.00   8.00 4-Lewis-Davis vs 7-Taylor-Pesce
+  680          3.00   5.00 5-Cowles-Laughary vs 9-Christensen-Stevens
+  710          5.00   3.00 6-Stuberg-Fuhrman vs 4-Falls-Baker-Harvey
+ 1430          6.50   1.50 8-Jacobson-Rind vs 8-Von Land-Sonkin
+ 1460          8.00   0.00 9-Miller-Ford vs 1-Tipton-Hesson
+  680          3.00   5.00 10-Romeo-Guice vs 3-Budos-Duryea
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.50   1.50 1-Delfs-Chalfan vs 10-Krah-Poore
+  100          6.50   1.50 2-Yuan-Tu vs 2-Sieg-Sieg
+  100          6.50   1.50 3-Baer-Bolson vs 5-Hendrickson-Hovda
+        500    1.00   7.00 4-Lewis-Davis vs 7-Taylor-Pesce
+        140    2.00   6.00 5-Cowles-Laughary vs 9-Christensen-Stevens
+        650    0.00   8.00 6-Stuberg-Fuhrman vs 4-Falls-Baker-Harvey
+        100    3.00   5.00 8-Jacobson-Rind vs 8-Von Land-Sonkin
+         50    4.00   4.00 9-Miller-Ford vs 1-Tipton-Hesson
+  100          6.50   1.50 10-Romeo-Guice vs 3-Budos-Duryea
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   6.00 1-Delfs-Chalfan vs 9-Christensen-Stevens
+    PASS       4.50   3.50 2-Yuan-Tu vs 1-Tipton-Hesson
+        200    0.00   8.00 3-Baer-Bolson vs 3-Budos-Duryea
+        100    2.00   6.00 4-Lewis-Davis vs 6-Roselle-Anderson
+    PASS       4.50   3.50 5-Cowles-Laughary vs 8-Von Land-Sonkin
+  110          6.00   2.00 6-Stuberg-Fuhrman vs 5-Hendrickson-Hovda
+  790          8.00   0.00 8-Jacobson-Rind vs 10-Krah-Poore
+  140          7.00   1.00 9-Miller-Ford vs 2-Sieg-Sieg
+        100    2.00   6.00 10-Romeo-Guice vs 4-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   4.00 1-Delfs-Chalfan vs 9-Christensen-Stevens
+        140    2.50   5.50 2-Yuan-Tu vs 1-Tipton-Hesson
+  100          7.00   1.00 3-Baer-Bolson vs 3-Budos-Duryea
+        100    5.00   3.00 4-Lewis-Davis vs 6-Roselle-Anderson
+  150          8.00   0.00 5-Cowles-Laughary vs 8-Von Land-Sonkin
+        170    0.50   7.50 6-Stuberg-Fuhrman vs 5-Hendrickson-Hovda
+        170    0.50   7.50 8-Jacobson-Rind vs 10-Krah-Poore
+   50          6.00   2.00 9-Miller-Ford vs 2-Sieg-Sieg
+        140    2.50   5.50 10-Romeo-Guice vs 4-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   6.50 1-Delfs-Chalfan vs 9-Christensen-Stevens
+  180          6.50   1.50 2-Yuan-Tu vs 1-Tipton-Hesson
+  130          4.50   3.50 3-Baer-Bolson vs 3-Budos-Duryea
+  110          3.00   5.00 4-Lewis-Davis vs 6-Roselle-Anderson
+  210          8.00   0.00 5-Cowles-Laughary vs 8-Von Land-Sonkin
+  180          6.50   1.50 6-Stuberg-Fuhrman vs 5-Hendrickson-Hovda
+        150    0.00   8.00 8-Jacobson-Rind vs 10-Krah-Poore
+         50    1.50   6.50 9-Miller-Ford vs 2-Sieg-Sieg
+  130          4.50   3.50 10-Romeo-Guice vs 4-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   1.00 1-Delfs-Chalfan vs 8-Von Land-Sonkin
+       1470    4.50   3.50 2-Yuan-Tu vs 10-Krah-Poore
+       2210    2.00   6.00 3-Baer-Bolson vs 2-Sieg-Sieg
+       1460    6.00   2.00 4-Lewis-Davis vs 4-Falls-Baker-Harvey
+       2210    2.00   6.00 5-Cowles-Laughary vs 7-Taylor-Pesce
+  400          8.00   0.00 6-Stuberg-Fuhrman vs 6-Roselle-Anderson
+       1470    4.50   3.50 8-Jacobson-Rind vs 1-Tipton-Hesson
+       2210    2.00   6.00 9-Miller-Ford vs 3-Budos-Duryea
+       2220    0.00   8.00 10-Romeo-Guice vs 5-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    6.00   2.00 1-Delfs-Chalfan vs 8-Von Land-Sonkin
+        500    3.00   5.00 2-Yuan-Tu vs 10-Krah-Poore
+        800    0.00   8.00 3-Baer-Bolson vs 2-Sieg-Sieg
+         50    7.50   0.50 4-Lewis-Davis vs 4-Falls-Baker-Harvey
+        150    5.00   3.00 5-Cowles-Laughary vs 7-Taylor-Pesce
+         50    7.50   0.50 6-Stuberg-Fuhrman vs 6-Roselle-Anderson
+        550    1.00   7.00 8-Jacobson-Rind vs 1-Tipton-Hesson
+        500    3.00   5.00 9-Miller-Ford vs 3-Budos-Duryea
+        500    3.00   5.00 10-Romeo-Guice vs 5-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    2.50   5.50 1-Delfs-Chalfan vs 8-Von Land-Sonkin
+        460    2.50   5.50 2-Yuan-Tu vs 10-Krah-Poore
+        170    4.00   4.00 3-Baer-Bolson vs 2-Sieg-Sieg
+        520    0.00   8.00 4-Lewis-Davis vs 4-Falls-Baker-Harvey
+   50          6.00   2.00 5-Cowles-Laughary vs 7-Taylor-Pesce
+   50          6.00   2.00 6-Stuberg-Fuhrman vs 6-Roselle-Anderson
+   50          6.00   2.00 8-Jacobson-Rind vs 1-Tipton-Hesson
+  100          8.00   0.00 9-Miller-Ford vs 3-Budos-Duryea
+        490    1.00   7.00 10-Romeo-Guice vs 5-Hendrickson-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.00   2.00 1-Delfs-Chalfan vs 7-Taylor-Pesce
+  620          8.00   0.00 2-Yuan-Tu vs 9-Christensen-Stevens
+        200    0.00   8.00 3-Baer-Bolson vs 1-Tipton-Hesson
+        100    3.00   5.00 4-Lewis-Davis vs 3-Budos-Duryea
+        100    3.00   5.00 5-Cowles-Laughary vs 5-Hendrickson-Hovda
+        100    3.00   5.00 6-Stuberg-Fuhrman vs 8-Von Land-Sonkin
+        100    3.00   5.00 8-Jacobson-Rind vs 2-Sieg-Sieg
+  170          7.00   1.00 9-Miller-Ford vs 4-Falls-Baker-Harvey
+        100    3.00   5.00 10-Romeo-Guice vs 6-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00   7.00 1-Delfs-Chalfan vs 7-Taylor-Pesce
+        430    5.00   3.00 2-Yuan-Tu vs 9-Christensen-Stevens
+   50          8.00   0.00 3-Baer-Bolson vs 1-Tipton-Hesson
+        430    5.00   3.00 4-Lewis-Davis vs 3-Budos-Duryea
+        430    5.00   3.00 5-Cowles-Laughary vs 5-Hendrickson-Hovda
+        460    1.00   7.00 6-Stuberg-Fuhrman vs 8-Von Land-Sonkin
+        460    1.00   7.00 8-Jacobson-Rind vs 2-Sieg-Sieg
+        430    5.00   3.00 9-Miller-Ford vs 4-Falls-Baker-Harvey
+        430    5.00   3.00 10-Romeo-Guice vs 6-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    6.50   1.50 1-Delfs-Chalfan vs 7-Taylor-Pesce
+        150    2.00   6.00 2-Yuan-Tu vs 9-Christensen-Stevens
+        150    2.00   6.00 3-Baer-Bolson vs 1-Tipton-Hesson
+        100    6.50   1.50 4-Lewis-Davis vs 3-Budos-Duryea
+        150    2.00   6.00 5-Cowles-Laughary vs 5-Hendrickson-Hovda
+   50          8.00   0.00 6-Stuberg-Fuhrman vs 8-Von Land-Sonkin
+        150    2.00   6.00 8-Jacobson-Rind vs 2-Sieg-Sieg
+        130    5.00   3.00 9-Miller-Ford vs 4-Falls-Baker-Harvey
+        150    2.00   6.00 10-Romeo-Guice vs 6-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.00   4.00 1-Delfs-Chalfan vs 6-Roselle-Anderson
+        650    4.00   4.00 2-Yuan-Tu vs 8-Von Land-Sonkin
+        650    4.00   4.00 3-Baer-Bolson vs 10-Krah-Poore
+        650    4.00   4.00 4-Lewis-Davis vs 2-Sieg-Sieg
+        650    4.00   4.00 5-Cowles-Laughary vs 4-Falls-Baker-Harvey
+        650    4.00   4.00 6-Stuberg-Fuhrman vs 9-Christensen-Stevens
+        650    4.00   4.00 8-Jacobson-Rind vs 3-Budos-Duryea
+        650    4.00   4.00 9-Miller-Ford vs 5-Hendrickson-Hovda
+        650    4.00   4.00 10-Romeo-Guice vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.50   1.50 1-Delfs-Chalfan vs 6-Roselle-Anderson
+         50    3.00   5.00 2-Yuan-Tu vs 8-Von Land-Sonkin
+         50    3.00   5.00 3-Baer-Bolson vs 10-Krah-Poore
+         50    3.00   5.00 4-Lewis-Davis vs 2-Sieg-Sieg
+        100    0.00   8.00 5-Cowles-Laughary vs 4-Falls-Baker-Harvey
+  500          8.00   0.00 6-Stuberg-Fuhrman vs 9-Christensen-Stevens
+  110          6.50   1.50 8-Jacobson-Rind vs 3-Budos-Duryea
+         50    3.00   5.00 9-Miller-Ford vs 5-Hendrickson-Hovda
+         50    3.00   5.00 10-Romeo-Guice vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          8.00   0.00 1-Delfs-Chalfan vs 6-Roselle-Anderson
+        430    3.00   5.00 2-Yuan-Tu vs 8-Von Land-Sonkin
+        430    3.00   5.00 3-Baer-Bolson vs 10-Krah-Poore
+        430    3.00   5.00 4-Lewis-Davis vs 2-Sieg-Sieg
+   50          7.00   1.00 5-Cowles-Laughary vs 4-Falls-Baker-Harvey
+        400    5.00   3.00 6-Stuberg-Fuhrman vs 9-Christensen-Stevens
+        460    0.50   7.50 8-Jacobson-Rind vs 3-Budos-Duryea
+        460    0.50   7.50 9-Miller-Ford vs 5-Hendrickson-Hovda
+        150    6.00   2.00 10-Romeo-Guice vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    5.50   2.50 1-Delfs-Chalfan vs 5-Hendrickson-Hovda
+         50    5.50   2.50 2-Yuan-Tu vs 7-Taylor-Pesce
+        140    1.50   6.50 3-Baer-Bolson vs 9-Christensen-Stevens
+         50    5.50   2.50 4-Lewis-Davis vs 1-Tipton-Hesson
+        200    0.00   8.00 5-Cowles-Laughary vs 3-Budos-Duryea
+        140    1.50   6.50 6-Stuberg-Fuhrman vs 10-Krah-Poore
+         50    5.50   2.50 8-Jacobson-Rind vs 4-Falls-Baker-Harvey
+        100    3.00   5.00 9-Miller-Ford vs 6-Roselle-Anderson
+    PASS       8.00   0.00 10-Romeo-Guice vs 8-Von Land-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.00   4.00 1-Delfs-Chalfan vs 5-Hendrickson-Hovda
+        650    4.00   4.00 2-Yuan-Tu vs 7-Taylor-Pesce
+  100          7.50   0.50 3-Baer-Bolson vs 9-Christensen-Stevens
+        650    4.00   4.00 4-Lewis-Davis vs 1-Tipton-Hesson
+        650    4.00   4.00 5-Cowles-Laughary vs 3-Budos-Duryea
+  100          7.50   0.50 6-Stuberg-Fuhrman vs 10-Krah-Poore
+        680    0.50   7.50 8-Jacobson-Rind vs 4-Falls-Baker-Harvey
+        650    4.00   4.00 9-Miller-Ford vs 6-Roselle-Anderson
+        680    0.50   7.50 10-Romeo-Guice vs 8-Von Land-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  750          8.00   0.00 1-Delfs-Chalfan vs 5-Hendrickson-Hovda
+  600          6.50   1.50 2-Yuan-Tu vs 7-Taylor-Pesce
+  600          6.50   1.50 3-Baer-Bolson vs 9-Christensen-Stevens
+  100          4.00   4.00 4-Lewis-Davis vs 1-Tipton-Hesson
+  300          5.00   3.00 5-Cowles-Laughary vs 3-Budos-Duryea
+        140    2.50   5.50 6-Stuberg-Fuhrman vs 10-Krah-Poore
+        140    2.50   5.50 8-Jacobson-Rind vs 4-Falls-Baker-Harvey
+        400    1.00   7.00 9-Miller-Ford vs 6-Roselle-Anderson
+        500    0.00   8.00 10-Romeo-Guice vs 8-Von Land-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.50   6.50 1-Delfs-Chalfan vs 4-Falls-Baker-Harvey
+  500          8.00   0.00 2-Yuan-Tu vs 6-Roselle-Anderson
+  200          6.50   1.50 3-Baer-Bolson vs 8-Von Land-Sonkin
+  120          5.00   3.00 4-Lewis-Davis vs 10-Krah-Poore
+  200          6.50   1.50 5-Cowles-Laughary vs 2-Sieg-Sieg
+         90    1.50   6.50 6-Stuberg-Fuhrman vs 1-Tipton-Hesson
+         50    3.00   5.00 8-Jacobson-Rind vs 5-Hendrickson-Hovda
+        200    0.00   8.00 9-Miller-Ford vs 7-Taylor-Pesce
+  100          4.00   4.00 10-Romeo-Guice vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   4.00 1-Delfs-Chalfan vs 4-Falls-Baker-Harvey
+        600    1.00   7.00 2-Yuan-Tu vs 6-Roselle-Anderson
+        140    3.00   5.00 3-Baer-Bolson vs 8-Von Land-Sonkin
+        600    1.00   7.00 4-Lewis-Davis vs 10-Krah-Poore
+  100          6.50   1.50 5-Cowles-Laughary vs 2-Sieg-Sieg
+        100    5.00   3.00 6-Stuberg-Fuhrman vs 1-Tipton-Hesson
+  500          8.00   0.00 8-Jacobson-Rind vs 5-Hendrickson-Hovda
+  100          6.50   1.50 9-Miller-Ford vs 7-Taylor-Pesce
+        600    1.00   7.00 10-Romeo-Guice vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          6.50   1.50 1-Delfs-Chalfan vs 4-Falls-Baker-Harvey
+  150          6.50   1.50 2-Yuan-Tu vs 6-Roselle-Anderson
+  100          1.00   7.00 3-Baer-Bolson vs 8-Von Land-Sonkin
+  120          3.50   4.50 4-Lewis-Davis vs 10-Krah-Poore
+  150          6.50   1.50 5-Cowles-Laughary vs 2-Sieg-Sieg
+  150          6.50   1.50 6-Stuberg-Fuhrman vs 1-Tipton-Hesson
+  110          2.00   6.00 8-Jacobson-Rind vs 5-Hendrickson-Hovda
+  120          3.50   4.50 9-Miller-Ford vs 7-Taylor-Pesce
+         50    0.00   8.00 10-Romeo-Guice vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          7.00   1.00 1-Delfs-Chalfan vs 3-Budos-Duryea
+         50    0.00   8.00 2-Yuan-Tu vs 5-Hendrickson-Hovda
+  480          6.00   2.00 3-Baer-Bolson vs 7-Taylor-Pesce
+  450          3.00   5.00 4-Lewis-Davis vs 9-Christensen-Stevens
+  600          8.00   0.00 5-Cowles-Laughary vs 1-Tipton-Hesson
+  450          3.00   5.00 6-Stuberg-Fuhrman vs 2-Sieg-Sieg
+  450          3.00   5.00 8-Jacobson-Rind vs 6-Roselle-Anderson
+  450          3.00   5.00 9-Miller-Ford vs 8-Von Land-Sonkin
+  450          3.00   5.00 10-Romeo-Guice vs 10-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    4.50   3.50 1-Delfs-Chalfan vs 3-Budos-Duryea
+        600    6.50   1.50 2-Yuan-Tu vs 5-Hendrickson-Hovda
+        650    2.00   6.00 3-Baer-Bolson vs 7-Taylor-Pesce
+        680    0.00   8.00 4-Lewis-Davis vs 9-Christensen-Stevens
+        650    2.00   6.00 5-Cowles-Laughary vs 1-Tipton-Hesson
+        600    6.50   1.50 6-Stuberg-Fuhrman vs 2-Sieg-Sieg
+  100          8.00   0.00 8-Jacobson-Rind vs 6-Roselle-Anderson
+        620    4.50   3.50 9-Miller-Ford vs 8-Von Land-Sonkin
+        650    2.00   6.00 10-Romeo-Guice vs 10-Krah-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.00   1.00 1-Delfs-Chalfan vs 3-Budos-Duryea
+        400    1.50   6.50 2-Yuan-Tu vs 5-Hendrickson-Hovda
+  200          8.00   0.00 3-Baer-Bolson vs 7-Taylor-Pesce
+        430    0.00   8.00 4-Lewis-Davis vs 9-Christensen-Stevens
+        110    5.00   3.00 5-Cowles-Laughary vs 1-Tipton-Hesson
+        400    1.50   6.50 6-Stuberg-Fuhrman vs 2-Sieg-Sieg
+        140    3.50   4.50 8-Jacobson-Rind vs 6-Roselle-Anderson
+        140    3.50   4.50 9-Miller-Ford vs 8-Von Land-Sonkin
+   50          6.00   2.00 10-Romeo-Guice vs 10-Krah-Poore
+----------------------------------------------------------------------
