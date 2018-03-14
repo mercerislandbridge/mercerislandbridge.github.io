@@ -1,0 +1,474 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>March 13, 2018     |CLUB NO.>158048    | 03/13/2018 22:32
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian Zaugg     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2000/1100 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jennifer Ballantyne    Joel Fuhrman             A    2     .     .    118.69  54.95  0.70(A) 
+
+ 2 Michael Cohen          David Argent             C    3     2     2    117.00  54.17  0.50(A) 
+
+ 3 Leah Sieg              Elizabeth Saul           C    4     3     .    114.19  52.87  0.35(A) 
+
+ 4 Kevin Cline            David Hankins            B    .     .     .     98.44  45.57          
+
+ 5 Jack Yuan              Rex Tu                   C    1     1     1    126.00  58.33  1.00(A) 
+
+ 6 Pete Cowles            Clay Laughary            C    .     .     .    101.25  46.88          
+
+ 7 David Taylor           Chris Pesce              B    .     .     .     99.56  46.09          
+
+ 8 William Campbell       Andrea James             B    .     .     .    106.31  49.22          
+
+ 9 Ray Miller             Ann Romeo                A    .     .     .     96.75  44.79          
+
+10 Sue Anderson           Paul Schwaighart         A    .     .     .    102.50  47.45          
+
+
+                                          Totals                        1080.69       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>March 13, 2018     |CLUB NO.>158048    | 03/13/2018 22:32
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian Zaugg     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2000/1100 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 Nelson Davis           Alex Woo                 B    1     1     .    129.50  59.95  1.00(A) 
+
+ 3 Irving Sonkin          Moises Saul              C    .     .     1     97.50  45.14  0.24(C) 
+
+ 4 Grant Davis            Kenneth Diamond          C    .     .     .     94.50  43.75          
+
+ 5 Dong Yan               Frank Hsieh              B    3     2     .    115.50  53.47  0.50(A) 
+
+ 6 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     84.50  39.12          
+
+ 7 Nick Tipton            Galen Hesson             B    .     .     .    101.50  46.99          
+
+ 8 Ken Christiansen       Stanford Christie        A    2     .     .    128.50  59.49  0.70(A) 
+
+ 9 Mike Christensen       Mike Ring                A    .     .     .    106.50  49.31          
+
+10 Brian Zaugg            Shawn Abernethy          A    4     .     .    114.00  52.78  0.35(A) 
+
+
+                                          Totals                         972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    3.00   5.00 2-Cohen-Argent vs 4-Davis-Diamond
+        460    6.50   1.50 3-Sieg-Saul vs 6-Falls-Baker-Harvey
+        460    6.50   1.50 4-Cline-Hankins vs 8-Christiansen-Christie
+   50          8.00   0.00 5-Yuan-Tu vs 10-Zaugg-Abernethy
+        490    3.00   5.00 6-Cowles-Laughary vs 3-Sonkin-Saul
+        800    0.00   8.00 7-Taylor-Pesce vs 5-Yan-Hsieh
+        490    3.00   5.00 8-Campbell-James vs 7-Tipton-Hesson
+        490    3.00   5.00 9-Miller-Romeo vs 9-Christensen-Ring
+        490    3.00   5.00 10-Anderson-Schwaighart vs 2-Davis-Woo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          4.50   3.50 2-Cohen-Argent vs 4-Davis-Diamond
+ 1470          7.50   0.50 3-Sieg-Saul vs 6-Falls-Baker-Harvey
+ 1470          7.50   0.50 4-Cline-Hankins vs 8-Christiansen-Christie
+ 1430          4.50   3.50 5-Yuan-Tu vs 10-Zaugg-Abernethy
+ 1390          1.50   6.50 6-Cowles-Laughary vs 3-Sonkin-Saul
+ 1430          4.50   3.50 7-Taylor-Pesce vs 5-Yan-Hsieh
+  680          0.00   8.00 8-Campbell-James vs 7-Tipton-Hesson
+ 1390          1.50   6.50 9-Miller-Romeo vs 9-Christensen-Ring
+ 1430          4.50   3.50 10-Anderson-Schwaighart vs 2-Davis-Woo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          8.00   0.00 2-Cohen-Argent vs 4-Davis-Diamond
+  460          3.50   4.50 3-Sieg-Saul vs 6-Falls-Baker-Harvey
+  430          0.50   7.50 4-Cline-Hankins vs 8-Christiansen-Christie
+  460          3.50   4.50 5-Yuan-Tu vs 10-Zaugg-Abernethy
+  460          3.50   4.50 6-Cowles-Laughary vs 3-Sonkin-Saul
+  430          0.50   7.50 7-Taylor-Pesce vs 5-Yan-Hsieh
+  520          6.50   1.50 8-Campbell-James vs 7-Tipton-Hesson
+  460          3.50   4.50 9-Miller-Romeo vs 9-Christensen-Ring
+  520          6.50   1.50 10-Anderson-Schwaighart vs 2-Davis-Woo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   7.00 1-Ballantyne-Fuhrman vs 10-Zaugg-Abernethy
+        100    5.00   3.00 2-Cohen-Argent vs 2-Davis-Woo
+        110    1.00   7.00 3-Sieg-Saul vs 5-Yan-Hsieh
+        110    1.00   7.00 4-Cline-Hankins vs 7-Tipton-Hesson
+        100    5.00   3.00 5-Yuan-Tu vs 9-Christensen-Ring
+ 1130          8.00   0.00 6-Cowles-Laughary vs 4-Davis-Diamond
+        100    5.00   3.00 7-Taylor-Pesce vs 6-Falls-Baker-Harvey
+        100    5.00   3.00 8-Campbell-James vs 8-Christiansen-Christie
+        100    5.00   3.00 10-Anderson-Schwaighart vs 3-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   6.50 1-Ballantyne-Fuhrman vs 10-Zaugg-Abernethy
+  140          8.00   0.00 2-Cohen-Argent vs 2-Davis-Woo
+        200    1.50   6.50 3-Sieg-Saul vs 5-Yan-Hsieh
+  110          4.50   3.50 4-Cline-Hankins vs 7-Tipton-Hesson
+        300    0.00   8.00 5-Yuan-Tu vs 9-Christensen-Ring
+  110          4.50   3.50 6-Cowles-Laughary vs 4-Davis-Diamond
+  120          6.50   1.50 7-Taylor-Pesce vs 6-Falls-Baker-Harvey
+   50          3.00   5.00 8-Campbell-James vs 8-Christiansen-Christie
+  120          6.50   1.50 10-Anderson-Schwaighart vs 3-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.50   7.50 1-Ballantyne-Fuhrman vs 10-Zaugg-Abernethy
+  400          3.50   4.50 2-Cohen-Argent vs 2-Davis-Woo
+  420          5.50   2.50 3-Sieg-Saul vs 5-Yan-Hsieh
+  400          3.50   4.50 4-Cline-Hankins vs 7-Tipton-Hesson
+  800          8.00   0.00 5-Yuan-Tu vs 9-Christensen-Ring
+  420          5.50   2.50 6-Cowles-Laughary vs 4-Davis-Diamond
+  200          0.50   7.50 7-Taylor-Pesce vs 6-Falls-Baker-Harvey
+  300          2.00   6.00 8-Campbell-James vs 8-Christiansen-Christie
+  430          7.00   1.00 10-Anderson-Schwaighart vs 3-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   6.00 1-Ballantyne-Fuhrman vs 9-Christensen-Ring
+  600          6.00   2.00 3-Sieg-Saul vs 3-Sonkin-Saul
+  150          3.00   5.00 4-Cline-Hankins vs 6-Falls-Baker-Harvey
+        100    0.00   8.00 5-Yuan-Tu vs 8-Christiansen-Christie
+  170          4.50   3.50 6-Cowles-Laughary vs 5-Yan-Hsieh
+  620          7.50   0.50 7-Taylor-Pesce vs 7-Tipton-Hesson
+  170          4.50   3.50 8-Campbell-James vs 10-Zaugg-Abernethy
+  620          7.50   0.50 9-Miller-Romeo vs 2-Davis-Woo
+  120          1.00   7.00 10-Anderson-Schwaighart vs 4-Davis-Diamond
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          6.50   1.50 1-Ballantyne-Fuhrman vs 9-Christensen-Ring
+  450          6.50   1.50 3-Sieg-Saul vs 3-Sonkin-Saul
+  500          8.00   0.00 4-Cline-Hankins vs 6-Falls-Baker-Harvey
+         50    0.50   7.50 5-Yuan-Tu vs 8-Christiansen-Christie
+         50    0.50   7.50 6-Cowles-Laughary vs 5-Yan-Hsieh
+  430          3.50   4.50 7-Taylor-Pesce vs 7-Tipton-Hesson
+  430          3.50   4.50 8-Campbell-James vs 10-Zaugg-Abernethy
+  430          3.50   4.50 9-Miller-Romeo vs 2-Davis-Woo
+  430          3.50   4.50 10-Anderson-Schwaighart vs 4-Davis-Diamond
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.50   3.50 1-Ballantyne-Fuhrman vs 9-Christensen-Ring
+  450          4.50   3.50 3-Sieg-Saul vs 3-Sonkin-Saul
+  450          4.50   3.50 4-Cline-Hankins vs 6-Falls-Baker-Harvey
+  450          4.50   3.50 5-Yuan-Tu vs 8-Christiansen-Christie
+  450          4.50   3.50 6-Cowles-Laughary vs 5-Yan-Hsieh
+  450          4.50   3.50 7-Taylor-Pesce vs 7-Tipton-Hesson
+  450          4.50   3.50 8-Campbell-James vs 10-Zaugg-Abernethy
+  450          4.50   3.50 9-Miller-Romeo vs 2-Davis-Woo
+         50    0.00   8.00 10-Anderson-Schwaighart vs 4-Davis-Diamond
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.00   5.00 1-Ballantyne-Fuhrman vs 8-Christiansen-Christie
+  660          3.00   5.00 2-Cohen-Argent vs 10-Zaugg-Abernethy
+  660          3.00   5.00 3-Sieg-Saul vs 2-Davis-Woo
+  690          7.50   0.50 4-Cline-Hankins vs 4-Davis-Diamond
+  660          3.00   5.00 5-Yuan-Tu vs 7-Tipton-Hesson
+  660          3.00   5.00 6-Cowles-Laughary vs 6-Falls-Baker-Harvey
+  690          7.50   0.50 7-Taylor-Pesce vs 9-Christensen-Ring
+  660          3.00   5.00 9-Miller-Romeo vs 3-Sonkin-Saul
+  660          3.00   5.00 10-Anderson-Schwaighart vs 5-Yan-Hsieh
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   6.50 1-Ballantyne-Fuhrman vs 8-Christiansen-Christie
+        140    1.50   6.50 2-Cohen-Argent vs 10-Zaugg-Abernethy
+        110    4.50   3.50 3-Sieg-Saul vs 2-Davis-Woo
+        140    1.50   6.50 4-Cline-Hankins vs 4-Davis-Diamond
+   50          7.00   1.00 5-Yuan-Tu vs 7-Tipton-Hesson
+   50          7.00   1.00 6-Cowles-Laughary vs 6-Falls-Baker-Harvey
+   50          7.00   1.00 7-Taylor-Pesce vs 9-Christensen-Ring
+        140    1.50   6.50 9-Miller-Romeo vs 3-Sonkin-Saul
+        110    4.50   3.50 10-Anderson-Schwaighart vs 5-Yan-Hsieh
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    4.00   4.00 1-Ballantyne-Fuhrman vs 8-Christiansen-Christie
+        400    4.00   4.00 2-Cohen-Argent vs 10-Zaugg-Abernethy
+        430    0.50   7.50 3-Sieg-Saul vs 2-Davis-Woo
+        430    0.50   7.50 4-Cline-Hankins vs 4-Davis-Diamond
+  100          8.00   0.00 5-Yuan-Tu vs 7-Tipton-Hesson
+        150    7.00   1.00 6-Cowles-Laughary vs 6-Falls-Baker-Harvey
+        400    4.00   4.00 7-Taylor-Pesce vs 9-Christensen-Ring
+        400    4.00   4.00 9-Miller-Romeo vs 3-Sonkin-Saul
+        400    4.00   4.00 10-Anderson-Schwaighart vs 5-Yan-Hsieh
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          7.50   0.50 1-Ballantyne-Fuhrman vs 7-Tipton-Hesson
+  600          6.00   2.00 2-Cohen-Argent vs 9-Christensen-Ring
+        100    3.50   4.50 4-Cline-Hankins vs 3-Sonkin-Saul
+  690          7.50   0.50 5-Yuan-Tu vs 5-Yan-Hsieh
+        110    1.50   6.50 6-Cowles-Laughary vs 8-Christiansen-Christie
+        100    3.50   4.50 7-Taylor-Pesce vs 10-Zaugg-Abernethy
+        110    1.50   6.50 8-Campbell-James vs 2-Davis-Woo
+  130          5.00   3.00 9-Miller-Romeo vs 4-Davis-Diamond
+        140    0.00   8.00 10-Anderson-Schwaighart vs 6-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   7.00 1-Ballantyne-Fuhrman vs 7-Tipton-Hesson
+  400          4.00   4.00 2-Cohen-Argent vs 9-Christensen-Ring
+  920          8.00   0.00 4-Cline-Hankins vs 3-Sonkin-Saul
+         50    1.00   7.00 5-Yuan-Tu vs 5-Yan-Hsieh
+  420          5.50   2.50 6-Cowles-Laughary vs 8-Christiansen-Christie
+  420          5.50   2.50 7-Taylor-Pesce vs 10-Zaugg-Abernethy
+  150          3.00   5.00 8-Campbell-James vs 2-Davis-Woo
+  500          7.00   1.00 9-Miller-Romeo vs 4-Davis-Diamond
+         50    1.00   7.00 10-Anderson-Schwaighart vs 6-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          6.00   2.00 1-Ballantyne-Fuhrman vs 7-Tipton-Hesson
+  180          2.00   6.00 2-Cohen-Argent vs 9-Christensen-Ring
+  150          1.00   7.00 4-Cline-Hankins vs 3-Sonkin-Saul
+  660          6.00   2.00 5-Yuan-Tu vs 5-Yan-Hsieh
+  630          3.00   5.00 6-Cowles-Laughary vs 8-Christiansen-Christie
+  660          6.00   2.00 7-Taylor-Pesce vs 10-Zaugg-Abernethy
+  660          6.00   2.00 8-Campbell-James vs 2-Davis-Woo
+  140          0.00   8.00 9-Miller-Romeo vs 4-Davis-Diamond
+  660          6.00   2.00 10-Anderson-Schwaighart vs 6-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          7.50   0.50 1-Ballantyne-Fuhrman vs 6-Falls-Baker-Harvey
+  400          5.00   3.00 2-Cohen-Argent vs 8-Christiansen-Christie
+  400          5.00   3.00 3-Sieg-Saul vs 10-Zaugg-Abernethy
+         50    2.00   6.00 4-Cline-Hankins vs 2-Davis-Woo
+  430          7.50   0.50 5-Yuan-Tu vs 4-Davis-Diamond
+        100    1.00   7.00 6-Cowles-Laughary vs 9-Christensen-Ring
+  400          5.00   3.00 8-Campbell-James vs 3-Sonkin-Saul
+  150          3.00   5.00 9-Miller-Romeo vs 5-Yan-Hsieh
+        150    0.00   8.00 10-Anderson-Schwaighart vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.00   6.00 1-Ballantyne-Fuhrman vs 6-Falls-Baker-Harvey
+        180    4.50   3.50 2-Cohen-Argent vs 8-Christiansen-Christie
+        430    0.00   8.00 3-Sieg-Saul vs 10-Zaugg-Abernethy
+        420    2.00   6.00 4-Cline-Hankins vs 2-Davis-Woo
+   50          7.50   0.50 5-Yuan-Tu vs 4-Davis-Diamond
+        170    6.00   2.00 6-Cowles-Laughary vs 9-Christensen-Ring
+   50          7.50   0.50 8-Campbell-James vs 3-Sonkin-Saul
+        420    2.00   6.00 9-Miller-Romeo vs 5-Yan-Hsieh
+        180    4.50   3.50 10-Anderson-Schwaighart vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   2.00 1-Ballantyne-Fuhrman vs 6-Falls-Baker-Harvey
+         90    3.00   5.00 2-Cohen-Argent vs 8-Christiansen-Christie
+   50          6.00   2.00 3-Sieg-Saul vs 10-Zaugg-Abernethy
+         90    3.00   5.00 4-Cline-Hankins vs 2-Davis-Woo
+   50          6.00   2.00 5-Yuan-Tu vs 4-Davis-Diamond
+         90    3.00   5.00 6-Cowles-Laughary vs 9-Christensen-Ring
+        300    0.00   8.00 8-Campbell-James vs 3-Sonkin-Saul
+        120    1.00   7.00 9-Miller-Romeo vs 5-Yan-Hsieh
+  100          8.00   0.00 10-Anderson-Schwaighart vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    5.00   3.00 1-Ballantyne-Fuhrman vs 5-Yan-Hsieh
+  100          7.00   1.00 2-Cohen-Argent vs 7-Tipton-Hesson
+  100          7.00   1.00 3-Sieg-Saul vs 9-Christensen-Ring
+  100          7.00   1.00 5-Yuan-Tu vs 3-Sonkin-Saul
+        600    3.50   4.50 6-Cowles-Laughary vs 10-Zaugg-Abernethy
+        630    1.50   6.50 7-Taylor-Pesce vs 2-Davis-Woo
+        630    1.50   6.50 8-Campbell-James vs 4-Davis-Diamond
+        600    3.50   4.50 9-Miller-Romeo vs 6-Falls-Baker-Harvey
+        660    0.00   8.00 10-Anderson-Schwaighart vs 8-Christiansen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          8.00   0.00 1-Ballantyne-Fuhrman vs 5-Yan-Hsieh
+        600    2.50   5.50 2-Cohen-Argent vs 7-Tipton-Hesson
+        630    0.50   7.50 3-Sieg-Saul vs 9-Christensen-Ring
+        110    5.00   3.00 5-Yuan-Tu vs 3-Sonkin-Saul
+        600    2.50   5.50 6-Cowles-Laughary vs 10-Zaugg-Abernethy
+        630    0.50   7.50 7-Taylor-Pesce vs 2-Davis-Woo
+  200          7.00   1.00 8-Campbell-James vs 4-Davis-Diamond
+  100          6.00   2.00 9-Miller-Romeo vs 6-Falls-Baker-Harvey
+        120    4.00   4.00 10-Anderson-Schwaighart vs 8-Christiansen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   2.50 1-Ballantyne-Fuhrman vs 5-Yan-Hsieh
+        980    0.00   8.00 2-Cohen-Argent vs 7-Tipton-Hesson
+        420    3.50   4.50 3-Sieg-Saul vs 9-Christensen-Ring
+  100          7.00   1.00 5-Yuan-Tu vs 3-Sonkin-Saul
+   50          5.50   2.50 6-Cowles-Laughary vs 10-Zaugg-Abernethy
+        480    1.50   6.50 7-Taylor-Pesce vs 2-Davis-Woo
+        420    3.50   4.50 8-Campbell-James vs 4-Davis-Diamond
+ 1080          8.00   0.00 9-Miller-Romeo vs 6-Falls-Baker-Harvey
+        480    1.50   6.50 10-Anderson-Schwaighart vs 8-Christiansen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    4.00   4.00 1-Ballantyne-Fuhrman vs 4-Davis-Diamond
+    PASS       7.50   0.50 2-Cohen-Argent vs 6-Falls-Baker-Harvey
+        870    0.00   8.00 3-Sieg-Saul vs 8-Christiansen-Christie
+        150    2.00   6.00 4-Cline-Hankins vs 10-Zaugg-Abernethy
+        130    4.00   4.00 5-Yuan-Tu vs 2-Davis-Woo
+        100    6.00   2.00 7-Taylor-Pesce vs 3-Sonkin-Saul
+    PASS       7.50   0.50 8-Campbell-James vs 5-Yan-Hsieh
+        130    4.00   4.00 9-Miller-Romeo vs 7-Tipton-Hesson
+        170    1.00   7.00 10-Anderson-Schwaighart vs 9-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   1.00 1-Ballantyne-Fuhrman vs 4-Davis-Diamond
+        100    4.50   3.50 2-Cohen-Argent vs 6-Falls-Baker-Harvey
+   90          6.00   2.00 3-Sieg-Saul vs 8-Christiansen-Christie
+        110    2.50   5.50 4-Cline-Hankins vs 10-Zaugg-Abernethy
+        140    1.00   7.00 5-Yuan-Tu vs 2-Davis-Woo
+        300    0.00   8.00 7-Taylor-Pesce vs 3-Sonkin-Saul
+        100    4.50   3.50 8-Campbell-James vs 5-Yan-Hsieh
+        110    2.50   5.50 9-Miller-Romeo vs 7-Tipton-Hesson
+  300          8.00   0.00 10-Anderson-Schwaighart vs 9-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.00   1.00 1-Ballantyne-Fuhrman vs 4-Davis-Diamond
+  150          8.00   0.00 2-Cohen-Argent vs 6-Falls-Baker-Harvey
+         90    4.00   4.00 3-Sieg-Saul vs 8-Christiansen-Christie
+         90    4.00   4.00 4-Cline-Hankins vs 10-Zaugg-Abernethy
+        120    0.50   7.50 5-Yuan-Tu vs 2-Davis-Woo
+        100    2.00   6.00 7-Taylor-Pesce vs 3-Sonkin-Saul
+         50    6.00   2.00 8-Campbell-James vs 5-Yan-Hsieh
+        120    0.50   7.50 9-Miller-Romeo vs 7-Tipton-Hesson
+         90    4.00   4.00 10-Anderson-Schwaighart vs 9-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    2.00   6.00 1-Ballantyne-Fuhrman vs 3-Sonkin-Saul
+        690    0.00   8.00 2-Cohen-Argent vs 5-Yan-Hsieh
+  100          8.00   0.00 3-Sieg-Saul vs 7-Tipton-Hesson
+        660    2.00   6.00 4-Cline-Hankins vs 9-Christensen-Ring
+        660    2.00   6.00 6-Cowles-Laughary vs 2-Davis-Woo
+        630    5.50   2.50 7-Taylor-Pesce vs 4-Davis-Diamond
+        630    5.50   2.50 8-Campbell-James vs 6-Falls-Baker-Harvey
+        630    5.50   2.50 9-Miller-Romeo vs 8-Christiansen-Christie
+        630    5.50   2.50 10-Anderson-Schwaighart vs 10-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          6.00   2.00 1-Ballantyne-Fuhrman vs 3-Sonkin-Saul
+  660          8.00   0.00 2-Cohen-Argent vs 5-Yan-Hsieh
+  630          6.00   2.00 3-Sieg-Saul vs 7-Tipton-Hesson
+  600          2.50   5.50 4-Cline-Hankins vs 9-Christensen-Ring
+  600          2.50   5.50 6-Cowles-Laughary vs 2-Davis-Woo
+  600          2.50   5.50 7-Taylor-Pesce vs 4-Davis-Diamond
+  120          0.00   8.00 8-Campbell-James vs 6-Falls-Baker-Harvey
+  630          6.00   2.00 9-Miller-Romeo vs 8-Christiansen-Christie
+  600          2.50   5.50 10-Anderson-Schwaighart vs 10-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.50   1.50 1-Ballantyne-Fuhrman vs 3-Sonkin-Saul
+        400    1.50   6.50 2-Cohen-Argent vs 5-Yan-Hsieh
+        110    5.00   3.00 3-Sieg-Saul vs 7-Tipton-Hesson
+   50          6.50   1.50 4-Cline-Hankins vs 9-Christensen-Ring
+        400    1.50   6.50 6-Cowles-Laughary vs 2-Davis-Woo
+        140    3.00   5.00 7-Taylor-Pesce vs 4-Davis-Diamond
+        120    4.00   4.00 8-Campbell-James vs 6-Falls-Baker-Harvey
+        430    0.00   8.00 9-Miller-Romeo vs 8-Christiansen-Christie
+  100          8.00   0.00 10-Anderson-Schwaighart vs 10-Zaugg-Abernethy
+----------------------------------------------------------------------
