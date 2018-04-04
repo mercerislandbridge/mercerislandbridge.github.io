@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>March 20, 2018     |CLUB NO.>158048    | 03/20/2018 22:35
+DATE>March 20, 2018     |CLUB NO.>158048    | 04/03/2018 18:39
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Shawn      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,7 +11,7 @@ PAIRS IN STRAT A=10/B=6/C=2                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Jennifer Ballantyne    Karen Westerlund         A    .     .     .     88.00  40.74          
+ 1 Jennifer Ballantyne    Karen Westerlund         A    .     .     .     88.50  40.97          
 
  2 Dex Stuberg            Joel Fuhrman             B    .     2     .    107.50  49.77  0.34(B) 
 
@@ -19,15 +19,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  4 Kevin Cline            David Hankins            B    .     .     .     95.00  43.98          
 
- 5 Adam Ruprecht          Christopher Jarvis       B    2     1     .    130.50  60.42  0.70(A) 
+ 5 Adam Ruprecht          Christopher Jarvis       B    2     1     .    128.00  59.26  0.70(A) 
 
- 6 Leah Sieg              Galen Hesson             B    .     .     .    105.00  48.61          
+ 6 Leah Sieg              Galen Hesson             B    .     .     .    105.50  48.84          
 
- 7 Connie Heller          Dennis Heller            A    3     .     .    126.00  58.33  0.50(A) 
+ 7 Connie Heller          Dennis Heller            A    3     .     .    127.00  58.80  0.50(A) 
 
  8 Albert Bender          Andrea James             A    1     .     .    133.50  61.81  1.00(A) 
 
- 9 Ray Miller             Chris Moore              A    4     .     .    124.00  57.41  0.35(A) 
+ 9 Ray Miller             Chris Moore              A    4     .     .    124.50  57.64  0.35(A) 
 
 10 Tracey Guice           Ann Romeo                C    .     .     .     72.50  33.56          
 
@@ -35,7 +35,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
                                           Totals                        1080.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>March 20, 2018     |CLUB NO.>158048    | 03/20/2018 22:35
+DATE>March 20, 2018     |CLUB NO.>158048    | 04/03/2018 18:39
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Shawn      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -45,17 +45,17 @@ PAIRS IN STRAT A=10/B=6/C=2                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Jeffrey Ford           Shawn Abernethy          A    4     .     .    121.00  56.02  0.35(A) 
+ 1 Jeffrey Ford           Shawn Abernethy          A    4     .     .    120.50  55.79  0.35(A) 
 
  2 Brian Zaugg            Liliana Diaconescu       B    .     2     .    117.00  54.17  0.34(B) 
 
  3 Eric Sieg              Jenni Carmichael         A    3     .     .    122.00  56.48  0.50(A) 
 
- 4 Pete Cowles            Clay Laughary            C    .     .     .     99.00  45.83          
+ 4 Pete Cowles            Clay Laughary            C    .     .     .    100.50  46.53          
 
- 5 Dennis Duryea          Victor Bremson           B    .     .     .     91.50  42.36          
+ 5 Dennis Duryea          Victor Bremson           B    .     .     .     91.00  42.13          
 
- 6 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     77.00  35.65          
+ 6 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     77.50  35.88          
 
  7 David Roselle          Sue Anderson             B    2     1     .    123.50  57.18  0.70(A) 
 
@@ -63,7 +63,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  9 Mike Christensen       Mike Ring                A    .     .     .     97.50  45.14          
 
-10 Chris Pesce            David Taylor             B    .     .     .     92.50  42.82          
+10 Chris Pesce            David Taylor             B    .     .     .     91.50  42.36          
 
 
                                           Totals                        1080.00       
@@ -180,9 +180,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         150    1.50   6.50 1-Ballantyne-Westerlund vs 9-Christensen-Ring
         300    0.00   8.00 2-Stuberg-Fuhrman vs 1-Ford-Abernethy
         110    3.00   5.00 3-Yuan-Tu vs 3-Sieg-Carmichael
-  130          7.00   1.00 5-Ruprecht-Jarvis vs 6-Falls-Baker-Harvey
+    PASS       6.00   2.00 5-Ruprecht-Jarvis vs 6-Falls-Baker-Harvey
          90    5.00   3.00 6-Sieg-Hesson vs 8-Christiansen-Setterholm
-  100          6.00   2.00 7-Heller-Heller vs 10-Pesce-Taylor
+  100          7.00   1.00 7-Heller-Heller vs 10-Pesce-Taylor
   150          8.00   0.00 8-Bender-James vs 2-Zaugg-Diaconescu
         100    4.00   4.00 9-Miller-Moore vs 5-Duryea-Bremson
         150    1.50   6.50 10-Guice-Romeo vs 7-Roselle-Anderson
@@ -312,14 +312,14 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   50          5.50   2.50 1-Ballantyne-Westerlund vs 5-Duryea-Bremson
+   50          6.00   2.00 1-Ballantyne-Westerlund vs 5-Duryea-Bremson
         140    1.50   6.50 2-Stuberg-Fuhrman vs 8-Christiansen-Setterholm
   150          8.00   0.00 3-Yuan-Tu vs 10-Pesce-Taylor
         140    1.50   6.50 4-Cline-Hankins vs 2-Zaugg-Diaconescu
-   50          5.50   2.50 5-Ruprecht-Jarvis vs 4-Cowles-Laughary
-   50          5.50   2.50 6-Sieg-Hesson vs 6-Falls-Baker-Harvey
+         50    4.00   4.00 5-Ruprecht-Jarvis vs 4-Cowles-Laughary
+   50          6.00   2.00 6-Sieg-Hesson vs 6-Falls-Baker-Harvey
         110    3.00   5.00 8-Bender-James vs 9-Christensen-Ring
-   50          5.50   2.50 9-Miller-Moore vs 1-Ford-Abernethy
+   50          6.00   2.00 9-Miller-Moore vs 1-Ford-Abernethy
         150    0.00   8.00 10-Guice-Romeo vs 3-Sieg-Carmichael
 ----------------------------------------------------------------------
 
