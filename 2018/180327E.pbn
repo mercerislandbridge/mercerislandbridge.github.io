@@ -70,9 +70,9 @@ N  C  1
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  4
-S NT  6
+S NT  7
 W NT  5
-N NT  7
+N NT  6
 E  S  4
 S  S  8
 W  S  5
@@ -138,9 +138,9 @@ S  S  3
 W  S  9
 N  S  3
 E  H  5
-S  H  7
+S  H  8
 W  H  5
-N  H  8
+N  H  7
 E  D  6
 S  D  6
 W  D  6
@@ -206,9 +206,9 @@ S  D  2
 W  D 11
 N  D  2
 E  C  6
-S  C  7
+S  C  6
 W  C  6
-N  C  6
+N  C  7
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -258,9 +258,9 @@ S  S  7
 W  S  6
 N  S  7
 E  H  3
-S  H 10
+S  H  9
 W  H  3
-N  H  9
+N  H 10
 E  D  7
 S  D  6
 W  D  7
@@ -378,9 +378,9 @@ S  S  4
 W  S  8
 N  S  4
 E  H  6
-S  H  6
+S  H  7
 W  H  6
-N  H  7
+N  H  6
 E  D  5
 S  D  7
 W  D  5
@@ -434,9 +434,9 @@ S NT  6
 W NT  6
 N NT  6
 E  S  5
-S  S  8
+S  S  7
 W  S  5
-N  S  7
+N  S  8
 E  H  6
 S  H  7
 W  H  6
@@ -520,13 +520,13 @@ N  C 11
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  2
-S NT  9
+S NT 11
 W NT  2
-N NT 11
+N NT  9
 E  S  2
-S  S 10
+S  S 11
 W  S  2
-N  S 11
+N  S 10
 E  H  2
 S  H 10
 W  H  2
@@ -536,9 +536,9 @@ S  D  7
 W  D  6
 N  D  7
 E  C  3
-S  C  9
+S  C 10
 W  C  3
-N  C 10
+N  C  9
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -610,9 +610,9 @@ N  C  8
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  4
-S NT  5
+S NT  1
 W NT  4
-N NT  1
+N NT  5
 E  S  2
 S  S 11
 W  S  2
@@ -622,13 +622,13 @@ S  H 10
 W  H  2
 N  H 10
 E  D  9
-S  D  4
+S  D  3
 W  D  9
-N  D  3
+N  D  4
 E  C 10
-S  C  3
+S  C  1
 W  C 10
-N  C  1
+N  C  3
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -670,9 +670,9 @@ N  C  6
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  8
-S NT  5
+S NT  4
 W NT  8
-N NT  4
+N NT  5
 E  S  6
 S  S  6
 W  S  7
@@ -768,13 +768,13 @@ S  S  7
 W  S  6
 N  S  7
 E  H  5
-S  H  6
+S  H  7
 W  H  5
-N  H  7
+N  H  6
 E  D  8
-S  D  5
+S  D  4
 W  D  8
-N  D  4
+N  D  5
 E  C  5
 S  C  8
 W  C  5
@@ -806,9 +806,9 @@ S  D 10
 W  D  3
 N  D 10
 E  C  6
-S  C  6
+S  C  7
 W  C  6
-N  C  7
+N  C  6
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -828,9 +828,9 @@ S  S  3
 W  S 10
 N  S  3
 E  H  8
-S  H  4
+S  H  5
 W  H  8
-N  H  5
+N  H  4
 E  D  8
 S  D  4
 W  D  9
