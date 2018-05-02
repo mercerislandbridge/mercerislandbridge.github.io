@@ -1,0 +1,579 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>May 1, 2018        |CLUB NO.>158048    | 05/01/2018 22:30
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/jenni      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  156.0 |TOP>  12 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=9/C=4                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Stanford Christie      Ken Christiansen         A   .     .     .   |   .     .     .    126.00  40.38          
+
+ 2 Jeannie Falls          Bruce Baker-Harvey       C   .     .     .   |   .     .     .    135.50  43.43          
+
+ 3 Peiyush Jain           Arvind Ranasaria         B   .     4     .   |   5     3     .    168.00  53.85  0.86(OB)
+
+ 4 Michael Cohen          David Argent             C   .     3     2   |   3     2     2    173.50  55.61  1.15(OB)
+
+ 5 Bryan Delfs            Jennifer Chalfan         A   4     .     .   |   2     .     .    187.50  60.10  1.48(OA)
+
+ 6 Jack Yuan              Rex Tu                   C   1     1     1   |   1     1     1    206.50  66.19  3.50(OA)
+
+ 7 David Baer             Rose Bolson              A   .     .     .   |   .     .     .    102.00  32.69          
+
+ 8 Steven Mark Lewis      Grant Davis              C   .     .     .   |   6     4     .    161.00  51.60  0.25(SB)
+
+ 9 Kevin Cline            David Hankins            B   .     .     .   |   .     .     .    145.50  46.63          
+
+10 William Campbell       Oyvind Tafjord           B   .     .     .   |   .     .     .    155.50  49.84          
+
+11 Ray Miller             Jeffrey Ford             A   .     .     .   |   4     .     .    171.50  54.97  0.49(SA)
+
+
+
+13 Alex Woo               Nelson Davis             B   .     .     .   |   .     .     .    138.50  44.39          
+
+14 Ann Romeo              Beau Hovda               B   .     .     .   |   .     .     .    157.00  50.32          
+
+
+                                          Totals                                           2028.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>May 1, 2018        |CLUB NO.>158048    | 05/01/2018 22:30
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/jenni      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  156.0 |TOP>  12 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=11/C=2                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Eric Sieg              Jenni Carmichael         A   5     .     .   |   3     .     .    179.29  57.46  1.11(OA)
+
+ 2 Muhunthan Sivapragasam Thomas Stever            B   .     .     .   |   .     .     .    112.13  35.94          
+
+ 3 Mike Ring              Shawn Abernethy          B   .     .     .   |   .     .     .    128.38  41.15          
+
+ 4 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .    128.38  41.15          
+
+ 5 Dave Setterholm        Gary Haldane             A   3     .     .   |   2     .     .    195.00  62.50  1.97(OA)
+
+ 6 David Roselle          Sue Anderson             B   .     .     .   |   .     .     .    148.42  47.57          
+
+ 7 Chris Moore            Kim Eng                  A   2     .     .   |   1     .     .    196.63  63.02  2.63(OA)
+
+ 8 Leah Sieg              Elizabeth Saul           B   .     .     .   |   .     .     .    139.75  44.79          
+
+ 9 Brad Rind              Terry Jacobson           C   .     .     .   |   .     .     .    127.83  40.97          
+
+10 Brian Zaugg            David Wright             B   .     .     .   |   .     .     .    159.25  51.04          
+
+11 Mike Christensen       Becky Stevens            B   .     .     .   |   .     4     .    161.42  51.74  0.31(SB)
+
+12 David Taylor           Chris Pesce              B   6     2     .   |   4     1     .    176.04  56.42  1.53(OB)
+
+13 Adam Ruprecht          Christopher Jarvis       B   .     6     .   |   6     3     .    163.50  52.40  0.48(OB)
+
+14 Kenneth Diamond        Marilyn Dierickx         C   .     5     .   |   5     2     1    167.38  53.65  0.65(OB)
+
+
+                                          Totals                                           2183.40       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          3.00   9.00 1-Christie-Christiansen vs 1-Sieg-Carmichael
+  490          9.00   3.00 2-Falls-Baker-Harvey vs 4-Tipton-Hesson
+  490          9.00   3.00 3-Jain-Ranasaria vs 6-Roselle-Anderson
+  460          3.00   9.00 4-Cohen-Argent vs 8-Sieg-Saul
+  490          9.00   3.00 5-Delfs-Chalfan vs 10-Zaugg-Wright
+  490          9.00   3.00 6-Yuan-Tu vs 12-Taylor-Pesce
+  460          3.00   9.00 7-Baer-Bolson vs 14-Diamond-Dierickx
+  490          9.00   3.00 8-Lewis-Davis vs 3-Ring-Abernethy
+  460          3.00   9.00 9-Cline-Hankins vs 5-Setterholm-Haldane
+  460          3.00   9.00 10-Campbell-Tafjord vs 7-Moore-Eng
+  490          9.00   3.00 11-Miller-Ford vs 9-Rind-Jacobson
+         50    0.00  12.00 13-Woo-Davis vs 13-Ruprecht-Jarvis
+  490          9.00   3.00 14-Romeo-Hovda vs 2-Sivapragasam-Stever
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650         11.50   0.50 1-Christie-Christiansen vs 1-Sieg-Carmichael
+  200          5.00   7.00 2-Falls-Baker-Harvey vs 4-Tipton-Hesson
+  200          5.00   7.00 3-Jain-Ranasaria vs 6-Roselle-Anderson
+  200          5.00   7.00 4-Cohen-Argent vs 8-Sieg-Saul
+  200          5.00   7.00 5-Delfs-Chalfan vs 10-Zaugg-Wright
+  650         11.50   0.50 6-Yuan-Tu vs 12-Taylor-Pesce
+  200          5.00   7.00 7-Baer-Bolson vs 14-Diamond-Dierickx
+  200          5.00   7.00 8-Lewis-Davis vs 3-Ring-Abernethy
+  170          0.50  11.50 9-Cline-Hankins vs 5-Setterholm-Haldane
+  620          9.50   2.50 10-Campbell-Tafjord vs 7-Moore-Eng
+  200          5.00   7.00 11-Miller-Ford vs 9-Rind-Jacobson
+  620          9.50   2.50 13-Woo-Davis vs 13-Ruprecht-Jarvis
+  170          0.50  11.50 14-Romeo-Hovda vs 2-Sivapragasam-Stever
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        640   10.00   2.00 1-Christie-Christiansen vs 14-Diamond-Dierickx
+       1390    2.00  10.00 2-Falls-Baker-Harvey vs 2-Sivapragasam-Stever
+       1390    2.00  10.00 3-Jain-Ranasaria vs 5-Setterholm-Haldane
+       1370    6.00   6.00 4-Cohen-Argent vs 7-Moore-Eng
+        640   10.00   2.00 5-Delfs-Chalfan vs 9-Rind-Jacobson
+       1370    6.00   6.00 6-Yuan-Tu vs 11-Christensen-Stevens
+       1390    2.00  10.00 7-Baer-Bolson vs 13-Ruprecht-Jarvis
+  100         12.00   0.00 8-Lewis-Davis vs 4-Tipton-Hesson
+       1370    6.00   6.00 9-Cline-Hankins vs 6-Roselle-Anderson
+        660    8.00   4.00 10-Campbell-Tafjord vs 8-Sieg-Saul
+       1390    2.00  10.00 11-Miller-Ford vs 10-Zaugg-Wright
+       1390    2.00  10.00 13-Woo-Davis vs 1-Sieg-Carmichael
+        640   10.00   2.00 14-Romeo-Hovda vs 3-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          9.00   3.00 1-Christie-Christiansen vs 14-Diamond-Dierickx
+  620         12.00   0.00 2-Falls-Baker-Harvey vs 2-Sivapragasam-Stever
+  600         11.00   1.00 3-Jain-Ranasaria vs 5-Setterholm-Haldane
+  170          4.00   8.00 4-Cohen-Argent vs 7-Moore-Eng
+  200          9.00   3.00 5-Delfs-Chalfan vs 9-Rind-Jacobson
+  170          4.00   8.00 6-Yuan-Tu vs 11-Christensen-Stevens
+  200          9.00   3.00 7-Baer-Bolson vs 13-Ruprecht-Jarvis
+  170          4.00   8.00 8-Lewis-Davis vs 4-Tipton-Hesson
+  170          4.00   8.00 9-Cline-Hankins vs 6-Roselle-Anderson
+  150          0.00  12.00 10-Campbell-Tafjord vs 8-Sieg-Saul
+  170          4.00   8.00 11-Miller-Ford vs 10-Zaugg-Wright
+  170          4.00   8.00 13-Woo-Davis vs 1-Sieg-Carmichael
+  170          4.00   8.00 14-Romeo-Hovda vs 3-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50  11.50 1-Christie-Christiansen vs 13-Ruprecht-Jarvis
+        140    4.50   7.50 2-Falls-Baker-Harvey vs 1-Sieg-Carmichael
+        140    4.50   7.50 3-Jain-Ranasaria vs 3-Ring-Abernethy
+        110    9.00   3.00 4-Cohen-Argent vs 6-Roselle-Anderson
+        140    4.50   7.50 5-Delfs-Chalfan vs 8-Sieg-Saul
+        110    9.00   3.00 6-Yuan-Tu vs 10-Zaugg-Wright
+        140    4.50   7.50 7-Baer-Bolson vs 12-Taylor-Pesce
+        140    4.50   7.50 8-Lewis-Davis vs 5-Setterholm-Haldane
+        110    9.00   3.00 9-Cline-Hankins vs 7-Moore-Eng
+        140    4.50   7.50 10-Campbell-Tafjord vs 9-Rind-Jacobson
+        200    0.50  11.50 11-Miller-Ford vs 11-Christensen-Stevens
+   50         12.00   0.00 13-Woo-Davis vs 2-Sivapragasam-Stever
+        100   11.00   1.00 14-Romeo-Hovda vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100         10.00   2.00 1-Christie-Christiansen vs 13-Ruprecht-Jarvis
+        140    3.50   8.50 2-Falls-Baker-Harvey vs 1-Sieg-Carmichael
+        730    0.00  12.00 3-Jain-Ranasaria vs 3-Ring-Abernethy
+  100         10.00   2.00 4-Cohen-Argent vs 6-Roselle-Anderson
+         50    7.00   5.00 5-Delfs-Chalfan vs 8-Sieg-Saul
+         50    7.00   5.00 6-Yuan-Tu vs 10-Zaugg-Wright
+        140    3.50   8.50 7-Baer-Bolson vs 12-Taylor-Pesce
+        300    1.00  11.00 8-Lewis-Davis vs 5-Setterholm-Haldane
+        140    3.50   8.50 9-Cline-Hankins vs 7-Moore-Eng
+  100         10.00   2.00 10-Campbell-Tafjord vs 9-Rind-Jacobson
+         50    7.00   5.00 11-Miller-Ford vs 11-Christensen-Stevens
+        140    3.50   8.50 13-Woo-Davis vs 2-Sivapragasam-Stever
+  200         12.00   0.00 14-Romeo-Hovda vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    4.00   8.00 1-Christie-Christiansen vs 12-Taylor-Pesce
+  100          9.00   3.00 2-Falls-Baker-Harvey vs 14-Diamond-Dierickx
+        620    0.50  11.50 3-Jain-Ranasaria vs 2-Sivapragasam-Stever
+  100          9.00   3.00 4-Cohen-Argent vs 4-Tipton-Hesson
+        500    2.00  10.00 5-Delfs-Chalfan vs 7-Moore-Eng
+  140         12.00   0.00 6-Yuan-Tu vs 9-Rind-Jacobson
+        140    4.00   8.00 7-Baer-Bolson vs 11-Christensen-Stevens
+  100          9.00   3.00 8-Lewis-Davis vs 6-Roselle-Anderson
+  100          9.00   3.00 9-Cline-Hankins vs 8-Sieg-Saul
+        620    0.50  11.50 10-Campbell-Tafjord vs 10-Zaugg-Wright
+        100    6.00   6.00 11-Miller-Ford vs 13-Ruprecht-Jarvis
+  100          9.00   3.00 13-Woo-Davis vs 3-Ring-Abernethy
+        140    4.00   8.00 14-Romeo-Hovda vs 5-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    9.00   3.00 1-Christie-Christiansen vs 12-Taylor-Pesce
+        450    3.50   8.50 2-Falls-Baker-Harvey vs 14-Diamond-Dierickx
+        450    3.50   8.50 3-Jain-Ranasaria vs 2-Sivapragasam-Stever
+        450    3.50   8.50 4-Cohen-Argent vs 4-Tipton-Hesson
+        420    9.00   3.00 5-Delfs-Chalfan vs 7-Moore-Eng
+        420    9.00   3.00 6-Yuan-Tu vs 9-Rind-Jacobson
+        420    9.00   3.00 7-Baer-Bolson vs 11-Christensen-Stevens
+        450    3.50   8.50 8-Lewis-Davis vs 6-Roselle-Anderson
+        450    3.50   8.50 9-Cline-Hankins vs 8-Sieg-Saul
+        480    0.00  12.00 10-Campbell-Tafjord vs 10-Zaugg-Wright
+   50         12.00   0.00 11-Miller-Ford vs 13-Ruprecht-Jarvis
+        420    9.00   3.00 13-Woo-Davis vs 3-Ring-Abernethy
+        450    3.50   8.50 14-Romeo-Hovda vs 5-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00  11.00 1-Christie-Christiansen vs 11-Christensen-Stevens
+        630    0.00  12.00 2-Falls-Baker-Harvey vs 13-Ruprecht-Jarvis
+  200          7.50   4.50 3-Jain-Ranasaria vs 1-Sieg-Carmichael
+  200          7.50   4.50 4-Cohen-Argent vs 3-Ring-Abernethy
+  200          7.50   4.50 5-Delfs-Chalfan vs 5-Setterholm-Haldane
+  300         12.00   0.00 6-Yuan-Tu vs 8-Sieg-Saul
+  200          7.50   4.50 7-Baer-Bolson vs 10-Zaugg-Wright
+  100          2.50   9.50 8-Lewis-Davis vs 7-Moore-Eng
+  200          7.50   4.50 9-Cline-Hankins vs 9-Rind-Jacobson
+  200          7.50   4.50 10-Campbell-Tafjord vs 12-Taylor-Pesce
+  100          2.50   9.50 11-Miller-Ford vs 14-Diamond-Dierickx
+  200          7.50   4.50 13-Woo-Davis vs 4-Tipton-Hesson
+  200          7.50   4.50 14-Romeo-Hovda vs 6-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50  11.50 1-Christie-Christiansen vs 11-Christensen-Stevens
+  170          5.00   7.00 2-Falls-Baker-Harvey vs 13-Ruprecht-Jarvis
+  620         10.00   2.00 3-Jain-Ranasaria vs 1-Sieg-Carmichael
+  620         10.00   2.00 4-Cohen-Argent vs 3-Ring-Abernethy
+  620         10.00   2.00 5-Delfs-Chalfan vs 5-Setterholm-Haldane
+  620         10.00   2.00 6-Yuan-Tu vs 8-Sieg-Saul
+        100    0.50  11.50 7-Baer-Bolson vs 10-Zaugg-Wright
+  120          2.00  10.00 8-Lewis-Davis vs 7-Moore-Eng
+  500          7.00   5.00 9-Cline-Hankins vs 9-Rind-Jacobson
+  620         10.00   2.00 10-Campbell-Tafjord vs 12-Taylor-Pesce
+  170          5.00   7.00 11-Miller-Ford vs 14-Diamond-Dierickx
+  170          5.00   7.00 13-Woo-Davis vs 4-Tipton-Hesson
+  140          3.00   9.00 14-Romeo-Hovda vs 6-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   9.50 1-Christie-Christiansen vs 10-Zaugg-Wright
+        300    0.00  12.00 2-Falls-Baker-Harvey vs 12-Taylor-Pesce
+  500         11.50   0.50 3-Jain-Ranasaria vs 14-Diamond-Dierickx
+   50          5.50   6.50 4-Cohen-Argent vs 2-Sivapragasam-Stever
+   50          5.50   6.50 5-Delfs-Chalfan vs 4-Tipton-Hesson
+  500         11.50   0.50 6-Yuan-Tu vs 6-Roselle-Anderson
+        140    1.00  11.00 7-Baer-Bolson vs 9-Rind-Jacobson
+  100          8.50   3.50 8-Lewis-Davis vs 8-Sieg-Saul
+        110    2.50   9.50 9-Cline-Hankins vs 11-Christensen-Stevens
+  150         10.00   2.00 10-Campbell-Tafjord vs 13-Ruprecht-Jarvis
+  100          8.50   3.50 11-Miller-Ford vs 1-Sieg-Carmichael
+   50          5.50   6.50 13-Woo-Davis vs 5-Setterholm-Haldane
+   50          5.50   6.50 14-Romeo-Hovda vs 7-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100         10.50   1.50 1-Christie-Christiansen vs 10-Zaugg-Wright
+        450    0.00  12.00 2-Falls-Baker-Harvey vs 12-Taylor-Pesce
+   50          8.00   4.00 3-Jain-Ranasaria vs 14-Diamond-Dierickx
+   50          8.00   4.00 4-Cohen-Argent vs 2-Sivapragasam-Stever
+  130         12.00   0.00 5-Delfs-Chalfan vs 4-Tipton-Hesson
+        140    5.50   6.50 6-Yuan-Tu vs 6-Roselle-Anderson
+  100         10.50   1.50 7-Baer-Bolson vs 9-Rind-Jacobson
+   50          8.00   4.00 8-Lewis-Davis vs 8-Sieg-Saul
+        420    2.00  10.00 9-Cline-Hankins vs 11-Christensen-Stevens
+        170    4.00   8.00 10-Campbell-Tafjord vs 13-Ruprecht-Jarvis
+        420    2.00  10.00 11-Miller-Ford vs 1-Sieg-Carmichael
+        420    2.00  10.00 13-Woo-Davis vs 5-Setterholm-Haldane
+        140    5.50   6.50 14-Romeo-Hovda vs 7-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    4.50   7.50 1-Christie-Christiansen vs 9-Rind-Jacobson
+        660    4.50   7.50 2-Falls-Baker-Harvey vs 11-Christensen-Stevens
+        660    4.50   7.50 3-Jain-Ranasaria vs 13-Ruprecht-Jarvis
+        660    4.50   7.50 4-Cohen-Argent vs 1-Sieg-Carmichael
+        630    9.50   2.50 5-Delfs-Chalfan vs 3-Ring-Abernethy
+        660    4.50   7.50 6-Yuan-Tu vs 5-Setterholm-Haldane
+        690    0.00  12.00 7-Baer-Bolson vs 7-Moore-Eng
+        660    4.50   7.50 8-Lewis-Davis vs 10-Zaugg-Wright
+        660    4.50   7.50 9-Cline-Hankins vs 12-Taylor-Pesce
+        660    4.50   7.50 10-Campbell-Tafjord vs 14-Diamond-Dierickx
+  300         12.00   0.00 11-Miller-Ford vs 2-Sivapragasam-Stever
+  100         11.00   1.00 13-Woo-Davis vs 6-Roselle-Anderson
+        630    9.50   2.50 14-Romeo-Hovda vs 8-Sieg-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    3.50   8.50 1-Christie-Christiansen vs 9-Rind-Jacobson
+        100    7.00   5.00 2-Falls-Baker-Harvey vs 11-Christensen-Stevens
+        300    3.50   8.50 3-Jain-Ranasaria vs 13-Ruprecht-Jarvis
+        100    7.00   5.00 4-Cohen-Argent vs 1-Sieg-Carmichael
+        100    7.00   5.00 5-Delfs-Chalfan vs 3-Ring-Abernethy
+        500    1.00  11.00 6-Yuan-Tu vs 5-Setterholm-Haldane
+        500    1.00  11.00 7-Baer-Bolson vs 7-Moore-Eng
+        100    7.00   5.00 8-Lewis-Davis vs 10-Zaugg-Wright
+         50   10.50   1.50 9-Cline-Hankins vs 12-Taylor-Pesce
+        100    7.00   5.00 10-Campbell-Tafjord vs 14-Diamond-Dierickx
+         50   10.50   1.50 11-Miller-Ford vs 2-Sivapragasam-Stever
+        500    1.00  11.00 13-Woo-Davis vs 6-Roselle-Anderson
+   50         12.00   0.00 14-Romeo-Hovda vs 8-Sieg-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00  11.00 1-Christie-Christiansen vs 8-Sieg-Saul
+        200    6.50   5.50 2-Falls-Baker-Harvey vs 10-Zaugg-Wright
+        170    9.00   3.00 3-Jain-Ranasaria vs 12-Taylor-Pesce
+        170    9.00   3.00 4-Cohen-Argent vs 14-Diamond-Dierickx
+   50         12.00   0.00 5-Delfs-Chalfan vs 2-Sivapragasam-Stever
+        150   11.00   1.00 6-Yuan-Tu vs 4-Tipton-Hesson
+        400    4.50   7.50 7-Baer-Bolson vs 6-Roselle-Anderson
+        170    9.00   3.00 8-Lewis-Davis vs 11-Christensen-Stevens
+        400    4.50   7.50 9-Cline-Hankins vs 13-Ruprecht-Jarvis
+        430    3.00   9.00 10-Campbell-Tafjord vs 1-Sieg-Carmichael
+        460    1.00  11.00 11-Miller-Ford vs 3-Ring-Abernethy
+        460    1.00  11.00 13-Woo-Davis vs 7-Moore-Eng
+        200    6.50   5.50 14-Romeo-Hovda vs 9-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420         12.00   0.00 1-Christie-Christiansen vs 8-Sieg-Saul
+  140          8.50   3.50 2-Falls-Baker-Harvey vs 10-Zaugg-Wright
+         50    4.50   7.50 3-Jain-Ranasaria vs 12-Taylor-Pesce
+         50    4.50   7.50 4-Cohen-Argent vs 14-Diamond-Dierickx
+  140          8.50   3.50 5-Delfs-Chalfan vs 2-Sivapragasam-Stever
+  200         11.00   1.00 6-Yuan-Tu vs 4-Tipton-Hesson
+        170    1.50  10.50 7-Baer-Bolson vs 6-Roselle-Anderson
+  140          8.50   3.50 8-Lewis-Davis vs 11-Christensen-Stevens
+  140          8.50   3.50 9-Cline-Hankins vs 13-Ruprecht-Jarvis
+        200    0.00  12.00 10-Campbell-Tafjord vs 1-Sieg-Carmichael
+         50    4.50   7.50 11-Miller-Ford vs 3-Ring-Abernethy
+        170    1.50  10.50 13-Woo-Davis vs 7-Moore-Eng
+         50    4.50   7.50 14-Romeo-Hovda vs 9-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.00  11.00 1-Christie-Christiansen vs 7-Moore-Eng
+  200          0.00  12.00 2-Falls-Baker-Harvey vs 9-Rind-Jacobson
+  800         11.00   1.00 3-Jain-Ranasaria vs 11-Christensen-Stevens
+  450          5.00   7.00 4-Cohen-Argent vs 13-Ruprecht-Jarvis
+  800         11.00   1.00 5-Delfs-Chalfan vs 1-Sieg-Carmichael
+  690          9.00   3.00 6-Yuan-Tu vs 3-Ring-Abernethy
+  450          5.00   7.00 7-Baer-Bolson vs 5-Setterholm-Haldane
+  450          5.00   7.00 8-Lewis-Davis vs 12-Taylor-Pesce
+  450          5.00   7.00 9-Cline-Hankins vs 14-Diamond-Dierickx
+  450          5.00   7.00 10-Campbell-Tafjord vs 2-Sivapragasam-Stever
+  800         11.00   1.00 11-Miller-Ford vs 4-Tipton-Hesson
+  450          5.00   7.00 13-Woo-Davis vs 8-Sieg-Saul
+  450          5.00   7.00 14-Romeo-Hovda vs 10-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    7.50   4.50 1-Christie-Christiansen vs 7-Moore-Eng
+        200    7.50   4.50 2-Falls-Baker-Harvey vs 9-Rind-Jacobson
+        200    7.50   4.50 3-Jain-Ranasaria vs 11-Christensen-Stevens
+        200    7.50   4.50 4-Cohen-Argent vs 13-Ruprecht-Jarvis
+        480    0.00  12.00 5-Delfs-Chalfan vs 1-Sieg-Carmichael
+        200    7.50   4.50 6-Yuan-Tu vs 3-Ring-Abernethy
+        460    1.00  11.00 7-Baer-Bolson vs 5-Setterholm-Haldane
+        430    4.00   8.00 8-Lewis-Davis vs 12-Taylor-Pesce
+        450    2.50   9.50 9-Cline-Hankins vs 14-Diamond-Dierickx
+        170   11.50   0.50 10-Campbell-Tafjord vs 2-Sivapragasam-Stever
+        170   11.50   0.50 11-Miller-Ford vs 4-Tipton-Hesson
+        450    2.50   9.50 13-Woo-Davis vs 8-Sieg-Saul
+        200    7.50   4.50 14-Romeo-Hovda vs 10-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1400    0.50  11.50 1-Christie-Christiansen vs 6-Roselle-Anderson
+  200          6.50   5.50 2-Falls-Baker-Harvey vs 8-Sieg-Saul
+  200          6.50   5.50 3-Jain-Ranasaria vs 10-Zaugg-Wright
+  200          6.50   5.50 4-Cohen-Argent vs 12-Taylor-Pesce
+        110    2.00  10.00 5-Delfs-Chalfan vs 14-Diamond-Dierickx
+  400         12.00   0.00 6-Yuan-Tu vs 2-Sivapragasam-Stever
+       1400    0.50  11.50 7-Baer-Bolson vs 4-Tipton-Hesson
+  200          6.50   5.50 8-Lewis-Davis vs 13-Ruprecht-Jarvis
+  200          6.50   5.50 9-Cline-Hankins vs 1-Sieg-Carmichael
+  200          6.50   5.50 10-Campbell-Tafjord vs 3-Ring-Abernethy
+  200          6.50   5.50 11-Miller-Ford vs 5-Setterholm-Haldane
+  300         11.00   1.00 13-Woo-Davis vs 9-Rind-Jacobson
+  200          6.50   5.50 14-Romeo-Hovda vs 11-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    5.00   7.00 1-Christie-Christiansen vs 6-Roselle-Anderson
+        710    2.00  10.00 2-Falls-Baker-Harvey vs 8-Sieg-Saul
+        170   11.00   1.00 3-Jain-Ranasaria vs 10-Zaugg-Wright
+        710    2.00  10.00 4-Cohen-Argent vs 12-Taylor-Pesce
+        710    2.00  10.00 5-Delfs-Chalfan vs 14-Diamond-Dierickx
+        170   11.00   1.00 6-Yuan-Tu vs 2-Sivapragasam-Stever
+        710    2.00  10.00 7-Baer-Bolson vs 4-Tipton-Hesson
+        710    2.00  10.00 8-Lewis-Davis vs 13-Ruprecht-Jarvis
+        620    7.00   5.00 9-Cline-Hankins vs 1-Sieg-Carmichael
+        170   11.00   1.00 10-Campbell-Tafjord vs 3-Ring-Abernethy
+        260    8.00   4.00 11-Miller-Ford vs 5-Setterholm-Haldane
+        200    9.00   3.00 13-Woo-Davis vs 9-Rind-Jacobson
+        650    6.00   6.00 14-Romeo-Hovda vs 11-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1510    1.50  10.50 1-Christie-Christiansen vs 5-Setterholm-Haldane
+       1010    7.50   4.50 2-Falls-Baker-Harvey vs 7-Moore-Eng
+        510   12.00   0.00 3-Jain-Ranasaria vs 9-Rind-Jacobson
+        940   10.00   2.00 4-Cohen-Argent vs 11-Christensen-Stevens
+        940   10.00   2.00 5-Delfs-Chalfan vs 13-Ruprecht-Jarvis
+       1010    7.50   4.50 6-Yuan-Tu vs 1-Sieg-Carmichael
+       1020    4.50   7.50 7-Baer-Bolson vs 3-Ring-Abernethy
+       1020    4.50   7.50 8-Lewis-Davis vs 14-Diamond-Dierickx
+       1520    0.00  12.00 9-Cline-Hankins vs 2-Sivapragasam-Stever
+       1020    4.50   7.50 10-Campbell-Tafjord vs 4-Tipton-Hesson
+        940   10.00   2.00 11-Miller-Ford vs 6-Roselle-Anderson
+       1510    1.50  10.50 13-Woo-Davis vs 10-Zaugg-Wright
+       1020    4.50   7.50 14-Romeo-Hovda vs 12-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        790    1.00  11.00 1-Christie-Christiansen vs 5-Setterholm-Haldane
+        620    3.00   9.00 2-Falls-Baker-Harvey vs 7-Moore-Eng
+        790    1.00  11.00 3-Jain-Ranasaria vs 9-Rind-Jacobson
+  100          7.50   4.50 4-Cohen-Argent vs 11-Christensen-Stevens
+  200          9.00   3.00 5-Delfs-Chalfan vs 13-Ruprecht-Jarvis
+        300    4.00   8.00 6-Yuan-Tu vs 1-Sieg-Carmichael
+  100          7.50   4.50 7-Baer-Bolson vs 3-Ring-Abernethy
+        100    5.50   6.50 8-Lewis-Davis vs 14-Diamond-Dierickx
+  420         10.50   1.50 9-Cline-Hankins vs 2-Sivapragasam-Stever
+  420         10.50   1.50 10-Campbell-Tafjord vs 4-Tipton-Hesson
+        100    5.50   6.50 11-Miller-Ford vs 6-Roselle-Anderson
+  590         12.00   0.00 13-Woo-Davis vs 10-Zaugg-Wright
+        790    1.00  11.00 14-Romeo-Hovda vs 12-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          3.50   8.50 1-Christie-Christiansen vs 4-Tipton-Hesson
+ 1470          9.00   3.00 2-Falls-Baker-Harvey vs 6-Roselle-Anderson
+ 1470          9.00   3.00 3-Jain-Ranasaria vs 8-Sieg-Saul
+ 1470          9.00   3.00 4-Cohen-Argent vs 10-Zaugg-Wright
+ 1470          9.00   3.00 5-Delfs-Chalfan vs 12-Taylor-Pesce
+        200    0.00  12.00 6-Yuan-Tu vs 14-Diamond-Dierickx
+ 1430          3.50   8.50 7-Baer-Bolson vs 2-Sivapragasam-Stever
+ 1470          9.00   3.00 8-Lewis-Davis vs 1-Sieg-Carmichael
+ 1470          9.00   3.00 9-Cline-Hankins vs 3-Ring-Abernethy
+  680          2.00  10.00 10-Campbell-Tafjord vs 5-Setterholm-Haldane
+ 1470          9.00   3.00 11-Miller-Ford vs 7-Moore-Eng
+ 1440          5.00   7.00 13-Woo-Davis vs 11-Christensen-Stevens
+        100    1.00  11.00 14-Romeo-Hovda vs 13-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00  11.00 1-Christie-Christiansen vs 4-Tipton-Hesson
+  130          7.50   4.50 2-Falls-Baker-Harvey vs 6-Roselle-Anderson
+         50    2.50   9.50 3-Jain-Ranasaria vs 8-Sieg-Saul
+   50          4.50   7.50 4-Cohen-Argent vs 10-Zaugg-Wright
+   50          4.50   7.50 5-Delfs-Chalfan vs 12-Taylor-Pesce
+  150         10.50   1.50 6-Yuan-Tu vs 14-Diamond-Dierickx
+  130          7.50   4.50 7-Baer-Bolson vs 2-Sivapragasam-Stever
+         50    2.50   9.50 8-Lewis-Davis vs 1-Sieg-Carmichael
+  400         12.00   0.00 9-Cline-Hankins vs 3-Ring-Abernethy
+  150         10.50   1.50 10-Campbell-Tafjord vs 5-Setterholm-Haldane
+        300    0.00  12.00 11-Miller-Ford vs 7-Moore-Eng
+  130          7.50   4.50 13-Woo-Davis vs 11-Christensen-Stevens
+  130          7.50   4.50 14-Romeo-Hovda vs 13-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    4.00   8.00 1-Christie-Christiansen vs 3-Ring-Abernethy
+        130    4.00   8.00 2-Falls-Baker-Harvey vs 5-Setterholm-Haldane
+  110         10.00   2.00 3-Jain-Ranasaria vs 7-Moore-Eng
+         50    7.50   4.50 4-Cohen-Argent vs 9-Rind-Jacobson
+        130    4.00   8.00 5-Delfs-Chalfan vs 11-Christensen-Stevens
+         50    7.50   4.50 6-Yuan-Tu vs 13-Ruprecht-Jarvis
+        150    0.50  11.50 7-Baer-Bolson vs 1-Sieg-Carmichael
+  140         12.00   0.00 8-Lewis-Davis vs 2-Sivapragasam-Stever
+        130    4.00   8.00 9-Cline-Hankins vs 4-Tipton-Hesson
+        130    4.00   8.00 10-Campbell-Tafjord vs 6-Roselle-Anderson
+  110         10.00   2.00 11-Miller-Ford vs 8-Sieg-Saul
+        150    0.50  11.50 13-Woo-Davis vs 12-Taylor-Pesce
+  110         10.00   2.00 14-Romeo-Hovda vs 14-Diamond-Dierickx
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          8.50   3.50 1-Christie-Christiansen vs 3-Ring-Abernethy
+  650          8.50   3.50 2-Falls-Baker-Harvey vs 5-Setterholm-Haldane
+  620          3.50   8.50 3-Jain-Ranasaria vs 7-Moore-Eng
+  650          8.50   3.50 4-Cohen-Argent vs 9-Rind-Jacobson
+  650          8.50   3.50 5-Delfs-Chalfan vs 11-Christensen-Stevens
+  620          3.50   8.50 6-Yuan-Tu vs 13-Ruprecht-Jarvis
+  620          3.50   8.50 7-Baer-Bolson vs 1-Sieg-Carmichael
+  680         12.00   0.00 8-Lewis-Davis vs 2-Sivapragasam-Stever
+  620          3.50   8.50 9-Cline-Hankins vs 4-Tipton-Hesson
+  650          8.50   3.50 10-Campbell-Tafjord vs 6-Roselle-Anderson
+  650          8.50   3.50 11-Miller-Ford vs 8-Sieg-Saul
+  200          1.00  11.00 13-Woo-Davis vs 12-Taylor-Pesce
+        100    0.00  12.00 14-Romeo-Hovda vs 14-Diamond-Dierickx
+----------------------------------------------------------------------
