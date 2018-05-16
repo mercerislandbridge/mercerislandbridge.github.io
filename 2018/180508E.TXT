@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>May 8, 2018        |CLUB NO.>158048    | 05/08/2018 22:37
+DATE>May 8, 2018        |CLUB NO.>158048    | 05/15/2018 18:35
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,35 +11,35 @@ PAIRS IN STRAT A=12/B=7/C=4                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Jenni Carmichael       Tom Carmichael           A    2     .     .    163.69  60.63  0.84(A) 
+ 1 Jenni Carmichael       Tom Carmichael           A    2     .     .    164.81  61.04  0.84(A) 
 
  2 Chris Pesce            Christopher Jarvis       B    .     .     .    109.13  40.42          
 
- 3 Dong Yan               Ken Christiansen         A    4     .     .    140.63  52.09  0.42(A) 
+ 3 Dong Yan               Ken Christiansen         A   4/5    .     .    141.19  52.29  0.33(A) 
 
- 4 Steven Mark Lewis      Grant Davis              C    .     .     .    114.19  42.29          
+ 4 Steven Mark Lewis      Grant Davis              C    .     .     .    114.75  42.50          
 
  5 Jack Yuan              Rex Tu                   C    3     1     1    160.31  59.37  0.60(A) 
 
- 6 Paul Schwaighart       Sue Anderson             A    .     .     .    114.75  42.50          
+ 6 Paul Schwaighart       Sue Anderson             A    .     .     .    115.31  42.71          
 
- 7 Pete Cowles            Clay Laughary            C    .     .     2    124.31  46.04  0.22(C) 
+ 7 Pete Cowles            Clay Laughary            C    .     .     2    118.13  43.75  0.22(C) 
 
- 8 Peiyush Jain           Arvind Ranasaria         A    .     .     .    134.00  49.63          
+ 8 Peiyush Jain           Arvind Ranasaria         A    .     .     .    135.00  50.00          
 
  9 William Campbell       Nelson Davis             B    .     3     .    130.50  48.33  0.28(B) 
 
 10 Ray Miller             Daniel Poore             A    1     .     .    168.50  62.41  1.20(A) 
 
-11 Kevin Cline            David Hankins            B    5     2     .    140.06  51.87  0.39(B) 
+11 Kevin Cline            David Hankins            B   4/5    2     .    141.19  52.29  0.39(B) 
 
-12 Ann Romeo              Ed Lechner               C    .     .     .    116.44  43.13          
+12 Ann Romeo              Ed Lechner               C    .     .     .    117.56  43.54          
 
 
-                                          Totals                        1616.51       
+                                          Totals                        1616.38       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>May 8, 2018        |CLUB NO.>158048    | 05/08/2018 22:37
+DATE>May 8, 2018        |CLUB NO.>158048    | 05/15/2018 18:35
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -49,29 +49,29 @@ PAIRS IN STRAT A=12/B=5/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Jeffrey Ford           Bryan Delfs              A    .     .     .    140.50  52.04          
+ 1 Jeffrey Ford           Bryan Delfs              A    .     .     .    140.00  51.85          
 
  2 Gary Haldane           Sharon Miller            C    1     1     1    156.50  57.96  1.20(A) 
 
- 3 Stanford Christie      Dave Setterholm          A    4     .     .    146.00  54.07  0.42(A) 
+ 3 Stanford Christie      Dave Setterholm          A    4     .     .    145.00  53.70  0.42(A) 
 
- 4 Joel Fuhrman           David Walker             B    .     .     .    123.50  45.74          
+ 4 Joel Fuhrman           David Walker             B    .     .     .    129.00  47.78          
 
- 5 David Binney           James Sherman            A    .     .     .    123.00  45.56          
+ 5 David Binney           James Sherman            A    .     .     .    122.00  45.19          
 
- 6 Eric Sieg              Kim Eng                  A    5     .     .    144.00  53.33  0.24(A) 
+ 6 Eric Sieg              Kim Eng                  A    5     .     .    143.00  52.96  0.24(A) 
 
- 7 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .    102.50  37.96          
+ 7 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .    102.00  37.78          
 
  8 Brian Zaugg            Shawn Abernethy          A    .     .     .    125.00  46.30          
 
- 9 Nick Tipton            Galen Hesson             B    .     .     .    121.00  44.81          
+ 9 Nick Tipton            Galen Hesson             B    .     .     .    120.50  44.63          
 
 10 Mike Ring              Mike Christensen         A    2     .     .    153.50  56.85  0.84(A) 
 
 
 
-12 Terry Jacobson         Brad Rind                C    3     2     .    149.50  55.37  0.60(A) 
+12 Terry Jacobson         Brad Rind                C    3     2     .    148.50  55.00  0.60(A) 
 
 
                                           Totals                        1485.00       
@@ -131,17 +131,17 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-         80    5.00   5.00 1-Carmichael-Carmichael vs 12-Jacobson-Rind
+         80    6.00   4.00 1-Carmichael-Carmichael vs 12-Jacobson-Rind
   200          9.50   0.50 2-Pesce-Jarvis vs 2-Haldane-Miller
-        110    2.00   8.00 3-Yan-Christiansen vs 7-Falls-Baker-Harvey
-        110    2.00   8.00 4-Lewis-Davis vs 9-Tipton-Hesson
-        110    2.00   8.00 6-Schwaighart-Anderson vs 1-Ford-Delfs
-  110          8.00   2.00 7-Cowles-Laughary vs 4-Fuhrman-Walker
-        100    4.00   6.00 8-Jain-Ranasaria vs 6-Sieg-Eng
+        110    2.50   7.50 3-Yan-Christiansen vs 7-Falls-Baker-Harvey
+        110    2.50   7.50 4-Lewis-Davis vs 9-Tipton-Hesson
+        110    2.50   7.50 6-Schwaighart-Anderson vs 1-Ford-Delfs
+        110    2.50   7.50 7-Cowles-Laughary vs 4-Fuhrman-Walker
+        100    5.00   5.00 8-Jain-Ranasaria vs 6-Sieg-Eng
   200          9.50   0.50 9-Campbell-Davis vs 8-Zaugg-Abernethy
         200    0.00  10.00 10-Miller-Poore vs 10-Ring-Christensen
-  100          6.50   3.50 11-Cline-Hankins vs 3-Christie-Setterholm
-  100          6.50   3.50 12-Romeo-Lechner vs 5-Binney-Sherman
+  100          7.50   2.50 11-Cline-Hankins vs 3-Christie-Setterholm
+  100          7.50   2.50 12-Romeo-Lechner vs 5-Binney-Sherman
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 5
