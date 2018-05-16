@@ -1,0 +1,536 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>May 15, 2018       |CLUB NO.>158048    | 05/15/2018 22:39
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian & Bryan   |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=9/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Scott Chupack            B    5     3     .    145.13  53.75  0.36(B) 
+
+ 2 Dex Stuberg            Joel Fuhrman             B    .     .     .    121.50  45.00          
+
+ 3 Peiyush Jain           Arvind Ranasaria         B    .     4     .    142.31  52.71  0.25(B) 
+
+ 4 Ann Romeo              Brian Zaugg              B    .     .     .    105.19  38.96          
+
+ 5 Jack Yuan              Rex Tu                   C   3/4   1/2    1    147.94  54.79  0.61(B) 
+
+ 6 Kim Eng                Jeffrey Ford             A    .     .     .    140.06  51.87          
+
+ 7 Tracey Guice           Cord Frieden             C    .     .     .    109.69  40.63          
+
+ 8 Galen Hesson           Leah Sieg                B   3/4   1/2    .    147.94  54.79  0.61(B) 
+
+ 9 Connie Heller          Dennis Heller            A    2     .     .    158.06  58.54  0.84(A) 
+
+10 William Campbell       Oyvind Tafjord           C    .     .     2    120.00  44.44  0.22(C) 
+
+11 Ray Miller             Chris Moore              A    1     .     .    165.50  61.30  1.20(A) 
+
+12 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .    117.00  43.33          
+
+
+                                          Totals                        1620.32       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>May 15, 2018       |CLUB NO.>158048    | 05/15/2018 22:39
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian & Bryan   |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=8/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 Nelson Davis           Alex Woo                 B    .     .     .    137.00  50.74          
+
+ 3 Chris Pesce            David Wright             B    .     .     .    125.00  46.30          
+
+ 4 Eric Sieg              Tracey Bauer             B    5     3     .    138.00  51.11  0.32(B) 
+
+ 5 Kevin Cline            David Hankins            B    1     1     .    170.50  63.15  1.20(A) 
+
+ 6 Paul Schwaighart       Sue Anderson             A    .     .     .    123.50  45.74          
+
+ 7 Grant Davis            Kenneth Diamond          C    .     .     2    126.50  46.85  0.22(C) 
+
+ 8 John Uchida            Brad Rind                C    4     2     1    144.00  53.33  0.45(B) 
+
+ 9 Dave Setterholm        Gary Haldane             A    3     .     .    144.50  53.52  0.60(A) 
+
+10 Moises Saul            Irving Sonkin            C    .     .     .    100.50  37.22          
+
+11 Mike Ring              Mike Christensen         A    2     .     .    152.50  56.48  0.84(A) 
+
+12 Christine Urata        Lynn Huttenlocher        C    .     .     .    123.00  45.56          
+
+
+                                          Totals                        1485.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          8.50   1.50 2-Stuberg-Fuhrman vs 6-Schwaighart-Anderson
+  110          6.00   4.00 3-Jain-Ranasaria vs 8-Uchida-Rind
+         50    1.50   8.50 4-Romeo-Zaugg vs 10-Saul-Sonkin
+         50    1.50   8.50 5-Yuan-Tu vs 12-Urata-Huttenlocher
+  110          6.00   4.00 6-Eng-Ford vs 2-Davis-Woo
+  300         10.00   0.00 7-Guice-Frieden vs 3-Pesce-Wright
+  120          8.50   1.50 8-Hesson-Sieg vs 5-Cline-Hankins
+  110          6.00   4.00 9-Heller-Heller vs 7-Davis-Diamond
+         50    1.50   8.50 10-Campbell-Tafjord vs 9-Setterholm-Haldane
+         50    1.50   8.50 11-Miller-Moore vs 11-Ring-Christensen
+   50          4.00   6.00 12-Falls-Baker-Harvey vs 4-Sieg-Bauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.00   9.00 2-Stuberg-Fuhrman vs 6-Schwaighart-Anderson
+  620          7.00   3.00 3-Jain-Ranasaria vs 8-Uchida-Rind
+  200          4.50   5.50 4-Romeo-Zaugg vs 10-Saul-Sonkin
+  200          4.50   5.50 5-Yuan-Tu vs 12-Urata-Huttenlocher
+  200          4.50   5.50 6-Eng-Ford vs 2-Davis-Woo
+  650          8.00   2.00 7-Guice-Frieden vs 3-Pesce-Wright
+  660          9.00   1.00 8-Hesson-Sieg vs 5-Cline-Hankins
+  200          4.50   5.50 9-Heller-Heller vs 7-Davis-Diamond
+   50          0.00  10.00 10-Campbell-Tafjord vs 9-Setterholm-Haldane
+  680         10.00   0.00 11-Miller-Moore vs 11-Ring-Christensen
+  170          2.00   8.00 12-Falls-Baker-Harvey vs 4-Sieg-Bauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.50   8.50 2-Stuberg-Fuhrman vs 6-Schwaighart-Anderson
+  400          6.00   4.00 3-Jain-Ranasaria vs 8-Uchida-Rind
+  400          6.00   4.00 4-Romeo-Zaugg vs 10-Saul-Sonkin
+  500         10.00   0.00 5-Yuan-Tu vs 12-Urata-Huttenlocher
+  200          3.50   6.50 6-Eng-Ford vs 2-Davis-Woo
+         50    0.00  10.00 7-Guice-Frieden vs 3-Pesce-Wright
+  400          6.00   4.00 8-Hesson-Sieg vs 5-Cline-Hankins
+  420          8.50   1.50 9-Heller-Heller vs 7-Davis-Diamond
+  150          1.50   8.50 10-Campbell-Tafjord vs 9-Setterholm-Haldane
+  420          8.50   1.50 11-Miller-Moore vs 11-Ring-Christensen
+  200          3.50   6.50 12-Falls-Baker-Harvey vs 4-Sieg-Bauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          9.50   0.50 1-Delfs-Chupack vs 12-Urata-Huttenlocher
+        110    5.50   4.50 2-Stuberg-Fuhrman vs 2-Davis-Woo
+        100    8.00   2.00 3-Jain-Ranasaria vs 7-Davis-Diamond
+  100          9.50   0.50 4-Romeo-Zaugg vs 9-Setterholm-Haldane
+        200    1.50   8.50 5-Yuan-Tu vs 11-Ring-Christensen
+        200    1.50   8.50 7-Guice-Frieden vs 4-Sieg-Bauer
+        110    5.50   4.50 8-Hesson-Sieg vs 6-Schwaighart-Anderson
+        400    0.00  10.00 9-Heller-Heller vs 8-Uchida-Rind
+        120    3.00   7.00 10-Campbell-Tafjord vs 10-Saul-Sonkin
+        110    5.50   4.50 11-Miller-Moore vs 3-Pesce-Wright
+        110    5.50   4.50 12-Falls-Baker-Harvey vs 5-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   9.00 1-Delfs-Chupack vs 12-Urata-Huttenlocher
+         90    5.00   5.00 2-Stuberg-Fuhrman vs 2-Davis-Woo
+        110    1.00   9.00 3-Jain-Ranasaria vs 7-Davis-Diamond
+        100    3.50   6.50 4-Romeo-Zaugg vs 9-Setterholm-Haldane
+  110          7.00   3.00 5-Yuan-Tu vs 11-Ring-Christensen
+  170          9.50   0.50 7-Guice-Frieden vs 4-Sieg-Bauer
+   50          6.00   4.00 8-Hesson-Sieg vs 6-Schwaighart-Anderson
+        110    1.00   9.00 9-Heller-Heller vs 8-Uchida-Rind
+  170          9.50   0.50 10-Campbell-Tafjord vs 10-Saul-Sonkin
+  120          8.00   2.00 11-Miller-Moore vs 3-Pesce-Wright
+        100    3.50   6.50 12-Falls-Baker-Harvey vs 5-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          8.00   2.00 1-Delfs-Chupack vs 12-Urata-Huttenlocher
+  100          2.50   7.50 2-Stuberg-Fuhrman vs 2-Davis-Woo
+  150          5.00   5.00 3-Jain-Ranasaria vs 7-Davis-Diamond
+  100          2.50   7.50 4-Romeo-Zaugg vs 9-Setterholm-Haldane
+  100          2.50   7.50 5-Yuan-Tu vs 11-Ring-Christensen
+  200          8.00   2.00 7-Guice-Frieden vs 4-Sieg-Bauer
+  200          8.00   2.00 8-Hesson-Sieg vs 6-Schwaighart-Anderson
+  200          8.00   2.00 9-Heller-Heller vs 8-Uchida-Rind
+  200          8.00   2.00 10-Campbell-Tafjord vs 10-Saul-Sonkin
+   90          0.00  10.00 11-Miller-Moore vs 3-Pesce-Wright
+  100          2.50   7.50 12-Falls-Baker-Harvey vs 5-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   8.00 1-Delfs-Chupack vs 11-Ring-Christensen
+        650    2.00   8.00 3-Jain-Ranasaria vs 3-Pesce-Wright
+        650    2.00   8.00 4-Romeo-Zaugg vs 8-Uchida-Rind
+  100          9.50   0.50 5-Yuan-Tu vs 10-Saul-Sonkin
+        600    7.00   3.00 6-Eng-Ford vs 12-Urata-Huttenlocher
+        650    2.00   8.00 7-Guice-Frieden vs 5-Cline-Hankins
+        620    5.50   4.50 8-Hesson-Sieg vs 7-Davis-Diamond
+        620    5.50   4.50 9-Heller-Heller vs 9-Setterholm-Haldane
+        200    8.00   2.00 10-Campbell-Tafjord vs 2-Davis-Woo
+  100          9.50   0.50 11-Miller-Moore vs 4-Sieg-Bauer
+        650    2.00   8.00 12-Falls-Baker-Harvey vs 6-Schwaighart-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   8.00 1-Delfs-Chupack vs 11-Ring-Christensen
+        100    5.50   4.50 3-Jain-Ranasaria vs 3-Pesce-Wright
+        110    2.00   8.00 4-Romeo-Zaugg vs 8-Uchida-Rind
+   50          9.50   0.50 5-Yuan-Tu vs 10-Saul-Sonkin
+         90    8.00   2.00 6-Eng-Ford vs 12-Urata-Huttenlocher
+        150    0.00  10.00 7-Guice-Frieden vs 5-Cline-Hankins
+        100    5.50   4.50 8-Hesson-Sieg vs 7-Davis-Diamond
+   50          9.50   0.50 9-Heller-Heller vs 9-Setterholm-Haldane
+        110    2.00   8.00 10-Campbell-Tafjord vs 2-Davis-Woo
+        100    5.50   4.50 11-Miller-Moore vs 4-Sieg-Bauer
+        100    5.50   4.50 12-Falls-Baker-Harvey vs 6-Schwaighart-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   9.00 1-Delfs-Chupack vs 11-Ring-Christensen
+         50    4.00   6.00 3-Jain-Ranasaria vs 3-Pesce-Wright
+  130          7.00   3.00 4-Romeo-Zaugg vs 8-Uchida-Rind
+         50    4.00   6.00 5-Yuan-Tu vs 10-Saul-Sonkin
+        100    1.00   9.00 6-Eng-Ford vs 12-Urata-Huttenlocher
+        100    1.00   9.00 7-Guice-Frieden vs 5-Cline-Hankins
+  200         10.00   0.00 8-Hesson-Sieg vs 7-Davis-Diamond
+  130          7.00   3.00 9-Heller-Heller vs 9-Setterholm-Haldane
+  130          7.00   3.00 10-Campbell-Tafjord vs 2-Davis-Woo
+  150          9.00   1.00 11-Miller-Moore vs 4-Sieg-Bauer
+         50    4.00   6.00 12-Falls-Baker-Harvey vs 6-Schwaighart-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    5.50   4.50 1-Delfs-Chupack vs 10-Saul-Sonkin
+        200    5.50   4.50 2-Stuberg-Fuhrman vs 12-Urata-Huttenlocher
+  650          9.00   1.00 3-Jain-Ranasaria vs 2-Davis-Woo
+        300    2.00   8.00 4-Romeo-Zaugg vs 4-Sieg-Bauer
+        200    5.50   4.50 5-Yuan-Tu vs 9-Setterholm-Haldane
+ 1100         10.00   0.00 6-Eng-Ford vs 11-Ring-Christensen
+        300    2.00   8.00 7-Guice-Frieden vs 6-Schwaighart-Anderson
+        200    5.50   4.50 8-Hesson-Sieg vs 8-Uchida-Rind
+        800    0.00  10.00 10-Campbell-Tafjord vs 3-Pesce-Wright
+  200          8.00   2.00 11-Miller-Moore vs 5-Cline-Hankins
+        300    2.00   8.00 12-Falls-Baker-Harvey vs 7-Davis-Diamond
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    9.00   1.00 1-Delfs-Chupack vs 10-Saul-Sonkin
+        270   10.00   0.00 2-Stuberg-Fuhrman vs 12-Urata-Huttenlocher
+        450    4.00   6.00 3-Jain-Ranasaria vs 2-Davis-Woo
+        450    4.00   6.00 4-Romeo-Zaugg vs 4-Sieg-Bauer
+        450    4.00   6.00 5-Yuan-Tu vs 9-Setterholm-Haldane
+        450    4.00   6.00 6-Eng-Ford vs 11-Ring-Christensen
+        450    4.00   6.00 7-Guice-Frieden vs 6-Schwaighart-Anderson
+        450    4.00   6.00 8-Hesson-Sieg vs 8-Uchida-Rind
+        450    4.00   6.00 10-Campbell-Tafjord vs 3-Pesce-Wright
+        450    4.00   6.00 11-Miller-Moore vs 5-Cline-Hankins
+        450    4.00   6.00 12-Falls-Baker-Harvey vs 7-Davis-Diamond
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          9.50   0.50 1-Delfs-Chupack vs 10-Saul-Sonkin
+  600          3.00   7.00 2-Stuberg-Fuhrman vs 12-Urata-Huttenlocher
+  630          7.00   3.00 3-Jain-Ranasaria vs 2-Davis-Woo
+  600          3.00   7.00 4-Romeo-Zaugg vs 4-Sieg-Bauer
+  630          7.00   3.00 5-Yuan-Tu vs 9-Setterholm-Haldane
+  660          9.50   0.50 6-Eng-Ford vs 11-Ring-Christensen
+  600          3.00   7.00 7-Guice-Frieden vs 6-Schwaighart-Anderson
+  180          0.50   9.50 8-Hesson-Sieg vs 8-Uchida-Rind
+  630          7.00   3.00 10-Campbell-Tafjord vs 3-Pesce-Wright
+  180          0.50   9.50 11-Miller-Moore vs 5-Cline-Hankins
+  620          5.00   5.00 12-Falls-Baker-Harvey vs 7-Davis-Diamond
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    5.50   4.50 1-Delfs-Chupack vs 9-Setterholm-Haldane
+        200    8.00   2.00 2-Stuberg-Fuhrman vs 11-Ring-Christensen
+        130    9.00   1.00 4-Romeo-Zaugg vs 3-Pesce-Wright
+        620    5.50   4.50 5-Yuan-Tu vs 5-Cline-Hankins
+        620    5.50   4.50 6-Eng-Ford vs 10-Saul-Sonkin
+        650    1.50   8.50 7-Guice-Frieden vs 7-Davis-Diamond
+  100         10.00   0.00 8-Hesson-Sieg vs 12-Urata-Huttenlocher
+        620    5.50   4.50 9-Heller-Heller vs 2-Davis-Woo
+        650    1.50   8.50 10-Campbell-Tafjord vs 4-Sieg-Bauer
+        650    1.50   8.50 11-Miller-Moore vs 6-Schwaighart-Anderson
+        650    1.50   8.50 12-Falls-Baker-Harvey vs 8-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.00  10.00 1-Delfs-Chupack vs 9-Setterholm-Haldane
+        110    2.00   8.00 2-Stuberg-Fuhrman vs 11-Ring-Christensen
+  100          9.50   0.50 4-Romeo-Zaugg vs 3-Pesce-Wright
+   50          7.00   3.00 5-Yuan-Tu vs 5-Cline-Hankins
+        110    2.00   8.00 6-Eng-Ford vs 10-Saul-Sonkin
+         90    4.00   6.00 7-Guice-Frieden vs 7-Davis-Diamond
+    PASS       5.00   5.00 8-Hesson-Sieg vs 12-Urata-Huttenlocher
+   50          7.00   3.00 9-Heller-Heller vs 2-Davis-Woo
+        110    2.00   8.00 10-Campbell-Tafjord vs 4-Sieg-Bauer
+  100          9.50   0.50 11-Miller-Moore vs 6-Schwaighart-Anderson
+   50          7.00   3.00 12-Falls-Baker-Harvey vs 8-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    9.00   1.00 1-Delfs-Chupack vs 9-Setterholm-Haldane
+        420    4.00   6.00 2-Stuberg-Fuhrman vs 11-Ring-Christensen
+        420    4.00   6.00 4-Romeo-Zaugg vs 3-Pesce-Wright
+       1400    0.00  10.00 5-Yuan-Tu vs 5-Cline-Hankins
+        590    2.00   8.00 6-Eng-Ford vs 10-Saul-Sonkin
+        140    7.00   3.00 7-Guice-Frieden vs 7-Davis-Diamond
+        420    4.00   6.00 8-Hesson-Sieg vs 12-Urata-Huttenlocher
+        140    7.00   3.00 9-Heller-Heller vs 2-Davis-Woo
+        140    7.00   3.00 10-Campbell-Tafjord vs 4-Sieg-Bauer
+   50         10.00   0.00 11-Miller-Moore vs 6-Schwaighart-Anderson
+        800    1.00   9.00 12-Falls-Baker-Harvey vs 8-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          8.50   1.50 1-Delfs-Chupack vs 8-Uchida-Rind
+  110          6.00   4.00 2-Stuberg-Fuhrman vs 10-Saul-Sonkin
+  200         10.00   0.00 3-Jain-Ranasaria vs 12-Urata-Huttenlocher
+        500    0.00  10.00 4-Romeo-Zaugg vs 2-Davis-Woo
+  100          3.50   6.50 5-Yuan-Tu vs 4-Sieg-Bauer
+  110          6.00   4.00 6-Eng-Ford vs 6-Schwaighart-Anderson
+        110    1.00   9.00 7-Guice-Frieden vs 11-Ring-Christensen
+  110          6.00   4.00 9-Heller-Heller vs 3-Pesce-Wright
+  100          3.50   6.50 10-Campbell-Tafjord vs 5-Cline-Hankins
+  140          8.50   1.50 11-Miller-Moore vs 7-Davis-Diamond
+         50    2.00   8.00 12-Falls-Baker-Harvey vs 9-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    5.00   5.00 1-Delfs-Chupack vs 8-Uchida-Rind
+   90          8.00   2.00 2-Stuberg-Fuhrman vs 10-Saul-Sonkin
+        200    0.00  10.00 3-Jain-Ranasaria vs 12-Urata-Huttenlocher
+        150    1.00   9.00 4-Romeo-Zaugg vs 2-Davis-Woo
+  120          9.50   0.50 5-Yuan-Tu vs 4-Sieg-Bauer
+         50    5.00   5.00 6-Eng-Ford vs 6-Schwaighart-Anderson
+  120          9.50   0.50 7-Guice-Frieden vs 11-Ring-Christensen
+         50    5.00   5.00 9-Heller-Heller vs 3-Pesce-Wright
+         50    5.00   5.00 10-Campbell-Tafjord vs 5-Cline-Hankins
+        100    2.00   8.00 11-Miller-Moore vs 7-Davis-Diamond
+         50    5.00   5.00 12-Falls-Baker-Harvey vs 9-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.50   6.50 1-Delfs-Chupack vs 8-Uchida-Rind
+        430    3.50   6.50 2-Stuberg-Fuhrman vs 10-Saul-Sonkin
+   50          9.00   1.00 3-Jain-Ranasaria vs 12-Urata-Huttenlocher
+        460    0.50   9.50 4-Romeo-Zaugg vs 2-Davis-Woo
+        430    3.50   6.50 5-Yuan-Tu vs 4-Sieg-Bauer
+        400    6.50   3.50 6-Eng-Ford vs 6-Schwaighart-Anderson
+        430    3.50   6.50 7-Guice-Frieden vs 11-Ring-Christensen
+   50          9.00   1.00 9-Heller-Heller vs 3-Pesce-Wright
+        460    0.50   9.50 10-Campbell-Tafjord vs 5-Cline-Hankins
+        400    6.50   3.50 11-Miller-Moore vs 7-Davis-Diamond
+   50          9.00   1.00 12-Falls-Baker-Harvey vs 9-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  230          6.50   3.50 1-Delfs-Chupack vs 7-Davis-Diamond
+  200          3.00   7.00 2-Stuberg-Fuhrman vs 9-Setterholm-Haldane
+  200          3.00   7.00 3-Jain-Ranasaria vs 11-Ring-Christensen
+  230          6.50   3.50 5-Yuan-Tu vs 3-Pesce-Wright
+  200          3.00   7.00 6-Eng-Ford vs 5-Cline-Hankins
+  140          0.00  10.00 7-Guice-Frieden vs 12-Urata-Huttenlocher
+  200          3.00   7.00 8-Hesson-Sieg vs 2-Davis-Woo
+  420          8.00   2.00 9-Heller-Heller vs 4-Sieg-Bauer
+  450          9.50   0.50 10-Campbell-Tafjord vs 6-Schwaighart-Anderson
+  450          9.50   0.50 11-Miller-Moore vs 8-Uchida-Rind
+  200          3.00   7.00 12-Falls-Baker-Harvey vs 10-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800         10.00   0.00 1-Delfs-Chupack vs 7-Davis-Diamond
+  170          7.50   2.50 2-Stuberg-Fuhrman vs 9-Setterholm-Haldane
+  200          9.00   1.00 3-Jain-Ranasaria vs 11-Ring-Christensen
+       1100    0.00  10.00 5-Yuan-Tu vs 3-Pesce-Wright
+        100    1.50   8.50 6-Eng-Ford vs 5-Cline-Hankins
+  140          4.50   5.50 7-Guice-Frieden vs 12-Urata-Huttenlocher
+  140          4.50   5.50 8-Hesson-Sieg vs 2-Davis-Woo
+  140          4.50   5.50 9-Heller-Heller vs 4-Sieg-Bauer
+  140          4.50   5.50 10-Campbell-Tafjord vs 6-Schwaighart-Anderson
+        100    1.50   8.50 11-Miller-Moore vs 8-Uchida-Rind
+  170          7.50   2.50 12-Falls-Baker-Harvey vs 10-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          8.50   1.50 1-Delfs-Chupack vs 7-Davis-Diamond
+  110          2.50   7.50 2-Stuberg-Fuhrman vs 9-Setterholm-Haldane
+        200    0.00  10.00 3-Jain-Ranasaria vs 11-Ring-Christensen
+  620          8.50   1.50 5-Yuan-Tu vs 3-Pesce-Wright
+  170          6.00   4.00 6-Eng-Ford vs 5-Cline-Hankins
+  110          2.50   7.50 7-Guice-Frieden vs 12-Urata-Huttenlocher
+  140          4.50   5.50 8-Hesson-Sieg vs 2-Davis-Woo
+  140          4.50   5.50 9-Heller-Heller vs 4-Sieg-Bauer
+        100    1.00   9.00 10-Campbell-Tafjord vs 6-Schwaighart-Anderson
+  620          8.50   1.50 11-Miller-Moore vs 8-Uchida-Rind
+  620          8.50   1.50 12-Falls-Baker-Harvey vs 10-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   8.50 1-Delfs-Chupack vs 6-Schwaighart-Anderson
+  430          8.50   1.50 2-Stuberg-Fuhrman vs 8-Uchida-Rind
+  170          5.00   5.00 3-Jain-Ranasaria vs 10-Saul-Sonkin
+         50    1.50   8.50 4-Romeo-Zaugg vs 12-Urata-Huttenlocher
+  430          8.50   1.50 5-Yuan-Tu vs 2-Davis-Woo
+  430          8.50   1.50 6-Eng-Ford vs 4-Sieg-Bauer
+  430          8.50   1.50 8-Hesson-Sieg vs 3-Pesce-Wright
+  150          4.00   6.00 9-Heller-Heller vs 5-Cline-Hankins
+         90    0.00  10.00 10-Campbell-Tafjord vs 7-Davis-Diamond
+  140          3.00   7.00 11-Miller-Moore vs 9-Setterholm-Haldane
+  180          6.00   4.00 12-Falls-Baker-Harvey vs 11-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          7.00   3.00 1-Delfs-Chupack vs 6-Schwaighart-Anderson
+        100    2.00   8.00 2-Stuberg-Fuhrman vs 8-Uchida-Rind
+  650         10.00   0.00 3-Jain-Ranasaria vs 10-Saul-Sonkin
+        100    2.00   8.00 4-Romeo-Zaugg vs 12-Urata-Huttenlocher
+  620          7.00   3.00 5-Yuan-Tu vs 2-Davis-Woo
+        100    2.00   8.00 6-Eng-Ford vs 4-Sieg-Bauer
+        100    2.00   8.00 8-Hesson-Sieg vs 3-Pesce-Wright
+  600          5.00   5.00 9-Heller-Heller vs 5-Cline-Hankins
+  620          7.00   3.00 10-Campbell-Tafjord vs 7-Davis-Diamond
+  630          9.00   1.00 11-Miller-Moore vs 9-Setterholm-Haldane
+        100    2.00   8.00 12-Falls-Baker-Harvey vs 11-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          9.00   1.00 1-Delfs-Chupack vs 6-Schwaighart-Anderson
+        170    2.50   7.50 2-Stuberg-Fuhrman vs 8-Uchida-Rind
+        140    5.50   4.50 3-Jain-Ranasaria vs 10-Saul-Sonkin
+   50          9.00   1.00 4-Romeo-Zaugg vs 12-Urata-Huttenlocher
+        140    5.50   4.50 5-Yuan-Tu vs 2-Davis-Woo
+        140    5.50   4.50 6-Eng-Ford vs 4-Sieg-Bauer
+        140    5.50   4.50 8-Hesson-Sieg vs 3-Pesce-Wright
+        420    0.50   9.50 9-Heller-Heller vs 5-Cline-Hankins
+   50          9.00   1.00 10-Campbell-Tafjord vs 7-Davis-Diamond
+        170    2.50   7.50 11-Miller-Moore vs 9-Setterholm-Haldane
+        420    0.50   9.50 12-Falls-Baker-Harvey vs 11-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   7.00 1-Delfs-Chupack vs 5-Cline-Hankins
+        200    2.00   8.00 2-Stuberg-Fuhrman vs 7-Davis-Diamond
+        630    1.00   9.00 3-Jain-Ranasaria vs 9-Setterholm-Haldane
+        920    0.00  10.00 4-Romeo-Zaugg vs 11-Ring-Christensen
+  140          8.50   1.50 6-Eng-Ford vs 3-Pesce-Wright
+         50    5.50   4.50 7-Guice-Frieden vs 2-Davis-Woo
+         50    5.50   4.50 8-Hesson-Sieg vs 4-Sieg-Bauer
+  530         10.00   0.00 9-Heller-Heller vs 6-Schwaighart-Anderson
+  140          8.50   1.50 10-Campbell-Tafjord vs 8-Uchida-Rind
+         50    5.50   4.50 11-Miller-Moore vs 10-Saul-Sonkin
+         50    5.50   4.50 12-Falls-Baker-Harvey vs 12-Urata-Huttenlocher
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.00  10.00 1-Delfs-Chupack vs 5-Cline-Hankins
+        680    5.00   5.00 2-Stuberg-Fuhrman vs 7-Davis-Diamond
+        680    5.00   5.00 3-Jain-Ranasaria vs 9-Setterholm-Haldane
+        680    5.00   5.00 4-Romeo-Zaugg vs 11-Ring-Christensen
+       1370    1.00   9.00 6-Eng-Ford vs 3-Pesce-Wright
+        680    5.00   5.00 7-Guice-Frieden vs 2-Davis-Woo
+        680    5.00   5.00 8-Hesson-Sieg vs 4-Sieg-Bauer
+        630   10.00   0.00 9-Heller-Heller vs 6-Schwaighart-Anderson
+        680    5.00   5.00 10-Campbell-Tafjord vs 8-Uchida-Rind
+        660    9.00   1.00 11-Miller-Moore vs 10-Saul-Sonkin
+        680    5.00   5.00 12-Falls-Baker-Harvey vs 12-Urata-Huttenlocher
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   5.50 1-Delfs-Chupack vs 5-Cline-Hankins
+        120    1.00   9.00 2-Stuberg-Fuhrman vs 7-Davis-Diamond
+        100    4.50   5.50 3-Jain-Ranasaria vs 9-Setterholm-Haldane
+        100    4.50   5.50 4-Romeo-Zaugg vs 11-Ring-Christensen
+  100          8.00   2.00 6-Eng-Ford vs 3-Pesce-Wright
+        100    4.50   5.50 7-Guice-Frieden vs 2-Davis-Woo
+        140    0.00  10.00 8-Hesson-Sieg vs 4-Sieg-Bauer
+        100    4.50   5.50 9-Heller-Heller vs 6-Schwaighart-Anderson
+        100    4.50   5.50 10-Campbell-Tafjord vs 8-Uchida-Rind
+  150          9.00   1.00 11-Miller-Moore vs 10-Saul-Sonkin
+  300         10.00   0.00 12-Falls-Baker-Harvey vs 12-Urata-Huttenlocher
+----------------------------------------------------------------------
