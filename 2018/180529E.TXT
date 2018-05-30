@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 29, 2018       |CLUB NO.>158048    | 05/29/2018 22:21
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Shawn      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=10/C=6                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jenni Carmichael       Eric Sieg                A    .     .     .     95.00  52.20          
+
+ 2 Jack Yuan              Rex Tu                   C    .     4     1     89.50  49.18  0.48(C) 
+
+ 3 Ray Miller             Chris Pesce              A    5     .     .     99.50  54.67  0.32(A) 
+
+ 4 Nick Tipton            Galen Hesson             B    .     .     .     78.50  43.13          
+
+ 5 William Campbell       Oyvind Tafjord           C    .     .     2     86.00  47.25  0.34(C) 
+
+ 6 Marilyn Dierickx       Kenneth Diamond          C    .     .     .     82.50  45.33          
+
+ 7 Kevin Cline            David Hankins            B    4     2     .    103.00  56.59  0.56(A) 
+
+ 8 Chris Moore            Brian Zaugg              A   2/3    .     .    108.50  59.62  0.96(A) 
+
+ 9 Moises Saul            Irving Sonkin            C    .     .     .     72.50  39.84          
+
+10 Leah Sieg              Elizabeth Saul           C    .     .     .     66.50  36.54          
+
+11 Mike Ring              Shawn Abernethy          B    1     1     .    121.50  66.76  1.50(A) 
+
+12 Lorenzo Migliorini     Valerie Lycette          C    .     .     .     85.00  46.70          
+
+13 Bryan Delfs            Sue Anderson             B    6     3     .     97.50  53.57  0.40(B) 
+
+14 Mike Christensen       Tom Carmichael           A    .     .     .     89.50  49.18          
+
+15 Jeffrey Ford           David Taylor             A   2/3    .     .    108.50  59.62  0.96(A) 
+
+16 Albert Bender          Andrea James             A    .     .     .     72.50  39.84          
+
+
+                                          Totals                        1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   1.50 4-Tipton-Hesson vs 14-Christensen-Carmichael
+   50          4.00   3.00 6-Dierickx-Diamond vs 5-Campbell-Tafjord
+  300          7.00   0.00 8-Moore-Zaugg vs 12-Migliorini-Lycette
+        150    0.00   7.00 9-Saul-Sonkin vs 11-Ring-Abernethy
+         50    2.50   4.50 10-Sieg-Saul vs 2-Yuan-Tu
+        100    1.00   6.00 13-Delfs-Anderson vs 7-Cline-Hankins
+  100          5.50   1.50 15-Ford-Taylor vs 3-Miller-Pesce
+         50    2.50   4.50 16-Bender-James vs 1-Carmichael-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   5.50 4-Tipton-Hesson vs 14-Christensen-Carmichael
+        140    1.50   5.50 6-Dierickx-Diamond vs 5-Campbell-Tafjord
+  140          7.00   0.00 8-Moore-Zaugg vs 12-Migliorini-Lycette
+        140    1.50   5.50 9-Saul-Sonkin vs 11-Ring-Abernethy
+   90          5.00   2.00 10-Sieg-Saul vs 2-Yuan-Tu
+        140    1.50   5.50 13-Delfs-Anderson vs 7-Cline-Hankins
+  110          6.00   1.00 15-Ford-Taylor vs 3-Miller-Pesce
+   50          4.00   3.00 16-Bender-James vs 1-Carmichael-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   1.00 1-Carmichael-Sieg vs 8-Moore-Zaugg
+  100          3.50   3.50 4-Tipton-Hesson vs 15-Ford-Taylor
+  100          3.50   3.50 5-Campbell-Tafjord vs 14-Christensen-Carmichael
+         50    2.00   5.00 7-Cline-Hankins vs 6-Dierickx-Diamond
+        140    0.00   7.00 9-Saul-Sonkin vs 13-Delfs-Anderson
+        100    1.00   6.00 10-Sieg-Saul vs 12-Migliorini-Lycette
+  200          6.00   1.00 11-Ring-Abernethy vs 3-Miller-Pesce
+  200          6.00   1.00 16-Bender-James vs 2-Yuan-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  710          4.50   2.50 1-Carmichael-Sieg vs 8-Moore-Zaugg
+  500          0.00   7.00 4-Tipton-Hesson vs 15-Ford-Taylor
+  680          1.00   6.00 5-Campbell-Tafjord vs 14-Christensen-Carmichael
+  710          4.50   2.50 7-Cline-Hankins vs 6-Dierickx-Diamond
+  710          4.50   2.50 9-Saul-Sonkin vs 13-Delfs-Anderson
+  710          4.50   2.50 10-Sieg-Saul vs 12-Migliorini-Lycette
+  710          4.50   2.50 11-Ring-Abernethy vs 3-Miller-Pesce
+  710          4.50   2.50 16-Bender-James vs 2-Yuan-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   6.00 2-Yuan-Tu vs 9-Saul-Sonkin
+        100    3.50   3.50 5-Campbell-Tafjord vs 15-Ford-Taylor
+  130          6.00   1.00 6-Dierickx-Diamond vs 14-Christensen-Carmichael
+  100          5.00   2.00 8-Moore-Zaugg vs 7-Cline-Hankins
+        200    1.00   6.00 10-Sieg-Saul vs 1-Carmichael-Sieg
+        200    1.00   6.00 11-Ring-Abernethy vs 13-Delfs-Anderson
+  140          7.00   0.00 12-Migliorini-Lycette vs 4-Tipton-Hesson
+        100    3.50   3.50 16-Bender-James vs 3-Miller-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   3.50 2-Yuan-Tu vs 9-Saul-Sonkin
+         50    3.50   3.50 5-Campbell-Tafjord vs 15-Ford-Taylor
+        100    1.00   6.00 6-Dierickx-Diamond vs 14-Christensen-Carmichael
+  420          6.50   0.50 8-Moore-Zaugg vs 7-Cline-Hankins
+        150    0.00   7.00 10-Sieg-Saul vs 1-Carmichael-Sieg
+  420          6.50   0.50 11-Ring-Abernethy vs 13-Delfs-Anderson
+         50    3.50   3.50 12-Migliorini-Lycette vs 4-Tipton-Hesson
+         50    3.50   3.50 16-Bender-James vs 3-Miller-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   0.00 3-Miller-Pesce vs 10-Sieg-Saul
+        130    5.00   2.00 6-Dierickx-Diamond vs 15-Ford-Taylor
+        600    1.00   6.00 9-Saul-Sonkin vs 8-Moore-Zaugg
+        150    3.00   4.00 11-Ring-Abernethy vs 2-Yuan-Tu
+        630    0.00   7.00 12-Migliorini-Lycette vs 1-Carmichael-Sieg
+        130    5.00   2.00 13-Delfs-Anderson vs 5-Campbell-Tafjord
+        130    5.00   2.00 14-Christensen-Carmichael vs 7-Cline-Hankins
+        200    2.00   5.00 16-Bender-James vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.50   0.50 3-Miller-Pesce vs 10-Sieg-Saul
+        450    2.00   5.00 6-Dierickx-Diamond vs 15-Ford-Taylor
+        510    0.00   7.00 9-Saul-Sonkin vs 8-Moore-Zaugg
+        450    2.00   5.00 11-Ring-Abernethy vs 2-Yuan-Tu
+        420    4.50   2.50 12-Migliorini-Lycette vs 1-Carmichael-Sieg
+        420    4.50   2.50 13-Delfs-Anderson vs 5-Campbell-Tafjord
+        450    2.00   5.00 14-Christensen-Carmichael vs 7-Cline-Hankins
+   50          6.50   0.50 16-Bender-James vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   1.00 1-Carmichael-Sieg vs 6-Dierickx-Diamond
+  100          6.00   1.00 4-Tipton-Hesson vs 11-Ring-Abernethy
+        620    2.00   5.00 7-Cline-Hankins vs 15-Ford-Taylor
+  100          6.00   1.00 10-Sieg-Saul vs 9-Saul-Sonkin
+        620    2.00   5.00 12-Migliorini-Lycette vs 3-Miller-Pesce
+        140    4.00   3.00 13-Delfs-Anderson vs 2-Yuan-Tu
+        620    2.00   5.00 14-Christensen-Carmichael vs 8-Moore-Zaugg
+        790    0.00   7.00 16-Bender-James vs 5-Campbell-Tafjord
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.00   4.00 1-Carmichael-Sieg vs 6-Dierickx-Diamond
+        620    1.00   6.00 4-Tipton-Hesson vs 11-Ring-Abernethy
+        620    1.00   6.00 7-Cline-Hankins vs 15-Ford-Taylor
+  100          6.00   1.00 10-Sieg-Saul vs 9-Saul-Sonkin
+  100          6.00   1.00 12-Migliorini-Lycette vs 3-Miller-Pesce
+  100          6.00   1.00 13-Delfs-Anderson vs 2-Yuan-Tu
+        140    4.00   3.00 14-Christensen-Carmichael vs 8-Moore-Zaugg
+        620    1.00   6.00 16-Bender-James vs 5-Campbell-Tafjord
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   6.00 1-Carmichael-Sieg vs 3-Miller-Pesce
+   50          3.00   4.00 2-Yuan-Tu vs 7-Cline-Hankins
+   50          3.00   4.00 5-Campbell-Tafjord vs 12-Migliorini-Lycette
+   50          3.00   4.00 8-Moore-Zaugg vs 15-Ford-Taylor
+  150          7.00   0.00 11-Ring-Abernethy vs 10-Sieg-Saul
+  100          5.50   1.50 13-Delfs-Anderson vs 4-Tipton-Hesson
+        300    0.00   7.00 14-Christensen-Carmichael vs 9-Saul-Sonkin
+  100          5.50   1.50 16-Bender-James vs 6-Dierickx-Diamond
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00   6.00 1-Carmichael-Sieg vs 3-Miller-Pesce
+       1400    0.00   7.00 2-Yuan-Tu vs 7-Cline-Hankins
+        430    3.50   3.50 5-Campbell-Tafjord vs 12-Migliorini-Lycette
+        430    3.50   3.50 8-Moore-Zaugg vs 15-Ford-Taylor
+        420    6.00   1.00 11-Ring-Abernethy vs 10-Sieg-Saul
+        430    3.50   3.50 13-Delfs-Anderson vs 4-Tipton-Hesson
+   50          7.00   0.00 14-Christensen-Carmichael vs 9-Saul-Sonkin
+        430    3.50   3.50 16-Bender-James vs 6-Dierickx-Diamond
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   3.00 1-Carmichael-Sieg vs 5-Campbell-Tafjord
+  130          5.50   1.50 2-Yuan-Tu vs 4-Tipton-Hesson
+  130          5.50   1.50 3-Miller-Pesce vs 8-Moore-Zaugg
+        170    1.50   5.50 6-Dierickx-Diamond vs 13-Delfs-Anderson
+  500          7.00   0.00 9-Saul-Sonkin vs 15-Ford-Taylor
+        170    1.50   5.50 12-Migliorini-Lycette vs 11-Ring-Abernethy
+        100    3.00   4.00 14-Christensen-Carmichael vs 10-Sieg-Saul
+        620    0.00   7.00 16-Bender-James vs 7-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   4.50 1-Carmichael-Sieg vs 5-Campbell-Tafjord
+  100          4.00   3.00 2-Yuan-Tu vs 4-Tipton-Hesson
+  150          6.00   1.00 3-Miller-Pesce vs 8-Moore-Zaugg
+  150          6.00   1.00 6-Dierickx-Diamond vs 13-Delfs-Anderson
+         50    0.50   6.50 9-Saul-Sonkin vs 15-Ford-Taylor
+   50          2.50   4.50 12-Migliorini-Lycette vs 11-Ring-Abernethy
+  150          6.00   1.00 14-Christensen-Carmichael vs 10-Sieg-Saul
+         50    0.50   6.50 16-Bender-James vs 7-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          7.00   0.00 2-Yuan-Tu vs 6-Dierickx-Diamond
+  630          6.00   1.00 3-Miller-Pesce vs 5-Campbell-Tafjord
+  620          4.50   2.50 4-Tipton-Hesson vs 9-Saul-Sonkin
+  620          4.50   2.50 7-Cline-Hankins vs 1-Carmichael-Sieg
+        100    2.00   5.00 10-Sieg-Saul vs 15-Ford-Taylor
+  210          3.00   4.00 13-Delfs-Anderson vs 12-Migliorini-Lycette
+        200    1.00   6.00 14-Christensen-Carmichael vs 11-Ring-Abernethy
+        500    0.00   7.00 16-Bender-James vs 8-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   4.00 2-Yuan-Tu vs 6-Dierickx-Diamond
+  480          7.00   0.00 3-Miller-Pesce vs 5-Campbell-Tafjord
+  450          3.00   4.00 4-Tipton-Hesson vs 9-Saul-Sonkin
+  450          3.00   4.00 7-Cline-Hankins vs 1-Carmichael-Sieg
+  450          3.00   4.00 10-Sieg-Saul vs 15-Ford-Taylor
+  450          3.00   4.00 13-Delfs-Anderson vs 12-Migliorini-Lycette
+  450          3.00   4.00 14-Christensen-Carmichael vs 11-Ring-Abernethy
+  450          3.00   4.00 16-Bender-James vs 8-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   3.00 1-Carmichael-Sieg vs 13-Delfs-Anderson
+  100          1.00   6.00 3-Miller-Pesce vs 7-Cline-Hankins
+         50    0.00   7.00 4-Tipton-Hesson vs 6-Dierickx-Diamond
+  150          6.00   1.00 5-Campbell-Tafjord vs 10-Sieg-Saul
+  110          2.00   5.00 8-Moore-Zaugg vs 2-Yuan-Tu
+  140          4.00   3.00 14-Christensen-Carmichael vs 12-Migliorini-Lycette
+  140          4.00   3.00 15-Ford-Taylor vs 11-Ring-Abernethy
+  500          7.00   0.00 16-Bender-James vs 9-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.00   7.00 1-Carmichael-Sieg vs 13-Delfs-Anderson
+  100          5.00   2.00 3-Miller-Pesce vs 7-Cline-Hankins
+        400    1.00   6.00 4-Tipton-Hesson vs 6-Dierickx-Diamond
+  100          5.00   2.00 5-Campbell-Tafjord vs 10-Sieg-Saul
+  100          5.00   2.00 8-Moore-Zaugg vs 2-Yuan-Tu
+   50          2.50   4.50 14-Christensen-Carmichael vs 12-Migliorini-Lycette
+  150          7.00   0.00 15-Ford-Taylor vs 11-Ring-Abernethy
+   50          2.50   4.50 16-Bender-James vs 9-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   3.00 2-Yuan-Tu vs 1-Carmichael-Sieg
+         50    4.00   3.00 4-Tipton-Hesson vs 8-Moore-Zaugg
+        130    0.00   7.00 5-Campbell-Tafjord vs 7-Cline-Hankins
+        100    1.50   5.50 6-Dierickx-Diamond vs 11-Ring-Abernethy
+  100          6.00   1.00 9-Saul-Sonkin vs 3-Miller-Pesce
+         50    4.00   3.00 14-Christensen-Carmichael vs 13-Delfs-Anderson
+  140          7.00   0.00 15-Ford-Taylor vs 12-Migliorini-Lycette
+        100    1.50   5.50 16-Bender-James vs 10-Sieg-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          4.00   3.00 2-Yuan-Tu vs 1-Carmichael-Sieg
+  650          7.00   0.00 4-Tipton-Hesson vs 8-Moore-Zaugg
+  620          6.00   1.00 5-Campbell-Tafjord vs 7-Cline-Hankins
+        200    0.00   7.00 6-Dierickx-Diamond vs 11-Ring-Abernethy
+  500          4.00   3.00 9-Saul-Sonkin vs 3-Miller-Pesce
+  300          2.00   5.00 14-Christensen-Carmichael vs 13-Delfs-Anderson
+        100    1.00   6.00 15-Ford-Taylor vs 12-Migliorini-Lycette
+  500          4.00   3.00 16-Bender-James vs 10-Sieg-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   2.00 1-Carmichael-Sieg vs 14-Christensen-Carmichael
+  170          1.00   6.00 3-Miller-Pesce vs 2-Yuan-Tu
+  620          5.00   2.00 5-Campbell-Tafjord vs 9-Saul-Sonkin
+  300          3.00   4.00 6-Dierickx-Diamond vs 8-Moore-Zaugg
+  650          7.00   0.00 7-Cline-Hankins vs 12-Migliorini-Lycette
+  620          5.00   2.00 10-Sieg-Saul vs 4-Tipton-Hesson
+  170          1.00   6.00 15-Ford-Taylor vs 13-Delfs-Anderson
+  170          1.00   6.00 16-Bender-James vs 11-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1370    0.50   6.50 1-Carmichael-Sieg vs 14-Christensen-Carmichael
+        680    5.50   1.50 3-Miller-Pesce vs 2-Yuan-Tu
+        660    7.00   0.00 5-Campbell-Tafjord vs 9-Saul-Sonkin
+        720    2.50   4.50 6-Dierickx-Diamond vs 8-Moore-Zaugg
+        690    4.00   3.00 7-Cline-Hankins vs 12-Migliorini-Lycette
+        720    2.50   4.50 10-Sieg-Saul vs 4-Tipton-Hesson
+        680    5.50   1.50 15-Ford-Taylor vs 13-Delfs-Anderson
+       1370    0.50   6.50 16-Bender-James vs 11-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    5.00   2.00 2-Yuan-Tu vs 14-Christensen-Carmichael
+        620    1.00   6.00 4-Tipton-Hesson vs 3-Miller-Pesce
+        140    5.00   2.00 6-Dierickx-Diamond vs 10-Sieg-Saul
+        620    1.00   6.00 7-Cline-Hankins vs 9-Saul-Sonkin
+  100          7.00   0.00 8-Moore-Zaugg vs 13-Delfs-Anderson
+        140    5.00   2.00 11-Ring-Abernethy vs 5-Campbell-Tafjord
+        620    1.00   6.00 15-Ford-Taylor vs 1-Carmichael-Sieg
+        170    3.00   4.00 16-Bender-James vs 12-Migliorini-Lycette
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          6.50   0.50 2-Yuan-Tu vs 14-Christensen-Carmichael
+  300          3.50   3.50 4-Tipton-Hesson vs 3-Miller-Pesce
+  150          1.50   5.50 6-Dierickx-Diamond vs 10-Sieg-Saul
+  400          5.00   2.00 7-Cline-Hankins vs 9-Saul-Sonkin
+  150          1.50   5.50 8-Moore-Zaugg vs 13-Delfs-Anderson
+  500          6.50   0.50 11-Ring-Abernethy vs 5-Campbell-Tafjord
+  300          3.50   3.50 15-Ford-Taylor vs 1-Carmichael-Sieg
+        100    0.00   7.00 16-Bender-James vs 12-Migliorini-Lycette
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   5.00 3-Miller-Pesce vs 14-Christensen-Carmichael
+        170    1.00   6.00 5-Campbell-Tafjord vs 4-Tipton-Hesson
+         50    3.00   4.00 7-Cline-Hankins vs 11-Ring-Abernethy
+  420          5.00   2.00 8-Moore-Zaugg vs 10-Sieg-Saul
+  140          4.00   3.00 9-Saul-Sonkin vs 1-Carmichael-Sieg
+        870    0.00   7.00 12-Migliorini-Lycette vs 6-Dierickx-Diamond
+  450          6.00   1.00 15-Ford-Taylor vs 2-Yuan-Tu
+  550          7.00   0.00 16-Bender-James vs 13-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   4.50 3-Miller-Pesce vs 14-Christensen-Carmichael
+        120    1.00   6.00 5-Campbell-Tafjord vs 4-Tipton-Hesson
+         90    4.50   2.50 7-Cline-Hankins vs 11-Ring-Abernethy
+  100          6.50   0.50 8-Moore-Zaugg vs 10-Sieg-Saul
+         90    4.50   2.50 9-Saul-Sonkin vs 1-Carmichael-Sieg
+  100          6.50   0.50 12-Migliorini-Lycette vs 6-Dierickx-Diamond
+        100    2.50   4.50 15-Ford-Taylor vs 2-Yuan-Tu
+        200    0.00   7.00 16-Bender-James vs 13-Delfs-Anderson
+----------------------------------------------------------------------
