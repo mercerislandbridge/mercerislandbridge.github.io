@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>June 12, 2018      |CLUB NO.>158048    | 06/12/2018 22:23
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=1                       ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Jack Yuan              Rex Tu                   B   Q   Q        .     1     .   |   4     1     .     97.50  51.59  0.99Red 
+                                                                                                                        0.98Blk 
+ 2 Shawn Abernethy        Brian Zaugg              A   Q            .     .     .   |   3     .     .     99.00  52.38  0.45Red 
+                                                                                                                        0.44Blk 
+
+
+ 4 Kevin Cline            David Hankins            B                .     .     .   |   .     .     .     91.00  48.15          
+
+ 5 David Roselle          Stanford Christie        A   Q            1     .     .   |   1     .     .    109.50  57.94  1.78Red 
+                                                                                                                        1.78Blk 
+ 6 Jeannie Falls          Bruce Baker-Harvey       C           Q    .     .     .   |   .     .     .     64.00  33.86          
+
+ 7 William Campbell       Oyvind Tafjord           B       Q        .     3     .   |   .     2     .     93.50  49.47  0.56Red 
+                                                                                                                        0.55Blk 
+ 8 Ann Romeo              Helen Abbott             A   Q            4     .     .   |   2     .     .    108.50  57.41  0.75Red 
+                                                                                                                        0.75Blk 
+ 9 Leah Sieg              Elizabeth Saul           B       Q        .     4     .   |   .     .     .     93.00  49.21  0.42Red 
+                                                                                                                        0.41Blk 
+
+                                          Totals                                                         756.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>June 12, 2018      |CLUB NO.>158048    | 06/12/2018 22:23
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=4/C=0                       ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Dave Setterholm        Gary Haldane             A   Q            5     .     .   |   3     .     .    102.94  54.47  0.57Red 
+                                                                                                                        0.56Blk 
+ 2 Mike Christensen       Mike Ring                A                .     .     .   |   .     .     .     76.50  40.48          
+
+ 3 John Uchida            Brad Rind                B                .     .     .   |   .     .     .     87.75  46.43          
+
+ 4 Nick Tipton            Galen Hesson             A                .     .     .   |   .     .     .     90.56  47.92          
+
+ 5 Christopher Jarvis     Itea Goldstein           B                .     .     .   |   .     .     .     88.31  46.72          
+
+ 6 Pete Cowles            Clay Laughary            B   Q   Q        .     2     .   |   4     1     .     93.94  49.70  0.74Red 
+                                                                                                                        0.74Blk 
+ 7 Daniel Poore           Jeffrey Ford             A   Q            3     .     .   |   2     .     .    108.56  57.44  1.00Red 
+                                                                                                                        1.00Blk 
+ 8 Eric Sieg              Kim Eng                  A   Q            2     .     .   |   1     .     .    109.13  57.74  1.34Red 
+                                                                                                                        1.33Blk 
+ 9 Muhunthan Sivapragasam Peiyush Jain             B   Q   Q        .     .     .   |   .     2     .     92.81  49.11  0.32Red 
+                                                                                                                        0.32Blk 
+
+                                          Totals                                                         850.50       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   2.00 1-Yuan-Tu vs 1-Setterholm-Haldane
+  420          6.50   0.50 2-Abernethy-Zaugg vs 3-Uchida-Rind
+  140          2.50   4.50 4-Cline-Hankins vs 7-Poore-Ford
+  420          6.50   0.50 5-Roselle-Christie vs 9-Sivapragasam-Jain
+        450    0.00   7.00 6-Falls-Baker-Harvey vs 2-Christensen-Ring
+  140          2.50   4.50 7-Campbell-Tafjord vs 4-Tipton-Hesson
+  170          4.00   3.00 8-Romeo-Abbott vs 6-Cowles-Laughary
+   50          1.00   6.00 9-Sieg-Saul vs 8-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   4.00 1-Yuan-Tu vs 1-Setterholm-Haldane
+   50          7.00   0.00 2-Abernethy-Zaugg vs 3-Uchida-Rind
+        140    3.00   4.00 4-Cline-Hankins vs 7-Poore-Ford
+        400    0.00   7.00 5-Roselle-Christie vs 9-Sivapragasam-Jain
+        100    6.00   1.00 6-Falls-Baker-Harvey vs 2-Christensen-Ring
+        140    3.00   4.00 7-Campbell-Tafjord vs 4-Tipton-Hesson
+        140    3.00   4.00 8-Romeo-Abbott vs 6-Cowles-Laughary
+        140    3.00   4.00 9-Sieg-Saul vs 8-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   4.00 1-Yuan-Tu vs 1-Setterholm-Haldane
+        100    5.00   2.00 2-Abernethy-Zaugg vs 3-Uchida-Rind
+   90          6.00   1.00 4-Cline-Hankins vs 7-Poore-Ford
+        210    0.00   7.00 5-Roselle-Christie vs 9-Sivapragasam-Jain
+        170    3.00   4.00 6-Falls-Baker-Harvey vs 2-Christensen-Ring
+  100          7.00   0.00 7-Campbell-Tafjord vs 4-Tipton-Hesson
+        180    1.00   6.00 8-Romeo-Abbott vs 6-Cowles-Laughary
+        170    3.00   4.00 9-Sieg-Saul vs 8-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   6.00 1-Yuan-Tu vs 9-Sivapragasam-Jain
+  620          5.00   2.00 2-Abernethy-Zaugg vs 2-Christensen-Ring
+  620          5.00   2.00 4-Cline-Hankins vs 6-Cowles-Laughary
+  620          5.00   2.00 5-Roselle-Christie vs 8-Sieg-Eng
+        100    1.00   6.00 6-Falls-Baker-Harvey vs 1-Setterholm-Haldane
+        100    1.00   6.00 7-Campbell-Tafjord vs 3-Uchida-Rind
+  620          5.00   2.00 8-Romeo-Abbott vs 5-Jarvis-Goldstein
+  620          5.00   2.00 9-Sieg-Saul vs 7-Poore-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          6.50   0.50 1-Yuan-Tu vs 9-Sivapragasam-Jain
+        100    1.00   6.00 2-Abernethy-Zaugg vs 2-Christensen-Ring
+        100    1.00   6.00 4-Cline-Hankins vs 6-Cowles-Laughary
+  600          4.50   2.50 5-Roselle-Christie vs 8-Sieg-Eng
+        100    1.00   6.00 6-Falls-Baker-Harvey vs 1-Setterholm-Haldane
+  600          4.50   2.50 7-Campbell-Tafjord vs 3-Uchida-Rind
+  630          6.50   0.50 8-Romeo-Abbott vs 5-Jarvis-Goldstein
+  100          3.00   4.00 9-Sieg-Saul vs 7-Poore-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    2.50   4.50 1-Yuan-Tu vs 9-Sivapragasam-Jain
+        500    7.00   0.00 2-Abernethy-Zaugg vs 2-Christensen-Ring
+       1430    2.50   4.50 4-Cline-Hankins vs 6-Cowles-Laughary
+        650    6.00   1.00 5-Roselle-Christie vs 8-Sieg-Eng
+       1660    0.00   7.00 6-Falls-Baker-Harvey vs 1-Setterholm-Haldane
+       1430    2.50   4.50 7-Campbell-Tafjord vs 3-Uchida-Rind
+        680    5.00   2.00 8-Romeo-Abbott vs 5-Jarvis-Goldstein
+       1430    2.50   4.50 9-Sieg-Saul vs 7-Poore-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   1.00 1-Yuan-Tu vs 8-Sieg-Eng
+        100    0.00   7.00 2-Abernethy-Zaugg vs 1-Setterholm-Haldane
+  150          2.00   5.00 4-Cline-Hankins vs 5-Jarvis-Goldstein
+  180          4.00   3.00 5-Roselle-Christie vs 7-Poore-Ford
+  150          2.00   5.00 6-Falls-Baker-Harvey vs 9-Sivapragasam-Jain
+  200          6.00   1.00 7-Campbell-Tafjord vs 2-Christensen-Ring
+  150          2.00   5.00 8-Romeo-Abbott vs 4-Tipton-Hesson
+  200          6.00   1.00 9-Sieg-Saul vs 6-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   5.50 1-Yuan-Tu vs 8-Sieg-Eng
+   50          1.50   5.50 2-Abernethy-Zaugg vs 1-Setterholm-Haldane
+   50          1.50   5.50 4-Cline-Hankins vs 5-Jarvis-Goldstein
+  100          4.00   3.00 5-Roselle-Christie vs 7-Poore-Ford
+   50          1.50   5.50 6-Falls-Baker-Harvey vs 9-Sivapragasam-Jain
+  130          5.50   1.50 7-Campbell-Tafjord vs 2-Christensen-Ring
+  130          5.50   1.50 8-Romeo-Abbott vs 4-Tipton-Hesson
+  150          7.00   0.00 9-Sieg-Saul vs 6-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   3.50 1-Yuan-Tu vs 8-Sieg-Eng
+  420          3.50   3.50 2-Abernethy-Zaugg vs 1-Setterholm-Haldane
+  420          3.50   3.50 4-Cline-Hankins vs 5-Jarvis-Goldstein
+  400          1.00   6.00 5-Roselle-Christie vs 7-Poore-Ford
+  150          0.00   7.00 6-Falls-Baker-Harvey vs 9-Sivapragasam-Jain
+  440          6.50   0.50 7-Campbell-Tafjord vs 2-Christensen-Ring
+  440          6.50   0.50 8-Romeo-Abbott vs 4-Tipton-Hesson
+  420          3.50   3.50 9-Sieg-Saul vs 6-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   5.00 1-Yuan-Tu vs 7-Poore-Ford
+        930    0.00   7.00 2-Abernethy-Zaugg vs 9-Sivapragasam-Jain
+        670    1.00   6.00 4-Cline-Hankins vs 4-Tipton-Hesson
+  200          6.50   0.50 5-Roselle-Christie vs 6-Cowles-Laughary
+  200          6.50   0.50 6-Falls-Baker-Harvey vs 8-Sieg-Eng
+  100          5.00   2.00 7-Campbell-Tafjord vs 1-Setterholm-Haldane
+        170    3.00   4.00 8-Romeo-Abbott vs 3-Uchida-Rind
+        140    4.00   3.00 9-Sieg-Saul vs 5-Jarvis-Goldstein
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.50   0.50 1-Yuan-Tu vs 7-Poore-Ford
+   50          6.50   0.50 2-Abernethy-Zaugg vs 9-Sivapragasam-Jain
+        140    2.00   5.00 4-Cline-Hankins vs 4-Tipton-Hesson
+        140    2.00   5.00 5-Roselle-Christie vs 6-Cowles-Laughary
+        170    0.00   7.00 6-Falls-Baker-Harvey vs 8-Sieg-Eng
+        120    4.50   2.50 7-Campbell-Tafjord vs 1-Setterholm-Haldane
+        120    4.50   2.50 8-Romeo-Abbott vs 3-Uchida-Rind
+        140    2.00   5.00 9-Sieg-Saul vs 5-Jarvis-Goldstein
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    5.00   2.00 1-Yuan-Tu vs 7-Poore-Ford
+   50          7.00   0.00 2-Abernethy-Zaugg vs 9-Sivapragasam-Jain
+        450    1.50   5.50 4-Cline-Hankins vs 4-Tipton-Hesson
+        420    5.00   2.00 5-Roselle-Christie vs 6-Cowles-Laughary
+        450    1.50   5.50 6-Falls-Baker-Harvey vs 8-Sieg-Eng
+        450    1.50   5.50 7-Campbell-Tafjord vs 1-Setterholm-Haldane
+        420    5.00   2.00 8-Romeo-Abbott vs 3-Uchida-Rind
+        450    1.50   5.50 9-Sieg-Saul vs 5-Jarvis-Goldstein
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   3.00 1-Yuan-Tu vs 6-Cowles-Laughary
+        800    0.00   7.00 2-Abernethy-Zaugg vs 8-Sieg-Eng
+  200          6.50   0.50 4-Cline-Hankins vs 3-Uchida-Rind
+        400    1.00   6.00 5-Roselle-Christie vs 5-Jarvis-Goldstein
+        120    2.00   5.00 6-Falls-Baker-Harvey vs 7-Poore-Ford
+  200          6.50   0.50 7-Campbell-Tafjord vs 9-Sivapragasam-Jain
+  100          4.00   3.00 8-Romeo-Abbott vs 2-Christensen-Ring
+  100          4.00   3.00 9-Sieg-Saul vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   7.00 1-Yuan-Tu vs 6-Cowles-Laughary
+        460    1.50   5.50 2-Abernethy-Zaugg vs 8-Sieg-Eng
+        400    4.00   3.00 4-Cline-Hankins vs 3-Uchida-Rind
+        400    4.00   3.00 5-Roselle-Christie vs 5-Jarvis-Goldstein
+        460    1.50   5.50 6-Falls-Baker-Harvey vs 7-Poore-Ford
+        400    4.00   3.00 7-Campbell-Tafjord vs 9-Sivapragasam-Jain
+        300    6.00   1.00 8-Romeo-Abbott vs 2-Christensen-Ring
+        100    7.00   0.00 9-Sieg-Saul vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          6.00   1.00 1-Yuan-Tu vs 6-Cowles-Laughary
+        100    2.50   4.50 2-Abernethy-Zaugg vs 8-Sieg-Eng
+        200    0.00   7.00 4-Cline-Hankins vs 3-Uchida-Rind
+  600          7.00   0.00 5-Roselle-Christie vs 5-Jarvis-Goldstein
+        100    2.50   4.50 6-Falls-Baker-Harvey vs 7-Poore-Ford
+        100    2.50   4.50 7-Campbell-Tafjord vs 9-Sivapragasam-Jain
+  120          5.00   2.00 8-Romeo-Abbott vs 2-Christensen-Ring
+        100    2.50   4.50 9-Sieg-Saul vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.50   3.50 1-Yuan-Tu vs 5-Jarvis-Goldstein
+        650    0.00   7.00 2-Abernethy-Zaugg vs 7-Poore-Ford
+  100          6.50   0.50 4-Cline-Hankins vs 2-Christensen-Ring
+        140    3.50   3.50 5-Roselle-Christie vs 4-Tipton-Hesson
+  100          6.50   0.50 6-Falls-Baker-Harvey vs 6-Cowles-Laughary
+        150    2.00   5.00 7-Campbell-Tafjord vs 8-Sieg-Eng
+        110    5.00   2.00 8-Romeo-Abbott vs 1-Setterholm-Haldane
+        620    1.00   6.00 9-Sieg-Saul vs 3-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.00   0.00 1-Yuan-Tu vs 5-Jarvis-Goldstein
+        100    2.00   5.00 2-Abernethy-Zaugg vs 7-Poore-Ford
+         50    3.00   4.00 4-Cline-Hankins vs 2-Christensen-Ring
+  130          6.00   1.00 5-Roselle-Christie vs 4-Tipton-Hesson
+        110    0.50   6.50 6-Falls-Baker-Harvey vs 6-Cowles-Laughary
+        110    0.50   6.50 7-Campbell-Tafjord vs 8-Sieg-Eng
+  110          5.00   2.00 8-Romeo-Abbott vs 1-Setterholm-Haldane
+   50          4.00   3.00 9-Sieg-Saul vs 3-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.50   6.50 1-Yuan-Tu vs 5-Jarvis-Goldstein
+  600          6.50   0.50 2-Abernethy-Zaugg vs 7-Poore-Ford
+        100    4.00   3.00 4-Cline-Hankins vs 2-Christensen-Ring
+        200    2.00   5.00 5-Roselle-Christie vs 4-Tipton-Hesson
+        100    4.00   3.00 6-Falls-Baker-Harvey vs 6-Cowles-Laughary
+        100    4.00   3.00 7-Campbell-Tafjord vs 8-Sieg-Eng
+        300    0.50   6.50 8-Romeo-Abbott vs 1-Setterholm-Haldane
+  600          6.50   0.50 9-Sieg-Saul vs 3-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.50   6.50 1-Yuan-Tu vs 4-Tipton-Hesson
+        630    2.50   4.50 2-Abernethy-Zaugg vs 6-Cowles-Laughary
+  200          7.00   0.00 4-Cline-Hankins vs 1-Setterholm-Haldane
+        130    6.00   1.00 5-Roselle-Christie vs 3-Uchida-Rind
+        600    4.50   2.50 6-Falls-Baker-Harvey vs 5-Jarvis-Goldstein
+        660    0.50   6.50 7-Campbell-Tafjord vs 7-Poore-Ford
+        600    4.50   2.50 8-Romeo-Abbott vs 9-Sivapragasam-Jain
+        630    2.50   4.50 9-Sieg-Saul vs 2-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   3.00 1-Yuan-Tu vs 4-Tipton-Hesson
+  650          4.00   3.00 2-Abernethy-Zaugg vs 6-Cowles-Laughary
+  650          4.00   3.00 4-Cline-Hankins vs 1-Setterholm-Haldane
+  650          4.00   3.00 5-Roselle-Christie vs 3-Uchida-Rind
+  200          0.00   7.00 6-Falls-Baker-Harvey vs 5-Jarvis-Goldstein
+  650          4.00   3.00 7-Campbell-Tafjord vs 7-Poore-Ford
+  650          4.00   3.00 8-Romeo-Abbott vs 9-Sivapragasam-Jain
+  650          4.00   3.00 9-Sieg-Saul vs 2-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   4.00 1-Yuan-Tu vs 4-Tipton-Hesson
+   50          5.00   2.00 2-Abernethy-Zaugg vs 6-Cowles-Laughary
+        110    4.00   3.00 4-Cline-Hankins vs 1-Setterholm-Haldane
+        150    1.00   6.00 5-Roselle-Christie vs 3-Uchida-Rind
+  100          7.00   0.00 6-Falls-Baker-Harvey vs 5-Jarvis-Goldstein
+        150    1.00   6.00 7-Campbell-Tafjord vs 7-Poore-Ford
+   90          6.00   1.00 8-Romeo-Abbott vs 9-Sivapragasam-Jain
+        150    1.00   6.00 9-Sieg-Saul vs 2-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          7.00   0.00 1-Yuan-Tu vs 3-Uchida-Rind
+         50    0.00   7.00 2-Abernethy-Zaugg vs 5-Jarvis-Goldstein
+  450          3.50   3.50 4-Cline-Hankins vs 9-Sivapragasam-Jain
+  480          6.00   1.00 5-Roselle-Christie vs 2-Christensen-Ring
+  450          3.50   3.50 6-Falls-Baker-Harvey vs 4-Tipton-Hesson
+  450          3.50   3.50 7-Campbell-Tafjord vs 6-Cowles-Laughary
+  420          1.00   6.00 8-Romeo-Abbott vs 8-Sieg-Eng
+  450          3.50   3.50 9-Sieg-Saul vs 1-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   5.50 1-Yuan-Tu vs 3-Uchida-Rind
+  130          5.50   1.50 2-Abernethy-Zaugg vs 5-Jarvis-Goldstein
+        100    1.50   5.50 4-Cline-Hankins vs 9-Sivapragasam-Jain
+  200          7.00   0.00 5-Roselle-Christie vs 2-Christensen-Ring
+  100          4.00   3.00 6-Falls-Baker-Harvey vs 4-Tipton-Hesson
+        110    0.00   7.00 7-Campbell-Tafjord vs 6-Cowles-Laughary
+  130          5.50   1.50 8-Romeo-Abbott vs 8-Sieg-Eng
+   90          3.00   4.00 9-Sieg-Saul vs 1-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          6.00   1.00 1-Yuan-Tu vs 3-Uchida-Rind
+  180          5.00   2.00 2-Abernethy-Zaugg vs 5-Jarvis-Goldstein
+  800          7.00   0.00 4-Cline-Hankins vs 9-Sivapragasam-Jain
+         50    2.00   5.00 5-Roselle-Christie vs 2-Christensen-Ring
+         50    2.00   5.00 6-Falls-Baker-Harvey vs 4-Tipton-Hesson
+         50    2.00   5.00 7-Campbell-Tafjord vs 6-Cowles-Laughary
+  150          4.00   3.00 8-Romeo-Abbott vs 8-Sieg-Eng
+        150    0.00   7.00 9-Sieg-Saul vs 1-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   6.00 1-Yuan-Tu vs 2-Christensen-Ring
+  140          5.50   1.50 2-Abernethy-Zaugg vs 4-Tipton-Hesson
+        100    0.00   7.00 4-Cline-Hankins vs 8-Sieg-Eng
+  140          5.50   1.50 5-Roselle-Christie vs 1-Setterholm-Haldane
+  110          2.50   4.50 6-Falls-Baker-Harvey vs 3-Uchida-Rind
+  140          5.50   1.50 7-Campbell-Tafjord vs 5-Jarvis-Goldstein
+  110          2.50   4.50 8-Romeo-Abbott vs 7-Poore-Ford
+  140          5.50   1.50 9-Sieg-Saul vs 9-Sivapragasam-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   1.00 1-Yuan-Tu vs 2-Christensen-Ring
+        150    3.00   4.00 2-Abernethy-Zaugg vs 4-Tipton-Hesson
+        180    1.50   5.50 4-Cline-Hankins vs 8-Sieg-Eng
+  100          5.00   2.00 5-Roselle-Christie vs 1-Setterholm-Haldane
+        200    0.00   7.00 6-Falls-Baker-Harvey vs 3-Uchida-Rind
+        130    4.00   3.00 7-Campbell-Tafjord vs 5-Jarvis-Goldstein
+        180    1.50   5.50 8-Romeo-Abbott vs 7-Poore-Ford
+  200          7.00   0.00 9-Sieg-Saul vs 9-Sivapragasam-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   5.00 1-Yuan-Tu vs 2-Christensen-Ring
+  420          6.00   1.00 2-Abernethy-Zaugg vs 4-Tipton-Hesson
+  630          7.00   0.00 4-Cline-Hankins vs 8-Sieg-Eng
+  140          5.00   2.00 5-Roselle-Christie vs 1-Setterholm-Haldane
+        300    1.00   6.00 6-Falls-Baker-Harvey vs 3-Uchida-Rind
+  100          4.00   3.00 7-Campbell-Tafjord vs 5-Jarvis-Goldstein
+         50    3.00   4.00 8-Romeo-Abbott vs 7-Poore-Ford
+        500    0.00   7.00 9-Sieg-Saul vs 9-Sivapragasam-Jain
+----------------------------------------------------------------------
