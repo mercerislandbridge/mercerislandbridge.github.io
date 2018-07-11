@@ -1,0 +1,505 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>July 10, 2018      |SANCTION>L807446B  | 07/10/2018 22:31
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Unit Championship            |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=6/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Eric Sieg                A   3     .     .   |   1     .     .    144.56  59.49  1.72(OA)
+
+ 2 Jeffrey Ford           David Taylor             A   6     .     .   |   3     .     .    132.75  54.63  0.77(SA)
+
+ 3 Pete Cowles            Clay Laughary            C   .     .     2   |   .     .     .    113.00  46.50  0.75(OC)
+
+ 4 Douglas Kuschner       Dave Setterholm          A   .     .     .   |   .     .     .    126.00  51.85          
+
+ 5 Tracey Guice           Sofia Maymudes           C   .     .     .   |   .     .     .    105.19  43.29          
+
+ 6 Albert Bender          Andrea James             A   .     .     .   |   .     .     .    104.06  42.82          
+
+ 7 Leah Sieg              Elizabeth Saul           B   .     .     .   |   .     .     .    103.50  42.59          
+
+ 8 Brian Zaugg            Shawn Abernethy          B   .     4     .   |   .     2     .    120.38  49.54  0.69(OB)
+
+ 9 Harold Huffaker        Kevin Castner            B   .     2     .   |   4     1     .    131.63  54.17  1.22(OB)
+
+10 Ray Miller             Daniel Poore             A   4     .     .   |   2     .     .    138.38  56.95  1.29(OA)
+
+11 Jack Yuan              Rex Tu                   C   .     .     1   |   .     .     1    117.56  48.38  1.00(OC)
+
+
+                                          Totals                                           1337.01       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>July 10, 2018      |SANCTION>L807446B  | 07/10/2018 22:31
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Unit Championship            |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=5/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Ann Romeo              Marilyn Breeze           A   .     .     .   |   4     .     .    124.50  51.23  0.54(SA)
+
+ 2 Joel Fuhrman           David Binney             A   .     .     .   |   .     .     .    111.00  45.68          
+
+ 3 Bruce Baker-Harvey     Jeannie Falls            C   .     .     .   |   .     .     1    109.00  44.86  0.50(SC)
+
+ 4 Stanford Christie      Ken Christiansen         A   1     .     .   |   1     .     .    166.50  68.52  3.06(OA)
+
+
+
+ 6 Paul Schwaighart       Sue Anderson             A   .     .     .   |   .     .     .    113.50  46.71          
+
+ 7 Moises Saul            Irving Sonkin            C   .     .     .   |   .     .     .     93.50  38.48          
+
+ 8 David Wright           Bryan Delfs              B   .     3     .   |   .     2     .    121.00  49.79  0.92(OB)
+
+ 9 Christopher Jarvis     Chris Pesce              B   5     1     .   |   3     1     .    135.50  55.76  1.63(OB)
+
+10 Mike Christensen       Mike Ring                A   2     .     .   |   2     .     .    146.50  60.29  2.30(OA)
+
+11 Rui Gong               Arthur Gong              C   .     .     .   |   .     .     .     94.00  38.68          
+
+
+                                          Totals                                           1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          8.00   1.00 1-Eng-Sieg vs 1-Romeo-Breeze
+  300          9.00   0.00 3-Cowles-Laughary vs 7-Saul-Sonkin
+        100    2.00   7.00 4-Kuschner-Setterholm vs 9-Jarvis-Pesce
+         50    4.00   5.00 5-Guice-Maymudes vs 11-Gong-Gong
+        300    0.50   8.50 6-Bender-James vs 2-Fuhrman-Binney
+        300    0.50   8.50 7-Sieg-Saul vs 4-Christie-Christiansen
+         50    4.00   5.00 8-Zaugg-Abernethy vs 6-Schwaighart-Anderson
+   50          6.00   3.00 9-Huffaker-Castner vs 8-Wright-Delfs
+  100          7.00   2.00 10-Miller-Poore vs 10-Christensen-Ring
+         50    4.00   5.00 11-Yuan-Tu vs 3-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.00   7.00 1-Eng-Sieg vs 1-Romeo-Breeze
+        150    0.50   8.50 3-Cowles-Laughary vs 7-Saul-Sonkin
+  100          8.50   0.50 4-Kuschner-Setterholm vs 9-Jarvis-Pesce
+  100          8.50   0.50 5-Guice-Maymudes vs 11-Gong-Gong
+        150    0.50   8.50 6-Bender-James vs 2-Fuhrman-Binney
+        110    3.50   5.50 7-Sieg-Saul vs 4-Christie-Christiansen
+         90    6.50   2.50 8-Zaugg-Abernethy vs 6-Schwaighart-Anderson
+        110    3.50   5.50 9-Huffaker-Castner vs 8-Wright-Delfs
+        100    5.00   4.00 10-Miller-Poore vs 10-Christensen-Ring
+         90    6.50   2.50 11-Yuan-Tu vs 3-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   6.00 1-Eng-Sieg vs 1-Romeo-Breeze
+  170          6.00   3.00 3-Cowles-Laughary vs 7-Saul-Sonkin
+  140          3.00   6.00 4-Kuschner-Setterholm vs 9-Jarvis-Pesce
+         50    1.00   8.00 5-Guice-Maymudes vs 11-Gong-Gong
+  420          8.00   1.00 6-Bender-James vs 2-Fuhrman-Binney
+        100    0.00   9.00 7-Sieg-Saul vs 4-Christie-Christiansen
+  170          6.00   3.00 8-Zaugg-Abernethy vs 6-Schwaighart-Anderson
+  140          3.00   6.00 9-Huffaker-Castner vs 8-Wright-Delfs
+  630          9.00   0.00 10-Miller-Poore vs 10-Christensen-Ring
+  170          6.00   3.00 11-Yuan-Tu vs 3-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.50   1.50 1-Eng-Sieg vs 11-Gong-Gong
+  150          7.50   1.50 2-Ford-Taylor vs 2-Fuhrman-Binney
+  150          7.50   1.50 3-Cowles-Laughary vs 6-Schwaighart-Anderson
+  120          4.00   5.00 4-Kuschner-Setterholm vs 8-Wright-Delfs
+        670    0.00   9.00 5-Guice-Maymudes vs 10-Christensen-Ring
+  120          4.00   5.00 6-Bender-James vs 1-Romeo-Breeze
+  120          4.00   5.00 7-Sieg-Saul vs 3-Baker-Harvey-Falls
+  150          7.50   1.50 9-Huffaker-Castner vs 7-Saul-Sonkin
+        100    2.00   7.00 10-Miller-Poore vs 9-Jarvis-Pesce
+        200    1.00   8.00 11-Yuan-Tu vs 4-Christie-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          8.00   1.00 1-Eng-Sieg vs 11-Gong-Gong
+        130    5.00   4.00 2-Ford-Taylor vs 2-Fuhrman-Binney
+        180    2.50   6.50 3-Cowles-Laughary vs 6-Schwaighart-Anderson
+        110    6.50   2.50 4-Kuschner-Setterholm vs 8-Wright-Delfs
+        400    0.00   9.00 5-Guice-Maymudes vs 10-Christensen-Ring
+        150    4.00   5.00 6-Bender-James vs 1-Romeo-Breeze
+        200    1.00   8.00 7-Sieg-Saul vs 3-Baker-Harvey-Falls
+  670          9.00   0.00 9-Huffaker-Castner vs 7-Saul-Sonkin
+        110    6.50   2.50 10-Miller-Poore vs 9-Jarvis-Pesce
+        180    2.50   6.50 11-Yuan-Tu vs 4-Christie-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    6.50   2.50 1-Eng-Sieg vs 11-Gong-Gong
+        620    4.50   4.50 2-Ford-Taylor vs 2-Fuhrman-Binney
+        620    4.50   4.50 3-Cowles-Laughary vs 6-Schwaighart-Anderson
+  200          8.50   0.50 4-Kuschner-Setterholm vs 8-Wright-Delfs
+       1370    1.50   7.50 5-Guice-Maymudes vs 10-Christensen-Ring
+  200          8.50   0.50 6-Bender-James vs 1-Romeo-Breeze
+        600    6.50   2.50 7-Sieg-Saul vs 3-Baker-Harvey-Falls
+        630    3.00   6.00 9-Huffaker-Castner vs 7-Saul-Sonkin
+       1370    1.50   7.50 10-Miller-Poore vs 9-Jarvis-Pesce
+       1390    0.00   9.00 11-Yuan-Tu vs 4-Christie-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.50   3.50 1-Eng-Sieg vs 10-Christensen-Ring
+  170          5.50   3.50 2-Ford-Taylor vs 1-Romeo-Breeze
+  170          5.50   3.50 3-Cowles-Laughary vs 3-Baker-Harvey-Falls
+  200          9.00   0.00 4-Kuschner-Setterholm vs 7-Saul-Sonkin
+  170          5.50   3.50 5-Guice-Maymudes vs 9-Jarvis-Pesce
+        110    0.00   9.00 6-Bender-James vs 11-Gong-Gong
+  170          5.50   3.50 7-Sieg-Saul vs 2-Fuhrman-Binney
+        100    1.50   7.50 8-Zaugg-Abernethy vs 4-Christie-Christiansen
+  170          5.50   3.50 9-Huffaker-Castner vs 6-Schwaighart-Anderson
+        100    1.50   7.50 10-Miller-Poore vs 8-Wright-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   6.50 1-Eng-Sieg vs 10-Christensen-Ring
+        300    8.00   1.00 2-Ford-Taylor vs 1-Romeo-Breeze
+        450    2.50   6.50 3-Cowles-Laughary vs 3-Baker-Harvey-Falls
+   50          9.00   0.00 4-Kuschner-Setterholm vs 7-Saul-Sonkin
+        450    2.50   6.50 5-Guice-Maymudes vs 9-Jarvis-Pesce
+        450    2.50   6.50 6-Bender-James vs 11-Gong-Gong
+        420    6.50   2.50 7-Sieg-Saul vs 2-Fuhrman-Binney
+        450    2.50   6.50 8-Zaugg-Abernethy vs 4-Christie-Christiansen
+        450    2.50   6.50 9-Huffaker-Castner vs 6-Schwaighart-Anderson
+        420    6.50   2.50 10-Miller-Poore vs 8-Wright-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.50   4.50 1-Eng-Sieg vs 10-Christensen-Ring
+  420          4.50   4.50 2-Ford-Taylor vs 1-Romeo-Breeze
+  170          1.50   7.50 3-Cowles-Laughary vs 3-Baker-Harvey-Falls
+         50    0.00   9.00 4-Kuschner-Setterholm vs 7-Saul-Sonkin
+  170          1.50   7.50 5-Guice-Maymudes vs 9-Jarvis-Pesce
+  450          7.50   1.50 6-Bender-James vs 11-Gong-Gong
+  590          9.00   0.00 7-Sieg-Saul vs 2-Fuhrman-Binney
+  420          4.50   4.50 8-Zaugg-Abernethy vs 4-Christie-Christiansen
+  450          7.50   1.50 9-Huffaker-Castner vs 6-Schwaighart-Anderson
+  420          4.50   4.50 10-Miller-Poore vs 8-Wright-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    6.50   2.50 1-Eng-Sieg vs 9-Jarvis-Pesce
+  200          8.50   0.50 2-Ford-Taylor vs 11-Gong-Gong
+        660    1.50   7.50 3-Cowles-Laughary vs 2-Fuhrman-Binney
+        630    4.00   5.00 4-Kuschner-Setterholm vs 4-Christie-Christiansen
+        630    4.00   5.00 5-Guice-Maymudes vs 8-Wright-Delfs
+        630    4.00   5.00 6-Bender-James vs 10-Christensen-Ring
+        660    1.50   7.50 7-Sieg-Saul vs 1-Romeo-Breeze
+  200          8.50   0.50 8-Zaugg-Abernethy vs 3-Baker-Harvey-Falls
+        600    6.50   2.50 10-Miller-Poore vs 7-Saul-Sonkin
+        730    0.00   9.00 11-Yuan-Tu vs 6-Schwaighart-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.00   8.00 1-Eng-Sieg vs 9-Jarvis-Pesce
+   50          5.50   3.50 2-Ford-Taylor vs 11-Gong-Gong
+        110    3.00   6.00 3-Cowles-Laughary vs 2-Fuhrman-Binney
+        150    2.00   7.00 4-Kuschner-Setterholm vs 4-Christie-Christiansen
+  100          8.50   0.50 5-Guice-Maymudes vs 8-Wright-Delfs
+   50          5.50   3.50 6-Bender-James vs 10-Christensen-Ring
+   50          5.50   3.50 7-Sieg-Saul vs 1-Romeo-Breeze
+  100          8.50   0.50 8-Zaugg-Abernethy vs 3-Baker-Harvey-Falls
+   50          5.50   3.50 10-Miller-Poore vs 7-Saul-Sonkin
+        430    0.00   9.00 11-Yuan-Tu vs 6-Schwaighart-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   2.00 1-Eng-Sieg vs 9-Jarvis-Pesce
+   50          5.00   4.00 2-Ford-Taylor vs 11-Gong-Gong
+         80    3.50   5.50 3-Cowles-Laughary vs 2-Fuhrman-Binney
+        110    0.50   8.50 4-Kuschner-Setterholm vs 4-Christie-Christiansen
+         80    3.50   5.50 5-Guice-Maymudes vs 8-Wright-Delfs
+        100    2.00   7.00 6-Bender-James vs 10-Christensen-Ring
+        110    0.50   8.50 7-Sieg-Saul vs 1-Romeo-Breeze
+   90          6.00   3.00 8-Zaugg-Abernethy vs 3-Baker-Harvey-Falls
+  150          9.00   0.00 10-Miller-Poore vs 7-Saul-Sonkin
+  120          8.00   1.00 11-Yuan-Tu vs 6-Schwaighart-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    7.50   1.50 1-Eng-Sieg vs 8-Wright-Delfs
+        100    7.50   1.50 2-Ford-Taylor vs 10-Christensen-Ring
+        200    4.00   5.00 3-Cowles-Laughary vs 1-Romeo-Breeze
+        100    7.50   1.50 4-Kuschner-Setterholm vs 3-Baker-Harvey-Falls
+        700    0.00   9.00 6-Bender-James vs 9-Jarvis-Pesce
+        200    4.00   5.00 7-Sieg-Saul vs 11-Gong-Gong
+        200    4.00   5.00 8-Zaugg-Abernethy vs 2-Fuhrman-Binney
+        400    1.00   8.00 9-Huffaker-Castner vs 4-Christie-Christiansen
+        100    7.50   1.50 10-Miller-Poore vs 6-Schwaighart-Anderson
+        300    2.00   7.00 11-Yuan-Tu vs 7-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   3.50 1-Eng-Sieg vs 8-Wright-Delfs
+        140    1.00   8.00 2-Ford-Taylor vs 10-Christensen-Ring
+  150          8.00   1.00 3-Cowles-Laughary vs 1-Romeo-Breeze
+   50          3.50   5.50 4-Kuschner-Setterholm vs 3-Baker-Harvey-Falls
+        140    1.00   8.00 6-Bender-James vs 9-Jarvis-Pesce
+   50          3.50   5.50 7-Sieg-Saul vs 11-Gong-Gong
+  100          5.50   3.50 8-Zaugg-Abernethy vs 2-Fuhrman-Binney
+        140    1.00   8.00 9-Huffaker-Castner vs 4-Christie-Christiansen
+  150          8.00   1.00 10-Miller-Poore vs 6-Schwaighart-Anderson
+  150          8.00   1.00 11-Yuan-Tu vs 7-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          8.50   0.50 1-Eng-Sieg vs 8-Wright-Delfs
+        500    1.00   8.00 2-Ford-Taylor vs 10-Christensen-Ring
+        100    5.50   3.50 3-Cowles-Laughary vs 1-Romeo-Breeze
+        630    0.00   9.00 4-Kuschner-Setterholm vs 3-Baker-Harvey-Falls
+        100    5.50   3.50 6-Bender-James vs 9-Jarvis-Pesce
+  140          8.50   0.50 7-Sieg-Saul vs 11-Gong-Gong
+        200    2.00   7.00 8-Zaugg-Abernethy vs 2-Fuhrman-Binney
+        140    3.50   5.50 9-Huffaker-Castner vs 4-Christie-Christiansen
+        140    3.50   5.50 10-Miller-Poore vs 6-Schwaighart-Anderson
+   50          7.00   2.00 11-Yuan-Tu vs 7-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.50   6.50 1-Eng-Sieg vs 7-Saul-Sonkin
+  200          2.50   6.50 2-Ford-Taylor vs 9-Jarvis-Pesce
+  450          7.50   1.50 3-Cowles-Laughary vs 11-Gong-Gong
+  450          7.50   1.50 4-Kuschner-Setterholm vs 2-Fuhrman-Binney
+  200          2.50   6.50 5-Guice-Maymudes vs 4-Christie-Christiansen
+  450          7.50   1.50 6-Bender-James vs 6-Schwaighart-Anderson
+  200          2.50   6.50 7-Sieg-Saul vs 10-Christensen-Ring
+  170          0.00   9.00 8-Zaugg-Abernethy vs 1-Romeo-Breeze
+  420          5.00   4.00 9-Huffaker-Castner vs 3-Baker-Harvey-Falls
+  450          7.50   1.50 11-Yuan-Tu vs 8-Wright-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          7.00   2.00 1-Eng-Sieg vs 7-Saul-Sonkin
+  980          7.00   2.00 2-Ford-Taylor vs 9-Jarvis-Pesce
+  480          2.50   6.50 3-Cowles-Laughary vs 11-Gong-Gong
+  980          7.00   2.00 4-Kuschner-Setterholm vs 2-Fuhrman-Binney
+  480          2.50   6.50 5-Guice-Maymudes vs 4-Christie-Christiansen
+  480          2.50   6.50 6-Bender-James vs 6-Schwaighart-Anderson
+  480          2.50   6.50 7-Sieg-Saul vs 10-Christensen-Ring
+  980          7.00   2.00 8-Zaugg-Abernethy vs 1-Romeo-Breeze
+  980          7.00   2.00 9-Huffaker-Castner vs 3-Baker-Harvey-Falls
+         50    0.00   9.00 11-Yuan-Tu vs 8-Wright-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1370          5.50   3.50 1-Eng-Sieg vs 7-Saul-Sonkin
+  690          2.50   6.50 2-Ford-Taylor vs 9-Jarvis-Pesce
+ 1440          9.00   0.00 3-Cowles-Laughary vs 11-Gong-Gong
+ 1430          7.50   1.50 4-Kuschner-Setterholm vs 2-Fuhrman-Binney
+ 1430          7.50   1.50 5-Guice-Maymudes vs 4-Christie-Christiansen
+  600          0.00   9.00 6-Bender-James vs 6-Schwaighart-Anderson
+  690          2.50   6.50 7-Sieg-Saul vs 10-Christensen-Ring
+  690          2.50   6.50 8-Zaugg-Abernethy vs 1-Romeo-Breeze
+  690          2.50   6.50 9-Huffaker-Castner vs 3-Baker-Harvey-Falls
+ 1370          5.50   3.50 11-Yuan-Tu vs 8-Wright-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          5.00   4.00 1-Eng-Sieg vs 6-Schwaighart-Anderson
+  980          5.00   4.00 2-Ford-Taylor vs 8-Wright-Delfs
+  480          1.00   8.00 3-Cowles-Laughary vs 10-Christensen-Ring
+        100    0.00   9.00 4-Kuschner-Setterholm vs 1-Romeo-Breeze
+  980          5.00   4.00 5-Guice-Maymudes vs 3-Baker-Harvey-Falls
+  980          5.00   4.00 7-Sieg-Saul vs 7-Saul-Sonkin
+  980          5.00   4.00 8-Zaugg-Abernethy vs 11-Gong-Gong
+  990          9.00   0.00 9-Huffaker-Castner vs 2-Fuhrman-Binney
+  980          5.00   4.00 10-Miller-Poore vs 4-Christie-Christiansen
+  980          5.00   4.00 11-Yuan-Tu vs 9-Jarvis-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   5.00 1-Eng-Sieg vs 6-Schwaighart-Anderson
+        100    4.00   5.00 2-Ford-Taylor vs 8-Wright-Delfs
+  140          8.00   1.00 3-Cowles-Laughary vs 10-Christensen-Ring
+        100    4.00   5.00 4-Kuschner-Setterholm vs 1-Romeo-Breeze
+        300    0.00   9.00 5-Guice-Maymudes vs 3-Baker-Harvey-Falls
+        100    4.00   5.00 7-Sieg-Saul vs 7-Saul-Sonkin
+  500          9.00   0.00 8-Zaugg-Abernethy vs 11-Gong-Gong
+        100    4.00   5.00 9-Huffaker-Castner vs 2-Fuhrman-Binney
+        100    4.00   5.00 10-Miller-Poore vs 4-Christie-Christiansen
+        100    4.00   5.00 11-Yuan-Tu vs 9-Jarvis-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          9.00   0.00 1-Eng-Sieg vs 6-Schwaighart-Anderson
+  130          2.00   7.00 2-Ford-Taylor vs 8-Wright-Delfs
+        140    0.00   9.00 3-Cowles-Laughary vs 10-Christensen-Ring
+  630          7.00   2.00 4-Kuschner-Setterholm vs 1-Romeo-Breeze
+  630          7.00   2.00 5-Guice-Maymudes vs 3-Baker-Harvey-Falls
+  150          4.00   5.00 7-Sieg-Saul vs 7-Saul-Sonkin
+  130          2.00   7.00 8-Zaugg-Abernethy vs 11-Gong-Gong
+  630          7.00   2.00 9-Huffaker-Castner vs 2-Fuhrman-Binney
+  130          2.00   7.00 10-Miller-Poore vs 4-Christie-Christiansen
+  500          5.00   4.00 11-Yuan-Tu vs 9-Jarvis-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   5.50 2-Ford-Taylor vs 7-Saul-Sonkin
+        100    2.00   7.00 3-Cowles-Laughary vs 9-Jarvis-Pesce
+  170          6.50   2.50 4-Kuschner-Setterholm vs 11-Gong-Gong
+        140    0.50   8.50 5-Guice-Maymudes vs 2-Fuhrman-Binney
+  420          8.50   0.50 6-Bender-James vs 4-Christie-Christiansen
+        140    0.50   8.50 7-Sieg-Saul vs 6-Schwaighart-Anderson
+         50    3.50   5.50 8-Zaugg-Abernethy vs 8-Wright-Delfs
+  140          5.00   4.00 9-Huffaker-Castner vs 1-Romeo-Breeze
+  170          6.50   2.50 10-Miller-Poore vs 3-Baker-Harvey-Falls
+  420          8.50   0.50 11-Yuan-Tu vs 10-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          9.00   0.00 2-Ford-Taylor vs 7-Saul-Sonkin
+        200    0.50   8.50 3-Cowles-Laughary vs 9-Jarvis-Pesce
+  110          4.50   4.50 4-Kuschner-Setterholm vs 11-Gong-Gong
+  140          7.00   2.00 5-Guice-Maymudes vs 2-Fuhrman-Binney
+  110          4.50   4.50 6-Bender-James vs 4-Christie-Christiansen
+  100          2.00   7.00 7-Sieg-Saul vs 6-Schwaighart-Anderson
+        200    0.50   8.50 8-Zaugg-Abernethy vs 8-Wright-Delfs
+  110          4.50   4.50 9-Huffaker-Castner vs 1-Romeo-Breeze
+  200          8.00   1.00 10-Miller-Poore vs 3-Baker-Harvey-Falls
+  110          4.50   4.50 11-Yuan-Tu vs 10-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   6.50 2-Ford-Taylor vs 7-Saul-Sonkin
+  110          7.50   1.50 3-Cowles-Laughary vs 9-Jarvis-Pesce
+  100          5.50   3.50 4-Kuschner-Setterholm vs 11-Gong-Gong
+  110          7.50   1.50 5-Guice-Maymudes vs 2-Fuhrman-Binney
+        120    0.00   9.00 6-Bender-James vs 4-Christie-Christiansen
+  140          9.00   0.00 7-Sieg-Saul vs 6-Schwaighart-Anderson
+         50    2.50   6.50 8-Zaugg-Abernethy vs 8-Wright-Delfs
+         50    2.50   6.50 9-Huffaker-Castner vs 1-Romeo-Breeze
+  100          5.50   3.50 10-Miller-Poore vs 3-Baker-Harvey-Falls
+         50    2.50   6.50 11-Yuan-Tu vs 10-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    6.00   3.00 1-Eng-Sieg vs 4-Christie-Christiansen
+        630    1.00   8.00 2-Ford-Taylor vs 6-Schwaighart-Anderson
+        600    4.00   5.00 3-Cowles-Laughary vs 8-Wright-Delfs
+        110    8.00   1.00 4-Kuschner-Setterholm vs 10-Christensen-Ring
+        630    1.00   8.00 5-Guice-Maymudes vs 1-Romeo-Breeze
+        630    1.00   8.00 6-Bender-James vs 3-Baker-Harvey-Falls
+        130    7.00   2.00 8-Zaugg-Abernethy vs 7-Saul-Sonkin
+        600    4.00   5.00 9-Huffaker-Castner vs 9-Jarvis-Pesce
+        600    4.00   5.00 10-Miller-Poore vs 2-Fuhrman-Binney
+  100          9.00   0.00 11-Yuan-Tu vs 11-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          5.50   3.50 1-Eng-Sieg vs 4-Christie-Christiansen
+  200          7.00   2.00 2-Ford-Taylor vs 6-Schwaighart-Anderson
+        100    2.00   7.00 3-Cowles-Laughary vs 8-Wright-Delfs
+        300    0.00   9.00 4-Kuschner-Setterholm vs 10-Christensen-Ring
+   90          4.00   5.00 5-Guice-Maymudes vs 1-Romeo-Breeze
+  600          8.50   0.50 6-Bender-James vs 3-Baker-Harvey-Falls
+        100    2.00   7.00 8-Zaugg-Abernethy vs 7-Saul-Sonkin
+  600          8.50   0.50 9-Huffaker-Castner vs 9-Jarvis-Pesce
+        100    2.00   7.00 10-Miller-Poore vs 2-Fuhrman-Binney
+  120          5.50   3.50 11-Yuan-Tu vs 11-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        750    0.50   8.50 1-Eng-Sieg vs 4-Christie-Christiansen
+  450          8.50   0.50 2-Ford-Taylor vs 6-Schwaighart-Anderson
+        510    4.00   5.00 3-Cowles-Laughary vs 8-Wright-Delfs
+        750    0.50   8.50 4-Kuschner-Setterholm vs 10-Christensen-Ring
+  450          8.50   0.50 5-Guice-Maymudes vs 1-Romeo-Breeze
+         50    6.50   2.50 6-Bender-James vs 3-Baker-Harvey-Falls
+         50    6.50   2.50 8-Zaugg-Abernethy vs 7-Saul-Sonkin
+        480    5.00   4.00 9-Huffaker-Castner vs 9-Jarvis-Pesce
+        650    2.50   6.50 10-Miller-Poore vs 2-Fuhrman-Binney
+        650    2.50   6.50 11-Yuan-Tu vs 11-Gong-Gong
+----------------------------------------------------------------------
