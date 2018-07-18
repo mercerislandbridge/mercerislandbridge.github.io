@@ -1,0 +1,470 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>July 17, 2018      |CLUB NO.>158048    | 07/17/2018 22:20
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim & Bryan     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Eric Sieg                B    1     1     .    123.00  56.94  0.90(A) 
+
+ 2 Adam Ruprecht          Christopher Jarvis       B    4     .     .    116.50  53.94  0.32(A) 
+
+ 3 Nelson Davis           Ken Christiansen         A    .     .     .     94.50  43.75          
+
+ 4 Albert Bender          Andrea James             A    .     .     .     96.00  44.44          
+
+ 5 Steven Mark Lewis      Jolanta Janowski         C    3     2     .    117.00  54.17  0.45(A) 
+
+ 6 Jennifer Ballantyne    David Binney             A    .     .     .    108.50  50.23          
+
+ 7 J.C. Chupack           Scott Chupack            B    .     .     .     85.00  39.35          
+
+ 8 Ray Miller             Ann Romeo                A    2     .     .    120.00  55.56  0.63(A) 
+
+ 9 Pete Cowles            Clay Laughary            C    .     .     .    111.50  51.62          
+
+
+                                          Totals                         972.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>July 17, 2018      |CLUB NO.>158048    | 07/17/2018 22:20
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim & Bryan     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=4/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Christensen       Mike Ring                A    2     .     .    132.00  61.11  0.63(A) 
+
+ 2 David Roselle          Sue Anderson             B    .     .     .     88.50  40.97          
+
+ 3 Joel Fuhrman           Brian Zaugg              A    .     .     .     84.50  39.12          
+
+ 4 Douglas Kuschner       Stanford Christie        A    .     .     .     97.00  44.91          
+
+ 5 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     99.50  46.06          
+
+ 6 Gary Haldane           Dave Setterholm          A    4     .     .    106.50  49.31  0.32(A) 
+
+ 7 David Taylor           Chris Pesce              B    3     1     .    123.50  57.18  0.45(A) 
+
+ 8 Jeffrey Ford           Kim Eng                  A    1     .     .    136.00  62.96  0.90(A) 
+
+ 9 Moises Saul            Irving Sonkin            C    .     2     .    104.50  48.38  0.22(B) 
+
+
+                                          Totals                         972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   4.00 1-Delfs-Sieg vs 1-Christensen-Ring
+        170    6.00   2.00 2-Ruprecht-Jarvis vs 3-Fuhrman-Zaugg
+        230    2.00   6.00 3-Davis-Christiansen vs 5-Falls-Baker-Harvey
+        200    4.00   4.00 4-Bender-James vs 7-Taylor-Pesce
+        450    1.00   7.00 5-Lewis-Janowski vs 9-Saul-Sonkin
+        140    7.00   1.00 6-Ballantyne-Binney vs 2-Roselle-Anderson
+        200    4.00   4.00 7-Chupack-Chupack vs 4-Kuschner-Christie
+         50    8.00   0.00 8-Miller-Romeo vs 6-Haldane-Setterholm
+        480    0.00   8.00 9-Cowles-Laughary vs 8-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   2.50 1-Delfs-Sieg vs 1-Christensen-Ring
+        200    2.50   5.50 2-Ruprecht-Jarvis vs 3-Fuhrman-Zaugg
+  110          8.00   0.00 3-Davis-Christiansen vs 5-Falls-Baker-Harvey
+        140    4.00   4.00 4-Bender-James vs 7-Taylor-Pesce
+  100          7.00   1.00 5-Lewis-Janowski vs 9-Saul-Sonkin
+   50          5.50   2.50 6-Ballantyne-Binney vs 2-Roselle-Anderson
+        200    2.50   5.50 7-Chupack-Chupack vs 4-Kuschner-Christie
+        500    1.00   7.00 8-Miller-Romeo vs 6-Haldane-Setterholm
+        800    0.00   8.00 9-Cowles-Laughary vs 8-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.50   2.50 1-Delfs-Sieg vs 1-Christensen-Ring
+  450          5.50   2.50 2-Ruprecht-Jarvis vs 3-Fuhrman-Zaugg
+  200          1.00   7.00 3-Davis-Christiansen vs 5-Falls-Baker-Harvey
+  450          5.50   2.50 4-Bender-James vs 7-Taylor-Pesce
+         50    0.00   8.00 5-Lewis-Janowski vs 9-Saul-Sonkin
+  480          8.00   0.00 6-Ballantyne-Binney vs 2-Roselle-Anderson
+  420          2.50   5.50 7-Chupack-Chupack vs 4-Kuschner-Christie
+  450          5.50   2.50 8-Miller-Romeo vs 6-Haldane-Setterholm
+  420          2.50   5.50 9-Cowles-Laughary vs 8-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   7.00 1-Delfs-Sieg vs 9-Saul-Sonkin
+  630          6.00   2.00 2-Ruprecht-Jarvis vs 2-Roselle-Anderson
+  660          7.50   0.50 3-Davis-Christiansen vs 4-Kuschner-Christie
+  500          4.00   4.00 4-Bender-James vs 6-Haldane-Setterholm
+  660          7.50   0.50 5-Lewis-Janowski vs 8-Ford-Eng
+        100    1.00   7.00 6-Ballantyne-Binney vs 1-Christensen-Ring
+        100    1.00   7.00 7-Chupack-Chupack vs 3-Fuhrman-Zaugg
+  500          4.00   4.00 8-Miller-Romeo vs 5-Falls-Baker-Harvey
+  500          4.00   4.00 9-Cowles-Laughary vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          6.00   2.00 1-Delfs-Sieg vs 9-Saul-Sonkin
+  650          7.00   1.00 2-Ruprecht-Jarvis vs 2-Roselle-Anderson
+  170          2.00   6.00 3-Davis-Christiansen vs 4-Kuschner-Christie
+  170          2.00   6.00 4-Bender-James vs 6-Haldane-Setterholm
+  660          8.00   0.00 5-Lewis-Janowski vs 8-Ford-Eng
+  140          0.00   8.00 6-Ballantyne-Binney vs 1-Christensen-Ring
+  620          4.50   3.50 7-Chupack-Chupack vs 3-Fuhrman-Zaugg
+  170          2.00   6.00 8-Miller-Romeo vs 5-Falls-Baker-Harvey
+  620          4.50   3.50 9-Cowles-Laughary vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   5.00 1-Delfs-Sieg vs 9-Saul-Sonkin
+  110          7.00   1.00 2-Ruprecht-Jarvis vs 2-Roselle-Anderson
+         50    3.00   5.00 3-Davis-Christiansen vs 4-Kuschner-Christie
+         50    3.00   5.00 4-Bender-James vs 6-Haldane-Setterholm
+         50    3.00   5.00 5-Lewis-Janowski vs 8-Ford-Eng
+        100    0.00   8.00 6-Ballantyne-Binney vs 1-Christensen-Ring
+  100          6.00   2.00 7-Chupack-Chupack vs 3-Fuhrman-Zaugg
+  120          8.00   0.00 8-Miller-Romeo vs 5-Falls-Baker-Harvey
+         50    3.00   5.00 9-Cowles-Laughary vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   5.00 1-Delfs-Sieg vs 8-Ford-Eng
+        100    3.00   5.00 2-Ruprecht-Jarvis vs 1-Christensen-Ring
+  630          8.00   0.00 3-Davis-Christiansen vs 3-Fuhrman-Zaugg
+        100    3.00   5.00 4-Bender-James vs 5-Falls-Baker-Harvey
+        100    3.00   5.00 5-Lewis-Janowski vs 7-Taylor-Pesce
+        100    3.00   5.00 6-Ballantyne-Binney vs 9-Saul-Sonkin
+        100    3.00   5.00 7-Chupack-Chupack vs 2-Roselle-Anderson
+  600          7.00   1.00 8-Miller-Romeo vs 4-Kuschner-Christie
+        100    3.00   5.00 9-Cowles-Laughary vs 6-Haldane-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          8.00   0.00 1-Delfs-Sieg vs 8-Ford-Eng
+  150          5.00   3.00 2-Ruprecht-Jarvis vs 1-Christensen-Ring
+        100    1.50   6.50 3-Davis-Christiansen vs 3-Fuhrman-Zaugg
+  150          5.00   3.00 4-Bender-James vs 5-Falls-Baker-Harvey
+        800    0.00   8.00 5-Lewis-Janowski vs 7-Taylor-Pesce
+  200          7.00   1.00 6-Ballantyne-Binney vs 9-Saul-Sonkin
+        100    1.50   6.50 7-Chupack-Chupack vs 2-Roselle-Anderson
+  100          3.00   5.00 8-Miller-Romeo vs 4-Kuschner-Christie
+  150          5.00   3.00 9-Cowles-Laughary vs 6-Haldane-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    4.50   3.50 1-Delfs-Sieg vs 8-Ford-Eng
+        650    1.50   6.50 2-Ruprecht-Jarvis vs 1-Christensen-Ring
+        300    6.00   2.00 3-Davis-Christiansen vs 3-Fuhrman-Zaugg
+        200    7.00   1.00 4-Bender-James vs 5-Falls-Baker-Harvey
+        650    1.50   6.50 5-Lewis-Janowski vs 7-Taylor-Pesce
+        100    8.00   0.00 6-Ballantyne-Binney vs 9-Saul-Sonkin
+        650    1.50   6.50 7-Chupack-Chupack vs 2-Roselle-Anderson
+        650    1.50   6.50 8-Miller-Romeo vs 4-Kuschner-Christie
+        500    4.50   3.50 9-Cowles-Laughary vs 6-Haldane-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.00   4.00 1-Delfs-Sieg vs 7-Taylor-Pesce
+        200    1.00   7.00 2-Ruprecht-Jarvis vs 9-Saul-Sonkin
+        100    2.50   5.50 3-Davis-Christiansen vs 2-Roselle-Anderson
+  200          5.50   2.50 4-Bender-James vs 4-Kuschner-Christie
+  300          7.50   0.50 5-Lewis-Janowski vs 6-Haldane-Setterholm
+  200          5.50   2.50 6-Ballantyne-Binney vs 8-Ford-Eng
+        300    0.00   8.00 7-Chupack-Chupack vs 1-Christensen-Ring
+  300          7.50   0.50 8-Miller-Romeo vs 3-Fuhrman-Zaugg
+        100    2.50   5.50 9-Cowles-Laughary vs 5-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.50   3.50 1-Delfs-Sieg vs 7-Taylor-Pesce
+        120    1.00   7.00 2-Ruprecht-Jarvis vs 9-Saul-Sonkin
+   50          7.50   0.50 3-Davis-Christiansen vs 2-Roselle-Anderson
+   50          7.50   0.50 4-Bender-James vs 4-Kuschner-Christie
+        110    4.50   3.50 5-Lewis-Janowski vs 6-Haldane-Setterholm
+        120    1.00   7.00 6-Ballantyne-Binney vs 8-Ford-Eng
+        110    4.50   3.50 7-Chupack-Chupack vs 1-Christensen-Ring
+        110    4.50   3.50 8-Miller-Romeo vs 3-Fuhrman-Zaugg
+        120    1.00   7.00 9-Cowles-Laughary vs 5-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          6.50   1.50 1-Delfs-Sieg vs 7-Taylor-Pesce
+  630          3.00   5.00 2-Ruprecht-Jarvis vs 9-Saul-Sonkin
+        200    0.00   8.00 3-Davis-Christiansen vs 2-Roselle-Anderson
+  660          6.50   1.50 4-Bender-James vs 4-Kuschner-Christie
+  630          3.00   5.00 5-Lewis-Janowski vs 6-Haldane-Setterholm
+  660          6.50   1.50 6-Ballantyne-Binney vs 8-Ford-Eng
+  180          1.00   7.00 7-Chupack-Chupack vs 1-Christensen-Ring
+  630          3.00   5.00 8-Miller-Romeo vs 3-Fuhrman-Zaugg
+  660          6.50   1.50 9-Cowles-Laughary vs 5-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    6.00   2.00 1-Delfs-Sieg vs 6-Haldane-Setterholm
+        680    6.00   2.00 2-Ruprecht-Jarvis vs 8-Ford-Eng
+       1460    0.00   8.00 3-Davis-Christiansen vs 1-Christensen-Ring
+       1370    1.00   7.00 4-Bender-James vs 3-Fuhrman-Zaugg
+        710    2.50   5.50 5-Lewis-Janowski vs 5-Falls-Baker-Harvey
+        710    2.50   5.50 6-Ballantyne-Binney vs 7-Taylor-Pesce
+        680    6.00   2.00 7-Chupack-Chupack vs 9-Saul-Sonkin
+        680    6.00   2.00 8-Miller-Romeo vs 2-Roselle-Anderson
+        680    6.00   2.00 9-Cowles-Laughary vs 4-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          5.00   3.00 1-Delfs-Sieg vs 6-Haldane-Setterholm
+         50    1.50   6.50 2-Ruprecht-Jarvis vs 8-Ford-Eng
+   50          4.00   4.00 3-Davis-Christiansen vs 1-Christensen-Ring
+         50    1.50   6.50 4-Bender-James vs 3-Fuhrman-Zaugg
+  110          6.50   1.50 5-Lewis-Janowski vs 5-Falls-Baker-Harvey
+         50    1.50   6.50 6-Ballantyne-Binney vs 7-Taylor-Pesce
+         50    1.50   6.50 7-Chupack-Chupack vs 9-Saul-Sonkin
+  110          6.50   1.50 8-Miller-Romeo vs 2-Roselle-Anderson
+  140          8.00   0.00 9-Cowles-Laughary vs 4-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          8.00   0.00 1-Delfs-Sieg vs 6-Haldane-Setterholm
+        110    7.00   1.00 2-Ruprecht-Jarvis vs 8-Ford-Eng
+        430    0.00   8.00 3-Davis-Christiansen vs 1-Christensen-Ring
+        400    3.00   5.00 4-Bender-James vs 3-Fuhrman-Zaugg
+        400    3.00   5.00 5-Lewis-Janowski vs 5-Falls-Baker-Harvey
+        400    3.00   5.00 6-Ballantyne-Binney vs 7-Taylor-Pesce
+        400    3.00   5.00 7-Chupack-Chupack vs 9-Saul-Sonkin
+        120    6.00   2.00 8-Miller-Romeo vs 2-Roselle-Anderson
+        400    3.00   5.00 9-Cowles-Laughary vs 4-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          7.00   1.00 1-Delfs-Sieg vs 5-Falls-Baker-Harvey
+  420          3.00   5.00 2-Ruprecht-Jarvis vs 7-Taylor-Pesce
+  450          7.00   1.00 3-Davis-Christiansen vs 9-Saul-Sonkin
+  450          7.00   1.00 4-Bender-James vs 2-Roselle-Anderson
+  420          3.00   5.00 5-Lewis-Janowski vs 4-Kuschner-Christie
+         50    0.00   8.00 6-Ballantyne-Binney vs 6-Haldane-Setterholm
+  420          3.00   5.00 7-Chupack-Chupack vs 8-Ford-Eng
+  420          3.00   5.00 8-Miller-Romeo vs 1-Christensen-Ring
+  420          3.00   5.00 9-Cowles-Laughary vs 3-Fuhrman-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   7.00 1-Delfs-Sieg vs 5-Falls-Baker-Harvey
+  420          5.00   3.00 2-Ruprecht-Jarvis vs 7-Taylor-Pesce
+  450          8.00   0.00 3-Davis-Christiansen vs 9-Saul-Sonkin
+  420          5.00   3.00 4-Bender-James vs 2-Roselle-Anderson
+        100    1.00   7.00 5-Lewis-Janowski vs 4-Kuschner-Christie
+  420          5.00   3.00 6-Ballantyne-Binney vs 6-Haldane-Setterholm
+        100    1.00   7.00 7-Chupack-Chupack vs 8-Ford-Eng
+  420          5.00   3.00 8-Miller-Romeo vs 1-Christensen-Ring
+  420          5.00   3.00 9-Cowles-Laughary vs 3-Fuhrman-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   6.00 1-Delfs-Sieg vs 5-Falls-Baker-Harvey
+        450    2.00   6.00 2-Ruprecht-Jarvis vs 7-Taylor-Pesce
+        450    2.00   6.00 3-Davis-Christiansen vs 9-Saul-Sonkin
+        420    5.50   2.50 4-Bender-James vs 2-Roselle-Anderson
+   50          7.00   1.00 5-Lewis-Janowski vs 4-Kuschner-Christie
+        450    2.00   6.00 6-Ballantyne-Binney vs 6-Haldane-Setterholm
+        450    2.00   6.00 7-Chupack-Chupack vs 8-Ford-Eng
+        420    5.50   2.50 8-Miller-Romeo vs 1-Christensen-Ring
+  100          8.00   0.00 9-Cowles-Laughary vs 3-Fuhrman-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          7.00   1.00 1-Delfs-Sieg vs 4-Kuschner-Christie
+        140    0.50   7.50 2-Ruprecht-Jarvis vs 6-Haldane-Setterholm
+        140    0.50   7.50 3-Davis-Christiansen vs 8-Ford-Eng
+         50    3.50   4.50 4-Bender-James vs 1-Christensen-Ring
+  110          7.00   1.00 5-Lewis-Janowski vs 3-Fuhrman-Zaugg
+         50    3.50   4.50 6-Ballantyne-Binney vs 5-Falls-Baker-Harvey
+        110    2.00   6.00 7-Chupack-Chupack vs 7-Taylor-Pesce
+  100          5.00   3.00 8-Miller-Romeo vs 9-Saul-Sonkin
+  110          7.00   1.00 9-Cowles-Laughary vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   4.00 1-Delfs-Sieg vs 4-Kuschner-Christie
+  620          4.00   4.00 2-Ruprecht-Jarvis vs 6-Haldane-Setterholm
+  620          4.00   4.00 3-Davis-Christiansen vs 8-Ford-Eng
+        100    0.00   8.00 4-Bender-James vs 1-Christensen-Ring
+  620          4.00   4.00 5-Lewis-Janowski vs 3-Fuhrman-Zaugg
+  620          4.00   4.00 6-Ballantyne-Binney vs 5-Falls-Baker-Harvey
+  620          4.00   4.00 7-Chupack-Chupack vs 7-Taylor-Pesce
+  650          8.00   0.00 8-Miller-Romeo vs 9-Saul-Sonkin
+  620          4.00   4.00 9-Cowles-Laughary vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        990    0.50   7.50 1-Delfs-Sieg vs 4-Kuschner-Christie
+        980    3.00   5.00 2-Ruprecht-Jarvis vs 6-Haldane-Setterholm
+        980    3.00   5.00 3-Davis-Christiansen vs 8-Ford-Eng
+        480    5.00   3.00 4-Bender-James vs 1-Christensen-Ring
+  100          8.00   0.00 5-Lewis-Janowski vs 3-Fuhrman-Zaugg
+   50          7.00   1.00 6-Ballantyne-Binney vs 5-Falls-Baker-Harvey
+        980    3.00   5.00 7-Chupack-Chupack vs 7-Taylor-Pesce
+        450    6.00   2.00 8-Miller-Romeo vs 9-Saul-Sonkin
+        990    0.50   7.50 9-Cowles-Laughary vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          8.00   0.00 1-Delfs-Sieg vs 3-Fuhrman-Zaugg
+  140          7.00   1.00 2-Ruprecht-Jarvis vs 5-Falls-Baker-Harvey
+        150    2.50   5.50 3-Davis-Christiansen vs 7-Taylor-Pesce
+        150    2.50   5.50 4-Bender-James vs 9-Saul-Sonkin
+        300    0.00   8.00 5-Lewis-Janowski vs 2-Roselle-Anderson
+         90    5.00   3.00 6-Ballantyne-Binney vs 4-Kuschner-Christie
+        100    4.00   4.00 7-Chupack-Chupack vs 6-Haldane-Setterholm
+        180    1.00   7.00 8-Miller-Romeo vs 8-Ford-Eng
+         50    6.00   2.00 9-Cowles-Laughary vs 1-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          4.00   4.00 1-Delfs-Sieg vs 3-Fuhrman-Zaugg
+  500          8.00   0.00 2-Ruprecht-Jarvis vs 5-Falls-Baker-Harvey
+        100    2.00   6.00 3-Davis-Christiansen vs 7-Taylor-Pesce
+        200    1.00   7.00 4-Bender-James vs 9-Saul-Sonkin
+  300          7.00   1.00 5-Lewis-Janowski vs 2-Roselle-Anderson
+  100          3.00   5.00 6-Ballantyne-Binney vs 4-Kuschner-Christie
+  200          5.50   2.50 7-Chupack-Chupack vs 6-Haldane-Setterholm
+        300    0.00   8.00 8-Miller-Romeo vs 8-Ford-Eng
+  200          5.50   2.50 9-Cowles-Laughary vs 1-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          6.00   2.00 1-Delfs-Sieg vs 3-Fuhrman-Zaugg
+  430          4.50   3.50 2-Ruprecht-Jarvis vs 5-Falls-Baker-Harvey
+  430          4.50   3.50 3-Davis-Christiansen vs 7-Taylor-Pesce
+  400          2.50   5.50 4-Bender-James vs 9-Saul-Sonkin
+  500          7.50   0.50 5-Lewis-Janowski vs 2-Roselle-Anderson
+  400          2.50   5.50 6-Ballantyne-Binney vs 4-Kuschner-Christie
+  500          7.50   0.50 7-Chupack-Chupack vs 6-Haldane-Setterholm
+  130          0.00   8.00 8-Miller-Romeo vs 8-Ford-Eng
+  300          1.00   7.00 9-Cowles-Laughary vs 1-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   6.00 1-Delfs-Sieg vs 2-Roselle-Anderson
+  300          7.00   1.00 2-Ruprecht-Jarvis vs 4-Kuschner-Christie
+  110          2.00   6.00 3-Davis-Christiansen vs 6-Haldane-Setterholm
+  100          0.00   8.00 4-Bender-James vs 8-Ford-Eng
+  150          5.00   3.00 5-Lewis-Janowski vs 1-Christensen-Ring
+  140          4.00   4.00 6-Ballantyne-Binney vs 3-Fuhrman-Zaugg
+  110          2.00   6.00 7-Chupack-Chupack vs 5-Falls-Baker-Harvey
+  420          8.00   0.00 8-Miller-Romeo vs 7-Taylor-Pesce
+  180          6.00   2.00 9-Cowles-Laughary vs 9-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   4.00 1-Delfs-Sieg vs 2-Roselle-Anderson
+        100    4.00   4.00 2-Ruprecht-Jarvis vs 4-Kuschner-Christie
+        200    0.50   7.50 3-Davis-Christiansen vs 6-Haldane-Setterholm
+        200    0.50   7.50 4-Bender-James vs 8-Ford-Eng
+        100    4.00   4.00 5-Lewis-Janowski vs 1-Christensen-Ring
+  140          7.50   0.50 6-Ballantyne-Binney vs 3-Fuhrman-Zaugg
+  140          7.50   0.50 7-Chupack-Chupack vs 5-Falls-Baker-Harvey
+        100    4.00   4.00 8-Miller-Romeo vs 7-Taylor-Pesce
+        100    4.00   4.00 9-Cowles-Laughary vs 9-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   5.00 1-Delfs-Sieg vs 2-Roselle-Anderson
+  110          5.50   2.50 2-Ruprecht-Jarvis vs 4-Kuschner-Christie
+  110          5.50   2.50 3-Davis-Christiansen vs 6-Haldane-Setterholm
+         50    1.00   7.00 4-Bender-James vs 8-Ford-Eng
+  110          5.50   2.50 5-Lewis-Janowski vs 1-Christensen-Ring
+  110          5.50   2.50 6-Ballantyne-Binney vs 3-Fuhrman-Zaugg
+         50    1.00   7.00 7-Chupack-Chupack vs 5-Falls-Baker-Harvey
+         50    1.00   7.00 8-Miller-Romeo vs 7-Taylor-Pesce
+  130          8.00   0.00 9-Cowles-Laughary vs 9-Saul-Sonkin
+----------------------------------------------------------------------
