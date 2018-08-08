@@ -1,0 +1,474 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>August 7, 2018     |SANCTION>158048    | 08/07/2018 22:30
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/brian      |RATING>ACBL wide Junior Fund        |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Jennifer Chalfan         A   .     .     .   |   4     .     .    112.00  51.85  0.66(SA)
+
+ 2 Mike Ring              Shawn Abernethy          B   .     .     .   |   .     .     .    100.13  46.36          
+
+ 3 Douglas Kuschner       Eric Sieg                B   5     5     .   |   3     3     .    124.31  57.55  1.19(OA)
+
+ 4 Steven Mark Lewis      Grant Davis              C   .     .     .   |   .     .     .     90.00  41.67          
+
+ 5 Kevin Cline            David Hankins            B   2     2     .   |   2     2     .    128.81  59.63  2.81(OA)
+
+ 6 Christopher Jarvis     Ken Christiansen         A   .     .     .   |   .     .     .     83.81  38.80          
+
+ 7 Pete Cowles            Clay Laughary            C   1     1     1   |   1     1     1    133.88  61.98  3.75(OA)
+
+ 8 William Campbell       Nelson Davis             B   .     .     .   |   .     .     .    105.75  48.96          
+
+ 9 Ray Miller             Jeffrey Ford             A   .     .     .   |   .     .     .     96.75  44.79          
+
+10 Ann Romeo              Beau Hovda               C   .     .     2   |   .     .     .    104.06  48.18  1.01(OC)
+
+
+                                          Totals                                           1079.50       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>August 7, 2018     |SANCTION>158048    | 08/07/2018 22:30
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/brian      |RATING>ACBL wide Junior Fund        |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Joel Fuhrman           Dex Stuberg              B   3     3     .   |   1     1     .    126.50  58.56  2.11(OA)
+
+
+
+ 3 Albert Bender          Norm Hostetler           B   .     .     .   |   .     .     .     91.00  42.13          
+
+ 4 Irving Sonkin          Moises Saul              C   .     .     .   |   .     .     1    102.00  47.22  0.67(SC)
+
+ 5 Muhunthan Sivapragasam Peiyush Jain             C   .     .     .   |   .     .     .     96.50  44.68          
+
+ 6 Gary Haldane           Sue Anderson             B   .     .     .   |   4     3     .    112.00  51.85  0.66(SA)
+
+ 7 Mike Christensen       Becky Stevens            A   .     .     .   |   .     .     .    105.00  48.61          
+
+ 8 Nick Tipton            Galen Hesson             B   4     4     .   |   2     2     .    125.00  57.87  1.58(OA)
+
+ 9 Stanford Christie      Brian Zaugg              A   6     .     .   |   3     .     .    115.50  53.47  0.94(SA)
+
+10 Terry Jacobson         Brad Rind                C   .     .     .   |   .     .     .     98.50  45.60          
+
+
+                                          Totals                                            972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    3.00   5.00 1-Delfs-Chalfan vs 1-Fuhrman-Stuberg
+        980    3.00   5.00 2-Ring-Abernethy vs 4-Sonkin-Saul
+   50          7.00   1.00 3-Kuschner-Sieg vs 6-Haldane-Anderson
+        980    3.00   5.00 4-Lewis-Davis vs 8-Tipton-Hesson
+   50          7.00   1.00 5-Cline-Hankins vs 10-Jacobson-Rind
+        980    3.00   5.00 6-Jarvis-Christiansen vs 3-Bender-Hostetler
+   50          7.00   1.00 7-Cowles-Laughary vs 5-Sivapragasam-Jain
+        980    3.00   5.00 8-Campbell-Davis vs 7-Christensen-Stevens
+       1010    0.00   8.00 9-Miller-Ford vs 9-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          7.00   1.00 1-Delfs-Chalfan vs 1-Fuhrman-Stuberg
+  660          2.00   6.00 2-Ring-Abernethy vs 4-Sonkin-Saul
+  680          4.50   3.50 3-Kuschner-Sieg vs 6-Haldane-Anderson
+  660          2.00   6.00 4-Lewis-Davis vs 8-Tipton-Hesson
+  630          0.00   8.00 5-Cline-Hankins vs 10-Jacobson-Rind
+  690          7.00   1.00 6-Jarvis-Christiansen vs 3-Bender-Hostetler
+  680          4.50   3.50 7-Cowles-Laughary vs 5-Sivapragasam-Jain
+  660          2.00   6.00 8-Campbell-Davis vs 7-Christensen-Stevens
+  690          7.00   1.00 9-Miller-Ford vs 9-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   6.00 1-Delfs-Chalfan vs 1-Fuhrman-Stuberg
+  400          8.00   0.00 2-Ring-Abernethy vs 4-Sonkin-Saul
+  110          5.50   2.50 3-Kuschner-Sieg vs 6-Haldane-Anderson
+         50    2.00   6.00 4-Lewis-Davis vs 8-Tipton-Hesson
+  110          5.50   2.50 5-Cline-Hankins vs 10-Jacobson-Rind
+         50    2.00   6.00 6-Jarvis-Christiansen vs 3-Bender-Hostetler
+  110          5.50   2.50 7-Cowles-Laughary vs 5-Sivapragasam-Jain
+  110          5.50   2.50 8-Campbell-Davis vs 7-Christensen-Stevens
+        380    0.00   8.00 9-Miller-Ford vs 9-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   3.50 1-Delfs-Chalfan vs 10-Jacobson-Rind
+        140    1.00   7.00 3-Kuschner-Sieg vs 5-Sivapragasam-Jain
+        200    0.00   8.00 4-Lewis-Davis vs 7-Christensen-Stevens
+  100          4.50   3.50 5-Cline-Hankins vs 9-Christie-Zaugg
+        110    2.00   6.00 6-Jarvis-Christiansen vs 4-Sonkin-Saul
+  200          7.50   0.50 7-Cowles-Laughary vs 6-Haldane-Anderson
+   90          3.00   5.00 8-Campbell-Davis vs 8-Tipton-Hesson
+  150          6.00   2.00 9-Miller-Ford vs 1-Fuhrman-Stuberg
+  200          7.50   0.50 10-Romeo-Hovda vs 3-Bender-Hostetler
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    4.00   4.00 1-Delfs-Chalfan vs 10-Jacobson-Rind
+        450    4.00   4.00 3-Kuschner-Sieg vs 5-Sivapragasam-Jain
+        450    4.00   4.00 4-Lewis-Davis vs 7-Christensen-Stevens
+   50          8.00   0.00 5-Cline-Hankins vs 9-Christie-Zaugg
+        450    4.00   4.00 6-Jarvis-Christiansen vs 4-Sonkin-Saul
+        500    0.00   8.00 7-Cowles-Laughary vs 6-Haldane-Anderson
+        450    4.00   4.00 8-Campbell-Davis vs 8-Tipton-Hesson
+        450    4.00   4.00 9-Miller-Ford vs 1-Fuhrman-Stuberg
+        450    4.00   4.00 10-Romeo-Hovda vs 3-Bender-Hostetler
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   6.50 1-Delfs-Chalfan vs 10-Jacobson-Rind
+  140          5.50   2.50 3-Kuschner-Sieg vs 5-Sivapragasam-Jain
+        500    0.00   8.00 4-Lewis-Davis vs 7-Christensen-Stevens
+        100    1.50   6.50 5-Cline-Hankins vs 9-Christie-Zaugg
+  140          5.50   2.50 6-Jarvis-Christiansen vs 4-Sonkin-Saul
+  200          8.00   0.00 7-Cowles-Laughary vs 6-Haldane-Anderson
+         50    3.00   5.00 8-Campbell-Davis vs 8-Tipton-Hesson
+  140          5.50   2.50 9-Miller-Ford vs 1-Fuhrman-Stuberg
+  140          5.50   2.50 10-Romeo-Hovda vs 3-Bender-Hostetler
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   4.00 1-Delfs-Chalfan vs 9-Christie-Zaugg
+        100    0.50   7.50 2-Ring-Abernethy vs 1-Fuhrman-Stuberg
+  300          7.00   1.00 3-Kuschner-Sieg vs 3-Bender-Hostetler
+  100          4.00   4.00 4-Lewis-Davis vs 6-Haldane-Anderson
+        100    0.50   7.50 5-Cline-Hankins vs 8-Tipton-Hesson
+         80    2.00   6.00 6-Jarvis-Christiansen vs 5-Sivapragasam-Jain
+  120          6.00   2.00 7-Cowles-Laughary vs 7-Christensen-Stevens
+  400          8.00   0.00 8-Campbell-Davis vs 10-Jacobson-Rind
+  100          4.00   4.00 10-Romeo-Hovda vs 4-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          8.00   0.00 1-Delfs-Chalfan vs 9-Christie-Zaugg
+        430    0.50   7.50 2-Ring-Abernethy vs 1-Fuhrman-Stuberg
+        120    5.00   3.00 3-Kuschner-Sieg vs 3-Bender-Hostetler
+        110    6.50   1.50 4-Lewis-Davis vs 6-Haldane-Anderson
+        400    3.00   5.00 5-Cline-Hankins vs 8-Tipton-Hesson
+        400    3.00   5.00 6-Jarvis-Christiansen vs 5-Sivapragasam-Jain
+        400    3.00   5.00 7-Cowles-Laughary vs 7-Christensen-Stevens
+        110    6.50   1.50 8-Campbell-Davis vs 10-Jacobson-Rind
+        430    0.50   7.50 10-Romeo-Hovda vs 4-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   2.00 1-Delfs-Chalfan vs 9-Christie-Zaugg
+  150          2.00   6.00 2-Ring-Abernethy vs 1-Fuhrman-Stuberg
+  200          6.00   2.00 3-Kuschner-Sieg vs 3-Bender-Hostetler
+  110          0.00   8.00 4-Lewis-Davis vs 6-Haldane-Anderson
+  150          2.00   6.00 5-Cline-Hankins vs 8-Tipton-Hesson
+  150          2.00   6.00 6-Jarvis-Christiansen vs 5-Sivapragasam-Jain
+  200          6.00   2.00 7-Cowles-Laughary vs 7-Christensen-Stevens
+  170          4.00   4.00 8-Campbell-Davis vs 10-Jacobson-Rind
+ 1100          8.00   0.00 10-Romeo-Hovda vs 4-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   6.00 1-Delfs-Chalfan vs 8-Tipton-Hesson
+        100    2.00   6.00 2-Ring-Abernethy vs 10-Jacobson-Rind
+        100    2.00   6.00 4-Lewis-Davis vs 4-Sonkin-Saul
+  170          5.00   3.00 5-Cline-Hankins vs 7-Christensen-Stevens
+  620          6.50   1.50 6-Jarvis-Christiansen vs 6-Haldane-Anderson
+  650          8.00   0.00 7-Cowles-Laughary vs 9-Christie-Zaugg
+        100    2.00   6.00 8-Campbell-Davis vs 1-Fuhrman-Stuberg
+  620          6.50   1.50 9-Miller-Ford vs 3-Bender-Hostetler
+        100    2.00   6.00 10-Romeo-Hovda vs 5-Sivapragasam-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   5.00 1-Delfs-Chalfan vs 8-Tipton-Hesson
+        530    0.00   8.00 2-Ring-Abernethy vs 10-Jacobson-Rind
+   50          5.50   2.50 4-Lewis-Davis vs 4-Sonkin-Saul
+   90          8.00   0.00 5-Cline-Hankins vs 7-Christensen-Stevens
+   50          5.50   2.50 6-Jarvis-Christiansen vs 6-Haldane-Anderson
+   50          5.50   2.50 7-Cowles-Laughary vs 9-Christie-Zaugg
+        420    1.50   6.50 8-Campbell-Davis vs 1-Fuhrman-Stuberg
+   50          5.50   2.50 9-Miller-Ford vs 3-Bender-Hostetler
+        420    1.50   6.50 10-Romeo-Hovda vs 5-Sivapragasam-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   3.50 1-Delfs-Chalfan vs 8-Tipton-Hesson
+  630          8.00   0.00 2-Ring-Abernethy vs 10-Jacobson-Rind
+        100    1.50   6.50 4-Lewis-Davis vs 4-Sonkin-Saul
+   50          4.50   3.50 5-Cline-Hankins vs 7-Christensen-Stevens
+  620          6.50   1.50 6-Jarvis-Christiansen vs 6-Haldane-Anderson
+        100    1.50   6.50 7-Cowles-Laughary vs 9-Christie-Zaugg
+  620          6.50   1.50 8-Campbell-Davis vs 1-Fuhrman-Stuberg
+        100    1.50   6.50 9-Miller-Ford vs 3-Bender-Hostetler
+        100    1.50   6.50 10-Romeo-Hovda vs 5-Sivapragasam-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  710          2.50   5.50 1-Delfs-Chalfan vs 7-Christensen-Stevens
+ 1430          5.00   3.00 2-Ring-Abernethy vs 9-Christie-Zaugg
+  680          0.50   7.50 3-Kuschner-Sieg vs 1-Fuhrman-Stuberg
+ 1460          8.00   0.00 4-Lewis-Davis vs 3-Bender-Hostetler
+ 1430          5.00   3.00 5-Cline-Hankins vs 5-Sivapragasam-Jain
+  680          0.50   7.50 6-Jarvis-Christiansen vs 8-Tipton-Hesson
+  710          2.50   5.50 7-Cowles-Laughary vs 10-Jacobson-Rind
+ 1430          5.00   3.00 9-Miller-Ford vs 4-Sonkin-Saul
+ 1440          7.00   1.00 10-Romeo-Hovda vs 6-Haldane-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   2.00 1-Delfs-Chalfan vs 7-Christensen-Stevens
+   50          2.50   5.50 2-Ring-Abernethy vs 9-Christie-Zaugg
+   50          2.50   5.50 3-Kuschner-Sieg vs 1-Fuhrman-Stuberg
+   50          2.50   5.50 4-Lewis-Davis vs 3-Bender-Hostetler
+  300          8.00   0.00 5-Cline-Hankins vs 5-Sivapragasam-Jain
+  100          6.00   2.00 6-Jarvis-Christiansen vs 8-Tipton-Hesson
+   50          2.50   5.50 7-Cowles-Laughary vs 10-Jacobson-Rind
+  100          6.00   2.00 9-Miller-Ford vs 4-Sonkin-Saul
+        420    0.00   8.00 10-Romeo-Hovda vs 6-Haldane-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   3.00 1-Delfs-Chalfan vs 7-Christensen-Stevens
+  600          8.00   0.00 2-Ring-Abernethy vs 9-Christie-Zaugg
+   50          3.00   5.00 3-Kuschner-Sieg vs 1-Fuhrman-Stuberg
+  100          5.00   3.00 4-Lewis-Davis vs 3-Bender-Hostetler
+  300          7.00   1.00 5-Cline-Hankins vs 5-Sivapragasam-Jain
+        200    0.50   7.50 6-Jarvis-Christiansen vs 8-Tipton-Hesson
+  100          5.00   3.00 7-Cowles-Laughary vs 10-Jacobson-Rind
+        100    2.00   6.00 9-Miller-Ford vs 4-Sonkin-Saul
+        200    0.50   7.50 10-Romeo-Hovda vs 6-Haldane-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          4.00   4.00 1-Delfs-Chalfan vs 6-Haldane-Anderson
+  120          4.00   4.00 2-Ring-Abernethy vs 8-Tipton-Hesson
+  120          4.00   4.00 3-Kuschner-Sieg vs 10-Jacobson-Rind
+  150          6.50   1.50 5-Cline-Hankins vs 4-Sonkin-Saul
+        120    0.00   8.00 6-Jarvis-Christiansen vs 9-Christie-Zaugg
+  150          6.50   1.50 7-Cowles-Laughary vs 1-Fuhrman-Stuberg
+         50    1.00   7.00 8-Campbell-Davis vs 3-Bender-Hostetler
+  200          8.00   0.00 9-Miller-Ford vs 5-Sivapragasam-Jain
+  100          2.00   6.00 10-Romeo-Hovda vs 7-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   5.00 1-Delfs-Chalfan vs 6-Haldane-Anderson
+        100    0.50   7.50 2-Ring-Abernethy vs 8-Tipton-Hesson
+  110          5.50   2.50 3-Kuschner-Sieg vs 10-Jacobson-Rind
+  110          5.50   2.50 5-Cline-Hankins vs 4-Sonkin-Saul
+        100    0.50   7.50 6-Jarvis-Christiansen vs 9-Christie-Zaugg
+  140          7.50   0.50 7-Cowles-Laughary vs 1-Fuhrman-Stuberg
+         50    3.00   5.00 8-Campbell-Davis vs 3-Bender-Hostetler
+  140          7.50   0.50 9-Miller-Ford vs 5-Sivapragasam-Jain
+         50    3.00   5.00 10-Romeo-Hovda vs 7-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    4.00   4.00 1-Delfs-Chalfan vs 6-Haldane-Anderson
+        430    4.00   4.00 2-Ring-Abernethy vs 8-Tipton-Hesson
+        920    0.00   8.00 3-Kuschner-Sieg vs 10-Jacobson-Rind
+  100          8.00   0.00 5-Cline-Hankins vs 4-Sonkin-Saul
+        490    1.00   7.00 6-Jarvis-Christiansen vs 9-Christie-Zaugg
+        400    7.00   1.00 7-Cowles-Laughary vs 1-Fuhrman-Stuberg
+        430    4.00   4.00 8-Campbell-Davis vs 3-Bender-Hostetler
+        420    6.00   2.00 9-Miller-Ford vs 5-Sivapragasam-Jain
+        460    2.00   6.00 10-Romeo-Hovda vs 7-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          5.00   3.00 1-Delfs-Chalfan vs 5-Sivapragasam-Jain
+  490          5.00   3.00 2-Ring-Abernethy vs 7-Christensen-Stevens
+  490          5.00   3.00 3-Kuschner-Sieg vs 9-Christie-Zaugg
+  460          0.50   7.50 4-Lewis-Davis vs 1-Fuhrman-Stuberg
+  490          5.00   3.00 5-Cline-Hankins vs 3-Bender-Hostetler
+  490          5.00   3.00 6-Jarvis-Christiansen vs 10-Jacobson-Rind
+  490          5.00   3.00 8-Campbell-Davis vs 4-Sonkin-Saul
+  460          0.50   7.50 9-Miller-Ford vs 6-Haldane-Anderson
+  490          5.00   3.00 10-Romeo-Hovda vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   6.00 1-Delfs-Chalfan vs 5-Sivapragasam-Jain
+  630          5.50   2.50 2-Ring-Abernethy vs 7-Christensen-Stevens
+  630          5.50   2.50 3-Kuschner-Sieg vs 9-Christie-Zaugg
+  630          5.50   2.50 4-Lewis-Davis vs 1-Fuhrman-Stuberg
+  630          5.50   2.50 5-Cline-Hankins vs 3-Bender-Hostetler
+        100    0.50   7.50 6-Jarvis-Christiansen vs 10-Jacobson-Rind
+  620          3.00   5.00 8-Campbell-Davis vs 4-Sonkin-Saul
+        100    0.50   7.50 9-Miller-Ford vs 6-Haldane-Anderson
+  660          8.00   0.00 10-Romeo-Hovda vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          7.00   1.00 1-Delfs-Chalfan vs 5-Sivapragasam-Jain
+  690          8.00   0.00 2-Ring-Abernethy vs 7-Christensen-Stevens
+  130          2.00   6.00 3-Kuschner-Sieg vs 9-Christie-Zaugg
+        200    0.00   8.00 4-Lewis-Davis vs 1-Fuhrman-Stuberg
+  650          5.00   3.00 5-Cline-Hankins vs 3-Bender-Hostetler
+  650          5.00   3.00 6-Jarvis-Christiansen vs 10-Jacobson-Rind
+  200          3.00   5.00 8-Campbell-Davis vs 4-Sonkin-Saul
+        100    1.00   7.00 9-Miller-Ford vs 6-Haldane-Anderson
+  650          5.00   3.00 10-Romeo-Hovda vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   3.50 1-Delfs-Chalfan vs 4-Sonkin-Saul
+        100    2.00   6.00 2-Ring-Abernethy vs 6-Haldane-Anderson
+  800          8.00   0.00 3-Kuschner-Sieg vs 8-Tipton-Hesson
+         50    4.50   3.50 4-Lewis-Davis vs 10-Jacobson-Rind
+        150    0.00   8.00 6-Jarvis-Christiansen vs 1-Fuhrman-Stuberg
+        100    2.00   6.00 7-Cowles-Laughary vs 3-Bender-Hostetler
+    PASS       6.00   2.00 8-Campbell-Davis vs 5-Sivapragasam-Jain
+        100    2.00   6.00 9-Miller-Ford vs 7-Christensen-Stevens
+  500          7.00   1.00 10-Romeo-Hovda vs 9-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    4.50   3.50 1-Delfs-Chalfan vs 4-Sonkin-Saul
+        600    4.50   3.50 2-Ring-Abernethy vs 6-Haldane-Anderson
+        600    4.50   3.50 3-Kuschner-Sieg vs 8-Tipton-Hesson
+        130    8.00   0.00 4-Lewis-Davis vs 10-Jacobson-Rind
+        660    0.50   7.50 6-Jarvis-Christiansen vs 1-Fuhrman-Stuberg
+        150    7.00   1.00 7-Cowles-Laughary vs 3-Bender-Hostetler
+        600    4.50   3.50 8-Campbell-Davis vs 5-Sivapragasam-Jain
+        630    2.00   6.00 9-Miller-Ford vs 7-Christensen-Stevens
+        660    0.50   7.50 10-Romeo-Hovda vs 9-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   7.00 1-Delfs-Chalfan vs 4-Sonkin-Saul
+  130          6.00   2.00 2-Ring-Abernethy vs 6-Haldane-Anderson
+  130          6.00   2.00 3-Kuschner-Sieg vs 8-Tipton-Hesson
+  130          6.00   2.00 4-Lewis-Davis vs 10-Jacobson-Rind
+  130          6.00   2.00 6-Jarvis-Christiansen vs 1-Fuhrman-Stuberg
+  100          2.50   5.50 7-Cowles-Laughary vs 3-Bender-Hostetler
+  130          6.00   2.00 8-Campbell-Davis vs 5-Sivapragasam-Jain
+  100          2.50   5.50 9-Miller-Ford vs 7-Christensen-Stevens
+        100    0.00   8.00 10-Romeo-Hovda vs 9-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   6.00 1-Delfs-Chalfan vs 3-Bender-Hostetler
+        100    0.50   7.50 2-Ring-Abernethy vs 5-Sivapragasam-Jain
+  450          6.00   2.00 3-Kuschner-Sieg vs 7-Christensen-Stevens
+  420          4.50   3.50 4-Lewis-Davis vs 9-Christie-Zaugg
+  420          4.50   3.50 5-Cline-Hankins vs 1-Fuhrman-Stuberg
+  590          7.00   1.00 7-Cowles-Laughary vs 4-Sonkin-Saul
+  200          3.00   5.00 8-Campbell-Davis vs 6-Haldane-Anderson
+        100    0.50   7.50 9-Miller-Ford vs 8-Tipton-Hesson
+  690          8.00   0.00 10-Romeo-Hovda vs 10-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.00   4.00 1-Delfs-Chalfan vs 3-Bender-Hostetler
+        620    7.50   0.50 2-Ring-Abernethy vs 5-Sivapragasam-Jain
+        620    7.50   0.50 3-Kuschner-Sieg vs 7-Christensen-Stevens
+        680    1.00   7.00 4-Lewis-Davis vs 9-Christie-Zaugg
+        650    4.00   4.00 5-Cline-Hankins vs 1-Fuhrman-Stuberg
+       1100    0.00   8.00 7-Cowles-Laughary vs 4-Sonkin-Saul
+        650    4.00   4.00 8-Campbell-Davis vs 6-Haldane-Anderson
+        650    4.00   4.00 9-Miller-Ford vs 8-Tipton-Hesson
+        650    4.00   4.00 10-Romeo-Hovda vs 10-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.00   0.00 1-Delfs-Chalfan vs 3-Bender-Hostetler
+        500    0.00   8.00 2-Ring-Abernethy vs 5-Sivapragasam-Jain
+        100    5.00   3.00 3-Kuschner-Sieg vs 7-Christensen-Stevens
+        130    4.00   4.00 4-Lewis-Davis vs 9-Christie-Zaugg
+        150    1.00   7.00 5-Cline-Hankins vs 1-Fuhrman-Stuberg
+   50          7.00   1.00 7-Cowles-Laughary vs 4-Sonkin-Saul
+        140    2.50   5.50 8-Campbell-Davis vs 6-Haldane-Anderson
+        140    2.50   5.50 9-Miller-Ford vs 8-Tipton-Hesson
+         90    6.00   2.00 10-Romeo-Hovda vs 10-Jacobson-Rind
+----------------------------------------------------------------------
