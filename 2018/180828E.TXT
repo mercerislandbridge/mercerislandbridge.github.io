@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 28, 2018    |CLUB NO.>158048    | 08/28/2018 22:40
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=4/C=0                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             A                .     .     .   |   .     .     .     84.50  46.43          
+
+ 2 Terry Jacobson         Brad Rind                B       Q        .     .     .   |   .     .     .     78.50  43.13          
+
+ 3 Kevin Cline            David Hankins            B       Q        .     .     .   |   .     .     .     70.50  38.74          
+
+ 4 Ann Romeo              Helen Abbott             A   Q           3/4    .     .   |  3/4    .     .    101.00  55.49  0.84Red 
+                                                                                                                        0.83Blk 
+ 5 Mike Ring              Brian Zaugg              A                .     .     .   |   .     .     .     71.00  39.01          
+
+ 6 Beau Hovda             Daniel Poore             B   Q   Q        .     .     .   |   .     2     .     92.50  50.82  0.32Red 
+                                                                                                                        0.32Blk 
+ 7 Joel Fuhrman           Chris Pesce              A   Q            .     .     .   |   6     .     .     98.50  54.12  0.21Red 
+                                                                                                                        0.20Blk 
+ 8 Bryan Delfs            Eric Sieg                A   Q            5     .     .   |   5     .     .    100.50  55.22  0.54Red 
+                                                                                                                        0.53Blk 
+ 9 Jeffrey Ford           Kim Eng                  A                .     .     .   |   .     .     .     82.50  45.33          
+
+10 Mike Christensen       David Wright             A   Q            .     .     .   |   .     .     .     91.00  50.00          
+
+11 Gary Haldane           Sharon Miller            B   Q   Q        1     .     .   |   1     1     .    111.00  60.99  1.69Red 
+                                                                                                                        1.69Blk 
+12 Dave Setterholm        Douglas Kuschner         A   Q            .     .     .   |   .     .     .     93.00  51.10          
+
+13 David Roselle          Sue Anderson             A                .     .     .   |   .     .     .     83.50  45.88          
+
+14 Dennis Heller          Connie Heller            A                .     .     .   |   .     .     .     86.50  47.53          
+
+15 Stanford Christie      Shawn Abernethy          A   Q           3/4    .     .   |  3/4    .     .    101.00  55.49  0.84Red 
+                                                                                                                        0.83Blk 
+16 Peiyush Jain           Arvind Ranasaria         A   Q            2     .     .   |   2     .     .    110.50  60.71  1.27Red 
+                                                                                                                        1.27Blk 
+
+                                          Totals                                                        1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.50   1.50 4-Romeo-Abbott vs 14-Heller-Heller
+  100          2.00   5.00 6-Hovda-Poore vs 5-Ring-Zaugg
+  100          2.00   5.00 8-Delfs-Sieg vs 12-Setterholm-Kuschner
+  100          2.00   5.00 9-Ford-Eng vs 11-Haldane-Miller
+  100          2.00   5.00 10-Christensen-Wright vs 2-Jacobson-Rind
+  100          2.00   5.00 13-Roselle-Anderson vs 7-Fuhrman-Pesce
+  500          7.00   0.00 15-Christie-Abernethy vs 3-Cline-Hankins
+  140          5.50   1.50 16-Jain-Ranasaria vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   6.00 4-Romeo-Abbott vs 14-Heller-Heller
+   50          3.50   3.50 6-Hovda-Poore vs 5-Ring-Zaugg
+  140          6.00   1.00 8-Delfs-Sieg vs 12-Setterholm-Kuschner
+         90    2.00   5.00 9-Ford-Eng vs 11-Haldane-Miller
+  200          7.00   0.00 10-Christensen-Wright vs 2-Jacobson-Rind
+   90          5.00   2.00 13-Roselle-Anderson vs 7-Fuhrman-Pesce
+        800    0.00   7.00 15-Christie-Abernethy vs 3-Cline-Hankins
+   50          3.50   3.50 16-Jain-Ranasaria vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   5.00 1-Tipton-Hesson vs 8-Delfs-Sieg
+         50    2.00   5.00 4-Romeo-Abbott vs 15-Christie-Abernethy
+         50    2.00   5.00 5-Ring-Zaugg vs 14-Heller-Heller
+         50    2.00   5.00 7-Fuhrman-Pesce vs 6-Hovda-Poore
+  100          5.00   2.00 9-Ford-Eng vs 13-Roselle-Anderson
+         50    2.00   5.00 10-Christensen-Wright vs 12-Setterholm-Kuschner
+  200          7.00   0.00 11-Haldane-Miller vs 3-Cline-Hankins
+  110          6.00   1.00 16-Jain-Ranasaria vs 2-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          3.00   4.00 1-Tipton-Hesson vs 8-Delfs-Sieg
+        200    0.00   7.00 4-Romeo-Abbott vs 15-Christie-Abernethy
+  120          3.00   4.00 5-Ring-Zaugg vs 14-Heller-Heller
+  120          3.00   4.00 7-Fuhrman-Pesce vs 6-Hovda-Poore
+  120          3.00   4.00 9-Ford-Eng vs 13-Roselle-Anderson
+  120          3.00   4.00 10-Christensen-Wright vs 12-Setterholm-Kuschner
+  150          6.00   1.00 11-Haldane-Miller vs 3-Cline-Hankins
+  180          7.00   0.00 16-Jain-Ranasaria vs 2-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    6.50   0.50 2-Jacobson-Rind vs 9-Ford-Eng
+        140    2.50   4.50 5-Ring-Zaugg vs 15-Christie-Abernethy
+        140    2.50   4.50 6-Hovda-Poore vs 14-Heller-Heller
+        110    4.50   2.50 8-Delfs-Sieg vs 7-Fuhrman-Pesce
+        110    4.50   2.50 10-Christensen-Wright vs 1-Tipton-Hesson
+        100    6.50   0.50 11-Haldane-Miller vs 13-Roselle-Anderson
+        200    0.50   6.50 12-Setterholm-Kuschner vs 4-Romeo-Abbott
+        200    0.50   6.50 16-Jain-Ranasaria vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   6.00 2-Jacobson-Rind vs 9-Ford-Eng
+        130    2.50   4.50 5-Ring-Zaugg vs 15-Christie-Abernethy
+        130    2.50   4.50 6-Hovda-Poore vs 14-Heller-Heller
+         50    7.00   0.00 8-Delfs-Sieg vs 7-Fuhrman-Pesce
+        110    5.00   2.00 10-Christensen-Wright vs 1-Tipton-Hesson
+        110    5.00   2.00 11-Haldane-Miller vs 13-Roselle-Anderson
+        630    0.00   7.00 12-Setterholm-Kuschner vs 4-Romeo-Abbott
+        110    5.00   2.00 16-Jain-Ranasaria vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   7.00 3-Cline-Hankins vs 10-Christensen-Wright
+  120          7.00   0.00 6-Hovda-Poore vs 15-Christie-Abernethy
+  110          5.50   1.50 9-Ford-Eng vs 8-Delfs-Sieg
+  110          5.50   1.50 11-Haldane-Miller vs 2-Jacobson-Rind
+  100          3.00   4.00 12-Setterholm-Kuschner vs 1-Tipton-Hesson
+  100          3.00   4.00 13-Roselle-Anderson vs 5-Ring-Zaugg
+         80    1.00   6.00 14-Heller-Heller vs 7-Fuhrman-Pesce
+  100          3.00   4.00 16-Jain-Ranasaria vs 4-Romeo-Abbott
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          5.00   2.00 3-Cline-Hankins vs 10-Christensen-Wright
+        140    0.00   7.00 6-Hovda-Poore vs 15-Christie-Abernethy
+  110          4.00   3.00 9-Ford-Eng vs 8-Delfs-Sieg
+         50    3.00   4.00 11-Haldane-Miller vs 2-Jacobson-Rind
+        100    1.50   5.50 12-Setterholm-Kuschner vs 1-Tipton-Hesson
+  530          7.00   0.00 13-Roselle-Anderson vs 5-Ring-Zaugg
+        100    1.50   5.50 14-Heller-Heller vs 7-Fuhrman-Pesce
+  140          6.00   1.00 16-Jain-Ranasaria vs 4-Romeo-Abbott
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   6.00 1-Tipton-Hesson vs 6-Hovda-Poore
+   90          4.00   3.00 4-Romeo-Abbott vs 11-Haldane-Miller
+   90          4.00   3.00 7-Fuhrman-Pesce vs 15-Christie-Abernethy
+   90          4.00   3.00 10-Christensen-Wright vs 9-Ford-Eng
+  100          6.00   1.00 12-Setterholm-Kuschner vs 3-Cline-Hankins
+         50    1.00   6.00 13-Roselle-Anderson vs 2-Jacobson-Rind
+         50    1.00   6.00 14-Heller-Heller vs 8-Delfs-Sieg
+  110          7.00   0.00 16-Jain-Ranasaria vs 5-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        230    3.00   4.00 1-Tipton-Hesson vs 6-Hovda-Poore
+        650    1.50   5.50 4-Romeo-Abbott vs 11-Haldane-Miller
+        200    5.50   1.50 7-Fuhrman-Pesce vs 15-Christie-Abernethy
+        200    5.50   1.50 10-Christensen-Wright vs 9-Ford-Eng
+        200    5.50   1.50 12-Setterholm-Kuschner vs 3-Cline-Hankins
+        650    1.50   5.50 13-Roselle-Anderson vs 2-Jacobson-Rind
+       1100    0.00   7.00 14-Heller-Heller vs 8-Delfs-Sieg
+        200    5.50   1.50 16-Jain-Ranasaria vs 5-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          7.00   0.00 1-Tipton-Hesson vs 3-Cline-Hankins
+  200          6.00   1.00 2-Jacobson-Rind vs 7-Fuhrman-Pesce
+        100    2.50   4.50 5-Ring-Zaugg vs 12-Setterholm-Kuschner
+        100    2.50   4.50 8-Delfs-Sieg vs 15-Christie-Abernethy
+   90          4.00   3.00 11-Haldane-Miller vs 10-Christensen-Wright
+        300    1.00   6.00 13-Roselle-Anderson vs 4-Romeo-Abbott
+        470    0.00   7.00 14-Heller-Heller vs 9-Ford-Eng
+  130          5.00   2.00 16-Jain-Ranasaria vs 6-Hovda-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   3.00 1-Tipton-Hesson vs 3-Cline-Hankins
+        200    2.00   5.00 2-Jacobson-Rind vs 7-Fuhrman-Pesce
+        300    0.00   7.00 5-Ring-Zaugg vs 12-Setterholm-Kuschner
+        100    5.00   2.00 8-Delfs-Sieg vs 15-Christie-Abernethy
+         90    6.00   1.00 11-Haldane-Miller vs 10-Christensen-Wright
+        200    2.00   5.00 13-Roselle-Anderson vs 4-Romeo-Abbott
+   50          7.00   0.00 14-Heller-Heller vs 9-Ford-Eng
+        200    2.00   5.00 16-Jain-Ranasaria vs 6-Hovda-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.50   2.50 1-Tipton-Hesson vs 5-Ring-Zaugg
+  650          4.50   2.50 2-Jacobson-Rind vs 4-Romeo-Abbott
+  650          4.50   2.50 3-Cline-Hankins vs 8-Delfs-Sieg
+  650          4.50   2.50 6-Hovda-Poore vs 13-Roselle-Anderson
+        200    0.00   7.00 9-Ford-Eng vs 15-Christie-Abernethy
+        100    1.00   6.00 12-Setterholm-Kuschner vs 11-Haldane-Miller
+  650          4.50   2.50 14-Heller-Heller vs 10-Christensen-Wright
+  650          4.50   2.50 16-Jain-Ranasaria vs 7-Fuhrman-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          0.00   7.00 1-Tipton-Hesson vs 5-Ring-Zaugg
+  500          2.00   5.00 2-Jacobson-Rind vs 4-Romeo-Abbott
+  510          3.50   3.50 3-Cline-Hankins vs 8-Delfs-Sieg
+  440          1.00   6.00 6-Hovda-Poore vs 13-Roselle-Anderson
+  510          3.50   3.50 9-Ford-Eng vs 15-Christie-Abernethy
+  940          6.00   1.00 12-Setterholm-Kuschner vs 11-Haldane-Miller
+  940          6.00   1.00 14-Heller-Heller vs 10-Christensen-Wright
+  940          6.00   1.00 16-Jain-Ranasaria vs 7-Fuhrman-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  720          4.50   2.50 2-Jacobson-Rind vs 6-Hovda-Poore
+ 1470          7.00   0.00 3-Cline-Hankins vs 5-Ring-Zaugg
+  690          1.50   5.50 4-Romeo-Abbott vs 9-Ford-Eng
+  720          4.50   2.50 7-Fuhrman-Pesce vs 1-Tipton-Hesson
+  690          1.50   5.50 10-Christensen-Wright vs 15-Christie-Abernethy
+ 1400          6.00   1.00 13-Roselle-Anderson vs 12-Setterholm-Kuschner
+  690          1.50   5.50 14-Heller-Heller vs 11-Haldane-Miller
+  690          1.50   5.50 16-Jain-Ranasaria vs 8-Delfs-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.00   7.00 2-Jacobson-Rind vs 6-Hovda-Poore
+        190    3.50   3.50 3-Cline-Hankins vs 5-Ring-Zaugg
+  100          7.00   0.00 4-Romeo-Abbott vs 9-Ford-Eng
+        600    1.50   5.50 7-Fuhrman-Pesce vs 1-Tipton-Hesson
+        120    6.00   1.00 10-Christensen-Wright vs 15-Christie-Abernethy
+        600    1.50   5.50 13-Roselle-Anderson vs 12-Setterholm-Kuschner
+        130    5.00   2.00 14-Heller-Heller vs 11-Haldane-Miller
+        190    3.50   3.50 16-Jain-Ranasaria vs 8-Delfs-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   3.50 1-Tipton-Hesson vs 13-Roselle-Anderson
+  110          1.00   6.00 3-Cline-Hankins vs 7-Fuhrman-Pesce
+  140          3.50   3.50 4-Romeo-Abbott vs 6-Hovda-Poore
+  420          7.00   0.00 5-Ring-Zaugg vs 10-Christensen-Wright
+  140          3.50   3.50 8-Delfs-Sieg vs 2-Jacobson-Rind
+        200    0.00   7.00 14-Heller-Heller vs 12-Setterholm-Kuschner
+  400          6.00   1.00 15-Christie-Abernethy vs 11-Haldane-Miller
+  140          3.50   3.50 16-Jain-Ranasaria vs 9-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        940    1.50   5.50 1-Tipton-Hesson vs 13-Roselle-Anderson
+        940    1.50   5.50 3-Cline-Hankins vs 7-Fuhrman-Pesce
+        490    5.50   1.50 4-Romeo-Abbott vs 6-Hovda-Poore
+        940    1.50   5.50 5-Ring-Zaugg vs 10-Christensen-Wright
+ 1370          7.00   0.00 8-Delfs-Sieg vs 2-Jacobson-Rind
+        940    1.50   5.50 14-Heller-Heller vs 12-Setterholm-Kuschner
+        490    5.50   1.50 15-Christie-Abernethy vs 11-Haldane-Miller
+        920    4.00   3.00 16-Jain-Ranasaria vs 9-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   6.00 2-Jacobson-Rind vs 1-Tipton-Hesson
+         90    5.00   2.00 4-Romeo-Abbott vs 8-Delfs-Sieg
+        100    3.00   4.00 5-Ring-Zaugg vs 7-Fuhrman-Pesce
+        120    1.00   6.00 6-Hovda-Poore vs 11-Haldane-Miller
+         90    5.00   2.00 9-Ford-Eng vs 3-Cline-Hankins
+        120    1.00   6.00 14-Heller-Heller vs 13-Roselle-Anderson
+         90    5.00   2.00 15-Christie-Abernethy vs 12-Setterholm-Kuschner
+  300          7.00   0.00 16-Jain-Ranasaria vs 10-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.50   2.50 2-Jacobson-Rind vs 1-Tipton-Hesson
+  750          7.00   0.00 4-Romeo-Abbott vs 8-Delfs-Sieg
+        200    0.00   7.00 5-Ring-Zaugg vs 7-Fuhrman-Pesce
+        140    1.00   6.00 6-Hovda-Poore vs 11-Haldane-Miller
+  100          3.00   4.00 9-Ford-Eng vs 3-Cline-Hankins
+  130          6.00   1.00 14-Heller-Heller vs 13-Roselle-Anderson
+        100    2.00   5.00 15-Christie-Abernethy vs 12-Setterholm-Kuschner
+  110          4.50   2.50 16-Jain-Ranasaria vs 10-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   7.00 1-Tipton-Hesson vs 14-Heller-Heller
+        110    3.00   4.00 3-Cline-Hankins vs 2-Jacobson-Rind
+        140    1.50   5.50 5-Ring-Zaugg vs 9-Ford-Eng
+   50          5.50   1.50 6-Hovda-Poore vs 8-Delfs-Sieg
+        140    1.50   5.50 7-Fuhrman-Pesce vs 12-Setterholm-Kuschner
+   50          5.50   1.50 10-Christensen-Wright vs 4-Romeo-Abbott
+   50          5.50   1.50 15-Christie-Abernethy vs 13-Roselle-Anderson
+   50          5.50   1.50 16-Jain-Ranasaria vs 11-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   3.50 1-Tipton-Hesson vs 14-Heller-Heller
+        150    0.50   6.50 3-Cline-Hankins vs 2-Jacobson-Rind
+         50    6.50   0.50 5-Ring-Zaugg vs 9-Ford-Eng
+        100    3.50   3.50 6-Hovda-Poore vs 8-Delfs-Sieg
+         50    6.50   0.50 7-Fuhrman-Pesce vs 12-Setterholm-Kuschner
+        100    3.50   3.50 10-Christensen-Wright vs 4-Romeo-Abbott
+        150    0.50   6.50 15-Christie-Abernethy vs 13-Roselle-Anderson
+        100    3.50   3.50 16-Jain-Ranasaria vs 11-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   7.00 2-Jacobson-Rind vs 14-Heller-Heller
+  110          3.00   4.00 4-Romeo-Abbott vs 3-Cline-Hankins
+  130          4.50   2.50 6-Hovda-Poore vs 10-Christensen-Wright
+        100    2.00   5.00 7-Fuhrman-Pesce vs 9-Ford-Eng
+  150          6.00   1.00 8-Delfs-Sieg vs 13-Roselle-Anderson
+  710          7.00   0.00 11-Haldane-Miller vs 5-Ring-Zaugg
+        110    1.00   6.00 15-Christie-Abernethy vs 1-Tipton-Hesson
+  130          4.50   2.50 16-Jain-Ranasaria vs 12-Setterholm-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    5.00   2.00 2-Jacobson-Rind vs 14-Heller-Heller
+         50    6.50   0.50 4-Romeo-Abbott vs 3-Cline-Hankins
+        230    1.00   6.00 6-Hovda-Poore vs 10-Christensen-Wright
+         50    6.50   0.50 7-Fuhrman-Pesce vs 9-Ford-Eng
+        200    3.00   4.00 8-Delfs-Sieg vs 13-Roselle-Anderson
+        200    3.00   4.00 11-Haldane-Miller vs 5-Ring-Zaugg
+        200    3.00   4.00 15-Christie-Abernethy vs 1-Tipton-Hesson
+        480    0.00   7.00 16-Jain-Ranasaria vs 12-Setterholm-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.50   0.50 3-Cline-Hankins vs 14-Heller-Heller
+        150    1.50   5.50 5-Ring-Zaugg vs 4-Romeo-Abbott
+  100          6.50   0.50 7-Fuhrman-Pesce vs 11-Haldane-Miller
+        140    3.50   3.50 8-Delfs-Sieg vs 10-Christensen-Wright
+        140    3.50   3.50 9-Ford-Eng vs 1-Tipton-Hesson
+        150    1.50   5.50 12-Setterholm-Kuschner vs 6-Hovda-Poore
+        100    5.00   2.00 15-Christie-Abernethy vs 2-Jacobson-Rind
+        620    0.00   7.00 16-Jain-Ranasaria vs 13-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.00   5.00 3-Cline-Hankins vs 14-Heller-Heller
+  630          6.50   0.50 5-Ring-Zaugg vs 4-Romeo-Abbott
+  130          2.00   5.00 7-Fuhrman-Pesce vs 11-Haldane-Miller
+  130          2.00   5.00 8-Delfs-Sieg vs 10-Christensen-Wright
+  150          4.50   2.50 9-Ford-Eng vs 1-Tipton-Hesson
+  100          0.00   7.00 12-Setterholm-Kuschner vs 6-Hovda-Poore
+  150          4.50   2.50 15-Christie-Abernethy vs 2-Jacobson-Rind
+  630          6.50   0.50 16-Jain-Ranasaria vs 13-Roselle-Anderson
+----------------------------------------------------------------------
