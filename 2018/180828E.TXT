@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>August 28, 2018    |CLUB NO.>158048    | 08/28/2018 22:40
+DATE>August 28, 2018    |CLUB NO.>158048    | 09/04/2018 18:40
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -13,36 +13,36 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
 ------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
  1 Nick Tipton            Galen Hesson             A                .     .     .   |   .     .     .     84.50  46.43          
 
- 2 Terry Jacobson         Brad Rind                B       Q        .     .     .   |   .     .     .     78.50  43.13          
+ 2 Terry Jacobson         Brad Rind                B       Q        .     .     .   |   .     .     .     81.00  44.51          
 
  3 Kevin Cline            David Hankins            B       Q        .     .     .   |   .     .     .     70.50  38.74          
 
- 4 Ann Romeo              Helen Abbott             A   Q           3/4    .     .   |  3/4    .     .    101.00  55.49  0.84Red 
+ 4 Ann Romeo              Helen Abbott             A   Q           3/4    .     .   |  3/4    .     .    102.00  56.04  0.84Red 
                                                                                                                         0.83Blk 
  5 Mike Ring              Brian Zaugg              A                .     .     .   |   .     .     .     71.00  39.01          
 
- 6 Beau Hovda             Daniel Poore             B   Q   Q        .     .     .   |   .     2     .     92.50  50.82  0.32Red 
+ 6 Beau Hovda             Daniel Poore             B   Q   Q        .     .     .   |   .     2     .     91.50  50.27  0.32Red 
                                                                                                                         0.32Blk 
- 7 Joel Fuhrman           Chris Pesce              A   Q            .     .     .   |   6     .     .     98.50  54.12  0.21Red 
-                                                                                                                        0.20Blk 
- 8 Bryan Delfs            Eric Sieg                A   Q            5     .     .   |   5     .     .    100.50  55.22  0.54Red 
+ 7 Joel Fuhrman           Chris Pesce              A   Q            5     .     .   |   5     .     .     98.50  54.12  0.54Red 
                                                                                                                         0.53Blk 
- 9 Jeffrey Ford           Kim Eng                  A                .     .     .   |   .     .     .     82.50  45.33          
+ 8 Bryan Delfs            Eric Sieg                A   Q            .     .     .   |   6     .     .     98.00  53.85  0.21Red 
+                                                                                                                        0.20Blk 
+ 9 Jeffrey Ford           Kim Eng                  A                .     .     .   |   .     .     .     82.00  45.05          
 
 10 Mike Christensen       David Wright             A   Q            .     .     .   |   .     .     .     91.00  50.00          
 
-11 Gary Haldane           Sharon Miller            B   Q   Q        1     .     .   |   1     1     .    111.00  60.99  1.69Red 
-                                                                                                                        1.69Blk 
+11 Gary Haldane           Sharon Miller            B   Q   Q        2     .     .   |   2     1     .    110.00  60.44  1.27Red 
+                                                                                                                        1.27Blk 
 12 Dave Setterholm        Douglas Kuschner         A   Q            .     .     .   |   .     .     .     93.00  51.10          
 
 13 David Roselle          Sue Anderson             A                .     .     .   |   .     .     .     83.50  45.88          
 
 14 Dennis Heller          Connie Heller            A                .     .     .   |   .     .     .     86.50  47.53          
 
-15 Stanford Christie      Shawn Abernethy          A   Q           3/4    .     .   |  3/4    .     .    101.00  55.49  0.84Red 
+15 Stanford Christie      Shawn Abernethy          A   Q           3/4    .     .   |  3/4    .     .    102.00  56.04  0.84Red 
                                                                                                                         0.83Blk 
-16 Peiyush Jain           Arvind Ranasaria         A   Q            2     .     .   |   2     .     .    110.50  60.71  1.27Red 
-                                                                                                                        1.27Blk 
+16 Peiyush Jain           Arvind Ranasaria         A   Q            1     .     .   |   1     .     .    111.00  60.99  1.69Red 
+                                                                                                                        1.69Blk 
 
                                           Totals                                                        1456.00       
 
@@ -290,12 +290,12 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   N-S   E-W    N-S    E-W
         940    1.50   5.50 1-Tipton-Hesson vs 13-Roselle-Anderson
         940    1.50   5.50 3-Cline-Hankins vs 7-Fuhrman-Pesce
-        490    5.50   1.50 4-Romeo-Abbott vs 6-Hovda-Poore
+        490    6.50   0.50 4-Romeo-Abbott vs 6-Hovda-Poore
         940    1.50   5.50 5-Ring-Zaugg vs 10-Christensen-Wright
- 1370          7.00   0.00 8-Delfs-Sieg vs 2-Jacobson-Rind
+        920    4.50   2.50 8-Delfs-Sieg vs 2-Jacobson-Rind
         940    1.50   5.50 14-Heller-Heller vs 12-Setterholm-Kuschner
-        490    5.50   1.50 15-Christie-Abernethy vs 11-Haldane-Miller
-        920    4.00   3.00 16-Jain-Ranasaria vs 9-Ford-Eng
+        490    6.50   0.50 15-Christie-Abernethy vs 11-Haldane-Miller
+        920    4.50   2.50 16-Jain-Ranasaria vs 9-Ford-Eng
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 19
