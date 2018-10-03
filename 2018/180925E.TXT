@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 25, 2018 |CLUB NO.>158048    | 09/25/2018 22:20
+DATE>September 25, 2018 |CLUB NO.>158048    | 10/02/2018 19:08
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Bryan & Shawn   |RATING>Club International Fund      |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,11 +11,11 @@ PAIRS IN STRAT A=9/B=5/C=1                       ,---,-----------------,--------
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 David Binney           Andrea James             A   .     .     .   |   3     .     .    101.25  53.57  0.70(SA)
+ 1 David Binney           Andrea James             A   .     .     .   |   4     .     .    100.69  53.28  0.49(SA)
 
- 2 Gary Haldane           Sharon Miller            B   .     .     .   |   .     .     .     76.50  40.48          
+ 2 Gary Haldane           Sharon Miller            B   .     .     .   |   .     .     .     75.38  39.88          
 
- 3 Shawn Abernethy        Ken Christiansen         A   .     .     .   |   4     .     .    100.13  52.98  0.49(SA)
+ 3 Shawn Abernethy        Ken Christiansen         A   .     .     .   |   3     .     .    101.81  53.87  0.70(SA)
 
  4 Kevin Cline            David Hankins            B   4     2     .   |   2     1     .    107.44  56.85  1.22(OB)
 
@@ -23,9 +23,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
  6 Tim White              Renae Gunstone-White     B   .     .     .   |   .     .     .     80.44  42.56          
 
- 7 Bryan Delfs            Eric Sieg                A   2     .     .   |   1     .     .    115.88  61.31  2.08(OA)
+ 7 Bryan Delfs            Eric Sieg                A   1     .     .   |   1     .     .    117.00  61.90  2.77(OA)
 
- 8 Ray Miller             Jennifer Chalfan         A   .     .     .   |   .     .     .     95.06  50.30          
+ 8 Ray Miller             Jennifer Chalfan         A   .     .     .   |   .     .     .     93.94  49.70          
 
  9 Terry Jacobson         Brad Rind                C   .     .     .   |   .     2     .     90.00  47.62  0.54(SB)
 
@@ -33,7 +33,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
                                           Totals                                            850.51       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 25, 2018 |CLUB NO.>158048    | 09/25/2018 22:20
+DATE>September 25, 2018 |CLUB NO.>158048    | 10/02/2018 19:08
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Bryan & Shawn   |RATING>Club International Fund      |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -43,21 +43,21 @@ PAIRS IN STRAT A=9/B=6/C=2                       ,---,-----------------,--------
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Stanford Christie      Jeffrey Ford             A   5     .     .   |   3     .     .    106.00  56.08  0.88(OA)
+ 1 Stanford Christie      Jeffrey Ford             A   5     .     .   |   3     .     .    106.50  56.35  0.88(OA)
 
  2 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     73.50  38.89          
 
- 3 David Roselle          Sue Anderson             B   .     3     .   |   4     2     .    105.00  55.56  0.92(OB)
+ 3 David Roselle          Sue Anderson             B   .     3     .   |   4     2     .    106.00  56.08  0.92(OB)
 
  4 Joel Fuhrman           Dex Stuberg              B   .     .     .   |   .     .     .     79.50  42.06          
 
- 5 Clay Laughary          Pete Cowles              C   .     .     .   |   .     .     .     69.50  36.77          
+ 5 Clay Laughary          Pete Cowles              C   .     .     .   |   .     .     .     76.00  40.21          
 
 
 
- 7 Mike Ring              Brian Zaugg              A   1     .     .   |   1     .     .    117.50  62.17  2.77(OA)
+ 7 Mike Ring              Brian Zaugg              A   3     .     .   |   2     .     .    109.50  57.94  1.56(OA)
 
- 8 Mike Christensen       David Wright             B   3     1     .   |   2     1     .    112.00  59.26  1.63(OB)
+ 8 Mike Christensen       David Wright             B   2     1     .   |   1     1     .    112.00  59.26  2.08(OA)
 
  9 Beau Hovda             Daniel Poore             C   .     4     .   |   .     .     .     93.00  49.21  0.69(OB)
 
@@ -96,14 +96,14 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        100    1.00   6.00 1-Binney-James vs 1-Christie-Ford
+        100    1.50   5.50 1-Binney-James vs 1-Christie-Ford
         150    0.00   7.00 2-Haldane-Miller vs 3-Roselle-Anderson
-  200          7.00   0.00 3-Abernethy-Christiansen vs 5-Laughary-Cowles
-         50    3.50   3.50 4-Cline-Hankins vs 7-Ring-Zaugg
-         50    3.50   3.50 5-Ruprecht-Jarvis vs 9-Hovda-Poore
-  140          6.00   1.00 6-White-Gunstone-White vs 2-Tipton-Hesson
-         50    3.50   3.50 7-Delfs-Sieg vs 4-Fuhrman-Stuberg
-         50    3.50   3.50 9-Jacobson-Rind vs 8-Christensen-Wright
+        100    1.50   5.50 3-Abernethy-Christiansen vs 5-Laughary-Cowles
+         50    4.50   2.50 4-Cline-Hankins vs 7-Ring-Zaugg
+         50    4.50   2.50 5-Ruprecht-Jarvis vs 9-Hovda-Poore
+  140          7.00   0.00 6-White-Gunstone-White vs 2-Tipton-Hesson
+         50    4.50   2.50 7-Delfs-Sieg vs 4-Fuhrman-Stuberg
+         50    4.50   2.50 9-Jacobson-Rind vs 8-Christensen-Wright
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 4
@@ -376,14 +376,14 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  200          7.00   0.00 1-Binney-James vs 3-Roselle-Anderson
-        110    3.00   4.00 2-Haldane-Miller vs 5-Laughary-Cowles
-        300    0.00   7.00 3-Abernethy-Christiansen vs 7-Ring-Zaugg
-        110    3.00   4.00 4-Cline-Hankins vs 9-Hovda-Poore
-        110    3.00   4.00 5-Ruprecht-Jarvis vs 2-Tipton-Hesson
-        110    3.00   4.00 6-White-Gunstone-White vs 4-Fuhrman-Stuberg
-        110    3.00   4.00 8-Miller-Chalfan vs 8-Christensen-Wright
-  100          6.00   1.00 9-Jacobson-Rind vs 1-Christie-Ford
+  200          6.00   1.00 1-Binney-James vs 3-Roselle-Anderson
+        110    2.00   5.00 2-Haldane-Miller vs 5-Laughary-Cowles
+  300          7.00   0.00 3-Abernethy-Christiansen vs 7-Ring-Zaugg
+        110    2.00   5.00 4-Cline-Hankins vs 9-Hovda-Poore
+        110    2.00   5.00 5-Ruprecht-Jarvis vs 2-Tipton-Hesson
+        110    2.00   5.00 6-White-Gunstone-White vs 4-Fuhrman-Stuberg
+        110    2.00   5.00 8-Miller-Chalfan vs 8-Christensen-Wright
+  100          5.00   2.00 9-Jacobson-Rind vs 1-Christie-Ford
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 24
