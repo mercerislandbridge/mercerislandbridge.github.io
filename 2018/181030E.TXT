@@ -1,0 +1,501 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>October 30, 2018   |CLUB NO.>158048    | 10/30/2018 22:28
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim And Shawn   |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Kevin Cline            David Hankins            B   1/2    1     .    138.50  57.00  0.85(A) 
+
+ 2 Mike Ring              Shawn Abernethy          B   4/5    3     .    126.50  52.06  0.32(B) 
+
+ 3 Muhunthan Sivapragasam Thomas Stever            B    .     .     .    112.50  46.30          
+
+ 4 Gregory Herman         Eric Sieg                B    3     2     .    129.50  53.29  0.50(A) 
+
+ 5 Steven Mark Lewis      Grant Davis              C    .     .     .    106.00  43.62          
+
+ 6 Jeffrey Ford           Brian Zaugg              A   4/5    .     .    126.50  52.06  0.28(A) 
+
+ 7 Helen Pyne             Sylvia Bailey            C    .     .     1    123.00  50.62  0.24(C) 
+
+ 8 Ulrich Hetmaniuk       James Downing            C    .     .     .     90.00  37.04          
+
+ 9 Rex Tu                 Marilyn Breeze           B    .     .     .    124.00  51.03          
+
+10 Stanford Christie      Nelson Davis             A   1/2    .     .    138.50  57.00  0.85(A) 
+
+
+                                          Totals                        1215.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>October 30, 2018   |CLUB NO.>158048    | 10/30/2018 22:28
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim And Shawn   |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Christensen       Becky Stevens            A   3/4    .     .    133.50  54.94  0.43(A) 
+
+ 2 Gary Haldane           Sharon Miller            B    .     .     .    113.00  46.50          
+
+ 3 Christopher Jarvis     Chris Pesce              B    .     .     .    106.00  43.62          
+
+ 4 Adam Ruprecht          Kim Eng                  B   3/4    3     .    133.50  54.94  0.43(A) 
+
+ 5 Clay Laughary          Pete Cowles              C    .     .     .    101.50  41.77          
+
+ 6 Hugh Hendrickson       Ivan Popivanov           B    1     1     .    152.50  62.76  1.00(A) 
+
+ 7 Peiyush Jain           Arvind Ranasaria         A    .     .     .    112.00  46.09          
+
+ 8 Bruce Baker-Harvey     Jeannie Falls            C    .     .     1    126.00  51.85  0.16(C) 
+
+ 9 Nick Tipton            Galen Hesson             B    .     .     .    102.00  41.98          
+
+10 Albert Bender          B Drajpuch               B    2     2     .    135.00  55.56  0.70(A) 
+
+
+                                          Totals                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.00   3.00 1-Cline-Hankins vs 1-Christensen-Stevens
+        110    0.00   9.00 2-Ring-Abernethy vs 4-Ruprecht-Eng
+  140          6.00   3.00 3-Sivapragasam-Stever vs 6-Hendrickson-Popivanov
+         50    1.50   7.50 4-Herman-Sieg vs 8-Baker-Harvey-Falls
+  100          3.00   6.00 5-Lewis-Davis vs 10-Bender-Drajpuch
+  300          9.00   0.00 6-Ford-Zaugg vs 3-Jarvis-Pesce
+         50    1.50   7.50 7-Pyne-Bailey vs 5-Laughary-Cowles
+  110          4.00   5.00 8-Hetmaniuk-Downing vs 7-Jain-Ranasaria
+  200          8.00   1.00 9-Tu-Breeze vs 9-Tipton-Hesson
+  140          6.00   3.00 10-Christie-Davis vs 2-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.50   8.50 1-Cline-Hankins vs 1-Christensen-Stevens
+  140          6.50   2.50 2-Ring-Abernethy vs 4-Ruprecht-Eng
+        100    2.50   6.50 3-Sivapragasam-Stever vs 6-Hendrickson-Popivanov
+  200          9.00   0.00 4-Herman-Sieg vs 8-Baker-Harvey-Falls
+  170          8.00   1.00 5-Lewis-Davis vs 10-Bender-Drajpuch
+        100    2.50   6.50 6-Ford-Zaugg vs 3-Jarvis-Pesce
+  140          6.50   2.50 7-Pyne-Bailey vs 5-Laughary-Cowles
+        120    0.50   8.50 8-Hetmaniuk-Downing vs 7-Jain-Ranasaria
+         90    4.50   4.50 9-Tu-Breeze vs 9-Tipton-Hesson
+         90    4.50   4.50 10-Christie-Davis vs 2-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.50   1.50 1-Cline-Hankins vs 1-Christensen-Stevens
+  200          9.00   0.00 2-Ring-Abernethy vs 4-Ruprecht-Eng
+        150    0.50   8.50 3-Sivapragasam-Stever vs 6-Hendrickson-Popivanov
+         50    5.50   3.50 4-Herman-Sieg vs 8-Baker-Harvey-Falls
+         50    5.50   3.50 5-Lewis-Davis vs 10-Bender-Drajpuch
+        150    0.50   8.50 6-Ford-Zaugg vs 3-Jarvis-Pesce
+        100    4.00   5.00 7-Pyne-Bailey vs 5-Laughary-Cowles
+        110    3.00   6.00 8-Hetmaniuk-Downing vs 7-Jain-Ranasaria
+  100          7.50   1.50 9-Tu-Breeze vs 9-Tipton-Hesson
+        130    2.00   7.00 10-Christie-Davis vs 2-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1390          1.50   7.50 1-Cline-Hankins vs 10-Bender-Drajpuch
+ 2140          6.00   3.00 2-Ring-Abernethy vs 2-Haldane-Miller
+ 2220          8.50   0.50 3-Sivapragasam-Stever vs 5-Laughary-Cowles
+ 2140          6.00   3.00 4-Herman-Sieg vs 7-Jain-Ranasaria
+ 1470          3.50   5.50 5-Lewis-Davis vs 9-Tipton-Hesson
+ 1390          1.50   7.50 6-Ford-Zaugg vs 4-Ruprecht-Eng
+ 1470          3.50   5.50 7-Pyne-Bailey vs 6-Hendrickson-Popivanov
+  720          0.00   9.00 8-Hetmaniuk-Downing vs 8-Baker-Harvey-Falls
+ 2140          6.00   3.00 9-Tu-Breeze vs 1-Christensen-Stevens
+ 2220          8.50   0.50 10-Christie-Davis vs 3-Jarvis-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    6.00   3.00 1-Cline-Hankins vs 10-Bender-Drajpuch
+        170    9.00   0.00 2-Ring-Abernethy vs 2-Haldane-Miller
+        200    6.00   3.00 3-Sivapragasam-Stever vs 5-Laughary-Cowles
+        420    3.00   6.00 4-Herman-Sieg vs 7-Jain-Ranasaria
+        450    1.00   8.00 5-Lewis-Davis vs 9-Tipton-Hesson
+        200    6.00   3.00 6-Ford-Zaugg vs 4-Ruprecht-Eng
+        450    1.00   8.00 7-Pyne-Bailey vs 6-Hendrickson-Popivanov
+        450    1.00   8.00 8-Hetmaniuk-Downing vs 8-Baker-Harvey-Falls
+        200    6.00   3.00 9-Tu-Breeze vs 1-Christensen-Stevens
+        200    6.00   3.00 10-Christie-Davis vs 3-Jarvis-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   8.00 1-Cline-Hankins vs 10-Bender-Drajpuch
+         50    5.50   3.50 2-Ring-Abernethy vs 2-Haldane-Miller
+        150    0.00   9.00 3-Sivapragasam-Stever vs 5-Laughary-Cowles
+  110          8.50   0.50 4-Herman-Sieg vs 7-Jain-Ranasaria
+        100    2.50   6.50 5-Lewis-Davis vs 9-Tipton-Hesson
+         50    5.50   3.50 6-Ford-Zaugg vs 4-Ruprecht-Eng
+  110          8.50   0.50 7-Pyne-Bailey vs 6-Hendrickson-Popivanov
+         50    5.50   3.50 8-Hetmaniuk-Downing vs 8-Baker-Harvey-Falls
+        100    2.50   6.50 9-Tu-Breeze vs 1-Christensen-Stevens
+         50    5.50   3.50 10-Christie-Davis vs 3-Jarvis-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.50   3.50 1-Cline-Hankins vs 9-Tipton-Hesson
+  650          5.50   3.50 2-Ring-Abernethy vs 1-Christensen-Stevens
+  650          5.50   3.50 3-Sivapragasam-Stever vs 3-Jarvis-Pesce
+  650          5.50   3.50 4-Herman-Sieg vs 6-Hendrickson-Popivanov
+        100    0.50   8.50 5-Lewis-Davis vs 8-Baker-Harvey-Falls
+  650          5.50   3.50 6-Ford-Zaugg vs 5-Laughary-Cowles
+  680          9.00   0.00 7-Pyne-Bailey vs 7-Jain-Ranasaria
+  650          5.50   3.50 8-Hetmaniuk-Downing vs 10-Bender-Drajpuch
+        100    0.50   8.50 9-Tu-Breeze vs 2-Haldane-Miller
+  230          2.00   7.00 10-Christie-Davis vs 4-Ruprecht-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    6.00   3.00 1-Cline-Hankins vs 9-Tipton-Hesson
+        450    1.50   7.50 2-Ring-Abernethy vs 1-Christensen-Stevens
+        450    1.50   7.50 3-Sivapragasam-Stever vs 3-Jarvis-Pesce
+        450    1.50   7.50 4-Herman-Sieg vs 6-Hendrickson-Popivanov
+        200    9.00   0.00 5-Lewis-Davis vs 8-Baker-Harvey-Falls
+        420    6.00   3.00 6-Ford-Zaugg vs 5-Laughary-Cowles
+        450    1.50   7.50 7-Pyne-Bailey vs 7-Jain-Ranasaria
+        420    6.00   3.00 8-Hetmaniuk-Downing vs 10-Bender-Drajpuch
+        420    6.00   3.00 9-Tu-Breeze vs 2-Haldane-Miller
+        420    6.00   3.00 10-Christie-Davis vs 4-Ruprecht-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.50   1.50 1-Cline-Hankins vs 9-Tipton-Hesson
+        140    2.00   7.00 2-Ring-Abernethy vs 1-Christensen-Stevens
+         80    6.00   3.00 3-Sivapragasam-Stever vs 3-Jarvis-Pesce
+        670    0.00   9.00 4-Herman-Sieg vs 6-Hendrickson-Popivanov
+        100    4.50   4.50 5-Lewis-Davis vs 8-Baker-Harvey-Falls
+  110          9.00   0.00 6-Ford-Zaugg vs 5-Laughary-Cowles
+  100          7.50   1.50 7-Pyne-Bailey vs 7-Jain-Ranasaria
+        100    4.50   4.50 8-Hetmaniuk-Downing vs 10-Bender-Drajpuch
+        140    2.00   7.00 9-Tu-Breeze vs 2-Haldane-Miller
+        140    2.00   7.00 10-Christie-Davis vs 4-Ruprecht-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   4.50 1-Cline-Hankins vs 8-Baker-Harvey-Falls
+         70    2.00   7.00 2-Ring-Abernethy vs 10-Bender-Drajpuch
+         90    0.50   8.50 3-Sivapragasam-Stever vs 2-Haldane-Miller
+  100          4.50   4.50 4-Herman-Sieg vs 4-Ruprecht-Eng
+  500          9.00   0.00 5-Lewis-Davis vs 7-Jain-Ranasaria
+  140          8.00   1.00 6-Ford-Zaugg vs 6-Hendrickson-Popivanov
+  100          4.50   4.50 7-Pyne-Bailey vs 9-Tipton-Hesson
+         90    0.50   8.50 8-Hetmaniuk-Downing vs 1-Christensen-Stevens
+  100          4.50   4.50 9-Tu-Breeze vs 3-Jarvis-Pesce
+  110          7.00   2.00 10-Christie-Davis vs 5-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          5.50   3.50 1-Cline-Hankins vs 8-Baker-Harvey-Falls
+  750          7.50   1.50 2-Ring-Abernethy vs 10-Bender-Drajpuch
+   50          2.00   7.00 3-Sivapragasam-Stever vs 2-Haldane-Miller
+        450    0.00   9.00 4-Herman-Sieg vs 4-Ruprecht-Eng
+  100          3.00   6.00 5-Lewis-Davis vs 7-Jain-Ranasaria
+  790          9.00   0.00 6-Ford-Zaugg vs 6-Hendrickson-Popivanov
+  230          4.00   5.00 7-Pyne-Bailey vs 9-Tipton-Hesson
+        170    1.00   8.00 8-Hetmaniuk-Downing vs 1-Christensen-Stevens
+  750          7.50   1.50 9-Tu-Breeze vs 3-Jarvis-Pesce
+  480          5.50   3.50 10-Christie-Davis vs 5-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.50   5.50 1-Cline-Hankins vs 8-Baker-Harvey-Falls
+        110    6.00   3.00 2-Ring-Abernethy vs 10-Bender-Drajpuch
+         90    9.00   0.00 3-Sivapragasam-Stever vs 2-Haldane-Miller
+        200    3.50   5.50 4-Herman-Sieg vs 4-Ruprecht-Eng
+       1100    0.00   9.00 5-Lewis-Davis vs 7-Jain-Ranasaria
+        300    1.50   7.50 6-Ford-Zaugg vs 6-Hendrickson-Popivanov
+        100    7.50   1.50 7-Pyne-Bailey vs 9-Tipton-Hesson
+        300    1.50   7.50 8-Hetmaniuk-Downing vs 1-Christensen-Stevens
+        120    5.00   4.00 9-Tu-Breeze vs 3-Jarvis-Pesce
+        100    7.50   1.50 10-Christie-Davis vs 5-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          7.00   2.00 1-Cline-Hankins vs 7-Jain-Ranasaria
+        100    0.50   8.50 2-Ring-Abernethy vs 9-Tipton-Hesson
+  650          7.00   2.00 3-Sivapragasam-Stever vs 1-Christensen-Stevens
+  650          7.00   2.00 4-Herman-Sieg vs 3-Jarvis-Pesce
+  650          7.00   2.00 5-Lewis-Davis vs 5-Laughary-Cowles
+        100    0.50   8.50 6-Ford-Zaugg vs 8-Baker-Harvey-Falls
+  620          3.00   6.00 7-Pyne-Bailey vs 10-Bender-Drajpuch
+  630          4.00   5.00 8-Hetmaniuk-Downing vs 2-Haldane-Miller
+  600          2.00   7.00 9-Tu-Breeze vs 4-Ruprecht-Eng
+  650          7.00   2.00 10-Christie-Davis vs 6-Hendrickson-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   2.00 1-Cline-Hankins vs 7-Jain-Ranasaria
+        170    2.00   7.00 2-Ring-Abernethy vs 9-Tipton-Hesson
+   50          6.00   3.00 3-Sivapragasam-Stever vs 1-Christensen-Stevens
+  250          9.00   0.00 4-Herman-Sieg vs 3-Jarvis-Pesce
+        140    3.50   5.50 5-Lewis-Davis vs 5-Laughary-Cowles
+        140    3.50   5.50 6-Ford-Zaugg vs 8-Baker-Harvey-Falls
+        300    1.00   8.00 7-Pyne-Bailey vs 10-Bender-Drajpuch
+  110          8.00   1.00 8-Hetmaniuk-Downing vs 2-Haldane-Miller
+         50    5.00   4.00 9-Tu-Breeze vs 4-Ruprecht-Eng
+        420    0.00   9.00 10-Christie-Davis vs 6-Hendrickson-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          8.00   1.00 1-Cline-Hankins vs 7-Jain-Ranasaria
+        120    7.00   2.00 2-Ring-Abernethy vs 9-Tipton-Hesson
+  380          9.00   0.00 3-Sivapragasam-Stever vs 1-Christensen-Stevens
+        170    1.50   7.50 4-Herman-Sieg vs 3-Jarvis-Pesce
+        200    0.00   9.00 5-Lewis-Davis vs 5-Laughary-Cowles
+        170    1.50   7.50 6-Ford-Zaugg vs 8-Baker-Harvey-Falls
+        140    4.00   5.00 7-Pyne-Bailey vs 10-Bender-Drajpuch
+        140    4.00   5.00 8-Hetmaniuk-Downing vs 2-Haldane-Miller
+        130    6.00   3.00 9-Tu-Breeze vs 4-Ruprecht-Eng
+        140    4.00   5.00 10-Christie-Davis vs 6-Hendrickson-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   4.00 1-Cline-Hankins vs 6-Hendrickson-Popivanov
+  300          8.00   1.00 2-Ring-Abernethy vs 8-Baker-Harvey-Falls
+        660    0.00   9.00 3-Sivapragasam-Stever vs 10-Bender-Drajpuch
+  100          5.00   4.00 4-Herman-Sieg vs 2-Haldane-Miller
+  100          5.00   4.00 5-Lewis-Davis vs 4-Ruprecht-Eng
+  500          9.00   0.00 6-Ford-Zaugg vs 9-Tipton-Hesson
+        630    1.50   7.50 7-Pyne-Bailey vs 1-Christensen-Stevens
+        630    1.50   7.50 8-Hetmaniuk-Downing vs 3-Jarvis-Pesce
+  100          5.00   4.00 9-Tu-Breeze vs 5-Laughary-Cowles
+  100          5.00   4.00 10-Christie-Davis vs 7-Jain-Ranasaria
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    3.00   6.00 1-Cline-Hankins vs 6-Hendrickson-Popivanov
+        120    4.00   5.00 2-Ring-Abernethy vs 8-Baker-Harvey-Falls
+        430    0.00   9.00 3-Sivapragasam-Stever vs 10-Bender-Drajpuch
+        400    1.50   7.50 4-Herman-Sieg vs 2-Haldane-Miller
+         90    5.00   4.00 5-Lewis-Davis vs 4-Ruprecht-Eng
+  100          8.50   0.50 6-Ford-Zaugg vs 9-Tipton-Hesson
+        400    1.50   7.50 7-Pyne-Bailey vs 1-Christensen-Stevens
+   50          6.50   2.50 8-Hetmaniuk-Downing vs 3-Jarvis-Pesce
+   50          6.50   2.50 9-Tu-Breeze vs 5-Laughary-Cowles
+  100          8.50   0.50 10-Christie-Davis vs 7-Jain-Ranasaria
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    5.00   4.00 1-Cline-Hankins vs 6-Hendrickson-Popivanov
+        150    6.00   3.00 2-Ring-Abernethy vs 8-Baker-Harvey-Falls
+        430    3.00   6.00 3-Sivapragasam-Stever vs 10-Bender-Drajpuch
+        130    7.50   1.50 4-Herman-Sieg vs 2-Haldane-Miller
+        800    0.00   9.00 5-Lewis-Davis vs 4-Ruprecht-Eng
+        550    1.00   8.00 6-Ford-Zaugg vs 9-Tipton-Hesson
+        130    7.50   1.50 7-Pyne-Bailey vs 1-Christensen-Stevens
+        430    3.00   6.00 8-Hetmaniuk-Downing vs 3-Jarvis-Pesce
+        110    9.00   0.00 9-Tu-Breeze vs 5-Laughary-Cowles
+        430    3.00   6.00 10-Christie-Davis vs 7-Jain-Ranasaria
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    8.00   1.00 1-Cline-Hankins vs 5-Laughary-Cowles
+        110    2.50   6.50 2-Ring-Abernethy vs 7-Jain-Ranasaria
+  140          9.00   0.00 3-Sivapragasam-Stever vs 9-Tipton-Hesson
+        100    5.50   3.50 4-Herman-Sieg vs 1-Christensen-Stevens
+        200    0.00   9.00 5-Lewis-Davis vs 3-Jarvis-Pesce
+        100    5.50   3.50 6-Ford-Zaugg vs 10-Bender-Drajpuch
+        100    5.50   3.50 7-Pyne-Bailey vs 2-Haldane-Miller
+        150    1.00   8.00 8-Hetmaniuk-Downing vs 4-Ruprecht-Eng
+        110    2.50   6.50 9-Tu-Breeze vs 6-Hendrickson-Popivanov
+        100    5.50   3.50 10-Christie-Davis vs 8-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   7.50 1-Cline-Hankins vs 5-Laughary-Cowles
+        100    6.00   3.00 2-Ring-Abernethy vs 7-Jain-Ranasaria
+  110          8.00   1.00 3-Sivapragasam-Stever vs 9-Tipton-Hesson
+        180    4.00   5.00 4-Herman-Sieg vs 1-Christensen-Stevens
+  200          9.00   0.00 5-Lewis-Davis vs 3-Jarvis-Pesce
+        200    1.50   7.50 6-Ford-Zaugg vs 10-Bender-Drajpuch
+        100    6.00   3.00 7-Pyne-Bailey vs 2-Haldane-Miller
+        200    1.50   7.50 8-Hetmaniuk-Downing vs 4-Ruprecht-Eng
+        200    1.50   7.50 9-Tu-Breeze vs 6-Hendrickson-Popivanov
+        100    6.00   3.00 10-Christie-Davis vs 8-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          6.50   2.50 1-Cline-Hankins vs 5-Laughary-Cowles
+  790          8.50   0.50 2-Ring-Abernethy vs 7-Jain-Ranasaria
+  100          1.00   8.00 3-Sivapragasam-Stever vs 9-Tipton-Hesson
+  170          4.00   5.00 4-Herman-Sieg vs 1-Christensen-Stevens
+  170          4.00   5.00 5-Lewis-Davis vs 3-Jarvis-Pesce
+        650    0.00   9.00 6-Ford-Zaugg vs 10-Bender-Drajpuch
+  170          4.00   5.00 7-Pyne-Bailey vs 2-Haldane-Miller
+  790          8.50   0.50 8-Hetmaniuk-Downing vs 4-Ruprecht-Eng
+  140          2.00   7.00 9-Tu-Breeze vs 6-Hendrickson-Popivanov
+  620          6.50   2.50 10-Christie-Davis vs 8-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          8.50   0.50 1-Cline-Hankins vs 4-Ruprecht-Eng
+  420          2.50   6.50 2-Ring-Abernethy vs 6-Hendrickson-Popivanov
+  450          5.50   3.50 3-Sivapragasam-Stever vs 8-Baker-Harvey-Falls
+  500          8.50   0.50 4-Herman-Sieg vs 10-Bender-Drajpuch
+  420          2.50   6.50 5-Lewis-Davis vs 2-Haldane-Miller
+  200          1.00   8.00 6-Ford-Zaugg vs 1-Christensen-Stevens
+  450          5.50   3.50 7-Pyne-Bailey vs 3-Jarvis-Pesce
+  430          4.00   5.00 8-Hetmaniuk-Downing vs 5-Laughary-Cowles
+  480          7.00   2.00 9-Tu-Breeze vs 7-Jain-Ranasaria
+         50    0.00   9.00 10-Christie-Davis vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          7.00   2.00 1-Cline-Hankins vs 4-Ruprecht-Eng
+        100    2.00   7.00 2-Ring-Abernethy vs 6-Hendrickson-Popivanov
+  140          7.00   2.00 3-Sivapragasam-Stever vs 8-Baker-Harvey-Falls
+        200    0.00   9.00 4-Herman-Sieg vs 10-Bender-Drajpuch
+        100    2.00   7.00 5-Lewis-Davis vs 2-Haldane-Miller
+        100    2.00   7.00 6-Ford-Zaugg vs 1-Christensen-Stevens
+  140          7.00   2.00 7-Pyne-Bailey vs 3-Jarvis-Pesce
+  100          4.50   4.50 8-Hetmaniuk-Downing vs 5-Laughary-Cowles
+  100          4.50   4.50 9-Tu-Breeze vs 7-Jain-Ranasaria
+  170          9.00   0.00 10-Christie-Davis vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   8.00 1-Cline-Hankins vs 4-Ruprecht-Eng
+  110          3.00   6.00 2-Ring-Abernethy vs 6-Hendrickson-Popivanov
+         50    1.00   8.00 3-Sivapragasam-Stever vs 8-Baker-Harvey-Falls
+  420          8.50   0.50 4-Herman-Sieg vs 10-Bender-Drajpuch
+  170          7.00   2.00 5-Lewis-Davis vs 2-Haldane-Miller
+  420          8.50   0.50 6-Ford-Zaugg vs 1-Christensen-Stevens
+  140          5.00   4.00 7-Pyne-Bailey vs 3-Jarvis-Pesce
+  140          5.00   4.00 8-Hetmaniuk-Downing vs 5-Laughary-Cowles
+         50    1.00   8.00 9-Tu-Breeze vs 7-Jain-Ranasaria
+  140          5.00   4.00 10-Christie-Davis vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          9.00   0.00 1-Cline-Hankins vs 3-Jarvis-Pesce
+        630    1.00   8.00 2-Ring-Abernethy vs 5-Laughary-Cowles
+        630    1.00   8.00 3-Sivapragasam-Stever vs 7-Jain-Ranasaria
+        110    7.00   2.00 4-Herman-Sieg vs 9-Tipton-Hesson
+        620    3.00   6.00 5-Lewis-Davis vs 1-Christensen-Stevens
+        170    5.00   4.00 6-Ford-Zaugg vs 2-Haldane-Miller
+        600    4.00   5.00 7-Pyne-Bailey vs 4-Ruprecht-Eng
+        630    1.00   8.00 8-Hetmaniuk-Downing vs 6-Hendrickson-Popivanov
+        150    6.00   3.00 9-Tu-Breeze vs 8-Baker-Harvey-Falls
+  100          8.00   1.00 10-Christie-Davis vs 10-Bender-Drajpuch
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    4.00   5.00 1-Cline-Hankins vs 3-Jarvis-Pesce
+        140    4.00   5.00 2-Ring-Abernethy vs 5-Laughary-Cowles
+        500    0.00   9.00 3-Sivapragasam-Stever vs 7-Jain-Ranasaria
+        140    4.00   5.00 4-Herman-Sieg vs 9-Tipton-Hesson
+        110    8.00   1.00 5-Lewis-Davis vs 1-Christensen-Stevens
+  110          9.00   0.00 6-Ford-Zaugg vs 2-Haldane-Miller
+        140    4.00   5.00 7-Pyne-Bailey vs 4-Ruprecht-Eng
+        140    4.00   5.00 8-Hetmaniuk-Downing vs 6-Hendrickson-Popivanov
+        140    4.00   5.00 9-Tu-Breeze vs 8-Baker-Harvey-Falls
+        140    4.00   5.00 10-Christie-Davis vs 10-Bender-Drajpuch
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   6.00 1-Cline-Hankins vs 3-Jarvis-Pesce
+  150          9.00   0.00 2-Ring-Abernethy vs 5-Laughary-Cowles
+  100          7.00   2.00 3-Sivapragasam-Stever vs 7-Jain-Ranasaria
+  140          8.00   1.00 4-Herman-Sieg vs 9-Tipton-Hesson
+        140    0.50   8.50 5-Lewis-Davis vs 1-Christensen-Stevens
+   90          6.00   3.00 6-Ford-Zaugg vs 2-Haldane-Miller
+   50          4.50   4.50 7-Pyne-Bailey vs 4-Ruprecht-Eng
+        140    0.50   8.50 8-Hetmaniuk-Downing vs 6-Hendrickson-Popivanov
+        110    2.00   7.00 9-Tu-Breeze vs 8-Baker-Harvey-Falls
+   50          4.50   4.50 10-Christie-Davis vs 10-Bender-Drajpuch
+----------------------------------------------------------------------
