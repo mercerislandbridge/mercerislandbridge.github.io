@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 27, 2018  |CLUB NO.>158048    | 11/27/2018 22:42
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/shawn      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=12/C=3                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jeffrey Ford           Kevin Bolan              A    .     .     .     78.54  50.35          
+
+ 2 Terry Jacobson         Brad Rind                C    .     .     .     74.75  47.92          
+
+ 3 Gregory Herman         Eric Sieg                B    .     .     .     76.38  48.96          
+
+ 4 Chris Pesce            Rex Tu                   B    2     1     .     89.38  57.29  1.05(A) 
+
+ 5 William Campbell       Victor Bremson           B    .     .     .     57.96  37.15          
+
+ 6 Bruce Baker-Harvey     Jeannie Falls            C    4     3     1     87.00  55.77  0.53(A) 
+
+ 7 Nick Tipton            Galen Hesson             B   6/7   5/6    .     82.33  52.78  0.23(A) 
+
+ 8 Thomas Stever          Muhunthan Sivapragasam   B    .     .     .     59.58  38.19          
+
+
+
+10 Pete Cowles            Clay Laughary            C    .     .     .     76.92  49.31          
+
+11 Kevin Cline            David Hankins            B    5     4     .     85.04  54.51  0.34(B) 
+
+12 David Roselle          Sue Anderson             B    3     2     .     87.50  56.09  0.75(A) 
+
+13 Brian Zaugg            Mike Ring                A    .     .     .     62.83  40.28          
+
+14 Adam Ruprecht          Christopher Jarvis       B   6/7   5/6    .     82.33  52.78  0.23(A) 
+
+15 Nelson Davis           Beau Hovda               B    .     .     .     76.92  49.31          
+
+16 Shawn Abernethy        Ken Christiansen         A    1     .     .     91.00  58.33  1.50(A) 
+
+
+                                          Totals                        1168.46       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   1.50 4-Pesce-Tu vs 14-Ruprecht-Jarvis
+   50          4.50   1.50 6-Baker-Harvey-Falls vs 5-Campbell-Bremson
+        450    0.00   6.00 8-Stever-Sivapragasam vs 12-Roselle-Anderson
+        420    1.00   5.00 10-Cowles-Laughary vs 2-Jacobson-Rind
+        170    2.00   4.00 13-Zaugg-Ring vs 7-Tipton-Hesson
+        110    3.00   3.00 15-Davis-Hovda vs 3-Herman-Sieg
+  100          6.00   0.00 16-Abernethy-Christiansen vs 1-Ford-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    3.00   3.00 4-Pesce-Tu vs 14-Ruprecht-Jarvis
+        490    5.50   0.50 6-Baker-Harvey-Falls vs 5-Campbell-Bremson
+        920    3.00   3.00 8-Stever-Sivapragasam vs 12-Roselle-Anderson
+        490    5.50   0.50 10-Cowles-Laughary vs 2-Jacobson-Rind
+       1440    0.00   6.00 13-Zaugg-Ring vs 7-Tipton-Hesson
+        940    1.00   5.00 15-Davis-Hovda vs 3-Herman-Sieg
+        920    3.00   3.00 16-Abernethy-Christiansen vs 1-Ford-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    5.00   1.00 1-Ford-Bolan vs 8-Stever-Sivapragasam
+        130    3.00   3.00 4-Pesce-Tu vs 15-Davis-Hovda
+        130    3.00   3.00 5-Campbell-Bremson vs 14-Ruprecht-Jarvis
+  100          6.00   0.00 7-Tipton-Hesson vs 6-Baker-Harvey-Falls
+       1070    0.00   6.00 10-Cowles-Laughary vs 12-Roselle-Anderson
+        300    1.00   5.00 11-Cline-Hankins vs 3-Herman-Sieg
+        130    3.00   3.00 16-Abernethy-Christiansen vs 2-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.50   1.50 1-Ford-Bolan vs 8-Stever-Sivapragasam
+   90          2.50   3.50 4-Pesce-Tu vs 15-Davis-Hovda
+   90          2.50   3.50 5-Campbell-Bremson vs 14-Ruprecht-Jarvis
+        200    0.00   6.00 7-Tipton-Hesson vs 6-Baker-Harvey-Falls
+  110          4.50   1.50 10-Cowles-Laughary vs 12-Roselle-Anderson
+        100    1.00   5.00 11-Cline-Hankins vs 3-Herman-Sieg
+  140          6.00   0.00 16-Abernethy-Christiansen vs 2-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    3.50   2.50 5-Campbell-Bremson vs 15-Davis-Hovda
+   50          5.50   0.50 6-Baker-Harvey-Falls vs 14-Ruprecht-Jarvis
+        990    1.00   5.00 8-Stever-Sivapragasam vs 7-Tipton-Hesson
+        990    1.00   5.00 10-Cowles-Laughary vs 1-Ford-Bolan
+   50          5.50   0.50 11-Cline-Hankins vs 13-Zaugg-Ring
+        980    3.50   2.50 12-Roselle-Anderson vs 4-Pesce-Tu
+        990    1.00   5.00 16-Abernethy-Christiansen vs 3-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   5.00 5-Campbell-Bremson vs 15-Davis-Hovda
+  130          3.00   3.00 6-Baker-Harvey-Falls vs 14-Ruprecht-Jarvis
+        670    0.00   6.00 8-Stever-Sivapragasam vs 7-Tipton-Hesson
+  130          3.00   3.00 10-Cowles-Laughary vs 1-Ford-Bolan
+  430          5.50   0.50 11-Cline-Hankins vs 13-Zaugg-Ring
+  130          3.00   3.00 12-Roselle-Anderson vs 4-Pesce-Tu
+  430          5.50   0.50 16-Abernethy-Christiansen vs 3-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   3.00 3-Herman-Sieg vs 10-Cowles-Laughary
+  620          6.00   0.00 6-Baker-Harvey-Falls vs 15-Davis-Hovda
+        100    3.00   3.00 11-Cline-Hankins vs 2-Jacobson-Rind
+        200    0.00   6.00 12-Roselle-Anderson vs 1-Ford-Bolan
+        100    3.00   3.00 13-Zaugg-Ring vs 5-Campbell-Bremson
+        100    3.00   3.00 14-Ruprecht-Jarvis vs 7-Tipton-Hesson
+        100    3.00   3.00 16-Abernethy-Christiansen vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.50   0.50 3-Herman-Sieg vs 10-Cowles-Laughary
+  300          0.00   6.00 6-Baker-Harvey-Falls vs 15-Davis-Hovda
+  420          2.50   3.50 11-Cline-Hankins vs 2-Jacobson-Rind
+  420          2.50   3.50 12-Roselle-Anderson vs 1-Ford-Bolan
+  450          5.50   0.50 13-Zaugg-Ring vs 5-Campbell-Bremson
+  420          2.50   3.50 14-Ruprecht-Jarvis vs 7-Tipton-Hesson
+  420          2.50   3.50 16-Abernethy-Christiansen vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   3.00 1-Ford-Bolan vs 6-Baker-Harvey-Falls
+  420          3.00   3.00 4-Pesce-Tu vs 11-Cline-Hankins
+  420          3.00   3.00 7-Tipton-Hesson vs 15-Davis-Hovda
+  420          3.00   3.00 12-Roselle-Anderson vs 3-Herman-Sieg
+  420          3.00   3.00 13-Zaugg-Ring vs 2-Jacobson-Rind
+  420          3.00   3.00 14-Ruprecht-Jarvis vs 8-Stever-Sivapragasam
+  420          3.00   3.00 16-Abernethy-Christiansen vs 5-Campbell-Bremson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 1-Ford-Bolan vs 6-Baker-Harvey-Falls
+  130          5.50   0.50 4-Pesce-Tu vs 11-Cline-Hankins
+        140    2.50   3.50 7-Tipton-Hesson vs 15-Davis-Hovda
+        140    2.50   3.50 12-Roselle-Anderson vs 3-Herman-Sieg
+        140    2.50   3.50 13-Zaugg-Ring vs 2-Jacobson-Rind
+  130          5.50   0.50 14-Ruprecht-Jarvis vs 8-Stever-Sivapragasam
+        140    2.50   3.50 16-Abernethy-Christiansen vs 5-Campbell-Bremson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          6.00   0.00 1-Ford-Bolan vs 3-Herman-Sieg
+  480          3.50   2.50 2-Jacobson-Rind vs 7-Tipton-Hesson
+  450          0.50   5.50 5-Campbell-Bremson vs 12-Roselle-Anderson
+  480          3.50   2.50 8-Stever-Sivapragasam vs 15-Davis-Hovda
+  480          3.50   2.50 11-Cline-Hankins vs 10-Cowles-Laughary
+  480          3.50   2.50 13-Zaugg-Ring vs 4-Pesce-Tu
+  450          0.50   5.50 16-Abernethy-Christiansen vs 6-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   5.00 1-Ford-Bolan vs 3-Herman-Sieg
+  600          5.50   0.50 2-Jacobson-Rind vs 7-Tipton-Hesson
+  600          5.50   0.50 5-Campbell-Bremson vs 12-Roselle-Anderson
+  110          2.00   4.00 8-Stever-Sivapragasam vs 15-Davis-Hovda
+   90          0.00   6.00 11-Cline-Hankins vs 10-Cowles-Laughary
+  150          3.00   3.00 13-Zaugg-Ring vs 4-Pesce-Tu
+  180          4.00   2.00 16-Abernethy-Christiansen vs 6-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.50   1.50 1-Ford-Bolan vs 5-Campbell-Bremson
+        660    1.00   5.00 2-Jacobson-Rind vs 4-Pesce-Tu
+        660    1.00   5.00 3-Herman-Sieg vs 8-Stever-Sivapragasam
+        650    4.50   1.50 6-Baker-Harvey-Falls vs 13-Zaugg-Ring
+        650    4.50   1.50 12-Roselle-Anderson vs 11-Cline-Hankins
+        660    1.00   5.00 14-Ruprecht-Jarvis vs 10-Cowles-Laughary
+        650    4.50   1.50 16-Abernethy-Christiansen vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          4.50   1.50 1-Ford-Bolan vs 5-Campbell-Bremson
+  110          2.00   4.00 2-Jacobson-Rind vs 4-Pesce-Tu
+        100    0.00   6.00 3-Herman-Sieg vs 8-Stever-Sivapragasam
+         50    1.00   5.00 6-Baker-Harvey-Falls vs 13-Zaugg-Ring
+  120          3.00   3.00 12-Roselle-Anderson vs 11-Cline-Hankins
+  300          6.00   0.00 14-Ruprecht-Jarvis vs 10-Cowles-Laughary
+  180          4.50   1.50 16-Abernethy-Christiansen vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   5.00 2-Jacobson-Rind vs 6-Baker-Harvey-Falls
+   50          3.00   3.00 3-Herman-Sieg vs 5-Campbell-Bremson
+   50          3.00   3.00 7-Tipton-Hesson vs 1-Ford-Bolan
+  100          5.50   0.50 10-Cowles-Laughary vs 15-Davis-Hovda
+   50          3.00   3.00 13-Zaugg-Ring vs 12-Roselle-Anderson
+        140    0.00   6.00 14-Ruprecht-Jarvis vs 11-Cline-Hankins
+  100          5.50   0.50 16-Abernethy-Christiansen vs 8-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    3.00   3.00 2-Jacobson-Rind vs 6-Baker-Harvey-Falls
+        660    3.00   3.00 3-Herman-Sieg vs 5-Campbell-Bremson
+        640    5.00   1.00 7-Tipton-Hesson vs 1-Ford-Bolan
+        660    3.00   3.00 10-Cowles-Laughary vs 15-Davis-Hovda
+        690    1.00   5.00 13-Zaugg-Ring vs 12-Roselle-Anderson
+       1390    0.00   6.00 14-Ruprecht-Jarvis vs 11-Cline-Hankins
+        600    6.00   0.00 16-Abernethy-Christiansen vs 8-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   3.00 1-Ford-Bolan vs 13-Zaugg-Ring
+  230          2.00   4.00 3-Herman-Sieg vs 7-Tipton-Hesson
+  480          5.50   0.50 4-Pesce-Tu vs 6-Baker-Harvey-Falls
+  100          0.50   5.50 5-Campbell-Bremson vs 10-Cowles-Laughary
+  480          5.50   0.50 8-Stever-Sivapragasam vs 2-Jacobson-Rind
+  100          0.50   5.50 14-Ruprecht-Jarvis vs 12-Roselle-Anderson
+  450          4.00   2.00 15-Davis-Hovda vs 11-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          4.50   1.50 1-Ford-Bolan vs 13-Zaugg-Ring
+  660          4.50   1.50 3-Herman-Sieg vs 7-Tipton-Hesson
+  650          3.00   3.00 4-Pesce-Tu vs 6-Baker-Harvey-Falls
+        100    0.00   6.00 5-Campbell-Bremson vs 10-Cowles-Laughary
+  620          1.00   5.00 8-Stever-Sivapragasam vs 2-Jacobson-Rind
+  800          6.00   0.00 14-Ruprecht-Jarvis vs 12-Roselle-Anderson
+  630          2.00   4.00 15-Davis-Hovda vs 11-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.50   0.50 2-Jacobson-Rind vs 1-Ford-Bolan
+  140          2.50   3.50 4-Pesce-Tu vs 8-Stever-Sivapragasam
+  140          2.50   3.50 5-Campbell-Bremson vs 7-Tipton-Hesson
+  100          0.00   6.00 6-Baker-Harvey-Falls vs 11-Cline-Hankins
+  170          5.50   0.50 14-Ruprecht-Jarvis vs 13-Zaugg-Ring
+  140          2.50   3.50 15-Davis-Hovda vs 12-Roselle-Anderson
+  140          2.50   3.50 16-Abernethy-Christiansen vs 10-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   0.50 2-Jacobson-Rind vs 1-Ford-Bolan
+         80    1.50   4.50 4-Pesce-Tu vs 8-Stever-Sivapragasam
+         80    1.50   4.50 5-Campbell-Bremson vs 7-Tipton-Hesson
+        110    0.00   6.00 6-Baker-Harvey-Falls vs 11-Cline-Hankins
+  200          5.50   0.50 14-Ruprecht-Jarvis vs 13-Zaugg-Ring
+  100          3.00   3.00 15-Davis-Hovda vs 12-Roselle-Anderson
+  110          4.00   2.00 16-Abernethy-Christiansen vs 10-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   4.00 1-Ford-Bolan vs 14-Ruprecht-Jarvis
+  620          5.50   0.50 3-Herman-Sieg vs 2-Jacobson-Rind
+  100          2.00   4.00 6-Baker-Harvey-Falls vs 8-Stever-Sivapragasam
+        420    0.00   6.00 7-Tipton-Hesson vs 12-Roselle-Anderson
+  300          4.00   2.00 10-Cowles-Laughary vs 4-Pesce-Tu
+  100          2.00   4.00 15-Davis-Hovda vs 13-Zaugg-Ring
+  620          5.50   0.50 16-Abernethy-Christiansen vs 11-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   4.00 1-Ford-Bolan vs 14-Ruprecht-Jarvis
+  450          2.00   4.00 3-Herman-Sieg vs 2-Jacobson-Rind
+  750          6.00   0.00 6-Baker-Harvey-Falls vs 8-Stever-Sivapragasam
+  480          4.00   2.00 7-Tipton-Hesson vs 12-Roselle-Anderson
+  200          0.00   6.00 10-Cowles-Laughary vs 4-Pesce-Tu
+  650          5.00   1.00 15-Davis-Hovda vs 13-Zaugg-Ring
+  450          2.00   4.00 16-Abernethy-Christiansen vs 11-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          2.50   3.50 2-Jacobson-Rind vs 14-Ruprecht-Jarvis
+  690          5.50   0.50 4-Pesce-Tu vs 3-Herman-Sieg
+  660          2.50   3.50 6-Baker-Harvey-Falls vs 10-Cowles-Laughary
+  660          2.50   3.50 8-Stever-Sivapragasam vs 13-Zaugg-Ring
+  690          5.50   0.50 11-Cline-Hankins vs 5-Campbell-Bremson
+        100    0.00   6.00 15-Davis-Hovda vs 1-Ford-Bolan
+  660          2.50   3.50 16-Abernethy-Christiansen vs 12-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   3.00 2-Jacobson-Rind vs 14-Ruprecht-Jarvis
+        120    4.00   2.00 4-Pesce-Tu vs 3-Herman-Sieg
+   50          6.00   0.00 6-Baker-Harvey-Falls vs 10-Cowles-Laughary
+        150    1.00   5.00 8-Stever-Sivapragasam vs 13-Zaugg-Ring
+        140    2.00   4.00 11-Cline-Hankins vs 5-Campbell-Bremson
+        110    5.00   1.00 15-Davis-Hovda vs 1-Ford-Bolan
+        170    0.00   6.00 16-Abernethy-Christiansen vs 12-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   4.50 3-Herman-Sieg vs 14-Ruprecht-Jarvis
+  400          5.50   0.50 5-Campbell-Bremson vs 4-Pesce-Tu
+         50    1.50   4.50 7-Tipton-Hesson vs 11-Cline-Hankins
+  150          4.00   2.00 8-Stever-Sivapragasam vs 10-Cowles-Laughary
+  400          5.50   0.50 12-Roselle-Anderson vs 6-Baker-Harvey-Falls
+         50    1.50   4.50 15-Davis-Hovda vs 2-Jacobson-Rind
+         50    1.50   4.50 16-Abernethy-Christiansen vs 13-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   4.00 3-Herman-Sieg vs 14-Ruprecht-Jarvis
+  600          2.00   4.00 5-Campbell-Bremson vs 4-Pesce-Tu
+  630          4.00   2.00 7-Tipton-Hesson vs 11-Cline-Hankins
+  600          2.00   4.00 8-Stever-Sivapragasam vs 10-Cowles-Laughary
+  110          0.00   6.00 12-Roselle-Anderson vs 6-Baker-Harvey-Falls
+  660          5.50   0.50 15-Davis-Hovda vs 2-Jacobson-Rind
+  660          5.50   0.50 16-Abernethy-Christiansen vs 13-Zaugg-Ring
+----------------------------------------------------------------------
