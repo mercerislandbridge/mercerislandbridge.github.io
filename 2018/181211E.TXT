@@ -1,0 +1,474 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>December 11, 2018  |SANCTION>L1812446D | 12/11/2018 22:36
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Unit Championship            |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Albert Bender          Andrea James             A   .     .     .   |   .     .     .    108.56  50.26          
+
+ 2 Chris Pesce            Rex Tu                   B   5     3     .   |   3     2     .    119.25  55.21  0.92(OA)
+
+ 3 Mike Christensen       Mike Ring                A   3     .     .   |   2     .     .    121.50  56.25  1.64(OA)
+
+ 4 Tracey Guice           Ivy French               C   .     .     .   |   .     .     .     81.00  37.50          
+
+ 5 Gregory Herman         Cristal Nell             A   .     .     .   |   .     .     .    106.31  49.22          
+
+ 6 Steven Mark Lewis      Grant Davis              C   .     .     .   |   .     .     .     95.06  44.01          
+
+ 7 Kevin Cline            David Hankins            B   2     1     .   |   1     1     .    124.88  57.81  2.19(OA)
+
+ 8 Arvind Ranasaria       Peiyush Jain             B   .     .     .   |   .     .     .     99.00  45.83          
+
+ 9 Ray Miller             Daniel Poore             A   6     .     .   |   4     .     .    116.44  53.91  0.69(OA)
+
+10 Pete Cowles            Clay Laughary            C   .     .     2   |   .     .     1    106.31  49.22  0.75(OC)
+
+
+                                          Totals                                           1078.31       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>December 11, 2018  |SANCTION>L1812446D | 12/11/2018 22:36
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Unit Championship            |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=2                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Joel Fuhrman           David Walker             B   .     .     .   |   .     .     .    110.00  50.93          
+
+ 2 Hugh Hendrickson       David Roselle            B   .     .     .   |   .     .     .     96.00  44.44          
+
+ 3 Eric Sieg              Kim Eng                  A   .     .     .   |   4     .     .    113.50  52.55  0.51(SA)
+
+
+
+ 5 Brian Zaugg            Shawn Abernethy          B   .     .     .   |   .     .     .     89.50  41.44          
+
+ 6 Jeannie Falls          Bruce Baker-Harvey       C   .     .     .   |   .     .     .     88.50  40.97          
+
+ 7 Ken Christiansen       Dave Setterholm          A   1     .     .   |   1     .     .    126.00  58.33  2.92(OA)
+
+ 8 Nelson Davis           Beau Hovda               B   4     2     .   |   2     1     .    120.50  55.79  1.23(OA)
+
+ 9 David Taylor           Jeffrey Ford             A   .     .     .   |   3     .     .    115.50  53.47  0.73(SA)
+
+10 Brad Rind              John Uchida              C   .     4     1   |   .     2     1    112.50  52.08  1.00(OC)
+
+
+                                          Totals                                            972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.00   1.00 1-Bender-James vs 1-Fuhrman-Walker
+  120          4.50   3.50 3-Christensen-Ring vs 6-Falls-Baker-Harvey
+        100    0.50   7.50 4-Guice-French vs 8-Davis-Hovda
+        100    0.50   7.50 5-Herman-Nell vs 10-Rind-Uchida
+  150          7.00   1.00 6-Lewis-Davis vs 3-Sieg-Eng
+  120          4.50   3.50 7-Cline-Hankins vs 5-Zaugg-Abernethy
+   90          2.50   5.50 8-Ranasaria-Jain vs 7-Christiansen-Setterholm
+   90          2.50   5.50 9-Miller-Poore vs 9-Taylor-Ford
+  150          7.00   1.00 10-Cowles-Laughary vs 2-Hendrickson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   6.50 1-Bender-James vs 1-Fuhrman-Walker
+  100          4.50   3.50 3-Christensen-Ring vs 6-Falls-Baker-Harvey
+        140    1.50   6.50 4-Guice-French vs 8-Davis-Hovda
+  100          4.50   3.50 5-Herman-Nell vs 10-Rind-Uchida
+  870          8.00   0.00 6-Lewis-Davis vs 3-Sieg-Eng
+  130          6.50   1.50 7-Cline-Hankins vs 5-Zaugg-Abernethy
+        140    1.50   6.50 8-Ranasaria-Jain vs 7-Christiansen-Setterholm
+        140    1.50   6.50 9-Miller-Poore vs 9-Taylor-Ford
+  130          6.50   1.50 10-Cowles-Laughary vs 2-Hendrickson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   3.50 1-Bender-James vs 1-Fuhrman-Walker
+  100          4.50   3.50 3-Christensen-Ring vs 6-Falls-Baker-Harvey
+  100          4.50   3.50 4-Guice-French vs 8-Davis-Hovda
+  200          8.00   0.00 5-Herman-Nell vs 10-Rind-Uchida
+        620    0.00   8.00 6-Lewis-Davis vs 3-Sieg-Eng
+  100          4.50   3.50 7-Cline-Hankins vs 5-Zaugg-Abernethy
+  100          4.50   3.50 8-Ranasaria-Jain vs 7-Christiansen-Setterholm
+  100          4.50   3.50 9-Miller-Poore vs 9-Taylor-Ford
+        140    1.00   7.00 10-Cowles-Laughary vs 2-Hendrickson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   2.00 1-Bender-James vs 10-Rind-Uchida
+        660    0.50   7.50 2-Pesce-Tu vs 2-Hendrickson-Roselle
+        620    2.50   5.50 3-Christensen-Ring vs 5-Zaugg-Abernethy
+        620    2.50   5.50 4-Guice-French vs 7-Christiansen-Setterholm
+        660    0.50   7.50 5-Herman-Nell vs 9-Taylor-Ford
+  200          6.00   2.00 7-Cline-Hankins vs 6-Falls-Baker-Harvey
+  100          4.00   4.00 8-Ranasaria-Jain vs 8-Davis-Hovda
+  200          6.00   2.00 9-Miller-Poore vs 1-Fuhrman-Walker
+  300          8.00   0.00 10-Cowles-Laughary vs 3-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    5.50   2.50 1-Bender-James vs 10-Rind-Uchida
+        300    3.00   5.00 2-Pesce-Tu vs 2-Hendrickson-Roselle
+        100    8.00   0.00 3-Christensen-Ring vs 5-Zaugg-Abernethy
+        300    3.00   5.00 4-Guice-French vs 7-Christiansen-Setterholm
+        200    5.50   2.50 5-Herman-Nell vs 9-Taylor-Ford
+        110    7.00   1.00 7-Cline-Hankins vs 6-Falls-Baker-Harvey
+        300    3.00   5.00 8-Ranasaria-Jain vs 8-Davis-Hovda
+        400    1.00   7.00 9-Miller-Poore vs 1-Fuhrman-Walker
+        570    0.00   8.00 10-Cowles-Laughary vs 3-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   7.50 1-Bender-James vs 10-Rind-Uchida
+  200          7.50   0.50 2-Pesce-Tu vs 2-Hendrickson-Roselle
+        100    0.50   7.50 3-Christensen-Ring vs 5-Zaugg-Abernethy
+  100          2.00   6.00 4-Guice-French vs 7-Christiansen-Setterholm
+  200          7.50   0.50 5-Herman-Nell vs 9-Taylor-Ford
+  150          5.50   2.50 7-Cline-Hankins vs 6-Falls-Baker-Harvey
+  120          3.50   4.50 8-Ranasaria-Jain vs 8-Davis-Hovda
+  120          3.50   4.50 9-Miller-Poore vs 1-Fuhrman-Walker
+  150          5.50   2.50 10-Cowles-Laughary vs 3-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          6.00   2.00 1-Bender-James vs 9-Taylor-Ford
+        100    1.50   6.50 2-Pesce-Tu vs 1-Fuhrman-Walker
+  620          6.00   2.00 3-Christensen-Ring vs 3-Sieg-Eng
+  620          6.00   2.00 4-Guice-French vs 6-Falls-Baker-Harvey
+        100    1.50   6.50 5-Herman-Nell vs 8-Davis-Hovda
+  620          6.00   2.00 6-Lewis-Davis vs 5-Zaugg-Abernethy
+        100    1.50   6.50 7-Cline-Hankins vs 7-Christiansen-Setterholm
+        100    1.50   6.50 8-Ranasaria-Jain vs 10-Rind-Uchida
+  620          6.00   2.00 9-Miller-Poore vs 2-Hendrickson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   5.50 1-Bender-James vs 9-Taylor-Ford
+        530    0.00   8.00 2-Pesce-Tu vs 1-Fuhrman-Walker
+        170    2.50   5.50 3-Christensen-Ring vs 3-Sieg-Eng
+        170    2.50   5.50 4-Guice-French vs 6-Falls-Baker-Harvey
+        170    2.50   5.50 5-Herman-Nell vs 8-Davis-Hovda
+         50    7.50   0.50 6-Lewis-Davis vs 5-Zaugg-Abernethy
+        140    5.00   3.00 7-Cline-Hankins vs 7-Christiansen-Setterholm
+        100    6.00   2.00 8-Ranasaria-Jain vs 10-Rind-Uchida
+         50    7.50   0.50 9-Miller-Poore vs 2-Hendrickson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1440    1.50   6.50 1-Bender-James vs 9-Taylor-Ford
+        660    7.00   1.00 2-Pesce-Tu vs 1-Fuhrman-Walker
+       1440    1.50   6.50 3-Christensen-Ring vs 3-Sieg-Eng
+       1370    4.00   4.00 4-Guice-French vs 6-Falls-Baker-Harvey
+        690    5.50   2.50 5-Herman-Nell vs 8-Davis-Hovda
+       1440    1.50   6.50 6-Lewis-Davis vs 5-Zaugg-Abernethy
+        690    5.50   2.50 7-Cline-Hankins vs 7-Christiansen-Setterholm
+       1440    1.50   6.50 8-Ranasaria-Jain vs 10-Rind-Uchida
+  100          8.00   0.00 9-Miller-Poore vs 2-Hendrickson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   7.00 1-Bender-James vs 8-Davis-Hovda
+  200          8.00   0.00 2-Pesce-Tu vs 10-Rind-Uchida
+        100    1.00   7.00 3-Christensen-Ring vs 2-Hendrickson-Roselle
+  170          6.50   1.50 5-Herman-Nell vs 7-Christiansen-Setterholm
+  140          4.00   4.00 6-Lewis-Davis vs 6-Falls-Baker-Harvey
+        100    1.00   7.00 7-Cline-Hankins vs 9-Taylor-Ford
+  140          4.00   4.00 8-Ranasaria-Jain vs 1-Fuhrman-Walker
+  170          6.50   1.50 9-Miller-Poore vs 3-Sieg-Eng
+  140          4.00   4.00 10-Cowles-Laughary vs 5-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          2.00   6.00 1-Bender-James vs 8-Davis-Hovda
+  490          6.00   2.00 2-Pesce-Tu vs 10-Rind-Uchida
+  490          6.00   2.00 3-Christensen-Ring vs 2-Hendrickson-Roselle
+  460          2.00   6.00 5-Herman-Nell vs 7-Christiansen-Setterholm
+        100    0.00   8.00 6-Lewis-Davis vs 6-Falls-Baker-Harvey
+  460          2.00   6.00 7-Cline-Hankins vs 9-Taylor-Ford
+  490          6.00   2.00 8-Ranasaria-Jain vs 1-Fuhrman-Walker
+  490          6.00   2.00 9-Miller-Poore vs 3-Sieg-Eng
+  490          6.00   2.00 10-Cowles-Laughary vs 5-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    7.00   1.00 1-Bender-James vs 8-Davis-Hovda
+        460    1.00   7.00 2-Pesce-Tu vs 10-Rind-Uchida
+        430    4.00   4.00 3-Christensen-Ring vs 2-Hendrickson-Roselle
+        430    4.00   4.00 5-Herman-Nell vs 7-Christiansen-Setterholm
+        460    1.00   7.00 6-Lewis-Davis vs 6-Falls-Baker-Harvey
+        400    7.00   1.00 7-Cline-Hankins vs 9-Taylor-Ford
+        430    4.00   4.00 8-Ranasaria-Jain vs 1-Fuhrman-Walker
+        400    7.00   1.00 9-Miller-Poore vs 3-Sieg-Eng
+        460    1.00   7.00 10-Cowles-Laughary vs 5-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1370    2.00   6.00 1-Bender-James vs 7-Christiansen-Setterholm
+        620    8.00   0.00 2-Pesce-Tu vs 9-Taylor-Ford
+        660    5.50   2.50 3-Christensen-Ring vs 1-Fuhrman-Walker
+       1400    1.00   7.00 4-Guice-French vs 3-Sieg-Eng
+        630    7.00   1.00 5-Herman-Nell vs 5-Zaugg-Abernethy
+       1440    0.00   8.00 6-Lewis-Davis vs 8-Davis-Hovda
+        690    3.50   4.50 7-Cline-Hankins vs 10-Rind-Uchida
+        690    3.50   4.50 8-Ranasaria-Jain vs 2-Hendrickson-Roselle
+        660    5.50   2.50 10-Cowles-Laughary vs 6-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   6.00 1-Bender-James vs 7-Christiansen-Setterholm
+   50          2.00   6.00 2-Pesce-Tu vs 9-Taylor-Ford
+  150          8.00   0.00 3-Christensen-Ring vs 1-Fuhrman-Walker
+        140    0.00   8.00 4-Guice-French vs 3-Sieg-Eng
+  100          5.50   2.50 5-Herman-Nell vs 5-Zaugg-Abernethy
+  100          5.50   2.50 6-Lewis-Davis vs 8-Davis-Hovda
+   50          2.00   6.00 7-Cline-Hankins vs 10-Rind-Uchida
+  100          5.50   2.50 8-Ranasaria-Jain vs 2-Hendrickson-Roselle
+  100          5.50   2.50 10-Cowles-Laughary vs 6-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    3.00   5.00 1-Bender-James vs 7-Christiansen-Setterholm
+        480    3.00   5.00 2-Pesce-Tu vs 9-Taylor-Ford
+        450    7.00   1.00 3-Christensen-Ring vs 1-Fuhrman-Walker
+        480    3.00   5.00 4-Guice-French vs 3-Sieg-Eng
+        480    3.00   5.00 5-Herman-Nell vs 5-Zaugg-Abernethy
+        480    3.00   5.00 6-Lewis-Davis vs 8-Davis-Hovda
+        480    3.00   5.00 7-Cline-Hankins vs 10-Rind-Uchida
+        480    3.00   5.00 8-Ranasaria-Jain vs 2-Hendrickson-Roselle
+        230    8.00   0.00 10-Cowles-Laughary vs 6-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    6.00   2.00 1-Bender-James vs 6-Falls-Baker-Harvey
+        500    1.00   7.00 2-Pesce-Tu vs 8-Davis-Hovda
+         50    8.00   0.00 3-Christensen-Ring vs 10-Rind-Uchida
+        100    6.00   2.00 4-Guice-French vs 2-Hendrickson-Roselle
+        100    6.00   2.00 6-Lewis-Davis vs 9-Taylor-Ford
+        150    3.50   4.50 7-Cline-Hankins vs 1-Fuhrman-Walker
+        300    2.00   6.00 8-Ranasaria-Jain vs 3-Sieg-Eng
+       1400    0.00   8.00 9-Miller-Poore vs 5-Zaugg-Abernethy
+        150    3.50   4.50 10-Cowles-Laughary vs 7-Christiansen-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   4.00 1-Bender-James vs 6-Falls-Baker-Harvey
+   50          7.50   0.50 2-Pesce-Tu vs 8-Davis-Hovda
+         50    4.00   4.00 3-Christensen-Ring vs 10-Rind-Uchida
+   50          7.50   0.50 4-Guice-French vs 2-Hendrickson-Roselle
+         50    4.00   4.00 6-Lewis-Davis vs 9-Taylor-Ford
+         50    4.00   4.00 7-Cline-Hankins vs 1-Fuhrman-Walker
+        140    0.00   8.00 8-Ranasaria-Jain vs 3-Sieg-Eng
+         50    4.00   4.00 9-Miller-Poore vs 5-Zaugg-Abernethy
+        110    1.00   7.00 10-Cowles-Laughary vs 7-Christiansen-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   6.00 1-Bender-James vs 6-Falls-Baker-Harvey
+   90          1.00   7.00 2-Pesce-Tu vs 8-Davis-Hovda
+  650          8.00   0.00 3-Christensen-Ring vs 10-Rind-Uchida
+  300          6.00   2.00 4-Guice-French vs 2-Hendrickson-Roselle
+  630          7.00   1.00 6-Lewis-Davis vs 9-Taylor-Ford
+  110          3.00   5.00 7-Cline-Hankins vs 1-Fuhrman-Walker
+   50          0.00   8.00 8-Ranasaria-Jain vs 3-Sieg-Eng
+  130          4.00   4.00 9-Miller-Poore vs 5-Zaugg-Abernethy
+  170          5.00   3.00 10-Cowles-Laughary vs 7-Christiansen-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   4.00 1-Bender-James vs 5-Zaugg-Abernethy
+  130          8.00   0.00 2-Pesce-Tu vs 7-Christiansen-Setterholm
+  110          6.00   2.00 3-Christensen-Ring vs 9-Taylor-Ford
+        200    1.00   7.00 4-Guice-French vs 1-Fuhrman-Walker
+        620    0.00   8.00 5-Herman-Nell vs 3-Sieg-Eng
+        170    2.50   5.50 6-Lewis-Davis vs 10-Rind-Uchida
+  110          6.00   2.00 7-Cline-Hankins vs 2-Hendrickson-Roselle
+  110          6.00   2.00 9-Miller-Poore vs 6-Falls-Baker-Harvey
+        170    2.50   5.50 10-Cowles-Laughary vs 8-Davis-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          8.00   0.00 1-Bender-James vs 5-Zaugg-Abernethy
+  110          3.00   5.00 2-Pesce-Tu vs 7-Christiansen-Setterholm
+  130          5.00   3.00 3-Christensen-Ring vs 9-Taylor-Ford
+        100    1.00   7.00 4-Guice-French vs 1-Fuhrman-Walker
+        100    1.00   7.00 5-Herman-Nell vs 3-Sieg-Eng
+  130          5.00   3.00 6-Lewis-Davis vs 10-Rind-Uchida
+  130          5.00   3.00 7-Cline-Hankins vs 2-Hendrickson-Roselle
+        100    1.00   7.00 9-Miller-Poore vs 6-Falls-Baker-Harvey
+  150          7.00   1.00 10-Cowles-Laughary vs 8-Davis-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   2.00 1-Bender-James vs 5-Zaugg-Abernethy
+        450    1.50   6.50 2-Pesce-Tu vs 7-Christiansen-Setterholm
+        430    3.00   5.00 3-Christensen-Ring vs 9-Taylor-Ford
+        800    0.00   8.00 4-Guice-French vs 1-Fuhrman-Walker
+   50          6.00   2.00 5-Herman-Nell vs 3-Sieg-Eng
+        450    1.50   6.50 6-Lewis-Davis vs 10-Rind-Uchida
+  100          8.00   0.00 7-Cline-Hankins vs 2-Hendrickson-Roselle
+        400    4.00   4.00 9-Miller-Poore vs 6-Falls-Baker-Harvey
+   50          6.00   2.00 10-Cowles-Laughary vs 8-Davis-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          8.00   0.00 2-Pesce-Tu vs 6-Falls-Baker-Harvey
+        100    1.50   6.50 3-Christensen-Ring vs 8-Davis-Hovda
+  140          5.50   2.50 4-Guice-French vs 10-Rind-Uchida
+        100    1.50   6.50 5-Herman-Nell vs 2-Hendrickson-Roselle
+  140          5.50   2.50 6-Lewis-Davis vs 1-Fuhrman-Walker
+  140          5.50   2.50 7-Cline-Hankins vs 3-Sieg-Eng
+       1130    0.00   8.00 8-Ranasaria-Jain vs 5-Zaugg-Abernethy
+         50    3.00   5.00 9-Miller-Poore vs 7-Christiansen-Setterholm
+  140          5.50   2.50 10-Cowles-Laughary vs 9-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.50   3.50 2-Pesce-Tu vs 6-Falls-Baker-Harvey
+        680    4.50   3.50 3-Christensen-Ring vs 8-Davis-Hovda
+        680    4.50   3.50 4-Guice-French vs 10-Rind-Uchida
+        690    1.00   7.00 5-Herman-Nell vs 2-Hendrickson-Roselle
+        680    4.50   3.50 6-Lewis-Davis vs 1-Fuhrman-Walker
+        500    8.00   0.00 7-Cline-Hankins vs 3-Sieg-Eng
+        680    4.50   3.50 8-Ranasaria-Jain vs 5-Zaugg-Abernethy
+        680    4.50   3.50 9-Miller-Poore vs 7-Christiansen-Setterholm
+       1430    0.00   8.00 10-Cowles-Laughary vs 9-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.50   4.50 2-Pesce-Tu vs 6-Falls-Baker-Harvey
+        420    6.00   2.00 3-Christensen-Ring vs 8-Davis-Hovda
+        480    1.00   7.00 4-Guice-French vs 10-Rind-Uchida
+  100          7.50   0.50 5-Herman-Nell vs 2-Hendrickson-Roselle
+        450    3.50   4.50 6-Lewis-Davis vs 1-Fuhrman-Walker
+        450    3.50   4.50 7-Cline-Hankins vs 3-Sieg-Eng
+  100          7.50   0.50 8-Ranasaria-Jain vs 5-Zaugg-Abernethy
+        450    3.50   4.50 9-Miller-Poore vs 7-Christiansen-Setterholm
+        650    0.00   8.00 10-Cowles-Laughary vs 9-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.00   6.00 1-Bender-James vs 3-Sieg-Eng
+  590          8.00   0.00 2-Pesce-Tu vs 5-Zaugg-Abernethy
+  170          4.00   4.00 3-Christensen-Ring vs 7-Christiansen-Setterholm
+        130    0.00   8.00 4-Guice-French vs 9-Taylor-Ford
+  420          6.50   1.50 5-Herman-Nell vs 1-Fuhrman-Walker
+         50    1.00   7.00 6-Lewis-Davis vs 2-Hendrickson-Roselle
+  420          6.50   1.50 8-Ranasaria-Jain vs 6-Falls-Baker-Harvey
+  170          4.00   4.00 9-Miller-Poore vs 8-Davis-Hovda
+  170          4.00   4.00 10-Cowles-Laughary vs 10-Rind-Uchida
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        640    7.50   0.50 1-Bender-James vs 3-Sieg-Eng
+        640    7.50   0.50 2-Pesce-Tu vs 5-Zaugg-Abernethy
+       1390    2.50   5.50 3-Christensen-Ring vs 7-Christiansen-Setterholm
+       1370    4.00   4.00 4-Guice-French vs 9-Taylor-Ford
+        660    5.50   2.50 5-Herman-Nell vs 1-Fuhrman-Walker
+       2140    0.50   7.50 6-Lewis-Davis vs 2-Hendrickson-Roselle
+        660    5.50   2.50 8-Ranasaria-Jain vs 6-Falls-Baker-Harvey
+       1390    2.50   5.50 9-Miller-Poore vs 8-Davis-Hovda
+       2140    0.50   7.50 10-Cowles-Laughary vs 10-Rind-Uchida
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   3.00 1-Bender-James vs 3-Sieg-Eng
+   50          5.00   3.00 2-Pesce-Tu vs 5-Zaugg-Abernethy
+        170    3.00   5.00 3-Christensen-Ring vs 7-Christiansen-Setterholm
+   50          5.00   3.00 4-Guice-French vs 9-Taylor-Ford
+        420    1.50   6.50 5-Herman-Nell vs 1-Fuhrman-Walker
+        500    0.00   8.00 6-Lewis-Davis vs 2-Hendrickson-Roselle
+  300          8.00   0.00 8-Ranasaria-Jain vs 6-Falls-Baker-Harvey
+  100          7.00   1.00 9-Miller-Poore vs 8-Davis-Hovda
+        420    1.50   6.50 10-Cowles-Laughary vs 10-Rind-Uchida
+----------------------------------------------------------------------
