@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>January 22, 2019   |CLUB NO.>158048    | 01/22/2019 22:42
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=10/C=6                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Helen Abbott           Ann Romeo                A    .     .     .     68.00  37.36          
+
+ 2 Terry Jacobson         Brad Rind                C    .     .     .     89.00  48.90          
+
+ 3 Ray Miller             Jennifer Chalfan         A    2     .     .    108.00  59.34  1.12(A) 
+
+ 4 Chris Pesce            Rex Tu                   B    .     .     .     87.50  48.08          
+
+ 5 Pete Cowles            Clay Laughary            C    .     3     2     97.50  53.57  0.40(B) 
+
+ 6 Michele Herman         William Herman           C    .     .     .     81.00  44.51          
+
+ 7 Eric Sieg              Gregory Herman           B    .     4     .     94.00  51.65  0.28(B) 
+
+ 8 Mike Christensen       David Wright             A    4     .     .    105.00  57.69  0.56(A) 
+
+ 9 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     75.00  41.21          
+
+10 Irving Sonkin          Moises Saul              C    .     .     .     58.00  31.87          
+
+11 Bryan Delfs            Sue Anderson             B    1     1     .    114.00  62.64  1.50(A) 
+
+12 Hugh Hendrickson       Ivan Popivanov           B    .     .     .     81.50  44.78          
+
+13 Kim Eng                Jeffrey Ford             A    5     .     .    101.00  55.49  0.32(A) 
+
+14 Daniel Poore           Beau Hovda               C    6     2     1     98.50  54.12  0.56(B) 
+
+15 Stanford Christie      Douglas Kuschner         A    3     .     .    107.50  59.07  0.80(A) 
+
+16 Andrea James           Atul Khare               A    .     .     .     90.50  49.73          
+
+
+                                          Totals                        1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.50   6.50 4-Pesce-Tu vs 14-Poore-Hovda
+        120    0.50   6.50 6-Herman-Herman vs 5-Cowles-Laughary
+  100          4.50   2.50 8-Christensen-Wright vs 12-Hendrickson-Popivanov
+  100          4.50   2.50 9-Falls-Baker-Harvey vs 11-Delfs-Anderson
+   50          2.00   5.00 10-Sonkin-Saul vs 2-Jacobson-Rind
+  100          4.50   2.50 13-Eng-Ford vs 7-Sieg-Herman
+  150          7.00   0.00 15-Christie-Kuschner vs 3-Miller-Chalfan
+  100          4.50   2.50 16-James-Khare vs 1-Abbott-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   3.00 4-Pesce-Tu vs 14-Poore-Hovda
+  650          4.00   3.00 6-Herman-Herman vs 5-Cowles-Laughary
+  650          4.00   3.00 8-Christensen-Wright vs 12-Hendrickson-Popivanov
+  650          4.00   3.00 9-Falls-Baker-Harvey vs 11-Delfs-Anderson
+        100    0.00   7.00 10-Sonkin-Saul vs 2-Jacobson-Rind
+  650          4.00   3.00 13-Eng-Ford vs 7-Sieg-Herman
+  650          4.00   3.00 15-Christie-Kuschner vs 3-Miller-Chalfan
+  650          4.00   3.00 16-James-Khare vs 1-Abbott-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   5.50 1-Abbott-Romeo vs 8-Christensen-Wright
+        300    4.00   3.00 4-Pesce-Tu vs 15-Christie-Kuschner
+        650    1.50   5.50 5-Cowles-Laughary vs 14-Poore-Hovda
+        100    5.50   1.50 7-Sieg-Herman vs 6-Herman-Herman
+        650    1.50   5.50 9-Falls-Baker-Harvey vs 13-Eng-Ford
+        650    1.50   5.50 10-Sonkin-Saul vs 12-Hendrickson-Popivanov
+        100    5.50   1.50 11-Delfs-Anderson vs 3-Miller-Chalfan
+  100          7.00   0.00 16-James-Khare vs 2-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1100    0.00   7.00 1-Abbott-Romeo vs 8-Christensen-Wright
+        800    1.50   5.50 4-Pesce-Tu vs 15-Christie-Kuschner
+        620    5.00   2.00 5-Cowles-Laughary vs 14-Poore-Hovda
+  100          7.00   0.00 7-Sieg-Herman vs 6-Herman-Herman
+        800    1.50   5.50 9-Falls-Baker-Harvey vs 13-Eng-Ford
+        620    5.00   2.00 10-Sonkin-Saul vs 12-Hendrickson-Popivanov
+        620    5.00   2.00 11-Delfs-Anderson vs 3-Miller-Chalfan
+        650    3.00   4.00 16-James-Khare vs 2-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.00   6.00 2-Jacobson-Rind vs 9-Falls-Baker-Harvey
+        130    2.50   4.50 5-Cowles-Laughary vs 15-Christie-Kuschner
+        400    0.00   7.00 6-Herman-Herman vs 14-Poore-Hovda
+        130    2.50   4.50 8-Christensen-Wright vs 7-Sieg-Herman
+  300          7.00   0.00 10-Sonkin-Saul vs 1-Abbott-Romeo
+   50          5.50   1.50 11-Delfs-Anderson vs 13-Eng-Ford
+   50          5.50   1.50 12-Hendrickson-Popivanov vs 4-Pesce-Tu
+        110    4.00   3.00 16-James-Khare vs 3-Miller-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.50   0.50 2-Jacobson-Rind vs 9-Falls-Baker-Harvey
+   90          4.00   3.00 5-Cowles-Laughary vs 15-Christie-Kuschner
+         50    2.50   4.50 6-Herman-Herman vs 14-Poore-Hovda
+  100          5.00   2.00 8-Christensen-Wright vs 7-Sieg-Herman
+        120    0.50   6.50 10-Sonkin-Saul vs 1-Abbott-Romeo
+        120    0.50   6.50 11-Delfs-Anderson vs 13-Eng-Ford
+  110          6.50   0.50 12-Hendrickson-Popivanov vs 4-Pesce-Tu
+         50    2.50   4.50 16-James-Khare vs 3-Miller-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          7.00   0.00 3-Miller-Chalfan vs 10-Sonkin-Saul
+  620          2.50   4.50 6-Herman-Herman vs 15-Christie-Kuschner
+  620          2.50   4.50 9-Falls-Baker-Harvey vs 8-Christensen-Wright
+  200          1.00   6.00 11-Delfs-Anderson vs 2-Jacobson-Rind
+  650          5.00   2.00 12-Hendrickson-Popivanov vs 1-Abbott-Romeo
+  650          5.00   2.00 13-Eng-Ford vs 5-Cowles-Laughary
+  650          5.00   2.00 14-Poore-Hovda vs 7-Sieg-Herman
+  170          0.00   7.00 16-James-Khare vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.00   2.00 3-Miller-Chalfan vs 10-Sonkin-Saul
+         50    4.00   3.00 6-Herman-Herman vs 15-Christie-Kuschner
+        100    2.50   4.50 9-Falls-Baker-Harvey vs 8-Christensen-Wright
+  140          6.00   1.00 11-Delfs-Anderson vs 2-Jacobson-Rind
+        200    0.00   7.00 12-Hendrickson-Popivanov vs 1-Abbott-Romeo
+        150    1.00   6.00 13-Eng-Ford vs 5-Cowles-Laughary
+  530          7.00   0.00 14-Poore-Hovda vs 7-Sieg-Herman
+        100    2.50   4.50 16-James-Khare vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.50   3.50 1-Abbott-Romeo vs 6-Herman-Herman
+  690          7.00   0.00 4-Pesce-Tu vs 11-Delfs-Anderson
+  450          3.50   3.50 7-Sieg-Herman vs 15-Christie-Kuschner
+  450          3.50   3.50 10-Sonkin-Saul vs 9-Falls-Baker-Harvey
+  450          3.50   3.50 12-Hendrickson-Popivanov vs 3-Miller-Chalfan
+        100    0.00   7.00 13-Eng-Ford vs 2-Jacobson-Rind
+  450          3.50   3.50 14-Poore-Hovda vs 8-Christensen-Wright
+  450          3.50   3.50 16-James-Khare vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.00   5.00 1-Abbott-Romeo vs 6-Herman-Herman
+        870    0.00   7.00 4-Pesce-Tu vs 11-Delfs-Anderson
+        100    6.00   1.00 7-Sieg-Herman vs 15-Christie-Kuschner
+        110    4.50   2.50 10-Sonkin-Saul vs 9-Falls-Baker-Harvey
+        130    2.00   5.00 12-Hendrickson-Popivanov vs 3-Miller-Chalfan
+   90          7.00   0.00 13-Eng-Ford vs 2-Jacobson-Rind
+        130    2.00   5.00 14-Poore-Hovda vs 8-Christensen-Wright
+        110    4.50   2.50 16-James-Khare vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   4.00 1-Abbott-Romeo vs 3-Miller-Chalfan
+        150    0.00   7.00 2-Jacobson-Rind vs 7-Sieg-Herman
+  420          3.00   4.00 5-Cowles-Laughary vs 12-Hendrickson-Popivanov
+  420          3.00   4.00 8-Christensen-Wright vs 15-Christie-Kuschner
+  450          6.00   1.00 11-Delfs-Anderson vs 10-Sonkin-Saul
+  480          7.00   0.00 13-Eng-Ford vs 4-Pesce-Tu
+  420          3.00   4.00 14-Poore-Hovda vs 9-Falls-Baker-Harvey
+  420          3.00   4.00 16-James-Khare vs 6-Herman-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   5.50 1-Abbott-Romeo vs 3-Miller-Chalfan
+        420    1.50   5.50 2-Jacobson-Rind vs 7-Sieg-Herman
+  100          7.00   0.00 5-Cowles-Laughary vs 12-Hendrickson-Popivanov
+        400    3.00   4.00 8-Christensen-Wright vs 15-Christie-Kuschner
+   50          5.50   1.50 11-Delfs-Anderson vs 10-Sonkin-Saul
+   50          5.50   1.50 13-Eng-Ford vs 4-Pesce-Tu
+        150    4.00   3.00 14-Poore-Hovda vs 9-Falls-Baker-Harvey
+        450    0.00   7.00 16-James-Khare vs 6-Herman-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   4.00 1-Abbott-Romeo vs 5-Cowles-Laughary
+        100    1.00   6.00 2-Jacobson-Rind vs 4-Pesce-Tu
+  620          6.50   0.50 3-Miller-Chalfan vs 8-Christensen-Wright
+        100    1.00   6.00 6-Herman-Herman vs 13-Eng-Ford
+        100    1.00   6.00 9-Falls-Baker-Harvey vs 15-Christie-Kuschner
+  150          4.00   3.00 12-Hendrickson-Popivanov vs 11-Delfs-Anderson
+  620          6.50   0.50 14-Poore-Hovda vs 10-Sonkin-Saul
+  170          5.00   2.00 16-James-Khare vs 7-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   4.00 1-Abbott-Romeo vs 5-Cowles-Laughary
+   50          5.00   2.00 2-Jacobson-Rind vs 4-Pesce-Tu
+  150          6.00   1.00 3-Miller-Chalfan vs 8-Christensen-Wright
+        100    4.00   3.00 6-Herman-Herman vs 13-Eng-Ford
+        130    1.00   6.00 9-Falls-Baker-Harvey vs 15-Christie-Kuschner
+        130    1.00   6.00 12-Hendrickson-Popivanov vs 11-Delfs-Anderson
+        130    1.00   6.00 14-Poore-Hovda vs 10-Sonkin-Saul
+  530          7.00   0.00 16-James-Khare vs 7-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   1.00 2-Jacobson-Rind vs 6-Herman-Herman
+        110    2.50   4.50 3-Miller-Chalfan vs 5-Cowles-Laughary
+         90    4.00   3.00 4-Pesce-Tu vs 9-Falls-Baker-Harvey
+  140          7.00   0.00 7-Sieg-Herman vs 1-Abbott-Romeo
+        110    2.50   4.50 10-Sonkin-Saul vs 15-Christie-Kuschner
+   50          5.00   2.00 13-Eng-Ford vs 12-Hendrickson-Popivanov
+        140    0.50   6.50 14-Poore-Hovda vs 11-Delfs-Anderson
+        140    0.50   6.50 16-James-Khare vs 8-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    6.50   0.50 2-Jacobson-Rind vs 6-Herman-Herman
+       1430    1.50   5.50 3-Miller-Chalfan vs 5-Cowles-Laughary
+        650    6.50   0.50 4-Pesce-Tu vs 9-Falls-Baker-Harvey
+        680    4.50   2.50 7-Sieg-Herman vs 1-Abbott-Romeo
+        680    4.50   2.50 10-Sonkin-Saul vs 15-Christie-Kuschner
+       1430    1.50   5.50 13-Eng-Ford vs 12-Hendrickson-Popivanov
+       1430    1.50   5.50 14-Poore-Hovda vs 11-Delfs-Anderson
+       1430    1.50   5.50 16-James-Khare vs 8-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.00   6.00 1-Abbott-Romeo vs 13-Eng-Ford
+  450          5.50   1.50 3-Miller-Chalfan vs 7-Sieg-Herman
+  450          5.50   1.50 4-Pesce-Tu vs 6-Herman-Herman
+  450          5.50   1.50 5-Cowles-Laughary vs 10-Sonkin-Saul
+  420          2.50   4.50 8-Christensen-Wright vs 2-Jacobson-Rind
+  420          2.50   4.50 14-Poore-Hovda vs 12-Hendrickson-Popivanov
+  450          5.50   1.50 15-Christie-Kuschner vs 11-Delfs-Anderson
+  170          0.00   7.00 16-James-Khare vs 9-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.50   6.50 1-Abbott-Romeo vs 13-Eng-Ford
+        150    4.00   3.00 3-Miller-Chalfan vs 7-Sieg-Herman
+        200    2.50   4.50 4-Pesce-Tu vs 6-Herman-Herman
+        110    6.50   0.50 5-Cowles-Laughary vs 10-Sonkin-Saul
+        130    5.00   2.00 8-Christensen-Wright vs 2-Jacobson-Rind
+        300    0.50   6.50 14-Poore-Hovda vs 12-Hendrickson-Popivanov
+        200    2.50   4.50 15-Christie-Kuschner vs 11-Delfs-Anderson
+        110    6.50   0.50 16-James-Khare vs 9-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          2.00   5.00 2-Jacobson-Rind vs 1-Abbott-Romeo
+  490          5.00   2.00 4-Pesce-Tu vs 8-Christensen-Wright
+  480          2.00   5.00 5-Cowles-Laughary vs 7-Sieg-Herman
+  490          5.00   2.00 6-Herman-Herman vs 11-Delfs-Anderson
+  460          0.00   7.00 9-Falls-Baker-Harvey vs 3-Miller-Chalfan
+  490          5.00   2.00 14-Poore-Hovda vs 13-Eng-Ford
+  480          2.00   5.00 15-Christie-Kuschner vs 12-Hendrickson-Popivanov
+  940          7.00   0.00 16-James-Khare vs 10-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.50   3.50 2-Jacobson-Rind vs 1-Abbott-Romeo
+        110    3.50   3.50 4-Pesce-Tu vs 8-Christensen-Wright
+        110    3.50   3.50 5-Cowles-Laughary vs 7-Sieg-Herman
+        140    0.50   6.50 6-Herman-Herman vs 11-Delfs-Anderson
+        140    0.50   6.50 9-Falls-Baker-Harvey vs 3-Miller-Chalfan
+        100    6.50   0.50 14-Poore-Hovda vs 13-Eng-Ford
+        110    3.50   3.50 15-Christie-Kuschner vs 12-Hendrickson-Popivanov
+        100    6.50   0.50 16-James-Khare vs 10-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.50   5.50 1-Abbott-Romeo vs 14-Poore-Hovda
+  150          1.50   5.50 3-Miller-Chalfan vs 2-Jacobson-Rind
+  150          1.50   5.50 5-Cowles-Laughary vs 9-Falls-Baker-Harvey
+  170          4.00   3.00 6-Herman-Herman vs 8-Christensen-Wright
+  630          5.00   2.00 7-Sieg-Herman vs 12-Hendrickson-Popivanov
+  660          6.50   0.50 10-Sonkin-Saul vs 4-Pesce-Tu
+  660          6.50   0.50 15-Christie-Kuschner vs 13-Eng-Ford
+  150          1.50   5.50 16-James-Khare vs 11-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   3.00 1-Abbott-Romeo vs 14-Poore-Hovda
+        200    2.00   5.00 3-Miller-Chalfan vs 2-Jacobson-Rind
+  140          5.50   1.50 5-Cowles-Laughary vs 9-Falls-Baker-Harvey
+        500    0.00   7.00 6-Herman-Herman vs 8-Christensen-Wright
+  140          5.50   1.50 7-Sieg-Herman vs 12-Hendrickson-Popivanov
+        150    3.00   4.00 10-Sonkin-Saul vs 4-Pesce-Tu
+  630          7.00   0.00 15-Christie-Kuschner vs 13-Eng-Ford
+        230    1.00   6.00 16-James-Khare vs 11-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.50   5.50 2-Jacobson-Rind vs 14-Poore-Hovda
+  110          0.00   7.00 4-Pesce-Tu vs 3-Miller-Chalfan
+  620          7.00   0.00 6-Herman-Herman vs 10-Sonkin-Saul
+  170          4.00   3.00 7-Sieg-Herman vs 9-Falls-Baker-Harvey
+  170          4.00   3.00 8-Christensen-Wright vs 13-Eng-Ford
+  300          6.00   1.00 11-Delfs-Anderson vs 5-Cowles-Laughary
+  140          1.50   5.50 15-Christie-Kuschner vs 1-Abbott-Romeo
+  170          4.00   3.00 16-James-Khare vs 12-Hendrickson-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.00   6.00 2-Jacobson-Rind vs 14-Poore-Hovda
+        140    5.50   1.50 4-Pesce-Tu vs 3-Miller-Chalfan
+        140    5.50   1.50 6-Herman-Herman vs 10-Sonkin-Saul
+        170    1.00   6.00 7-Sieg-Herman vs 9-Falls-Baker-Harvey
+        170    1.00   6.00 8-Christensen-Wright vs 13-Eng-Ford
+        150    3.00   4.00 11-Delfs-Anderson vs 5-Cowles-Laughary
+        140    5.50   1.50 15-Christie-Kuschner vs 1-Abbott-Romeo
+        140    5.50   1.50 16-James-Khare vs 12-Hendrickson-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          7.00   0.00 3-Miller-Chalfan vs 14-Poore-Hovda
+        100    0.00   7.00 5-Cowles-Laughary vs 4-Pesce-Tu
+         50    2.00   5.00 7-Sieg-Herman vs 11-Delfs-Anderson
+   90          4.50   2.50 8-Christensen-Wright vs 10-Sonkin-Saul
+  100          6.00   1.00 9-Falls-Baker-Harvey vs 1-Abbott-Romeo
+         50    2.00   5.00 12-Hendrickson-Popivanov vs 6-Herman-Herman
+         50    2.00   5.00 15-Christie-Kuschner vs 2-Jacobson-Rind
+   90          4.50   2.50 16-James-Khare vs 13-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   1.50 3-Miller-Chalfan vs 14-Poore-Hovda
+  100          3.50   3.50 5-Cowles-Laughary vs 4-Pesce-Tu
+        110    1.50   5.50 7-Sieg-Herman vs 11-Delfs-Anderson
+  300          7.00   0.00 8-Christensen-Wright vs 10-Sonkin-Saul
+  100          3.50   3.50 9-Falls-Baker-Harvey vs 1-Abbott-Romeo
+        300    0.00   7.00 12-Hendrickson-Popivanov vs 6-Herman-Herman
+  200          5.50   1.50 15-Christie-Kuschner vs 2-Jacobson-Rind
+        110    1.50   5.50 16-James-Khare vs 13-Eng-Ford
+----------------------------------------------------------------------
