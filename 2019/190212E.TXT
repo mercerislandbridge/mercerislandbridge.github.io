@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 12, 2019  |CLUB NO.>158048    | 02/12/2019 23:04
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian/Mike      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=5/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Eric Sieg                A    .     .     .     57.00  52.78          
+
+ 2 Stanford Christie      Douglas Kuschner         A    .     .     .     55.00  50.93          
+
+ 3 Jeffrey Ford           David Wright             A    .     .     .     54.00  50.00          
+
+ 4 Ray Miller             Corneliu Galer           A    1     .     .     63.00  58.33  1.00(A) 
+
+ 5 Susan Waggoner         Brad Rind                C    .     .     .     41.00  37.96          
+
+ 6 Ann Romeo              Beau Hovda               B    2     1     .     61.50  56.94  0.70(A) 
+
+ 7 Bryan Delfs            Sue Anderson             B    3     2     .     60.00  55.56  0.50(A) 
+
+ 8 William Campbell       Nelson Davis             B    4     .     .     58.00  53.70  0.35(A) 
+
+ 9 Mike Christensen       Brian Zaugg              A    .     .     .     49.00  45.37          
+
+10 Steven Mark Lewis      Grant Davis              C    .     .     .     41.50  38.43          
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          2.50   1.50 1-Eng-Sieg vs 4-Miller-Galer
+  990          2.50   1.50 2-Christie-Kuschner vs 9-Christensen-Zaugg
+         50    0.50   3.50 3-Ford-Wright vs 7-Delfs-Anderson
+ 1010          4.00   0.00 5-Waggoner-Rind vs 6-Romeo-Hovda
+         50    0.50   3.50 10-Lewis-Davis vs 8-Campbell-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          1.00   3.00 1-Eng-Sieg vs 4-Miller-Galer
+ 1440          3.00   1.00 2-Christie-Kuschner vs 9-Christensen-Zaugg
+ 1440          3.00   1.00 3-Ford-Wright vs 7-Delfs-Anderson
+        100    0.00   4.00 5-Waggoner-Rind vs 6-Romeo-Hovda
+ 1440          3.00   1.00 10-Lewis-Davis vs 8-Campbell-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          4.00   0.00 1-Eng-Sieg vs 4-Miller-Galer
+  100          3.00   1.00 2-Christie-Kuschner vs 9-Christensen-Zaugg
+        650    2.00   2.00 3-Ford-Wright vs 7-Delfs-Anderson
+       1430    0.00   4.00 5-Waggoner-Rind vs 6-Romeo-Hovda
+        680    1.00   3.00 10-Lewis-Davis vs 8-Campbell-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          2.00   2.00 2-Christie-Kuschner vs 5-Waggoner-Rind
+  620          0.50   3.50 3-Ford-Wright vs 1-Eng-Sieg
+  690          3.00   1.00 4-Miller-Galer vs 8-Campbell-Davis
+  620          0.50   3.50 6-Romeo-Hovda vs 7-Delfs-Anderson
+ 1370          4.00   0.00 10-Lewis-Davis vs 9-Christensen-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   2.00 2-Christie-Kuschner vs 5-Waggoner-Rind
+  150          4.00   0.00 3-Ford-Wright vs 1-Eng-Sieg
+        400    0.00   4.00 4-Miller-Galer vs 8-Campbell-Davis
+  100          3.00   1.00 6-Romeo-Hovda vs 7-Delfs-Anderson
+        200    1.00   3.00 10-Lewis-Davis vs 9-Christensen-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          4.00   0.00 2-Christie-Kuschner vs 5-Waggoner-Rind
+  520          3.00   1.00 3-Ford-Wright vs 1-Eng-Sieg
+  460          1.50   2.50 4-Miller-Galer vs 8-Campbell-Davis
+  460          1.50   2.50 6-Romeo-Hovda vs 7-Delfs-Anderson
+  420          0.00   4.00 10-Lewis-Davis vs 9-Christensen-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   1.50 3-Ford-Wright vs 6-Romeo-Hovda
+  200          4.00   0.00 4-Miller-Galer vs 2-Christie-Kuschner
+  140          1.00   3.00 5-Waggoner-Rind vs 9-Christensen-Zaugg
+  170          2.50   1.50 7-Delfs-Anderson vs 8-Campbell-Davis
+        100    0.00   4.00 10-Lewis-Davis vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   4.00 3-Ford-Wright vs 6-Romeo-Hovda
+  300          2.00   2.00 4-Miller-Galer vs 2-Christie-Kuschner
+  480          3.50   0.50 5-Waggoner-Rind vs 9-Christensen-Zaugg
+  100          1.00   3.00 7-Delfs-Anderson vs 8-Campbell-Davis
+  480          3.50   0.50 10-Lewis-Davis vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.00   2.00 3-Ford-Wright vs 6-Romeo-Hovda
+  430          2.00   2.00 4-Miller-Galer vs 2-Christie-Kuschner
+  430          2.00   2.00 5-Waggoner-Rind vs 9-Christensen-Zaugg
+  430          2.00   2.00 7-Delfs-Anderson vs 8-Campbell-Davis
+  430          2.00   2.00 10-Lewis-Davis vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   0.00 4-Miller-Galer vs 7-Delfs-Anderson
+        200    3.00   1.00 5-Waggoner-Rind vs 3-Ford-Wright
+        620    1.00   3.00 6-Romeo-Hovda vs 1-Eng-Sieg
+        620    1.00   3.00 8-Campbell-Davis vs 9-Christensen-Zaugg
+        620    1.00   3.00 10-Lewis-Davis vs 2-Christie-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          1.50   2.50 4-Miller-Galer vs 7-Delfs-Anderson
+  490          3.50   0.50 5-Waggoner-Rind vs 3-Ford-Wright
+         50    0.00   4.00 6-Romeo-Hovda vs 1-Eng-Sieg
+  460          1.50   2.50 8-Campbell-Davis vs 9-Christensen-Zaugg
+  490          3.50   0.50 10-Lewis-Davis vs 2-Christie-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.00   0.00 4-Miller-Galer vs 7-Delfs-Anderson
+        590    0.00   4.00 5-Waggoner-Rind vs 3-Ford-Wright
+        170    2.00   2.00 6-Romeo-Hovda vs 1-Eng-Sieg
+        420    1.00   3.00 8-Campbell-Davis vs 9-Christensen-Zaugg
+        140    3.00   1.00 10-Lewis-Davis vs 2-Christie-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          4.00   0.00 5-Waggoner-Rind vs 8-Campbell-Davis
+        200    1.50   2.50 6-Romeo-Hovda vs 4-Miller-Galer
+  300          3.00   1.00 7-Delfs-Anderson vs 2-Christie-Kuschner
+        200    1.50   2.50 9-Christensen-Zaugg vs 1-Eng-Sieg
+        500    0.00   4.00 10-Lewis-Davis vs 3-Ford-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   4.00 5-Waggoner-Rind vs 8-Campbell-Davis
+        300    1.50   2.50 6-Romeo-Hovda vs 4-Miller-Galer
+  800          4.00   0.00 7-Delfs-Anderson vs 2-Christie-Kuschner
+        300    1.50   2.50 9-Christensen-Zaugg vs 1-Eng-Sieg
+        150    3.00   1.00 10-Lewis-Davis vs 3-Ford-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.00   1.00 5-Waggoner-Rind vs 8-Campbell-Davis
+   50          4.00   0.00 6-Romeo-Hovda vs 4-Miller-Galer
+        110    2.00   2.00 7-Delfs-Anderson vs 2-Christie-Kuschner
+        170    0.50   3.50 9-Christensen-Zaugg vs 1-Eng-Sieg
+        170    0.50   3.50 10-Lewis-Davis vs 3-Ford-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   2.50 1-Eng-Sieg vs 2-Christie-Kuschner
+         50    1.50   2.50 6-Romeo-Hovda vs 9-Christensen-Zaugg
+  120          3.00   1.00 7-Delfs-Anderson vs 5-Waggoner-Rind
+  130          4.00   0.00 8-Campbell-Davis vs 3-Ford-Wright
+        150    0.00   4.00 10-Lewis-Davis vs 4-Miller-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   3.00 1-Eng-Sieg vs 2-Christie-Kuschner
+        140    1.00   3.00 6-Romeo-Hovda vs 9-Christensen-Zaugg
+         50    4.00   0.00 7-Delfs-Anderson vs 5-Waggoner-Rind
+        100    3.00   1.00 8-Campbell-Davis vs 3-Ford-Wright
+        140    1.00   3.00 10-Lewis-Davis vs 4-Miller-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   2.00 1-Eng-Sieg vs 2-Christie-Kuschner
+        170    3.00   1.00 6-Romeo-Hovda vs 9-Christensen-Zaugg
+        500    0.00   4.00 7-Delfs-Anderson vs 5-Waggoner-Rind
+        140    4.00   0.00 8-Campbell-Davis vs 3-Ford-Wright
+        450    1.00   3.00 10-Lewis-Davis vs 4-Miller-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   1.50 2-Christie-Kuschner vs 3-Ford-Wright
+  450          2.50   1.50 7-Delfs-Anderson vs 1-Eng-Sieg
+         50    0.00   4.00 8-Campbell-Davis vs 6-Romeo-Hovda
+  450          2.50   1.50 9-Christensen-Zaugg vs 4-Miller-Galer
+  450          2.50   1.50 10-Lewis-Davis vs 5-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          1.50   2.50 2-Christie-Kuschner vs 3-Ford-Wright
+  630          1.50   2.50 7-Delfs-Anderson vs 1-Eng-Sieg
+  630          1.50   2.50 8-Campbell-Davis vs 6-Romeo-Hovda
+  630          1.50   2.50 9-Christensen-Zaugg vs 4-Miller-Galer
+  660          4.00   0.00 10-Lewis-Davis vs 5-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   1.00 2-Christie-Kuschner vs 3-Ford-Wright
+   50          3.00   1.00 7-Delfs-Anderson vs 1-Eng-Sieg
+        140    0.00   4.00 8-Campbell-Davis vs 6-Romeo-Hovda
+        110    1.00   3.00 9-Christensen-Zaugg vs 4-Miller-Galer
+   50          3.00   1.00 10-Lewis-Davis vs 5-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.00   3.00 1-Eng-Sieg vs 5-Waggoner-Rind
+  430          4.00   0.00 3-Ford-Wright vs 4-Miller-Galer
+  420          2.50   1.50 8-Campbell-Davis vs 2-Christie-Kuschner
+  420          2.50   1.50 9-Christensen-Zaugg vs 7-Delfs-Anderson
+  140          0.00   4.00 10-Lewis-Davis vs 6-Romeo-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    3.50   0.50 1-Eng-Sieg vs 5-Waggoner-Rind
+        680    3.50   0.50 3-Ford-Wright vs 4-Miller-Galer
+       1440    1.00   3.00 8-Campbell-Davis vs 2-Christie-Kuschner
+        710    2.00   2.00 9-Christensen-Zaugg vs 7-Delfs-Anderson
+       1470    0.00   4.00 10-Lewis-Davis vs 6-Romeo-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   1.00 1-Eng-Sieg vs 5-Waggoner-Rind
+  170          1.00   3.00 3-Ford-Wright vs 4-Miller-Galer
+  420          4.00   0.00 8-Campbell-Davis vs 2-Christie-Kuschner
+  170          1.00   3.00 9-Christensen-Zaugg vs 7-Delfs-Anderson
+  170          1.00   3.00 10-Lewis-Davis vs 6-Romeo-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        250    1.00   3.00 1-Eng-Sieg vs 8-Campbell-Davis
+        140    3.00   1.00 2-Christie-Kuschner vs 6-Romeo-Hovda
+        100    4.00   0.00 4-Miller-Galer vs 5-Waggoner-Rind
+        790    0.00   4.00 9-Christensen-Zaugg vs 3-Ford-Wright
+        170    2.00   2.00 10-Lewis-Davis vs 7-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.00   4.00 1-Eng-Sieg vs 8-Campbell-Davis
+        140    3.00   1.00 2-Christie-Kuschner vs 6-Romeo-Hovda
+        140    3.00   1.00 4-Miller-Galer vs 5-Waggoner-Rind
+        140    3.00   1.00 9-Christensen-Zaugg vs 3-Ford-Wright
+        620    1.00   3.00 10-Lewis-Davis vs 7-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   1.00 1-Eng-Sieg vs 8-Campbell-Davis
+        110    2.00   2.00 2-Christie-Kuschner vs 6-Romeo-Hovda
+   50          4.00   0.00 4-Miller-Galer vs 5-Waggoner-Rind
+        130    1.00   3.00 9-Christensen-Zaugg vs 3-Ford-Wright
+        150    0.00   4.00 10-Lewis-Davis vs 7-Delfs-Anderson
+----------------------------------------------------------------------
