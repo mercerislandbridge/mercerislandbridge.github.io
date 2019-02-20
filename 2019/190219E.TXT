@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 19, 2019  |CLUB NO.>158048    | 02/19/2019 22:42
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=6/C=2                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Pete Cowles            Clay Laughary            B   3     2     .   |   3     2     .     67.00  55.83  1.40(OA)
+
+ 2 Ann Romeo              Brian Zaugg              A   .     .     .   |   .     .     .     40.00  33.33          
+
+ 3 Mike Ring              Shawn Abernethy          B   .     .     .   |   .     .     .     49.50  41.25          
+
+ 4 Craig Von Land         Irving Sonkin            C   .     .     .   |   .     .     .     59.50  49.58          
+
+ 5 Jeffrey Ford           Aaron Mohrman            A   .     .     .   |   .     .     .     58.00  48.33          
+
+ 6 Ray Miller             Chris Moore              A   5     .     .   |   5     .     .     63.50  52.92  0.78(OA)
+
+ 7 Stanford Christie      Douglas Kuschner         A   4     .     .   |   4     .     .     64.00  53.33  1.05(OA)
+
+ 8 Kevin Cline            David Hankins            B   2     1     .   |   2     1     .     71.50  59.58  1.86(OA)
+
+ 9 Mike Christensen       Becky Stevens            A   .     .     .   |   .     .     .     55.00  45.83          
+
+
+
+11 Nick Tipton            Galen Hesson             A   .     .     .   |   .     .     .     58.00  48.33          
+
+12 Dave Setterholm        Corneliu Galer           A   1     .     .   |   1     .     .     72.00  60.00  2.48(OA)
+
+13 Eric Sieg              Gregory Herman           B   .     .     .   |   .     .     .     61.00  50.83          
+
+14 Steven Mark Lewis      Grant Davis              C   .     .     .   |   .     .     .     61.00  50.83          
+
+
+                                          Totals                                            780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    5.00   0.00 1-Cowles-Laughary vs 3-Ring-Abernethy
+        450    1.50   3.50 2-Romeo-Zaugg vs 6-Miller-Moore
+        450    1.50   3.50 4-Von Land-Sonkin vs 9-Christensen-Stevens
+        450    1.50   3.50 5-Ford-Mohrman vs 12-Setterholm-Galer
+        450    1.50   3.50 7-Christie-Kuschner vs 8-Cline-Hankins
+        430    4.00   1.00 14-Lewis-Davis vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 1-Cowles-Laughary vs 3-Ring-Abernethy
+        100    0.50   4.50 2-Romeo-Zaugg vs 6-Miller-Moore
+        100    0.50   4.50 4-Von Land-Sonkin vs 9-Christensen-Stevens
+   50          3.00   2.00 5-Ford-Mohrman vs 12-Setterholm-Galer
+   50          3.00   2.00 7-Christie-Kuschner vs 8-Cline-Hankins
+   50          3.00   2.00 14-Lewis-Davis vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          1.50   3.50 1-Cowles-Laughary vs 11-Tipton-Hesson
+  480          1.50   3.50 2-Romeo-Zaugg vs 4-Von Land-Sonkin
+  480          1.50   3.50 3-Ring-Abernethy vs 7-Christie-Kuschner
+  480          1.50   3.50 6-Miller-Moore vs 13-Sieg-Herman
+  920          4.50   0.50 8-Cline-Hankins vs 9-Christensen-Stevens
+  920          4.50   0.50 14-Lewis-Davis vs 12-Setterholm-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.00   2.00 1-Cowles-Laughary vs 11-Tipton-Hesson
+        910    0.00   5.00 2-Romeo-Zaugg vs 4-Von Land-Sonkin
+        800    1.00   4.00 3-Ring-Abernethy vs 7-Christie-Kuschner
+        200    3.00   2.00 6-Miller-Moore vs 13-Sieg-Herman
+  100          5.00   0.00 8-Cline-Hankins vs 9-Christensen-Stevens
+        200    3.00   2.00 14-Lewis-Davis vs 12-Setterholm-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.00   5.00 2-Romeo-Zaugg vs 12-Setterholm-Galer
+        140    3.50   1.50 3-Ring-Abernethy vs 5-Ford-Mohrman
+        420    1.00   4.00 4-Von Land-Sonkin vs 8-Cline-Hankins
+        140    3.50   1.50 6-Miller-Moore vs 11-Tipton-Hesson
+   50          5.00   0.00 7-Christie-Kuschner vs 1-Cowles-Laughary
+        170    2.00   3.00 14-Lewis-Davis vs 13-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   2.00 2-Romeo-Zaugg vs 12-Setterholm-Galer
+         50    3.00   2.00 3-Ring-Abernethy vs 5-Ford-Mohrman
+         50    3.00   2.00 4-Von Land-Sonkin vs 8-Cline-Hankins
+         50    3.00   2.00 6-Miller-Moore vs 11-Tipton-Hesson
+        500    0.00   5.00 7-Christie-Kuschner vs 1-Cowles-Laughary
+         50    3.00   2.00 14-Lewis-Davis vs 13-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    4.50   0.50 3-Ring-Abernethy vs 13-Sieg-Herman
+        630    4.50   0.50 4-Von Land-Sonkin vs 6-Miller-Moore
+        690    3.00   2.00 5-Ford-Mohrman vs 9-Christensen-Stevens
+        800    1.00   4.00 7-Christie-Kuschner vs 12-Setterholm-Galer
+       1390    0.00   5.00 8-Cline-Hankins vs 2-Romeo-Zaugg
+        720    2.00   3.00 14-Lewis-Davis vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.00   4.00 3-Ring-Abernethy vs 13-Sieg-Herman
+  450          4.00   1.00 4-Von Land-Sonkin vs 6-Miller-Moore
+  420          1.00   4.00 5-Ford-Mohrman vs 9-Christensen-Stevens
+  450          4.00   1.00 7-Christie-Kuschner vs 12-Setterholm-Galer
+  420          1.00   4.00 8-Cline-Hankins vs 2-Romeo-Zaugg
+  450          4.00   1.00 14-Lewis-Davis vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.50   2.50 4-Von Land-Sonkin vs 1-Cowles-Laughary
+  450          4.50   0.50 5-Ford-Mohrman vs 7-Christie-Kuschner
+  420          2.50   2.50 8-Cline-Hankins vs 13-Sieg-Herman
+  170          1.00   4.00 9-Christensen-Stevens vs 3-Ring-Abernethy
+        800    0.00   5.00 11-Tipton-Hesson vs 12-Setterholm-Galer
+  450          4.50   0.50 14-Lewis-Davis vs 2-Romeo-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   4.00 4-Von Land-Sonkin vs 1-Cowles-Laughary
+        150    3.50   1.50 5-Ford-Mohrman vs 7-Christie-Kuschner
+        200    1.00   4.00 8-Cline-Hankins vs 13-Sieg-Herman
+        200    1.00   4.00 9-Christensen-Stevens vs 3-Ring-Abernethy
+        150    3.50   1.50 11-Tipton-Hesson vs 12-Setterholm-Galer
+  140          5.00   0.00 14-Lewis-Davis vs 2-Romeo-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   4.50 5-Ford-Mohrman vs 2-Romeo-Zaugg
+  420          2.00   3.00 6-Miller-Moore vs 8-Cline-Hankins
+  450          4.00   1.00 7-Christie-Kuschner vs 11-Tipton-Hesson
+  450          4.00   1.00 9-Christensen-Stevens vs 1-Cowles-Laughary
+         50    0.50   4.50 12-Setterholm-Galer vs 13-Sieg-Herman
+  450          4.00   1.00 14-Lewis-Davis vs 3-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.50   1.50 5-Ford-Mohrman vs 2-Romeo-Zaugg
+  620          0.50   4.50 6-Miller-Moore vs 8-Cline-Hankins
+  650          3.50   1.50 7-Christie-Kuschner vs 11-Tipton-Hesson
+  650          3.50   1.50 9-Christensen-Stevens vs 1-Cowles-Laughary
+  650          3.50   1.50 12-Setterholm-Galer vs 13-Sieg-Herman
+  620          0.50   4.50 14-Lewis-Davis vs 3-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 6-Miller-Moore vs 3-Ring-Abernethy
+        110    4.00   1.00 7-Christie-Kuschner vs 9-Christensen-Stevens
+        230    1.00   4.00 8-Cline-Hankins vs 12-Setterholm-Galer
+        140    2.50   2.50 11-Tipton-Hesson vs 5-Ford-Mohrman
+        630    0.00   5.00 13-Sieg-Herman vs 1-Cowles-Laughary
+        140    2.50   2.50 14-Lewis-Davis vs 4-Von Land-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    3.00   2.00 6-Miller-Moore vs 3-Ring-Abernethy
+        480    3.00   2.00 7-Christie-Kuschner vs 9-Christensen-Stevens
+        480    3.00   2.00 8-Cline-Hankins vs 12-Setterholm-Galer
+        980    0.00   5.00 11-Tipton-Hesson vs 5-Ford-Mohrman
+        480    3.00   2.00 13-Sieg-Herman vs 1-Cowles-Laughary
+        480    3.00   2.00 14-Lewis-Davis vs 4-Von Land-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.00   4.00 1-Cowles-Laughary vs 2-Romeo-Zaugg
+  650          3.00   2.00 7-Christie-Kuschner vs 4-Von Land-Sonkin
+  790          4.00   1.00 9-Christensen-Stevens vs 13-Sieg-Herman
+  930          5.00   0.00 11-Tipton-Hesson vs 3-Ring-Abernethy
+  300          2.00   3.00 12-Setterholm-Galer vs 6-Miller-Moore
+  100          0.00   5.00 14-Lewis-Davis vs 5-Ford-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          5.00   0.00 1-Cowles-Laughary vs 2-Romeo-Zaugg
+  100          0.50   4.50 7-Christie-Kuschner vs 4-Von Land-Sonkin
+  500          3.50   1.50 9-Christensen-Stevens vs 13-Sieg-Herman
+  100          0.50   4.50 11-Tipton-Hesson vs 3-Ring-Abernethy
+  500          3.50   1.50 12-Setterholm-Galer vs 6-Miller-Moore
+  300          2.00   3.00 14-Lewis-Davis vs 5-Ford-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 2-Romeo-Zaugg vs 3-Ring-Abernethy
+  120          5.00   0.00 8-Cline-Hankins vs 5-Ford-Mohrman
+         50    2.00   3.00 9-Christensen-Stevens vs 11-Tipton-Hesson
+   50          4.00   1.00 12-Setterholm-Galer vs 4-Von Land-Sonkin
+         50    2.00   3.00 13-Sieg-Herman vs 7-Christie-Kuschner
+         50    2.00   3.00 14-Lewis-Davis vs 6-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.00   2.00 2-Romeo-Zaugg vs 3-Ring-Abernethy
+  100          5.00   0.00 8-Cline-Hankins vs 5-Ford-Mohrman
+        430    0.50   4.50 9-Christensen-Stevens vs 11-Tipton-Hesson
+        400    3.00   2.00 12-Setterholm-Galer vs 4-Von Land-Sonkin
+        400    3.00   2.00 13-Sieg-Herman vs 7-Christie-Kuschner
+        430    0.50   4.50 14-Lewis-Davis vs 6-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   2.00 1-Cowles-Laughary vs 8-Cline-Hankins
+  200          0.00   5.00 3-Ring-Abernethy vs 4-Von Land-Sonkin
+  420          3.00   2.00 9-Christensen-Stevens vs 6-Miller-Moore
+  420          3.00   2.00 11-Tipton-Hesson vs 2-Romeo-Zaugg
+  420          3.00   2.00 13-Sieg-Herman vs 5-Ford-Mohrman
+  420          3.00   2.00 14-Lewis-Davis vs 7-Christie-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          4.00   1.00 1-Cowles-Laughary vs 8-Cline-Hankins
+        110    1.00   4.00 3-Ring-Abernethy vs 4-Von Land-Sonkin
+        110    1.00   4.00 9-Christensen-Stevens vs 6-Miller-Moore
+  180          5.00   0.00 11-Tipton-Hesson vs 2-Romeo-Zaugg
+        110    1.00   4.00 13-Sieg-Herman vs 5-Ford-Mohrman
+         90    3.00   2.00 14-Lewis-Davis vs 7-Christie-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    2.50   2.50 1-Cowles-Laughary vs 6-Miller-Moore
+        460    2.50   2.50 2-Romeo-Zaugg vs 9-Christensen-Stevens
+        460    2.50   2.50 4-Von Land-Sonkin vs 5-Ford-Mohrman
+        460    2.50   2.50 11-Tipton-Hesson vs 13-Sieg-Herman
+        430    5.00   0.00 12-Setterholm-Galer vs 3-Ring-Abernethy
+        490    0.00   5.00 14-Lewis-Davis vs 8-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   0.00 1-Cowles-Laughary vs 6-Miller-Moore
+        130    1.50   3.50 2-Romeo-Zaugg vs 9-Christensen-Stevens
+  200          4.00   1.00 4-Von Land-Sonkin vs 5-Ford-Mohrman
+        130    1.50   3.50 11-Tipton-Hesson vs 13-Sieg-Herman
+        100    3.00   2.00 12-Setterholm-Galer vs 3-Ring-Abernethy
+        500    0.00   5.00 14-Lewis-Davis vs 8-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1100    0.00   5.00 2-Romeo-Zaugg vs 7-Christie-Kuschner
+        620    1.00   4.00 5-Ford-Mohrman vs 6-Miller-Moore
+        140    3.00   2.00 11-Tipton-Hesson vs 8-Cline-Hankins
+  200          5.00   0.00 12-Setterholm-Galer vs 1-Cowles-Laughary
+  100          4.00   1.00 13-Sieg-Herman vs 4-Von Land-Sonkin
+        300    2.00   3.00 14-Lewis-Davis vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    0.50   4.50 2-Romeo-Zaugg vs 7-Christie-Kuschner
+        450    3.50   1.50 5-Ford-Mohrman vs 6-Miller-Moore
+        480    0.50   4.50 11-Tipton-Hesson vs 8-Cline-Hankins
+        450    3.50   1.50 12-Setterholm-Galer vs 1-Cowles-Laughary
+        450    3.50   1.50 13-Sieg-Herman vs 4-Von Land-Sonkin
+        450    3.50   1.50 14-Lewis-Davis vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          0.50   4.50 1-Cowles-Laughary vs 5-Ford-Mohrman
+  150          3.00   2.00 3-Ring-Abernethy vs 8-Cline-Hankins
+  120          0.50   4.50 4-Von Land-Sonkin vs 11-Tipton-Hesson
+  150          3.00   2.00 6-Miller-Moore vs 7-Christie-Kuschner
+  150          3.00   2.00 12-Setterholm-Galer vs 9-Christensen-Stevens
+  300          5.00   0.00 13-Sieg-Herman vs 2-Romeo-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          5.00   0.00 1-Cowles-Laughary vs 5-Ford-Mohrman
+  630          2.00   3.00 3-Ring-Abernethy vs 8-Cline-Hankins
+        200    0.50   4.50 4-Von Land-Sonkin vs 11-Tipton-Hesson
+  660          3.50   1.50 6-Miller-Moore vs 7-Christie-Kuschner
+  660          3.50   1.50 12-Setterholm-Galer vs 9-Christensen-Stevens
+        200    0.50   4.50 13-Sieg-Herman vs 2-Romeo-Zaugg
+----------------------------------------------------------------------
