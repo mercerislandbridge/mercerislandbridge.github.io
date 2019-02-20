@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 12, 2019  |CLUB NO.>158048    | 02/12/2019 23:04
+DATE>February 12, 2019  |CLUB NO.>158048    | 02/19/2019 18:36
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Brian/Mike      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,21 +11,21 @@ PAIRS IN STRAT A=10/B=5/C=2                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Kim Eng                Eric Sieg                A    .     .     .     57.00  52.78          
+ 1 Kim Eng                Eric Sieg                A    3     .     .     60.00  55.56  0.50(A) 
 
- 2 Stanford Christie      Douglas Kuschner         A    .     .     .     55.00  50.93          
+ 2 Stanford Christie      Douglas Kuschner         A    4     .     .     58.00  53.70  0.35(A) 
 
  3 Jeffrey Ford           David Wright             A    .     .     .     54.00  50.00          
 
- 4 Ray Miller             Corneliu Galer           A    1     .     .     63.00  58.33  1.00(A) 
+ 4 Ray Miller             Corneliu Galer           A    2     .     .     61.00  56.48  0.70(A) 
 
- 5 Susan Waggoner         Brad Rind                C    .     .     .     41.00  37.96          
+ 5 Susan Waggoner         Brad Rind                C    .     .     .     43.00  39.81          
 
- 6 Ann Romeo              Beau Hovda               B    2     1     .     61.50  56.94  0.70(A) 
+ 6 Ann Romeo              Beau Hovda               B    1     1     .     63.50  58.80  1.00(A) 
 
- 7 Bryan Delfs            Sue Anderson             B    3     2     .     60.00  55.56  0.50(A) 
+ 7 Bryan Delfs            Sue Anderson             B    .     2     .     57.00  52.78  0.28(B) 
 
- 8 William Campbell       Nelson Davis             B    4     .     .     58.00  53.70  0.35(A) 
+ 8 William Campbell       Nelson Davis             B    .     .     .     53.00  49.07          
 
  9 Mike Christensen       Brian Zaugg              A    .     .     .     49.00  45.37          
 
@@ -181,11 +181,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        500    0.00   4.00 5-Waggoner-Rind vs 8-Campbell-Davis
-        300    1.50   2.50 6-Romeo-Hovda vs 4-Miller-Galer
-  800          4.00   0.00 7-Delfs-Anderson vs 2-Christie-Kuschner
-        300    1.50   2.50 9-Christensen-Zaugg vs 1-Eng-Sieg
-        150    3.00   1.00 10-Lewis-Davis vs 3-Ford-Wright
+        500    1.00   3.00 5-Waggoner-Rind vs 8-Campbell-Davis
+        300    2.50   1.50 6-Romeo-Hovda vs 4-Miller-Galer
+        800    0.00   4.00 7-Delfs-Anderson vs 2-Christie-Kuschner
+        300    2.50   1.50 9-Christensen-Zaugg vs 1-Eng-Sieg
+        150    4.00   0.00 10-Lewis-Davis vs 3-Ford-Wright
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 15
@@ -313,11 +313,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        630    0.00   4.00 1-Eng-Sieg vs 8-Campbell-Davis
-        140    3.00   1.00 2-Christie-Kuschner vs 6-Romeo-Hovda
-        140    3.00   1.00 4-Miller-Galer vs 5-Waggoner-Rind
-        140    3.00   1.00 9-Christensen-Zaugg vs 3-Ford-Wright
-        620    1.00   3.00 10-Lewis-Davis vs 7-Delfs-Anderson
+        110    4.00   0.00 1-Eng-Sieg vs 8-Campbell-Davis
+        140    2.00   2.00 2-Christie-Kuschner vs 6-Romeo-Hovda
+        140    2.00   2.00 4-Miller-Galer vs 5-Waggoner-Rind
+        140    2.00   2.00 9-Christensen-Zaugg vs 3-Ford-Wright
+        620    0.00   4.00 10-Lewis-Davis vs 7-Delfs-Anderson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 27
