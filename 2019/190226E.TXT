@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 26, 2019  |CLUB NO.>158048    | 02/26/2019 22:42
+DATE>February 26, 2019  |CLUB NO.>158048    | 03/05/2019 18:36
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,25 +11,25 @@ PAIRS IN STRAT A=11/B=5/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Bryan Delfs            Gregory Herman           A    3     .     .    139.39  57.36  0.55(A) 
+ 1 Bryan Delfs            Gregory Herman           A    4     .     .    138.28  56.91  0.39(A) 
 
- 2 Steven Mark Lewis      Grant Davis              C    .     .     .     90.49  37.24          
+ 2 Steven Mark Lewis      Grant Davis              C    .     .     .     89.38  36.78          
 
- 3 David Binney           Rex Tu                   A    2     .     .    140.20  57.70  0.77(A) 
+ 3 David Binney           Rex Tu                   A    1     .     .    140.20  57.70  1.10(A) 
 
- 4 Pete Cowles            Clay Laughary            C    .     2     1    121.44  49.98  0.28(B) 
+ 4 Pete Cowles            Clay Laughary            C    .     2     1    120.33  49.52  0.28(B) 
 
- 5 Hugh Hendrickson       Andrea James             A    .     .     .    115.66  47.60          
+ 5 Hugh Hendrickson       Andrea James             A    .     .     .    114.55  47.14          
 
- 6 Alan Tesler            Brad Rind                C    .     .     .    113.66  46.77          
+ 6 Alan Tesler            Brad Rind                C    .     .     .    112.55  46.32          
 
- 7 Kevin Cline            David Hankins            B    4     1     .    129.78  53.41  0.40(B) 
+ 7 Kevin Cline            David Hankins            B    3     1     .    138.66  57.06  0.55(A) 
 
- 8 Mike Ring              Brian Zaugg              A    .     .     .    111.94  46.07          
+ 8 Mike Ring              Brian Zaugg              A    .     .     .    110.83  45.61          
 
- 9 William Campbell       Nelson Davis             B    .     .     .    114.27  47.02          
+ 9 William Campbell       Nelson Davis             B    .     .     .    113.16  46.57          
 
-10 Ray Miller             Jennifer Chalfan         A    1     .     .    140.83  57.95  1.10(A) 
+10 Ray Miller             Jennifer Chalfan         A    2     .     .    139.72  57.50  0.77(A) 
 
 
 
@@ -37,7 +37,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
                                           Totals                        1217.66       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 26, 2019  |CLUB NO.>158048    | 02/26/2019 22:42
+DATE>February 26, 2019  |CLUB NO.>158048    | 03/05/2019 18:36
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -47,30 +47,30 @@ PAIRS IN STRAT A=11/B=5/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .    113.34  46.64          
+ 1 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .    114.45  47.10          
 
- 2 Joel Fuhrman           Dex Stuberg              B    .     1     .    124.17  51.10  0.40(B) 
+ 2 Joel Fuhrman           Dex Stuberg              B    .     1     .    125.28  51.56  0.40(B) 
 
- 3 Helen Abbott           Ann Romeo                A    4     .     .    125.82  51.78  0.39(A) 
+ 3 Helen Abbott           Ann Romeo                A    4     .     .    127.07  52.29  0.39(A) 
 
- 4 Jeffrey Ford           Eric Sieg                A    2     .     .    133.44  54.91  0.77(A) 
+ 4 Jeffrey Ford           Eric Sieg                A    2     .     .    134.69  55.43  0.77(A) 
 
- 5 Nick Tipton            Galen Hesson             A    .     .     .    122.87  50.56          
+ 5 Nick Tipton            Galen Hesson             A    .     .     .    112.88  46.45          
 
- 6 Ken Christiansen       Bogdan Vulcan            A    .     .     .     88.89  36.58          
+ 6 Ken Christiansen       Bogdan Vulcan            A    .     .     .     90.14  37.09          
 
- 7 Chris Pesce            David Roselle            B    .     .     .    122.13  50.26          
+ 7 Chris Pesce            David Roselle            B    .     .     .    123.38  50.77          
 
  8 Stanford Christie      Corneliu Galer           A    3     .     .    129.71  53.38  0.55(A) 
 
- 9 Christopher Jarvis     Adam Ruprecht            C    .     2     1    122.88  50.57  0.28(B) 
+ 9 Christopher Jarvis     Adam Ruprecht            C    .     2     1    124.13  51.08  0.28(B) 
 
-10 Mike Christensen       David Wright             A    1     .     .    136.76  56.28  1.10(A) 
+10 Mike Christensen       David Wright             A    1     .     .    138.00  56.79  1.10(A) 
 
 11 Beau Hovda             Daniel Poore             C    .     .     .    114.19  46.99          
 
 
-                                          Totals                        1334.20       
+                                          Totals                        1333.92       
 
  RESULTS OF BOARD 1
 
@@ -476,16 +476,16 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  600          7.28   1.72 1-Delfs-Herman vs 4-Ford-Sieg
-  140          5.61   3.39 2-Lewis-Davis vs 6-Christiansen-Vulcan
+  600          6.17   2.83 1-Delfs-Herman vs 4-Ford-Sieg
+  140          4.50   4.50 2-Lewis-Davis vs 6-Christiansen-Vulcan
   AVE+  AVE-   5.40   3.60 3-Binney-Tu vs 8-Christie-Galer
-        100    3.94   5.06 4-Cowles-Laughary vs 10-Christensen-Wright
-        100    3.94   5.06 5-Hendrickson-James vs 1-Falls-Baker-Harvey
-        200    1.72   7.28 6-Tesler-Rind vs 3-Abbott-Romeo
-        660    0.06   8.94 7-Cline-Hankins vs 5-Tipton-Hesson
-        200    1.72   7.28 8-Ring-Zaugg vs 7-Pesce-Roselle
-  620          8.94   0.06 9-Campbell-Davis vs 9-Jarvis-Ruprecht
-  600          7.28   1.72 10-Miller-Chalfan vs 2-Fuhrman-Stuberg
+        100    2.83   6.17 4-Cowles-Laughary vs 10-Christensen-Wright
+        100    2.83   6.17 5-Hendrickson-James vs 1-Falls-Baker-Harvey
+        200    0.61   8.39 6-Tesler-Rind vs 3-Abbott-Romeo
+  660          8.94   0.06 7-Cline-Hankins vs 5-Tipton-Hesson
+        200    0.61   8.39 8-Ring-Zaugg vs 7-Pesce-Roselle
+  620          7.83   1.17 9-Campbell-Davis vs 9-Jarvis-Ruprecht
+  600          6.17   2.83 10-Miller-Chalfan vs 2-Fuhrman-Stuberg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 27
