@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>March 19, 2019     |CLUB NO.>158048    | 03/19/2019 22:18
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=4/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Albert Bender          Andrea James             A    4     .     .     93.50  49.47  0.32(A) 
+
+ 2 Mike Ring              Shawn Abernethy          B    .     .     .     86.00  45.50          
+
+ 3 Aaron Mohrman          Jeffrey Ford             A    .     .     .     92.00  48.68          
+
+ 4 Kevin Cline            David Hankins            C    2     1     1    101.50  53.70  0.63(A) 
+
+ 5 Jennifer Ballantyne    Helen Abbott             A    3     .     .     96.00  50.79  0.45(A) 
+
+
+
+ 7 William Campbell       Nelson Davis             C    .     .     .     83.50  44.18          
+
+ 8 Ray Miller             Chris Moore              A    1     .     .    111.50  58.99  0.90(A) 
+
+ 9 Corneliu Galer         Bogdan Vulcan            C    .     2     .     92.00  48.68  0.22(B) 
+
+
+                                          Totals                         756.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>March 19, 2019     |CLUB NO.>158048    | 03/19/2019 22:18
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=7/C=4                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 John McCaslin          Mike Ligon               C    .     .     .     76.50  40.48          
+
+ 2 Joel Fuhrman           Dex Stuberg              B    .     .     .     90.56  47.92          
+
+ 3 Douglas Kuschner       Stanford Christie        A    4     .     .     98.44  52.08  0.32(A) 
+
+ 4 Sharon Miller          Sue Anderson             B    .     .     .     93.38  49.41          
+
+ 5 David Taylor           Chris Pesce              B    2     2     .    105.75  55.95  0.63(A) 
+
+ 6 Pete Cowles            Clay Laughary            C    .     3     2     96.19  50.89  0.28(B) 
+
+ 7 Hugh Hendrickson       Ann Romeo                C    1     1     1    117.56  62.20  0.90(A) 
+
+ 8 Mike Christensen       Becky Stevens            A    3     .     .     99.56  52.68  0.45(A) 
+
+ 9 Bruce Baker-Harvey     Jeannie Falls            C    .     .     .     72.56  38.39          
+
+
+                                          Totals                         850.50       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    6.00   1.00 1-Bender-James vs 1-McCaslin-Ligon
+        480    3.50   3.50 2-Ring-Abernethy vs 3-Kuschner-Christie
+        480    3.50   3.50 3-Mohrman-Ford vs 5-Taylor-Pesce
+        480    3.50   3.50 4-Cline-Hankins vs 7-Hendrickson-Romeo
+   50          7.00   0.00 5-Ballantyne-Abbott vs 9-Baker-Harvey-Falls
+        480    3.50   3.50 7-Campbell-Davis vs 4-Miller-Anderson
+        980    0.50   6.50 8-Miller-Moore vs 6-Cowles-Laughary
+        980    0.50   6.50 9-Galer-Vulcan vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   1.00 1-Bender-James vs 1-McCaslin-Ligon
+         90    4.00   3.00 2-Ring-Abernethy vs 3-Kuschner-Christie
+        120    1.50   5.50 3-Mohrman-Ford vs 5-Taylor-Pesce
+   50          5.00   2.00 4-Cline-Hankins vs 7-Hendrickson-Romeo
+        120    1.50   5.50 5-Ballantyne-Abbott vs 9-Baker-Harvey-Falls
+        120    1.50   5.50 7-Campbell-Davis vs 4-Miller-Anderson
+  150          7.00   0.00 8-Miller-Moore vs 6-Cowles-Laughary
+        120    1.50   5.50 9-Galer-Vulcan vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   5.00 1-Bender-James vs 1-McCaslin-Ligon
+  140          4.50   2.50 2-Ring-Abernethy vs 3-Kuschner-Christie
+  200          7.00   0.00 3-Mohrman-Ford vs 5-Taylor-Pesce
+  140          4.50   2.50 4-Cline-Hankins vs 7-Hendrickson-Romeo
+  140          4.50   2.50 5-Ballantyne-Abbott vs 9-Baker-Harvey-Falls
+         50    0.50   6.50 7-Campbell-Davis vs 4-Miller-Anderson
+         50    0.50   6.50 8-Miller-Moore vs 6-Cowles-Laughary
+  140          4.50   2.50 9-Galer-Vulcan vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.00   4.00 1-Bender-James vs 9-Baker-Harvey-Falls
+        600    1.00   6.00 2-Ring-Abernethy vs 2-Fuhrman-Stuberg
+        500    2.00   5.00 3-Mohrman-Ford vs 4-Miller-Anderson
+        150    5.50   1.50 4-Cline-Hankins vs 6-Cowles-Laughary
+        150    5.50   1.50 5-Ballantyne-Abbott vs 8-Christensen-Stevens
+        150    5.50   1.50 7-Campbell-Davis vs 3-Kuschner-Christie
+        630    0.00   7.00 8-Miller-Moore vs 5-Taylor-Pesce
+        150    5.50   1.50 9-Galer-Vulcan vs 7-Hendrickson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    5.00   2.00 1-Bender-James vs 9-Baker-Harvey-Falls
+   50          6.00   1.00 2-Ring-Abernethy vs 2-Fuhrman-Stuberg
+        120    4.00   3.00 3-Mohrman-Ford vs 4-Miller-Anderson
+        170    0.50   6.50 4-Cline-Hankins vs 6-Cowles-Laughary
+        140    2.50   4.50 5-Ballantyne-Abbott vs 8-Christensen-Stevens
+        140    2.50   4.50 7-Campbell-Davis vs 3-Kuschner-Christie
+        170    0.50   6.50 8-Miller-Moore vs 5-Taylor-Pesce
+  150          7.00   0.00 9-Galer-Vulcan vs 7-Hendrickson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   1.00 1-Bender-James vs 9-Baker-Harvey-Falls
+        120    4.00   3.00 2-Ring-Abernethy vs 2-Fuhrman-Stuberg
+        150    2.50   4.50 3-Mohrman-Ford vs 4-Miller-Anderson
+  300          7.00   0.00 4-Cline-Hankins vs 6-Cowles-Laughary
+        600    0.50   6.50 5-Ballantyne-Abbott vs 8-Christensen-Stevens
+        150    2.50   4.50 7-Campbell-Davis vs 3-Kuschner-Christie
+  100          5.00   2.00 8-Miller-Moore vs 5-Taylor-Pesce
+        600    0.50   6.50 9-Galer-Vulcan vs 7-Hendrickson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   5.50 1-Bender-James vs 8-Christensen-Stevens
+        620    1.50   5.50 2-Ring-Abernethy vs 1-McCaslin-Ligon
+  100          5.50   1.50 3-Mohrman-Ford vs 3-Kuschner-Christie
+        620    1.50   5.50 4-Cline-Hankins vs 5-Taylor-Pesce
+        620    1.50   5.50 5-Ballantyne-Abbott vs 7-Hendrickson-Romeo
+  100          5.50   1.50 7-Campbell-Davis vs 2-Fuhrman-Stuberg
+        100    4.00   3.00 8-Miller-Moore vs 4-Miller-Anderson
+  200          7.00   0.00 9-Galer-Vulcan vs 6-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    3.00   4.00 1-Bender-James vs 8-Christensen-Stevens
+        480    3.00   4.00 2-Ring-Abernethy vs 1-McCaslin-Ligon
+        450    7.00   0.00 3-Mohrman-Ford vs 3-Kuschner-Christie
+        480    3.00   4.00 4-Cline-Hankins vs 5-Taylor-Pesce
+        480    3.00   4.00 5-Ballantyne-Abbott vs 7-Hendrickson-Romeo
+        480    3.00   4.00 7-Campbell-Davis vs 2-Fuhrman-Stuberg
+        480    3.00   4.00 8-Miller-Moore vs 4-Miller-Anderson
+        480    3.00   4.00 9-Galer-Vulcan vs 6-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   3.00 1-Bender-James vs 8-Christensen-Stevens
+        140    3.00   4.00 2-Ring-Abernethy vs 1-McCaslin-Ligon
+        300    0.00   7.00 3-Mohrman-Ford vs 3-Kuschner-Christie
+        170    1.50   5.50 4-Cline-Hankins vs 5-Taylor-Pesce
+        170    1.50   5.50 5-Ballantyne-Abbott vs 7-Hendrickson-Romeo
+  100          6.00   1.00 7-Campbell-Davis vs 2-Fuhrman-Stuberg
+  130          7.00   0.00 8-Miller-Moore vs 4-Miller-Anderson
+         50    5.00   2.00 9-Galer-Vulcan vs 6-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    7.00   0.00 1-Bender-James vs 7-Hendrickson-Romeo
+        680    1.00   6.00 2-Ring-Abernethy vs 9-Baker-Harvey-Falls
+        680    1.00   6.00 3-Mohrman-Ford vs 2-Fuhrman-Stuberg
+        650    4.50   2.50 4-Cline-Hankins vs 4-Miller-Anderson
+        650    4.50   2.50 5-Ballantyne-Abbott vs 6-Cowles-Laughary
+        680    1.00   6.00 7-Campbell-Davis vs 1-McCaslin-Ligon
+        650    4.50   2.50 8-Miller-Moore vs 3-Kuschner-Christie
+        650    4.50   2.50 9-Galer-Vulcan vs 5-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          0.00   7.00 1-Bender-James vs 7-Hendrickson-Romeo
+  480          4.00   3.00 2-Ring-Abernethy vs 9-Baker-Harvey-Falls
+  450          1.00   6.00 3-Mohrman-Ford vs 2-Fuhrman-Stuberg
+  480          4.00   3.00 4-Cline-Hankins vs 4-Miller-Anderson
+  480          4.00   3.00 5-Ballantyne-Abbott vs 6-Cowles-Laughary
+  480          4.00   3.00 7-Campbell-Davis vs 1-McCaslin-Ligon
+  980          7.00   0.00 8-Miller-Moore vs 3-Kuschner-Christie
+  480          4.00   3.00 9-Galer-Vulcan vs 5-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    2.00   5.00 1-Bender-James vs 7-Hendrickson-Romeo
+  600          7.00   0.00 2-Ring-Abernethy vs 9-Baker-Harvey-Falls
+        790    0.00   7.00 3-Mohrman-Ford vs 2-Fuhrman-Stuberg
+        480    4.00   3.00 4-Cline-Hankins vs 4-Miller-Anderson
+        200    6.00   1.00 5-Ballantyne-Abbott vs 6-Cowles-Laughary
+        480    4.00   3.00 7-Campbell-Davis vs 1-McCaslin-Ligon
+        510    1.00   6.00 8-Miller-Moore vs 3-Kuschner-Christie
+        480    4.00   3.00 9-Galer-Vulcan vs 5-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   5.00 1-Bender-James vs 6-Cowles-Laughary
+  600          5.00   2.00 2-Ring-Abernethy vs 8-Christensen-Stevens
+  600          5.00   2.00 3-Mohrman-Ford vs 1-McCaslin-Ligon
+  600          5.00   2.00 4-Cline-Hankins vs 3-Kuschner-Christie
+  150          2.00   5.00 5-Ballantyne-Abbott vs 5-Taylor-Pesce
+  150          2.00   5.00 7-Campbell-Davis vs 9-Baker-Harvey-Falls
+  630          7.00   0.00 8-Miller-Moore vs 2-Fuhrman-Stuberg
+        100    0.00   7.00 9-Galer-Vulcan vs 4-Miller-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.50   4.50 1-Bender-James vs 6-Cowles-Laughary
+        460    0.00   7.00 2-Ring-Abernethy vs 8-Christensen-Stevens
+        130    6.00   1.00 3-Mohrman-Ford vs 1-McCaslin-Ligon
+        430    2.50   4.50 4-Cline-Hankins vs 3-Kuschner-Christie
+        430    2.50   4.50 5-Ballantyne-Abbott vs 5-Taylor-Pesce
+        430    2.50   4.50 7-Campbell-Davis vs 9-Baker-Harvey-Falls
+  570          7.00   0.00 8-Miller-Moore vs 2-Fuhrman-Stuberg
+        150    5.00   2.00 9-Galer-Vulcan vs 4-Miller-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.50   3.50 1-Bender-James vs 6-Cowles-Laughary
+  650          3.50   3.50 2-Ring-Abernethy vs 8-Christensen-Stevens
+  650          3.50   3.50 3-Mohrman-Ford vs 1-McCaslin-Ligon
+  650          3.50   3.50 4-Cline-Hankins vs 3-Kuschner-Christie
+  650          3.50   3.50 5-Ballantyne-Abbott vs 5-Taylor-Pesce
+  650          3.50   3.50 7-Campbell-Davis vs 9-Baker-Harvey-Falls
+  650          3.50   3.50 8-Miller-Moore vs 2-Fuhrman-Stuberg
+  650          3.50   3.50 9-Galer-Vulcan vs 4-Miller-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          7.00   0.00 1-Bender-James vs 5-Taylor-Pesce
+  430          1.50   5.50 2-Ring-Abernethy vs 7-Hendrickson-Romeo
+  460          3.50   3.50 3-Mohrman-Ford vs 9-Baker-Harvey-Falls
+  490          5.50   1.50 4-Cline-Hankins vs 2-Fuhrman-Stuberg
+  430          1.50   5.50 5-Ballantyne-Abbott vs 4-Miller-Anderson
+  200          0.00   7.00 7-Campbell-Davis vs 8-Christensen-Stevens
+  490          5.50   1.50 8-Miller-Moore vs 1-McCaslin-Ligon
+  460          3.50   3.50 9-Galer-Vulcan vs 3-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   7.00 1-Bender-James vs 5-Taylor-Pesce
+  170          3.00   4.00 2-Ring-Abernethy vs 7-Hendrickson-Romeo
+  170          3.00   4.00 3-Mohrman-Ford vs 9-Baker-Harvey-Falls
+  200          5.00   2.00 4-Cline-Hankins vs 2-Fuhrman-Stuberg
+  170          3.00   4.00 5-Ballantyne-Abbott vs 4-Miller-Anderson
+  420          6.50   0.50 7-Campbell-Davis vs 8-Christensen-Stevens
+  420          6.50   0.50 8-Miller-Moore vs 1-McCaslin-Ligon
+   50          1.00   6.00 9-Galer-Vulcan vs 3-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   7.00 1-Bender-James vs 5-Taylor-Pesce
+        200    2.00   5.00 2-Ring-Abernethy vs 7-Hendrickson-Romeo
+        100    5.00   2.00 3-Mohrman-Ford vs 9-Baker-Harvey-Falls
+  140          7.00   0.00 4-Cline-Hankins vs 2-Fuhrman-Stuberg
+         90    6.00   1.00 5-Ballantyne-Abbott vs 4-Miller-Anderson
+        110    4.00   3.00 7-Campbell-Davis vs 8-Christensen-Stevens
+        130    3.00   4.00 8-Miller-Moore vs 1-McCaslin-Ligon
+        500    1.00   6.00 9-Galer-Vulcan vs 3-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   1.50 1-Bender-James vs 4-Miller-Anderson
+         50    4.00   3.00 2-Ring-Abernethy vs 6-Cowles-Laughary
+  100          5.50   1.50 3-Mohrman-Ford vs 8-Christensen-Stevens
+        100    3.00   4.00 4-Cline-Hankins vs 1-McCaslin-Ligon
+        140    2.00   5.00 5-Ballantyne-Abbott vs 3-Kuschner-Christie
+       1400    0.00   7.00 7-Campbell-Davis vs 7-Hendrickson-Romeo
+  300          7.00   0.00 8-Miller-Moore vs 9-Baker-Harvey-Falls
+        800    1.00   6.00 9-Galer-Vulcan vs 2-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.50   3.50 1-Bender-James vs 4-Miller-Anderson
+  200          3.50   3.50 2-Ring-Abernethy vs 6-Cowles-Laughary
+  200          3.50   3.50 3-Mohrman-Ford vs 8-Christensen-Stevens
+  200          3.50   3.50 4-Cline-Hankins vs 1-McCaslin-Ligon
+  170          1.00   6.00 5-Ballantyne-Abbott vs 3-Kuschner-Christie
+  620          6.50   0.50 7-Campbell-Davis vs 7-Hendrickson-Romeo
+  620          6.50   0.50 8-Miller-Moore vs 9-Baker-Harvey-Falls
+  130          0.00   7.00 9-Galer-Vulcan vs 2-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.50   1.50 1-Bender-James vs 4-Miller-Anderson
+  620          3.00   4.00 2-Ring-Abernethy vs 6-Cowles-Laughary
+  650          5.50   1.50 3-Mohrman-Ford vs 8-Christensen-Stevens
+  650          5.50   1.50 4-Cline-Hankins vs 1-McCaslin-Ligon
+        100    1.00   6.00 5-Ballantyne-Abbott vs 3-Kuschner-Christie
+        100    1.00   6.00 7-Campbell-Davis vs 7-Hendrickson-Romeo
+  650          5.50   1.50 8-Miller-Moore vs 9-Baker-Harvey-Falls
+        100    1.00   6.00 9-Galer-Vulcan vs 2-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    6.00   1.00 1-Bender-James vs 3-Kuschner-Christie
+        690    2.50   4.50 2-Ring-Abernethy vs 5-Taylor-Pesce
+       1100    0.00   7.00 3-Mohrman-Ford vs 7-Hendrickson-Romeo
+        690    2.50   4.50 4-Cline-Hankins vs 9-Baker-Harvey-Falls
+        180    7.00   0.00 5-Ballantyne-Abbott vs 2-Fuhrman-Stuberg
+        800    1.00   6.00 7-Campbell-Davis vs 6-Cowles-Laughary
+        660    4.50   2.50 8-Miller-Moore vs 8-Christensen-Stevens
+        660    4.50   2.50 9-Galer-Vulcan vs 1-McCaslin-Ligon
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 2210          5.50   1.50 1-Bender-James vs 3-Kuschner-Christie
+ 1470          3.50   3.50 2-Ring-Abernethy vs 5-Taylor-Pesce
+ 1460          1.50   5.50 3-Mohrman-Ford vs 7-Hendrickson-Romeo
+ 1460          1.50   5.50 4-Cline-Hankins vs 9-Baker-Harvey-Falls
+ 1470          3.50   3.50 5-Ballantyne-Abbott vs 2-Fuhrman-Stuberg
+  710          0.00   7.00 7-Campbell-Davis vs 6-Cowles-Laughary
+ 2220          7.00   0.00 8-Miller-Moore vs 8-Christensen-Stevens
+ 2210          5.50   1.50 9-Galer-Vulcan vs 1-McCaslin-Ligon
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.00   6.00 1-Bender-James vs 3-Kuschner-Christie
+  430          1.00   6.00 2-Ring-Abernethy vs 5-Taylor-Pesce
+  460          3.50   3.50 3-Mohrman-Ford vs 7-Hendrickson-Romeo
+  490          6.50   0.50 4-Cline-Hankins vs 9-Baker-Harvey-Falls
+  490          6.50   0.50 5-Ballantyne-Abbott vs 2-Fuhrman-Stuberg
+  430          1.00   6.00 7-Campbell-Davis vs 6-Cowles-Laughary
+  480          5.00   2.00 8-Miller-Moore vs 8-Christensen-Stevens
+  460          3.50   3.50 9-Galer-Vulcan vs 1-McCaslin-Ligon
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   6.00 1-Bender-James vs 2-Fuhrman-Stuberg
+        100    6.00   1.00 2-Ring-Abernethy vs 4-Miller-Anderson
+        110    4.00   3.00 3-Mohrman-Ford vs 6-Cowles-Laughary
+        150    1.00   6.00 4-Cline-Hankins vs 8-Christensen-Stevens
+        100    6.00   1.00 5-Ballantyne-Abbott vs 1-McCaslin-Ligon
+        130    3.00   4.00 7-Campbell-Davis vs 5-Taylor-Pesce
+        150    1.00   6.00 8-Miller-Moore vs 7-Hendrickson-Romeo
+        100    6.00   1.00 9-Galer-Vulcan vs 9-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          2.50   4.50 1-Bender-James vs 2-Fuhrman-Stuberg
+  650          2.50   4.50 2-Ring-Abernethy vs 4-Miller-Anderson
+  650          2.50   4.50 3-Mohrman-Ford vs 6-Cowles-Laughary
+  650          2.50   4.50 4-Cline-Hankins vs 8-Christensen-Stevens
+  650          2.50   4.50 5-Ballantyne-Abbott vs 1-McCaslin-Ligon
+  660          6.00   1.00 7-Campbell-Davis vs 5-Taylor-Pesce
+  650          2.50   4.50 8-Miller-Moore vs 7-Hendrickson-Romeo
+  680          7.00   0.00 9-Galer-Vulcan vs 9-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   4.50 1-Bender-James vs 2-Fuhrman-Stuberg
+  140          2.50   4.50 2-Ring-Abernethy vs 4-Miller-Anderson
+  150          5.00   2.00 3-Mohrman-Ford vs 6-Cowles-Laughary
+  140          2.50   4.50 4-Cline-Hankins vs 8-Christensen-Stevens
+  170          6.00   1.00 5-Ballantyne-Abbott vs 1-McCaslin-Ligon
+  530          7.00   0.00 7-Campbell-Davis vs 5-Taylor-Pesce
+   50          0.00   7.00 8-Miller-Moore vs 7-Hendrickson-Romeo
+  140          2.50   4.50 9-Galer-Vulcan vs 9-Baker-Harvey-Falls
+----------------------------------------------------------------------
