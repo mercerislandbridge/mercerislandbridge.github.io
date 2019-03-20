@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>March 19, 2019     |CLUB NO.>158048    | 03/19/2019 22:18
+DATE>March 19, 2019     |CLUB NO.>158048    | 03/19/2019 22:26
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -15,7 +15,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  2 Mike Ring              Shawn Abernethy          B    .     .     .     86.00  45.50          
 
- 3 Aaron Mohrman          Jeffrey Ford             A    .     .     .     92.00  48.68          
+ 3 Aaron Mohrman          Jeffrey Ford             A    .     .     .     91.50  48.41          
 
  4 Kevin Cline            David Hankins            C    2     1     1    101.50  53.70  0.63(A) 
 
@@ -23,9 +23,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
 
 
- 7 William Campbell       Nelson Davis             C    .     .     .     83.50  44.18          
+ 7 William Campbell       Nelson Davis             C    .     .     .     83.00  43.92          
 
- 8 Ray Miller             Chris Moore              A    1     .     .    111.50  58.99  0.90(A) 
+ 8 Ray Miller             Chris Moore              A    1     .     .    112.50  59.52  0.90(A) 
 
  9 Corneliu Galer         Bogdan Vulcan            C    .     2     .     92.00  48.68  0.22(B) 
 
@@ -33,7 +33,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
                                           Totals                         756.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>March 19, 2019     |CLUB NO.>158048    | 03/19/2019 22:18
+DATE>March 19, 2019     |CLUB NO.>158048    | 03/19/2019 22:26
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -45,11 +45,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
  1 John McCaslin          Mike Ligon               C    .     .     .     76.50  40.48          
 
- 2 Joel Fuhrman           Dex Stuberg              B    .     .     .     90.56  47.92          
+ 2 Joel Fuhrman           Dex Stuberg              B    .     .     .     91.13  48.22          
 
- 3 Douglas Kuschner       Stanford Christie        A    4     .     .     98.44  52.08  0.32(A) 
+ 3 Douglas Kuschner       Stanford Christie        A    4     .     .     99.00  52.38  0.32(A) 
 
- 4 Sharon Miller          Sue Anderson             B    .     .     .     93.38  49.41          
+ 4 Sharon Miller          Sue Anderson             B    .     .     .     92.25  48.81          
 
  5 David Taylor           Chris Pesce              B    2     2     .    105.75  55.95  0.63(A) 
 
@@ -154,11 +154,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
         620    1.50   5.50 1-Bender-James vs 8-Christensen-Stevens
         620    1.50   5.50 2-Ring-Abernethy vs 1-McCaslin-Ligon
-  100          5.50   1.50 3-Mohrman-Ford vs 3-Kuschner-Christie
+  100          5.00   2.00 3-Mohrman-Ford vs 3-Kuschner-Christie
         620    1.50   5.50 4-Cline-Hankins vs 5-Taylor-Pesce
         620    1.50   5.50 5-Ballantyne-Abbott vs 7-Hendrickson-Romeo
-  100          5.50   1.50 7-Campbell-Davis vs 2-Fuhrman-Stuberg
-        100    4.00   3.00 8-Miller-Moore vs 4-Miller-Anderson
+  100          5.00   2.00 7-Campbell-Davis vs 2-Fuhrman-Stuberg
+  100          5.00   2.00 8-Miller-Moore vs 4-Miller-Anderson
   200          7.00   0.00 9-Galer-Vulcan vs 6-Cowles-Laughary
 ----------------------------------------------------------------------
 
