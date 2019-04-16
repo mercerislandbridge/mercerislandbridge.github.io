@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>April 9, 2019      |CLUB NO.>158048    | 04/09/2019 22:26
+DATE>April 9, 2019      |CLUB NO.>158048    | 04/16/2019 06:32
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Charity Club Championship    |MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,7 +11,7 @@ PAIRS IN STRAT A=15/B=8/C=4                      ,---,-----------------,--------
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Bryan Delfs            Gregory Herman           A   1     .     .   |   1     .     .     96.20  61.67  2.63(OA)
+ 1 Bryan Delfs            Gregory Herman           A   1     .     .   |   1     .     .     97.28  62.36  2.63(OA)
 
  2 Corneliu Galer         Bogdan Vulcan            C   4     2     .   |   4     2     1     87.32  55.97  1.11(OA)
 
@@ -25,26 +25,26 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
 
 
- 8 Mike Christensen       Jeffrey Ford             A   5     .     .   |   5     .     .     82.12  52.64  0.83(OA)
+ 8 Mike Christensen       Jeffrey Ford             A   5     .     .   |   5     .     .     83.74  53.68  0.83(OA)
 
  9 David Walker           Sue Anderson             B   .     .     .   |   .     .     .     60.56  38.82          
 
-10 Muhunthan Sivapragasam Thomas Stever            C   .     .     .   |   .     .     2     72.10  46.22  0.39(SC)
+10 Muhunthan Sivapragasam Thomas Stever            C   .     3     .   |   .     3     2     72.10  46.22  0.75(OB)
 
 11 Dave Setterholm        Ken Christiansen         A   .     .     .   |   .     .     .     79.84  51.18          
 
-12 Nick Tipton            Galen Hesson             A   .     .     .   |   6     .     .     81.58  52.29  0.30(SA)
+12 Nick Tipton            Galen Hesson             A   .     .     .   |   6     .     .     82.12  52.64  0.30(SA)
 
-13 Kim Eng                Eric Sieg                A   .     .     .   |   .     .     .     66.84  42.85          
+13 Kim Eng                Eric Sieg                A   .     .     .   |   .     .     .     65.22  41.81          
 
 14 Chris Pesce            Christopher Jarvis       B   .     .     .   |   .     .     .     70.31  45.07          
 
-15 Hugh Hendrickson       Beau Hovda               B   .     3     .   |   .     3     .     72.69  46.60  0.75(OB)
+15 Hugh Hendrickson       Beau Hovda               B   .     .     .   |   .     .     .     71.61  45.90          
 
-16 Stanford Christie      Douglas Kuschner         A   3     .     .   |   3     .     .     89.38  57.29  1.48(OA)
+16 Stanford Christie      Douglas Kuschner         A   3     .     .   |   3     .     .     88.83  56.94  1.48(OA)
 
 
-                                          Totals                                           1169.44       
+                                          Totals                                           1169.43       
 
  RESULTS OF BOARD 1
 
@@ -352,10 +352,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
   450          6.00   0.00 2-Galer-Vulcan vs 14-Pesce-Jarvis
   170          4.00   2.00 4-Cline-Hankins vs 3-Abernethy-Zaugg
   170          4.00   2.00 6-Baker-Harvey-Falls vs 10-Sivapragasam-Stever
-        140    0.00   6.00 8-Christensen-Ford vs 13-Eng-Sieg
+  140          1.50   4.50 8-Christensen-Ford vs 13-Eng-Sieg
   170          4.00   2.00 11-Setterholm-Christiansen vs 5-Campbell-Colmer
-  100          1.00   5.00 15-Hendrickson-Hovda vs 1-Delfs-Herman
-  140          2.00   4.00 16-Christie-Kuschner vs 12-Tipton-Hesson
+  100          0.00   6.00 15-Hendrickson-Hovda vs 1-Delfs-Herman
+  140          1.50   4.50 16-Christie-Kuschner vs 12-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 25
