@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> Z N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>April 23, 2019     |CLUB NO.>158048    | 04/23/2019 22:26
+DATE>April 23, 2019     |CLUB NO.>158048    | 04/23/2019 22:29
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,33 +11,33 @@ PAIRS IN STRAT A=11/B=6/C=4                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Howard Epley           Kevin Epley              A    .     .     .    125.62  51.70          
+ 1 Howard Epley           Kevin Epley              A    .     .     .    126.00  51.85          
 
- 2 Dex Stuberg            Joel Fuhrman             B    4     2     .    131.50  54.12  0.39(A) 
+ 2 Dex Stuberg            Joel Fuhrman             B    4     2     .    131.06  53.93  0.39(A) 
 
  3 Kevin Cline            David Hankins            B    3     1     .    147.94  60.88  0.55(A) 
 
- 4 Kim Eng                Jeffrey Ford             A    2     .     .    148.57  61.14  0.77(A) 
+ 4 Kim Eng                Jeffrey Ford             A    1     .     .    149.06  61.34  1.10(A) 
 
- 5 Karen Hudesman         Donald Stark             C    .     .     .     95.94  39.48          
+ 5 Karen Hudesman         Donald Stark             C    .     .     .     96.19  39.58          
 
- 6 Rex Tu                 David Binney             A    .     .     .    114.93  47.30          
+ 6 Rex Tu                 David Binney             A    .     .     .    114.75  47.22          
 
- 7 Arthur Gong            Rui Gong                 C    .     .     1    118.13  48.61  0.32(C) 
+ 7 Arthur Gong            Rui Gong                 C    .     .     1    117.56  48.38  0.32(C) 
 
- 8 Connie Heller          Dennis Heller            A    .     .     .    122.37  50.36          
+ 8 Connie Heller          Dennis Heller            A    .     .     .    122.63  50.47          
 
- 9 Daniel Poore           Beau Hovda               C    .     .     2    102.00  41.98  0.22(C) 
+ 9 Daniel Poore           Beau Hovda               C    .     .     2    105.50  43.42  0.22(C) 
 
-10 Ray Miller             Bryan Delfs              A    1     .     .    151.79  62.47  1.10(A) 
+10 Ray Miller             Bryan Delfs              A    2     .     .    148.00  60.91  0.77(A) 
 
-11 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     76.82  31.61          
+11 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     76.50  31.48          
 
 
-                                          Totals                        1335.61       
+                                          Totals                        1335.19       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> Z E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>April 23, 2019     |CLUB NO.>158048    | 04/23/2019 22:26
+DATE>April 23, 2019     |CLUB NO.>158048    | 04/23/2019 22:29
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -47,30 +47,30 @@ PAIRS IN STRAT A=11/B=4/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Ken Christiansen       Dave Setterholm          A    .     .     .    123.87  50.98          
+ 1 Ken Christiansen       Dave Setterholm          A    .     .     .    121.00  49.79          
 
- 2 Hugh Hendrickson       Nelson Davis             C    .     .     .    110.01  45.27          
+ 2 Hugh Hendrickson       Nelson Davis             C    .     .     .    113.00  46.50          
 
- 3 Eric Sieg              Gregory Herman           B    2     1     .    137.11  56.42  0.77(A) 
+ 3 Eric Sieg              Gregory Herman           B    2     1     .    137.00  56.38  0.77(A) 
 
- 4 Brian Zaugg            Mike Ring                A    1     .     .    158.34  65.16  1.10(A) 
+ 4 Brian Zaugg            Mike Ring                A    1     .     .    158.50  65.23  1.10(A) 
 
- 5 Christopher Jarvis     Adam Ruprecht            C    .     2     1    118.23  48.65  0.24(C) 
+ 5 Christopher Jarvis     Adam Ruprecht            C    .     2     1    118.00  48.56  0.24(C) 
 
- 6 David Taylor           Stanford Christie        A    .     .     .    122.61  50.46          
+ 6 David Taylor           Stanford Christie        A    .     .     .    123.00  50.62          
 
- 7 Brad Rind              Terry Jacobson           C    .     .     .     79.39  32.67          
+ 7 Brad Rind              Terry Jacobson           C    .     .     .     80.00  32.92          
 
- 8 Bogdan Vulcan          Corneliu Galer           A    4     .     .    124.11  51.07  0.39(A) 
+ 8 Bogdan Vulcan          Corneliu Galer           A    4     .     .    123.50  50.82  0.39(A) 
 
- 9 Nick Tipton            Galen Hesson             A    .     .     .    114.84  47.26          
+ 9 Nick Tipton            Galen Hesson             A    .     .     .    115.00  47.33          
 
-10 Mike Christensen       David Wright             A    3     .     .    126.16  51.92  0.55(A) 
-
-
+10 Mike Christensen       David Wright             A    3     .     .    126.00  51.85  0.55(A) 
 
 
-                                          Totals                        1214.67       
+
+
+                                          Totals                        1215.00       
 
  RESULTS OF BOARD 1
 
@@ -444,15 +444,16 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  180          8.94   0.06 1-Epley-Epley vs 5-Jarvis-Ruprecht
-        100    6.17   2.83 2-Stuberg-Fuhrman vs 7-Rind-Jacobson
-        110    3.94   5.06 3-Cline-Hankins vs 9-Tipton-Hesson
-        800    0.06   8.94 5-Hudesman-Stark vs 2-Hendrickson-Davis
-        110    3.94   5.06 6-Tu-Binney vs 4-Zaugg-Ring
-        100    6.17   2.83 7-Gong-Gong vs 6-Taylor-Christie
-   90          7.83   1.17 8-Heller-Heller vs 8-Vulcan-Galer
-        300    1.17   7.83 10-Miller-Delfs vs 3-Sieg-Herman
-        140    2.28   6.72 11-Falls-Baker-Harvey vs 10-Christensen-Wright
+  180          9.00   0.00 1-Epley-Epley vs 5-Jarvis-Ruprecht
+        100    5.50   3.50 2-Stuberg-Fuhrman vs 7-Rind-Jacobson
+        110    3.50   5.50 3-Cline-Hankins vs 9-Tipton-Hesson
+        800    0.00   9.00 5-Hudesman-Stark vs 2-Hendrickson-Davis
+        110    3.50   5.50 6-Tu-Binney vs 4-Zaugg-Ring
+        100    5.50   3.50 7-Gong-Gong vs 6-Taylor-Christie
+   90          8.00   1.00 8-Heller-Heller vs 8-Vulcan-Galer
+         50    7.00   2.00 9-Poore-Hovda vs 1-Christiansen-Setterholm
+        300    1.00   8.00 10-Miller-Delfs vs 3-Sieg-Herman
+        140    2.00   7.00 11-Falls-Baker-Harvey vs 10-Christensen-Wright
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 25
@@ -491,13 +492,14 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        180    1.72   7.28 1-Epley-Epley vs 4-Zaugg-Ring
-        120    6.72   2.28 2-Stuberg-Fuhrman vs 6-Taylor-Christie
-        150    5.06   3.94 3-Cline-Hankins vs 8-Vulcan-Galer
-        150    5.06   3.94 4-Eng-Ford vs 10-Christensen-Wright
-        180    1.72   7.28 5-Hudesman-Stark vs 1-Christiansen-Setterholm
-        180    1.72   7.28 6-Tu-Binney vs 3-Sieg-Herman
-         90    7.83   1.17 7-Gong-Gong vs 5-Jarvis-Ruprecht
-         50    8.94   0.06 8-Heller-Heller vs 7-Rind-Jacobson
-        180    1.72   7.28 9-Poore-Hovda vs 9-Tipton-Hesson
+        180    2.00   7.00 1-Epley-Epley vs 4-Zaugg-Ring
+        120    7.00   2.00 2-Stuberg-Fuhrman vs 6-Taylor-Christie
+        150    5.50   3.50 3-Cline-Hankins vs 8-Vulcan-Galer
+        150    5.50   3.50 4-Eng-Ford vs 10-Christensen-Wright
+        180    2.00   7.00 5-Hudesman-Stark vs 1-Christiansen-Setterholm
+        180    2.00   7.00 6-Tu-Binney vs 3-Sieg-Herman
+         90    8.00   1.00 7-Gong-Gong vs 5-Jarvis-Ruprecht
+         50    9.00   0.00 8-Heller-Heller vs 7-Rind-Jacobson
+        180    2.00   7.00 9-Poore-Hovda vs 9-Tipton-Hesson
+        180    2.00   7.00 10-Miller-Delfs vs 2-Hendrickson-Davis
 ----------------------------------------------------------------------
