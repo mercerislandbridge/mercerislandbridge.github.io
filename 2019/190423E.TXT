@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> Z N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>April 23, 2019     |CLUB NO.>158048    | 04/23/2019 22:29
+DATE>April 23, 2019     |CLUB NO.>158048    | 04/30/2019 18:38
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -15,29 +15,29 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  2 Dex Stuberg            Joel Fuhrman             B    4     2     .    131.06  53.93  0.39(A) 
 
- 3 Kevin Cline            David Hankins            B    3     1     .    147.94  60.88  0.55(A) 
+ 3 Kevin Cline            David Hankins            B    3     1     .    143.44  59.03  0.55(A) 
 
- 4 Kim Eng                Jeffrey Ford             A    1     .     .    149.06  61.34  1.10(A) 
+ 4 Kim Eng                Jeffrey Ford             A    1     .     .    149.63  61.58  1.10(A) 
 
- 5 Karen Hudesman         Donald Stark             C    .     .     .     96.19  39.58          
+ 5 Karen Hudesman         Donald Stark             C    .     .     .     97.31  40.05          
 
- 6 Rex Tu                 David Binney             A    .     .     .    114.75  47.22          
+ 6 Rex Tu                 David Binney             A    .     .     .    115.88  47.69          
 
  7 Arthur Gong            Rui Gong                 C    .     .     1    117.56  48.38  0.32(C) 
 
- 8 Connie Heller          Dennis Heller            A    .     .     .    122.63  50.47          
+ 8 Connie Heller          Dennis Heller            A    .     .     .    123.19  50.70          
 
- 9 Daniel Poore           Beau Hovda               C    .     .     2    105.50  43.42  0.22(C) 
+ 9 Daniel Poore           Beau Hovda               C    .     .     2    106.50  43.83  0.22(C) 
 
 10 Ray Miller             Bryan Delfs              A    2     .     .    148.00  60.91  0.77(A) 
 
 11 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     76.50  31.48          
 
 
-                                          Totals                        1335.19       
+                                          Totals                        1335.07       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> Z E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>April 23, 2019     |CLUB NO.>158048    | 04/23/2019 22:29
+DATE>April 23, 2019     |CLUB NO.>158048    | 04/30/2019 18:38
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -47,23 +47,23 @@ PAIRS IN STRAT A=11/B=4/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Ken Christiansen       Dave Setterholm          A    .     .     .    121.00  49.79          
+ 1 Ken Christiansen       Dave Setterholm          A    4     .     .    125.00  51.44  0.39(A) 
 
- 2 Hugh Hendrickson       Nelson Davis             C    .     .     .    113.00  46.50          
+ 2 Hugh Hendrickson       Nelson Davis             C    .     .     .    112.50  46.30          
 
- 3 Eric Sieg              Gregory Herman           B    2     1     .    137.00  56.38  0.77(A) 
+ 3 Eric Sieg              Gregory Herman           B    2     1     .    136.50  56.17  0.77(A) 
 
- 4 Brian Zaugg            Mike Ring                A    1     .     .    158.50  65.23  1.10(A) 
+ 4 Brian Zaugg            Mike Ring                A    1     .     .    157.50  64.81  1.10(A) 
 
- 5 Christopher Jarvis     Adam Ruprecht            C    .     2     1    118.00  48.56  0.24(C) 
+ 5 Christopher Jarvis     Adam Ruprecht            C    .     2     1    117.00  48.15  0.24(C) 
 
  6 David Taylor           Stanford Christie        A    .     .     .    123.00  50.62          
 
  7 Brad Rind              Terry Jacobson           C    .     .     .     80.00  32.92          
 
- 8 Bogdan Vulcan          Corneliu Galer           A    4     .     .    123.50  50.82  0.39(A) 
+ 8 Bogdan Vulcan          Corneliu Galer           A    .     .     .    123.50  50.82          
 
- 9 Nick Tipton            Galen Hesson             A    .     .     .    115.00  47.33          
+ 9 Nick Tipton            Galen Hesson             A    .     .     .    114.00  46.91          
 
 10 Mike Christensen       David Wright             A    3     .     .    126.00  51.85  0.55(A) 
 
@@ -302,12 +302,12 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
   600          8.00   1.00 1-Epley-Epley vs 8-Vulcan-Galer
   600          8.00   1.00 2-Stuberg-Fuhrman vs 10-Christensen-Wright
-  150          4.00   5.00 3-Cline-Hankins vs 1-Christiansen-Setterholm
-  150          4.00   5.00 4-Eng-Ford vs 3-Sieg-Herman
-  100          2.00   7.00 5-Hudesman-Stark vs 5-Jarvis-Ruprecht
-        100    1.00   8.00 6-Tu-Binney vs 9-Tipton-Hesson
-  150          4.00   5.00 8-Heller-Heller vs 2-Hendrickson-Davis
-        200    0.00   9.00 9-Poore-Hovda vs 4-Zaugg-Ring
+        300    0.00   9.00 3-Cline-Hankins vs 1-Christiansen-Setterholm
+  150          4.50   4.50 4-Eng-Ford vs 3-Sieg-Herman
+  100          3.00   6.00 5-Hudesman-Stark vs 5-Jarvis-Ruprecht
+        100    2.00   7.00 6-Tu-Binney vs 9-Tipton-Hesson
+  150          4.50   4.50 8-Heller-Heller vs 2-Hendrickson-Davis
+        200    1.00   8.00 9-Poore-Hovda vs 4-Zaugg-Ring
   500          6.00   3.00 10-Miller-Delfs vs 6-Taylor-Christie
   600          8.00   1.00 11-Falls-Baker-Harvey vs 7-Rind-Jacobson
 ----------------------------------------------------------------------
