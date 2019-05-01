@@ -1,0 +1,505 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>April 30, 2019     |CLUB NO.>158048    | 04/30/2019 22:25
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=9/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Dex Stuberg            Joel Fuhrman             B    .     .     .    126.56  52.08          
+
+ 2 Ann Romeo              Beau Hovda               B    .     .     .    102.94  42.36          
+
+ 3 Corneliu Galer         Bogdan Vulcan            C    2     1     1    141.00  58.02  0.77(A) 
+
+ 4 Lane Galloway          Andrea James             B    3     2     .    135.50  55.76  0.55(A) 
+
+ 5 Chris Moore            Brian Zaugg              A    .     .     .     94.50  38.89          
+
+ 6 Kevin Cline            David Hankins            B    .     .     .     96.75  39.81          
+
+ 7 Nelson Davis           Rex Tu                   B   4/5   3/4    .    130.50  53.70  0.31(A) 
+
+ 8 Pete Cowles            Clay Laughary            C    .     .     .    123.75  50.93          
+
+ 9 William Campbell       Melinda Westgate         B    .     .     .     86.63  35.65          
+
+10 Ray Miller             Chris Pesce              A    1     .     .    163.69  67.36  1.10(A) 
+
+11 Rui Gong               Arthur Gong              C   4/5   3/4    .    130.50  53.70  0.31(A) 
+
+
+                                          Totals                        1332.32       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>April 30, 2019     |CLUB NO.>158048    | 04/30/2019 22:25
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=6/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Ken Christiansen       Dave Setterholm          A    2     .     .    134.50  55.35  0.77(A) 
+
+ 2 Karen Westerlund       Grant Davis              C    .     .     .     89.00  36.63          
+
+ 3 Brad Rind              Terry Jacobson           C    3     2     1    131.00  53.91  0.55(A) 
+
+ 4 Mike Ring              Shawn Abernethy          B    .     .     .    115.50  47.53          
+
+
+
+ 6 Douglas Kuschner       Stanford Christie        A    .     .     .    125.00  51.44          
+
+ 7 Gary Haldane           Sharon Miller            B    1     1     .    140.50  57.82  1.10(A) 
+
+ 8 David Taylor           Jeffrey Ford             A    .     .     .    117.00  48.15          
+
+ 9 Nick Tipton            Galen Hesson             B    .     .     .    117.50  48.35          
+
+10 Mike Christensen       Becky Stevens            A    4     .     .    128.50  52.88  0.39(A) 
+
+11 Bruce Baker-Harvey     Jeannie Falls            C    .     .     .    116.50  47.94          
+
+
+                                          Totals                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    9.00   0.00 1-Stuberg-Fuhrman vs 1-Christiansen-Setterholm
+        460    1.00   8.00 3-Galer-Vulcan vs 7-Haldane-Miller
+        450    5.00   4.00 4-Galloway-James vs 9-Tipton-Hesson
+        690    0.00   9.00 5-Moore-Zaugg vs 11-Baker-Harvey-Falls
+        450    5.00   4.00 6-Cline-Hankins vs 2-Westerlund-Davis
+        450    5.00   4.00 7-Davis-Tu vs 4-Ring-Abernethy
+        450    5.00   4.00 8-Cowles-Laughary vs 6-Kuschner-Christie
+        450    5.00   4.00 9-Campbell-Westgate vs 8-Taylor-Ford
+        450    5.00   4.00 10-Miller-Pesce vs 10-Christensen-Stevens
+        450    5.00   4.00 11-Gong-Gong vs 3-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00   8.00 1-Stuberg-Fuhrman vs 1-Christiansen-Setterholm
+   50          8.50   0.50 3-Galer-Vulcan vs 7-Haldane-Miller
+        420    3.50   5.50 4-Galloway-James vs 9-Tipton-Hesson
+        590    0.00   9.00 5-Moore-Zaugg vs 11-Baker-Harvey-Falls
+        400    6.50   2.50 6-Cline-Hankins vs 2-Westerlund-Davis
+   50          8.50   0.50 7-Davis-Tu vs 4-Ring-Abernethy
+        420    3.50   5.50 8-Cowles-Laughary vs 6-Kuschner-Christie
+        400    6.50   2.50 9-Campbell-Westgate vs 8-Taylor-Ford
+        420    3.50   5.50 10-Miller-Pesce vs 10-Christensen-Stevens
+        420    3.50   5.50 11-Gong-Gong vs 3-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.00   1.00 1-Stuberg-Fuhrman vs 1-Christiansen-Setterholm
+  100          8.00   1.00 3-Galer-Vulcan vs 7-Haldane-Miller
+       1100    1.00   8.00 4-Galloway-James vs 9-Tipton-Hesson
+        170    6.00   3.00 5-Moore-Zaugg vs 11-Baker-Harvey-Falls
+        620    4.50   4.50 6-Cline-Hankins vs 2-Westerlund-Davis
+        630    2.50   6.50 7-Davis-Tu vs 4-Ring-Abernethy
+       1370    0.00   9.00 8-Cowles-Laughary vs 6-Kuschner-Christie
+        630    2.50   6.50 9-Campbell-Westgate vs 8-Taylor-Ford
+        620    4.50   4.50 10-Miller-Pesce vs 10-Christensen-Stevens
+  100          8.00   1.00 11-Gong-Gong vs 3-Rind-Jacobson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          1.50   7.50 1-Stuberg-Fuhrman vs 11-Baker-Harvey-Falls
+ 2210          8.00   1.00 2-Romeo-Hovda vs 2-Westerlund-Davis
+  720          4.00   5.00 3-Galer-Vulcan vs 6-Kuschner-Christie
+ 1440          6.50   2.50 4-Galloway-James vs 8-Taylor-Ford
+ 1440          6.50   2.50 5-Moore-Zaugg vs 10-Christensen-Stevens
+  680          0.00   9.00 6-Cline-Hankins vs 1-Christiansen-Setterholm
+ 2220          9.00   0.00 7-Davis-Tu vs 3-Rind-Jacobson
+  690          1.50   7.50 9-Campbell-Westgate vs 7-Haldane-Miller
+  720          4.00   5.00 10-Miller-Pesce vs 9-Tipton-Hesson
+  720          4.00   5.00 11-Gong-Gong vs 4-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   7.50 1-Stuberg-Fuhrman vs 11-Baker-Harvey-Falls
+  500          7.00   2.00 2-Romeo-Hovda vs 2-Westerlund-Davis
+  300          5.50   3.50 3-Galer-Vulcan vs 6-Kuschner-Christie
+        100    1.50   7.50 4-Galloway-James vs 8-Taylor-Ford
+  140          4.00   5.00 5-Moore-Zaugg vs 10-Christensen-Stevens
+        100    1.50   7.50 6-Cline-Hankins vs 1-Christiansen-Setterholm
+        100    1.50   7.50 7-Davis-Tu vs 3-Rind-Jacobson
+  300          5.50   3.50 9-Campbell-Westgate vs 7-Haldane-Miller
+  620          8.50   0.50 10-Miller-Pesce vs 9-Tipton-Hesson
+  620          8.50   0.50 11-Gong-Gong vs 4-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        710    5.50   3.50 1-Stuberg-Fuhrman vs 11-Baker-Harvey-Falls
+        710    5.50   3.50 2-Romeo-Hovda vs 2-Westerlund-Davis
+  200          9.00   0.00 3-Galer-Vulcan vs 6-Kuschner-Christie
+       1430    0.50   8.50 4-Galloway-James vs 8-Taylor-Ford
+       1100    2.00   7.00 5-Moore-Zaugg vs 10-Christensen-Stevens
+        710    5.50   3.50 6-Cline-Hankins vs 1-Christiansen-Setterholm
+        710    5.50   3.50 7-Davis-Tu vs 3-Rind-Jacobson
+       1430    0.50   8.50 9-Campbell-Westgate vs 7-Haldane-Miller
+        710    5.50   3.50 10-Miller-Pesce vs 9-Tipton-Hesson
+        710    5.50   3.50 11-Gong-Gong vs 4-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   4.00 1-Stuberg-Fuhrman vs 10-Christensen-Stevens
+        100    1.50   7.50 2-Romeo-Hovda vs 1-Christiansen-Setterholm
+  620          8.00   1.00 3-Galer-Vulcan vs 3-Rind-Jacobson
+  170          5.00   4.00 4-Galloway-James vs 7-Haldane-Miller
+  620          8.00   1.00 5-Moore-Zaugg vs 9-Tipton-Hesson
+        200    0.00   9.00 6-Cline-Hankins vs 11-Baker-Harvey-Falls
+        100    1.50   7.50 7-Davis-Tu vs 2-Westerlund-Davis
+  620          8.00   1.00 8-Cowles-Laughary vs 4-Ring-Abernethy
+  120          3.00   6.00 9-Campbell-Westgate vs 6-Kuschner-Christie
+  170          5.00   4.00 10-Miller-Pesce vs 8-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    0.00   9.00 1-Stuberg-Fuhrman vs 10-Christensen-Stevens
+        450    3.00   6.00 2-Romeo-Hovda vs 1-Christiansen-Setterholm
+        420    7.00   2.00 3-Galer-Vulcan vs 3-Rind-Jacobson
+        450    3.00   6.00 4-Galloway-James vs 7-Haldane-Miller
+        420    7.00   2.00 5-Moore-Zaugg vs 9-Tipton-Hesson
+        450    3.00   6.00 6-Cline-Hankins vs 11-Baker-Harvey-Falls
+        200    9.00   0.00 7-Davis-Tu vs 2-Westerlund-Davis
+        450    3.00   6.00 8-Cowles-Laughary vs 4-Ring-Abernethy
+        450    3.00   6.00 9-Campbell-Westgate vs 6-Kuschner-Christie
+        420    7.00   2.00 10-Miller-Pesce vs 8-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.50   5.50 1-Stuberg-Fuhrman vs 10-Christensen-Stevens
+  300          5.50   3.50 2-Romeo-Hovda vs 1-Christiansen-Setterholm
+         50    1.00   8.00 3-Galer-Vulcan vs 3-Rind-Jacobson
+  460          7.50   1.50 4-Galloway-James vs 7-Haldane-Miller
+        100    0.00   9.00 5-Moore-Zaugg vs 9-Tipton-Hesson
+  200          3.50   5.50 6-Cline-Hankins vs 11-Baker-Harvey-Falls
+  460          7.50   1.50 7-Davis-Tu vs 2-Westerlund-Davis
+  650          9.00   0.00 8-Cowles-Laughary vs 4-Ring-Abernethy
+  130          2.00   7.00 9-Campbell-Westgate vs 6-Kuschner-Christie
+  300          5.50   3.50 10-Miller-Pesce vs 8-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          8.00   1.00 1-Stuberg-Fuhrman vs 9-Tipton-Hesson
+  110          1.00   8.00 2-Romeo-Hovda vs 11-Baker-Harvey-Falls
+  620          5.50   3.50 3-Galer-Vulcan vs 2-Westerlund-Davis
+  620          5.50   3.50 4-Galloway-James vs 4-Ring-Abernethy
+ 1080          9.00   0.00 5-Moore-Zaugg vs 8-Taylor-Ford
+  170          3.00   6.00 6-Cline-Hankins vs 10-Christensen-Stevens
+  620          5.50   3.50 7-Davis-Tu vs 1-Christiansen-Setterholm
+  110          1.00   8.00 8-Cowles-Laughary vs 3-Rind-Jacobson
+  620          5.50   3.50 10-Miller-Pesce vs 7-Haldane-Miller
+  110          1.00   8.00 11-Gong-Gong vs 6-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   3.00 1-Stuberg-Fuhrman vs 9-Tipton-Hesson
+        140    3.00   6.00 2-Romeo-Hovda vs 11-Baker-Harvey-Falls
+  100          8.00   1.00 3-Galer-Vulcan vs 2-Westerlund-Davis
+        420    1.50   7.50 4-Galloway-James vs 4-Ring-Abernethy
+  400          9.00   0.00 5-Moore-Zaugg vs 8-Taylor-Ford
+   50          6.00   3.00 6-Cline-Hankins vs 10-Christensen-Stevens
+   50          6.00   3.00 7-Davis-Tu vs 1-Christiansen-Setterholm
+        450    0.00   9.00 8-Cowles-Laughary vs 3-Rind-Jacobson
+        100    4.00   5.00 10-Miller-Pesce vs 7-Haldane-Miller
+        420    1.50   7.50 11-Gong-Gong vs 6-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    6.00   3.00 1-Stuberg-Fuhrman vs 9-Tipton-Hesson
+        200    6.00   3.00 2-Romeo-Hovda vs 11-Baker-Harvey-Falls
+        420    2.50   6.50 3-Galer-Vulcan vs 2-Westerlund-Davis
+   50          9.00   0.00 4-Galloway-James vs 4-Ring-Abernethy
+        800    0.00   9.00 5-Moore-Zaugg vs 8-Taylor-Ford
+        200    6.00   3.00 6-Cline-Hankins vs 10-Christensen-Stevens
+        450    1.00   8.00 7-Davis-Tu vs 1-Christiansen-Setterholm
+        200    6.00   3.00 8-Cowles-Laughary vs 3-Rind-Jacobson
+        420    2.50   6.50 10-Miller-Pesce vs 7-Haldane-Miller
+        200    6.00   3.00 11-Gong-Gong vs 6-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    2.50   6.50 1-Stuberg-Fuhrman vs 8-Taylor-Ford
+         80    4.00   5.00 2-Romeo-Hovda vs 10-Christensen-Stevens
+        120    1.00   8.00 3-Galer-Vulcan vs 1-Christiansen-Setterholm
+  200          9.00   0.00 4-Galloway-James vs 3-Rind-Jacobson
+         90    2.50   6.50 6-Cline-Hankins vs 9-Tipton-Hesson
+  100          6.00   3.00 7-Davis-Tu vs 11-Baker-Harvey-Falls
+  100          6.00   3.00 8-Cowles-Laughary vs 2-Westerlund-Davis
+  100          6.00   3.00 9-Campbell-Westgate vs 4-Ring-Abernethy
+  140          8.00   1.00 10-Miller-Pesce vs 6-Kuschner-Christie
+        140    0.00   9.00 11-Gong-Gong vs 7-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   3.50 1-Stuberg-Fuhrman vs 8-Taylor-Ford
+         50    3.00   6.00 2-Romeo-Hovda vs 10-Christensen-Stevens
+  150          8.50   0.50 3-Galer-Vulcan vs 1-Christiansen-Setterholm
+        120    0.00   9.00 4-Galloway-James vs 3-Rind-Jacobson
+         50    3.00   6.00 6-Cline-Hankins vs 9-Tipton-Hesson
+  120          7.00   2.00 7-Davis-Tu vs 11-Baker-Harvey-Falls
+  150          8.50   0.50 8-Cowles-Laughary vs 2-Westerlund-Davis
+        100    1.00   8.00 9-Campbell-Westgate vs 4-Ring-Abernethy
+  100          5.50   3.50 10-Miller-Pesce vs 6-Kuschner-Christie
+         50    3.00   6.00 11-Gong-Gong vs 7-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          7.50   1.50 1-Stuberg-Fuhrman vs 8-Taylor-Ford
+        100    0.00   9.00 2-Romeo-Hovda vs 10-Christensen-Stevens
+  210          5.00   4.00 3-Galer-Vulcan vs 1-Christiansen-Setterholm
+  150          4.00   5.00 4-Galloway-James vs 3-Rind-Jacobson
+  660          7.50   1.50 6-Cline-Hankins vs 9-Tipton-Hesson
+  630          6.00   3.00 7-Davis-Tu vs 11-Baker-Harvey-Falls
+  130          2.00   7.00 8-Cowles-Laughary vs 2-Westerlund-Davis
+  130          2.00   7.00 9-Campbell-Westgate vs 4-Ring-Abernethy
+ 1100          9.00   0.00 10-Miller-Pesce vs 6-Kuschner-Christie
+  130          2.00   7.00 11-Gong-Gong vs 7-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          8.00   1.00 1-Stuberg-Fuhrman vs 7-Haldane-Miller
+  400          4.00   5.00 2-Romeo-Hovda vs 9-Tipton-Hesson
+  400          4.00   5.00 3-Galer-Vulcan vs 11-Baker-Harvey-Falls
+  430          8.00   1.00 4-Galloway-James vs 2-Westerlund-Davis
+  150          1.00   8.00 5-Moore-Zaugg vs 4-Ring-Abernethy
+  400          4.00   5.00 6-Cline-Hankins vs 6-Kuschner-Christie
+         50    0.00   9.00 7-Davis-Tu vs 10-Christensen-Stevens
+  400          4.00   5.00 8-Cowles-Laughary vs 1-Christiansen-Setterholm
+  430          8.00   1.00 9-Campbell-Westgate vs 3-Rind-Jacobson
+  400          4.00   5.00 11-Gong-Gong vs 8-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   5.00 1-Stuberg-Fuhrman vs 7-Haldane-Miller
+         50    0.00   9.00 2-Romeo-Hovda vs 9-Tipton-Hesson
+  110          4.00   5.00 3-Galer-Vulcan vs 11-Baker-Harvey-Falls
+  140          8.00   1.00 4-Galloway-James vs 2-Westerlund-Davis
+  110          4.00   5.00 5-Moore-Zaugg vs 4-Ring-Abernethy
+  110          4.00   5.00 6-Cline-Hankins vs 6-Kuschner-Christie
+  670          9.00   0.00 7-Davis-Tu vs 10-Christensen-Stevens
+  110          4.00   5.00 8-Cowles-Laughary vs 1-Christiansen-Setterholm
+  110          4.00   5.00 9-Campbell-Westgate vs 3-Rind-Jacobson
+  110          4.00   5.00 11-Gong-Gong vs 8-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   6.50 1-Stuberg-Fuhrman vs 7-Haldane-Miller
+  200          4.50   4.50 2-Romeo-Hovda vs 9-Tipton-Hesson
+  620          7.00   2.00 3-Galer-Vulcan vs 11-Baker-Harvey-Falls
+  650          9.00   0.00 4-Galloway-James vs 2-Westerlund-Davis
+        140    0.00   9.00 5-Moore-Zaugg vs 4-Ring-Abernethy
+  620          7.00   2.00 6-Cline-Hankins vs 6-Kuschner-Christie
+  620          7.00   2.00 7-Davis-Tu vs 10-Christensen-Stevens
+  200          4.50   4.50 8-Cowles-Laughary vs 1-Christiansen-Setterholm
+        100    1.00   8.00 9-Campbell-Westgate vs 3-Rind-Jacobson
+  170          2.50   6.50 11-Gong-Gong vs 8-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.50   0.50 1-Stuberg-Fuhrman vs 6-Kuschner-Christie
+        110    5.50   3.50 2-Romeo-Hovda vs 8-Taylor-Ford
+        200    1.50   7.50 3-Galer-Vulcan vs 10-Christensen-Stevens
+        110    5.50   3.50 4-Galloway-James vs 1-Christiansen-Setterholm
+        200    1.50   7.50 5-Moore-Zaugg vs 3-Rind-Jacobson
+        630    0.00   9.00 7-Davis-Tu vs 7-Haldane-Miller
+        110    5.50   3.50 8-Cowles-Laughary vs 11-Baker-Harvey-Falls
+        110    5.50   3.50 9-Campbell-Westgate vs 2-Westerlund-Davis
+  100          8.50   0.50 10-Miller-Pesce vs 4-Ring-Abernethy
+        140    3.00   6.00 11-Gong-Gong vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.00   6.00 1-Stuberg-Fuhrman vs 6-Kuschner-Christie
+  170          7.00   2.00 2-Romeo-Hovda vs 8-Taylor-Ford
+  200          9.00   0.00 3-Galer-Vulcan vs 10-Christensen-Stevens
+  170          7.00   2.00 4-Galloway-James vs 1-Christiansen-Setterholm
+        110    0.50   8.50 5-Moore-Zaugg vs 3-Rind-Jacobson
+        110    0.50   8.50 7-Davis-Tu vs 7-Haldane-Miller
+  100          4.00   5.00 8-Cowles-Laughary vs 11-Baker-Harvey-Falls
+        100    2.00   7.00 9-Campbell-Westgate vs 2-Westerlund-Davis
+  170          7.00   2.00 10-Miller-Pesce vs 4-Ring-Abernethy
+  140          5.00   4.00 11-Gong-Gong vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.50   7.50 1-Stuberg-Fuhrman vs 6-Kuschner-Christie
+        460    1.50   7.50 2-Romeo-Hovda vs 8-Taylor-Ford
+        430    5.00   4.00 3-Galer-Vulcan vs 10-Christensen-Stevens
+        430    5.00   4.00 4-Galloway-James vs 1-Christiansen-Setterholm
+        490    0.00   9.00 5-Moore-Zaugg vs 3-Rind-Jacobson
+        430    5.00   4.00 7-Davis-Tu vs 7-Haldane-Miller
+        200    8.00   1.00 8-Cowles-Laughary vs 11-Baker-Harvey-Falls
+        430    5.00   4.00 9-Campbell-Westgate vs 2-Westerlund-Davis
+        430    5.00   4.00 10-Miller-Pesce vs 4-Ring-Abernethy
+   50          9.00   0.00 11-Gong-Gong vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1460    0.50   8.50 2-Romeo-Hovda vs 7-Haldane-Miller
+       1430    3.50   5.50 3-Galer-Vulcan vs 9-Tipton-Hesson
+        710    8.00   1.00 4-Galloway-James vs 11-Baker-Harvey-Falls
+       1190    6.00   3.00 5-Moore-Zaugg vs 2-Westerlund-Davis
+       1430    3.50   5.50 6-Cline-Hankins vs 4-Ring-Abernethy
+       1430    3.50   5.50 7-Davis-Tu vs 6-Kuschner-Christie
+       1430    3.50   5.50 8-Cowles-Laughary vs 8-Taylor-Ford
+       1460    0.50   8.50 9-Campbell-Westgate vs 1-Christiansen-Setterholm
+        710    8.00   1.00 10-Miller-Pesce vs 3-Rind-Jacobson
+        710    8.00   1.00 11-Gong-Gong vs 10-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.50   5.50 2-Romeo-Hovda vs 7-Haldane-Miller
+        620    3.50   5.50 3-Galer-Vulcan vs 9-Tipton-Hesson
+        140    7.00   2.00 4-Galloway-James vs 11-Baker-Harvey-Falls
+        620    3.50   5.50 5-Moore-Zaugg vs 2-Westerlund-Davis
+        620    3.50   5.50 6-Cline-Hankins vs 4-Ring-Abernethy
+  200          8.00   1.00 7-Davis-Tu vs 6-Kuschner-Christie
+        620    3.50   5.50 8-Cowles-Laughary vs 8-Taylor-Ford
+        680    0.00   9.00 9-Campbell-Westgate vs 1-Christiansen-Setterholm
+  500          9.00   0.00 10-Miller-Pesce vs 3-Rind-Jacobson
+        620    3.50   5.50 11-Gong-Gong vs 10-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          6.50   2.50 2-Romeo-Hovda vs 7-Haldane-Miller
+  980          6.50   2.50 3-Galer-Vulcan vs 9-Tipton-Hesson
+  980          6.50   2.50 4-Galloway-James vs 11-Baker-Harvey-Falls
+  480          1.50   7.50 5-Moore-Zaugg vs 2-Westerlund-Davis
+  480          1.50   7.50 6-Cline-Hankins vs 4-Ring-Abernethy
+  480          1.50   7.50 7-Davis-Tu vs 6-Kuschner-Christie
+  980          6.50   2.50 8-Cowles-Laughary vs 8-Taylor-Ford
+  480          1.50   7.50 9-Campbell-Westgate vs 1-Christiansen-Setterholm
+  980          6.50   2.50 10-Miller-Pesce vs 3-Rind-Jacobson
+  980          6.50   2.50 11-Gong-Gong vs 10-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.50   5.50 1-Stuberg-Fuhrman vs 4-Ring-Abernethy
+        620    3.50   5.50 2-Romeo-Hovda vs 6-Kuschner-Christie
+        620    3.50   5.50 3-Galer-Vulcan vs 8-Taylor-Ford
+        620    3.50   5.50 4-Galloway-James vs 10-Christensen-Stevens
+        680    0.00   9.00 5-Moore-Zaugg vs 1-Christiansen-Setterholm
+        620    3.50   5.50 6-Cline-Hankins vs 3-Rind-Jacobson
+        620    3.50   5.50 8-Cowles-Laughary vs 7-Haldane-Miller
+  100          8.00   1.00 9-Campbell-Westgate vs 9-Tipton-Hesson
+  100          8.00   1.00 10-Miller-Pesce vs 2-Westerlund-Davis
+  100          8.00   1.00 11-Gong-Gong vs 11-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   4.50 1-Stuberg-Fuhrman vs 4-Ring-Abernethy
+  100          4.50   4.50 2-Romeo-Hovda vs 6-Kuschner-Christie
+  100          4.50   4.50 3-Galer-Vulcan vs 8-Taylor-Ford
+  100          4.50   4.50 4-Galloway-James vs 10-Christensen-Stevens
+  200          8.00   1.00 5-Moore-Zaugg vs 1-Christiansen-Setterholm
+        100    1.50   7.50 6-Cline-Hankins vs 3-Rind-Jacobson
+  200          8.00   1.00 8-Cowles-Laughary vs 7-Haldane-Miller
+        140    0.00   9.00 9-Campbell-Westgate vs 9-Tipton-Hesson
+        100    1.50   7.50 10-Miller-Pesce vs 2-Westerlund-Davis
+  200          8.00   1.00 11-Gong-Gong vs 11-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          6.50   2.50 1-Stuberg-Fuhrman vs 4-Ring-Abernethy
+  110          3.00   6.00 2-Romeo-Hovda vs 6-Kuschner-Christie
+  130          6.50   2.50 3-Galer-Vulcan vs 8-Taylor-Ford
+   50          1.00   8.00 4-Galloway-James vs 10-Christensen-Stevens
+  130          6.50   2.50 5-Moore-Zaugg vs 1-Christiansen-Setterholm
+        100    0.00   9.00 6-Cline-Hankins vs 3-Rind-Jacobson
+  110          3.00   6.00 8-Cowles-Laughary vs 7-Haldane-Miller
+  110          3.00   6.00 9-Campbell-Westgate vs 9-Tipton-Hesson
+  150          9.00   0.00 10-Miller-Pesce vs 2-Westerlund-Davis
+  130          6.50   2.50 11-Gong-Gong vs 11-Baker-Harvey-Falls
+----------------------------------------------------------------------
