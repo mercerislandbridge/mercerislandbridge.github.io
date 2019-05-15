@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>May 7, 2019        |CLUB NO.>158048    | 05/07/2019 22:31
+DATE>May 7, 2019        |CLUB NO.>158048    | 05/14/2019 21:32
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/kim        |RATING>Grass Roots Fund             |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,7 +11,7 @@ PAIRS IN STRAT A=11/B=8/C=3                      ,---,-----------------,--------
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Stanford Christie      Ken Christiansen         A  4/5    .     .   |  3/4    .     .    138.94  57.18  1.13(OA)
+ 1 Stanford Christie      Ken Christiansen         A   4     .     .   |   3     .     .    140.06  57.64  1.29(OA)
 
  2 Christopher Jarvis     Adam Ruprecht            B   2     2     .   |   1     1     .    146.81  60.42  2.30(OA)
 
@@ -23,21 +23,21 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
  6 Bryan Delfs            Jennifer Chalfan         A   3     .     .   |   2     .     .    140.63  57.87  1.72(OA)
 
- 7 Kevin Cline            David Hankins            B   .     .     .   |   .     .     .    109.13  44.91          
+ 7 Kevin Cline            David Hankins            B   .     .     .   |   .     .     .    110.25  45.37          
 
- 8 Corneliu Galer         Bogdan Vulcan            B  4/5    3     .   |  3/4    2     .    138.94  57.18  1.13(OA)
+ 8 Corneliu Galer         Bogdan Vulcan            B   5     3     .   |   4     2     .    136.13  56.02  1.04(OB)
 
  9 Pete Cowles            Clay Laughary            C   .     .     .   |   .     .     .    105.75  43.52          
 
-10 Ray Miller             Jeffrey Ford             A   .     .     .   |   .     .     .    110.25  45.37          
+10 Ray Miller             Jeffrey Ford             A   .     .     .   |   .     .     .    110.81  45.60          
 
 11 Jeannie Falls          Bruce Baker-Harvey       C   .     .     2   |   .     3     1    126.56  52.08  0.75(OC)
 
 
-                                          Totals                                           1341.01       
+                                          Totals                                           1341.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>May 7, 2019        |CLUB NO.>158048    | 05/07/2019 22:31
+DATE>May 7, 2019        |CLUB NO.>158048    | 05/14/2019 21:32
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/kim        |RATING>Grass Roots Fund             |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -47,13 +47,13 @@ PAIRS IN STRAT A=11/B=7/C=2                      ,---,-----------------,--------
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Chris Moore            Kim Eng                  A   .     .     .   |   4     .     .    130.00  53.50  0.54(SA)
+ 1 Chris Moore            Kim Eng                  A   .     .     .   |   .     .     .    130.00  53.50          
 
- 2 Gregory Herman         Eric Sieg                B   1     1     .   |   1     1     .    150.50  61.93  3.06(OA)
+ 2 Gregory Herman         Eric Sieg                B   1     1     .   |   1     1     .    149.50  61.52  3.06(OA)
 
  3 Nelson Davis           Rex Tu                   B   .     .     .   |   .     .     .    120.50  49.59          
 
- 4 Nick Tipton            Galen Hesson             B   .     5     .   |   .     3     .    128.50  52.88  0.58(OB)
+ 4 Nick Tipton            Galen Hesson             B   .     5     .   |   4     3     .    131.00  53.91  0.58(OB)
 
  5 Arthur Gong            Rui Gong                 C   .     .     .   |   .     .     .     95.50  39.30          
 
@@ -61,11 +61,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
  7 Hugh Hendrickson       Ivan Popivanov           B   .     .     .   |   .     .     .     94.00  38.68          
 
- 8 Valliappa Lakshmanan   Peiyush Jain             C   6     4     1   |   2     2     1    135.00  55.56  1.07(SA)
+ 8 Valliappa Lakshmanan   Peiyush Jain             C   6     4     1   |   2     2     1    134.50  55.35  1.07(SA)
 
  9 David Walker           Sue Anderson             B   .     .     .   |   .     .     .    119.50  49.18          
 
-10 Mike Ring              Mike Christensen         A   .     .     .   |   3     .     .    133.00  54.73  0.77(SA)
+10 Mike Ring              Mike Christensen         A   .     .     .   |   3     .     .    132.00  54.32  0.77(SA)
 
 11 Gary Haldane           Dave Setterholm          A   .     .     .   |   .     .     .    108.50  44.65          
 
@@ -172,15 +172,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        200    3.00   6.00 1-Christie-Christiansen vs 10-Ring-Christensen
+        200    4.00   5.00 1-Christie-Christiansen vs 10-Ring-Christensen
         500    0.50   8.50 2-Jarvis-Ruprecht vs 1-Moore-Eng
   660          8.50   0.50 3-Hovda-Romeo vs 3-Davis-Tu
         500    0.50   8.50 4-Guice-James vs 7-Hendrickson-Popivanov
   600          6.00   3.00 5-Dierickx-Diamond vs 9-Walker-Anderson
   630          7.00   2.00 6-Delfs-Chalfan vs 11-Haldane-Setterholm
-  200          4.00   5.00 7-Cline-Hankins vs 2-Herman-Sieg
-  300          5.00   4.00 8-Galer-Vulcan vs 4-Tipton-Hesson
-        300    2.00   7.00 10-Miller-Ford vs 8-Lakshmanan-Jain
+  200          5.00   4.00 7-Cline-Hankins vs 2-Herman-Sieg
+        300    2.50   6.50 8-Galer-Vulcan vs 4-Tipton-Hesson
+        300    2.50   6.50 10-Miller-Ford vs 8-Lakshmanan-Jain
   660          8.50   0.50 11-Falls-Baker-Harvey vs 5-Gong-Gong
 ----------------------------------------------------------------------
 
