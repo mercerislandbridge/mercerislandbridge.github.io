@@ -1,0 +1,501 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>June 4, 2019       |CLUB NO.>158048    | 06/04/2019 22:22
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Dave Setterholm        Corneliu Galer           A    4     .     .    132.50  54.53  0.35(A) 
+
+ 2 Rex Tu                 Chris Pesce              B    .     .     .    112.00  46.09          
+
+ 3 David Roselle          Sue Anderson             B    3     3     .    133.50  54.94  0.50(A) 
+
+ 4 Terry Jacobson         Brad Rind                C    1     1     1    135.00  55.56  1.00(A) 
+
+ 5 Kevin Cline            David Hankins            B    .     .     .    112.50  46.30          
+
+ 6 Steven Mark Lewis      Grant Davis              C    .     .     .    105.00  43.21          
+
+ 7 Bryan Delfs            Jennifer Chalfan         A    .     .     .    120.00  49.38          
+
+ 8 John Swanson           Reidun Decker            B    .     .     .    111.00  45.68          
+
+ 9 David Wright           Brian Zaugg              B    .     .     .    119.50  49.18          
+
+10 Bruce Baker-Harvey     Christine Chai           C    2     2     .    134.00  55.14  0.70(A) 
+
+
+                                          Totals                        1215.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>June 4, 2019       |CLUB NO.>158048    | 06/04/2019 22:22
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=1                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Ken Christiansen       Tim White                A   2/4    .     .    131.00  53.91  0.52(A) 
+
+ 2 Christopher Jarvis     Adam Ruprecht            B    .     .     .    104.00  42.80          
+
+ 3 Jeffrey Ford           Shawn Abernethy          A   2/4    .     .    131.00  53.91  0.52(A) 
+
+ 4 Valerie Lycette        Lorenzo Migliorini       B    .     .     .     93.50  38.48          
+
+ 5 Lily Andre             Jim Andre                C    .     .     .    116.50  47.94          
+
+ 6 Rui Gong               Eric Sieg                B    .     .     .    118.50  48.77          
+
+ 7 Chris Moore            Kim Eng                  A    .     .     .    117.00  48.15          
+
+ 8 Nick Tipton            Galen Hesson             B   2/4    1     .    131.00  53.91  0.52(A) 
+
+ 9 Mike Christensen       Mike Ring                A    1     .     .    149.00  61.32  1.00(A) 
+
+10 Hugh Hendrickson       Ivan Popivanov           B    .     2     .    123.50  50.82  0.34(B) 
+
+
+                                          Totals                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.50   1.50 1-Setterholm-Galer vs 1-Christiansen-White
+        150    3.00   6.00 2-Tu-Pesce vs 4-Lycette-Migliorini
+   50          6.00   3.00 3-Roselle-Anderson vs 6-Gong-Sieg
+        600    0.00   9.00 4-Jacobson-Rind vs 8-Tipton-Hesson
+        110    5.00   4.00 5-Cline-Hankins vs 10-Hendrickson-Popivanov
+        130    4.00   5.00 6-Lewis-Davis vs 3-Ford-Abernethy
+        400    1.50   7.50 7-Delfs-Chalfan vs 5-Andre-Andre
+  280          9.00   0.00 8-Swanson-Decker vs 7-Moore-Eng
+        400    1.50   7.50 9-Wright-Zaugg vs 9-Christensen-Ring
+  100          7.50   1.50 10-Baker-Harvey-Chai vs 2-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1390          1.00   8.00 1-Setterholm-Galer vs 1-Christiansen-White
+ 1470          5.50   3.50 2-Tu-Pesce vs 4-Lycette-Migliorini
+ 1370          0.00   9.00 3-Roselle-Anderson vs 6-Gong-Sieg
+ 1470          5.50   3.50 4-Jacobson-Rind vs 8-Tipton-Hesson
+ 1470          5.50   3.50 5-Cline-Hankins vs 10-Hendrickson-Popivanov
+ 2140          9.00   0.00 6-Lewis-Davis vs 3-Ford-Abernethy
+ 1470          5.50   3.50 7-Delfs-Chalfan vs 5-Andre-Andre
+ 1470          5.50   3.50 8-Swanson-Decker vs 7-Moore-Eng
+ 1440          2.00   7.00 9-Wright-Zaugg vs 9-Christensen-Ring
+ 1470          5.50   3.50 10-Baker-Harvey-Chai vs 2-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          8.00   1.00 1-Setterholm-Galer vs 1-Christiansen-White
+         50    4.50   4.50 2-Tu-Pesce vs 4-Lycette-Migliorini
+  170          9.00   0.00 3-Roselle-Anderson vs 6-Gong-Sieg
+  100          7.00   2.00 4-Jacobson-Rind vs 8-Tipton-Hesson
+        100    1.00   8.00 5-Cline-Hankins vs 10-Hendrickson-Popivanov
+         90    2.00   7.00 6-Lewis-Davis vs 3-Ford-Abernethy
+         50    4.50   4.50 7-Delfs-Chalfan vs 5-Andre-Andre
+         50    4.50   4.50 8-Swanson-Decker vs 7-Moore-Eng
+        180    0.00   9.00 9-Wright-Zaugg vs 9-Christensen-Ring
+         50    4.50   4.50 10-Baker-Harvey-Chai vs 2-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          7.50   1.50 1-Setterholm-Galer vs 10-Hendrickson-Popivanov
+  790          9.00   0.00 2-Tu-Pesce vs 2-Jarvis-Ruprecht
+  200          4.50   4.50 3-Roselle-Anderson vs 5-Andre-Andre
+  620          6.00   3.00 4-Jacobson-Rind vs 7-Moore-Eng
+  170          2.00   7.00 5-Cline-Hankins vs 9-Christensen-Ring
+  170          2.00   7.00 6-Lewis-Davis vs 4-Lycette-Migliorini
+  650          7.50   1.50 7-Delfs-Chalfan vs 6-Gong-Sieg
+  140          0.00   9.00 8-Swanson-Decker vs 8-Tipton-Hesson
+  170          2.00   7.00 9-Wright-Zaugg vs 1-Christiansen-White
+  200          4.50   4.50 10-Baker-Harvey-Chai vs 3-Ford-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.50   0.50 1-Setterholm-Galer vs 10-Hendrickson-Popivanov
+        420    2.50   6.50 2-Tu-Pesce vs 2-Jarvis-Ruprecht
+        420    2.50   6.50 3-Roselle-Anderson vs 5-Andre-Andre
+  100          8.50   0.50 4-Jacobson-Rind vs 7-Moore-Eng
+        420    2.50   6.50 5-Cline-Hankins vs 9-Christensen-Ring
+   50          6.50   2.50 6-Lewis-Davis vs 4-Lycette-Migliorini
+        420    2.50   6.50 7-Delfs-Chalfan vs 6-Gong-Sieg
+        420    2.50   6.50 8-Swanson-Decker vs 8-Tipton-Hesson
+        420    2.50   6.50 9-Wright-Zaugg vs 1-Christiansen-White
+   50          6.50   2.50 10-Baker-Harvey-Chai vs 3-Ford-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.50   4.50 1-Setterholm-Galer vs 10-Hendrickson-Popivanov
+        110    4.50   4.50 2-Tu-Pesce vs 2-Jarvis-Ruprecht
+        110    4.50   4.50 3-Roselle-Anderson vs 5-Andre-Andre
+        110    4.50   4.50 4-Jacobson-Rind vs 7-Moore-Eng
+        110    4.50   4.50 5-Cline-Hankins vs 9-Christensen-Ring
+        110    4.50   4.50 6-Lewis-Davis vs 4-Lycette-Migliorini
+        110    4.50   4.50 7-Delfs-Chalfan vs 6-Gong-Sieg
+        110    4.50   4.50 8-Swanson-Decker vs 8-Tipton-Hesson
+        110    4.50   4.50 9-Wright-Zaugg vs 1-Christiansen-White
+        110    4.50   4.50 10-Baker-Harvey-Chai vs 3-Ford-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1390    5.50   3.50 1-Setterholm-Galer vs 9-Christensen-Ring
+       1440    2.50   6.50 2-Tu-Pesce vs 1-Christiansen-White
+  400          9.00   0.00 3-Roselle-Anderson vs 3-Ford-Abernethy
+       1390    5.50   3.50 4-Jacobson-Rind vs 6-Gong-Sieg
+       2140    0.50   8.50 5-Cline-Hankins vs 8-Tipton-Hesson
+       1440    2.50   6.50 6-Lewis-Davis vs 5-Andre-Andre
+       1390    5.50   3.50 7-Delfs-Chalfan vs 7-Moore-Eng
+        640    8.00   1.00 8-Swanson-Decker vs 10-Hendrickson-Popivanov
+       2140    0.50   8.50 9-Wright-Zaugg vs 2-Jarvis-Ruprecht
+       1390    5.50   3.50 10-Baker-Harvey-Chai vs 4-Lycette-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          7.50   1.50 1-Setterholm-Galer vs 9-Christensen-Ring
+  430          3.00   6.00 2-Tu-Pesce vs 1-Christiansen-White
+  430          3.00   6.00 3-Roselle-Anderson vs 3-Ford-Abernethy
+  430          3.00   6.00 4-Jacobson-Rind vs 6-Gong-Sieg
+  430          3.00   6.00 5-Cline-Hankins vs 8-Tipton-Hesson
+  460          7.50   1.50 6-Lewis-Davis vs 5-Andre-Andre
+  130          0.00   9.00 7-Delfs-Chalfan vs 7-Moore-Eng
+  430          3.00   6.00 8-Swanson-Decker vs 10-Hendrickson-Popivanov
+  460          7.50   1.50 9-Wright-Zaugg vs 2-Jarvis-Ruprecht
+  460          7.50   1.50 10-Baker-Harvey-Chai vs 4-Lycette-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.50   5.50 1-Setterholm-Galer vs 9-Christensen-Ring
+  300          9.00   0.00 2-Tu-Pesce vs 1-Christiansen-White
+        200    2.00   7.00 3-Roselle-Anderson vs 3-Ford-Abernethy
+  200          8.00   1.00 4-Jacobson-Rind vs 6-Gong-Sieg
+         50    6.00   3.00 5-Cline-Hankins vs 8-Tipton-Hesson
+        150    3.50   5.50 6-Lewis-Davis vs 5-Andre-Andre
+        300    0.00   9.00 7-Delfs-Chalfan vs 7-Moore-Eng
+        250    1.00   8.00 8-Swanson-Decker vs 10-Hendrickson-Popivanov
+  120          7.00   2.00 9-Wright-Zaugg vs 2-Jarvis-Ruprecht
+        100    5.00   4.00 10-Baker-Harvey-Chai vs 4-Lycette-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   8.00 1-Setterholm-Galer vs 8-Tipton-Hesson
+        100    5.00   4.00 2-Tu-Pesce vs 10-Hendrickson-Popivanov
+  140          8.50   0.50 3-Roselle-Anderson vs 2-Jarvis-Ruprecht
+        100    5.00   4.00 4-Jacobson-Rind vs 4-Lycette-Migliorini
+        100    5.00   4.00 5-Cline-Hankins vs 7-Moore-Eng
+        100    5.00   4.00 6-Lewis-Davis vs 6-Gong-Sieg
+        100    5.00   4.00 7-Delfs-Chalfan vs 9-Christensen-Ring
+        200    1.00   8.00 8-Swanson-Decker vs 1-Christiansen-White
+        200    1.00   8.00 9-Wright-Zaugg vs 3-Ford-Abernethy
+  140          8.50   0.50 10-Baker-Harvey-Chai vs 5-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          7.50   1.50 1-Setterholm-Galer vs 8-Tipton-Hesson
+  110          5.00   4.00 2-Tu-Pesce vs 10-Hendrickson-Popivanov
+  170          9.00   0.00 3-Roselle-Anderson vs 2-Jarvis-Ruprecht
+  110          5.00   4.00 4-Jacobson-Rind vs 4-Lycette-Migliorini
+  110          5.00   4.00 5-Cline-Hankins vs 7-Moore-Eng
+  100          3.00   6.00 6-Lewis-Davis vs 6-Gong-Sieg
+   90          1.50   7.50 7-Delfs-Chalfan vs 9-Christensen-Ring
+  140          7.50   1.50 8-Swanson-Decker vs 1-Christiansen-White
+   90          1.50   7.50 9-Wright-Zaugg vs 3-Ford-Abernethy
+   50          0.00   9.00 10-Baker-Harvey-Chai vs 5-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.00   8.00 1-Setterholm-Galer vs 8-Tipton-Hesson
+        530    0.00   9.00 2-Tu-Pesce vs 10-Hendrickson-Popivanov
+        100    3.50   5.50 3-Roselle-Anderson vs 2-Jarvis-Ruprecht
+  100          8.50   0.50 4-Jacobson-Rind vs 4-Lycette-Migliorini
+   50          6.50   2.50 5-Cline-Hankins vs 7-Moore-Eng
+        100    3.50   5.50 6-Lewis-Davis vs 6-Gong-Sieg
+        100    3.50   5.50 7-Delfs-Chalfan vs 9-Christensen-Ring
+        100    3.50   5.50 8-Swanson-Decker vs 1-Christiansen-White
+  100          8.50   0.50 9-Wright-Zaugg vs 3-Ford-Abernethy
+   50          6.50   2.50 10-Baker-Harvey-Chai vs 5-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   9.00 1-Setterholm-Galer vs 7-Moore-Eng
+  150          1.50   7.50 2-Tu-Pesce vs 9-Christensen-Ring
+  150          1.50   7.50 3-Roselle-Anderson vs 1-Christiansen-White
+  620          6.50   2.50 4-Jacobson-Rind vs 3-Ford-Abernethy
+  660          9.00   0.00 5-Cline-Hankins vs 5-Andre-Andre
+  600          4.00   5.00 6-Lewis-Davis vs 8-Tipton-Hesson
+  620          6.50   2.50 7-Delfs-Chalfan vs 10-Hendrickson-Popivanov
+  620          6.50   2.50 8-Swanson-Decker vs 2-Jarvis-Ruprecht
+  620          6.50   2.50 9-Wright-Zaugg vs 4-Lycette-Migliorini
+  500          3.00   6.00 10-Baker-Harvey-Chai vs 6-Gong-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          9.00   0.00 1-Setterholm-Galer vs 7-Moore-Eng
+        460    2.50   6.50 2-Tu-Pesce vs 9-Christensen-Ring
+        430    7.00   2.00 3-Roselle-Anderson vs 1-Christiansen-White
+        430    7.00   2.00 4-Jacobson-Rind vs 3-Ford-Abernethy
+        460    2.50   6.50 5-Cline-Hankins vs 5-Andre-Andre
+        460    2.50   6.50 6-Lewis-Davis vs 8-Tipton-Hesson
+        460    2.50   6.50 7-Delfs-Chalfan vs 10-Hendrickson-Popivanov
+        460    2.50   6.50 8-Swanson-Decker vs 2-Jarvis-Ruprecht
+        430    7.00   2.00 9-Wright-Zaugg vs 4-Lycette-Migliorini
+        460    2.50   6.50 10-Baker-Harvey-Chai vs 6-Gong-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   7.00 1-Setterholm-Galer vs 7-Moore-Eng
+        470    0.00   9.00 2-Tu-Pesce vs 9-Christensen-Ring
+        100    1.00   8.00 3-Roselle-Anderson vs 1-Christiansen-White
+  300          6.50   2.50 4-Jacobson-Rind vs 3-Ford-Abernethy
+  130          4.50   4.50 5-Cline-Hankins vs 5-Andre-Andre
+  500          8.00   1.00 6-Lewis-Davis vs 8-Tipton-Hesson
+  130          4.50   4.50 7-Delfs-Chalfan vs 10-Hendrickson-Popivanov
+  110          3.00   6.00 8-Swanson-Decker vs 2-Jarvis-Ruprecht
+  600          9.00   0.00 9-Wright-Zaugg vs 4-Lycette-Migliorini
+  300          6.50   2.50 10-Baker-Harvey-Chai vs 6-Gong-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          5.00   4.00 1-Setterholm-Galer vs 6-Gong-Sieg
+        100    0.00   9.00 2-Tu-Pesce vs 8-Tipton-Hesson
+  480          5.00   4.00 3-Roselle-Anderson vs 10-Hendrickson-Popivanov
+  480          5.00   4.00 4-Jacobson-Rind vs 2-Jarvis-Ruprecht
+  480          5.00   4.00 5-Cline-Hankins vs 4-Lycette-Migliorini
+  420          1.00   8.00 6-Lewis-Davis vs 9-Christensen-Ring
+  480          5.00   4.00 7-Delfs-Chalfan vs 1-Christiansen-White
+  480          5.00   4.00 8-Swanson-Decker vs 3-Ford-Abernethy
+  480          5.00   4.00 9-Wright-Zaugg vs 5-Andre-Andre
+ 1100          9.00   0.00 10-Baker-Harvey-Chai vs 7-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    4.00   5.00 1-Setterholm-Galer vs 6-Gong-Sieg
+         50    6.00   3.00 2-Tu-Pesce vs 8-Tipton-Hesson
+         50    6.00   3.00 3-Roselle-Anderson vs 10-Hendrickson-Popivanov
+        100    3.00   6.00 4-Jacobson-Rind vs 2-Jarvis-Ruprecht
+        110    1.50   7.50 5-Cline-Hankins vs 4-Lycette-Migliorini
+        150    0.00   9.00 6-Lewis-Davis vs 9-Christensen-Ring
+   50          8.50   0.50 7-Delfs-Chalfan vs 1-Christiansen-White
+        110    1.50   7.50 8-Swanson-Decker vs 3-Ford-Abernethy
+   50          8.50   0.50 9-Wright-Zaugg vs 5-Andre-Andre
+         50    6.00   3.00 10-Baker-Harvey-Chai vs 7-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          4.50   4.50 1-Setterholm-Galer vs 6-Gong-Sieg
+  600          4.50   4.50 2-Tu-Pesce vs 8-Tipton-Hesson
+  600          4.50   4.50 3-Roselle-Anderson vs 10-Hendrickson-Popivanov
+        100    0.50   8.50 4-Jacobson-Rind vs 2-Jarvis-Ruprecht
+  660          8.50   0.50 5-Cline-Hankins vs 4-Lycette-Migliorini
+  600          4.50   4.50 6-Lewis-Davis vs 9-Christensen-Ring
+  660          8.50   0.50 7-Delfs-Chalfan vs 1-Christiansen-White
+        100    0.50   8.50 8-Swanson-Decker vs 3-Ford-Abernethy
+  600          4.50   4.50 9-Wright-Zaugg vs 5-Andre-Andre
+  600          4.50   4.50 10-Baker-Harvey-Chai vs 7-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   5.00 1-Setterholm-Galer vs 5-Andre-Andre
+  450          8.50   0.50 2-Tu-Pesce vs 7-Moore-Eng
+  140          2.00   7.00 3-Roselle-Anderson vs 9-Christensen-Ring
+  200          5.00   4.00 4-Jacobson-Rind vs 1-Christiansen-White
+         50    0.00   9.00 5-Cline-Hankins vs 3-Ford-Abernethy
+  140          2.00   7.00 6-Lewis-Davis vs 10-Hendrickson-Popivanov
+  420          6.50   2.50 7-Delfs-Chalfan vs 2-Jarvis-Ruprecht
+  450          8.50   0.50 8-Swanson-Decker vs 4-Lycette-Migliorini
+  420          6.50   2.50 9-Wright-Zaugg vs 6-Gong-Sieg
+  140          2.00   7.00 10-Baker-Harvey-Chai vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        790    0.50   8.50 1-Setterholm-Galer vs 5-Andre-Andre
+        100    5.00   4.00 2-Tu-Pesce vs 7-Moore-Eng
+  200          8.00   1.00 3-Roselle-Anderson vs 9-Christensen-Ring
+        100    5.00   4.00 4-Jacobson-Rind vs 1-Christiansen-White
+        620    2.00   7.00 5-Cline-Hankins vs 3-Ford-Abernethy
+        300    3.00   6.00 6-Lewis-Davis vs 10-Hendrickson-Popivanov
+  200          8.00   1.00 7-Delfs-Chalfan vs 2-Jarvis-Ruprecht
+        100    5.00   4.00 8-Swanson-Decker vs 4-Lycette-Migliorini
+  200          8.00   1.00 9-Wright-Zaugg vs 6-Gong-Sieg
+        790    0.50   8.50 10-Baker-Harvey-Chai vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.00   1.00 1-Setterholm-Galer vs 5-Andre-Andre
+         90    2.50   6.50 2-Tu-Pesce vs 7-Moore-Eng
+   50          5.50   3.50 3-Roselle-Anderson vs 9-Christensen-Ring
+         90    2.50   6.50 4-Jacobson-Rind vs 1-Christiansen-White
+   50          5.50   3.50 5-Cline-Hankins vs 3-Ford-Abernethy
+  100          8.00   1.00 6-Lewis-Davis vs 10-Hendrickson-Popivanov
+    PASS       4.00   5.00 7-Delfs-Chalfan vs 2-Jarvis-Ruprecht
+        100    1.00   8.00 8-Swanson-Decker vs 4-Lycette-Migliorini
+        130    0.00   9.00 9-Wright-Zaugg vs 6-Gong-Sieg
+  100          8.00   1.00 10-Baker-Harvey-Chai vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1510          8.50   0.50 1-Setterholm-Galer vs 4-Lycette-Migliorini
+ 1010          4.00   5.00 2-Tu-Pesce vs 6-Gong-Sieg
+ 1510          8.50   0.50 3-Roselle-Anderson vs 8-Tipton-Hesson
+ 1010          4.00   5.00 4-Jacobson-Rind vs 10-Hendrickson-Popivanov
+ 1020          7.00   2.00 5-Cline-Hankins vs 2-Jarvis-Ruprecht
+ 1010          4.00   5.00 6-Lewis-Davis vs 1-Christiansen-White
+  980          1.00   8.00 7-Delfs-Chalfan vs 3-Ford-Abernethy
+ 1010          4.00   5.00 8-Swanson-Decker vs 5-Andre-Andre
+ 1010          4.00   5.00 9-Wright-Zaugg vs 7-Moore-Eng
+  510          0.00   9.00 10-Baker-Harvey-Chai vs 9-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   7.50 1-Setterholm-Galer vs 4-Lycette-Migliorini
+  660          6.50   2.50 2-Tu-Pesce vs 6-Gong-Sieg
+  660          6.50   2.50 3-Roselle-Anderson vs 8-Tipton-Hesson
+  660          6.50   2.50 4-Jacobson-Rind vs 10-Hendrickson-Popivanov
+  660          6.50   2.50 5-Cline-Hankins vs 2-Jarvis-Ruprecht
+        200    0.00   9.00 6-Lewis-Davis vs 1-Christiansen-White
+  660          6.50   2.50 7-Delfs-Chalfan vs 3-Ford-Abernethy
+  630          3.00   6.00 8-Swanson-Decker vs 5-Andre-Andre
+        100    1.50   7.50 9-Wright-Zaugg vs 7-Moore-Eng
+  660          6.50   2.50 10-Baker-Harvey-Chai vs 9-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    9.00   0.00 1-Setterholm-Galer vs 4-Lycette-Migliorini
+        510    4.00   5.00 2-Tu-Pesce vs 6-Gong-Sieg
+        480    6.50   2.50 3-Roselle-Anderson vs 8-Tipton-Hesson
+       1100    0.00   9.00 4-Jacobson-Rind vs 10-Hendrickson-Popivanov
+        510    4.00   5.00 5-Cline-Hankins vs 2-Jarvis-Ruprecht
+        850    2.00   7.00 6-Lewis-Davis vs 1-Christiansen-White
+        980    1.00   8.00 7-Delfs-Chalfan vs 3-Ford-Abernethy
+        100    8.00   1.00 8-Swanson-Decker vs 5-Andre-Andre
+        510    4.00   5.00 9-Wright-Zaugg vs 7-Moore-Eng
+        480    6.50   2.50 10-Baker-Harvey-Chai vs 9-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   9.00 1-Setterholm-Galer vs 3-Ford-Abernethy
+  100          5.00   4.00 2-Tu-Pesce vs 5-Andre-Andre
+        140    1.50   7.50 3-Roselle-Anderson vs 7-Moore-Eng
+  100          5.00   4.00 4-Jacobson-Rind vs 9-Christensen-Ring
+        140    1.50   7.50 5-Cline-Hankins vs 1-Christiansen-White
+  100          5.00   4.00 6-Lewis-Davis vs 2-Jarvis-Ruprecht
+        110    3.00   6.00 7-Delfs-Chalfan vs 4-Lycette-Migliorini
+  200          8.00   1.00 8-Swanson-Decker vs 6-Gong-Sieg
+  200          8.00   1.00 9-Wright-Zaugg vs 8-Tipton-Hesson
+  200          8.00   1.00 10-Baker-Harvey-Chai vs 10-Hendrickson-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          4.50   4.50 1-Setterholm-Galer vs 3-Ford-Abernethy
+ 1430          4.50   4.50 2-Tu-Pesce vs 5-Andre-Andre
+ 1430          4.50   4.50 3-Roselle-Anderson vs 7-Moore-Eng
+ 1460          8.00   1.00 4-Jacobson-Rind vs 9-Christensen-Ring
+ 1430          4.50   4.50 5-Cline-Hankins vs 1-Christiansen-White
+  680          0.00   9.00 6-Lewis-Davis vs 2-Jarvis-Ruprecht
+ 1470          9.00   0.00 7-Delfs-Chalfan vs 4-Lycette-Migliorini
+ 1430          4.50   4.50 8-Swanson-Decker vs 6-Gong-Sieg
+ 1430          4.50   4.50 9-Wright-Zaugg vs 8-Tipton-Hesson
+  710          1.00   8.00 10-Baker-Harvey-Chai vs 10-Hendrickson-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          9.00   0.00 1-Setterholm-Galer vs 3-Ford-Abernethy
+        980    4.00   5.00 2-Tu-Pesce vs 5-Andre-Andre
+        980    4.00   5.00 3-Roselle-Anderson vs 7-Moore-Eng
+        980    4.00   5.00 4-Jacobson-Rind vs 9-Christensen-Ring
+        980    4.00   5.00 5-Cline-Hankins vs 1-Christiansen-White
+        480    8.00   1.00 6-Lewis-Davis vs 2-Jarvis-Ruprecht
+        980    4.00   5.00 7-Delfs-Chalfan vs 4-Lycette-Migliorini
+        990    0.00   9.00 8-Swanson-Decker vs 6-Gong-Sieg
+        980    4.00   5.00 9-Wright-Zaugg vs 8-Tipton-Hesson
+        980    4.00   5.00 10-Baker-Harvey-Chai vs 10-Hendrickson-Popivanov
+----------------------------------------------------------------------
