@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 11, 2019      |CLUB NO.>158048    | 06/11/2019 22:40
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=12/C=5                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Shawn Abernethy          B    2     1     .    104.00  57.14  1.12(A) 
+
+ 2 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     76.50  42.03          
+
+ 3 Kim Eng                Eric Sieg                A    5     .     .     98.00  53.85  0.32(A) 
+
+ 4 Rex Tu                 Shimin An                C    .     .     .     73.00  40.11          
+
+ 5 William Campbell       Donald Stark             B    .     .     .     85.50  46.98          
+
+ 6 Stanford Christie      Douglas Kuschner         A    .     .     .     84.00  46.15          
+
+ 7 Arthur Gong            Rui Gong                 C    .     .     2     86.00  47.25  0.28(C) 
+
+ 8 Mike Christensen       Mike Ring                A    1     .     .    121.50  66.76  1.50(A) 
+
+ 9 Lily Andre             Jim Andre                C   3/4   2/3    1    103.00  56.59  0.68(A) 
+
+10 John McCaslin          Grant Davis              B    .     .     .     77.00  42.31          
+
+11 Gary Haldane           Sharon Miller            B    .     .     .     82.50  45.33          
+
+12 Nick Tipton            Galen Hesson             B    .     4     .     91.50  50.27  0.34(B) 
+
+13 Corneliu Galer         Bogdan Vulcan            B    .     5     .     90.00  49.45  0.19(B) 
+
+14 Alan Tesler            Brad Rind                C    .     .     .     85.50  46.98          
+
+15 David Hankins          Kevin Cline              B   3/4   2/3    .    103.00  56.59  0.68(A) 
+
+16 Jeffrey Ford           Marvin Gray              A    6     .     .     95.00  52.20  0.27(A) 
+
+
+                                          Totals                        1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   5.50 4-Tu-An vs 14-Tesler-Rind
+   50          5.00   2.00 6-Christie-Kuschner vs 5-Campbell-Stark
+        100    3.00   4.00 8-Christensen-Ring vs 12-Tipton-Hesson
+  100          7.00   0.00 9-Andre-Andre vs 11-Haldane-Miller
+   50          5.00   2.00 10-McCaslin-Davis vs 2-Falls-Baker-Harvey
+        200    0.00   7.00 13-Galer-Vulcan vs 7-Gong-Gong
+   50          5.00   2.00 15-Hankins-Cline vs 3-Eng-Sieg
+        140    1.50   5.50 16-Ford-Gray vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  710          3.00   4.00 4-Tu-An vs 14-Tesler-Rind
+  710          3.00   4.00 6-Christie-Kuschner vs 5-Campbell-Stark
+ 1430          6.00   1.00 8-Christensen-Ring vs 12-Tipton-Hesson
+  710          3.00   4.00 9-Andre-Andre vs 11-Haldane-Miller
+  650          0.00   7.00 10-McCaslin-Davis vs 2-Falls-Baker-Harvey
+ 1460          7.00   0.00 13-Galer-Vulcan vs 7-Gong-Gong
+  710          3.00   4.00 15-Hankins-Cline vs 3-Eng-Sieg
+  710          3.00   4.00 16-Ford-Gray vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   7.00 1-Zaugg-Abernethy vs 8-Christensen-Ring
+        150    1.00   6.00 4-Tu-An vs 15-Hankins-Cline
+  120          3.00   4.00 5-Campbell-Stark vs 14-Tesler-Rind
+         50    2.00   5.00 7-Gong-Gong vs 6-Christie-Kuschner
+  400          4.50   2.50 9-Andre-Andre vs 13-Galer-Vulcan
+  400          4.50   2.50 10-McCaslin-Davis vs 12-Tipton-Hesson
+  420          6.00   1.00 11-Haldane-Miller vs 3-Eng-Sieg
+  800          7.00   0.00 16-Ford-Gray vs 2-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.50   5.50 1-Zaugg-Abernethy vs 8-Christensen-Ring
+        720    0.00   7.00 4-Tu-An vs 15-Hankins-Cline
+  300          7.00   0.00 5-Campbell-Stark vs 14-Tesler-Rind
+  100          6.00   1.00 7-Gong-Gong vs 6-Christie-Kuschner
+        620    4.00   3.00 9-Andre-Andre vs 13-Galer-Vulcan
+        660    1.50   5.50 10-McCaslin-Davis vs 12-Tipton-Hesson
+        600    5.00   2.00 11-Haldane-Miller vs 3-Eng-Sieg
+        630    3.00   4.00 16-Ford-Gray vs 2-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   2.00 2-Falls-Baker-Harvey vs 9-Andre-Andre
+        100    4.00   3.00 5-Campbell-Stark vs 15-Hankins-Cline
+  650          6.00   1.00 6-Christie-Kuschner vs 14-Tesler-Rind
+ 1100          7.00   0.00 8-Christensen-Ring vs 7-Gong-Gong
+        200    1.50   5.50 10-McCaslin-Davis vs 1-Zaugg-Abernethy
+        200    1.50   5.50 11-Haldane-Miller vs 13-Galer-Vulcan
+        200    1.50   5.50 12-Tipton-Hesson vs 4-Tu-An
+        200    1.50   5.50 16-Ford-Gray vs 3-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   4.00 2-Falls-Baker-Harvey vs 9-Andre-Andre
+  140          3.00   4.00 5-Campbell-Stark vs 15-Hankins-Cline
+  140          3.00   4.00 6-Christie-Kuschner vs 14-Tesler-Rind
+         50    0.00   7.00 8-Christensen-Ring vs 7-Gong-Gong
+  120          1.00   6.00 10-McCaslin-Davis vs 1-Zaugg-Abernethy
+  150          5.00   2.00 11-Haldane-Miller vs 13-Galer-Vulcan
+  420          6.50   0.50 12-Tipton-Hesson vs 4-Tu-An
+  420          6.50   0.50 16-Ford-Gray vs 3-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   4.00 3-Eng-Sieg vs 10-McCaslin-Davis
+        650    0.00   7.00 6-Christie-Kuschner vs 15-Hankins-Cline
+  650          3.00   4.00 9-Andre-Andre vs 8-Christensen-Ring
+  650          3.00   4.00 11-Haldane-Miller vs 2-Falls-Baker-Harvey
+  850          6.50   0.50 12-Tipton-Hesson vs 1-Zaugg-Abernethy
+  650          3.00   4.00 13-Galer-Vulcan vs 5-Campbell-Stark
+  650          3.00   4.00 14-Tesler-Rind vs 7-Gong-Gong
+  850          6.50   0.50 16-Ford-Gray vs 4-Tu-An
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   2.50 3-Eng-Sieg vs 10-McCaslin-Davis
+  140          4.50   2.50 6-Christie-Kuschner vs 15-Hankins-Cline
+  110          1.00   6.00 9-Andre-Andre vs 8-Christensen-Ring
+  140          4.50   2.50 11-Haldane-Miller vs 2-Falls-Baker-Harvey
+         90    0.00   7.00 12-Tipton-Hesson vs 1-Zaugg-Abernethy
+  140          4.50   2.50 13-Galer-Vulcan vs 5-Campbell-Stark
+  140          4.50   2.50 14-Tesler-Rind vs 7-Gong-Gong
+  140          4.50   2.50 16-Ford-Gray vs 4-Tu-An
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.50   0.50 1-Zaugg-Abernethy vs 6-Christie-Kuschner
+  100          6.50   0.50 4-Tu-An vs 11-Haldane-Miller
+        620    1.50   5.50 7-Gong-Gong vs 15-Hankins-Cline
+        150    4.00   3.00 10-McCaslin-Davis vs 9-Andre-Andre
+        620    1.50   5.50 12-Tipton-Hesson vs 3-Eng-Sieg
+        100    5.00   2.00 13-Galer-Vulcan vs 2-Falls-Baker-Harvey
+        620    1.50   5.50 14-Tesler-Rind vs 8-Christensen-Ring
+        620    1.50   5.50 16-Ford-Gray vs 5-Campbell-Stark
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    5.50   1.50 1-Zaugg-Abernethy vs 6-Christie-Kuschner
+        680    1.50   5.50 4-Tu-An vs 11-Haldane-Miller
+        680    1.50   5.50 7-Gong-Gong vs 15-Hankins-Cline
+        660    5.50   1.50 10-McCaslin-Davis vs 9-Andre-Andre
+        660    5.50   1.50 12-Tipton-Hesson vs 3-Eng-Sieg
+        680    1.50   5.50 13-Galer-Vulcan vs 2-Falls-Baker-Harvey
+        680    1.50   5.50 14-Tesler-Rind vs 8-Christensen-Ring
+        660    5.50   1.50 16-Ford-Gray vs 5-Campbell-Stark
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   4.00 1-Zaugg-Abernethy vs 3-Eng-Sieg
+        150    0.50   6.50 2-Falls-Baker-Harvey vs 7-Gong-Gong
+        120    5.00   2.00 5-Campbell-Stark vs 12-Tipton-Hesson
+        130    3.00   4.00 8-Christensen-Ring vs 15-Hankins-Cline
+         50    6.50   0.50 11-Haldane-Miller vs 10-McCaslin-Davis
+        130    3.00   4.00 13-Galer-Vulcan vs 4-Tu-An
+        150    0.50   6.50 14-Tesler-Rind vs 9-Andre-Andre
+         50    6.50   0.50 16-Ford-Gray vs 6-Christie-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   6.00 1-Zaugg-Abernethy vs 3-Eng-Sieg
+        100    4.00   3.00 2-Falls-Baker-Harvey vs 7-Gong-Gong
+        140    1.00   6.00 5-Campbell-Stark vs 12-Tipton-Hesson
+   50          6.50   0.50 8-Christensen-Ring vs 15-Hankins-Cline
+        140    1.00   6.00 11-Haldane-Miller vs 10-McCaslin-Davis
+         90    5.00   2.00 13-Galer-Vulcan vs 4-Tu-An
+   50          6.50   0.50 14-Tesler-Rind vs 9-Andre-Andre
+        110    3.00   4.00 16-Ford-Gray vs 6-Christie-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   3.00 1-Zaugg-Abernethy vs 5-Campbell-Stark
+        100    1.00   6.00 2-Falls-Baker-Harvey vs 4-Tu-An
+  110          4.00   3.00 3-Eng-Sieg vs 8-Christensen-Ring
+        110    0.00   7.00 6-Christie-Kuschner vs 13-Galer-Vulcan
+  140          6.50   0.50 9-Andre-Andre vs 15-Hankins-Cline
+  140          6.50   0.50 12-Tipton-Hesson vs 11-Haldane-Miller
+  110          4.00   3.00 14-Tesler-Rind vs 10-McCaslin-Davis
+         90    2.00   5.00 16-Ford-Gray vs 7-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          6.00   1.00 1-Zaugg-Abernethy vs 5-Campbell-Stark
+        100    1.50   5.50 2-Falls-Baker-Harvey vs 4-Tu-An
+        100    1.50   5.50 3-Eng-Sieg vs 8-Christensen-Ring
+        140    0.00   7.00 6-Christie-Kuschner vs 13-Galer-Vulcan
+   50          3.50   3.50 9-Andre-Andre vs 15-Hankins-Cline
+  510          7.00   0.00 12-Tipton-Hesson vs 11-Haldane-Miller
+   50          3.50   3.50 14-Tesler-Rind vs 10-McCaslin-Davis
+  100          5.00   2.00 16-Ford-Gray vs 7-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  670          7.00   0.00 2-Falls-Baker-Harvey vs 6-Christie-Kuschner
+        510    0.00   7.00 3-Eng-Sieg vs 5-Campbell-Stark
+        130    3.50   3.50 4-Tu-An vs 9-Andre-Andre
+        130    3.50   3.50 7-Gong-Gong vs 1-Zaugg-Abernethy
+  110          6.00   1.00 10-McCaslin-Davis vs 15-Hankins-Cline
+        200    1.50   5.50 13-Galer-Vulcan vs 12-Tipton-Hesson
+        100    5.00   2.00 14-Tesler-Rind vs 11-Haldane-Miller
+        200    1.50   5.50 16-Ford-Gray vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    6.00   1.00 2-Falls-Baker-Harvey vs 6-Christie-Kuschner
+         50    7.00   0.00 3-Eng-Sieg vs 5-Campbell-Stark
+       1100    0.50   6.50 4-Tu-An vs 9-Andre-Andre
+       1100    0.50   6.50 7-Gong-Gong vs 1-Zaugg-Abernethy
+        650    3.00   4.00 10-McCaslin-Davis vs 15-Hankins-Cline
+        250    5.00   2.00 13-Galer-Vulcan vs 12-Tipton-Hesson
+        650    3.00   4.00 14-Tesler-Rind vs 11-Haldane-Miller
+        650    3.00   4.00 16-Ford-Gray vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    4.00   3.00 1-Zaugg-Abernethy vs 13-Galer-Vulcan
+        430    4.00   3.00 3-Eng-Sieg vs 7-Gong-Gong
+        460    0.50   6.50 4-Tu-An vs 6-Christie-Kuschner
+        460    0.50   6.50 5-Campbell-Stark vs 10-McCaslin-Davis
+        400    7.00   0.00 8-Christensen-Ring vs 2-Falls-Baker-Harvey
+        430    4.00   3.00 14-Tesler-Rind vs 12-Tipton-Hesson
+        430    4.00   3.00 15-Hankins-Cline vs 11-Haldane-Miller
+        430    4.00   3.00 16-Ford-Gray vs 9-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   6.00 1-Zaugg-Abernethy vs 13-Galer-Vulcan
+  100          4.00   3.00 3-Eng-Sieg vs 7-Gong-Gong
+        200    0.00   7.00 4-Tu-An vs 6-Christie-Kuschner
+  120          7.00   0.00 5-Campbell-Stark vs 10-McCaslin-Davis
+  110          6.00   1.00 8-Christensen-Ring vs 2-Falls-Baker-Harvey
+  100          4.00   3.00 14-Tesler-Rind vs 12-Tipton-Hesson
+  100          4.00   3.00 15-Hankins-Cline vs 11-Haldane-Miller
+   50          2.00   5.00 16-Ford-Gray vs 9-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.50   6.50 2-Falls-Baker-Harvey vs 1-Zaugg-Abernethy
+  500          6.00   1.00 4-Tu-An vs 8-Christensen-Ring
+        110    0.50   6.50 5-Campbell-Stark vs 7-Gong-Gong
+  130          4.50   2.50 6-Christie-Kuschner vs 11-Haldane-Miller
+  100          2.50   4.50 9-Andre-Andre vs 3-Eng-Sieg
+  530          7.00   0.00 14-Tesler-Rind vs 13-Galer-Vulcan
+  130          4.50   2.50 15-Hankins-Cline vs 12-Tipton-Hesson
+  100          2.50   4.50 16-Ford-Gray vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   6.00 2-Falls-Baker-Harvey vs 1-Zaugg-Abernethy
+        140    2.00   5.00 4-Tu-An vs 8-Christensen-Ring
+  200          7.00   0.00 5-Campbell-Stark vs 7-Gong-Gong
+        730    0.00   7.00 6-Christie-Kuschner vs 11-Haldane-Miller
+  100          4.50   2.50 9-Andre-Andre vs 3-Eng-Sieg
+  100          4.50   2.50 14-Tesler-Rind vs 13-Galer-Vulcan
+  100          4.50   2.50 15-Hankins-Cline vs 12-Tipton-Hesson
+  100          4.50   2.50 16-Ford-Gray vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   2.00 1-Zaugg-Abernethy vs 14-Tesler-Rind
+  110          7.00   0.00 3-Eng-Sieg vs 2-Falls-Baker-Harvey
+   50          1.50   5.50 5-Campbell-Stark vs 9-Andre-Andre
+   50          1.50   5.50 6-Christie-Kuschner vs 8-Christensen-Ring
+        200    0.00   7.00 7-Gong-Gong vs 12-Tipton-Hesson
+   90          3.00   4.00 10-McCaslin-Davis vs 4-Tu-An
+  100          5.00   2.00 15-Hankins-Cline vs 13-Galer-Vulcan
+  100          5.00   2.00 16-Ford-Gray vs 11-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          7.00   0.00 1-Zaugg-Abernethy vs 14-Tesler-Rind
+  140          4.00   3.00 3-Eng-Sieg vs 2-Falls-Baker-Harvey
+  100          3.00   4.00 5-Campbell-Stark vs 9-Andre-Andre
+  170          5.00   2.00 6-Christie-Kuschner vs 8-Christensen-Ring
+  400          6.00   1.00 7-Gong-Gong vs 12-Tipton-Hesson
+        150    0.50   6.50 10-McCaslin-Davis vs 4-Tu-An
+        110    2.00   5.00 15-Hankins-Cline vs 13-Galer-Vulcan
+        150    0.50   6.50 16-Ford-Gray vs 11-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.00   4.00 2-Falls-Baker-Harvey vs 14-Tesler-Rind
+        110    0.00   7.00 4-Tu-An vs 3-Eng-Sieg
+  120          6.00   1.00 6-Christie-Kuschner vs 10-McCaslin-Davis
+   90          3.00   4.00 7-Gong-Gong vs 9-Andre-Andre
+   90          3.00   4.00 8-Christensen-Ring vs 13-Galer-Vulcan
+   90          3.00   4.00 11-Haldane-Miller vs 5-Campbell-Stark
+  150          7.00   0.00 15-Hankins-Cline vs 1-Zaugg-Abernethy
+   90          3.00   4.00 16-Ford-Gray vs 12-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    6.50   0.50 2-Falls-Baker-Harvey vs 14-Tesler-Rind
+        460    0.00   7.00 4-Tu-An vs 3-Eng-Sieg
+        420    5.00   2.00 6-Christie-Kuschner vs 10-McCaslin-Davis
+        450    2.50   4.50 7-Gong-Gong vs 9-Andre-Andre
+        400    6.50   0.50 8-Christensen-Ring vs 13-Galer-Vulcan
+        450    2.50   4.50 11-Haldane-Miller vs 5-Campbell-Stark
+        450    2.50   4.50 15-Hankins-Cline vs 1-Zaugg-Abernethy
+        450    2.50   4.50 16-Ford-Gray vs 12-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   4.50 3-Eng-Sieg vs 14-Tesler-Rind
+         50    0.50   6.50 5-Campbell-Stark vs 4-Tu-An
+  420          6.50   0.50 7-Gong-Gong vs 11-Haldane-Miller
+  170          5.00   2.00 8-Christensen-Ring vs 10-McCaslin-Davis
+  420          6.50   0.50 9-Andre-Andre vs 1-Zaugg-Abernethy
+         50    0.50   6.50 12-Tipton-Hesson vs 6-Christie-Kuschner
+  150          4.00   3.00 15-Hankins-Cline vs 2-Falls-Baker-Harvey
+  140          2.50   4.50 16-Ford-Gray vs 13-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    3.50   3.50 3-Eng-Sieg vs 14-Tesler-Rind
+       1430    3.50   3.50 5-Campbell-Stark vs 4-Tu-An
+       1430    3.50   3.50 7-Gong-Gong vs 11-Haldane-Miller
+       1430    3.50   3.50 8-Christensen-Ring vs 10-McCaslin-Davis
+       1430    3.50   3.50 9-Andre-Andre vs 1-Zaugg-Abernethy
+       1460    0.00   7.00 12-Tipton-Hesson vs 6-Christie-Kuschner
+       1430    3.50   3.50 15-Hankins-Cline vs 2-Falls-Baker-Harvey
+  100          7.00   0.00 16-Ford-Gray vs 13-Galer-Vulcan
+----------------------------------------------------------------------
