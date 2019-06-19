@@ -1,0 +1,532 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>June 18, 2019      |CLUB NO.>158048    | 06/18/2019 22:34
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=5/C=2                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Sue Anderson             A   Q            1     .     .   |   1     .     .    164.00  60.74  1.97Red 
+                                                                                                                        1.97Blk 
+ 2 Rui Gong               Arthur Gong              C   Q   Q   Q    .     4     .   |   .     2     .    134.50  49.81  0.42Red 
+                                                                                                                        0.41Blk 
+ 3 Dex Stuberg            Joel Fuhrman             A   Q            2     .     .   |   2     .     .    163.00  60.37  1.48Red 
+                                                                                                                        1.48Blk 
+ 4 Douglas Kuschner       David Green              A                .     .     .   |   .     .     .    123.50  45.74          
+
+ 5 Gary Haldane           Sharon Miller            B       Q        .     .     .   |   .     .     .    134.00  49.63          
+
+ 6 Eric Sieg              Gregory Herman           A   Q            .     .     .   |   .     .     .    135.50  50.19          
+
+ 7 Jeannie Falls          Bruce Baker-Harvey       C           Q    .     .     .   |   .     .     .    118.00  43.70          
+
+ 8 David Binney           Rex Tu                   A                .     .     .   |   .     .     .    120.50  44.63          
+
+ 9 Kevin Cline            David Hankins            B   Q   Q        .     2     .   |   4     1     .    139.50  51.67  0.74Red 
+                                                                                                                        0.74Blk 
+10 Ray Miller             Chris Moore              A   Q            4     .     .   |   3     .     .    150.00  55.56  0.83Red 
+                                                                                                                        0.83Blk 
+11 Ann Romeo              Aiden Klein              B                .     .     .   |   .     .     .    102.50  37.96          
+
+
+                                          Totals                                                        1485.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>June 18, 2019      |CLUB NO.>158048    | 06/18/2019 22:34
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  135.0 |TOP>  10 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=5/C=0                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Corneliu Galer         Bogdan Vulcan            B   Q   Q       6/7    1     .   |  3/4    1     .    143.50  53.15  0.99Red 
+                                                                                                                        0.98Blk 
+ 2 Arvind Ranasaria       Ivan Popivanov           A                .     .     .   |   .     .     .    124.00  45.93          
+
+ 3 Christine Matus        Peter VanBennekom        B                .     .     .   |   .     .     .    133.50  49.44          
+
+ 4 Brian Zaugg            Liliana Diaconescu       A                .     .     .   |   .     .     .    130.50  48.33          
+
+ 5 Mike Ring              Shawn Abernethy          B   Q   Q        .     .     .   |   .     .     .    134.00  49.63          
+
+ 6 Lily Andre             Jim Andre                A   Q            5     .     .   |   2     .     .    148.00  54.81  0.69Red 
+                                                                                                                        0.69Blk 
+ 7 Muhunthan Sivapragasam Thomas Stever            B                .     .     .   |   .     .     .    125.00  46.30          
+
+ 8 Jeffrey Ford           Kim Eng                  A   Q            3     .     .   |   1     .     .    152.00  56.30  1.11Red 
+                                                                                                                        1.11Blk 
+ 9 Nick Tipton            Galen Hesson             A                .     .     .   |   .     .     .    113.50  42.04          
+
+10 Mike Christensen       Stanford Christie        A   Q           6/7    .     .   |  3/4    .     .    143.50  53.15  0.42Red 
+                                                                                                                        0.42Blk 
+11 Terry Jacobson         Brad Rind                B   Q   Q        .     3     .   |   .     2     .    137.50  50.93  0.56Red 
+                                                                                                                        0.55Blk 
+
+                                          Totals                                                        1485.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.00   5.00 1-Delfs-Anderson vs 1-Galer-Vulcan
+  140          7.00   3.00 2-Gong-Gong vs 5-Ring-Abernethy
+  140          7.00   3.00 3-Stuberg-Fuhrman vs 7-Sivapragasam-Stever
+        100    1.00   9.00 4-Kuschner-Green vs 9-Tipton-Hesson
+  170          9.00   1.00 5-Haldane-Miller vs 11-Jacobson-Rind
+         50    3.50   6.50 6-Sieg-Herman vs 2-Ranasaria-Popivanov
+         50    3.50   6.50 7-Falls-Baker-Harvey vs 4-Zaugg-Diaconescu
+  400         10.00   0.00 8-Binney-Tu vs 6-Andre-Andre
+  140          7.00   3.00 9-Cline-Hankins vs 8-Ford-Eng
+        100    1.00   9.00 10-Miller-Moore vs 10-Christensen-Christie
+        100    1.00   9.00 11-Romeo-Klein vs 3-Matus-VanBennekom
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  850         10.00   0.00 1-Delfs-Anderson vs 1-Galer-Vulcan
+  600          8.00   2.00 2-Gong-Gong vs 5-Ring-Abernethy
+  750          9.00   1.00 3-Stuberg-Fuhrman vs 7-Sivapragasam-Stever
+        200    0.00  10.00 4-Kuschner-Green vs 9-Tipton-Hesson
+  300          6.50   3.50 5-Haldane-Miller vs 11-Jacobson-Rind
+        140    1.50   8.50 6-Sieg-Herman vs 2-Ranasaria-Popivanov
+  100          4.50   5.50 7-Falls-Baker-Harvey vs 4-Zaugg-Diaconescu
+  100          4.50   5.50 8-Binney-Tu vs 6-Andre-Andre
+        140    1.50   8.50 9-Cline-Hankins vs 8-Ford-Eng
+  300          6.50   3.50 10-Miller-Moore vs 10-Christensen-Christie
+   50          3.00   7.00 11-Romeo-Klein vs 3-Matus-VanBennekom
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200         10.00   0.00 1-Delfs-Anderson vs 1-Galer-Vulcan
+        140    3.50   6.50 2-Gong-Gong vs 5-Ring-Abernethy
+  100          8.50   1.50 3-Stuberg-Fuhrman vs 7-Sivapragasam-Stever
+        140    3.50   6.50 4-Kuschner-Green vs 9-Tipton-Hesson
+        140    3.50   6.50 5-Haldane-Miller vs 11-Jacobson-Rind
+  100          8.50   1.50 6-Sieg-Herman vs 2-Ranasaria-Popivanov
+        140    3.50   6.50 7-Falls-Baker-Harvey vs 4-Zaugg-Diaconescu
+        200    0.00  10.00 8-Binney-Tu vs 6-Andre-Andre
+        140    3.50   6.50 9-Cline-Hankins vs 8-Ford-Eng
+        140    3.50   6.50 10-Miller-Moore vs 10-Christensen-Christie
+        110    7.00   3.00 11-Romeo-Klein vs 3-Matus-VanBennekom
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.50   5.50 1-Delfs-Anderson vs 11-Jacobson-Rind
+  500         10.00   0.00 2-Gong-Gong vs 2-Ranasaria-Popivanov
+  200          7.00   3.00 3-Stuberg-Fuhrman vs 6-Andre-Andre
+        130    1.00   9.00 4-Kuschner-Green vs 8-Ford-Eng
+        130    1.00   9.00 5-Haldane-Miller vs 10-Christensen-Christie
+        110    4.50   5.50 6-Sieg-Herman vs 1-Galer-Vulcan
+        110    4.50   5.50 7-Falls-Baker-Harvey vs 3-Matus-VanBennekom
+        130    1.00   9.00 8-Binney-Tu vs 5-Ring-Abernethy
+        110    4.50   5.50 9-Cline-Hankins vs 7-Sivapragasam-Stever
+  300          8.00   2.00 10-Miller-Moore vs 9-Tipton-Hesson
+  400          9.00   1.00 11-Romeo-Klein vs 4-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    7.50   2.50 1-Delfs-Anderson vs 11-Jacobson-Rind
+        130    4.50   5.50 2-Gong-Gong vs 2-Ranasaria-Popivanov
+  140          9.50   0.50 3-Stuberg-Fuhrman vs 6-Andre-Andre
+        200    1.00   9.00 4-Kuschner-Green vs 8-Ford-Eng
+        100    7.50   2.50 5-Haldane-Miller vs 10-Christensen-Christie
+        130    4.50   5.50 6-Sieg-Herman vs 1-Galer-Vulcan
+        130    4.50   5.50 7-Falls-Baker-Harvey vs 3-Matus-VanBennekom
+        200    1.00   9.00 8-Binney-Tu vs 5-Ring-Abernethy
+        200    1.00   9.00 9-Cline-Hankins vs 7-Sivapragasam-Stever
+  140          9.50   0.50 10-Miller-Moore vs 9-Tipton-Hesson
+        130    4.50   5.50 11-Romeo-Klein vs 4-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.00   5.00 1-Delfs-Anderson vs 11-Jacobson-Rind
+  200          7.50   2.50 2-Gong-Gong vs 2-Ranasaria-Popivanov
+        600    2.00   8.00 3-Stuberg-Fuhrman vs 6-Andre-Andre
+  530          9.50   0.50 4-Kuschner-Green vs 8-Ford-Eng
+        750    1.00   9.00 5-Haldane-Miller vs 10-Christensen-Christie
+  530          9.50   0.50 6-Sieg-Herman vs 1-Galer-Vulcan
+       1070    0.00  10.00 7-Falls-Baker-Harvey vs 3-Matus-VanBennekom
+        150    3.50   6.50 8-Binney-Tu vs 5-Ring-Abernethy
+  140          6.00   4.00 9-Cline-Hankins vs 7-Sivapragasam-Stever
+  200          7.50   2.50 10-Miller-Moore vs 9-Tipton-Hesson
+        150    3.50   6.50 11-Romeo-Klein vs 4-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.50   9.50 1-Delfs-Anderson vs 10-Christensen-Christie
+  300          2.00   8.00 2-Gong-Gong vs 1-Galer-Vulcan
+ 2000         10.00   0.00 3-Stuberg-Fuhrman vs 3-Matus-VanBennekom
+  600          4.00   6.00 4-Kuschner-Green vs 7-Sivapragasam-Stever
+  620          5.00   5.00 5-Haldane-Miller vs 9-Tipton-Hesson
+  200          0.50   9.50 6-Sieg-Herman vs 11-Jacobson-Rind
+  400          3.00   7.00 7-Falls-Baker-Harvey vs 2-Ranasaria-Popivanov
+  650          7.00   3.00 8-Binney-Tu vs 4-Zaugg-Diaconescu
+  650          7.00   3.00 9-Cline-Hankins vs 6-Andre-Andre
+  850          9.00   1.00 10-Miller-Moore vs 8-Ford-Eng
+  650          7.00   3.00 11-Romeo-Klein vs 5-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          8.50   1.50 1-Delfs-Anderson vs 10-Christensen-Christie
+  100          0.00  10.00 2-Gong-Gong vs 1-Galer-Vulcan
+  200          2.50   7.50 3-Stuberg-Fuhrman vs 3-Matus-VanBennekom
+  170          1.00   9.00 4-Kuschner-Green vs 7-Sivapragasam-Stever
+  420          5.50   4.50 5-Haldane-Miller vs 9-Tipton-Hesson
+  420          5.50   4.50 6-Sieg-Herman vs 11-Jacobson-Rind
+  420          5.50   4.50 7-Falls-Baker-Harvey vs 2-Ranasaria-Popivanov
+  450          8.50   1.50 8-Binney-Tu vs 4-Zaugg-Diaconescu
+  200          2.50   7.50 9-Cline-Hankins vs 6-Andre-Andre
+  500         10.00   0.00 10-Miller-Moore vs 8-Ford-Eng
+  420          5.50   4.50 11-Romeo-Klein vs 5-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   4.50 1-Delfs-Anderson vs 10-Christensen-Christie
+        110    0.50   9.50 2-Gong-Gong vs 1-Galer-Vulcan
+  300         10.00   0.00 3-Stuberg-Fuhrman vs 3-Matus-VanBennekom
+  200          8.50   1.50 4-Kuschner-Green vs 7-Sivapragasam-Stever
+  100          5.50   4.50 5-Haldane-Miller vs 9-Tipton-Hesson
+         50    2.50   7.50 6-Sieg-Herman vs 11-Jacobson-Rind
+  100          5.50   4.50 7-Falls-Baker-Harvey vs 2-Ranasaria-Popivanov
+  100          5.50   4.50 8-Binney-Tu vs 4-Zaugg-Diaconescu
+  200          8.50   1.50 9-Cline-Hankins vs 6-Andre-Andre
+         50    2.50   7.50 10-Miller-Moore vs 8-Ford-Eng
+        110    0.50   9.50 11-Romeo-Klein vs 5-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          8.00   2.00 1-Delfs-Anderson vs 9-Tipton-Hesson
+  620          3.00   7.00 2-Gong-Gong vs 11-Jacobson-Rind
+  650          8.00   2.00 3-Stuberg-Fuhrman vs 2-Ranasaria-Popivanov
+  620          3.00   7.00 4-Kuschner-Green vs 4-Zaugg-Diaconescu
+  650          8.00   2.00 5-Haldane-Miller vs 8-Ford-Eng
+  620          3.00   7.00 6-Sieg-Herman vs 10-Christensen-Christie
+  620          3.00   7.00 7-Falls-Baker-Harvey vs 1-Galer-Vulcan
+  620          3.00   7.00 8-Binney-Tu vs 3-Matus-VanBennekom
+  650          8.00   2.00 9-Cline-Hankins vs 5-Ring-Abernethy
+  650          8.00   2.00 10-Miller-Moore vs 7-Sivapragasam-Stever
+  170          0.00  10.00 11-Romeo-Klein vs 6-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        440    5.50   4.50 1-Delfs-Anderson vs 9-Tipton-Hesson
+        920    3.00   7.00 2-Gong-Gong vs 11-Jacobson-Rind
+        920    3.00   7.00 3-Stuberg-Fuhrman vs 2-Ranasaria-Popivanov
+        420    8.50   1.50 4-Kuschner-Green vs 4-Zaugg-Diaconescu
+        420    8.50   1.50 5-Haldane-Miller vs 8-Ford-Eng
+        940    0.50   9.50 6-Sieg-Herman vs 10-Christensen-Christie
+        920    3.00   7.00 7-Falls-Baker-Harvey vs 1-Galer-Vulcan
+        940    0.50   9.50 8-Binney-Tu vs 3-Matus-VanBennekom
+        420    8.50   1.50 9-Cline-Hankins vs 5-Ring-Abernethy
+        420    8.50   1.50 10-Miller-Moore vs 7-Sivapragasam-Stever
+        440    5.50   4.50 11-Romeo-Klein vs 6-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          7.50   2.50 1-Delfs-Anderson vs 9-Tipton-Hesson
+  620          7.50   2.50 2-Gong-Gong vs 11-Jacobson-Rind
+  620          7.50   2.50 3-Stuberg-Fuhrman vs 2-Ranasaria-Popivanov
+  620          7.50   2.50 4-Kuschner-Green vs 4-Zaugg-Diaconescu
+        100    2.00   8.00 5-Haldane-Miller vs 8-Ford-Eng
+  620          7.50   2.50 6-Sieg-Herman vs 10-Christensen-Christie
+        570    1.00   9.00 7-Falls-Baker-Harvey vs 1-Galer-Vulcan
+  620          7.50   2.50 8-Binney-Tu vs 3-Matus-VanBennekom
+  170          3.00   7.00 9-Cline-Hankins vs 5-Ring-Abernethy
+  600          4.00   6.00 10-Miller-Moore vs 7-Sivapragasam-Stever
+        590    0.00  10.00 11-Romeo-Klein vs 6-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    6.00   4.00 1-Delfs-Anderson vs 8-Ford-Eng
+        650    6.00   4.00 2-Gong-Gong vs 10-Christensen-Christie
+        650    6.00   4.00 3-Stuberg-Fuhrman vs 1-Galer-Vulcan
+        500    9.00   1.00 4-Kuschner-Green vs 3-Matus-VanBennekom
+       1430    0.50   9.50 5-Haldane-Miller vs 5-Ring-Abernethy
+        650    6.00   4.00 6-Sieg-Herman vs 9-Tipton-Hesson
+        680    2.50   7.50 7-Falls-Baker-Harvey vs 11-Jacobson-Rind
+        200   10.00   0.00 8-Binney-Tu vs 2-Ranasaria-Popivanov
+        680    2.50   7.50 9-Cline-Hankins vs 4-Zaugg-Diaconescu
+       1430    0.50   9.50 10-Miller-Moore vs 6-Andre-Andre
+        650    6.00   4.00 11-Romeo-Klein vs 7-Sivapragasam-Stever
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   6.50 1-Delfs-Anderson vs 8-Ford-Eng
+         50    3.50   6.50 2-Gong-Gong vs 10-Christensen-Christie
+   50          7.50   2.50 3-Stuberg-Fuhrman vs 1-Galer-Vulcan
+         50    3.50   6.50 4-Kuschner-Green vs 3-Matus-VanBennekom
+         50    3.50   6.50 5-Haldane-Miller vs 5-Ring-Abernethy
+  110          9.00   1.00 6-Sieg-Herman vs 9-Tipton-Hesson
+   50          7.50   2.50 7-Falls-Baker-Harvey vs 11-Jacobson-Rind
+         50    3.50   6.50 8-Binney-Tu vs 2-Ranasaria-Popivanov
+         50    3.50   6.50 9-Cline-Hankins vs 4-Zaugg-Diaconescu
+        100    0.00  10.00 10-Miller-Moore vs 6-Andre-Andre
+  420         10.00   0.00 11-Romeo-Klein vs 7-Sivapragasam-Stever
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          9.00   1.00 1-Delfs-Anderson vs 8-Ford-Eng
+   50          6.50   3.50 2-Gong-Gong vs 10-Christensen-Christie
+  110          8.00   2.00 3-Stuberg-Fuhrman vs 1-Galer-Vulcan
+        100    4.00   6.00 4-Kuschner-Green vs 3-Matus-VanBennekom
+        100    4.00   6.00 5-Haldane-Miller vs 5-Ring-Abernethy
+  600         10.00   0.00 6-Sieg-Herman vs 9-Tipton-Hesson
+   50          6.50   3.50 7-Falls-Baker-Harvey vs 11-Jacobson-Rind
+        800    0.00  10.00 8-Binney-Tu vs 2-Ranasaria-Popivanov
+        100    4.00   6.00 9-Cline-Hankins vs 4-Zaugg-Diaconescu
+        530    1.00   9.00 10-Miller-Moore vs 6-Andre-Andre
+        500    2.00   8.00 11-Romeo-Klein vs 7-Sivapragasam-Stever
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   4.50 1-Delfs-Anderson vs 7-Sivapragasam-Stever
+  200          5.50   4.50 2-Gong-Gong vs 9-Tipton-Hesson
+  200          5.50   4.50 3-Stuberg-Fuhrman vs 11-Jacobson-Rind
+  200          5.50   4.50 4-Kuschner-Green vs 2-Ranasaria-Popivanov
+  200          5.50   4.50 5-Haldane-Miller vs 4-Zaugg-Diaconescu
+  100          1.00   9.00 6-Sieg-Herman vs 6-Andre-Andre
+  200          5.50   4.50 7-Falls-Baker-Harvey vs 10-Christensen-Christie
+  200          5.50   4.50 8-Binney-Tu vs 1-Galer-Vulcan
+  300         10.00   0.00 9-Cline-Hankins vs 3-Matus-VanBennekom
+  200          5.50   4.50 10-Miller-Moore vs 5-Ring-Abernethy
+        620    0.00  10.00 11-Romeo-Klein vs 8-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          8.00   2.00 1-Delfs-Anderson vs 7-Sivapragasam-Stever
+  150          8.00   2.00 2-Gong-Gong vs 9-Tipton-Hesson
+  100          2.50   7.50 3-Stuberg-Fuhrman vs 11-Jacobson-Rind
+  140          5.00   5.00 4-Kuschner-Green vs 2-Ranasaria-Popivanov
+  150          8.00   2.00 5-Haldane-Miller vs 4-Zaugg-Diaconescu
+  140          5.00   5.00 6-Sieg-Herman vs 6-Andre-Andre
+  100          2.50   7.50 7-Falls-Baker-Harvey vs 10-Christensen-Christie
+   50          0.50   9.50 8-Binney-Tu vs 1-Galer-Vulcan
+  140          5.00   5.00 9-Cline-Hankins vs 3-Matus-VanBennekom
+  170         10.00   0.00 10-Miller-Moore vs 5-Ring-Abernethy
+   50          0.50   9.50 11-Romeo-Klein vs 8-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   7.50 1-Delfs-Anderson vs 7-Sivapragasam-Stever
+  660          8.00   2.00 2-Gong-Gong vs 9-Tipton-Hesson
+  660          8.00   2.00 3-Stuberg-Fuhrman vs 11-Jacobson-Rind
+        100    2.50   7.50 4-Kuschner-Green vs 2-Ranasaria-Popivanov
+  630          5.00   5.00 5-Haldane-Miller vs 4-Zaugg-Diaconescu
+  660          8.00   2.00 6-Sieg-Herman vs 6-Andre-Andre
+  660          8.00   2.00 7-Falls-Baker-Harvey vs 10-Christensen-Christie
+        200    0.00  10.00 8-Binney-Tu vs 1-Galer-Vulcan
+        100    2.50   7.50 9-Cline-Hankins vs 3-Matus-VanBennekom
+  660          8.00   2.00 10-Miller-Moore vs 5-Ring-Abernethy
+        100    2.50   7.50 11-Romeo-Klein vs 8-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          7.50   2.50 1-Delfs-Anderson vs 6-Andre-Andre
+         50    2.00   8.00 2-Gong-Gong vs 8-Ford-Eng
+  480          7.50   2.50 3-Stuberg-Fuhrman vs 10-Christensen-Christie
+         50    2.00   8.00 4-Kuschner-Green vs 1-Galer-Vulcan
+  450          5.50   4.50 5-Haldane-Miller vs 3-Matus-VanBennekom
+         50    2.00   8.00 6-Sieg-Herman vs 5-Ring-Abernethy
+         50    2.00   8.00 7-Falls-Baker-Harvey vs 7-Sivapragasam-Stever
+  980          9.50   0.50 8-Binney-Tu vs 11-Jacobson-Rind
+  980          9.50   0.50 9-Cline-Hankins vs 2-Ranasaria-Popivanov
+         50    2.00   8.00 10-Miller-Moore vs 4-Zaugg-Diaconescu
+  450          5.50   4.50 11-Romeo-Klein vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.00   6.00 1-Delfs-Anderson vs 6-Andre-Andre
+        680    4.00   6.00 2-Gong-Gong vs 8-Ford-Eng
+        680    4.00   6.00 3-Stuberg-Fuhrman vs 10-Christensen-Christie
+        680    4.00   6.00 4-Kuschner-Green vs 1-Galer-Vulcan
+        680    4.00   6.00 5-Haldane-Miller vs 3-Matus-VanBennekom
+        680    4.00   6.00 6-Sieg-Herman vs 5-Ring-Abernethy
+  650         10.00   0.00 7-Falls-Baker-Harvey vs 7-Sivapragasam-Stever
+        680    4.00   6.00 8-Binney-Tu vs 11-Jacobson-Rind
+        680    4.00   6.00 9-Cline-Hankins vs 2-Ranasaria-Popivanov
+        680    4.00   6.00 10-Miller-Moore vs 4-Zaugg-Diaconescu
+        650    9.00   1.00 11-Romeo-Klein vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   5.50 1-Delfs-Anderson vs 6-Andre-Andre
+  620          4.50   5.50 2-Gong-Gong vs 8-Ford-Eng
+ 1400         10.00   0.00 3-Stuberg-Fuhrman vs 10-Christensen-Christie
+  620          4.50   5.50 4-Kuschner-Green vs 1-Galer-Vulcan
+  620          4.50   5.50 5-Haldane-Miller vs 3-Matus-VanBennekom
+  620          4.50   5.50 6-Sieg-Herman vs 5-Ring-Abernethy
+  620          4.50   5.50 7-Falls-Baker-Harvey vs 7-Sivapragasam-Stever
+  620          4.50   5.50 8-Binney-Tu vs 11-Jacobson-Rind
+  620          4.50   5.50 9-Cline-Hankins vs 2-Ranasaria-Popivanov
+  620          4.50   5.50 10-Miller-Moore vs 4-Zaugg-Diaconescu
+  620          4.50   5.50 11-Romeo-Klein vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          4.00   6.00 1-Delfs-Anderson vs 5-Ring-Abernethy
+  480          4.00   6.00 2-Gong-Gong vs 7-Sivapragasam-Stever
+  480          4.00   6.00 3-Stuberg-Fuhrman vs 9-Tipton-Hesson
+  480          4.00   6.00 4-Kuschner-Green vs 11-Jacobson-Rind
+  480          4.00   6.00 5-Haldane-Miller vs 2-Ranasaria-Popivanov
+  800         10.00   0.00 6-Sieg-Herman vs 4-Zaugg-Diaconescu
+  480          4.00   6.00 7-Falls-Baker-Harvey vs 6-Andre-Andre
+  480          4.00   6.00 8-Binney-Tu vs 8-Ford-Eng
+  510          9.00   1.00 9-Cline-Hankins vs 1-Galer-Vulcan
+  480          4.00   6.00 10-Miller-Moore vs 3-Matus-VanBennekom
+  480          4.00   6.00 11-Romeo-Klein vs 10-Christensen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680         10.00   0.00 1-Delfs-Anderson vs 5-Ring-Abernethy
+  620          2.00   8.00 2-Gong-Gong vs 7-Sivapragasam-Stever
+  650          6.00   4.00 3-Stuberg-Fuhrman vs 9-Tipton-Hesson
+  650          6.00   4.00 4-Kuschner-Green vs 11-Jacobson-Rind
+  620          2.00   8.00 5-Haldane-Miller vs 2-Ranasaria-Popivanov
+  620          2.00   8.00 6-Sieg-Herman vs 4-Zaugg-Diaconescu
+  650          6.00   4.00 7-Falls-Baker-Harvey vs 6-Andre-Andre
+  660          8.50   1.50 8-Binney-Tu vs 8-Ford-Eng
+  620          2.00   8.00 9-Cline-Hankins vs 1-Galer-Vulcan
+  660          8.50   1.50 10-Miller-Moore vs 3-Matus-VanBennekom
+  620          2.00   8.00 11-Romeo-Klein vs 10-Christensen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          8.00   2.00 1-Delfs-Anderson vs 5-Ring-Abernethy
+        170    2.00   8.00 2-Gong-Gong vs 7-Sivapragasam-Stever
+        170    2.00   8.00 3-Stuberg-Fuhrman vs 9-Tipton-Hesson
+        140    6.00   4.00 4-Kuschner-Green vs 11-Jacobson-Rind
+  100          9.50   0.50 5-Haldane-Miller vs 2-Ranasaria-Popivanov
+        140    6.00   4.00 6-Sieg-Herman vs 4-Zaugg-Diaconescu
+        170    2.00   8.00 7-Falls-Baker-Harvey vs 6-Andre-Andre
+        170    2.00   8.00 8-Binney-Tu vs 8-Ford-Eng
+  100          9.50   0.50 9-Cline-Hankins vs 1-Galer-Vulcan
+        140    6.00   4.00 10-Miller-Moore vs 3-Matus-VanBennekom
+        170    2.00   8.00 11-Romeo-Klein vs 10-Christensen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620   10.00   0.00 1-Delfs-Anderson vs 4-Zaugg-Diaconescu
+        650    6.00   4.00 2-Gong-Gong vs 6-Andre-Andre
+        650    6.00   4.00 3-Stuberg-Fuhrman vs 8-Ford-Eng
+        650    6.00   4.00 4-Kuschner-Green vs 10-Christensen-Christie
+        680    1.00   9.00 5-Haldane-Miller vs 1-Galer-Vulcan
+        650    6.00   4.00 6-Sieg-Herman vs 3-Matus-VanBennekom
+        650    6.00   4.00 7-Falls-Baker-Harvey vs 5-Ring-Abernethy
+        650    6.00   4.00 8-Binney-Tu vs 7-Sivapragasam-Stever
+        680    1.00   9.00 9-Cline-Hankins vs 9-Tipton-Hesson
+        650    6.00   4.00 10-Miller-Moore vs 2-Ranasaria-Popivanov
+        680    1.00   9.00 11-Romeo-Klein vs 11-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.00   7.00 1-Delfs-Anderson vs 4-Zaugg-Diaconescu
+  870         10.00   0.00 2-Gong-Gong vs 6-Andre-Andre
+        100    1.00   9.00 3-Stuberg-Fuhrman vs 8-Ford-Eng
+  140          7.00   3.00 4-Kuschner-Green vs 10-Christensen-Christie
+  100          4.50   5.50 5-Haldane-Miller vs 1-Galer-Vulcan
+  100          4.50   5.50 6-Sieg-Herman vs 3-Matus-VanBennekom
+  200          8.50   1.50 7-Falls-Baker-Harvey vs 5-Ring-Abernethy
+        100    1.00   9.00 8-Binney-Tu vs 7-Sivapragasam-Stever
+  200          8.50   1.50 9-Cline-Hankins vs 9-Tipton-Hesson
+  110          6.00   4.00 10-Miller-Moore vs 2-Ranasaria-Popivanov
+        100    1.00   9.00 11-Romeo-Klein vs 11-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    1.00   9.00 1-Delfs-Anderson vs 4-Zaugg-Diaconescu
+        480    6.00   4.00 2-Gong-Gong vs 6-Andre-Andre
+        980    1.00   9.00 3-Stuberg-Fuhrman vs 8-Ford-Eng
+        480    6.00   4.00 4-Kuschner-Green vs 10-Christensen-Christie
+   50          9.50   0.50 5-Haldane-Miller vs 1-Galer-Vulcan
+        480    6.00   4.00 6-Sieg-Herman vs 3-Matus-VanBennekom
+        980    1.00   9.00 7-Falls-Baker-Harvey vs 5-Ring-Abernethy
+   50          9.50   0.50 8-Binney-Tu vs 7-Sivapragasam-Stever
+        800    3.00   7.00 9-Cline-Hankins vs 9-Tipton-Hesson
+        480    6.00   4.00 10-Miller-Moore vs 2-Ranasaria-Popivanov
+        480    6.00   4.00 11-Romeo-Klein vs 11-Jacobson-Rind
+----------------------------------------------------------------------
