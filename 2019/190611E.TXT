@@ -1,13 +1,13 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>June 11, 2019      |CLUB NO.>158048    | 06/11/2019 22:40
+DATE>June 11, 2019      |CLUB NO.>158048    | 06/18/2019 18:55
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
 AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=16/B=12/C=5                     ,---,-------------------------,------,---------,
+PAIRS IN STRAT A=16/B=11/C=4                     ,---,-------------------------,------,---------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
@@ -23,23 +23,23 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  6 Stanford Christie      Douglas Kuschner         A    .     .     .     84.00  46.15          
 
- 7 Arthur Gong            Rui Gong                 C    .     .     2     86.00  47.25  0.28(C) 
+ 7 Arthur Gong            Rui Gong                 C    .     .     1     86.00  47.25  0.32(C) 
 
  8 Mike Christensen       Mike Ring                A    1     .     .    121.50  66.76  1.50(A) 
 
- 9 Lily Andre             Jim Andre                C   3/4   2/3    1    103.00  56.59  0.68(A) 
+ 9 Lily Andre             Jim Andre                A   3/4    .     .    103.00  56.59  0.68(A) 
 
 10 John McCaslin          Grant Davis              B    .     .     .     77.00  42.31          
 
 11 Gary Haldane           Sharon Miller            B    .     .     .     82.50  45.33          
 
-12 Nick Tipton            Galen Hesson             B    .     4     .     91.50  50.27  0.34(B) 
+12 Nick Tipton            Galen Hesson             B    .     3     .     91.50  50.27  0.44(B) 
 
-13 Corneliu Galer         Bogdan Vulcan            B    .     5     .     90.00  49.45  0.19(B) 
+13 Corneliu Galer         Bogdan Vulcan            B    .     4     .     90.00  49.45  0.31(B) 
 
-14 Alan Tesler            Brad Rind                C    .     .     .     85.50  46.98          
+14 Alan Tesler            Brad Rind                C    .     .     2     85.50  46.98  0.22(C) 
 
-15 David Hankins          Kevin Cline              B   3/4   2/3    .    103.00  56.59  0.68(A) 
+15 David Hankins          Kevin Cline              B   3/4    2     .    103.00  56.59  0.68(A) 
 
 16 Jeffrey Ford           Marvin Gray              A    6     .     .     95.00  52.20  0.27(A) 
 
