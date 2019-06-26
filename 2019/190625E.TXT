@@ -1,0 +1,501 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>June 25, 2019      |CLUB NO.>158048    | 06/25/2019 22:35
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Corneliu Galer         Stanford Christie        A    .     .     .    100.00  41.15          
+
+ 2 Rui Gong               Arthur Gong              C    .     .     .    116.00  47.74          
+
+ 3 Karen Westerlund       Joel Fuhrman             B    .     .     .    101.00  41.56          
+
+ 4 Gary Haldane           Sharon Miller            B    .     .     .    118.00  48.56          
+
+ 5 David Binney           David Green              B    1     1     .    145.50  59.88  1.00(A) 
+
+ 6 Kevin Cline            David Hankins            B    2     2     .    145.00  59.67  0.70(A) 
+
+ 7 John McCaslin          Grant Davis              C    .     .     2    119.50  49.18  0.22(C) 
+
+ 8 Tracey Guice           Ivy French               C    .     .     .    101.00  41.56          
+
+ 9 William Campbell       Nelson Davis             C    4     3     1    124.50  51.23  0.35(A) 
+
+10 Ray Miller             Jennifer Chalfan         A    3     .     .    144.50  59.47  0.50(A) 
+
+
+                                          Totals                        1215.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>June 25, 2019      |CLUB NO.>158048    | 06/25/2019 22:35
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Jenni Carmichael         A    .     .     .     94.00  38.68          
+
+ 2 Nick Tipton            Galen Hesson             B    .     .     .     90.00  37.04          
+
+ 3 Renae Gunstone-White   Becky Stevens            B    .     .     .    102.00  41.98          
+
+ 4 David Taylor           Sue Anderson             B    3     3     .    137.00  56.38  0.50(A) 
+
+ 5 Jeffrey Ford           Kim Eng                  A    .     .     .    118.50  48.77          
+
+ 6 Brian Zaugg            Mike Ring                B    1     1     .    144.00  59.26  1.00(A) 
+
+ 7 Adam Ruprecht          Christopher Jarvis       C    .     .     1    130.00  53.50  0.16(C) 
+
+ 8 Terry Jacobson         Brad Rind                C    .     .     .    122.50  50.41          
+
+ 9 Gregory Herman         Eric Sieg                B    4     .     .    135.00  55.56  0.35(A) 
+
+10 Mike Christensen       David Wright             B    2     2     .    142.00  58.44  0.70(A) 
+
+
+                                          Totals                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   9.00 1-Galer-Christie vs 1-Delfs-Carmichael
+        200    5.00   4.00 2-Gong-Gong vs 4-Taylor-Anderson
+        480    1.00   8.00 3-Westerlund-Fuhrman vs 6-Zaugg-Ring
+        460    2.00   7.00 4-Haldane-Miller vs 8-Jacobson-Rind
+        420    4.00   5.00 5-Binney-Green vs 10-Christensen-Wright
+        170    6.50   2.50 6-Cline-Hankins vs 3-Gunstone-White-Stevens
+        130    8.00   1.00 7-McCaslin-Davis vs 5-Ford-Eng
+        450    3.00   6.00 8-Guice-French vs 7-Ruprecht-Jarvis
+        170    6.50   2.50 9-Campbell-Davis vs 9-Herman-Sieg
+   50          9.00   0.00 10-Miller-Chalfan vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  790          9.00   0.00 1-Galer-Christie vs 1-Delfs-Carmichael
+  120          2.50   6.50 2-Gong-Gong vs 4-Taylor-Anderson
+   50          1.00   8.00 3-Westerlund-Fuhrman vs 6-Zaugg-Ring
+  180          7.00   2.00 4-Haldane-Miller vs 8-Jacobson-Rind
+  620          8.00   1.00 5-Binney-Green vs 10-Christensen-Wright
+  150          5.50   3.50 6-Cline-Hankins vs 3-Gunstone-White-Stevens
+  140          4.00   5.00 7-McCaslin-Davis vs 5-Ford-Eng
+  120          2.50   6.50 8-Guice-French vs 7-Ruprecht-Jarvis
+        140    0.00   9.00 9-Campbell-Davis vs 9-Herman-Sieg
+  150          5.50   3.50 10-Miller-Chalfan vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   6.00 1-Galer-Christie vs 1-Delfs-Carmichael
+        200    0.00   9.00 2-Gong-Gong vs 4-Taylor-Anderson
+        110    1.50   7.50 3-Westerlund-Fuhrman vs 6-Zaugg-Ring
+  110          7.00   2.00 4-Haldane-Miller vs 8-Jacobson-Rind
+    PASS       5.00   4.00 5-Binney-Green vs 10-Christensen-Wright
+  140          8.50   0.50 6-Cline-Hankins vs 3-Gunstone-White-Stevens
+    PASS       5.00   4.00 7-McCaslin-Davis vs 5-Ford-Eng
+        110    1.50   7.50 8-Guice-French vs 7-Ruprecht-Jarvis
+    PASS       5.00   4.00 9-Campbell-Davis vs 9-Herman-Sieg
+  140          8.50   0.50 10-Miller-Chalfan vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    1.50   7.50 1-Galer-Christie vs 10-Christensen-Wright
+        680    6.50   2.50 2-Gong-Gong vs 2-Tipton-Hesson
+       1370    3.50   5.50 3-Westerlund-Fuhrman vs 5-Ford-Eng
+        230    9.00   0.00 4-Haldane-Miller vs 7-Ruprecht-Jarvis
+       1370    3.50   5.50 5-Binney-Green vs 9-Herman-Sieg
+        680    6.50   2.50 6-Cline-Hankins vs 4-Taylor-Anderson
+        680    6.50   2.50 7-McCaslin-Davis vs 6-Zaugg-Ring
+       1440    0.00   9.00 8-Guice-French vs 8-Jacobson-Rind
+        680    6.50   2.50 9-Campbell-Davis vs 1-Delfs-Carmichael
+       1430    1.50   7.50 10-Miller-Chalfan vs 3-Gunstone-White-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   5.00 1-Galer-Christie vs 10-Christensen-Wright
+  650          8.00   1.00 2-Gong-Gong vs 2-Tipton-Hesson
+        100    1.50   7.50 3-Westerlund-Fuhrman vs 5-Ford-Eng
+        450    0.00   9.00 4-Haldane-Miller vs 7-Ruprecht-Jarvis
+        100    1.50   7.50 5-Binney-Green vs 9-Herman-Sieg
+  650          8.00   1.00 6-Cline-Hankins vs 4-Taylor-Anderson
+  620          4.00   5.00 7-McCaslin-Davis vs 6-Zaugg-Ring
+  630          6.00   3.00 8-Guice-French vs 8-Jacobson-Rind
+  650          8.00   1.00 9-Campbell-Davis vs 1-Delfs-Carmichael
+  620          4.00   5.00 10-Miller-Chalfan vs 3-Gunstone-White-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.00   9.00 1-Galer-Christie vs 10-Christensen-Wright
+  200          9.00   0.00 2-Gong-Gong vs 2-Tipton-Hesson
+        650    4.00   5.00 3-Westerlund-Fuhrman vs 5-Ford-Eng
+        650    4.00   5.00 4-Haldane-Miller vs 7-Ruprecht-Jarvis
+        660    2.00   7.00 5-Binney-Green vs 9-Herman-Sieg
+        680    1.00   8.00 6-Cline-Hankins vs 4-Taylor-Anderson
+        630    7.00   2.00 7-McCaslin-Davis vs 6-Zaugg-Ring
+        630    7.00   2.00 8-Guice-French vs 8-Jacobson-Rind
+        650    4.00   5.00 9-Campbell-Davis vs 1-Delfs-Carmichael
+        630    7.00   2.00 10-Miller-Chalfan vs 3-Gunstone-White-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.50   5.50 1-Galer-Christie vs 9-Herman-Sieg
+  140          7.00   2.00 2-Gong-Gong vs 1-Delfs-Carmichael
+  110          3.50   5.50 3-Westerlund-Fuhrman vs 3-Gunstone-White-Stevens
+        140    1.00   8.00 4-Haldane-Miller vs 6-Zaugg-Ring
+  140          7.00   2.00 5-Binney-Green vs 8-Jacobson-Rind
+        140    1.00   8.00 6-Cline-Hankins vs 5-Ford-Eng
+  140          7.00   2.00 7-McCaslin-Davis vs 7-Ruprecht-Jarvis
+  140          7.00   2.00 8-Guice-French vs 10-Christensen-Wright
+  140          7.00   2.00 9-Campbell-Davis vs 2-Tipton-Hesson
+        140    1.00   8.00 10-Miller-Chalfan vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   7.00 1-Galer-Christie vs 9-Herman-Sieg
+  110          9.00   0.00 2-Gong-Gong vs 1-Delfs-Carmichael
+   90          7.50   1.50 3-Westerlund-Fuhrman vs 3-Gunstone-White-Stevens
+         50    5.00   4.00 4-Haldane-Miller vs 6-Zaugg-Ring
+         50    5.00   4.00 5-Binney-Green vs 8-Jacobson-Rind
+        140    2.00   7.00 6-Cline-Hankins vs 5-Ford-Eng
+        140    2.00   7.00 7-McCaslin-Davis vs 7-Ruprecht-Jarvis
+        200    0.00   9.00 8-Guice-French vs 10-Christensen-Wright
+         50    5.00   4.00 9-Campbell-Davis vs 2-Tipton-Hesson
+   90          7.50   1.50 10-Miller-Chalfan vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   7.00 1-Galer-Christie vs 9-Herman-Sieg
+        120    1.00   8.00 2-Gong-Gong vs 1-Delfs-Carmichael
+         50    4.00   5.00 3-Westerlund-Fuhrman vs 3-Gunstone-White-Stevens
+         50    4.00   5.00 4-Haldane-Miller vs 6-Zaugg-Ring
+  110          7.00   2.00 5-Binney-Green vs 8-Jacobson-Rind
+  100          6.00   3.00 6-Cline-Hankins vs 5-Ford-Eng
+  200          8.00   1.00 7-McCaslin-Davis vs 7-Ruprecht-Jarvis
+        140    0.00   9.00 8-Guice-French vs 10-Christensen-Wright
+  300          9.00   0.00 9-Campbell-Davis vs 2-Tipton-Hesson
+         50    4.00   5.00 10-Miller-Chalfan vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   7.00 1-Galer-Christie vs 8-Jacobson-Rind
+  650          7.50   1.50 2-Gong-Gong vs 10-Christensen-Wright
+  200          2.00   7.00 3-Westerlund-Fuhrman vs 2-Tipton-Hesson
+  200          2.00   7.00 4-Haldane-Miller vs 4-Taylor-Anderson
+  650          7.50   1.50 5-Binney-Green vs 7-Ruprecht-Jarvis
+  650          7.50   1.50 6-Cline-Hankins vs 6-Zaugg-Ring
+  620          5.00   4.00 7-McCaslin-Davis vs 9-Herman-Sieg
+  200          2.00   7.00 8-Guice-French vs 1-Delfs-Carmichael
+  200          2.00   7.00 9-Campbell-Davis vs 3-Gunstone-White-Stevens
+  650          7.50   1.50 10-Miller-Chalfan vs 5-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   9.00 1-Galer-Christie vs 8-Jacobson-Rind
+        100    1.50   7.50 2-Gong-Gong vs 10-Christensen-Wright
+  450          7.00   2.00 3-Westerlund-Fuhrman vs 2-Tipton-Hesson
+  100          4.50   4.50 4-Haldane-Miller vs 4-Taylor-Anderson
+  650          9.00   0.00 5-Binney-Green vs 7-Ruprecht-Jarvis
+         50    3.00   6.00 6-Cline-Hankins vs 6-Zaugg-Ring
+        100    1.50   7.50 7-McCaslin-Davis vs 9-Herman-Sieg
+  100          4.50   4.50 8-Guice-French vs 1-Delfs-Carmichael
+  450          7.00   2.00 9-Campbell-Davis vs 3-Gunstone-White-Stevens
+  450          7.00   2.00 10-Miller-Chalfan vs 5-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   5.00 1-Galer-Christie vs 8-Jacobson-Rind
+        450    1.00   8.00 2-Gong-Gong vs 10-Christensen-Wright
+        170    5.50   3.50 3-Westerlund-Fuhrman vs 2-Tipton-Hesson
+        430    3.00   6.00 4-Haldane-Miller vs 4-Taylor-Anderson
+        120    9.00   0.00 5-Binney-Green vs 7-Ruprecht-Jarvis
+        450    1.00   8.00 6-Cline-Hankins vs 6-Zaugg-Ring
+        450    1.00   8.00 7-McCaslin-Davis vs 9-Herman-Sieg
+        170    5.50   3.50 8-Guice-French vs 1-Delfs-Carmichael
+        150    7.00   2.00 9-Campbell-Davis vs 3-Gunstone-White-Stevens
+        140    8.00   1.00 10-Miller-Chalfan vs 5-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   8.00 1-Galer-Christie vs 7-Ruprecht-Jarvis
+        200    1.00   8.00 2-Gong-Gong vs 9-Herman-Sieg
+  100          7.00   2.00 3-Westerlund-Fuhrman vs 1-Delfs-Carmichael
+        100    4.50   4.50 4-Haldane-Miller vs 3-Gunstone-White-Stevens
+  140          8.50   0.50 5-Binney-Green vs 5-Ford-Eng
+  140          8.50   0.50 6-Cline-Hankins vs 8-Jacobson-Rind
+        100    4.50   4.50 7-McCaslin-Davis vs 10-Christensen-Wright
+        100    4.50   4.50 8-Guice-French vs 2-Tipton-Hesson
+        200    1.00   8.00 9-Campbell-Davis vs 4-Taylor-Anderson
+        100    4.50   4.50 10-Miller-Chalfan vs 6-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        230    7.00   2.00 1-Galer-Christie vs 7-Ruprecht-Jarvis
+   50          9.00   0.00 2-Gong-Gong vs 9-Herman-Sieg
+        450    2.00   7.00 3-Westerlund-Fuhrman vs 1-Delfs-Carmichael
+        450    2.00   7.00 4-Haldane-Miller vs 3-Gunstone-White-Stevens
+        400    6.00   3.00 5-Binney-Green vs 5-Ford-Eng
+        450    2.00   7.00 6-Cline-Hankins vs 8-Jacobson-Rind
+        430    5.00   4.00 7-McCaslin-Davis vs 10-Christensen-Wright
+        450    2.00   7.00 8-Guice-French vs 2-Tipton-Hesson
+        200    8.00   1.00 9-Campbell-Davis vs 4-Taylor-Anderson
+        450    2.00   7.00 10-Miller-Chalfan vs 6-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    0.00   9.00 1-Galer-Christie vs 7-Ruprecht-Jarvis
+        150    3.00   6.00 2-Gong-Gong vs 9-Herman-Sieg
+   50          7.00   2.00 3-Westerlund-Fuhrman vs 1-Delfs-Carmichael
+  150          9.00   0.00 4-Haldane-Miller vs 3-Gunstone-White-Stevens
+  100          8.00   1.00 5-Binney-Green vs 5-Ford-Eng
+        200    1.50   7.50 6-Cline-Hankins vs 8-Jacobson-Rind
+        200    1.50   7.50 7-McCaslin-Davis vs 10-Christensen-Wright
+        100    5.50   3.50 8-Guice-French vs 2-Tipton-Hesson
+        100    5.50   3.50 9-Campbell-Davis vs 4-Taylor-Anderson
+        110    4.00   5.00 10-Miller-Chalfan vs 6-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          8.00   1.00 1-Galer-Christie vs 6-Zaugg-Ring
+  170          6.00   3.00 2-Gong-Gong vs 8-Jacobson-Rind
+  170          6.00   3.00 3-Westerlund-Fuhrman vs 10-Christensen-Wright
+         50    0.00   9.00 4-Haldane-Miller vs 2-Tipton-Hesson
+  140          2.50   6.50 5-Binney-Green vs 4-Taylor-Anderson
+  590          9.00   0.00 6-Cline-Hankins vs 9-Herman-Sieg
+  140          2.50   6.50 7-McCaslin-Davis vs 1-Delfs-Carmichael
+  140          2.50   6.50 8-Guice-French vs 3-Gunstone-White-Stevens
+  140          2.50   6.50 9-Campbell-Davis vs 5-Ford-Eng
+  170          6.00   3.00 10-Miller-Chalfan vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   9.00 1-Galer-Christie vs 6-Zaugg-Ring
+         50    6.50   2.50 2-Gong-Gong vs 8-Jacobson-Rind
+        130    3.00   6.00 3-Westerlund-Fuhrman vs 10-Christensen-Wright
+         50    6.50   2.50 4-Haldane-Miller vs 2-Tipton-Hesson
+        130    3.00   6.00 5-Binney-Green vs 4-Taylor-Anderson
+        130    3.00   6.00 6-Cline-Hankins vs 9-Herman-Sieg
+   50          8.00   1.00 7-McCaslin-Davis vs 1-Delfs-Carmichael
+        130    3.00   6.00 8-Guice-French vs 3-Gunstone-White-Stevens
+        130    3.00   6.00 9-Campbell-Davis vs 5-Ford-Eng
+  140          9.00   0.00 10-Miller-Chalfan vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    5.50   3.50 1-Galer-Christie vs 6-Zaugg-Ring
+        200    0.50   8.50 2-Gong-Gong vs 8-Jacobson-Rind
+        110    3.00   6.00 3-Westerlund-Fuhrman vs 10-Christensen-Wright
+         90    5.50   3.50 4-Haldane-Miller vs 2-Tipton-Hesson
+        110    3.00   6.00 5-Binney-Green vs 4-Taylor-Anderson
+  180          9.00   0.00 6-Cline-Hankins vs 9-Herman-Sieg
+        110    3.00   6.00 7-McCaslin-Davis vs 1-Delfs-Carmichael
+   90          7.00   2.00 8-Guice-French vs 3-Gunstone-White-Stevens
+  100          8.00   1.00 9-Campbell-Davis vs 5-Ford-Eng
+        200    0.50   8.50 10-Miller-Chalfan vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   8.00 1-Galer-Christie vs 5-Ford-Eng
+         50    9.00   0.00 2-Gong-Gong vs 7-Ruprecht-Jarvis
+        130    5.50   3.50 3-Westerlund-Fuhrman vs 9-Herman-Sieg
+        110    7.00   2.00 4-Haldane-Miller vs 1-Delfs-Carmichael
+        150    3.00   6.00 5-Binney-Green vs 3-Gunstone-White-Stevens
+        130    5.50   3.50 6-Cline-Hankins vs 10-Christensen-Wright
+        150    3.00   6.00 7-McCaslin-Davis vs 2-Tipton-Hesson
+        150    3.00   6.00 8-Guice-French vs 4-Taylor-Anderson
+        210    0.00   9.00 9-Campbell-Davis vs 6-Zaugg-Ring
+        100    8.00   1.00 10-Miller-Chalfan vs 8-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   7.00 1-Galer-Christie vs 5-Ford-Eng
+        650    2.00   7.00 2-Gong-Gong vs 7-Ruprecht-Jarvis
+        200    4.00   5.00 3-Westerlund-Fuhrman vs 9-Herman-Sieg
+  600          7.00   2.00 4-Haldane-Miller vs 1-Delfs-Carmichael
+  800          9.00   0.00 5-Binney-Green vs 3-Gunstone-White-Stevens
+        850    0.00   9.00 6-Cline-Hankins vs 10-Christensen-Wright
+  750          8.00   1.00 7-McCaslin-Davis vs 2-Tipton-Hesson
+  300          5.50   3.50 8-Guice-French vs 4-Taylor-Anderson
+  300          5.50   3.50 9-Campbell-Davis vs 6-Zaugg-Ring
+        650    2.00   7.00 10-Miller-Chalfan vs 8-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          8.50   0.50 1-Galer-Christie vs 5-Ford-Eng
+  170          2.00   7.00 2-Gong-Gong vs 7-Ruprecht-Jarvis
+  180          3.50   5.50 3-Westerlund-Fuhrman vs 9-Herman-Sieg
+  180          3.50   5.50 4-Haldane-Miller vs 1-Delfs-Carmichael
+  120          0.00   9.00 5-Binney-Green vs 3-Gunstone-White-Stevens
+  210          6.50   2.50 6-Cline-Hankins vs 10-Christensen-Wright
+  140          1.00   8.00 7-McCaslin-Davis vs 2-Tipton-Hesson
+  210          6.50   2.50 8-Guice-French vs 4-Taylor-Anderson
+  200          5.00   4.00 9-Campbell-Davis vs 6-Zaugg-Ring
+  650          8.50   0.50 10-Miller-Chalfan vs 8-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          8.50   0.50 1-Galer-Christie vs 4-Taylor-Anderson
+        120    0.00   9.00 2-Gong-Gong vs 6-Zaugg-Ring
+         90    3.00   6.00 3-Westerlund-Fuhrman vs 8-Jacobson-Rind
+  100          6.50   2.50 4-Haldane-Miller vs 10-Christensen-Wright
+         90    3.00   6.00 5-Binney-Green vs 2-Tipton-Hesson
+  100          6.50   2.50 6-Cline-Hankins vs 1-Delfs-Carmichael
+  200          8.50   0.50 7-McCaslin-Davis vs 3-Gunstone-White-Stevens
+         90    3.00   6.00 8-Guice-French vs 5-Ford-Eng
+         90    3.00   6.00 9-Campbell-Davis vs 7-Ruprecht-Jarvis
+         90    3.00   6.00 10-Miller-Chalfan vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   9.00 1-Galer-Christie vs 4-Taylor-Anderson
+  140          8.50   0.50 2-Gong-Gong vs 6-Zaugg-Ring
+        100    3.50   5.50 3-Westerlund-Fuhrman vs 8-Jacobson-Rind
+        100    3.50   5.50 4-Haldane-Miller vs 10-Christensen-Wright
+        100    3.50   5.50 5-Binney-Green vs 2-Tipton-Hesson
+  140          8.50   0.50 6-Cline-Hankins vs 1-Delfs-Carmichael
+  120          7.00   2.00 7-McCaslin-Davis vs 3-Gunstone-White-Stevens
+        100    3.50   5.50 8-Guice-French vs 5-Ford-Eng
+        100    3.50   5.50 9-Campbell-Davis vs 7-Ruprecht-Jarvis
+        100    3.50   5.50 10-Miller-Chalfan vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          9.00   0.00 1-Galer-Christie vs 4-Taylor-Anderson
+        100    2.00   7.00 2-Gong-Gong vs 6-Zaugg-Ring
+   50          4.50   4.50 3-Westerlund-Fuhrman vs 8-Jacobson-Rind
+        120    0.50   8.50 4-Haldane-Miller vs 10-Christensen-Wright
+  100          7.00   2.00 5-Binney-Green vs 2-Tipton-Hesson
+  100          7.00   2.00 6-Cline-Hankins vs 1-Delfs-Carmichael
+         50    3.00   6.00 7-McCaslin-Davis vs 3-Gunstone-White-Stevens
+   50          4.50   4.50 8-Guice-French vs 5-Ford-Eng
+        120    0.50   8.50 9-Campbell-Davis vs 7-Ruprecht-Jarvis
+  100          7.00   2.00 10-Miller-Chalfan vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          9.00   0.00 1-Galer-Christie vs 3-Gunstone-White-Stevens
+  100          1.00   8.00 2-Gong-Gong vs 5-Ford-Eng
+  140          4.00   5.00 3-Westerlund-Fuhrman vs 7-Ruprecht-Jarvis
+  200          6.50   2.50 4-Haldane-Miller vs 9-Herman-Sieg
+  200          6.50   2.50 5-Binney-Green vs 1-Delfs-Carmichael
+  200          6.50   2.50 6-Cline-Hankins vs 2-Tipton-Hesson
+  110          2.50   6.50 7-McCaslin-Davis vs 4-Taylor-Anderson
+  200          6.50   2.50 8-Guice-French vs 6-Zaugg-Ring
+  110          2.50   6.50 9-Campbell-Davis vs 8-Jacobson-Rind
+         50    0.00   9.00 10-Miller-Chalfan vs 10-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   6.50 1-Galer-Christie vs 3-Gunstone-White-Stevens
+         90    5.00   4.00 2-Gong-Gong vs 5-Ford-Eng
+        170    0.50   8.50 3-Westerlund-Fuhrman vs 7-Ruprecht-Jarvis
+         90    5.00   4.00 4-Haldane-Miller vs 9-Herman-Sieg
+         90    5.00   4.00 5-Binney-Green vs 1-Delfs-Carmichael
+  100          8.00   1.00 6-Cline-Hankins vs 2-Tipton-Hesson
+        170    0.50   8.50 7-McCaslin-Davis vs 4-Taylor-Anderson
+        140    2.50   6.50 8-Guice-French vs 6-Zaugg-Ring
+         70    7.00   2.00 9-Campbell-Davis vs 8-Jacobson-Rind
+  120          9.00   0.00 10-Miller-Chalfan vs 10-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    7.00   2.00 1-Galer-Christie vs 3-Gunstone-White-Stevens
+        480    2.50   6.50 2-Gong-Gong vs 5-Ford-Eng
+        480    2.50   6.50 3-Westerlund-Fuhrman vs 7-Ruprecht-Jarvis
+        480    2.50   6.50 4-Haldane-Miller vs 9-Herman-Sieg
+   50          9.00   0.00 5-Binney-Green vs 1-Delfs-Carmichael
+        450    7.00   2.00 6-Cline-Hankins vs 2-Tipton-Hesson
+        480    2.50   6.50 7-McCaslin-Davis vs 4-Taylor-Anderson
+        480    2.50   6.50 8-Guice-French vs 6-Zaugg-Ring
+        480    2.50   6.50 9-Campbell-Davis vs 8-Jacobson-Rind
+        450    7.00   2.00 10-Miller-Chalfan vs 10-Christensen-Wright
+----------------------------------------------------------------------
