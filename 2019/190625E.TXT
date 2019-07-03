@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>June 25, 2019      |CLUB NO.>158048    | 06/25/2019 22:35
+DATE>June 25, 2019      |CLUB NO.>158048    | 07/02/2019 22:37
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,31 +11,31 @@ PAIRS IN STRAT A=10/B=8/C=4                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Corneliu Galer         Stanford Christie        A    .     .     .    100.00  41.15          
+ 1 Corneliu Galer         Stanford Christie        A    .     .     .     99.00  40.74          
 
- 2 Rui Gong               Arthur Gong              C    .     .     .    116.00  47.74          
+ 2 Rui Gong               Arthur Gong              C    .     .     .    115.00  47.33          
 
- 3 Karen Westerlund       Joel Fuhrman             B    .     .     .    101.00  41.56          
+ 3 Karen Westerlund       Joel Fuhrman             B    .     .     .    100.00  41.15          
 
- 4 Gary Haldane           Sharon Miller            B    .     .     .    118.00  48.56          
+ 4 Gary Haldane           Sharon Miller            B    4     3     .    127.00  52.26  0.35(A) 
 
- 5 David Binney           David Green              B    1     1     .    145.50  59.88  1.00(A) 
+ 5 David Binney           David Green              B    1     1     .    144.50  59.47  1.00(A) 
 
- 6 Kevin Cline            David Hankins            B    2     2     .    145.00  59.67  0.70(A) 
+ 6 Kevin Cline            David Hankins            B    2     2     .    144.00  59.26  0.70(A) 
 
- 7 John McCaslin          Grant Davis              C    .     .     2    119.50  49.18  0.22(C) 
+ 7 John McCaslin          Grant Davis              C    .     .     2    118.50  48.77  0.22(C) 
 
- 8 Tracey Guice           Ivy French               C    .     .     .    101.00  41.56          
+ 8 Tracey Guice           Ivy French               C    .     .     .    100.00  41.15          
 
- 9 William Campbell       Nelson Davis             C    4     3     1    124.50  51.23  0.35(A) 
+ 9 William Campbell       Nelson Davis             C    .     .     1    123.50  50.82  0.32(C) 
 
-10 Ray Miller             Jennifer Chalfan         A    3     .     .    144.50  59.47  0.50(A) 
+10 Ray Miller             Jennifer Chalfan         A    3     .     .    143.50  59.05  0.50(A) 
 
 
                                           Totals                        1215.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>June 25, 2019      |CLUB NO.>158048    | 06/25/2019 22:35
+DATE>June 25, 2019      |CLUB NO.>158048    | 07/02/2019 22:37
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -45,25 +45,25 @@ PAIRS IN STRAT A=10/B=8/C=2                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Bryan Delfs            Jenni Carmichael         A    .     .     .     94.00  38.68          
+ 1 Bryan Delfs            Jenni Carmichael         A    .     .     .     95.00  39.09          
 
- 2 Nick Tipton            Galen Hesson             B    .     .     .     90.00  37.04          
+ 2 Nick Tipton            Galen Hesson             B    .     .     .     91.00  37.45          
 
- 3 Renae Gunstone-White   Becky Stevens            B    .     .     .    102.00  41.98          
+ 3 Renae Gunstone-White   Becky Stevens            B    .     .     .    103.00  42.39          
 
- 4 David Taylor           Sue Anderson             B    3     3     .    137.00  56.38  0.50(A) 
+ 4 David Taylor           Sue Anderson             B    3     3     .    138.00  56.79  0.50(A) 
 
- 5 Jeffrey Ford           Kim Eng                  A    .     .     .    118.50  48.77          
+ 5 Jeffrey Ford           Kim Eng                  A    .     .     .    119.50  49.18          
 
- 6 Brian Zaugg            Mike Ring                B    1     1     .    144.00  59.26  1.00(A) 
+ 6 Brian Zaugg            Mike Ring                B    1     1     .    145.00  59.67  1.00(A) 
 
- 7 Adam Ruprecht          Christopher Jarvis       C    .     .     1    130.00  53.50  0.16(C) 
+ 7 Adam Ruprecht          Christopher Jarvis       C    .     .     .    121.00  49.79          
 
- 8 Terry Jacobson         Brad Rind                C    .     .     .    122.50  50.41          
+ 8 Terry Jacobson         Brad Rind                C    .     .     1    123.50  50.82  0.16(C) 
 
- 9 Gregory Herman         Eric Sieg                B    4     .     .    135.00  55.56  0.35(A) 
+ 9 Gregory Herman         Eric Sieg                B    4     .     .    136.00  55.97  0.35(A) 
 
-10 Mike Christensen       David Wright             B    2     2     .    142.00  58.44  0.70(A) 
+10 Mike Christensen       David Wright             B    2     2     .    143.00  58.85  0.70(A) 
 
 
                                           Totals                        1215.00       
@@ -136,16 +136,16 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  620          4.00   5.00 1-Galer-Christie vs 10-Christensen-Wright
-  650          8.00   1.00 2-Gong-Gong vs 2-Tipton-Hesson
-        100    1.50   7.50 3-Westerlund-Fuhrman vs 5-Ford-Eng
-        450    0.00   9.00 4-Haldane-Miller vs 7-Ruprecht-Jarvis
-        100    1.50   7.50 5-Binney-Green vs 9-Herman-Sieg
-  650          8.00   1.00 6-Cline-Hankins vs 4-Taylor-Anderson
-  620          4.00   5.00 7-McCaslin-Davis vs 6-Zaugg-Ring
-  630          6.00   3.00 8-Guice-French vs 8-Jacobson-Rind
-  650          8.00   1.00 9-Campbell-Davis vs 1-Delfs-Carmichael
-  620          4.00   5.00 10-Miller-Chalfan vs 3-Gunstone-White-Stevens
+  620          3.00   6.00 1-Galer-Christie vs 10-Christensen-Wright
+  650          7.00   2.00 2-Gong-Gong vs 2-Tipton-Hesson
+        100    0.50   8.50 3-Westerlund-Fuhrman vs 5-Ford-Eng
+  660          9.00   0.00 4-Haldane-Miller vs 7-Ruprecht-Jarvis
+        100    0.50   8.50 5-Binney-Green vs 9-Herman-Sieg
+  650          7.00   2.00 6-Cline-Hankins vs 4-Taylor-Anderson
+  620          3.00   6.00 7-McCaslin-Davis vs 6-Zaugg-Ring
+  630          5.00   4.00 8-Guice-French vs 8-Jacobson-Rind
+  650          7.00   2.00 9-Campbell-Davis vs 1-Delfs-Carmichael
+  620          3.00   6.00 10-Miller-Chalfan vs 3-Gunstone-White-Stevens
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 6
