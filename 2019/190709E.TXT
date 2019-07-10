@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 9, 2019       |CLUB NO.>158048    | 07/09/2019 22:29
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim TBZ         |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=6/C=0                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Eric Sieg              Kim Eng                  A   Q           3/4    .     .   |  3/4    .     .     63.50  52.92  0.79Red 
+                                                                                                                        0.78Blk 
+ 2 Chris Pesce            Rex Tu                   B   Q   Q        .     .     .   |   .     .     .     60.50  50.42          
+
+ 3 Jeffrey Ford           Dave Setterholm          A   Q            2     .     .   |   2     .     .     65.00  54.17  1.20Red 
+                                                                                                                        1.19Blk 
+ 4 Valerie Lycette        Lorenzo Migliorini       B                .     .     .   |   .     .     .     51.00  42.50          
+
+ 5 David Walker           Joel Fuhrman             A   Q            5     .     .   |   5     .     .     62.50  52.08  0.51Red 
+                                                                                                                        0.50Blk 
+ 6 Ray Miller             Ann Romeo                A   Q            .     .     .   |   .     .     .     62.00  51.67          
+
+ 7 Fan Zhang              Min Zheng                B                .     .     .   |   .     .     .     59.00  49.17          
+
+ 8 Shawn Abernethy        Brian Zaugg              A   Q            .     .     .   |   .     .     .     62.00  51.67          
+
+ 9 Kevin Cline            David Hankins            B                .     .     .   |   .     .     .     50.00  41.67          
+
+
+
+11 Lily Andre             Jim Andre                A                .     .     .   |   .     .     .     54.00  45.00          
+
+12 Nick Tipton            Galen Hesson             B   Q   Q        .     2     .   |   .     2     .     61.00  50.83  0.64Red 
+                                                                                                                        0.64Blk 
+13 Mike Christensen       Kevin Castner            A   Q           3/4    .     .   |  3/4    .     .     63.50  52.92  0.79Red 
+                                                                                                                        0.78Blk 
+14 John McCaslin          Grant Davis              B   Q   Q        1     1     .   |   1     1     .     66.00  55.00  1.60Red 
+                                                                                                                        1.59Blk 
+
+                                          Totals                                                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  590          4.50   0.50 1-Sieg-Eng vs 3-Ford-Setterholm
+         50    1.00   4.00 2-Pesce-Tu vs 6-Miller-Romeo
+  420          2.00   3.00 4-Lycette-Migliorini vs 9-Cline-Hankins
+        150    0.00   5.00 5-Walker-Fuhrman vs 12-Tipton-Hesson
+  450          3.00   2.00 7-Zhang-Zheng vs 8-Abernethy-Zaugg
+  590          4.50   0.50 14-McCaslin-Davis vs 11-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.50   1.50 1-Sieg-Eng vs 3-Ford-Setterholm
+        430    3.50   1.50 2-Pesce-Tu vs 6-Miller-Romeo
+        460    1.00   4.00 4-Lycette-Migliorini vs 9-Cline-Hankins
+        460    1.00   4.00 5-Walker-Fuhrman vs 12-Tipton-Hesson
+        460    1.00   4.00 7-Zhang-Zheng vs 8-Abernethy-Zaugg
+  100          5.00   0.00 14-McCaslin-Davis vs 11-Andre-Andre
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.50   2.50 1-Sieg-Eng vs 11-Andre-Andre
+  430          4.50   0.50 2-Pesce-Tu vs 4-Lycette-Migliorini
+         50    0.50   4.50 3-Ford-Setterholm vs 7-Zhang-Zheng
+         50    0.50   4.50 6-Miller-Romeo vs 13-Christensen-Castner
+  400          2.50   2.50 8-Abernethy-Zaugg vs 9-Cline-Hankins
+  430          4.50   0.50 14-McCaslin-Davis vs 12-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          3.00   2.00 1-Sieg-Eng vs 11-Andre-Andre
+  170          0.00   5.00 2-Pesce-Tu vs 4-Lycette-Migliorini
+  630          3.00   2.00 3-Ford-Setterholm vs 7-Zhang-Zheng
+  630          3.00   2.00 6-Miller-Romeo vs 13-Christensen-Castner
+  630          3.00   2.00 8-Abernethy-Zaugg vs 9-Cline-Hankins
+  630          3.00   2.00 14-McCaslin-Davis vs 12-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   2.50 2-Pesce-Tu vs 12-Tipton-Hesson
+  120          4.50   0.50 3-Ford-Setterholm vs 5-Walker-Fuhrman
+        100    0.50   4.50 4-Lycette-Migliorini vs 8-Abernethy-Zaugg
+  110          2.50   2.50 6-Miller-Romeo vs 11-Andre-Andre
+        100    0.50   4.50 7-Zhang-Zheng vs 1-Sieg-Eng
+  120          4.50   0.50 14-McCaslin-Davis vs 13-Christensen-Castner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.50   1.50 2-Pesce-Tu vs 12-Tipton-Hesson
+        680    0.50   4.50 3-Ford-Setterholm vs 5-Walker-Fuhrman
+        650    3.50   1.50 4-Lycette-Migliorini vs 8-Abernethy-Zaugg
+        650    3.50   1.50 6-Miller-Romeo vs 11-Andre-Andre
+        650    3.50   1.50 7-Zhang-Zheng vs 1-Sieg-Eng
+        680    0.50   4.50 14-McCaslin-Davis vs 13-Christensen-Castner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   2.50 3-Ford-Setterholm vs 13-Christensen-Castner
+  200          5.00   0.00 4-Lycette-Migliorini vs 6-Miller-Romeo
+  170          2.50   2.50 5-Walker-Fuhrman vs 9-Cline-Hankins
+  100          0.00   5.00 7-Zhang-Zheng vs 12-Tipton-Hesson
+  170          2.50   2.50 8-Abernethy-Zaugg vs 2-Pesce-Tu
+  170          2.50   2.50 14-McCaslin-Davis vs 1-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 3-Ford-Setterholm vs 13-Christensen-Castner
+        170    0.00   5.00 4-Lycette-Migliorini vs 6-Miller-Romeo
+  100          4.00   1.00 5-Walker-Fuhrman vs 9-Cline-Hankins
+         50    2.00   3.00 7-Zhang-Zheng vs 12-Tipton-Hesson
+  100          4.00   1.00 8-Abernethy-Zaugg vs 2-Pesce-Tu
+        150    1.00   4.00 14-McCaslin-Davis vs 1-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 4-Lycette-Migliorini vs 1-Sieg-Eng
+  200          5.00   0.00 5-Walker-Fuhrman vs 7-Zhang-Zheng
+  170          4.00   1.00 8-Abernethy-Zaugg vs 13-Christensen-Castner
+  140          2.50   2.50 9-Cline-Hankins vs 3-Ford-Setterholm
+         50    1.00   4.00 11-Andre-Andre vs 12-Tipton-Hesson
+  140          2.50   2.50 14-McCaslin-Davis vs 2-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   1.00 4-Lycette-Migliorini vs 1-Sieg-Eng
+  140          2.50   2.50 5-Walker-Fuhrman vs 7-Zhang-Zheng
+  200          5.00   0.00 8-Abernethy-Zaugg vs 13-Christensen-Castner
+  140          2.50   2.50 9-Cline-Hankins vs 3-Ford-Setterholm
+  110          1.00   4.00 11-Andre-Andre vs 12-Tipton-Hesson
+  100          0.00   5.00 14-McCaslin-Davis vs 2-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   4.00 5-Walker-Fuhrman vs 2-Pesce-Tu
+  110          5.00   0.00 6-Miller-Romeo vs 8-Abernethy-Zaugg
+   50          3.50   1.50 7-Zhang-Zheng vs 11-Andre-Andre
+   50          3.50   1.50 9-Cline-Hankins vs 1-Sieg-Eng
+        100    2.00   3.00 12-Tipton-Hesson vs 13-Christensen-Castner
+        150    0.00   5.00 14-McCaslin-Davis vs 3-Ford-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   4.00 5-Walker-Fuhrman vs 2-Pesce-Tu
+        100    3.00   2.00 6-Miller-Romeo vs 8-Abernethy-Zaugg
+        200    1.00   4.00 7-Zhang-Zheng vs 11-Andre-Andre
+  100          4.00   1.00 9-Cline-Hankins vs 1-Sieg-Eng
+        200    1.00   4.00 12-Tipton-Hesson vs 13-Christensen-Castner
+  140          5.00   0.00 14-McCaslin-Davis vs 3-Ford-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   2.00 6-Miller-Romeo vs 3-Ford-Setterholm
+  650          3.00   2.00 7-Zhang-Zheng vs 9-Cline-Hankins
+  650          3.00   2.00 8-Abernethy-Zaugg vs 12-Tipton-Hesson
+  650          3.00   2.00 11-Andre-Andre vs 5-Walker-Fuhrman
+  650          3.00   2.00 13-Christensen-Castner vs 1-Sieg-Eng
+  620          0.00   5.00 14-McCaslin-Davis vs 4-Lycette-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   5.00 6-Miller-Romeo vs 3-Ford-Setterholm
+  140          3.50   1.50 7-Zhang-Zheng vs 9-Cline-Hankins
+  150          5.00   0.00 8-Abernethy-Zaugg vs 12-Tipton-Hesson
+    PASS       1.00   4.00 11-Andre-Andre vs 5-Walker-Fuhrman
+   50          2.00   3.00 13-Christensen-Castner vs 1-Sieg-Eng
+  140          3.50   1.50 14-McCaslin-Davis vs 4-Lycette-Migliorini
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 1-Sieg-Eng vs 2-Pesce-Tu
+        130    2.00   3.00 7-Zhang-Zheng vs 4-Lycette-Migliorini
+        130    2.00   3.00 9-Cline-Hankins vs 13-Christensen-Castner
+        570    0.00   5.00 11-Andre-Andre vs 3-Ford-Setterholm
+  150          5.00   0.00 12-Tipton-Hesson vs 6-Miller-Romeo
+        130    2.00   3.00 14-McCaslin-Davis vs 5-Walker-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   2.50 1-Sieg-Eng vs 2-Pesce-Tu
+  140          4.00   1.00 7-Zhang-Zheng vs 4-Lycette-Migliorini
+         50    0.50   4.50 9-Cline-Hankins vs 13-Christensen-Castner
+  500          5.00   0.00 11-Andre-Andre vs 3-Ford-Setterholm
+  110          2.50   2.50 12-Tipton-Hesson vs 6-Miller-Romeo
+         50    0.50   4.50 14-McCaslin-Davis vs 5-Walker-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          0.50   4.50 2-Pesce-Tu vs 3-Ford-Setterholm
+  460          3.00   2.00 8-Abernethy-Zaugg vs 5-Walker-Fuhrman
+  490          5.00   0.00 9-Cline-Hankins vs 11-Andre-Andre
+  430          0.50   4.50 12-Tipton-Hesson vs 4-Lycette-Migliorini
+  460          3.00   2.00 13-Christensen-Castner vs 7-Zhang-Zheng
+  460          3.00   2.00 14-McCaslin-Davis vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          3.00   2.00 2-Pesce-Tu vs 3-Ford-Setterholm
+        110    1.00   4.00 8-Abernethy-Zaugg vs 5-Walker-Fuhrman
+        140    0.00   5.00 9-Cline-Hankins vs 11-Andre-Andre
+  140          4.50   0.50 12-Tipton-Hesson vs 4-Lycette-Migliorini
+   50          2.00   3.00 13-Christensen-Castner vs 7-Zhang-Zheng
+  140          4.50   0.50 14-McCaslin-Davis vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.50   3.50 1-Sieg-Eng vs 8-Abernethy-Zaugg
+        630    4.50   0.50 3-Ford-Setterholm vs 4-Lycette-Migliorini
+        660    1.50   3.50 9-Cline-Hankins vs 6-Miller-Romeo
+        630    4.50   0.50 11-Andre-Andre vs 2-Pesce-Tu
+        660    1.50   3.50 13-Christensen-Castner vs 5-Walker-Fuhrman
+        660    1.50   3.50 14-McCaslin-Davis vs 7-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   3.00 1-Sieg-Eng vs 8-Abernethy-Zaugg
+  100          2.00   3.00 3-Ford-Setterholm vs 4-Lycette-Migliorini
+  100          2.00   3.00 9-Cline-Hankins vs 6-Miller-Romeo
+  400          5.00   0.00 11-Andre-Andre vs 2-Pesce-Tu
+  100          2.00   3.00 13-Christensen-Castner vs 5-Walker-Fuhrman
+  100          2.00   3.00 14-McCaslin-Davis vs 7-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.00   5.00 1-Sieg-Eng vs 6-Miller-Romeo
+  100          5.00   0.00 2-Pesce-Tu vs 9-Cline-Hankins
+        450    3.00   2.00 4-Lycette-Migliorini vs 5-Walker-Fuhrman
+        650    1.00   4.00 11-Andre-Andre vs 13-Christensen-Castner
+        590    2.00   3.00 12-Tipton-Hesson vs 3-Ford-Setterholm
+        420    4.00   1.00 14-McCaslin-Davis vs 8-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.50   4.50 1-Sieg-Eng vs 6-Miller-Romeo
+  100          4.50   0.50 2-Pesce-Tu vs 9-Cline-Hankins
+        630    2.00   3.00 4-Lycette-Migliorini vs 5-Walker-Fuhrman
+        650    0.50   4.50 11-Andre-Andre vs 13-Christensen-Castner
+        620    3.00   2.00 12-Tipton-Hesson vs 3-Ford-Setterholm
+  100          4.50   0.50 14-McCaslin-Davis vs 8-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 2-Pesce-Tu vs 7-Zhang-Zheng
+  620          4.00   1.00 5-Walker-Fuhrman vs 6-Miller-Romeo
+        100    0.50   4.50 11-Andre-Andre vs 8-Abernethy-Zaugg
+   90          2.00   3.00 12-Tipton-Hesson vs 1-Sieg-Eng
+  650          5.00   0.00 13-Christensen-Castner vs 4-Lycette-Migliorini
+  170          3.00   2.00 14-McCaslin-Davis vs 9-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   2.00 2-Pesce-Tu vs 7-Zhang-Zheng
+        140    1.00   4.00 5-Walker-Fuhrman vs 6-Miller-Romeo
+  100          4.50   0.50 11-Andre-Andre vs 8-Abernethy-Zaugg
+        200    0.00   5.00 12-Tipton-Hesson vs 1-Sieg-Eng
+         50    2.00   3.00 13-Christensen-Castner vs 4-Lycette-Migliorini
+  100          4.50   0.50 14-McCaslin-Davis vs 9-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   4.00 1-Sieg-Eng vs 5-Walker-Fuhrman
+  400          3.50   1.50 3-Ford-Setterholm vs 8-Abernethy-Zaugg
+         50    1.00   4.00 4-Lycette-Migliorini vs 11-Andre-Andre
+  400          3.50   1.50 6-Miller-Romeo vs 7-Zhang-Zheng
+  430          5.00   0.00 12-Tipton-Hesson vs 9-Cline-Hankins
+         50    1.00   4.00 13-Christensen-Castner vs 2-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   0.50 1-Sieg-Eng vs 5-Walker-Fuhrman
+  140          4.50   0.50 3-Ford-Setterholm vs 8-Abernethy-Zaugg
+        100    1.50   3.50 4-Lycette-Migliorini vs 11-Andre-Andre
+        100    1.50   3.50 6-Miller-Romeo vs 7-Zhang-Zheng
+        670    0.00   5.00 12-Tipton-Hesson vs 9-Cline-Hankins
+  120          3.00   2.00 13-Christensen-Castner vs 2-Pesce-Tu
+----------------------------------------------------------------------
