@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>July 16, 2019      |CLUB NO.>158048    | 07/16/2019 22:27
+DATE>July 16, 2019      |CLUB NO.>158048    | 07/30/2019 18:30
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,29 +11,29 @@ PAIRS IN STRAT A=9/B=7/C=2                       ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Bryan Delfs            Sue Anderson             B    .     .     .     99.50  46.06          
+ 1 Bryan Delfs            Sue Anderson             B    .     .     .     98.50  45.60          
 
- 2 Bogdan Vulcan          Corneliu Galer           B    1     1     .    137.50  63.66  0.90(A) 
+ 2 Bogdan Vulcan          Corneliu Galer           B    1     1     .    136.50  63.19  0.90(A) 
 
- 3 David Binney           Andrea James             A    .     .     .     85.00  39.35          
+ 3 David Binney           Andrea James             A    .     .     .     84.00  38.89          
 
- 4 Kevin Cline            David Hankins            B    3     3     .    132.50  61.34  0.45(A) 
+ 4 Kevin Cline            David Hankins            B    3     3     .    131.50  60.88  0.45(A) 
 
- 5 John McCaslin          Grant Davis              B    .     .     .     81.00  37.50          
+ 5 John McCaslin          Grant Davis              B    .     .     .     80.00  37.04          
 
- 6 Rui Gong               Arthur Gong              C    4     .     .    105.50  48.84  0.32(A) 
+ 6 Rui Gong               Arthur Gong              C    .     .     .    104.50  48.38          
 
- 7 Fan Zhang              Min Zheng                B    2     2     .    137.00  63.43  0.63(A) 
+ 7 Fan Zhang              Min Zheng                B    2     2     .    136.00  62.96  0.63(A) 
 
- 8 Jeffrey Ford           Chris Moore              A    .     .     .    104.00  48.15          
+ 8 Jeffrey Ford           Chris Moore              A    4     .     .    112.00  51.85  0.32(A) 
 
- 9 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     90.00  41.67          
+ 9 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     89.00  41.20          
 
 
                                           Totals                         972.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>July 16, 2019      |CLUB NO.>158048    | 07/16/2019 22:27
+DATE>July 16, 2019      |CLUB NO.>158048    | 07/30/2019 18:30
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -43,23 +43,23 @@ PAIRS IN STRAT A=9/B=7/C=2                       ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Joel Fuhrman           Dave Setterholm          A    .     .     .     98.50  45.60          
+ 1 Joel Fuhrman           Dave Setterholm          A    .     .     .     99.50  46.06          
 
- 2 Thomas Stever          Muhunthan Sivapragasam   B    .     .     .     76.00  35.19          
+ 2 Thomas Stever          Muhunthan Sivapragasam   B    .     .     .     68.00  31.48          
 
- 3 Liliana Diaconescu     Brian Zaugg              B    .     .     .    101.00  46.76          
+ 3 Liliana Diaconescu     Brian Zaugg              B    .     .     .    102.00  47.22          
 
- 4 Shawn Abernethy        Mike Ring                B    .     .     .     93.50  43.29          
+ 4 Shawn Abernethy        Mike Ring                B    .     .     .     94.50  43.75          
 
- 5 John Swanson           Reidun Decker            B    .     .     .    110.50  51.16          
+ 5 John Swanson           Reidun Decker            B    .     .     .    111.50  51.62          
 
- 6 Jai Chakrapani         Robert Noble             C    4     3     .    114.00  52.78  0.32(A) 
+ 6 Jai Chakrapani         Robert Noble             C    4     3     .    115.00  53.24  0.32(A) 
 
- 7 Chris Pesce            Rex Tu                   B    2     1     .    123.00  56.94  0.63(A) 
+ 7 Chris Pesce            Rex Tu                   B    2     1     .    124.00  57.41  0.63(A) 
 
- 8 Mike Christensen       Stanford Christie        A    1     .     .    134.50  62.27  0.90(A) 
+ 8 Mike Christensen       Stanford Christie        A    1     .     .    135.50  62.73  0.90(A) 
 
- 9 Terry Jacobson         Brad Rind                C    3     2     .    121.00  56.02  0.45(A) 
+ 9 Terry Jacobson         Brad Rind                C    3     2     .    122.00  56.48  0.45(A) 
 
 
                                           Totals                         972.00       
@@ -248,15 +248,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  100          6.00   2.00 1-Delfs-Anderson vs 6-Chakrapani-Noble
-  200          7.00   1.00 2-Vulcan-Galer vs 8-Christensen-Christie
-        120    4.00   4.00 3-Binney-James vs 1-Fuhrman-Setterholm
-        110    5.00   3.00 4-Cline-Hankins vs 3-Diaconescu-Zaugg
-        150    3.00   5.00 5-McCaslin-Davis vs 5-Swanson-Decker
-        200    2.00   6.00 6-Gong-Gong vs 7-Pesce-Tu
-  500          8.00   0.00 7-Zhang-Zheng vs 9-Jacobson-Rind
-        870    0.00   8.00 8-Ford-Moore vs 2-Stever-Sivapragasam
-        600    1.00   7.00 9-Falls-Baker-Harvey vs 4-Abernethy-Ring
+  100          5.00   3.00 1-Delfs-Anderson vs 6-Chakrapani-Noble
+  200          6.00   2.00 2-Vulcan-Galer vs 8-Christensen-Christie
+        120    3.00   5.00 3-Binney-James vs 1-Fuhrman-Setterholm
+        110    4.00   4.00 4-Cline-Hankins vs 3-Diaconescu-Zaugg
+        150    2.00   6.00 5-McCaslin-Davis vs 5-Swanson-Decker
+        200    1.00   7.00 6-Gong-Gong vs 7-Pesce-Tu
+  500          7.00   1.00 7-Zhang-Zheng vs 9-Jacobson-Rind
+  870          8.00   0.00 8-Ford-Moore vs 2-Stever-Sivapragasam
+        600    0.00   8.00 9-Falls-Baker-Harvey vs 4-Abernethy-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 14
