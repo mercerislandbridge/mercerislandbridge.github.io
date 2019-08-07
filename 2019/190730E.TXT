@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>July 30, 2019      |CLUB NO.>158048    | 07/30/2019 22:44
+DATE>July 30, 2019      |CLUB NO.>158048    | 08/06/2019 17:53
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,40 +11,40 @@ PAIRS IN STRAT A=15/B=9/C=4                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Nick Tipton            Galen Hesson             B    .     .     .     74.31  47.63          
+ 1 Nick Tipton            Galen Hesson             B    .     .     .     73.05  46.83          
 
- 2 Rui Gong               Arthur Gong              C    .     .     .     73.68  47.23          
+ 2 Rui Gong               Arthur Gong              C    .     .     2     74.93  48.03  0.22(C) 
 
- 3 Ray Miller             Chris Pesce              A    .     .     .     70.41  45.13          
+ 3 Ray Miller             Chris Pesce              A    .     .     .     74.20  47.56          
 
- 4 Mike Christensen       Becky Stevens            A    6     .     .     80.55  51.63  0.25(A) 
+ 4 Mike Christensen       Becky Stevens            A    6     .     .     81.80  52.44  0.25(A) 
 
- 5 Gary Haldane           Sharon Miller            B    .     4     .     75.24  48.23  0.25(B) 
+ 5 Gary Haldane           Sharon Miller            B    .     4     .     75.88  48.64  0.25(B) 
 
  6 Brad Rind              Terry Jacobson           C    3     1     1     87.66  56.19  0.75(A) 
 
- 7 David Roselle          Sue Anderson             B    5     2     .     82.92  53.15  0.50(B) 
+ 7 David Roselle          Sue Anderson             B    5     2     .     82.33  52.78  0.50(B) 
 
- 8 Christopher Jarvis     Adam Ruprecht            B    .     .     .     63.65  40.80          
+ 8 Christopher Jarvis     Adam Ruprecht            B    .     .     .     62.39  39.99          
 
- 9 Jeffrey Ford           Haig Tchamitch           A    1     .     .    105.44  67.59  1.50(A) 
+ 9 Jeffrey Ford           Haig Tchamitch           A    1     .     .    101.65  65.16  1.50(A) 
 
 
 
 11 Kevin Cline            David Hankins            B    .     3     .     76.57  49.08  0.36(B) 
 
-12 Stanford Christie      Ann Romeo                A    2     .     .     92.71  59.43  1.05(A) 
+12 Stanford Christie      Ann Romeo                A    2     .     .     92.07  59.02  1.05(A) 
 
-13 Corneliu Galer         Bogdan Vulcan            C    .     .     2     74.88  48.00  0.22(C) 
+13 Corneliu Galer         Bogdan Vulcan            C    .     .     .     74.88  48.00          
 
 14 David Binney           Rex Tu                   A    .     .     .     65.22  41.81          
 
-15 Muhunthan Sivapragasam Thomas Stever            C    .     .     .     69.07  44.28          
+15 Muhunthan Sivapragasam Thomas Stever            C    .     .     .     69.71  44.69          
 
 16 Brian Zaugg            Chris Moore              A    4     .     .     84.06  53.88  0.53(A) 
 
 
-                                          Totals                        1176.37       
+                                          Totals                        1176.40       
 
  RESULTS OF BOARD 1
 
@@ -297,13 +297,13 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        710    4.17   1.83 2-Gong-Gong vs 1-Tipton-Hesson
-        710    4.17   1.83 4-Christensen-Stevens vs 8-Jarvis-Ruprecht
-       1430    1.83   4.17 5-Haldane-Miller vs 7-Roselle-Anderson
+        710    5.33   0.67 2-Gong-Gong vs 1-Tipton-Hesson
+        710    5.33   0.67 4-Christensen-Stevens vs 8-Jarvis-Ruprecht
+       1430    2.42   3.58 5-Haldane-Miller vs 7-Roselle-Anderson
        1460    0.08   5.92 6-Rind-Jacobson vs 11-Cline-Hankins
- 1440          5.92   0.08 9-Ford-Tchamitch vs 3-Miller-Pesce
+       1430    2.42   3.58 9-Ford-Tchamitch vs 3-Miller-Pesce
   AVE+  AVE+   3.60   3.60 14-Binney-Tu vs 13-Galer-Vulcan
-       1430    1.83   4.17 15-Sivapragasam-Stever vs 12-Christie-Romeo
+       1430    2.42   3.58 15-Sivapragasam-Stever vs 12-Christie-Romeo
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 21

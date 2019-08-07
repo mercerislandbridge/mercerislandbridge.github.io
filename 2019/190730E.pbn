@@ -220,9 +220,9 @@ N  C  9
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT 11
-S NT  1
+S NT  2
 W NT 11
-N NT  2
+N NT  1
 E  S  9
 S  S  3
 W  S  9
@@ -280,9 +280,9 @@ N  C  2
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  6
-S NT  7
+S NT  6
 W NT  6
-N NT  6
+N NT  7
 E  S  6
 S  S  7
 W  S  6
@@ -314,9 +314,9 @@ S NT  7
 W NT  4
 N NT  7
 E  S  5
-S  S  7
+S  S  8
 W  S  5
-N  S  8
+N  S  7
 E  H  4
 S  H  8
 W  H  4
@@ -340,13 +340,13 @@ N  C  8
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  3
-S NT 10
+S NT  9
 W NT  3
-N NT  9
+N NT 10
 E  S  5
-S  S  8
+S  S  7
 W  S  5
-N  S  7
+N  S  8
 E  H  3
 S  H  9
 W  H  3
@@ -430,21 +430,21 @@ N  C 11
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  2
-S NT 11
+S NT  5
 W NT  2
-N NT  5
+N NT 11
 E  S  2
-S  S 11
+S  S  9
 W  S  2
-N  S  9
+N  S 11
 E  H  7
 S  H  5
 W  H  8
 N  H  5
 E  D  2
-S  D 11
+S  D 10
 W  D  2
-N  D 10
+N  D 11
 E  C  8
 S  C  4
 W  C  8
@@ -524,9 +524,9 @@ S NT  8
 W NT  5
 N NT  8
 E  S  6
-S  S  7
+S  S  6
 W  S  6
-N  S  6
+N  S  7
 E  H  8
 S  H  5
 W  H  8
@@ -730,9 +730,9 @@ N  C  7
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  7
-S NT  6
+S NT  5
 W NT  7
-N NT  5
+N NT  6
 E  S  7
 S  S  6
 W  S  7
@@ -910,9 +910,9 @@ N  C  7
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  3
-S NT  9
+S NT  8
 W NT  3
-N NT  8
+N NT  9
 E  S  4
 S  S  9
 W  S  4
@@ -922,13 +922,13 @@ S  H 10
 W  H  3
 N  H 10
 E  D  5
-S  D  8
+S  D  7
 W  D  5
-N  D  7
+N  D  8
 E  C  4
-S  C  9
+S  C  8
 W  C  4
-N  C  8
+N  C  9
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
