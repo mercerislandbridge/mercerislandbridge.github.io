@@ -1,0 +1,501 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>August 6, 2019     |CLUB NO.>158048    | 08/06/2019 22:37
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Junior Fund                  |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=4                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 David Binney           Rex Tu                   A   .     .     .   |   .     .     .     98.50  40.53          
+
+ 2 Corneliu Galer         Bogdan Vulcan            C   4     1     1   |   3     1     1    131.00  53.91  1.74(OB)
+
+ 3 Mike Ring              Mike Christensen         A   3     .     .   |   2     .     .    134.50  55.35  1.64(OA)
+
+ 4 Will Fox               Carol Schroeder          C   .     .     .   |   .     .     .     96.50  39.71          
+
+ 5 John McCaslin          Grant Davis              C   .     .     .   |   .     .     .    118.50  48.77          
+
+ 6 Adam Ruprecht          Christopher Jarvis       B  6/7   3/4    .   |   4     2     .    125.50  51.65  0.86(OB)
+
+ 7 Shawn Abernethy        Ken Christiansen         A   .     .     .   |   .     .     .    116.50  47.94          
+
+ 8 Kevin Cline            David Hankins            B   .     5     .   |   .     .     .    125.00  51.44  0.55(OB)
+
+ 9 Ray Miller             Jeffrey Ford             A   1     .     .   |   1     .     .    146.50  60.29  2.92(OA)
+
+10 Ann Romeo              Elaine Lieberman         C   .     .     .   |   .     .     2    122.50  50.41  0.38(SC)
+
+
+                                          Totals                                           1215.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>August 6, 2019     |CLUB NO.>158048    | 08/06/2019 22:37
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Junior Fund                  |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Jennifer Chalfan         A   .     .     .   |   .     .     .    122.00  50.21          
+
+ 2 Arthur Gong            Eric Sieg                C   .     .     3   |   4     3     .    123.50  50.82  0.60(OC)
+
+ 3 Chris Moore            Kim Eng                  A   2     .     .   |   1     .     .    142.50  58.64  2.19(OA)
+
+ 4 Allen Reiter           Adam Reiter              B   .     .     .   |   .     .     .    118.50  48.77          
+
+ 5 David Roselle          Sue Anderson             B   .     .     .   |   .     .     .    108.50  44.65          
+
+ 6 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .    123.00  50.62          
+
+ 7 Arvind Ranasaria       Peiyush Jain             B   .     .     .   |   .     .     .    107.00  44.03          
+
+ 8 Joel Fuhrman           Dex Stuberg              C   5     2     2   |   2     1     1    126.00  51.85  1.31(OB)
+
+ 9 David Wright           Brian Zaugg              B  6/7   3/4    .   |   3     2     .    125.50  51.65  0.86(OB)
+
+10 Terry Jacobson         Brad Rind                C   .     .     .   |   .     .     .    118.50  48.77          
+
+
+                                          Totals                                           1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   9.00 1-Binney-Tu vs 1-Delfs-Chalfan
+   80          4.00   5.00 2-Galer-Vulcan vs 4-Reiter-Reiter
+  110          6.00   3.00 3-Ring-Christensen vs 6-Tipton-Hesson
+  140          8.00   1.00 4-Fox-Schroeder vs 8-Fuhrman-Stuberg
+  110          6.00   3.00 5-McCaslin-Davis vs 10-Jacobson-Rind
+   50          2.50   6.50 6-Ruprecht-Jarvis vs 3-Moore-Eng
+         50    1.00   8.00 7-Abernethy-Christiansen vs 5-Roselle-Anderson
+   50          2.50   6.50 8-Cline-Hankins vs 7-Ranasaria-Jain
+  470          9.00   0.00 9-Miller-Ford vs 9-Wright-Zaugg
+  110          6.00   3.00 10-Romeo-Lieberman vs 2-Gong-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.00   9.00 1-Binney-Tu vs 1-Delfs-Chalfan
+        170    2.00   7.00 2-Galer-Vulcan vs 4-Reiter-Reiter
+   50          8.50   0.50 3-Ring-Christensen vs 6-Tipton-Hesson
+        140    5.50   3.50 4-Fox-Schroeder vs 8-Fuhrman-Stuberg
+   50          8.50   0.50 5-McCaslin-Davis vs 10-Jacobson-Rind
+        140    5.50   3.50 6-Ruprecht-Jarvis vs 3-Moore-Eng
+        170    2.00   7.00 7-Abernethy-Christiansen vs 5-Roselle-Anderson
+        140    5.50   3.50 8-Cline-Hankins vs 7-Ranasaria-Jain
+        140    5.50   3.50 9-Miller-Ford vs 9-Wright-Zaugg
+        170    2.00   7.00 10-Romeo-Lieberman vs 2-Gong-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.50   6.50 1-Binney-Tu vs 1-Delfs-Chalfan
+        600    2.50   6.50 2-Galer-Vulcan vs 4-Reiter-Reiter
+        600    2.50   6.50 3-Ring-Christensen vs 6-Tipton-Hesson
+        600    2.50   6.50 4-Fox-Schroeder vs 8-Fuhrman-Stuberg
+        170    5.00   4.00 5-McCaslin-Davis vs 10-Jacobson-Rind
+  200          8.00   1.00 6-Ruprecht-Jarvis vs 3-Moore-Eng
+  200          8.00   1.00 7-Abernethy-Christiansen vs 5-Roselle-Anderson
+        140    6.00   3.00 8-Cline-Hankins vs 7-Ranasaria-Jain
+        630    0.00   9.00 9-Miller-Ford vs 9-Wright-Zaugg
+  200          8.00   1.00 10-Romeo-Lieberman vs 2-Gong-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    8.00   1.00 1-Binney-Tu vs 10-Jacobson-Rind
+        790    0.00   9.00 2-Galer-Vulcan vs 2-Gong-Sieg
+        200    9.00   0.00 3-Ring-Christensen vs 5-Roselle-Anderson
+        620    5.00   4.00 4-Fox-Schroeder vs 7-Ranasaria-Jain
+        620    5.00   4.00 5-McCaslin-Davis vs 9-Wright-Zaugg
+        620    5.00   4.00 6-Ruprecht-Jarvis vs 4-Reiter-Reiter
+        620    5.00   4.00 7-Abernethy-Christiansen vs 6-Tipton-Hesson
+        650    1.50   7.50 8-Cline-Hankins vs 8-Fuhrman-Stuberg
+        620    5.00   4.00 9-Miller-Ford vs 1-Delfs-Chalfan
+        650    1.50   7.50 10-Romeo-Lieberman vs 3-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    1.50   7.50 1-Binney-Tu vs 10-Jacobson-Rind
+        450    4.50   4.50 2-Galer-Vulcan vs 2-Gong-Sieg
+        450    4.50   4.50 3-Ring-Christensen vs 5-Roselle-Anderson
+        450    4.50   4.50 4-Fox-Schroeder vs 7-Ranasaria-Jain
+        200    7.00   2.00 5-McCaslin-Davis vs 9-Wright-Zaugg
+        480    1.50   7.50 6-Ruprecht-Jarvis vs 4-Reiter-Reiter
+        450    4.50   4.50 7-Abernethy-Christiansen vs 6-Tipton-Hesson
+   50          8.50   0.50 8-Cline-Hankins vs 8-Fuhrman-Stuberg
+   50          8.50   0.50 9-Miller-Ford vs 1-Delfs-Chalfan
+        500    0.00   9.00 10-Romeo-Lieberman vs 3-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.50   0.50 1-Binney-Tu vs 10-Jacobson-Rind
+         50    6.50   2.50 2-Galer-Vulcan vs 2-Gong-Sieg
+        300    4.00   5.00 3-Ring-Christensen vs 5-Roselle-Anderson
+        930    0.00   9.00 4-Fox-Schroeder vs 7-Ranasaria-Jain
+        790    1.50   7.50 5-McCaslin-Davis vs 9-Wright-Zaugg
+  100          8.50   0.50 6-Ruprecht-Jarvis vs 4-Reiter-Reiter
+        620    3.00   6.00 7-Abernethy-Christiansen vs 6-Tipton-Hesson
+         50    6.50   2.50 8-Cline-Hankins vs 8-Fuhrman-Stuberg
+        790    1.50   7.50 9-Miller-Ford vs 1-Delfs-Chalfan
+        100    5.00   4.00 10-Romeo-Lieberman vs 3-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   4.50 1-Binney-Tu vs 9-Wright-Zaugg
+ 1100          9.00   0.00 2-Galer-Vulcan vs 1-Delfs-Chalfan
+  620          4.50   4.50 3-Ring-Christensen vs 3-Moore-Eng
+  620          4.50   4.50 4-Fox-Schroeder vs 6-Tipton-Hesson
+  620          4.50   4.50 5-McCaslin-Davis vs 8-Fuhrman-Stuberg
+  620          4.50   4.50 6-Ruprecht-Jarvis vs 5-Roselle-Anderson
+        300    0.00   9.00 7-Abernethy-Christiansen vs 7-Ranasaria-Jain
+        100    1.00   8.00 8-Cline-Hankins vs 10-Jacobson-Rind
+ 1080          8.00   1.00 9-Miller-Ford vs 2-Gong-Sieg
+  620          4.50   4.50 10-Romeo-Lieberman vs 4-Reiter-Reiter
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   9.00 1-Binney-Tu vs 9-Wright-Zaugg
+         50    3.00   6.00 2-Galer-Vulcan vs 1-Delfs-Chalfan
+         50    3.00   6.00 3-Ring-Christensen vs 3-Moore-Eng
+         50    3.00   6.00 4-Fox-Schroeder vs 6-Tipton-Hesson
+         50    3.00   6.00 5-McCaslin-Davis vs 8-Fuhrman-Stuberg
+  110          7.50   1.50 6-Ruprecht-Jarvis vs 5-Roselle-Anderson
+  110          7.50   1.50 7-Abernethy-Christiansen vs 7-Ranasaria-Jain
+         50    3.00   6.00 8-Cline-Hankins vs 10-Jacobson-Rind
+  110          7.50   1.50 9-Miller-Ford vs 2-Gong-Sieg
+  110          7.50   1.50 10-Romeo-Lieberman vs 4-Reiter-Reiter
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   6.00 1-Binney-Tu vs 9-Wright-Zaugg
+        100    0.50   8.50 2-Galer-Vulcan vs 1-Delfs-Chalfan
+         50    3.00   6.00 3-Ring-Christensen vs 3-Moore-Eng
+  420          8.50   0.50 4-Fox-Schroeder vs 6-Tipton-Hesson
+  200          6.50   2.50 5-McCaslin-Davis vs 8-Fuhrman-Stuberg
+  420          8.50   0.50 6-Ruprecht-Jarvis vs 5-Roselle-Anderson
+         50    3.00   6.00 7-Abernethy-Christiansen vs 7-Ranasaria-Jain
+  100          5.00   4.00 8-Cline-Hankins vs 10-Jacobson-Rind
+        100    0.50   8.50 9-Miller-Ford vs 2-Gong-Sieg
+  200          6.50   2.50 10-Romeo-Lieberman vs 4-Reiter-Reiter
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    4.50   4.50 1-Binney-Tu vs 8-Fuhrman-Stuberg
+        120    4.50   4.50 2-Galer-Vulcan vs 10-Jacobson-Rind
+        120    4.50   4.50 3-Ring-Christensen vs 2-Gong-Sieg
+        200    1.00   8.00 4-Fox-Schroeder vs 4-Reiter-Reiter
+         90    8.00   1.00 5-McCaslin-Davis vs 7-Ranasaria-Jain
+        100    7.00   2.00 6-Ruprecht-Jarvis vs 6-Tipton-Hesson
+  200          9.00   0.00 7-Abernethy-Christiansen vs 9-Wright-Zaugg
+        200    1.00   8.00 8-Cline-Hankins vs 1-Delfs-Chalfan
+        200    1.00   8.00 9-Miller-Ford vs 3-Moore-Eng
+        120    4.50   4.50 10-Romeo-Lieberman vs 5-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          8.00   1.00 1-Binney-Tu vs 8-Fuhrman-Stuberg
+         50    4.50   4.50 2-Galer-Vulcan vs 10-Jacobson-Rind
+         50    4.50   4.50 3-Ring-Christensen vs 2-Gong-Sieg
+        100    2.50   6.50 4-Fox-Schroeder vs 4-Reiter-Reiter
+        800    0.00   9.00 5-McCaslin-Davis vs 7-Ranasaria-Jain
+  140          8.00   1.00 6-Ruprecht-Jarvis vs 6-Tipton-Hesson
+        180    1.00   8.00 7-Abernethy-Christiansen vs 9-Wright-Zaugg
+  140          8.00   1.00 8-Cline-Hankins vs 1-Delfs-Chalfan
+        100    2.50   6.50 9-Miller-Ford vs 3-Moore-Eng
+   50          6.00   3.00 10-Romeo-Lieberman vs 5-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          1.50   7.50 1-Binney-Tu vs 8-Fuhrman-Stuberg
+  620          4.00   5.00 2-Galer-Vulcan vs 10-Jacobson-Rind
+  630          6.00   3.00 3-Ring-Christensen vs 2-Gong-Sieg
+  600          1.50   7.50 4-Fox-Schroeder vs 4-Reiter-Reiter
+  630          6.00   3.00 5-McCaslin-Davis vs 7-Ranasaria-Jain
+  600          1.50   7.50 6-Ruprecht-Jarvis vs 6-Tipton-Hesson
+  600          1.50   7.50 7-Abernethy-Christiansen vs 9-Wright-Zaugg
+  660          8.50   0.50 8-Cline-Hankins vs 1-Delfs-Chalfan
+  660          8.50   0.50 9-Miller-Ford vs 3-Moore-Eng
+  630          6.00   3.00 10-Romeo-Lieberman vs 5-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.50   5.50 1-Binney-Tu vs 7-Ranasaria-Jain
+  630          7.50   1.50 2-Galer-Vulcan vs 9-Wright-Zaugg
+  630          7.50   1.50 3-Ring-Christensen vs 1-Delfs-Chalfan
+        730    0.00   9.00 4-Fox-Schroeder vs 3-Moore-Eng
+  130          3.50   5.50 5-McCaslin-Davis vs 5-Roselle-Anderson
+  100          1.50   7.50 6-Ruprecht-Jarvis vs 8-Fuhrman-Stuberg
+  630          7.50   1.50 7-Abernethy-Christiansen vs 10-Jacobson-Rind
+  630          7.50   1.50 8-Cline-Hankins vs 2-Gong-Sieg
+  200          5.00   4.00 9-Miller-Ford vs 4-Reiter-Reiter
+  100          1.50   7.50 10-Romeo-Lieberman vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   4.50 1-Binney-Tu vs 7-Ranasaria-Jain
+  140          8.00   1.00 2-Galer-Vulcan vs 9-Wright-Zaugg
+  140          8.00   1.00 3-Ring-Christensen vs 1-Delfs-Chalfan
+   50          4.50   4.50 4-Fox-Schroeder vs 3-Moore-Eng
+         50    2.50   6.50 5-McCaslin-Davis vs 5-Roselle-Anderson
+         90    1.00   8.00 6-Ruprecht-Jarvis vs 8-Fuhrman-Stuberg
+         50    2.50   6.50 7-Abernethy-Christiansen vs 10-Jacobson-Rind
+        110    0.00   9.00 8-Cline-Hankins vs 2-Gong-Sieg
+  140          8.00   1.00 9-Miller-Ford vs 4-Reiter-Reiter
+  100          6.00   3.00 10-Romeo-Lieberman vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   4.50 1-Binney-Tu vs 7-Ranasaria-Jain
+   50          4.50   4.50 2-Galer-Vulcan vs 9-Wright-Zaugg
+   50          4.50   4.50 3-Ring-Christensen vs 1-Delfs-Chalfan
+        200    0.00   9.00 4-Fox-Schroeder vs 3-Moore-Eng
+   50          4.50   4.50 5-McCaslin-Davis vs 5-Roselle-Anderson
+  710          9.00   0.00 6-Ruprecht-Jarvis vs 8-Fuhrman-Stuberg
+   50          4.50   4.50 7-Abernethy-Christiansen vs 10-Jacobson-Rind
+   50          4.50   4.50 8-Cline-Hankins vs 2-Gong-Sieg
+   50          4.50   4.50 9-Miller-Ford vs 4-Reiter-Reiter
+   50          4.50   4.50 10-Romeo-Lieberman vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          8.00   1.00 1-Binney-Tu vs 6-Tipton-Hesson
+  130          4.00   5.00 2-Galer-Vulcan vs 8-Fuhrman-Stuberg
+  110          3.00   6.00 3-Ring-Christensen vs 10-Jacobson-Rind
+        670    0.00   9.00 4-Fox-Schroeder vs 2-Gong-Sieg
+        100    1.00   8.00 5-McCaslin-Davis vs 4-Reiter-Reiter
+  140          5.50   3.50 6-Ruprecht-Jarvis vs 9-Wright-Zaugg
+         50    2.00   7.00 7-Abernethy-Christiansen vs 1-Delfs-Chalfan
+  170          8.00   1.00 8-Cline-Hankins vs 3-Moore-Eng
+  140          5.50   3.50 9-Miller-Ford vs 5-Roselle-Anderson
+  170          8.00   1.00 10-Romeo-Lieberman vs 7-Ranasaria-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1510          2.50   6.50 1-Binney-Tu vs 6-Tipton-Hesson
+ 1520          7.00   2.00 2-Galer-Vulcan vs 8-Fuhrman-Stuberg
+ 1520          7.00   2.00 3-Ring-Christensen vs 10-Jacobson-Rind
+ 1510          2.50   6.50 4-Fox-Schroeder vs 2-Gong-Sieg
+ 1010          0.00   9.00 5-McCaslin-Davis vs 4-Reiter-Reiter
+ 1520          7.00   2.00 6-Ruprecht-Jarvis vs 9-Wright-Zaugg
+ 1510          2.50   6.50 7-Abernethy-Christiansen vs 1-Delfs-Chalfan
+ 1520          7.00   2.00 8-Cline-Hankins vs 3-Moore-Eng
+ 1520          7.00   2.00 9-Miller-Ford vs 5-Roselle-Anderson
+ 1510          2.50   6.50 10-Romeo-Lieberman vs 7-Ranasaria-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   7.50 1-Binney-Tu vs 6-Tipton-Hesson
+   50          1.50   7.50 2-Galer-Vulcan vs 8-Fuhrman-Stuberg
+  110          6.00   3.00 3-Ring-Christensen vs 10-Jacobson-Rind
+  100          4.00   5.00 4-Fox-Schroeder vs 2-Gong-Sieg
+  150          7.00   2.00 5-McCaslin-Davis vs 4-Reiter-Reiter
+        100    0.00   9.00 6-Ruprecht-Jarvis vs 9-Wright-Zaugg
+  100          4.00   5.00 7-Abernethy-Christiansen vs 1-Delfs-Chalfan
+  100          4.00   5.00 8-Cline-Hankins vs 3-Moore-Eng
+  300          8.00   1.00 9-Miller-Ford vs 5-Roselle-Anderson
+  600          9.00   0.00 10-Romeo-Lieberman vs 7-Ranasaria-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          0.00   9.00 1-Binney-Tu vs 5-Roselle-Anderson
+  450          7.00   2.00 2-Galer-Vulcan vs 7-Ranasaria-Jain
+  170          1.50   7.50 3-Ring-Christensen vs 9-Wright-Zaugg
+  420          4.50   4.50 4-Fox-Schroeder vs 1-Delfs-Chalfan
+  460          9.00   0.00 5-McCaslin-Davis vs 3-Moore-Eng
+  170          1.50   7.50 6-Ruprecht-Jarvis vs 10-Jacobson-Rind
+  450          7.00   2.00 7-Abernethy-Christiansen vs 2-Gong-Sieg
+  420          4.50   4.50 8-Cline-Hankins vs 4-Reiter-Reiter
+  450          7.00   2.00 9-Miller-Ford vs 6-Tipton-Hesson
+  200          3.00   6.00 10-Romeo-Lieberman vs 8-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          6.50   2.50 1-Binney-Tu vs 5-Roselle-Anderson
+  130          6.50   2.50 2-Galer-Vulcan vs 7-Ranasaria-Jain
+  130          6.50   2.50 3-Ring-Christensen vs 9-Wright-Zaugg
+  100          4.00   5.00 4-Fox-Schroeder vs 1-Delfs-Chalfan
+        100    2.00   7.00 5-McCaslin-Davis vs 3-Moore-Eng
+        300    0.00   9.00 6-Ruprecht-Jarvis vs 10-Jacobson-Rind
+  200          9.00   0.00 7-Abernethy-Christiansen vs 2-Gong-Sieg
+  130          6.50   2.50 8-Cline-Hankins vs 4-Reiter-Reiter
+         90    3.00   6.00 9-Miller-Ford vs 6-Tipton-Hesson
+        140    1.00   8.00 10-Romeo-Lieberman vs 8-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.00   8.00 1-Binney-Tu vs 5-Roselle-Anderson
+  150          8.00   1.00 2-Galer-Vulcan vs 7-Ranasaria-Jain
+        100    3.00   6.00 3-Ring-Christensen vs 9-Wright-Zaugg
+   50          5.50   3.50 4-Fox-Schroeder vs 1-Delfs-Chalfan
+        110    2.00   7.00 5-McCaslin-Davis vs 3-Moore-Eng
+   50          5.50   3.50 6-Ruprecht-Jarvis vs 10-Jacobson-Rind
+   50          5.50   3.50 7-Abernethy-Christiansen vs 2-Gong-Sieg
+  670          9.00   0.00 8-Cline-Hankins vs 4-Reiter-Reiter
+   50          5.50   3.50 9-Miller-Ford vs 6-Tipton-Hesson
+        800    0.00   9.00 10-Romeo-Lieberman vs 8-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   6.00 1-Binney-Tu vs 4-Reiter-Reiter
+        100    5.50   3.50 2-Galer-Vulcan vs 6-Tipton-Hesson
+        200    0.50   8.50 3-Ring-Christensen vs 8-Fuhrman-Stuberg
+        150    2.00   7.00 4-Fox-Schroeder vs 10-Jacobson-Rind
+        100    5.50   3.50 5-McCaslin-Davis vs 2-Gong-Sieg
+        100    5.50   3.50 6-Ruprecht-Jarvis vs 1-Delfs-Chalfan
+        100    5.50   3.50 7-Abernethy-Christiansen vs 3-Moore-Eng
+        200    0.50   8.50 8-Cline-Hankins vs 5-Roselle-Anderson
+  800          9.00   0.00 9-Miller-Ford vs 7-Ranasaria-Jain
+         50    8.00   1.00 10-Romeo-Lieberman vs 9-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    5.50   3.50 1-Binney-Tu vs 4-Reiter-Reiter
+        630    5.50   3.50 2-Galer-Vulcan vs 6-Tipton-Hesson
+        630    5.50   3.50 3-Ring-Christensen vs 8-Fuhrman-Stuberg
+        630    5.50   3.50 4-Fox-Schroeder vs 10-Jacobson-Rind
+        660    1.50   7.50 5-McCaslin-Davis vs 2-Gong-Sieg
+        630    5.50   3.50 6-Ruprecht-Jarvis vs 1-Delfs-Chalfan
+        660    1.50   7.50 7-Abernethy-Christiansen vs 3-Moore-Eng
+        200    9.00   0.00 8-Cline-Hankins vs 5-Roselle-Anderson
+        800    0.00   9.00 9-Miller-Ford vs 7-Ranasaria-Jain
+        630    5.50   3.50 10-Romeo-Lieberman vs 9-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          5.00   4.00 1-Binney-Tu vs 4-Reiter-Reiter
+  480          5.00   4.00 2-Galer-Vulcan vs 6-Tipton-Hesson
+  450          1.00   8.00 3-Ring-Christensen vs 8-Fuhrman-Stuberg
+  480          5.00   4.00 4-Fox-Schroeder vs 10-Jacobson-Rind
+  490          8.00   1.00 5-McCaslin-Davis vs 2-Gong-Sieg
+  980          9.00   0.00 6-Ruprecht-Jarvis vs 1-Delfs-Chalfan
+  450          1.00   8.00 7-Abernethy-Christiansen vs 3-Moore-Eng
+  480          5.00   4.00 8-Cline-Hankins vs 5-Roselle-Anderson
+  480          5.00   4.00 9-Miller-Ford vs 7-Ranasaria-Jain
+  450          1.00   8.00 10-Romeo-Lieberman vs 9-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   7.00 1-Binney-Tu vs 3-Moore-Eng
+  450          7.50   1.50 2-Galer-Vulcan vs 5-Roselle-Anderson
+  420          5.00   4.00 3-Ring-Christensen vs 7-Ranasaria-Jain
+  400          4.00   5.00 4-Fox-Schroeder vs 9-Wright-Zaugg
+  450          7.50   1.50 5-McCaslin-Davis vs 1-Delfs-Chalfan
+         50    2.00   7.00 6-Ruprecht-Jarvis vs 2-Gong-Sieg
+  450          7.50   1.50 7-Abernethy-Christiansen vs 4-Reiter-Reiter
+        100    0.00   9.00 8-Cline-Hankins vs 6-Tipton-Hesson
+  450          7.50   1.50 9-Miller-Ford vs 8-Fuhrman-Stuberg
+         50    2.00   7.00 10-Romeo-Lieberman vs 10-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    5.00   4.00 1-Binney-Tu vs 3-Moore-Eng
+        140    2.50   6.50 2-Galer-Vulcan vs 5-Roselle-Anderson
+  100          7.00   2.00 3-Ring-Christensen vs 7-Ranasaria-Jain
+        150    0.00   9.00 4-Fox-Schroeder vs 9-Wright-Zaugg
+        140    2.50   6.50 5-McCaslin-Davis vs 1-Delfs-Chalfan
+        140    2.50   6.50 6-Ruprecht-Jarvis vs 2-Gong-Sieg
+  100          7.00   2.00 7-Abernethy-Christiansen vs 4-Reiter-Reiter
+        140    2.50   6.50 8-Cline-Hankins vs 6-Tipton-Hesson
+  100          7.00   2.00 9-Miller-Ford vs 8-Fuhrman-Stuberg
+  200          9.00   0.00 10-Romeo-Lieberman vs 10-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    4.00   5.00 1-Binney-Tu vs 3-Moore-Eng
+        100    6.00   3.00 2-Galer-Vulcan vs 5-Roselle-Anderson
+   50          8.50   0.50 3-Ring-Christensen vs 7-Ranasaria-Jain
+   50          8.50   0.50 4-Fox-Schroeder vs 9-Wright-Zaugg
+        420    1.00   8.00 5-McCaslin-Davis vs 1-Delfs-Chalfan
+        400    2.00   7.00 6-Ruprecht-Jarvis vs 2-Gong-Sieg
+        300    4.00   5.00 7-Abernethy-Christiansen vs 4-Reiter-Reiter
+        690    0.00   9.00 8-Cline-Hankins vs 6-Tipton-Hesson
+    PASS       7.00   2.00 9-Miller-Ford vs 8-Fuhrman-Stuberg
+        300    4.00   5.00 10-Romeo-Lieberman vs 10-Jacobson-Rind
+----------------------------------------------------------------------
