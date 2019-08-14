@@ -7,27 +7,27 @@ DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MIT
 ------------,-------- ,-------------------------,--------- ---------------------
 AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/750  |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=9/B=0/C=0                       ,---,-------------------------,------,---------,
+PAIRS IN STRAT A=9/B=6/C=1                       ,---,-------------------------,------,---------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1                                                 A    .     .     .     84.38  44.65          
+ 1 Bryan Delfs            Sue Anderson             B    .     .     .     84.38  44.65          
 
- 2                                                 A    3     .     .     97.31  51.49  0.45(A) 
+ 2 Kevin Cline            David Hankins            B    3     .     .     97.31  51.49  0.45(A) 
 
- 3                                                 A    1     .     .    101.81  53.87  0.90(A) 
+ 3 Jeffrey Ford           David Taylor             A    1     .     .    101.81  53.87  0.90(A) 
 
- 4                                                 A    2     .     .    100.69  53.28  0.63(A) 
+ 4 Gregory Herman         William Herman           B    2     .     .    100.69  53.28  0.63(A) 
 
- 5                                                 A    .     .     .     95.63  50.60          
+ 5 Clay Laughary          Pete Cowles              C    .     .     .     95.63  50.60          
 
- 6                                                 A    .     .     .     88.88  47.03          
+ 6 Tim White              Ken Christiansen         A    .     .     .     88.88  47.03          
 
- 7                                                 A    4     .     .     96.75  51.19  0.32(A) 
+ 7 William Campbell       Tony Marshall            B    4     .     .     96.75  51.19  0.32(A) 
 
- 8                                                 A    .     .     .     91.13  48.22          
+ 8 Ray Miller             Daniel Poore             A    .     .     .     91.13  48.22          
 
- 9                                                 A    .     .     .     93.94  49.70          
+ 9 Ann Romeo                                       B    .     .     .     93.94  49.70          
 
 
                                           Totals                         850.52       
@@ -39,27 +39,27 @@ DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MIT
 ------------,-------- ,-------------------------,--------- ---------------------
 AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/750  |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=9/B=0/C=0                       ,---,-------------------------,------,---------,
+PAIRS IN STRAT A=9/B=6/C=2                       ,---,-------------------------,------,---------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
 
 
- 2                                                 A    2     .     .    109.00  57.67  0.63(A) 
+ 2 Joel Fuhrman           David Walker             B    2     .     .    109.00  57.67  0.63(A) 
 
- 3                                                 A    3     .     .    106.00  56.08  0.45(A) 
+ 3 Kim Eng                Eric Sieg                A    3     .     .    106.00  56.08  0.45(A) 
 
- 4                                                 A    .     .     .     90.00  47.62          
+ 4 Brian Zaugg            Shawn Abernethy          B    .     .     .     90.00  47.62          
 
- 5                                                 A    .     .     .     78.50  41.53          
+ 5 Arthur Gong            Rui Gong                 C    .     .     .     78.50  41.53          
 
- 6                                                 A    .     .     .     68.00  35.98          
+ 6 Nick Tipton            Galen Hesson             B    .     .     .     68.00  35.98          
 
- 7                                                 A    1     .     .    110.00  58.20  0.90(A) 
+ 7 Corneliu Galer         Bogdan Vulcan            B    1     .     .    110.00  58.20  0.90(A) 
 
- 8                                                 A    4     .     .    100.00  52.91  0.32(A) 
+ 8 Mike Christensen       Mike Ring                A    4     .     .    100.00  52.91  0.32(A) 
 
- 9                                                 A    .     .     .     94.50  50.00          
+ 9 Terry Jacobson         Brad Rind                C    .     .     .     94.50  50.00          
 
 
                                           Totals                         756.00       
@@ -68,376 +68,376 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  150          7.00   0.00 2-- vs 3--
-  130          6.00   1.00 3-- vs 5--
-  110          5.00   2.00 4-- vs 7--
-   50          3.50   3.50 5-- vs 9--
-         50    1.50   5.50 6-- vs 2--
-   50          3.50   3.50 7-- vs 4--
-         50    1.50   5.50 8-- vs 6--
-        100    0.00   7.00 9-- vs 8--
+  150          7.00   0.00 2-Cline-Hankins vs 3-Eng-Sieg
+  130          6.00   1.00 3-Ford-Taylor vs 5-Gong-Gong
+  110          5.00   2.00 4-Herman-Herman vs 7-Galer-Vulcan
+   50          3.50   3.50 5-Laughary-Cowles vs 9-Jacobson-Rind
+         50    1.50   5.50 6-White-Christiansen vs 2-Fuhrman-Walker
+   50          3.50   3.50 7-Campbell-Marshall vs 4-Zaugg-Abernethy
+         50    1.50   5.50 8-Miller-Poore vs 6-Tipton-Hesson
+        100    0.00   7.00 9-Romeo- vs 8-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 2
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  170          6.00   1.00 2-- vs 3--
-  170          6.00   1.00 3-- vs 5--
-        110    1.00   6.00 4-- vs 7--
-  140          3.00   4.00 5-- vs 9--
-        140    0.00   7.00 6-- vs 2--
-  140          3.00   4.00 7-- vs 4--
-  170          6.00   1.00 8-- vs 6--
-  140          3.00   4.00 9-- vs 8--
+  170          6.00   1.00 2-Cline-Hankins vs 3-Eng-Sieg
+  170          6.00   1.00 3-Ford-Taylor vs 5-Gong-Gong
+        110    1.00   6.00 4-Herman-Herman vs 7-Galer-Vulcan
+  140          3.00   4.00 5-Laughary-Cowles vs 9-Jacobson-Rind
+        140    0.00   7.00 6-White-Christiansen vs 2-Fuhrman-Walker
+  140          3.00   4.00 7-Campbell-Marshall vs 4-Zaugg-Abernethy
+  170          6.00   1.00 8-Miller-Poore vs 6-Tipton-Hesson
+  140          3.00   4.00 9-Romeo- vs 8-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 3
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        300    2.00   5.00 2-- vs 3--
-        800    0.00   7.00 3-- vs 5--
-        100    7.00   0.00 4-- vs 7--
-        150    3.50   3.50 5-- vs 9--
-        120    6.00   1.00 6-- vs 2--
-        600    1.00   6.00 7-- vs 4--
-        150    3.50   3.50 8-- vs 6--
-        140    5.00   2.00 9-- vs 8--
+        300    2.00   5.00 2-Cline-Hankins vs 3-Eng-Sieg
+        800    0.00   7.00 3-Ford-Taylor vs 5-Gong-Gong
+        100    7.00   0.00 4-Herman-Herman vs 7-Galer-Vulcan
+        150    3.50   3.50 5-Laughary-Cowles vs 9-Jacobson-Rind
+        120    6.00   1.00 6-White-Christiansen vs 2-Fuhrman-Walker
+        600    1.00   6.00 7-Campbell-Marshall vs 4-Zaugg-Abernethy
+        150    3.50   3.50 8-Miller-Poore vs 6-Tipton-Hesson
+        140    5.00   2.00 9-Romeo- vs 8-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 4
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  600          6.00   1.00 1-- vs 9--
-  180          4.00   3.00 2-- vs 2--
-        100    0.00   7.00 3-- vs 4--
-  600          6.00   1.00 4-- vs 6--
-  110          1.50   5.50 5-- vs 8--
-  600          6.00   1.00 7-- vs 3--
-  150          3.00   4.00 8-- vs 5--
-  110          1.50   5.50 9-- vs 7--
+  600          6.00   1.00 1-Delfs-Anderson vs 9-Jacobson-Rind
+  180          4.00   3.00 2-Cline-Hankins vs 2-Fuhrman-Walker
+        100    0.00   7.00 3-Ford-Taylor vs 4-Zaugg-Abernethy
+  600          6.00   1.00 4-Herman-Herman vs 6-Tipton-Hesson
+  110          1.50   5.50 5-Laughary-Cowles vs 8-Christensen-Ring
+  600          6.00   1.00 7-Campbell-Marshall vs 3-Eng-Sieg
+  150          3.00   4.00 8-Miller-Poore vs 5-Gong-Gong
+  110          1.50   5.50 9-Romeo- vs 7-Galer-Vulcan
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 5
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        170    5.50   1.50 1-- vs 9--
-        200    2.50   4.50 2-- vs 2--
-        170    5.50   1.50 3-- vs 4--
-        170    5.50   1.50 4-- vs 6--
-        400    1.00   6.00 5-- vs 8--
-        200    2.50   4.50 7-- vs 3--
-        480    0.00   7.00 8-- vs 5--
-        170    5.50   1.50 9-- vs 7--
+        170    5.50   1.50 1-Delfs-Anderson vs 9-Jacobson-Rind
+        200    2.50   4.50 2-Cline-Hankins vs 2-Fuhrman-Walker
+        170    5.50   1.50 3-Ford-Taylor vs 4-Zaugg-Abernethy
+        170    5.50   1.50 4-Herman-Herman vs 6-Tipton-Hesson
+        400    1.00   6.00 5-Laughary-Cowles vs 8-Christensen-Ring
+        200    2.50   4.50 7-Campbell-Marshall vs 3-Eng-Sieg
+        480    0.00   7.00 8-Miller-Poore vs 5-Gong-Gong
+        170    5.50   1.50 9-Romeo- vs 7-Galer-Vulcan
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 6
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        110    1.50   5.50 1-- vs 9--
-        110    1.50   5.50 2-- vs 2--
-  100          5.50   1.50 3-- vs 4--
-        300    0.00   7.00 4-- vs 6--
-  100          5.50   1.50 5-- vs 8--
-    PASS       3.00   4.00 7-- vs 3--
-  100          5.50   1.50 8-- vs 5--
-  100          5.50   1.50 9-- vs 7--
+        110    1.50   5.50 1-Delfs-Anderson vs 9-Jacobson-Rind
+        110    1.50   5.50 2-Cline-Hankins vs 2-Fuhrman-Walker
+  100          5.50   1.50 3-Ford-Taylor vs 4-Zaugg-Abernethy
+        300    0.00   7.00 4-Herman-Herman vs 6-Tipton-Hesson
+  100          5.50   1.50 5-Laughary-Cowles vs 8-Christensen-Ring
+    PASS       3.00   4.00 7-Campbell-Marshall vs 3-Eng-Sieg
+  100          5.50   1.50 8-Miller-Poore vs 5-Gong-Gong
+  100          5.50   1.50 9-Romeo- vs 7-Galer-Vulcan
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 7
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        210    1.50   5.50 1-- vs 8--
-        180    4.00   3.00 3-- vs 3--
-        210    1.50   5.50 4-- vs 5--
-        180    4.00   3.00 5-- vs 7--
-        180    4.00   3.00 6-- vs 9--
-        630    0.00   7.00 7-- vs 2--
-        150    6.50   0.50 8-- vs 4--
-        150    6.50   0.50 9-- vs 6--
+        210    1.50   5.50 1-Delfs-Anderson vs 8-Christensen-Ring
+        180    4.00   3.00 3-Ford-Taylor vs 3-Eng-Sieg
+        210    1.50   5.50 4-Herman-Herman vs 5-Gong-Gong
+        180    4.00   3.00 5-Laughary-Cowles vs 7-Galer-Vulcan
+        180    4.00   3.00 6-White-Christiansen vs 9-Jacobson-Rind
+        630    0.00   7.00 7-Campbell-Marshall vs 2-Fuhrman-Walker
+        150    6.50   0.50 8-Miller-Poore vs 4-Zaugg-Abernethy
+        150    6.50   0.50 9-Romeo- vs 6-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 8
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        420    2.00   5.00 1-- vs 8--
-        450    1.00   6.00 3-- vs 3--
-        200    3.50   3.50 4-- vs 5--
-        800    0.00   7.00 5-- vs 7--
-        170    5.50   1.50 6-- vs 9--
-        200    3.50   3.50 7-- vs 2--
-   50          7.00   0.00 8-- vs 4--
-        170    5.50   1.50 9-- vs 6--
+        420    2.00   5.00 1-Delfs-Anderson vs 8-Christensen-Ring
+        450    1.00   6.00 3-Ford-Taylor vs 3-Eng-Sieg
+        200    3.50   3.50 4-Herman-Herman vs 5-Gong-Gong
+        800    0.00   7.00 5-Laughary-Cowles vs 7-Galer-Vulcan
+        170    5.50   1.50 6-White-Christiansen vs 9-Jacobson-Rind
+        200    3.50   3.50 7-Campbell-Marshall vs 2-Fuhrman-Walker
+   50          7.00   0.00 8-Miller-Poore vs 4-Zaugg-Abernethy
+        170    5.50   1.50 9-Romeo- vs 6-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 9
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  130          1.00   6.00 1-- vs 8--
-  400          4.00   3.00 3-- vs 3--
- 1700          7.00   0.00 4-- vs 5--
-  110          0.00   7.00 5-- vs 7--
-  430          5.50   1.50 6-- vs 9--
-  150          2.00   5.00 7-- vs 2--
-  430          5.50   1.50 8-- vs 4--
-  180          3.00   4.00 9-- vs 6--
+  130          1.00   6.00 1-Delfs-Anderson vs 8-Christensen-Ring
+  400          4.00   3.00 3-Ford-Taylor vs 3-Eng-Sieg
+ 1700          7.00   0.00 4-Herman-Herman vs 5-Gong-Gong
+  110          0.00   7.00 5-Laughary-Cowles vs 7-Galer-Vulcan
+  430          5.50   1.50 6-White-Christiansen vs 9-Jacobson-Rind
+  150          2.00   5.00 7-Campbell-Marshall vs 2-Fuhrman-Walker
+  430          5.50   1.50 8-Miller-Poore vs 4-Zaugg-Abernethy
+  180          3.00   4.00 9-Romeo- vs 6-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 10
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        130    0.00   7.00 1-- vs 7--
-  170          4.00   3.00 2-- vs 9--
-  140          2.50   4.50 3-- vs 2--
-  620          7.00   0.00 4-- vs 4--
-  200          5.50   1.50 5-- vs 6--
-  140          2.50   4.50 6-- vs 8--
-        100    1.00   6.00 8-- vs 3--
-  200          5.50   1.50 9-- vs 5--
+        130    0.00   7.00 1-Delfs-Anderson vs 7-Galer-Vulcan
+  170          4.00   3.00 2-Cline-Hankins vs 9-Jacobson-Rind
+  140          2.50   4.50 3-Ford-Taylor vs 2-Fuhrman-Walker
+  620          7.00   0.00 4-Herman-Herman vs 4-Zaugg-Abernethy
+  200          5.50   1.50 5-Laughary-Cowles vs 6-Tipton-Hesson
+  140          2.50   4.50 6-White-Christiansen vs 8-Christensen-Ring
+        100    1.00   6.00 8-Miller-Poore vs 3-Eng-Sieg
+  200          5.50   1.50 9-Romeo- vs 5-Gong-Gong
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 11
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        110    0.50   6.50 1-- vs 7--
-   50          2.50   4.50 2-- vs 9--
-        110    0.50   6.50 3-- vs 2--
-  150          7.00   0.00 4-- vs 4--
-   90          4.50   2.50 5-- vs 6--
-   90          4.50   2.50 6-- vs 8--
-   50          2.50   4.50 8-- vs 3--
-  100          6.00   1.00 9-- vs 5--
+        110    0.50   6.50 1-Delfs-Anderson vs 7-Galer-Vulcan
+   50          2.50   4.50 2-Cline-Hankins vs 9-Jacobson-Rind
+        110    0.50   6.50 3-Ford-Taylor vs 2-Fuhrman-Walker
+  150          7.00   0.00 4-Herman-Herman vs 4-Zaugg-Abernethy
+   90          4.50   2.50 5-Laughary-Cowles vs 6-Tipton-Hesson
+   90          4.50   2.50 6-White-Christiansen vs 8-Christensen-Ring
+   50          2.50   4.50 8-Miller-Poore vs 3-Eng-Sieg
+  100          6.00   1.00 9-Romeo- vs 5-Gong-Gong
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 12
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        200    0.00   7.00 1-- vs 7--
-        110    1.50   5.50 2-- vs 9--
-        110    1.50   5.50 3-- vs 2--
-  670          7.00   0.00 4-- vs 4--
-  100          5.50   1.50 5-- vs 6--
-  100          5.50   1.50 6-- vs 8--
-   50          3.50   3.50 8-- vs 3--
-   50          3.50   3.50 9-- vs 5--
+        200    0.00   7.00 1-Delfs-Anderson vs 7-Galer-Vulcan
+        110    1.50   5.50 2-Cline-Hankins vs 9-Jacobson-Rind
+        110    1.50   5.50 3-Ford-Taylor vs 2-Fuhrman-Walker
+  670          7.00   0.00 4-Herman-Herman vs 4-Zaugg-Abernethy
+  100          5.50   1.50 5-Laughary-Cowles vs 6-Tipton-Hesson
+  100          5.50   1.50 6-White-Christiansen vs 8-Christensen-Ring
+   50          3.50   3.50 8-Miller-Poore vs 3-Eng-Sieg
+   50          3.50   3.50 9-Romeo- vs 5-Gong-Gong
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 13
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  200          4.50   2.50 1-- vs 6--
-  120          1.50   5.50 2-- vs 8--
-  120          1.50   5.50 4-- vs 3--
-  200          4.50   2.50 5-- vs 5--
-  300          7.00   0.00 6-- vs 7--
-  200          4.50   2.50 7-- vs 9--
-  110          0.00   7.00 8-- vs 2--
-  200          4.50   2.50 9-- vs 4--
+  200          4.50   2.50 1-Delfs-Anderson vs 6-Tipton-Hesson
+  120          1.50   5.50 2-Cline-Hankins vs 8-Christensen-Ring
+  120          1.50   5.50 4-Herman-Herman vs 3-Eng-Sieg
+  200          4.50   2.50 5-Laughary-Cowles vs 5-Gong-Gong
+  300          7.00   0.00 6-White-Christiansen vs 7-Galer-Vulcan
+  200          4.50   2.50 7-Campbell-Marshall vs 9-Jacobson-Rind
+  110          0.00   7.00 8-Miller-Poore vs 2-Fuhrman-Walker
+  200          4.50   2.50 9-Romeo- vs 4-Zaugg-Abernethy
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 14
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  490          6.50   0.50 1-- vs 6--
-  460          2.50   4.50 2-- vs 8--
-  460          2.50   4.50 4-- vs 3--
-  490          6.50   0.50 5-- vs 5--
-  460          2.50   4.50 6-- vs 7--
-  460          2.50   4.50 7-- vs 9--
-  460          2.50   4.50 8-- vs 2--
-  460          2.50   4.50 9-- vs 4--
+  490          6.50   0.50 1-Delfs-Anderson vs 6-Tipton-Hesson
+  460          2.50   4.50 2-Cline-Hankins vs 8-Christensen-Ring
+  460          2.50   4.50 4-Herman-Herman vs 3-Eng-Sieg
+  490          6.50   0.50 5-Laughary-Cowles vs 5-Gong-Gong
+  460          2.50   4.50 6-White-Christiansen vs 7-Galer-Vulcan
+  460          2.50   4.50 7-Campbell-Marshall vs 9-Jacobson-Rind
+  460          2.50   4.50 8-Miller-Poore vs 2-Fuhrman-Walker
+  460          2.50   4.50 9-Romeo- vs 4-Zaugg-Abernethy
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 15
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        100    2.50   4.50 1-- vs 6--
-  120          6.50   0.50 2-- vs 8--
-  100          5.00   2.00 4-- vs 3--
-        100    2.50   4.50 5-- vs 5--
-        110    0.00   7.00 6-- vs 7--
-  120          6.50   0.50 7-- vs 9--
-        100    2.50   4.50 8-- vs 2--
-        100    2.50   4.50 9-- vs 4--
+        100    2.50   4.50 1-Delfs-Anderson vs 6-Tipton-Hesson
+  120          6.50   0.50 2-Cline-Hankins vs 8-Christensen-Ring
+  100          5.00   2.00 4-Herman-Herman vs 3-Eng-Sieg
+        100    2.50   4.50 5-Laughary-Cowles vs 5-Gong-Gong
+        110    0.00   7.00 6-White-Christiansen vs 7-Galer-Vulcan
+  120          6.50   0.50 7-Campbell-Marshall vs 9-Jacobson-Rind
+        100    2.50   4.50 8-Miller-Poore vs 2-Fuhrman-Walker
+        100    2.50   4.50 9-Romeo- vs 4-Zaugg-Abernethy
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 16
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        130    4.00   3.00 1-- vs 5--
-  100          6.50   0.50 2-- vs 7--
-  100          6.50   0.50 3-- vs 9--
-        600    0.00   7.00 4-- vs 2--
-        300    1.50   5.50 5-- vs 4--
-        100    5.00   2.00 6-- vs 6--
-        150    3.00   4.00 7-- vs 8--
-        300    1.50   5.50 9-- vs 3--
+        130    4.00   3.00 1-Delfs-Anderson vs 5-Gong-Gong
+  100          6.50   0.50 2-Cline-Hankins vs 7-Galer-Vulcan
+  100          6.50   0.50 3-Ford-Taylor vs 9-Jacobson-Rind
+        600    0.00   7.00 4-Herman-Herman vs 2-Fuhrman-Walker
+        300    1.50   5.50 5-Laughary-Cowles vs 4-Zaugg-Abernethy
+        100    5.00   2.00 6-White-Christiansen vs 6-Tipton-Hesson
+        150    3.00   4.00 7-Campbell-Marshall vs 8-Christensen-Ring
+        300    1.50   5.50 9-Romeo- vs 3-Eng-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 17
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        140    4.00   3.00 1-- vs 5--
-        420    0.00   7.00 2-- vs 7--
-        100    5.00   2.00 3-- vs 9--
-   50          6.00   1.00 4-- vs 2--
-  100          7.00   0.00 5-- vs 4--
-        300    1.50   5.50 6-- vs 6--
-        170    3.00   4.00 7-- vs 8--
-        300    1.50   5.50 9-- vs 3--
+        140    4.00   3.00 1-Delfs-Anderson vs 5-Gong-Gong
+        420    0.00   7.00 2-Cline-Hankins vs 7-Galer-Vulcan
+        100    5.00   2.00 3-Ford-Taylor vs 9-Jacobson-Rind
+   50          6.00   1.00 4-Herman-Herman vs 2-Fuhrman-Walker
+  100          7.00   0.00 5-Laughary-Cowles vs 4-Zaugg-Abernethy
+        300    1.50   5.50 6-White-Christiansen vs 6-Tipton-Hesson
+        170    3.00   4.00 7-Campbell-Marshall vs 8-Christensen-Ring
+        300    1.50   5.50 9-Romeo- vs 3-Eng-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 18
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        140    2.00   5.00 1-- vs 5--
-   50          7.00   0.00 2-- vs 7--
-        140    2.00   5.00 3-- vs 9--
-        100    6.00   1.00 4-- vs 2--
-        140    2.00   5.00 5-- vs 4--
-        140    2.00   5.00 6-- vs 6--
-        130    5.00   2.00 7-- vs 8--
-        140    2.00   5.00 9-- vs 3--
+        140    2.00   5.00 1-Delfs-Anderson vs 5-Gong-Gong
+   50          7.00   0.00 2-Cline-Hankins vs 7-Galer-Vulcan
+        140    2.00   5.00 3-Ford-Taylor vs 9-Jacobson-Rind
+        100    6.00   1.00 4-Herman-Herman vs 2-Fuhrman-Walker
+        140    2.00   5.00 5-Laughary-Cowles vs 4-Zaugg-Abernethy
+        140    2.00   5.00 6-White-Christiansen vs 6-Tipton-Hesson
+        130    5.00   2.00 7-Campbell-Marshall vs 8-Christensen-Ring
+        140    2.00   5.00 9-Romeo- vs 3-Eng-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 19
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        620    2.00   5.00 1-- vs 4--
-  100          6.00   1.00 2-- vs 6--
-  100          6.00   1.00 3-- vs 8--
-        620    2.00   5.00 5-- vs 3--
-  100          6.00   1.00 6-- vs 5--
-        620    2.00   5.00 7-- vs 7--
-        620    2.00   5.00 8-- vs 9--
-        620    2.00   5.00 9-- vs 2--
+        620    2.00   5.00 1-Delfs-Anderson vs 4-Zaugg-Abernethy
+  100          6.00   1.00 2-Cline-Hankins vs 6-Tipton-Hesson
+  100          6.00   1.00 3-Ford-Taylor vs 8-Christensen-Ring
+        620    2.00   5.00 5-Laughary-Cowles vs 3-Eng-Sieg
+  100          6.00   1.00 6-White-Christiansen vs 5-Gong-Gong
+        620    2.00   5.00 7-Campbell-Marshall vs 7-Galer-Vulcan
+        620    2.00   5.00 8-Miller-Poore vs 9-Jacobson-Rind
+        620    2.00   5.00 9-Romeo- vs 2-Fuhrman-Walker
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 20
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        660    3.50   3.50 1-- vs 4--
-        660    3.50   3.50 2-- vs 6--
-  100          7.00   0.00 3-- vs 8--
-        660    3.50   3.50 5-- vs 3--
-        690    0.00   7.00 6-- vs 5--
-        660    3.50   3.50 7-- vs 7--
-        660    3.50   3.50 8-- vs 9--
-        660    3.50   3.50 9-- vs 2--
+        660    3.50   3.50 1-Delfs-Anderson vs 4-Zaugg-Abernethy
+        660    3.50   3.50 2-Cline-Hankins vs 6-Tipton-Hesson
+  100          7.00   0.00 3-Ford-Taylor vs 8-Christensen-Ring
+        660    3.50   3.50 5-Laughary-Cowles vs 3-Eng-Sieg
+        690    0.00   7.00 6-White-Christiansen vs 5-Gong-Gong
+        660    3.50   3.50 7-Campbell-Marshall vs 7-Galer-Vulcan
+        660    3.50   3.50 8-Miller-Poore vs 9-Jacobson-Rind
+        660    3.50   3.50 9-Romeo- vs 2-Fuhrman-Walker
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 21
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
- 1390          6.00   1.00 1-- vs 4--
- 1460          7.00   0.00 2-- vs 6--
-  710          3.50   3.50 3-- vs 8--
-  650          0.50   6.50 5-- vs 3--
-  710          3.50   3.50 6-- vs 5--
-  650          0.50   6.50 7-- vs 7--
-  710          3.50   3.50 8-- vs 9--
-  710          3.50   3.50 9-- vs 2--
+ 1390          6.00   1.00 1-Delfs-Anderson vs 4-Zaugg-Abernethy
+ 1460          7.00   0.00 2-Cline-Hankins vs 6-Tipton-Hesson
+  710          3.50   3.50 3-Ford-Taylor vs 8-Christensen-Ring
+  650          0.50   6.50 5-Laughary-Cowles vs 3-Eng-Sieg
+  710          3.50   3.50 6-White-Christiansen vs 5-Gong-Gong
+  650          0.50   6.50 7-Campbell-Marshall vs 7-Galer-Vulcan
+  710          3.50   3.50 8-Miller-Poore vs 9-Jacobson-Rind
+  710          3.50   3.50 9-Romeo- vs 2-Fuhrman-Walker
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 22
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        130    2.00   5.00 1-- vs 3--
-  200          6.00   1.00 2-- vs 5--
-        130    2.00   5.00 3-- vs 7--
-        130    2.00   5.00 4-- vs 9--
-  200          6.00   1.00 5-- vs 2--
-        130    2.00   5.00 6-- vs 4--
-  200          6.00   1.00 7-- vs 6--
-        130    2.00   5.00 8-- vs 8--
+        130    2.00   5.00 1-Delfs-Anderson vs 3-Eng-Sieg
+  200          6.00   1.00 2-Cline-Hankins vs 5-Gong-Gong
+        130    2.00   5.00 3-Ford-Taylor vs 7-Galer-Vulcan
+        130    2.00   5.00 4-Herman-Herman vs 9-Jacobson-Rind
+  200          6.00   1.00 5-Laughary-Cowles vs 2-Fuhrman-Walker
+        130    2.00   5.00 6-White-Christiansen vs 4-Zaugg-Abernethy
+  200          6.00   1.00 7-Campbell-Marshall vs 6-Tipton-Hesson
+        130    2.00   5.00 8-Miller-Poore vs 8-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 23
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  680          5.50   1.50 1-- vs 3--
- 1430          7.00   0.00 2-- vs 5--
-  650          3.00   4.00 3-- vs 7--
-  200          0.00   7.00 4-- vs 9--
-  680          5.50   1.50 5-- vs 2--
-  650          3.00   4.00 6-- vs 4--
-  650          3.00   4.00 7-- vs 6--
-  620          1.00   6.00 8-- vs 8--
+  680          5.50   1.50 1-Delfs-Anderson vs 3-Eng-Sieg
+ 1430          7.00   0.00 2-Cline-Hankins vs 5-Gong-Gong
+  650          3.00   4.00 3-Ford-Taylor vs 7-Galer-Vulcan
+  200          0.00   7.00 4-Herman-Herman vs 9-Jacobson-Rind
+  680          5.50   1.50 5-Laughary-Cowles vs 2-Fuhrman-Walker
+  650          3.00   4.00 6-White-Christiansen vs 4-Zaugg-Abernethy
+  650          3.00   4.00 7-Campbell-Marshall vs 6-Tipton-Hesson
+  620          1.00   6.00 8-Miller-Poore vs 8-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 24
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-         50    3.50   3.50 1-- vs 3--
-        470    0.00   7.00 2-- vs 5--
-         50    3.50   3.50 3-- vs 7--
-        150    1.00   6.00 4-- vs 9--
-  130          6.00   1.00 5-- vs 2--
-        100    2.00   5.00 6-- vs 4--
-   50          5.00   2.00 7-- vs 6--
-  430          7.00   0.00 8-- vs 8--
+         50    3.50   3.50 1-Delfs-Anderson vs 3-Eng-Sieg
+        470    0.00   7.00 2-Cline-Hankins vs 5-Gong-Gong
+         50    3.50   3.50 3-Ford-Taylor vs 7-Galer-Vulcan
+        150    1.00   6.00 4-Herman-Herman vs 9-Jacobson-Rind
+  130          6.00   1.00 5-Laughary-Cowles vs 2-Fuhrman-Walker
+        100    2.00   5.00 6-White-Christiansen vs 4-Zaugg-Abernethy
+   50          5.00   2.00 7-Campbell-Marshall vs 6-Tipton-Hesson
+  430          7.00   0.00 8-Miller-Poore vs 8-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 25
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  100          3.50   3.50 1-- vs 2--
-        150    1.00   6.00 2-- vs 4--
-  800          7.00   0.00 3-- vs 6--
-        100    2.00   5.00 4-- vs 8--
-        300    0.00   7.00 6-- vs 3--
-  200          5.50   1.50 7-- vs 5--
-  200          5.50   1.50 8-- vs 7--
-  100          3.50   3.50 9-- vs 9--
+  100          3.50   3.50 1-Delfs-Anderson vs 2-Fuhrman-Walker
+        150    1.00   6.00 2-Cline-Hankins vs 4-Zaugg-Abernethy
+  800          7.00   0.00 3-Ford-Taylor vs 6-Tipton-Hesson
+        100    2.00   5.00 4-Herman-Herman vs 8-Christensen-Ring
+        300    0.00   7.00 6-White-Christiansen vs 3-Eng-Sieg
+  200          5.50   1.50 7-Campbell-Marshall vs 5-Gong-Gong
+  200          5.50   1.50 8-Miller-Poore vs 7-Galer-Vulcan
+  100          3.50   3.50 9-Romeo- vs 9-Jacobson-Rind
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 26
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  100          4.50   2.50 1-- vs 2--
-        140    1.00   6.00 2-- vs 4--
-  110          7.00   0.00 3-- vs 6--
-        140    1.00   6.00 4-- vs 8--
-  100          4.50   2.50 6-- vs 3--
-  100          4.50   2.50 7-- vs 5--
-  100          4.50   2.50 8-- vs 7--
-        140    1.00   6.00 9-- vs 9--
+  100          4.50   2.50 1-Delfs-Anderson vs 2-Fuhrman-Walker
+        140    1.00   6.00 2-Cline-Hankins vs 4-Zaugg-Abernethy
+  110          7.00   0.00 3-Ford-Taylor vs 6-Tipton-Hesson
+        140    1.00   6.00 4-Herman-Herman vs 8-Christensen-Ring
+  100          4.50   2.50 6-White-Christiansen vs 3-Eng-Sieg
+  100          4.50   2.50 7-Campbell-Marshall vs 5-Gong-Gong
+  100          4.50   2.50 8-Miller-Poore vs 7-Galer-Vulcan
+        140    1.00   6.00 9-Romeo- vs 9-Jacobson-Rind
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 27
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        520    3.00   4.00 1-- vs 2--
-       1010    0.00   7.00 2-- vs 4--
-        920    1.50   5.50 3-- vs 6--
-        510    5.00   2.00 4-- vs 8--
-        510    5.00   2.00 6-- vs 3--
-        420    7.00   0.00 7-- vs 5--
-        920    1.50   5.50 8-- vs 7--
-        510    5.00   2.00 9-- vs 9--
+        520    3.00   4.00 1-Delfs-Anderson vs 2-Fuhrman-Walker
+       1010    0.00   7.00 2-Cline-Hankins vs 4-Zaugg-Abernethy
+        920    1.50   5.50 3-Ford-Taylor vs 6-Tipton-Hesson
+        510    5.00   2.00 4-Herman-Herman vs 8-Christensen-Ring
+        510    5.00   2.00 6-White-Christiansen vs 3-Eng-Sieg
+        420    7.00   0.00 7-Campbell-Marshall vs 5-Gong-Gong
+        920    1.50   5.50 8-Miller-Poore vs 7-Galer-Vulcan
+        510    5.00   2.00 9-Romeo- vs 9-Jacobson-Rind
 ----------------------------------------------------------------------
