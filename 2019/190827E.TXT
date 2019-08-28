@@ -1,0 +1,410 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 27, 2019    |CLUB NO.>158048    | 08/27/2019 22:35
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=9/C=0                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Stanford Christie      Corneliu Galer           A    6     .     .     99.64  54.75  0.27(A) 
+
+ 2 Arvind Ranasaria       Ivan Popivanov           B    .     2     .     98.80  54.29  0.50(B) 
+
+ 3 Ray Miller             Ann Romeo                A    4     .     .    101.86  55.97  0.56(A) 
+
+ 4 Chris Pesce            Rex Tu                   B    .     4     .     88.21  48.47  0.25(B) 
+
+ 5 David Binney           Shawn Abernethy          A    .     .     .     87.79  48.24          
+
+ 6 Eric Sieg              Arthur Gong              B    .     3     .     95.71  52.59  0.36(B) 
+
+ 7 Kim Eng                Jeffrey Ford             A    5     .     .    100.88  55.43  0.32(A) 
+
+ 8 Mike Christensen       David Wright             A    2     .     .    104.79  57.58  1.12(A) 
+
+ 9 David Walker           Rui Gong                 B    .     .     .     71.71  39.40          
+
+10 Dex Stuberg            Joel Fuhrman             B    .     .     .     77.57  42.62          
+
+11 Kevin Cline            David Hankins            B    1     1     .    109.93  60.40  1.50(A) 
+
+12 Sharon Miller          Gary Haldane             B    .     .     .     78.71  43.25          
+
+13 Mike Ring              Brian Zaugg              A    3     .     .    102.29  56.20  0.80(A) 
+
+14 Tim White              Ken Christiansen         A    .     .     .     80.29  44.12          
+
+15 Nick Tipton            Galen Hesson             B    .     .     .     80.71  44.35          
+
+16 David Roselle          Tracey Guice             B    .     .     .     77.79  42.74          
+
+
+                                          Totals                        1456.68       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.00   4.00 4-Pesce-Tu vs 14-White-Christiansen
+  430          7.00   0.00 6-Sieg-Gong vs 5-Binney-Abernethy
+  400          3.00   4.00 8-Christensen-Wright vs 12-Miller-Haldane
+  400          3.00   4.00 9-Walker-Gong vs 11-Cline-Hankins
+  400          3.00   4.00 10-Stuberg-Fuhrman vs 2-Ranasaria-Popivanov
+  400          3.00   4.00 13-Ring-Zaugg vs 7-Eng-Ford
+  400          3.00   4.00 15-Tipton-Hesson vs 3-Miller-Romeo
+  400          3.00   4.00 16-Roselle-Guice vs 1-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   4.50 4-Pesce-Tu vs 14-White-Christiansen
+        170    2.50   4.50 6-Sieg-Gong vs 5-Binney-Abernethy
+        130    7.00   0.00 8-Christensen-Wright vs 12-Miller-Haldane
+        140    5.00   2.00 9-Walker-Gong vs 11-Cline-Hankins
+        420    0.50   6.50 10-Stuberg-Fuhrman vs 2-Ranasaria-Popivanov
+        420    0.50   6.50 13-Ring-Zaugg vs 7-Eng-Ford
+        140    5.00   2.00 15-Tipton-Hesson vs 3-Miller-Romeo
+        140    5.00   2.00 16-Roselle-Guice vs 1-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   3.00 1-Christie-Galer vs 8-Christensen-Wright
+        130    1.50   5.50 4-Pesce-Tu vs 15-Tipton-Hesson
+        130    1.50   5.50 5-Binney-Abernethy vs 14-White-Christiansen
+         50    5.00   2.00 7-Eng-Ford vs 6-Sieg-Gong
+  100          6.00   1.00 9-Walker-Gong vs 13-Ring-Zaugg
+        130    1.50   5.50 10-Stuberg-Fuhrman vs 12-Miller-Haldane
+  200          7.00   0.00 11-Cline-Hankins vs 3-Miller-Romeo
+        130    1.50   5.50 16-Roselle-Guice vs 2-Ranasaria-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.50   2.50 1-Christie-Galer vs 8-Christensen-Wright
+        680    4.50   2.50 4-Pesce-Tu vs 15-Tipton-Hesson
+        680    4.50   2.50 5-Binney-Abernethy vs 14-White-Christiansen
+        680    4.50   2.50 7-Eng-Ford vs 6-Sieg-Gong
+       1430    0.50   6.50 9-Walker-Gong vs 13-Ring-Zaugg
+        680    4.50   2.50 10-Stuberg-Fuhrman vs 12-Miller-Haldane
+       1430    0.50   6.50 11-Cline-Hankins vs 3-Miller-Romeo
+        680    4.50   2.50 16-Roselle-Guice vs 2-Ranasaria-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   0.00 2-Ranasaria-Popivanov vs 9-Walker-Gong
+   50          4.00   3.00 5-Binney-Abernethy vs 15-Tipton-Hesson
+   50          4.00   3.00 6-Sieg-Gong vs 14-White-Christiansen
+   50          4.00   3.00 8-Christensen-Wright vs 7-Eng-Ford
+        400    0.00   7.00 10-Stuberg-Fuhrman vs 1-Christie-Galer
+   50          4.00   3.00 11-Cline-Hankins vs 13-Ring-Zaugg
+   50          4.00   3.00 12-Miller-Haldane vs 4-Pesce-Tu
+        130    1.00   6.00 16-Roselle-Guice vs 3-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.50   0.50 2-Ranasaria-Popivanov vs 9-Walker-Gong
+  100          3.50   3.50 5-Binney-Abernethy vs 15-Tipton-Hesson
+  100          3.50   3.50 6-Sieg-Gong vs 14-White-Christiansen
+  100          3.50   3.50 8-Christensen-Wright vs 7-Eng-Ford
+   90          1.00   6.00 10-Stuberg-Fuhrman vs 1-Christie-Galer
+  100          3.50   3.50 11-Cline-Hankins vs 13-Ring-Zaugg
+        110    0.00   7.00 12-Miller-Haldane vs 4-Pesce-Tu
+  200          6.50   0.50 16-Roselle-Guice vs 3-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.00   2.00 3-Miller-Romeo vs 10-Stuberg-Fuhrman
+        100    5.00   2.00 6-Sieg-Gong vs 15-Tipton-Hesson
+        130    0.00   7.00 9-Walker-Gong vs 8-Christensen-Wright
+        100    5.00   2.00 11-Cline-Hankins vs 2-Ranasaria-Popivanov
+        110    2.00   5.00 12-Miller-Haldane vs 1-Christie-Galer
+  140          7.00   0.00 13-Ring-Zaugg vs 5-Binney-Abernethy
+        110    2.00   5.00 14-White-Christiansen vs 7-Eng-Ford
+        110    2.00   5.00 16-Roselle-Guice vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   1.00 3-Miller-Romeo vs 10-Stuberg-Fuhrman
+   50          3.50   3.50 6-Sieg-Gong vs 15-Tipton-Hesson
+        400    0.50   6.50 9-Walker-Gong vs 8-Christensen-Wright
+   50          3.50   3.50 11-Cline-Hankins vs 2-Ranasaria-Popivanov
+        400    0.50   6.50 12-Miller-Haldane vs 1-Christie-Galer
+  100          6.00   1.00 13-Ring-Zaugg vs 5-Binney-Abernethy
+        100    2.00   5.00 14-White-Christiansen vs 7-Eng-Ford
+  100          6.00   1.00 16-Roselle-Guice vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   2.50 1-Christie-Galer vs 6-Sieg-Gong
+        620    2.00   5.00 4-Pesce-Tu vs 11-Cline-Hankins
+  100          4.50   2.50 7-Eng-Ford vs 15-Tipton-Hesson
+  100          4.50   2.50 10-Stuberg-Fuhrman vs 9-Walker-Gong
+  100          4.50   2.50 12-Miller-Haldane vs 3-Miller-Romeo
+  200          7.00   0.00 13-Ring-Zaugg vs 2-Ranasaria-Popivanov
+        650    0.50   6.50 14-White-Christiansen vs 8-Christensen-Wright
+        650    0.50   6.50 16-Roselle-Guice vs 5-Binney-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          1.00   6.00 1-Christie-Galer vs 6-Sieg-Gong
+        100    0.00   7.00 4-Pesce-Tu vs 11-Cline-Hankins
+  660          5.00   2.00 7-Eng-Ford vs 15-Tipton-Hesson
+  660          5.00   2.00 10-Stuberg-Fuhrman vs 9-Walker-Gong
+  630          2.00   5.00 12-Miller-Haldane vs 3-Miller-Romeo
+  660          5.00   2.00 13-Ring-Zaugg vs 2-Ranasaria-Popivanov
+  660          5.00   2.00 14-White-Christiansen vs 8-Christensen-Wright
+  660          5.00   2.00 16-Roselle-Guice vs 5-Binney-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   5.50 1-Christie-Galer vs 3-Miller-Romeo
+  100          4.50   2.50 2-Ranasaria-Popivanov vs 7-Eng-Ford
+  150          7.00   0.00 5-Binney-Abernethy vs 12-Miller-Haldane
+  100          4.50   2.50 8-Christensen-Wright vs 15-Tipton-Hesson
+  100          4.50   2.50 11-Cline-Hankins vs 10-Stuberg-Fuhrman
+  100          4.50   2.50 13-Ring-Zaugg vs 4-Pesce-Tu
+   50          1.50   5.50 14-White-Christiansen vs 9-Walker-Gong
+        110    0.00   7.00 16-Roselle-Guice vs 6-Sieg-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    4.64   2.36 1-Christie-Galer vs 3-Miller-Romeo
+   50          5.79   1.21 5-Binney-Abernethy vs 12-Miller-Haldane
+        450    1.79   5.21 8-Christensen-Wright vs 15-Tipton-Hesson
+  100          6.93   0.07 11-Cline-Hankins vs 10-Stuberg-Fuhrman
+        450    1.79   5.21 13-Ring-Zaugg vs 4-Pesce-Tu
+        450    1.79   5.21 14-White-Christiansen vs 9-Walker-Gong
+        450    1.79   5.21 16-Roselle-Guice vs 6-Sieg-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.00   3.00 1-Christie-Galer vs 5-Binney-Abernethy
+  150          4.00   3.00 2-Ranasaria-Popivanov vs 4-Pesce-Tu
+  150          4.00   3.00 3-Miller-Romeo vs 8-Christensen-Wright
+        870    0.00   7.00 6-Sieg-Gong vs 13-Ring-Zaugg
+  150          4.00   3.00 9-Walker-Gong vs 15-Tipton-Hesson
+  150          4.00   3.00 12-Miller-Haldane vs 11-Cline-Hankins
+  130          1.00   6.00 14-White-Christiansen vs 10-Stuberg-Fuhrman
+  600          7.00   0.00 16-Roselle-Guice vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          7.00   0.00 1-Christie-Galer vs 5-Binney-Abernethy
+   50          1.00   6.00 2-Ranasaria-Popivanov vs 4-Pesce-Tu
+  140          3.50   3.50 3-Miller-Romeo vs 8-Christensen-Wright
+  170          5.50   1.50 6-Sieg-Gong vs 13-Ring-Zaugg
+  170          5.50   1.50 9-Walker-Gong vs 15-Tipton-Hesson
+        100    0.00   7.00 12-Miller-Haldane vs 11-Cline-Hankins
+  140          3.50   3.50 14-White-Christiansen vs 10-Stuberg-Fuhrman
+  100          2.00   5.00 16-Roselle-Guice vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          7.00   0.00 2-Ranasaria-Popivanov vs 6-Sieg-Gong
+        300    1.50   5.50 3-Miller-Romeo vs 5-Binney-Abernethy
+        200    3.50   3.50 4-Pesce-Tu vs 9-Walker-Gong
+        470    0.00   7.00 7-Eng-Ford vs 1-Christie-Galer
+   50          5.00   2.00 10-Stuberg-Fuhrman vs 15-Tipton-Hesson
+        200    3.50   3.50 13-Ring-Zaugg vs 12-Miller-Haldane
+  110          6.00   1.00 14-White-Christiansen vs 11-Cline-Hankins
+        300    1.50   5.50 16-Roselle-Guice vs 8-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    5.00   2.00 2-Ranasaria-Popivanov vs 6-Sieg-Gong
+        660    1.00   6.00 3-Miller-Romeo vs 5-Binney-Abernethy
+  200          6.50   0.50 4-Pesce-Tu vs 9-Walker-Gong
+  200          6.50   0.50 7-Eng-Ford vs 1-Christie-Galer
+        660    1.00   6.00 10-Stuberg-Fuhrman vs 15-Tipton-Hesson
+        660    1.00   6.00 13-Ring-Zaugg vs 12-Miller-Haldane
+        630    3.50   3.50 14-White-Christiansen vs 11-Cline-Hankins
+        630    3.50   3.50 16-Roselle-Guice vs 8-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.50   6.50 1-Christie-Galer vs 13-Ring-Zaugg
+        400    4.50   2.50 3-Miller-Romeo vs 7-Eng-Ford
+        400    4.50   2.50 4-Pesce-Tu vs 6-Sieg-Gong
+        430    2.00   5.00 5-Binney-Abernethy vs 10-Stuberg-Fuhrman
+        140    6.50   0.50 8-Christensen-Wright vs 2-Ranasaria-Popivanov
+        140    6.50   0.50 14-White-Christiansen vs 12-Miller-Haldane
+        460    0.50   6.50 15-Tipton-Hesson vs 11-Cline-Hankins
+        420    3.00   4.00 16-Roselle-Guice vs 9-Walker-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    5.00   2.00 1-Christie-Galer vs 13-Ring-Zaugg
+        420    1.50   5.50 3-Miller-Romeo vs 7-Eng-Ford
+        420    1.50   5.50 4-Pesce-Tu vs 6-Sieg-Gong
+        420    1.50   5.50 5-Binney-Abernethy vs 10-Stuberg-Fuhrman
+        170    5.00   2.00 8-Christensen-Wright vs 2-Ranasaria-Popivanov
+        170    5.00   2.00 14-White-Christiansen vs 12-Miller-Haldane
+        420    1.50   5.50 15-Tipton-Hesson vs 11-Cline-Hankins
+  100          7.00   0.00 16-Roselle-Guice vs 9-Walker-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          6.00   1.00 2-Ranasaria-Popivanov vs 1-Christie-Galer
+  170          6.00   1.00 4-Pesce-Tu vs 8-Christensen-Wright
+  140          3.50   3.50 5-Binney-Abernethy vs 7-Eng-Ford
+  140          3.50   3.50 6-Sieg-Gong vs 11-Cline-Hankins
+    PASS       1.00   6.00 9-Walker-Gong vs 3-Miller-Romeo
+        110    0.00   7.00 14-White-Christiansen vs 13-Ring-Zaugg
+  110          2.00   5.00 15-Tipton-Hesson vs 12-Miller-Haldane
+  170          6.00   1.00 16-Roselle-Guice vs 10-Stuberg-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    3.50   3.50 2-Ranasaria-Popivanov vs 1-Christie-Galer
+        680    3.50   3.50 4-Pesce-Tu vs 8-Christensen-Wright
+        680    3.50   3.50 5-Binney-Abernethy vs 7-Eng-Ford
+        680    3.50   3.50 6-Sieg-Gong vs 11-Cline-Hankins
+        680    3.50   3.50 9-Walker-Gong vs 3-Miller-Romeo
+        680    3.50   3.50 14-White-Christiansen vs 13-Ring-Zaugg
+        680    3.50   3.50 15-Tipton-Hesson vs 12-Miller-Haldane
+        680    3.50   3.50 16-Roselle-Guice vs 10-Stuberg-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.00   4.00 1-Christie-Galer vs 14-White-Christiansen
+        450    3.00   4.00 3-Miller-Romeo vs 2-Ranasaria-Popivanov
+        450    3.00   4.00 5-Binney-Abernethy vs 9-Walker-Gong
+        450    3.00   4.00 6-Sieg-Gong vs 8-Christensen-Wright
+        450    3.00   4.00 7-Eng-Ford vs 12-Miller-Haldane
+        430    7.00   0.00 10-Stuberg-Fuhrman vs 4-Pesce-Tu
+        450    3.00   4.00 15-Tipton-Hesson vs 13-Ring-Zaugg
+        450    3.00   4.00 16-Roselle-Guice vs 11-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   6.00 1-Christie-Galer vs 14-White-Christiansen
+  170          7.00   0.00 3-Miller-Romeo vs 2-Ranasaria-Popivanov
+  140          4.50   2.50 5-Binney-Abernethy vs 9-Walker-Gong
+  140          4.50   2.50 6-Sieg-Gong vs 8-Christensen-Wright
+  140          4.50   2.50 7-Eng-Ford vs 12-Miller-Haldane
+   90          0.00   7.00 10-Stuberg-Fuhrman vs 4-Pesce-Tu
+  140          4.50   2.50 15-Tipton-Hesson vs 13-Ring-Zaugg
+  120          2.00   5.00 16-Roselle-Guice vs 11-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   3.00 2-Ranasaria-Popivanov vs 14-White-Christiansen
+  650          4.00   3.00 4-Pesce-Tu vs 3-Miller-Romeo
+  650          4.00   3.00 6-Sieg-Gong vs 10-Stuberg-Fuhrman
+  650          4.00   3.00 7-Eng-Ford vs 9-Walker-Gong
+  650          4.00   3.00 8-Christensen-Wright vs 13-Ring-Zaugg
+  650          4.00   3.00 11-Cline-Hankins vs 5-Binney-Abernethy
+  650          4.00   3.00 15-Tipton-Hesson vs 1-Christie-Galer
+  200          0.00   7.00 16-Roselle-Guice vs 12-Miller-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          6.50   0.50 2-Ranasaria-Popivanov vs 14-White-Christiansen
+        100    1.00   6.00 4-Pesce-Tu vs 3-Miller-Romeo
+  120          4.50   2.50 6-Sieg-Gong vs 10-Stuberg-Fuhrman
+         50    2.50   4.50 7-Eng-Ford vs 9-Walker-Gong
+  150          6.50   0.50 8-Christensen-Wright vs 13-Ring-Zaugg
+  120          4.50   2.50 11-Cline-Hankins vs 5-Binney-Abernethy
+         50    2.50   4.50 15-Tipton-Hesson vs 1-Christie-Galer
+        570    0.00   7.00 16-Roselle-Guice vs 12-Miller-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   2.00 3-Miller-Romeo vs 14-White-Christiansen
+  200          7.00   0.00 5-Binney-Abernethy vs 4-Pesce-Tu
+         50    2.50   4.50 7-Eng-Ford vs 11-Cline-Hankins
+         50    2.50   4.50 8-Christensen-Wright vs 10-Stuberg-Fuhrman
+  100          5.00   2.00 9-Walker-Gong vs 1-Christie-Galer
+  100          5.00   2.00 12-Miller-Haldane vs 6-Sieg-Gong
+        100    1.00   6.00 15-Tipton-Hesson vs 2-Ranasaria-Popivanov
+        110    0.00   7.00 16-Roselle-Guice vs 13-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  720          7.00   0.00 3-Miller-Romeo vs 14-White-Christiansen
+  600          2.50   4.50 5-Binney-Abernethy vs 4-Pesce-Tu
+  690          5.50   1.50 7-Eng-Ford vs 11-Cline-Hankins
+  600          2.50   4.50 8-Christensen-Wright vs 10-Stuberg-Fuhrman
+  150          0.00   7.00 9-Walker-Gong vs 1-Christie-Galer
+  600          2.50   4.50 12-Miller-Haldane vs 6-Sieg-Gong
+  690          5.50   1.50 15-Tipton-Hesson vs 2-Ranasaria-Popivanov
+  600          2.50   4.50 16-Roselle-Guice vs 13-Ring-Zaugg
+----------------------------------------------------------------------
