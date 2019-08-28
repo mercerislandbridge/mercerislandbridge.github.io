@@ -1,50 +1,50 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>August 27, 2019    |CLUB NO.>158048    | 08/27/2019 22:35
+DATE>August 27, 2019    |CLUB NO.>158048    | 08/27/2019 22:37
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
 AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=16/B=9/C=0                      ,---,-------------------------,------,---------,
--------------------------------------------------|   |           Section       |      |Section  |
-No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
-------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Stanford Christie      Corneliu Galer           A    6     .     .     99.64  54.75  0.27(A) 
+PAIRS IN STRAT A=16/B=9/C=0                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Stanford Christie      Corneliu Galer           A   .     .     .   |   6     .     .    100.00  54.95  0.27(SA)
 
- 2 Arvind Ranasaria       Ivan Popivanov           B    .     2     .     98.80  54.29  0.50(B) 
+ 2 Arvind Ranasaria       Ivan Popivanov           B   .    2/3    .   |   .    2/3    .     95.00  52.20  1.01(OB)
 
- 3 Ray Miller             Ann Romeo                A    4     .     .    101.86  55.97  0.56(A) 
+ 3 Ray Miller             Ann Romeo                A   5     .     .   |   5     .     .    101.50  55.77  0.83(OA)
 
- 4 Chris Pesce            Rex Tu                   B    .     4     .     88.21  48.47  0.25(B) 
+ 4 Chris Pesce            Rex Tu                   B   .     4     .   |   .     4     .     87.50  48.08  0.65(OB)
 
- 5 David Binney           Shawn Abernethy          A    .     .     .     87.79  48.24          
+ 5 David Binney           Shawn Abernethy          A   .     .     .   |   .     .     .     88.00  48.35          
 
- 6 Eric Sieg              Arthur Gong              B    .     3     .     95.71  52.59  0.36(B) 
+ 6 Eric Sieg              Arthur Gong              B   .    2/3    .   |   .    2/3    .     95.00  52.20  1.01(OB)
 
- 7 Kim Eng                Jeffrey Ford             A    5     .     .    100.88  55.43  0.32(A) 
+ 7 Kim Eng                Jeffrey Ford             A   3     .     .   |   3     .     .    104.00  57.14  1.48(OA)
 
- 8 Mike Christensen       David Wright             A    2     .     .    104.79  57.58  1.12(A) 
+ 8 Mike Christensen       David Wright             A   2     .     .   |   2     .     .    105.50  57.97  1.97(OA)
 
- 9 David Walker           Rui Gong                 B    .     .     .     71.71  39.40          
+ 9 David Walker           Rui Gong                 B   .     .     .   |   .     .     .     71.00  39.01          
 
-10 Dex Stuberg            Joel Fuhrman             B    .     .     .     77.57  42.62          
+10 Dex Stuberg            Joel Fuhrman             B   .     .     .   |   .     .     .     77.50  42.58          
 
-11 Kevin Cline            David Hankins            B    1     1     .    109.93  60.40  1.50(A) 
+11 Kevin Cline            David Hankins            B   1     1     .   |   1     1     .    110.00  60.44  2.63(OA)
 
-12 Sharon Miller          Gary Haldane             B    .     .     .     78.71  43.25          
+12 Sharon Miller          Gary Haldane             B   .     .     .   |   .     .     .     78.50  43.13          
 
-13 Mike Ring              Brian Zaugg              A    3     .     .    102.29  56.20  0.80(A) 
+13 Mike Ring              Brian Zaugg              A   4     .     .   |   4     .     .    103.00  56.59  1.11(OA)
 
-14 Tim White              Ken Christiansen         A    .     .     .     80.29  44.12          
+14 Tim White              Ken Christiansen         A   .     .     .   |   .     .     .     81.00  44.51          
 
-15 Nick Tipton            Galen Hesson             B    .     .     .     80.71  44.35          
+15 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     80.00  43.96          
 
-16 David Roselle          Tracey Guice             B    .     .     .     77.79  42.74          
+16 David Roselle          Tracey Guice             B   .     .     .   |   .     .     .     78.50  43.13          
 
 
-                                          Totals                        1456.68       
+                                          Totals                                           1456.00       
 
  RESULTS OF BOARD 1
 
@@ -204,13 +204,14 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        420    4.64   2.36 1-Christie-Galer vs 3-Miller-Romeo
-   50          5.79   1.21 5-Binney-Abernethy vs 12-Miller-Haldane
-        450    1.79   5.21 8-Christensen-Wright vs 15-Tipton-Hesson
-  100          6.93   0.07 11-Cline-Hankins vs 10-Stuberg-Fuhrman
-        450    1.79   5.21 13-Ring-Zaugg vs 4-Pesce-Tu
-        450    1.79   5.21 14-White-Christiansen vs 9-Walker-Gong
-        450    1.79   5.21 16-Roselle-Guice vs 6-Sieg-Gong
+        420    5.00   2.00 1-Christie-Galer vs 3-Miller-Romeo
+       1010    0.00   7.00 2-Ranasaria-Popivanov vs 7-Eng-Ford
+   50          6.00   1.00 5-Binney-Abernethy vs 12-Miller-Haldane
+        450    2.50   4.50 8-Christensen-Wright vs 15-Tipton-Hesson
+  100          7.00   0.00 11-Cline-Hankins vs 10-Stuberg-Fuhrman
+        450    2.50   4.50 13-Ring-Zaugg vs 4-Pesce-Tu
+        450    2.50   4.50 14-White-Christiansen vs 9-Walker-Gong
+        450    2.50   4.50 16-Roselle-Guice vs 6-Sieg-Gong
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 13
