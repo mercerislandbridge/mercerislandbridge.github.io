@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 10, 2019 |CLUB NO.>158048    | 09/10/2019 22:42
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=12/C=3                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Peiyush Jain           Yuri Wiitala             C    .     .     .     84.00  46.15          
+
+ 2 Ray Miller             Daniel Poore             A    3     .     .    103.00  56.59  0.80(A) 
+
+ 3 Kevin Cline            David Hankins            B    .     3     .     91.50  50.27  0.48(B) 
+
+ 4 Chris Pesce            Rex Tu                   B    .     .     .     90.00  49.45          
+
+ 5 Corneliu Galer         Bogdan Vulcan            C    .     .     .     80.00  43.96          
+
+ 6 Mike Christensen       Mike Ring                A    2     .     .    105.00  57.69  1.12(A) 
+
+ 7 David Roselle          Sue Anderson             B    .     .     .     85.00  46.70          
+
+ 8 Gary Haldane           Sharon Miller            B    .    4/5    .     91.00  50.00  0.27(B) 
+
+ 9 John Uchida            Brad Rind                C    .    4/5    1     91.00  50.00  0.27(B) 
+
+10 John McCaslin          Grant Davis              B    1     1     .    106.50  58.52  1.50(A) 
+
+11 Jessie Brunswig        Ann Romeo                B    .     .     .     82.50  45.33          
+
+12 Brian Zaugg            Jeannie Falls            B    .     .     .     78.00  42.86          
+
+13 Eric Sieg              Kim Eng                  A    5     .     .     94.50  51.92  0.32(A) 
+
+14 Jeffrey Ford           Stanford Christie        A    4     .     .    100.00  54.95  0.56(A) 
+
+15 Nick Tipton            Galen Hesson             B    .     .     .     80.00  43.96          
+
+16 David Binney           Beau Hovda               B    6     2     .     94.00  51.65  0.67(B) 
+
+
+                                          Totals                        1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   7.00 4-Pesce-Tu vs 14-Ford-Christie
+  120          2.50   4.50 6-Christensen-Ring vs 5-Galer-Vulcan
+  400          6.00   1.00 8-Haldane-Miller vs 12-Zaugg-Falls
+  150          4.00   3.00 9-Uchida-Rind vs 11-Brunswig-Romeo
+  400          6.00   1.00 10-McCaslin-Davis vs 2-Miller-Poore
+  120          2.50   4.50 13-Sieg-Eng vs 7-Roselle-Anderson
+   90          1.00   6.00 15-Tipton-Hesson vs 3-Cline-Hankins
+  400          6.00   1.00 16-Binney-Hovda vs 1-Jain-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   7.00 4-Pesce-Tu vs 14-Ford-Christie
+   50          3.50   3.50 6-Christensen-Ring vs 5-Galer-Vulcan
+   50          3.50   3.50 8-Haldane-Miller vs 12-Zaugg-Falls
+   50          3.50   3.50 9-Uchida-Rind vs 11-Brunswig-Romeo
+        110    1.00   6.00 10-McCaslin-Davis vs 2-Miller-Poore
+  150          7.00   0.00 13-Sieg-Eng vs 7-Roselle-Anderson
+   50          3.50   3.50 15-Tipton-Hesson vs 3-Cline-Hankins
+  100          6.00   1.00 16-Binney-Hovda vs 1-Jain-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.50   4.50 1-Jain-Wiitala vs 8-Haldane-Miller
+        800    0.00   7.00 4-Pesce-Tu vs 15-Tipton-Hesson
+  100          6.50   0.50 5-Galer-Vulcan vs 14-Ford-Christie
+        650    2.50   4.50 7-Roselle-Anderson vs 6-Christensen-Ring
+        650    2.50   4.50 9-Uchida-Rind vs 13-Sieg-Eng
+        620    5.00   2.00 10-McCaslin-Davis vs 12-Zaugg-Falls
+  100          6.50   0.50 11-Brunswig-Romeo vs 3-Cline-Hankins
+        650    2.50   4.50 16-Binney-Hovda vs 2-Miller-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.50   1.50 1-Jain-Wiitala vs 8-Haldane-Miller
+ 1100          7.00   0.00 4-Pesce-Tu vs 15-Tipton-Hesson
+        100    2.00   5.00 5-Galer-Vulcan vs 14-Ford-Christie
+        100    2.00   5.00 7-Roselle-Anderson vs 6-Christensen-Ring
+  140          5.50   1.50 9-Uchida-Rind vs 13-Sieg-Eng
+       1100    0.00   7.00 10-McCaslin-Davis vs 12-Zaugg-Falls
+  110          4.00   3.00 11-Brunswig-Romeo vs 3-Cline-Hankins
+        100    2.00   5.00 16-Binney-Hovda vs 2-Miller-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.50   0.50 2-Miller-Poore vs 9-Uchida-Rind
+   50          2.50   4.50 5-Galer-Vulcan vs 15-Tipton-Hesson
+        140    0.00   7.00 6-Christensen-Ring vs 14-Ford-Christie
+   50          2.50   4.50 8-Haldane-Miller vs 7-Roselle-Anderson
+  110          6.50   0.50 10-McCaslin-Davis vs 1-Jain-Wiitala
+        110    1.00   6.00 11-Brunswig-Romeo vs 13-Sieg-Eng
+  100          4.50   2.50 12-Zaugg-Falls vs 4-Pesce-Tu
+  100          4.50   2.50 16-Binney-Hovda vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          0.00   7.00 2-Miller-Poore vs 9-Uchida-Rind
+  420          6.00   1.00 5-Galer-Vulcan vs 15-Tipton-Hesson
+  420          6.00   1.00 6-Christensen-Ring vs 14-Ford-Christie
+  420          6.00   1.00 8-Haldane-Miller vs 7-Roselle-Anderson
+  130          2.00   5.00 10-McCaslin-Davis vs 1-Jain-Wiitala
+  170          4.00   3.00 11-Brunswig-Romeo vs 13-Sieg-Eng
+  130          2.00   5.00 12-Zaugg-Falls vs 4-Pesce-Tu
+  130          2.00   5.00 16-Binney-Hovda vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   5.00 3-Cline-Hankins vs 10-McCaslin-Davis
+        200    5.00   2.00 6-Christensen-Ring vs 15-Tipton-Hesson
+        620    2.00   5.00 9-Uchida-Rind vs 8-Haldane-Miller
+        620    2.00   5.00 11-Brunswig-Romeo vs 2-Miller-Poore
+        620    2.00   5.00 12-Zaugg-Falls vs 1-Jain-Wiitala
+  100          6.50   0.50 13-Sieg-Eng vs 5-Galer-Vulcan
+        620    2.00   5.00 14-Ford-Christie vs 7-Roselle-Anderson
+  100          6.50   0.50 16-Binney-Hovda vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   7.00 3-Cline-Hankins vs 10-McCaslin-Davis
+  420          5.50   1.50 6-Christensen-Ring vs 15-Tipton-Hesson
+  420          5.50   1.50 9-Uchida-Rind vs 8-Haldane-Miller
+  170          2.50   4.50 11-Brunswig-Romeo vs 2-Miller-Poore
+  420          5.50   1.50 12-Zaugg-Falls vs 1-Jain-Wiitala
+  420          5.50   1.50 13-Sieg-Eng vs 5-Galer-Vulcan
+  170          2.50   4.50 14-Ford-Christie vs 7-Roselle-Anderson
+  130          1.00   6.00 16-Binney-Hovda vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.00   5.00 1-Jain-Wiitala vs 6-Christensen-Ring
+        120    3.00   4.00 4-Pesce-Tu vs 11-Brunswig-Romeo
+        110    5.00   2.00 7-Roselle-Anderson vs 15-Tipton-Hesson
+        100    7.00   0.00 10-McCaslin-Davis vs 9-Uchida-Rind
+        600    0.00   7.00 12-Zaugg-Falls vs 3-Cline-Hankins
+        180    1.00   6.00 13-Sieg-Eng vs 2-Miller-Poore
+        110    5.00   2.00 14-Ford-Christie vs 8-Haldane-Miller
+        110    5.00   2.00 16-Binney-Hovda vs 5-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        730    0.00   7.00 1-Jain-Wiitala vs 6-Christensen-Ring
+  100          5.50   1.50 4-Pesce-Tu vs 11-Brunswig-Romeo
+  100          5.50   1.50 7-Roselle-Anderson vs 15-Tipton-Hesson
+        140    2.00   5.00 10-McCaslin-Davis vs 9-Uchida-Rind
+        140    2.00   5.00 12-Zaugg-Falls vs 3-Cline-Hankins
+        100    4.00   3.00 13-Sieg-Eng vs 2-Miller-Poore
+  130          7.00   0.00 14-Ford-Christie vs 8-Haldane-Miller
+        140    2.00   5.00 16-Binney-Hovda vs 5-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.50   3.50 1-Jain-Wiitala vs 3-Cline-Hankins
+        110    2.00   5.00 2-Miller-Poore vs 7-Roselle-Anderson
+   50          5.00   2.00 5-Galer-Vulcan vs 12-Zaugg-Falls
+        180    0.50   6.50 8-Haldane-Miller vs 15-Tipton-Hesson
+        180    0.50   6.50 11-Brunswig-Romeo vs 10-McCaslin-Davis
+  100          6.00   1.00 13-Sieg-Eng vs 4-Pesce-Tu
+  110          7.00   0.00 14-Ford-Christie vs 9-Uchida-Rind
+         90    3.50   3.50 16-Binney-Hovda vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   3.00 1-Jain-Wiitala vs 3-Cline-Hankins
+  150          5.50   1.50 2-Miller-Poore vs 7-Roselle-Anderson
+  300          7.00   0.00 5-Galer-Vulcan vs 12-Zaugg-Falls
+  150          5.50   1.50 8-Haldane-Miller vs 15-Tipton-Hesson
+        200    2.50   4.50 11-Brunswig-Romeo vs 10-McCaslin-Davis
+        570    0.00   7.00 13-Sieg-Eng vs 4-Pesce-Tu
+        470    1.00   6.00 14-Ford-Christie vs 9-Uchida-Rind
+        200    2.50   4.50 16-Binney-Hovda vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   5.50 1-Jain-Wiitala vs 5-Galer-Vulcan
+  630          6.00   1.00 2-Miller-Poore vs 4-Pesce-Tu
+        100    1.50   5.50 3-Cline-Hankins vs 8-Haldane-Miller
+        200    0.00   7.00 6-Christensen-Ring vs 13-Sieg-Eng
+  600          5.00   2.00 9-Uchida-Rind vs 15-Tipton-Hesson
+  690          7.00   0.00 12-Zaugg-Falls vs 11-Brunswig-Romeo
+  130          3.50   3.50 14-Ford-Christie vs 10-McCaslin-Davis
+  130          3.50   3.50 16-Binney-Hovda vs 7-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   0.00 1-Jain-Wiitala vs 5-Galer-Vulcan
+   50          5.50   1.50 2-Miller-Poore vs 4-Pesce-Tu
+        420    1.00   6.00 3-Cline-Hankins vs 8-Haldane-Miller
+   50          5.50   1.50 6-Christensen-Ring vs 13-Sieg-Eng
+        430    0.00   7.00 9-Uchida-Rind vs 15-Tipton-Hesson
+        100    4.00   3.00 12-Zaugg-Falls vs 11-Brunswig-Romeo
+        400    2.50   4.50 14-Ford-Christie vs 10-McCaslin-Davis
+        400    2.50   4.50 16-Binney-Hovda vs 7-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    4.00   3.00 2-Miller-Poore vs 6-Christensen-Ring
+        420    4.00   3.00 3-Cline-Hankins vs 5-Galer-Vulcan
+        420    4.00   3.00 4-Pesce-Tu vs 9-Uchida-Rind
+        450    0.00   7.00 7-Roselle-Anderson vs 1-Jain-Wiitala
+        420    4.00   3.00 10-McCaslin-Davis vs 15-Tipton-Hesson
+        420    4.00   3.00 13-Sieg-Eng vs 12-Zaugg-Falls
+        420    4.00   3.00 14-Ford-Christie vs 11-Brunswig-Romeo
+        420    4.00   3.00 16-Binney-Hovda vs 8-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    5.50   1.50 2-Miller-Poore vs 6-Christensen-Ring
+        630    5.50   1.50 3-Cline-Hankins vs 5-Galer-Vulcan
+  100          7.00   0.00 4-Pesce-Tu vs 9-Uchida-Rind
+        660    1.00   6.00 7-Roselle-Anderson vs 1-Jain-Wiitala
+        650    3.50   3.50 10-McCaslin-Davis vs 15-Tipton-Hesson
+        660    1.00   6.00 13-Sieg-Eng vs 12-Zaugg-Falls
+        660    1.00   6.00 14-Ford-Christie vs 11-Brunswig-Romeo
+        650    3.50   3.50 16-Binney-Hovda vs 8-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          6.00   1.00 1-Jain-Wiitala vs 13-Sieg-Eng
+  100          0.50   6.50 3-Cline-Hankins vs 7-Roselle-Anderson
+  140          3.50   3.50 4-Pesce-Tu vs 6-Christensen-Ring
+  100          0.50   6.50 5-Galer-Vulcan vs 10-McCaslin-Davis
+  150          6.00   1.00 8-Haldane-Miller vs 2-Miller-Poore
+  150          6.00   1.00 14-Ford-Christie vs 12-Zaugg-Falls
+  140          3.50   3.50 15-Tipton-Hesson vs 11-Brunswig-Romeo
+  120          2.00   5.00 16-Binney-Hovda vs 9-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   4.00 1-Jain-Wiitala vs 13-Sieg-Eng
+  170          5.50   1.50 3-Cline-Hankins vs 7-Roselle-Anderson
+  140          4.00   3.00 4-Pesce-Tu vs 6-Christensen-Ring
+        200    0.00   7.00 5-Galer-Vulcan vs 10-McCaslin-Davis
+  200          7.00   0.00 8-Haldane-Miller vs 2-Miller-Poore
+  170          5.50   1.50 14-Ford-Christie vs 12-Zaugg-Falls
+  100          2.00   5.00 15-Tipton-Hesson vs 11-Brunswig-Romeo
+         90    1.00   6.00 16-Binney-Hovda vs 9-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.00   6.00 2-Miller-Poore vs 1-Jain-Wiitala
+  490          5.00   2.00 4-Pesce-Tu vs 8-Haldane-Miller
+  920          7.00   0.00 5-Galer-Vulcan vs 7-Roselle-Anderson
+  420          3.00   4.00 6-Christensen-Ring vs 11-Brunswig-Romeo
+  490          5.00   2.00 9-Uchida-Rind vs 3-Cline-Hankins
+  400          1.00   6.00 14-Ford-Christie vs 13-Sieg-Eng
+  400          1.00   6.00 15-Tipton-Hesson vs 12-Zaugg-Falls
+  490          5.00   2.00 16-Binney-Hovda vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    6.00   1.00 2-Miller-Poore vs 1-Jain-Wiitala
+        690    3.00   4.00 4-Pesce-Tu vs 8-Haldane-Miller
+       1440    0.00   7.00 5-Galer-Vulcan vs 7-Roselle-Anderson
+        630    5.00   2.00 6-Christensen-Ring vs 11-Brunswig-Romeo
+        720    1.00   6.00 9-Uchida-Rind vs 3-Cline-Hankins
+        690    3.00   4.00 14-Ford-Christie vs 13-Sieg-Eng
+  100          7.00   0.00 15-Tipton-Hesson vs 12-Zaugg-Falls
+        690    3.00   4.00 16-Binney-Hovda vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.50   4.50 1-Jain-Wiitala vs 14-Ford-Christie
+  600          1.00   6.00 3-Cline-Hankins vs 2-Miller-Poore
+        100    0.00   7.00 5-Galer-Vulcan vs 9-Uchida-Rind
+  650          6.00   1.00 6-Christensen-Ring vs 8-Haldane-Miller
+  650          6.00   1.00 7-Roselle-Anderson vs 12-Zaugg-Falls
+  630          4.00   3.00 10-McCaslin-Davis vs 4-Pesce-Tu
+  620          2.50   4.50 15-Tipton-Hesson vs 13-Sieg-Eng
+  650          6.00   1.00 16-Binney-Hovda vs 11-Brunswig-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   7.00 1-Jain-Wiitala vs 14-Ford-Christie
+        110    3.00   4.00 3-Cline-Hankins vs 2-Miller-Poore
+  300          6.50   0.50 5-Galer-Vulcan vs 9-Uchida-Rind
+  300          6.50   0.50 6-Christensen-Ring vs 8-Haldane-Miller
+        130    2.00   5.00 7-Roselle-Anderson vs 12-Zaugg-Falls
+        140    1.00   6.00 10-McCaslin-Davis vs 4-Pesce-Tu
+  200          5.00   2.00 15-Tipton-Hesson vs 13-Sieg-Eng
+  100          4.00   3.00 16-Binney-Hovda vs 11-Brunswig-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   0.00 2-Miller-Poore vs 14-Ford-Christie
+        170    3.50   3.50 4-Pesce-Tu vs 3-Cline-Hankins
+        170    3.50   3.50 6-Christensen-Ring vs 10-McCaslin-Davis
+        790    0.00   7.00 7-Roselle-Anderson vs 9-Uchida-Rind
+        130    5.50   1.50 8-Haldane-Miller vs 13-Sieg-Eng
+        200    2.00   5.00 11-Brunswig-Romeo vs 5-Galer-Vulcan
+        620    1.00   6.00 15-Tipton-Hesson vs 1-Jain-Wiitala
+        130    5.50   1.50 16-Binney-Hovda vs 12-Zaugg-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   7.00 2-Miller-Poore vs 14-Ford-Christie
+  110          1.00   6.00 4-Pesce-Tu vs 3-Cline-Hankins
+  140          4.50   2.50 6-Christensen-Ring vs 10-McCaslin-Davis
+  500          7.00   0.00 7-Roselle-Anderson vs 9-Uchida-Rind
+  120          2.50   4.50 8-Haldane-Miller vs 13-Sieg-Eng
+  150          6.00   1.00 11-Brunswig-Romeo vs 5-Galer-Vulcan
+  140          4.50   2.50 15-Tipton-Hesson vs 1-Jain-Wiitala
+  120          2.50   4.50 16-Binney-Hovda vs 12-Zaugg-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          4.00   3.00 3-Cline-Hankins vs 14-Ford-Christie
+  480          4.00   3.00 5-Galer-Vulcan vs 4-Pesce-Tu
+  450          0.00   7.00 7-Roselle-Anderson vs 11-Brunswig-Romeo
+  480          4.00   3.00 8-Haldane-Miller vs 10-McCaslin-Davis
+  480          4.00   3.00 9-Uchida-Rind vs 1-Jain-Wiitala
+  480          4.00   3.00 12-Zaugg-Falls vs 6-Christensen-Ring
+  480          4.00   3.00 15-Tipton-Hesson vs 2-Miller-Poore
+  480          4.00   3.00 16-Binney-Hovda vs 13-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          7.00   0.00 3-Cline-Hankins vs 14-Ford-Christie
+        130    0.00   7.00 5-Galer-Vulcan vs 4-Pesce-Tu
+  100          5.00   2.00 7-Roselle-Anderson vs 11-Brunswig-Romeo
+        110    2.00   5.00 8-Haldane-Miller vs 10-McCaslin-Davis
+  200          6.00   1.00 9-Uchida-Rind vs 1-Jain-Wiitala
+        110    2.00   5.00 12-Zaugg-Falls vs 6-Christensen-Ring
+        110    2.00   5.00 15-Tipton-Hesson vs 2-Miller-Poore
+         90    4.00   3.00 16-Binney-Hovda vs 13-Sieg-Eng
+----------------------------------------------------------------------
