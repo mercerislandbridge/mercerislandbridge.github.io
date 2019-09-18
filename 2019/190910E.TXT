@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 10, 2019 |CLUB NO.>158048    | 09/10/2019 22:42
+DATE>September 10, 2019 |CLUB NO.>158048    | 09/17/2019 18:42
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,7 +11,7 @@ PAIRS IN STRAT A=16/B=12/C=3                     ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Peiyush Jain           Yuri Wiitala             C    .     .     .     84.00  46.15          
+ 1 Peiyush Jain           Yuri Wiitala             C    .     .     .     87.00  47.80          
 
  2 Ray Miller             Daniel Poore             A    3     .     .    103.00  56.59  0.80(A) 
 
@@ -21,7 +21,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  5 Corneliu Galer         Bogdan Vulcan            C    .     .     .     80.00  43.96          
 
- 6 Mike Christensen       Mike Ring                A    2     .     .    105.00  57.69  1.12(A) 
+ 6 Mike Christensen       Mike Ring                A    1     .     .    105.00  57.69  1.50(A) 
 
  7 David Roselle          Sue Anderson             B    .     .     .     85.00  46.70          
 
@@ -29,7 +29,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  9 John Uchida            Brad Rind                C    .    4/5    1     91.00  50.00  0.27(B) 
 
-10 John McCaslin          Grant Davis              B    1     1     .    106.50  58.52  1.50(A) 
+10 John McCaslin          Grant Davis              B    2     1     .    103.50  56.87  1.12(A) 
 
 11 Jessie Brunswig        Ann Romeo                B    .     .     .     82.50  45.33          
 
@@ -106,11 +106,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
+  110          6.50   0.50 1-Jain-Wiitala vs 10-McCaslin-Davis
   110          6.50   0.50 2-Miller-Poore vs 9-Uchida-Rind
    50          2.50   4.50 5-Galer-Vulcan vs 15-Tipton-Hesson
         140    0.00   7.00 6-Christensen-Ring vs 14-Ford-Christie
    50          2.50   4.50 8-Haldane-Miller vs 7-Roselle-Anderson
-  110          6.50   0.50 10-McCaslin-Davis vs 1-Jain-Wiitala
         110    1.00   6.00 11-Brunswig-Romeo vs 13-Sieg-Eng
   100          4.50   2.50 12-Zaugg-Falls vs 4-Pesce-Tu
   100          4.50   2.50 16-Binney-Hovda vs 3-Cline-Hankins
@@ -120,11 +120,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
+  130          2.00   5.00 1-Jain-Wiitala vs 10-McCaslin-Davis
   110          0.00   7.00 2-Miller-Poore vs 9-Uchida-Rind
   420          6.00   1.00 5-Galer-Vulcan vs 15-Tipton-Hesson
   420          6.00   1.00 6-Christensen-Ring vs 14-Ford-Christie
   420          6.00   1.00 8-Haldane-Miller vs 7-Roselle-Anderson
-  130          2.00   5.00 10-McCaslin-Davis vs 1-Jain-Wiitala
   170          4.00   3.00 11-Brunswig-Romeo vs 13-Sieg-Eng
   130          2.00   5.00 12-Zaugg-Falls vs 4-Pesce-Tu
   130          2.00   5.00 16-Binney-Hovda vs 3-Cline-Hankins
