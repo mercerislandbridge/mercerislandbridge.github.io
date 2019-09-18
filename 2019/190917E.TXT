@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 17, 2019 |CLUB NO.>158048    | 09/17/2019 23:40
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Greg       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=10/C=3                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Ann Romeo                B    .     .     .     67.17  43.06          
+
+ 2 Ray Miller             Chris Moore              A    .     .     .     80.71  51.74          
+
+ 3 Kevin Cline            David Hankins            B    .     .     .     68.25  43.75          
+
+ 4 Chris Pesce            Christopher Jarvis       B    .     .     .     70.42  45.14          
+
+ 5 John McCaslin          Grant Davis              B    3     1     .     91.54  58.68  0.80(B) 
+
+ 6 Mike Christensen       Stanford Christie        A    2     .     .     92.00  58.97  1.05(A) 
+
+ 7 Kim Eng                Jeffrey Ford             A    1     .     .     99.13  63.54  1.50(A) 
+
+ 8 Nick Tipton            Galen Hesson             B    4     2     .     86.67  55.56  0.56(B) 
+
+
+
+10 Bogdan Vulcan          Guy Arie                 A    .     .     .     75.83  48.61          
+
+11 Pete Cowles            Clay Laughary            C    .     .     .     73.13  46.88          
+
+12 Eric Sieg              Gregory Herman           B    5     3     .     82.00  52.56  0.40(B) 
+
+13 John Uchida            Brad Rind                C    6     4     1     81.25  52.08  0.28(B) 
+
+14 Hugh Hendrickson       Anne Farmer              C    .     .     .     57.96  37.15          
+
+15 Beau Hovda             Sue Anderson             B    .     .     .     62.83  40.28          
+
+16 Dave Setterholm        Gary Haldane             A    .     .     .     79.63  51.04          
+
+
+                                          Totals                        1168.52       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    4.50   1.50 4-Pesce-Jarvis vs 14-Hendrickson-Farmer
+        920    1.00   5.00 6-Christensen-Christie vs 5-McCaslin-Davis
+        920    1.00   5.00 8-Tipton-Hesson vs 12-Sieg-Herman
+   50          6.00   0.00 10-Vulcan-Arie vs 2-Miller-Moore
+        460    4.50   1.50 13-Uchida-Rind vs 7-Eng-Ford
+        920    1.00   5.00 15-Hovda-Anderson vs 3-Cline-Hankins
+        490    3.00   3.00 16-Setterholm-Haldane vs 1-Zaugg-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   4.00 4-Pesce-Jarvis vs 14-Hendrickson-Farmer
+  600          2.00   4.00 6-Christensen-Christie vs 5-McCaslin-Davis
+ 1100          6.00   0.00 8-Tipton-Hesson vs 12-Sieg-Herman
+  690          5.00   1.00 10-Vulcan-Arie vs 2-Miller-Moore
+  600          2.00   4.00 13-Uchida-Rind vs 7-Eng-Ford
+  600          2.00   4.00 15-Hovda-Anderson vs 3-Cline-Hankins
+  600          2.00   4.00 16-Setterholm-Haldane vs 1-Zaugg-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   5.50 1-Zaugg-Romeo vs 8-Tipton-Hesson
+        100    0.50   5.50 4-Pesce-Jarvis vs 15-Hovda-Anderson
+  430          5.00   1.00 5-McCaslin-Davis vs 14-Hendrickson-Farmer
+         50    2.00   4.00 7-Eng-Ford vs 6-Christensen-Christie
+  110          3.00   3.00 10-Vulcan-Arie vs 12-Sieg-Herman
+  430          5.00   1.00 11-Cowles-Laughary vs 3-Cline-Hankins
+  430          5.00   1.00 16-Setterholm-Haldane vs 2-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          5.50   0.50 1-Zaugg-Romeo vs 8-Tipton-Hesson
+        100    4.00   2.00 4-Pesce-Jarvis vs 15-Hovda-Anderson
+        200    2.00   4.00 5-McCaslin-Davis vs 14-Hendrickson-Farmer
+   90          5.50   0.50 7-Eng-Ford vs 6-Christensen-Christie
+        200    2.00   4.00 10-Vulcan-Arie vs 12-Sieg-Herman
+        300    0.00   6.00 11-Cowles-Laughary vs 3-Cline-Hankins
+        200    2.00   4.00 16-Setterholm-Haldane vs 2-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   4.00 5-McCaslin-Davis vs 15-Hovda-Anderson
+  150          5.50   0.50 6-Christensen-Christie vs 14-Hendrickson-Farmer
+  100          3.50   2.50 8-Tipton-Hesson vs 7-Eng-Ford
+        550    0.00   6.00 10-Vulcan-Arie vs 1-Zaugg-Romeo
+  100          3.50   2.50 11-Cowles-Laughary vs 13-Uchida-Rind
+        400    1.00   5.00 12-Sieg-Herman vs 4-Pesce-Jarvis
+  150          5.50   0.50 16-Setterholm-Haldane vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   1.50 5-McCaslin-Davis vs 15-Hovda-Anderson
+        100    2.00   4.00 6-Christensen-Christie vs 14-Hendrickson-Farmer
+        620    0.50   5.50 8-Tipton-Hesson vs 7-Eng-Ford
+  100          4.50   1.50 10-Vulcan-Arie vs 1-Zaugg-Romeo
+        620    0.50   5.50 11-Cowles-Laughary vs 13-Uchida-Rind
+  100          4.50   1.50 12-Sieg-Herman vs 4-Pesce-Jarvis
+  100          4.50   1.50 16-Setterholm-Haldane vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    2.50   3.50 3-Cline-Hankins vs 10-Vulcan-Arie
+        650    6.00   0.00 6-Christensen-Christie vs 15-Hovda-Anderson
+        680    2.50   3.50 11-Cowles-Laughary vs 2-Miller-Moore
+        680    2.50   3.50 12-Sieg-Herman vs 1-Zaugg-Romeo
+        680    2.50   3.50 13-Uchida-Rind vs 5-McCaslin-Davis
+        680    2.50   3.50 14-Hendrickson-Farmer vs 7-Eng-Ford
+        680    2.50   3.50 16-Setterholm-Haldane vs 4-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.50   3.50 3-Cline-Hankins vs 10-Vulcan-Arie
+        400    2.50   3.50 6-Christensen-Christie vs 15-Hovda-Anderson
+        400    2.50   3.50 11-Cowles-Laughary vs 2-Miller-Moore
+        400    2.50   3.50 12-Sieg-Herman vs 1-Zaugg-Romeo
+        400    2.50   3.50 13-Uchida-Rind vs 5-McCaslin-Davis
+        400    2.50   3.50 14-Hendrickson-Farmer vs 7-Eng-Ford
+        150    6.00   0.00 16-Setterholm-Haldane vs 4-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.00   3.00 1-Zaugg-Romeo vs 6-Christensen-Christie
+        800    0.00   6.00 4-Pesce-Jarvis vs 11-Cowles-Laughary
+        150    3.00   3.00 7-Eng-Ford vs 15-Hovda-Anderson
+        100    5.00   1.00 12-Sieg-Herman vs 3-Cline-Hankins
+        720    1.00   5.00 13-Uchida-Rind vs 2-Miller-Moore
+        150    3.00   3.00 14-Hendrickson-Farmer vs 8-Tipton-Hesson
+  100          6.00   0.00 16-Setterholm-Haldane vs 5-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 1-Zaugg-Romeo vs 6-Christensen-Christie
+   90          3.50   2.50 4-Pesce-Jarvis vs 11-Cowles-Laughary
+  150          6.00   0.00 7-Eng-Ford vs 15-Hovda-Anderson
+  120          5.00   1.00 12-Sieg-Herman vs 3-Cline-Hankins
+   90          3.50   2.50 13-Uchida-Rind vs 2-Miller-Moore
+        100    2.00   4.00 14-Hendrickson-Farmer vs 8-Tipton-Hesson
+        110    1.00   5.00 16-Setterholm-Haldane vs 5-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   4.50 1-Zaugg-Romeo vs 3-Cline-Hankins
+        140    1.50   4.50 2-Miller-Moore vs 7-Eng-Ford
+        140    1.50   4.50 5-McCaslin-Davis vs 12-Sieg-Herman
+  130          6.00   0.00 8-Tipton-Hesson vs 15-Hovda-Anderson
+  110          5.00   1.00 11-Cowles-Laughary vs 10-Vulcan-Arie
+        140    1.50   4.50 13-Uchida-Rind vs 4-Pesce-Jarvis
+        110    4.00   2.00 16-Setterholm-Haldane vs 6-Christensen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.00   3.00 1-Zaugg-Romeo vs 3-Cline-Hankins
+        800    0.00   6.00 2-Miller-Moore vs 7-Eng-Ford
+  100          6.00   0.00 5-McCaslin-Davis vs 12-Sieg-Herman
+        400    3.00   3.00 8-Tipton-Hesson vs 15-Hovda-Anderson
+        400    3.00   3.00 11-Cowles-Laughary vs 10-Vulcan-Arie
+   50          5.00   1.00 13-Uchida-Rind vs 4-Pesce-Jarvis
+        430    1.00   5.00 16-Setterholm-Haldane vs 6-Christensen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   5.00 1-Zaugg-Romeo vs 5-McCaslin-Davis
+  140          5.00   1.00 2-Miller-Moore vs 4-Pesce-Jarvis
+   90          4.00   2.00 3-Cline-Hankins vs 8-Tipton-Hesson
+  730          6.00   0.00 6-Christensen-Christie vs 13-Uchida-Rind
+        100    3.00   3.00 12-Sieg-Herman vs 11-Cowles-Laughary
+        130    2.00   4.00 14-Hendrickson-Farmer vs 10-Vulcan-Arie
+        500    0.00   6.00 16-Setterholm-Haldane vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   3.00 1-Zaugg-Romeo vs 5-McCaslin-Davis
+   50          3.00   3.00 2-Miller-Moore vs 4-Pesce-Jarvis
+        450    0.00   6.00 3-Cline-Hankins vs 8-Tipton-Hesson
+  100          5.00   1.00 6-Christensen-Christie vs 13-Uchida-Rind
+  110          6.00   0.00 12-Sieg-Herman vs 11-Cowles-Laughary
+   50          3.00   3.00 14-Hendrickson-Farmer vs 10-Vulcan-Arie
+         50    1.00   5.00 16-Setterholm-Haldane vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          1.50   4.50 2-Miller-Moore vs 6-Christensen-Christie
+  630          4.50   1.50 3-Cline-Hankins vs 5-McCaslin-Davis
+  660          6.00   0.00 7-Eng-Ford vs 1-Zaugg-Romeo
+  620          3.00   3.00 10-Vulcan-Arie vs 15-Hovda-Anderson
+  630          4.50   1.50 13-Uchida-Rind vs 12-Sieg-Herman
+        100    0.00   6.00 14-Hendrickson-Farmer vs 11-Cowles-Laughary
+  600          1.50   4.50 16-Setterholm-Haldane vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   2.00 2-Miller-Moore vs 6-Christensen-Christie
+         90    1.50   4.50 3-Cline-Hankins vs 5-McCaslin-Davis
+         50    3.00   3.00 7-Eng-Ford vs 1-Zaugg-Romeo
+  170          5.00   1.00 10-Vulcan-Arie vs 15-Hovda-Anderson
+        140    0.00   6.00 13-Uchida-Rind vs 12-Sieg-Herman
+  200          6.00   0.00 14-Hendrickson-Farmer vs 11-Cowles-Laughary
+         90    1.50   4.50 16-Setterholm-Haldane vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   0.00 1-Zaugg-Romeo vs 13-Uchida-Rind
+   90          4.00   2.00 3-Cline-Hankins vs 7-Eng-Ford
+   90          4.00   2.00 4-Pesce-Jarvis vs 6-Christensen-Christie
+   90          4.00   2.00 5-McCaslin-Davis vs 10-Vulcan-Arie
+   50          1.50   4.50 8-Tipton-Hesson vs 2-Miller-Moore
+        140    0.00   6.00 14-Hendrickson-Farmer vs 12-Sieg-Herman
+   50          1.50   4.50 15-Hovda-Anderson vs 11-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   4.00 1-Zaugg-Romeo vs 13-Uchida-Rind
+        450    2.00   4.00 3-Cline-Hankins vs 7-Eng-Ford
+        450    2.00   4.00 4-Pesce-Jarvis vs 6-Christensen-Christie
+        450    2.00   4.00 5-McCaslin-Davis vs 10-Vulcan-Arie
+   50          5.50   0.50 8-Tipton-Hesson vs 2-Miller-Moore
+        450    2.00   4.00 14-Hendrickson-Farmer vs 12-Sieg-Herman
+   50          5.50   0.50 15-Hovda-Anderson vs 11-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   2.00 2-Miller-Moore vs 1-Zaugg-Romeo
+         50    4.00   2.00 4-Pesce-Jarvis vs 8-Tipton-Hesson
+         50    4.00   2.00 5-McCaslin-Davis vs 7-Eng-Ford
+        100    1.50   4.50 6-Christensen-Christie vs 11-Cowles-Laughary
+        150    0.00   6.00 14-Hendrickson-Farmer vs 13-Uchida-Rind
+        100    1.50   4.50 15-Hovda-Anderson vs 12-Sieg-Herman
+  800          6.00   0.00 16-Setterholm-Haldane vs 10-Vulcan-Arie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   0.00 2-Miller-Moore vs 1-Zaugg-Romeo
+        100    4.50   1.50 4-Pesce-Jarvis vs 8-Tipton-Hesson
+        150    1.50   4.50 5-McCaslin-Davis vs 7-Eng-Ford
+        100    4.50   1.50 6-Christensen-Christie vs 11-Cowles-Laughary
+        800    0.00   6.00 14-Hendrickson-Farmer vs 13-Uchida-Rind
+        130    3.00   3.00 15-Hovda-Anderson vs 12-Sieg-Herman
+        150    1.50   4.50 16-Setterholm-Haldane vs 10-Vulcan-Arie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          6.00   0.00 1-Zaugg-Romeo vs 14-Hendrickson-Farmer
+        200    0.00   6.00 3-Cline-Hankins vs 2-Miller-Moore
+  110          3.00   3.00 6-Christensen-Christie vs 8-Tipton-Hesson
+  110          3.00   3.00 7-Eng-Ford vs 12-Sieg-Herman
+  110          3.00   3.00 10-Vulcan-Arie vs 4-Pesce-Jarvis
+  110          3.00   3.00 15-Hovda-Anderson vs 13-Uchida-Rind
+  110          3.00   3.00 16-Setterholm-Haldane vs 11-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        670    0.00   6.00 1-Zaugg-Romeo vs 14-Hendrickson-Farmer
+        100    2.00   4.00 3-Cline-Hankins vs 2-Miller-Moore
+         50    4.00   2.00 6-Christensen-Christie vs 8-Tipton-Hesson
+  300          6.00   0.00 7-Eng-Ford vs 12-Sieg-Herman
+         50    4.00   2.00 10-Vulcan-Arie vs 4-Pesce-Jarvis
+        140    1.00   5.00 15-Hovda-Anderson vs 13-Uchida-Rind
+         50    4.00   2.00 16-Setterholm-Haldane vs 11-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.50   1.50 2-Miller-Moore vs 14-Hendrickson-Farmer
+  110          4.50   1.50 4-Pesce-Jarvis vs 3-Cline-Hankins
+  110          4.50   1.50 6-Christensen-Christie vs 10-Vulcan-Arie
+        100    1.00   5.00 8-Tipton-Hesson vs 13-Uchida-Rind
+        140    0.00   6.00 11-Cowles-Laughary vs 5-McCaslin-Davis
+  100          2.00   4.00 15-Hovda-Anderson vs 1-Zaugg-Romeo
+  110          4.50   1.50 16-Setterholm-Haldane vs 12-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   3.50 2-Miller-Moore vs 14-Hendrickson-Farmer
+         50    2.50   3.50 4-Pesce-Jarvis vs 3-Cline-Hankins
+         50    2.50   3.50 6-Christensen-Christie vs 10-Vulcan-Arie
+         50    2.50   3.50 8-Tipton-Hesson vs 13-Uchida-Rind
+         50    2.50   3.50 11-Cowles-Laughary vs 5-McCaslin-Davis
+  420          6.00   0.00 15-Hovda-Anderson vs 1-Zaugg-Romeo
+         50    2.50   3.50 16-Setterholm-Haldane vs 12-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    4.50   1.50 3-Cline-Hankins vs 14-Hendrickson-Farmer
+        660    2.50   3.50 5-McCaslin-Davis vs 4-Pesce-Jarvis
+        660    2.50   3.50 7-Eng-Ford vs 11-Cowles-Laughary
+        260    6.00   0.00 8-Tipton-Hesson vs 10-Vulcan-Arie
+        710    1.00   5.00 12-Sieg-Herman vs 6-Christensen-Christie
+        720    0.00   6.00 15-Hovda-Anderson vs 2-Miller-Moore
+        630    4.50   1.50 16-Setterholm-Haldane vs 13-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   3.00 3-Cline-Hankins vs 14-Hendrickson-Farmer
+  200          5.00   1.00 5-McCaslin-Davis vs 4-Pesce-Jarvis
+        200    0.00   6.00 7-Eng-Ford vs 11-Cowles-Laughary
+  200          5.00   1.00 8-Tipton-Hesson vs 10-Vulcan-Arie
+  100          2.00   4.00 12-Sieg-Herman vs 6-Christensen-Christie
+  200          5.00   1.00 15-Hovda-Anderson vs 2-Miller-Moore
+        100    1.00   5.00 16-Setterholm-Haldane vs 13-Uchida-Rind
+----------------------------------------------------------------------
