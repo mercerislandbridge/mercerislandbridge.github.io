@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 8, 2019    |CLUB NO.>158048    | 10/08/2019 22:20
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=11/C=2                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Renae Gunstone-White   Becky Stevens            B    .     .     .     68.79  44.10          
+
+ 2 Mark Headlee           Grant Davis              C    .     .     .     63.38  40.63          
+
+ 3 Ray Miller             Daniel Poore             A    4     .     .     83.42  53.47  0.53(A) 
+
+ 4 Chris Pesce            Rex Tu                   B    .     .     .     76.38  48.96          
+
+ 5 Kevin Cline            David Hankins            B    5     3     .     78.54  50.35  0.44(B) 
+
+ 6 Valerie Lycette        Ann Romeo                B    .     .     .     65.00  41.67          
+
+ 7 Ivan Popivanov         Peiyush Jain             C    .     .     .     69.00  44.23          
+
+ 8 Mike Christensen       Mike Ring                A    .     .     .     72.04  46.18          
+
+ 9                                                 A    .     .     .     69.88  44.79          
+
+
+
+11 David Walker           Joel Fuhrman             B    6     4     .     78.00  50.00  0.31(B) 
+
+12 Gary Haldane           Sue Anderson             B    .     .     .     69.88  44.79          
+
+13 Brian Zaugg            Shawn Abernethy          B    .     .     .     77.50  49.68          
+
+14 Jeffrey Ford           Aaron Mohrman            A    1     .     .    111.04  71.18  1.50(A) 
+
+15 Nick Tipton            Galen Hesson             B    3     2     .     92.08  59.03  0.75(A) 
+
+16 Corneliu Galer         Bogdan Vulcan            B    2     1     .     95.88  61.46  1.05(A) 
+
+
+                                          Totals                        1170.81       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   5.50 4-Pesce-Tu vs 14-Ford-Mohrman
+         50    0.50   5.50 6-Lycette-Romeo vs 5-Cline-Hankins
+  420          2.50   3.50 8-Christensen-Ring vs 12-Haldane-Anderson
+  800          6.00   0.00 9-- vs 11-Walker-Fuhrman
+  450          4.00   2.00 13-Zaugg-Abernethy vs 7-Popivanov-Jain
+  420          2.50   3.50 15-Tipton-Hesson vs 3-Miller-Poore
+  500          5.00   1.00 16-Galer-Vulcan vs 1-Gunstone-White-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.50   3.50 4-Pesce-Tu vs 14-Ford-Mohrman
+        200    6.00   0.00 6-Lycette-Romeo vs 5-Cline-Hankins
+        420    2.50   3.50 8-Christensen-Ring vs 12-Haldane-Anderson
+        420    2.50   3.50 9-- vs 11-Walker-Fuhrman
+        420    2.50   3.50 13-Zaugg-Abernethy vs 7-Popivanov-Jain
+        420    2.50   3.50 15-Tipton-Hesson vs 3-Miller-Poore
+        420    2.50   3.50 16-Galer-Vulcan vs 1-Gunstone-White-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   3.50 1-Gunstone-White-Stevens vs 8-Christensen-Ring
+  130          5.00   1.00 4-Pesce-Tu vs 15-Tipton-Hesson
+        100    0.00   6.00 5-Cline-Hankins vs 14-Ford-Mohrman
+         50    2.50   3.50 7-Popivanov-Jain vs 6-Lycette-Romeo
+         50    2.50   3.50 9-- vs 13-Zaugg-Abernethy
+         50    2.50   3.50 11-Walker-Fuhrman vs 3-Miller-Poore
+  400          6.00   0.00 16-Galer-Vulcan vs 2-Headlee-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   2.00 1-Gunstone-White-Stevens vs 8-Christensen-Ring
+        110    4.00   2.00 4-Pesce-Tu vs 15-Tipton-Hesson
+        130    1.50   4.50 5-Cline-Hankins vs 14-Ford-Mohrman
+        670    0.00   6.00 7-Popivanov-Jain vs 6-Lycette-Romeo
+        130    1.50   4.50 9-- vs 13-Zaugg-Abernethy
+   90          6.00   0.00 11-Walker-Fuhrman vs 3-Miller-Poore
+        110    4.00   2.00 16-Galer-Vulcan vs 2-Headlee-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          4.00   2.00 2-Headlee-Davis vs 9--
+ 1430          4.00   2.00 5-Cline-Hankins vs 15-Tipton-Hesson
+  680          1.00   5.00 6-Lycette-Romeo vs 14-Ford-Mohrman
+ 1430          4.00   2.00 8-Christensen-Ring vs 7-Popivanov-Jain
+ 1430          4.00   2.00 11-Walker-Fuhrman vs 13-Zaugg-Abernethy
+        100    0.00   6.00 12-Haldane-Anderson vs 4-Pesce-Tu
+ 1430          4.00   2.00 16-Galer-Vulcan vs 3-Miller-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   0.00 2-Headlee-Davis vs 9--
+        630    2.00   4.00 5-Cline-Hankins vs 15-Tipton-Hesson
+        680    0.00   6.00 6-Lycette-Romeo vs 14-Ford-Mohrman
+        600    4.00   2.00 8-Christensen-Ring vs 7-Popivanov-Jain
+        650    1.00   5.00 11-Walker-Fuhrman vs 13-Zaugg-Abernethy
+        600    4.00   2.00 12-Haldane-Anderson vs 4-Pesce-Tu
+        600    4.00   2.00 16-Galer-Vulcan vs 3-Miller-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.00   5.00 6-Lycette-Romeo vs 15-Tipton-Hesson
+  620          5.00   1.00 9-- vs 8-Christensen-Ring
+  170          3.00   3.00 11-Walker-Fuhrman vs 2-Headlee-Davis
+  140          1.00   5.00 12-Haldane-Anderson vs 1-Gunstone-White-Stevens
+  620          5.00   1.00 13-Zaugg-Abernethy vs 5-Cline-Hankins
+  140          1.00   5.00 14-Ford-Mohrman vs 7-Popivanov-Jain
+  620          5.00   1.00 16-Galer-Vulcan vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   6.00 6-Lycette-Romeo vs 15-Tipton-Hesson
+  120          4.50   1.50 9-- vs 8-Christensen-Ring
+  150          6.00   0.00 11-Walker-Fuhrman vs 2-Headlee-Davis
+         90    1.00   5.00 12-Haldane-Anderson vs 1-Gunstone-White-Stevens
+         50    2.00   4.00 13-Zaugg-Abernethy vs 5-Cline-Hankins
+  120          4.50   1.50 14-Ford-Mohrman vs 7-Popivanov-Jain
+   50          3.00   3.00 16-Galer-Vulcan vs 4-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.50   2.50 1-Gunstone-White-Stevens vs 6-Lycette-Romeo
+        600    0.00   6.00 4-Pesce-Tu vs 11-Walker-Fuhrman
+        200    3.50   2.50 7-Popivanov-Jain vs 15-Tipton-Hesson
+        210    1.00   5.00 12-Haldane-Anderson vs 3-Miller-Poore
+        200    3.50   2.50 13-Zaugg-Abernethy vs 2-Headlee-Davis
+        140    6.00   0.00 14-Ford-Mohrman vs 8-Christensen-Ring
+        200    3.50   2.50 16-Galer-Vulcan vs 5-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.00   4.00 1-Gunstone-White-Stevens vs 6-Lycette-Romeo
+  680          2.00   4.00 4-Pesce-Tu vs 11-Walker-Fuhrman
+  680          2.00   4.00 7-Popivanov-Jain vs 15-Tipton-Hesson
+  680          2.00   4.00 12-Haldane-Anderson vs 3-Miller-Poore
+  690          5.00   1.00 13-Zaugg-Abernethy vs 2-Headlee-Davis
+ 1430          6.00   0.00 14-Ford-Mohrman vs 8-Christensen-Ring
+  680          2.00   4.00 16-Galer-Vulcan vs 5-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   4.50 1-Gunstone-White-Stevens vs 3-Miller-Poore
+        170    4.50   1.50 2-Headlee-Davis vs 7-Popivanov-Jain
+        420    1.50   4.50 5-Cline-Hankins vs 12-Haldane-Anderson
+        420    1.50   4.50 8-Christensen-Ring vs 15-Tipton-Hesson
+        420    1.50   4.50 13-Zaugg-Abernethy vs 4-Pesce-Tu
+         50    6.00   0.00 14-Ford-Mohrman vs 9--
+        170    4.50   1.50 16-Galer-Vulcan vs 6-Lycette-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   3.50 1-Gunstone-White-Stevens vs 3-Miller-Poore
+   50          5.00   1.00 2-Headlee-Davis vs 7-Popivanov-Jain
+   50          5.00   1.00 5-Cline-Hankins vs 12-Haldane-Anderson
+        420    1.00   5.00 8-Christensen-Ring vs 15-Tipton-Hesson
+        170    2.50   3.50 13-Zaugg-Abernethy vs 4-Pesce-Tu
+        450    0.00   6.00 14-Ford-Mohrman vs 9--
+   50          5.00   1.00 16-Galer-Vulcan vs 6-Lycette-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.00   6.00 1-Gunstone-White-Stevens vs 5-Cline-Hankins
+        170    3.50   2.50 2-Headlee-Davis vs 4-Pesce-Tu
+        170    3.50   2.50 3-Miller-Poore vs 8-Christensen-Ring
+        170    3.50   2.50 6-Lycette-Romeo vs 13-Zaugg-Abernethy
+        170    3.50   2.50 9-- vs 15-Tipton-Hesson
+        170    3.50   2.50 12-Haldane-Anderson vs 11-Walker-Fuhrman
+        170    3.50   2.50 16-Galer-Vulcan vs 7-Popivanov-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.50   3.50 1-Gunstone-White-Stevens vs 5-Cline-Hankins
+        430    0.00   6.00 2-Headlee-Davis vs 4-Pesce-Tu
+        400    2.50   3.50 3-Miller-Poore vs 8-Christensen-Ring
+        130    5.00   1.00 6-Lycette-Romeo vs 13-Zaugg-Abernethy
+        400    2.50   3.50 9-- vs 15-Tipton-Hesson
+  150          6.00   0.00 12-Haldane-Anderson vs 11-Walker-Fuhrman
+        400    2.50   3.50 16-Galer-Vulcan vs 7-Popivanov-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          6.00   0.00 2-Headlee-Davis vs 6-Lycette-Romeo
+  650          2.50   3.50 3-Miller-Poore vs 5-Cline-Hankins
+  650          2.50   3.50 4-Pesce-Tu vs 9--
+  650          2.50   3.50 7-Popivanov-Jain vs 1-Gunstone-White-Stevens
+  650          2.50   3.50 13-Zaugg-Abernethy vs 12-Haldane-Anderson
+  680          5.00   1.00 14-Ford-Mohrman vs 11-Walker-Fuhrman
+        100    0.00   6.00 16-Galer-Vulcan vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   3.00 2-Headlee-Davis vs 6-Lycette-Romeo
+  420          3.00   3.00 3-Miller-Poore vs 5-Cline-Hankins
+  420          3.00   3.00 4-Pesce-Tu vs 9--
+  420          3.00   3.00 7-Popivanov-Jain vs 1-Gunstone-White-Stevens
+  420          3.00   3.00 13-Zaugg-Abernethy vs 12-Haldane-Anderson
+  420          3.00   3.00 14-Ford-Mohrman vs 11-Walker-Fuhrman
+  420          3.00   3.00 16-Galer-Vulcan vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   2.50 1-Gunstone-White-Stevens vs 13-Zaugg-Abernethy
+        450    1.50   4.50 3-Miller-Poore vs 7-Popivanov-Jain
+         50    5.00   1.00 4-Pesce-Tu vs 6-Lycette-Romeo
+  170          6.00   0.00 8-Christensen-Ring vs 2-Headlee-Davis
+        650    0.00   6.00 14-Ford-Mohrman vs 12-Haldane-Anderson
+        450    1.50   4.50 15-Tipton-Hesson vs 11-Walker-Fuhrman
+        100    3.50   2.50 16-Galer-Vulcan vs 9--
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   6.00 1-Gunstone-White-Stevens vs 13-Zaugg-Abernethy
+ 1100          6.00   0.00 3-Miller-Poore vs 7-Popivanov-Jain
+  650          3.50   2.50 4-Pesce-Tu vs 6-Lycette-Romeo
+  620          1.50   4.50 8-Christensen-Ring vs 2-Headlee-Davis
+  660          5.00   1.00 14-Ford-Mohrman vs 12-Haldane-Anderson
+  620          1.50   4.50 15-Tipton-Hesson vs 11-Walker-Fuhrman
+  650          3.50   2.50 16-Galer-Vulcan vs 9--
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   3.00 2-Headlee-Davis vs 1-Gunstone-White-Stevens
+        100    0.00   6.00 4-Pesce-Tu vs 8-Christensen-Ring
+         50    1.50   4.50 5-Cline-Hankins vs 7-Popivanov-Jain
+         50    1.50   4.50 6-Lycette-Romeo vs 11-Walker-Fuhrman
+  480          4.00   2.00 9-- vs 3-Miller-Poore
+  490          5.50   0.50 14-Ford-Mohrman vs 13-Zaugg-Abernethy
+  490          5.50   0.50 15-Tipton-Hesson vs 12-Haldane-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.50   3.50 2-Headlee-Davis vs 1-Gunstone-White-Stevens
+ 1430          6.00   0.00 4-Pesce-Tu vs 8-Christensen-Ring
+  680          2.50   3.50 5-Cline-Hankins vs 7-Popivanov-Jain
+  680          2.50   3.50 6-Lycette-Romeo vs 11-Walker-Fuhrman
+  680          2.50   3.50 9-- vs 3-Miller-Poore
+  680          2.50   3.50 14-Ford-Mohrman vs 13-Zaugg-Abernethy
+  680          2.50   3.50 15-Tipton-Hesson vs 12-Haldane-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   4.50 1-Gunstone-White-Stevens vs 14-Ford-Mohrman
+  620          5.50   0.50 3-Miller-Poore vs 2-Headlee-Davis
+  620          5.50   0.50 5-Cline-Hankins vs 9--
+        100    1.50   4.50 6-Lycette-Romeo vs 8-Christensen-Ring
+        100    1.50   4.50 7-Popivanov-Jain vs 12-Haldane-Anderson
+        100    1.50   4.50 15-Tipton-Hesson vs 13-Zaugg-Abernethy
+  150          4.00   2.00 16-Galer-Vulcan vs 11-Walker-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   6.00 1-Gunstone-White-Stevens vs 14-Ford-Mohrman
+        170    2.50   3.50 3-Miller-Poore vs 2-Headlee-Davis
+        170    2.50   3.50 5-Cline-Hankins vs 9--
+        170    2.50   3.50 6-Lycette-Romeo vs 8-Christensen-Ring
+        170    2.50   3.50 7-Popivanov-Jain vs 12-Haldane-Anderson
+        150    5.00   1.00 15-Tipton-Hesson vs 13-Zaugg-Abernethy
+        100    6.00   0.00 16-Galer-Vulcan vs 11-Walker-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          0.00   6.00 2-Headlee-Davis vs 14-Ford-Mohrman
+  660          2.00   4.00 4-Pesce-Tu vs 3-Miller-Poore
+  690          4.50   1.50 7-Popivanov-Jain vs 9--
+  690          4.50   1.50 8-Christensen-Ring vs 13-Zaugg-Abernethy
+  690          4.50   1.50 11-Walker-Fuhrman vs 5-Cline-Hankins
+  690          4.50   1.50 15-Tipton-Hesson vs 1-Gunstone-White-Stevens
+  630          1.00   5.00 16-Galer-Vulcan vs 12-Haldane-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.00   4.00 2-Headlee-Davis vs 14-Ford-Mohrman
+  170          2.00   4.00 4-Pesce-Tu vs 3-Miller-Poore
+  170          2.00   4.00 7-Popivanov-Jain vs 9--
+  170          2.00   4.00 8-Christensen-Ring vs 13-Zaugg-Abernethy
+  170          2.00   4.00 11-Walker-Fuhrman vs 5-Cline-Hankins
+  590          6.00   0.00 15-Tipton-Hesson vs 1-Gunstone-White-Stevens
+  450          5.00   1.00 16-Galer-Vulcan vs 12-Haldane-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   5.00 3-Miller-Poore vs 14-Ford-Mohrman
+  110          4.00   2.00 5-Cline-Hankins vs 4-Pesce-Tu
+  110          4.00   2.00 7-Popivanov-Jain vs 11-Walker-Fuhrman
+        110    0.00   6.00 9-- vs 1-Gunstone-White-Stevens
+  100          2.00   4.00 12-Haldane-Anderson vs 6-Lycette-Romeo
+  170          6.00   0.00 15-Tipton-Hesson vs 2-Headlee-Davis
+  110          4.00   2.00 16-Galer-Vulcan vs 13-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   2.00 3-Miller-Poore vs 14-Ford-Mohrman
+  100          4.00   2.00 5-Cline-Hankins vs 4-Pesce-Tu
+  100          4.00   2.00 7-Popivanov-Jain vs 11-Walker-Fuhrman
+        100    1.00   5.00 9-- vs 1-Gunstone-White-Stevens
+        110    0.00   6.00 12-Haldane-Anderson vs 6-Lycette-Romeo
+  100          4.00   2.00 15-Tipton-Hesson vs 2-Headlee-Davis
+  100          4.00   2.00 16-Galer-Vulcan vs 13-Zaugg-Abernethy
+----------------------------------------------------------------------
