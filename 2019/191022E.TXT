@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> Z
+------------------------,------ ------------,-------- --------------------------
+DATE>October 22, 2019   |CLUB NO.>158048    | 10/22/2019 22:32
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/1500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=7/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             A    5     .     .     93.21  51.21  0.32(A) 
+
+ 2 Adam Ruprecht          Christopher Jarvis       B    .     .     .     87.79  48.24          
+
+ 3 Donald Stark           Paul Wayne English       B    .     .     .     87.79  48.24          
+
+ 4 Corneliu Galer         Bogdan Vulcan            C    4     2     .     94.71  52.04  0.56(A) 
+
+ 5 Kevin Cline            David Hankins            B    .     .     .     89.79  49.34          
+
+ 6 Kim Eng                Jeffrey Ford             A    .     .     .     85.71  47.09          
+
+ 7 Eric Sieg              Gregory Herman           A    .     .     .     81.79  44.94          
+
+ 8 Mike Christensen       David Wright             A    .     .     .     73.29  40.27          
+
+ 9 Terry Jacobson         Brad Rind                C    .     .     .     92.07  50.59          
+
+10 John McCaslin          Grant Davis              B    6     3     .     92.80  50.99  0.28(B) 
+
+11 Dave Setterholm        Gary Haldane             A    3     .     .    107.21  58.91  0.80(A) 
+
+12 David Roselle          Sue Anderson             A    .     .     .     79.80  43.85          
+
+13 Brian Zaugg            Mike Ring                A    1     .     .    115.93  63.70  1.50(A) 
+
+14 David Walker           Joel Fuhrman             A    .     .     .     79.71  43.80          
+
+15 Beau Hovda             Daniel Poore             C    2     1     1    111.29  61.15  1.12(A) 
+
+16 David Binney           Andrea James             A    .     .     .     81.71  44.90          
+
+
+                                          Totals                        1454.60       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   2.00 4-Galer-Vulcan vs 14-Walker-Fuhrman
+   50          0.00   7.00 6-Eng-Ford vs 5-Cline-Hankins
+  140          5.00   2.00 8-Christensen-Wright vs 12-Roselle-Anderson
+  140          5.00   2.00 9-Jacobson-Rind vs 11-Setterholm-Haldane
+  530          7.00   0.00 10-McCaslin-Davis vs 2-Ruprecht-Jarvis
+  110          2.50   4.50 13-Zaugg-Ring vs 7-Sieg-Herman
+  100          1.00   6.00 15-Hovda-Poore vs 3-Stark-English
+  110          2.50   4.50 16-Binney-James vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   3.00 4-Galer-Vulcan vs 14-Walker-Fuhrman
+  300          7.00   0.00 6-Eng-Ford vs 5-Cline-Hankins
+   50          1.00   6.00 8-Christensen-Wright vs 12-Roselle-Anderson
+  110          4.00   3.00 9-Jacobson-Rind vs 11-Setterholm-Haldane
+        100    0.00   7.00 10-McCaslin-Davis vs 2-Ruprecht-Jarvis
+  140          6.00   1.00 13-Zaugg-Ring vs 7-Sieg-Herman
+  110          4.00   3.00 15-Hovda-Poore vs 3-Stark-English
+  100          2.00   5.00 16-Binney-James vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.00   2.00 1-Tipton-Hesson vs 8-Christensen-Wright
+        120    2.50   4.50 4-Galer-Vulcan vs 15-Hovda-Poore
+        100    5.00   2.00 5-Cline-Hankins vs 14-Walker-Fuhrman
+        100    5.00   2.00 7-Sieg-Herman vs 6-Eng-Ford
+        600    0.00   7.00 9-Jacobson-Rind vs 13-Zaugg-Ring
+  100          7.00   0.00 10-McCaslin-Davis vs 12-Roselle-Anderson
+        120    2.50   4.50 11-Setterholm-Haldane vs 3-Stark-English
+        300    1.00   6.00 16-Binney-James vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.21   1.79 1-Tipton-Hesson vs 8-Christensen-Wright
+  100          5.21   1.79 4-Galer-Vulcan vs 15-Hovda-Poore
+        680    1.79   5.21 5-Cline-Hankins vs 14-Walker-Fuhrman
+        680    1.79   5.21 7-Sieg-Herman vs 6-Eng-Ford
+        690    0.07   6.93 9-Jacobson-Rind vs 13-Zaugg-Ring
+  AVE-  AVE-   2.80   2.80 10-McCaslin-Davis vs 12-Roselle-Anderson
+  100          5.21   1.79 11-Setterholm-Haldane vs 3-Stark-English
+  100          5.21   1.79 16-Binney-James vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   4.50 2-Ruprecht-Jarvis vs 9-Jacobson-Rind
+   90          6.50   0.50 5-Cline-Hankins vs 15-Hovda-Poore
+   90          6.50   0.50 6-Eng-Ford vs 14-Walker-Fuhrman
+        200    0.00   7.00 8-Christensen-Wright vs 7-Sieg-Herman
+        100    2.50   4.50 10-McCaslin-Davis vs 1-Tipton-Hesson
+   50          5.00   2.00 11-Setterholm-Haldane vs 13-Zaugg-Ring
+        100    2.50   4.50 12-Roselle-Anderson vs 4-Galer-Vulcan
+        100    2.50   4.50 16-Binney-James vs 3-Stark-English
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.00   5.00 2-Ruprecht-Jarvis vs 9-Jacobson-Rind
+        630    2.00   5.00 5-Cline-Hankins vs 15-Hovda-Poore
+        600    6.00   1.00 6-Eng-Ford vs 14-Walker-Fuhrman
+        600    6.00   1.00 8-Christensen-Wright vs 7-Sieg-Herman
+        630    2.00   5.00 10-McCaslin-Davis vs 1-Tipton-Hesson
+        630    2.00   5.00 11-Setterholm-Haldane vs 13-Zaugg-Ring
+        630    2.00   5.00 12-Roselle-Anderson vs 4-Galer-Vulcan
+        600    6.00   1.00 16-Binney-James vs 3-Stark-English
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   4.50 3-Stark-English vs 10-McCaslin-Davis
+        600    0.00   7.00 6-Eng-Ford vs 15-Hovda-Poore
+  200          5.50   1.50 9-Jacobson-Rind vs 8-Christensen-Wright
+  200          5.50   1.50 11-Setterholm-Haldane vs 2-Ruprecht-Jarvis
+        120    1.00   6.00 12-Roselle-Anderson vs 1-Tipton-Hesson
+  200          5.50   1.50 13-Zaugg-Ring vs 5-Cline-Hankins
+  100          2.50   4.50 14-Walker-Fuhrman vs 7-Sieg-Herman
+  200          5.50   1.50 16-Binney-James vs 4-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.50   5.50 3-Stark-English vs 10-McCaslin-Davis
+  400          1.50   5.50 6-Eng-Ford vs 15-Hovda-Poore
+  430          5.00   2.00 9-Jacobson-Rind vs 8-Christensen-Wright
+  460          7.00   0.00 11-Setterholm-Haldane vs 2-Ruprecht-Jarvis
+  400          1.50   5.50 12-Roselle-Anderson vs 1-Tipton-Hesson
+  430          5.00   2.00 13-Zaugg-Ring vs 5-Cline-Hankins
+  430          5.00   2.00 14-Walker-Fuhrman vs 7-Sieg-Herman
+  400          1.50   5.50 16-Binney-James vs 4-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   3.00 1-Tipton-Hesson vs 6-Eng-Ford
+  110          4.00   3.00 4-Galer-Vulcan vs 11-Setterholm-Haldane
+         50    0.50   6.50 7-Sieg-Herman vs 15-Hovda-Poore
+         50    0.50   6.50 10-McCaslin-Davis vs 9-Jacobson-Rind
+  120          6.00   1.00 12-Roselle-Anderson vs 3-Stark-English
+   90          2.00   5.00 13-Zaugg-Ring vs 2-Ruprecht-Jarvis
+  140          7.00   0.00 14-Walker-Fuhrman vs 8-Christensen-Wright
+  110          4.00   3.00 16-Binney-James vs 5-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   6.50 1-Tipton-Hesson vs 6-Eng-Ford
+        100    0.50   6.50 4-Galer-Vulcan vs 11-Setterholm-Haldane
+  620          3.00   4.00 7-Sieg-Herman vs 15-Hovda-Poore
+  650          6.00   1.00 10-McCaslin-Davis vs 9-Jacobson-Rind
+  650          6.00   1.00 12-Roselle-Anderson vs 3-Stark-English
+  620          3.00   4.00 13-Zaugg-Ring vs 2-Ruprecht-Jarvis
+  650          6.00   1.00 14-Walker-Fuhrman vs 8-Christensen-Wright
+  620          3.00   4.00 16-Binney-James vs 5-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    5.00   2.00 1-Tipton-Hesson vs 3-Stark-English
+        120    5.00   2.00 2-Ruprecht-Jarvis vs 7-Sieg-Herman
+        150    2.50   4.50 5-Cline-Hankins vs 12-Roselle-Anderson
+        150    2.50   4.50 8-Christensen-Wright vs 15-Hovda-Poore
+        120    5.00   2.00 11-Setterholm-Haldane vs 10-McCaslin-Davis
+   50          7.00   0.00 13-Zaugg-Ring vs 4-Galer-Vulcan
+        430    0.00   7.00 14-Walker-Fuhrman vs 9-Jacobson-Rind
+        400    1.00   6.00 16-Binney-James vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   3.00 1-Tipton-Hesson vs 3-Stark-English
+   50          4.00   3.00 2-Ruprecht-Jarvis vs 7-Sieg-Herman
+        200    0.00   7.00 5-Cline-Hankins vs 12-Roselle-Anderson
+   50          4.00   3.00 8-Christensen-Wright vs 15-Hovda-Poore
+   50          4.00   3.00 11-Setterholm-Haldane vs 10-McCaslin-Davis
+   50          4.00   3.00 13-Zaugg-Ring vs 4-Galer-Vulcan
+   50          4.00   3.00 14-Walker-Fuhrman vs 9-Jacobson-Rind
+   50          4.00   3.00 16-Binney-James vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   5.00 1-Tipton-Hesson vs 5-Cline-Hankins
+  150          7.00   0.00 2-Ruprecht-Jarvis vs 4-Galer-Vulcan
+        200    2.00   5.00 3-Stark-English vs 8-Christensen-Wright
+        200    2.00   5.00 6-Eng-Ford vs 13-Zaugg-Ring
+        110    5.00   2.00 9-Jacobson-Rind vs 15-Hovda-Poore
+        200    2.00   5.00 12-Roselle-Anderson vs 11-Setterholm-Haldane
+        200    2.00   5.00 14-Walker-Fuhrman vs 10-McCaslin-Davis
+        100    6.00   1.00 16-Binney-James vs 7-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   5.50 1-Tipton-Hesson vs 5-Cline-Hankins
+        420    1.50   5.50 2-Ruprecht-Jarvis vs 4-Galer-Vulcan
+        400    5.00   2.00 3-Stark-English vs 8-Christensen-Wright
+        420    1.50   5.50 6-Eng-Ford vs 13-Zaugg-Ring
+        170    7.00   0.00 9-Jacobson-Rind vs 15-Hovda-Poore
+        400    5.00   2.00 12-Roselle-Anderson vs 11-Setterholm-Haldane
+        400    5.00   2.00 14-Walker-Fuhrman vs 10-McCaslin-Davis
+        420    1.50   5.50 16-Binney-James vs 7-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          1.50   5.50 2-Ruprecht-Jarvis vs 6-Eng-Ford
+        100    0.00   7.00 3-Stark-English vs 5-Cline-Hankins
+  660          7.00   0.00 4-Galer-Vulcan vs 9-Jacobson-Rind
+  630          4.50   2.50 7-Sieg-Herman vs 1-Tipton-Hesson
+  600          1.50   5.50 10-McCaslin-Davis vs 15-Hovda-Poore
+  630          4.50   2.50 13-Zaugg-Ring vs 12-Roselle-Anderson
+  630          4.50   2.50 14-Walker-Fuhrman vs 11-Setterholm-Haldane
+  630          4.50   2.50 16-Binney-James vs 8-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          7.00   0.00 2-Ruprecht-Jarvis vs 6-Eng-Ford
+  400          5.00   2.00 3-Stark-English vs 5-Cline-Hankins
+  400          5.00   2.00 4-Galer-Vulcan vs 9-Jacobson-Rind
+  400          5.00   2.00 7-Sieg-Herman vs 1-Tipton-Hesson
+  200          3.00   4.00 10-McCaslin-Davis vs 15-Hovda-Poore
+        150    0.50   6.50 13-Zaugg-Ring vs 12-Roselle-Anderson
+        100    2.00   5.00 14-Walker-Fuhrman vs 11-Setterholm-Haldane
+        150    0.50   6.50 16-Binney-James vs 8-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.50   2.50 1-Tipton-Hesson vs 13-Zaugg-Ring
+  140          3.00   4.00 3-Stark-English vs 7-Sieg-Herman
+  420          6.50   0.50 4-Galer-Vulcan vs 6-Eng-Ford
+  130          1.00   6.00 5-Cline-Hankins vs 10-McCaslin-Davis
+  130          1.00   6.00 8-Christensen-Wright vs 2-Ruprecht-Jarvis
+  170          4.50   2.50 14-Walker-Fuhrman vs 12-Roselle-Anderson
+  420          6.50   0.50 15-Hovda-Poore vs 11-Setterholm-Haldane
+  130          1.00   6.00 16-Binney-James vs 9-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   7.00 1-Tipton-Hesson vs 13-Zaugg-Ring
+  600          4.50   2.50 3-Stark-English vs 7-Sieg-Herman
+  600          4.50   2.50 4-Galer-Vulcan vs 6-Eng-Ford
+  150          1.00   6.00 5-Cline-Hankins vs 10-McCaslin-Davis
+  600          4.50   2.50 8-Christensen-Wright vs 2-Ruprecht-Jarvis
+  600          4.50   2.50 14-Walker-Fuhrman vs 12-Roselle-Anderson
+  600          4.50   2.50 15-Hovda-Poore vs 11-Setterholm-Haldane
+  600          4.50   2.50 16-Binney-James vs 9-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.50   6.50 2-Ruprecht-Jarvis vs 1-Tipton-Hesson
+  100          5.50   1.50 4-Galer-Vulcan vs 8-Christensen-Wright
+  100          5.50   1.50 5-Cline-Hankins vs 7-Sieg-Herman
+   90          3.00   4.00 6-Eng-Ford vs 11-Setterholm-Haldane
+   90          3.00   4.00 9-Jacobson-Rind vs 3-Stark-English
+        120    0.50   6.50 14-Walker-Fuhrman vs 13-Zaugg-Ring
+  120          7.00   0.00 15-Hovda-Poore vs 12-Roselle-Anderson
+   90          3.00   4.00 16-Binney-James vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.50   4.50 2-Ruprecht-Jarvis vs 1-Tipton-Hesson
+        620    2.50   4.50 4-Galer-Vulcan vs 8-Christensen-Wright
+        620    2.50   4.50 5-Cline-Hankins vs 7-Sieg-Herman
+        620    2.50   4.50 6-Eng-Ford vs 11-Setterholm-Haldane
+        620    2.50   4.50 9-Jacobson-Rind vs 3-Stark-English
+        620    2.50   4.50 14-Walker-Fuhrman vs 13-Zaugg-Ring
+        170    6.00   1.00 15-Hovda-Poore vs 12-Roselle-Anderson
+  100          7.00   0.00 16-Binney-James vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.00   2.00 1-Tipton-Hesson vs 14-Walker-Fuhrman
+        150    0.50   6.50 3-Stark-English vs 2-Ruprecht-Jarvis
+        130    3.00   4.00 5-Cline-Hankins vs 9-Jacobson-Rind
+        130    3.00   4.00 6-Eng-Ford vs 8-Christensen-Wright
+   50          6.50   0.50 7-Sieg-Herman vs 12-Roselle-Anderson
+   50          6.50   0.50 10-McCaslin-Davis vs 4-Galer-Vulcan
+        130    3.00   4.00 15-Hovda-Poore vs 13-Zaugg-Ring
+        150    0.50   6.50 16-Binney-James vs 11-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.50   6.50 1-Tipton-Hesson vs 14-Walker-Fuhrman
+        170    5.50   1.50 3-Stark-English vs 2-Ruprecht-Jarvis
+        150    7.00   0.00 5-Cline-Hankins vs 9-Jacobson-Rind
+        170    5.50   1.50 6-Eng-Ford vs 8-Christensen-Wright
+        200    3.50   3.50 7-Sieg-Herman vs 12-Roselle-Anderson
+        680    0.50   6.50 10-McCaslin-Davis vs 4-Galer-Vulcan
+        200    3.50   3.50 15-Hovda-Poore vs 13-Zaugg-Ring
+        500    2.00   5.00 16-Binney-James vs 11-Setterholm-Haldane
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          3.00   4.00 2-Ruprecht-Jarvis vs 14-Walker-Fuhrman
+        100    1.00   6.00 4-Galer-Vulcan vs 3-Stark-English
+        100    1.00   6.00 6-Eng-Ford vs 10-McCaslin-Davis
+        100    1.00   6.00 7-Sieg-Herman vs 9-Jacobson-Rind
+  620          4.00   3.00 8-Christensen-Wright vs 13-Zaugg-Ring
+  800          6.50   0.50 11-Setterholm-Haldane vs 5-Cline-Hankins
+  630          5.00   2.00 15-Hovda-Poore vs 1-Tipton-Hesson
+  800          6.50   0.50 16-Binney-James vs 12-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   1.50 2-Ruprecht-Jarvis vs 14-Walker-Fuhrman
+         50    3.00   4.00 4-Galer-Vulcan vs 3-Stark-English
+   50          4.00   3.00 6-Eng-Ford vs 10-McCaslin-Davis
+  100          5.50   1.50 7-Sieg-Herman vs 9-Jacobson-Rind
+        400    2.00   5.00 8-Christensen-Wright vs 13-Zaugg-Ring
+       1400    0.00   7.00 11-Setterholm-Haldane vs 5-Cline-Hankins
+  150          7.00   0.00 15-Hovda-Poore vs 1-Tipton-Hesson
+        430    1.00   6.00 16-Binney-James vs 12-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    5.00   2.00 3-Stark-English vs 14-Walker-Fuhrman
+         50    5.00   2.00 5-Cline-Hankins vs 4-Galer-Vulcan
+        100    1.00   6.00 7-Sieg-Herman vs 11-Setterholm-Haldane
+         50    5.00   2.00 8-Christensen-Wright vs 10-McCaslin-Davis
+        100    1.00   6.00 9-Jacobson-Rind vs 1-Tipton-Hesson
+        100    1.00   6.00 12-Roselle-Anderson vs 6-Eng-Ford
+         50    5.00   2.00 15-Hovda-Poore vs 2-Ruprecht-Jarvis
+         50    5.00   2.00 16-Binney-James vs 13-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    7.00   0.00 3-Stark-English vs 14-Walker-Fuhrman
+        620    2.50   4.50 5-Cline-Hankins vs 4-Galer-Vulcan
+        650    0.50   6.50 7-Sieg-Herman vs 11-Setterholm-Haldane
+        620    2.50   4.50 8-Christensen-Wright vs 10-McCaslin-Davis
+        200    5.00   2.00 9-Jacobson-Rind vs 1-Tipton-Hesson
+        200    5.00   2.00 12-Roselle-Anderson vs 6-Eng-Ford
+        200    5.00   2.00 15-Hovda-Poore vs 2-Ruprecht-Jarvis
+        650    0.50   6.50 16-Binney-James vs 13-Zaugg-Ring
+----------------------------------------------------------------------
