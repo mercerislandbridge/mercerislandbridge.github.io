@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 29, 2019   |CLUB NO.>158048    | 10/29/2019 22:39
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff Ford       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=9/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B    .     .     .     86.14  47.33          
+
+ 2 Ray Miller             Chris Pesce              A    2     .     .    107.86  59.26  1.12(A) 
+
+ 3 Kevin Cline            David Hankins            B    .     .     .     88.86  48.82          
+
+ 4 Peiyush Jain           Ivan Popivanov           C    .     .     .     83.86  46.08          
+
+ 5 Shawn Abernethy        Ken Christiansen         A    .     .     .     77.35  42.50          
+
+ 6 Mike Christensen       Stanford Christie        A    .     .     .     91.41  50.23          
+
+ 7 Eric Sieg              Kevin Castner            B    1     1     .    110.31  60.61  1.50(A) 
+
+ 8 Corneliu Galer         Bogdan Vulcan            C    .     .     1     88.87  48.83  0.24(C) 
+
+ 9 Gary Haldane           Dave Setterholm          A    4     .     .    102.79  56.48  0.56(A) 
+
+10 John McCaslin          Grant Davis              B    3     2     .    107.36  58.99  0.80(A) 
+
+11 Mike Ring              Jeffrey Ford             A    .     .     .     79.57  43.72          
+
+12 Kim Eng                Adam Ruprecht            A    5     .     .    100.22  55.07  0.32(A) 
+
+13 Brian Zaugg            Christopher Jarvis       B    6     3     .     95.00  52.20  0.36(B) 
+
+14 Marilyn Dierickx       Kenneth Diamond          C    .     .     .     57.64  31.67          
+
+15 Hugh Hendrickson       Ann Romeo                B    .     4     .     91.27  50.15  0.25(B) 
+
+16 David Binney           Beau Hovda               A    .     .     .     88.93  48.86          
+
+
+                                          Totals                        1457.44       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   1.50 4-Jain-Popivanov vs 14-Dierickx-Diamond
+  100          5.50   1.50 6-Christensen-Christie vs 5-Abernethy-Christiansen
+   50          4.00   3.00 8-Galer-Vulcan vs 12-Eng-Ruprecht
+  150          7.00   0.00 9-Haldane-Setterholm vs 11-Ring-Ford
+        100    2.50   4.50 10-McCaslin-Davis vs 2-Miller-Pesce
+        100    2.50   4.50 13-Zaugg-Jarvis vs 7-Sieg-Castner
+        140    0.00   7.00 15-Hendrickson-Romeo vs 3-Cline-Hankins
+        110    1.00   6.00 16-Binney-Hovda vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.50   3.50 4-Jain-Popivanov vs 14-Dierickx-Diamond
+        450    3.50   3.50 6-Christensen-Christie vs 5-Abernethy-Christiansen
+        200    7.00   0.00 8-Galer-Vulcan vs 12-Eng-Ruprecht
+        450    3.50   3.50 9-Haldane-Setterholm vs 11-Ring-Ford
+        450    3.50   3.50 10-McCaslin-Davis vs 2-Miller-Pesce
+        480    0.00   7.00 13-Zaugg-Jarvis vs 7-Sieg-Castner
+        450    3.50   3.50 15-Hendrickson-Romeo vs 3-Cline-Hankins
+        450    3.50   3.50 16-Binney-Hovda vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   4.50 1-Tipton-Hesson vs 8-Galer-Vulcan
+  300          6.50   0.50 4-Jain-Popivanov vs 15-Hendrickson-Romeo
+  300          6.50   0.50 5-Abernethy-Christiansen vs 14-Dierickx-Diamond
+  200          4.50   2.50 7-Sieg-Castner vs 6-Christensen-Christie
+  100          2.50   4.50 9-Haldane-Setterholm vs 13-Zaugg-Jarvis
+  200          4.50   2.50 10-McCaslin-Davis vs 12-Eng-Ruprecht
+        100    0.00   7.00 11-Ring-Ford vs 3-Cline-Hankins
+         90    1.00   6.00 16-Binney-Hovda vs 2-Miller-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         80    2.00   5.00 1-Tipton-Hesson vs 8-Galer-Vulcan
+        200    0.00   7.00 4-Jain-Popivanov vs 15-Hendrickson-Romeo
+  110          3.50   3.50 5-Abernethy-Christiansen vs 14-Dierickx-Diamond
+  200          6.00   1.00 7-Sieg-Castner vs 6-Christensen-Christie
+  130          5.00   2.00 9-Haldane-Setterholm vs 13-Zaugg-Jarvis
+  110          3.50   3.50 10-McCaslin-Davis vs 12-Eng-Ruprecht
+  870          7.00   0.00 11-Ring-Ford vs 3-Cline-Hankins
+        140    1.00   6.00 16-Binney-Hovda vs 2-Miller-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   3.00 2-Miller-Pesce vs 9-Haldane-Setterholm
+  630          6.00   1.00 5-Abernethy-Christiansen vs 15-Hendrickson-Romeo
+  620          4.00   3.00 6-Christensen-Christie vs 14-Dierickx-Diamond
+        430    0.00   7.00 8-Galer-Vulcan vs 7-Sieg-Castner
+  650          7.00   0.00 10-McCaslin-Davis vs 1-Tipton-Hesson
+  620          4.00   3.00 11-Ring-Ford vs 13-Zaugg-Jarvis
+  500          2.00   5.00 12-Eng-Ruprecht vs 4-Jain-Popivanov
+        100    1.00   6.00 16-Binney-Hovda vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.50   3.50 2-Miller-Pesce vs 9-Haldane-Setterholm
+  100          2.00   5.00 5-Abernethy-Christiansen vs 15-Hendrickson-Romeo
+ 1100          7.00   0.00 6-Christensen-Christie vs 14-Dierickx-Diamond
+        150    0.00   7.00 8-Galer-Vulcan vs 7-Sieg-Castner
+  110          3.50   3.50 10-McCaslin-Davis vs 1-Tipton-Hesson
+  500          5.50   1.50 11-Ring-Ford vs 13-Zaugg-Jarvis
+  500          5.50   1.50 12-Eng-Ruprecht vs 4-Jain-Popivanov
+         50    1.00   6.00 16-Binney-Hovda vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.50   4.50 3-Cline-Hankins vs 10-McCaslin-Davis
+        300    0.00   7.00 6-Christensen-Christie vs 15-Hendrickson-Romeo
+        100    6.00   1.00 9-Haldane-Setterholm vs 8-Galer-Vulcan
+        100    6.00   1.00 11-Ring-Ford vs 2-Miller-Pesce
+        100    6.00   1.00 12-Eng-Ruprecht vs 1-Tipton-Hesson
+        200    2.50   4.50 13-Zaugg-Jarvis vs 5-Abernethy-Christiansen
+        200    2.50   4.50 14-Dierickx-Diamond vs 7-Sieg-Castner
+        200    2.50   4.50 16-Binney-Hovda vs 4-Jain-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   2.50 3-Cline-Hankins vs 10-McCaslin-Davis
+        100    1.00   6.00 6-Christensen-Christie vs 15-Hendrickson-Romeo
+        100    1.00   6.00 9-Haldane-Setterholm vs 8-Galer-Vulcan
+        100    1.00   6.00 11-Ring-Ford vs 2-Miller-Pesce
+  490          7.00   0.00 12-Eng-Ruprecht vs 1-Tipton-Hesson
+  100          6.00   1.00 13-Zaugg-Jarvis vs 5-Abernethy-Christiansen
+         50    4.50   2.50 14-Dierickx-Diamond vs 7-Sieg-Castner
+         90    3.00   4.00 16-Binney-Hovda vs 4-Jain-Popivanov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   4.00 1-Tipton-Hesson vs 6-Christensen-Christie
+        110    1.00   6.00 4-Jain-Popivanov vs 11-Ring-Ford
+  340          7.00   0.00 7-Sieg-Castner vs 15-Hendrickson-Romeo
+        100    2.00   5.00 10-McCaslin-Davis vs 9-Haldane-Setterholm
+  180          5.00   2.00 12-Eng-Ruprecht vs 3-Cline-Hankins
+  200          6.00   1.00 13-Zaugg-Jarvis vs 2-Miller-Pesce
+        140    0.00   7.00 14-Dierickx-Diamond vs 8-Galer-Vulcan
+  110          4.00   3.00 16-Binney-Hovda vs 5-Abernethy-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.50   5.50 1-Tipton-Hesson vs 6-Christensen-Christie
+  600          6.00   1.00 4-Jain-Popivanov vs 11-Ring-Ford
+  180          3.00   4.00 7-Sieg-Castner vs 15-Hendrickson-Romeo
+  120          0.00   7.00 10-McCaslin-Davis vs 9-Haldane-Setterholm
+  210          4.00   3.00 12-Eng-Ruprecht vs 3-Cline-Hankins
+  600          6.00   1.00 13-Zaugg-Jarvis vs 2-Miller-Pesce
+  150          1.50   5.50 14-Dierickx-Diamond vs 8-Galer-Vulcan
+  600          6.00   1.00 16-Binney-Hovda vs 5-Abernethy-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   2.00 1-Tipton-Hesson vs 3-Cline-Hankins
+        100    2.50   4.50 2-Miller-Pesce vs 7-Sieg-Castner
+        130    1.00   6.00 5-Abernethy-Christiansen vs 12-Eng-Ruprecht
+   50          5.00   2.00 8-Galer-Vulcan vs 15-Hendrickson-Romeo
+        150    0.00   7.00 11-Ring-Ford vs 10-McCaslin-Davis
+   50          5.00   2.00 13-Zaugg-Jarvis vs 4-Jain-Popivanov
+        100    2.50   4.50 14-Dierickx-Diamond vs 9-Haldane-Setterholm
+  470          7.00   0.00 16-Binney-Hovda vs 6-Christensen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.21   5.79 1-Tipton-Hesson vs 3-Cline-Hankins
+  300          6.93   0.07 2-Miller-Pesce vs 7-Sieg-Castner
+        200    1.21   5.79 5-Abernethy-Christiansen vs 12-Eng-Ruprecht
+  AVE-  AVE+   2.80   4.20 8-Galer-Vulcan vs 15-Hendrickson-Romeo
+        200    1.21   5.79 11-Ring-Ford vs 10-McCaslin-Davis
+   50          4.07   2.93 13-Zaugg-Jarvis vs 4-Jain-Popivanov
+   50          4.07   2.93 14-Dierickx-Diamond vs 9-Haldane-Setterholm
+  100          5.79   1.21 16-Binney-Hovda vs 6-Christensen-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    5.50   1.50 1-Tipton-Hesson vs 5-Abernethy-Christiansen
+        140    7.00   0.00 2-Miller-Pesce vs 4-Jain-Popivanov
+        170    2.50   4.50 3-Cline-Hankins vs 8-Galer-Vulcan
+        200    0.00   7.00 6-Christensen-Christie vs 13-Zaugg-Jarvis
+        170    2.50   4.50 9-Haldane-Setterholm vs 15-Hendrickson-Romeo
+        150    5.50   1.50 12-Eng-Ruprecht vs 11-Ring-Ford
+        170    2.50   4.50 14-Dierickx-Diamond vs 10-McCaslin-Davis
+        170    2.50   4.50 16-Binney-Hovda vs 7-Sieg-Castner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   6.50 1-Tipton-Hesson vs 5-Abernethy-Christiansen
+  200          7.00   0.00 2-Miller-Pesce vs 4-Jain-Popivanov
+         50    0.50   6.50 3-Cline-Hankins vs 8-Galer-Vulcan
+  150          5.50   1.50 6-Christensen-Christie vs 13-Zaugg-Jarvis
+  140          3.50   3.50 9-Haldane-Setterholm vs 15-Hendrickson-Romeo
+  150          5.50   1.50 12-Eng-Ruprecht vs 11-Ring-Ford
+   90          2.00   5.00 14-Dierickx-Diamond vs 10-McCaslin-Davis
+  140          3.50   3.50 16-Binney-Hovda vs 7-Sieg-Castner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          6.50   0.50 2-Miller-Pesce vs 6-Christensen-Christie
+  630          6.50   0.50 3-Cline-Hankins vs 5-Abernethy-Christiansen
+        140    3.00   4.00 4-Jain-Popivanov vs 9-Haldane-Setterholm
+        100    4.00   3.00 7-Sieg-Castner vs 1-Tipton-Hesson
+  130          5.00   2.00 10-McCaslin-Davis vs 15-Hendrickson-Romeo
+        170    1.00   6.00 13-Zaugg-Jarvis vs 12-Eng-Ruprecht
+        170    1.00   6.00 14-Dierickx-Diamond vs 11-Ring-Ford
+        170    1.00   6.00 16-Binney-Hovda vs 8-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   7.00 2-Miller-Pesce vs 6-Christensen-Christie
+  100          1.00   6.00 3-Cline-Hankins vs 5-Abernethy-Christiansen
+  420          4.50   2.50 4-Jain-Popivanov vs 9-Haldane-Setterholm
+  420          4.50   2.50 7-Sieg-Castner vs 1-Tipton-Hesson
+  420          4.50   2.50 10-McCaslin-Davis vs 15-Hendrickson-Romeo
+  420          4.50   2.50 13-Zaugg-Jarvis vs 12-Eng-Ruprecht
+  140          2.00   5.00 14-Dierickx-Diamond vs 11-Ring-Ford
+ 1100          7.00   0.00 16-Binney-Hovda vs 8-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          7.00   0.00 1-Tipton-Hesson vs 13-Zaugg-Jarvis
+         50    4.00   3.00 3-Cline-Hankins vs 7-Sieg-Castner
+         50    4.00   3.00 4-Jain-Popivanov vs 6-Christensen-Christie
+        100    0.50   6.50 5-Abernethy-Christiansen vs 10-McCaslin-Davis
+         50    4.00   3.00 8-Galer-Vulcan vs 2-Miller-Pesce
+         50    4.00   3.00 14-Dierickx-Diamond vs 12-Eng-Ruprecht
+         50    4.00   3.00 15-Hendrickson-Romeo vs 11-Ring-Ford
+        100    0.50   6.50 16-Binney-Hovda vs 9-Haldane-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          6.00   1.00 1-Tipton-Hesson vs 13-Zaugg-Jarvis
+        100    1.00   6.00 3-Cline-Hankins vs 7-Sieg-Castner
+        100    1.00   6.00 4-Jain-Popivanov vs 6-Christensen-Christie
+  300          4.00   3.00 5-Abernethy-Christiansen vs 10-McCaslin-Davis
+        100    1.00   6.00 8-Galer-Vulcan vs 2-Miller-Pesce
+  100          3.00   4.00 14-Dierickx-Diamond vs 12-Eng-Ruprecht
+  650          6.00   1.00 15-Hendrickson-Romeo vs 11-Ring-Ford
+  650          6.00   1.00 16-Binney-Hovda vs 9-Haldane-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          6.00   1.00 2-Miller-Pesce vs 1-Tipton-Hesson
+  460          3.50   3.50 4-Jain-Popivanov vs 8-Galer-Vulcan
+  480          6.00   1.00 5-Abernethy-Christiansen vs 7-Sieg-Castner
+  480          6.00   1.00 6-Christensen-Christie vs 11-Ring-Ford
+  450          1.00   6.00 9-Haldane-Setterholm vs 3-Cline-Hankins
+  450          1.00   6.00 14-Dierickx-Diamond vs 13-Zaugg-Jarvis
+  460          3.50   3.50 15-Hendrickson-Romeo vs 12-Eng-Ruprecht
+  450          1.00   6.00 16-Binney-Hovda vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    5.00   2.00 2-Miller-Pesce vs 1-Tipton-Hesson
+        620    1.00   6.00 4-Jain-Popivanov vs 8-Galer-Vulcan
+        620    1.00   6.00 5-Abernethy-Christiansen vs 7-Sieg-Castner
+        200    5.00   2.00 6-Christensen-Christie vs 11-Ring-Ford
+        500    3.00   4.00 9-Haldane-Setterholm vs 3-Cline-Hankins
+        620    1.00   6.00 14-Dierickx-Diamond vs 13-Zaugg-Jarvis
+        200    5.00   2.00 15-Hendrickson-Romeo vs 12-Eng-Ruprecht
+        170    7.00   0.00 16-Binney-Hovda vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          6.93   0.07 1-Tipton-Hesson vs 14-Dierickx-Diamond
+  680          4.07   2.93 3-Cline-Hankins vs 2-Miller-Pesce
+  650          0.64   6.36 5-Abernethy-Christiansen vs 9-Haldane-Setterholm
+  AVE+ -680    4.24   2.93 7-Sieg-Castner vs 12-Eng-Ruprecht
+  680   AVE+   4.07   4.20 8-Galer-Vulcan vs 6-Christensen-Christie
+  680          4.07   2.93 10-McCaslin-Davis vs 4-Jain-Popivanov
+  680          4.07   2.93 15-Hendrickson-Romeo vs 13-Zaugg-Jarvis
+  650          0.64   6.36 16-Binney-Hovda vs 11-Ring-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.50   4.50 1-Tipton-Hesson vs 14-Dierickx-Diamond
+        600    2.50   4.50 3-Cline-Hankins vs 2-Miller-Pesce
+        630    0.50   6.50 5-Abernethy-Christiansen vs 9-Haldane-Setterholm
+        150    5.50   1.50 6-Christensen-Christie vs 8-Galer-Vulcan
+  200          7.00   0.00 7-Sieg-Castner vs 12-Eng-Ruprecht
+        180    4.00   3.00 10-McCaslin-Davis vs 4-Jain-Popivanov
+        630    0.50   6.50 15-Hendrickson-Romeo vs 13-Zaugg-Jarvis
+        150    5.50   1.50 16-Binney-Hovda vs 11-Ring-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          7.00   0.00 2-Miller-Pesce vs 14-Dierickx-Diamond
+  600          5.00   2.00 4-Jain-Popivanov vs 3-Cline-Hankins
+  600          5.00   2.00 6-Christensen-Christie vs 10-McCaslin-Davis
+        200    0.00   7.00 7-Sieg-Castner vs 9-Haldane-Setterholm
+  150          1.50   5.50 8-Galer-Vulcan vs 13-Zaugg-Jarvis
+  600          5.00   2.00 11-Ring-Ford vs 5-Abernethy-Christiansen
+  150          1.50   5.50 15-Hendrickson-Romeo vs 1-Tipton-Hesson
+  500          3.00   4.00 16-Binney-Hovda vs 12-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    6.00   1.00 2-Miller-Pesce vs 14-Dierickx-Diamond
+  100          7.00   0.00 4-Jain-Popivanov vs 3-Cline-Hankins
+        460    3.00   4.00 6-Christensen-Christie vs 10-McCaslin-Davis
+        420    4.50   2.50 7-Sieg-Castner vs 9-Haldane-Setterholm
+        920    1.00   6.00 8-Galer-Vulcan vs 13-Zaugg-Jarvis
+        920    1.00   6.00 11-Ring-Ford vs 5-Abernethy-Christiansen
+        920    1.00   6.00 15-Hendrickson-Romeo vs 1-Tipton-Hesson
+        420    4.50   2.50 16-Binney-Hovda vs 12-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   2.50 3-Cline-Hankins vs 14-Dierickx-Diamond
+         50    2.50   4.50 5-Abernethy-Christiansen vs 4-Jain-Popivanov
+        100    0.50   6.50 7-Sieg-Castner vs 11-Ring-Ford
+        100    0.50   6.50 8-Galer-Vulcan vs 10-McCaslin-Davis
+  100          4.50   2.50 9-Haldane-Setterholm vs 1-Tipton-Hesson
+         50    2.50   4.50 12-Eng-Ruprecht vs 6-Christensen-Christie
+  140          6.00   1.00 15-Hendrickson-Romeo vs 2-Miller-Pesce
+  200          7.00   0.00 16-Binney-Hovda vs 13-Zaugg-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   6.00 3-Cline-Hankins vs 14-Dierickx-Diamond
+  150          5.00   2.00 5-Abernethy-Christiansen vs 4-Jain-Popivanov
+  140          4.00   3.00 7-Sieg-Castner vs 11-Ring-Ford
+        100    1.00   6.00 8-Galer-Vulcan vs 10-McCaslin-Davis
+        100    1.00   6.00 9-Haldane-Setterholm vs 1-Tipton-Hesson
+  620          6.00   1.00 12-Eng-Ruprecht vs 6-Christensen-Christie
+  800          7.00   0.00 15-Hendrickson-Romeo vs 2-Miller-Pesce
+  130          3.00   4.00 16-Binney-Hovda vs 13-Zaugg-Jarvis
+----------------------------------------------------------------------
