@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 5, 2019   |CLUB NO.>158048    | 11/05/2019 22:26
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club ACBL Membership         |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/3000/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=12/C=4                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Jenni Carmichael       Bryan Delfs              A   .     .     .   |   .     .     .     86.00  47.25          
+
+ 2 Ray Miller             Jeffrey Ford             A   .     .     .   |   .     .     .     97.00  53.30          
+
+ 3 Gregory Herman         William Herman           C   .     .     .   |   .     .     .     72.00  39.56          
+
+ 4 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     85.50  46.98          
+
+ 5 Corneliu Galer         Bogdan Vulcan            C   .     .     .   |   .     .     .     90.50  49.73          
+
+ 6 Mike Christensen       Kevin Castner            A   1     .     .   |   1     .     .    110.50  60.71  3.38(OA)
+
+ 7 Terry Jacobson         Brad Rind                C   3     2     .   |   3     2     1    102.50  56.32  1.90(OA)
+
+ 8 David Roselle          Sue Anderson             B   2     1     .   |   2     1     .    106.50  58.52  2.54(OA)
+
+ 9 Bob Sievers            Mike Ring                B   4     3     .   |   4     3     .    100.50  55.22  1.43(OA)
+
+10 John McCaslin          Grant Davis              B   .     .     .   |   .     .     .     72.00  39.56          
+
+11 Brian Zaugg            David Wright             B   .     .     .   |   .     .     .     88.50  48.63          
+
+12 Kevin Cline            David Hankins            B  5/6   4/5    .   |  5/6   4/5    .     98.00  53.85  0.94(OA)
+
+13 Joel Fuhrman           Dex Stuberg              B   .     .     .   |   .     .     .     88.50  48.63          
+
+14 Muhunthan Sivapragasam Peiyush Jain             C  5/6   4/5    .   |  5/6   4/5    2     98.00  53.85  0.94(OA)
+
+15 Beau Hovda             Ann Romeo                B   .     .     .   |   .     .     .     63.50  34.89          
+
+16 Kim Eng                Eric Sieg                A   .     .     .   |   .     .     .     96.50  53.02          
+
+
+                                          Totals                                           1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.00   7.00 4-Tipton-Hesson vs 14-Sivapragasam-Jain
+   50          3.50   3.50 6-Christensen-Castner vs 5-Galer-Vulcan
+  140          6.50   0.50 8-Roselle-Anderson vs 12-Cline-Hankins
+   50          3.50   3.50 9-Sievers-Ring vs 11-Zaugg-Wright
+         50    1.00   6.00 10-McCaslin-Davis vs 2-Miller-Ford
+   50          3.50   3.50 13-Fuhrman-Stuberg vs 7-Jacobson-Rind
+  140          6.50   0.50 15-Hovda-Romeo vs 3-Herman-Herman
+   50          3.50   3.50 16-Eng-Sieg vs 1-Carmichael-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    7.00   0.00 4-Tipton-Hesson vs 14-Sivapragasam-Jain
+        420    3.00   4.00 6-Christensen-Castner vs 5-Galer-Vulcan
+        420    3.00   4.00 8-Roselle-Anderson vs 12-Cline-Hankins
+        420    3.00   4.00 9-Sievers-Ring vs 11-Zaugg-Wright
+        420    3.00   4.00 10-McCaslin-Davis vs 2-Miller-Ford
+        420    3.00   4.00 13-Fuhrman-Stuberg vs 7-Jacobson-Rind
+        420    3.00   4.00 15-Hovda-Romeo vs 3-Herman-Herman
+        420    3.00   4.00 16-Eng-Sieg vs 1-Carmichael-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   6.00 1-Carmichael-Delfs vs 8-Roselle-Anderson
+        170    7.00   0.00 4-Tipton-Hesson vs 15-Hovda-Romeo
+        620    4.50   2.50 5-Galer-Vulcan vs 14-Sivapragasam-Jain
+        620    4.50   2.50 7-Jacobson-Rind vs 6-Christensen-Castner
+        620    4.50   2.50 9-Sievers-Ring vs 13-Fuhrman-Stuberg
+        620    4.50   2.50 10-McCaslin-Davis vs 12-Cline-Hankins
+        650    1.00   6.00 11-Zaugg-Wright vs 3-Herman-Herman
+        650    1.00   6.00 16-Eng-Sieg vs 2-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   4.00 1-Carmichael-Delfs vs 8-Roselle-Anderson
+  800          7.00   0.00 4-Tipton-Hesson vs 15-Hovda-Romeo
+  200          4.50   2.50 5-Galer-Vulcan vs 14-Sivapragasam-Jain
+        200    1.50   5.50 7-Jacobson-Rind vs 6-Christensen-Castner
+        200    1.50   5.50 9-Sievers-Ring vs 13-Fuhrman-Stuberg
+        500    0.00   7.00 10-McCaslin-Davis vs 12-Cline-Hankins
+  200          4.50   2.50 11-Zaugg-Wright vs 3-Herman-Herman
+  500          6.00   1.00 16-Eng-Sieg vs 2-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.50   3.50 2-Miller-Ford vs 9-Sievers-Ring
+  660          3.50   3.50 5-Galer-Vulcan vs 15-Hovda-Romeo
+  630          0.50   6.50 6-Christensen-Castner vs 14-Sivapragasam-Jain
+  660          3.50   3.50 8-Roselle-Anderson vs 7-Jacobson-Rind
+  630          0.50   6.50 10-McCaslin-Davis vs 1-Carmichael-Delfs
+  660          3.50   3.50 11-Zaugg-Wright vs 13-Fuhrman-Stuberg
+  690          6.00   1.00 12-Cline-Hankins vs 4-Tipton-Hesson
+ 1100          7.00   0.00 16-Eng-Sieg vs 3-Herman-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   3.00 2-Miller-Ford vs 9-Sievers-Ring
+  110          2.00   5.00 5-Galer-Vulcan vs 15-Hovda-Romeo
+         50    0.00   7.00 6-Christensen-Castner vs 14-Sivapragasam-Jain
+  110          2.00   5.00 8-Roselle-Anderson vs 7-Jacobson-Rind
+  150          5.00   2.00 10-McCaslin-Davis vs 1-Carmichael-Delfs
+  110          2.00   5.00 11-Zaugg-Wright vs 13-Fuhrman-Stuberg
+  500          7.00   0.00 12-Cline-Hankins vs 4-Tipton-Hesson
+  200          6.00   1.00 16-Eng-Sieg vs 3-Herman-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          6.00   1.00 3-Herman-Herman vs 10-McCaslin-Davis
+  110          7.00   0.00 6-Christensen-Castner vs 15-Hovda-Romeo
+        100    2.50   4.50 9-Sievers-Ring vs 8-Roselle-Anderson
+        100    2.50   4.50 11-Zaugg-Wright vs 2-Miller-Ford
+        100    2.50   4.50 12-Cline-Hankins vs 1-Carmichael-Delfs
+         80    5.00   2.00 13-Fuhrman-Stuberg vs 5-Galer-Vulcan
+        200    0.00   7.00 14-Sivapragasam-Jain vs 7-Jacobson-Rind
+        100    2.50   4.50 16-Eng-Sieg vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          1.00   6.00 3-Herman-Herman vs 10-McCaslin-Davis
+  920          7.00   0.00 6-Christensen-Castner vs 15-Hovda-Romeo
+  510          4.00   3.00 9-Sievers-Ring vs 8-Roselle-Anderson
+  420          0.00   7.00 11-Zaugg-Wright vs 2-Miller-Ford
+  510          4.00   3.00 12-Cline-Hankins vs 1-Carmichael-Delfs
+  510          4.00   3.00 13-Fuhrman-Stuberg vs 5-Galer-Vulcan
+  510          4.00   3.00 14-Sivapragasam-Jain vs 7-Jacobson-Rind
+  510          4.00   3.00 16-Eng-Sieg vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    3.00   4.00 1-Carmichael-Delfs vs 6-Christensen-Castner
+        620    0.50   6.50 4-Tipton-Hesson vs 11-Zaugg-Wright
+  100          6.00   1.00 7-Jacobson-Rind vs 15-Hovda-Romeo
+        170    5.00   2.00 10-McCaslin-Davis vs 9-Sievers-Ring
+        300    3.00   4.00 12-Cline-Hankins vs 3-Herman-Herman
+        300    3.00   4.00 13-Fuhrman-Stuberg vs 2-Miller-Ford
+  500          7.00   0.00 14-Sivapragasam-Jain vs 8-Roselle-Anderson
+        620    0.50   6.50 16-Eng-Sieg vs 5-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.50   2.50 1-Carmichael-Delfs vs 6-Christensen-Castner
+  620          1.00   6.00 4-Tipton-Hesson vs 11-Zaugg-Wright
+  680          4.50   2.50 7-Jacobson-Rind vs 15-Hovda-Romeo
+  620          1.00   6.00 10-McCaslin-Davis vs 9-Sievers-Ring
+  690          6.50   0.50 12-Cline-Hankins vs 3-Herman-Herman
+  620          1.00   6.00 13-Fuhrman-Stuberg vs 2-Miller-Ford
+  650          3.00   4.00 14-Sivapragasam-Jain vs 8-Roselle-Anderson
+  690          6.50   0.50 16-Eng-Sieg vs 5-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.50   5.50 1-Carmichael-Delfs vs 3-Herman-Herman
+        120    1.50   5.50 2-Miller-Ford vs 7-Jacobson-Rind
+        120    1.50   5.50 5-Galer-Vulcan vs 12-Cline-Hankins
+         90    5.00   2.00 8-Roselle-Anderson vs 15-Hovda-Romeo
+         90    5.00   2.00 11-Zaugg-Wright vs 10-McCaslin-Davis
+   50          7.00   0.00 13-Fuhrman-Stuberg vs 4-Tipton-Hesson
+         90    5.00   2.00 14-Sivapragasam-Jain vs 9-Sievers-Ring
+        120    1.50   5.50 16-Eng-Sieg vs 6-Christensen-Castner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.00   7.00 1-Carmichael-Delfs vs 3-Herman-Herman
+  100          7.00   0.00 2-Miller-Ford vs 7-Jacobson-Rind
+        120    2.50   4.50 5-Galer-Vulcan vs 12-Cline-Hankins
+   50          6.00   1.00 8-Roselle-Anderson vs 15-Hovda-Romeo
+        120    2.50   4.50 11-Zaugg-Wright vs 10-McCaslin-Davis
+         90    5.00   2.00 13-Fuhrman-Stuberg vs 4-Tipton-Hesson
+        120    2.50   4.50 14-Sivapragasam-Jain vs 9-Sievers-Ring
+        120    2.50   4.50 16-Eng-Sieg vs 6-Christensen-Castner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   3.50 1-Carmichael-Delfs vs 5-Galer-Vulcan
+        110    1.50   5.50 2-Miller-Ford vs 4-Tipton-Hesson
+        110    1.50   5.50 3-Herman-Herman vs 8-Roselle-Anderson
+        100    3.50   3.50 6-Christensen-Castner vs 13-Fuhrman-Stuberg
+  140          5.00   2.00 9-Sievers-Ring vs 15-Hovda-Romeo
+        500    0.00   7.00 12-Cline-Hankins vs 11-Zaugg-Wright
+  200          6.00   1.00 14-Sivapragasam-Jain vs 10-McCaslin-Davis
+  300          7.00   0.00 16-Eng-Sieg vs 7-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   5.00 1-Carmichael-Delfs vs 5-Galer-Vulcan
+  140          5.00   2.00 2-Miller-Ford vs 4-Tipton-Hesson
+        300    0.00   7.00 3-Herman-Herman vs 8-Roselle-Anderson
+  140          5.00   2.00 6-Christensen-Castner vs 13-Fuhrman-Stuberg
+  200          7.00   0.00 9-Sievers-Ring vs 15-Hovda-Romeo
+  140          5.00   2.00 12-Cline-Hankins vs 11-Zaugg-Wright
+        100    2.00   5.00 14-Sivapragasam-Jain vs 10-McCaslin-Davis
+        100    2.00   5.00 16-Eng-Sieg vs 7-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          5.00   2.00 2-Miller-Ford vs 6-Christensen-Castner
+        100    1.00   6.00 3-Herman-Herman vs 5-Galer-Vulcan
+  660          7.00   0.00 4-Tipton-Hesson vs 9-Sievers-Ring
+  650          6.00   1.00 7-Jacobson-Rind vs 1-Carmichael-Delfs
+  600          2.00   5.00 10-McCaslin-Davis vs 15-Hovda-Romeo
+  620          3.50   3.50 13-Fuhrman-Stuberg vs 12-Cline-Hankins
+        300    0.00   7.00 14-Sivapragasam-Jain vs 11-Zaugg-Wright
+  620          3.50   3.50 16-Eng-Sieg vs 8-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   5.00 2-Miller-Ford vs 6-Christensen-Castner
+        650    2.00   5.00 3-Herman-Herman vs 5-Galer-Vulcan
+  100          6.00   1.00 4-Tipton-Hesson vs 9-Sievers-Ring
+        500    4.50   2.50 7-Jacobson-Rind vs 1-Carmichael-Delfs
+  530          7.00   0.00 10-McCaslin-Davis vs 15-Hovda-Romeo
+        650    2.00   5.00 13-Fuhrman-Stuberg vs 12-Cline-Hankins
+        500    4.50   2.50 14-Sivapragasam-Jain vs 11-Zaugg-Wright
+        800    0.00   7.00 16-Eng-Sieg vs 8-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.00   2.00 1-Carmichael-Delfs vs 13-Fuhrman-Stuberg
+        100    1.50   5.50 3-Herman-Herman vs 7-Jacobson-Rind
+         50    3.50   3.50 4-Tipton-Hesson vs 6-Christensen-Castner
+  470          7.00   0.00 5-Galer-Vulcan vs 10-McCaslin-Davis
+        170    0.00   7.00 8-Roselle-Anderson vs 2-Miller-Ford
+         50    3.50   3.50 14-Sivapragasam-Jain vs 12-Cline-Hankins
+        100    1.50   5.50 15-Hovda-Romeo vs 11-Zaugg-Wright
+  140          6.00   1.00 16-Eng-Sieg vs 9-Sievers-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    4.00   3.00 1-Carmichael-Delfs vs 13-Fuhrman-Stuberg
+        800    0.00   7.00 3-Herman-Herman vs 7-Jacobson-Rind
+        170    4.00   3.00 4-Tipton-Hesson vs 6-Christensen-Castner
+        170    4.00   3.00 5-Galer-Vulcan vs 10-McCaslin-Davis
+        170    4.00   3.00 8-Roselle-Anderson vs 2-Miller-Ford
+        200    1.00   6.00 14-Sivapragasam-Jain vs 12-Cline-Hankins
+        150    7.00   0.00 15-Hovda-Romeo vs 11-Zaugg-Wright
+        170    4.00   3.00 16-Eng-Sieg vs 9-Sievers-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   6.00 2-Miller-Ford vs 1-Carmichael-Delfs
+         50    1.00   6.00 4-Tipton-Hesson vs 8-Roselle-Anderson
+  110          3.00   4.00 5-Galer-Vulcan vs 7-Jacobson-Rind
+  200          6.50   0.50 6-Christensen-Castner vs 11-Zaugg-Wright
+  200          6.50   0.50 9-Sievers-Ring vs 3-Herman-Herman
+  170          5.00   2.00 14-Sivapragasam-Jain vs 13-Fuhrman-Stuberg
+  140          4.00   3.00 15-Hovda-Romeo vs 12-Cline-Hankins
+         50    1.00   6.00 16-Eng-Sieg vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        160    0.00   7.00 2-Miller-Ford vs 1-Carmichael-Delfs
+        110    1.00   6.00 4-Tipton-Hesson vs 8-Roselle-Anderson
+  100          2.50   4.50 5-Galer-Vulcan vs 7-Jacobson-Rind
+  200          5.50   1.50 6-Christensen-Castner vs 11-Zaugg-Wright
+  200          5.50   1.50 9-Sievers-Ring vs 3-Herman-Herman
+  200          5.50   1.50 14-Sivapragasam-Jain vs 13-Fuhrman-Stuberg
+  100          2.50   4.50 15-Hovda-Romeo vs 12-Cline-Hankins
+  200          5.50   1.50 16-Eng-Sieg vs 10-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   5.50 1-Carmichael-Delfs vs 14-Sivapragasam-Jain
+  620          5.50   1.50 3-Herman-Herman vs 2-Miller-Ford
+        100    1.50   5.50 5-Galer-Vulcan vs 9-Sievers-Ring
+  620          5.50   1.50 6-Christensen-Castner vs 8-Roselle-Anderson
+  620          5.50   1.50 7-Jacobson-Rind vs 12-Cline-Hankins
+        130    0.00   7.00 10-McCaslin-Davis vs 4-Tipton-Hesson
+  100          3.00   4.00 15-Hovda-Romeo vs 13-Fuhrman-Stuberg
+  620          5.50   1.50 16-Eng-Sieg vs 11-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.50   3.50 1-Carmichael-Delfs vs 14-Sivapragasam-Jain
+  430          3.50   3.50 3-Herman-Herman vs 2-Miller-Ford
+  180          0.00   7.00 5-Galer-Vulcan vs 9-Sievers-Ring
+  460          7.00   0.00 6-Christensen-Castner vs 8-Roselle-Anderson
+  430          3.50   3.50 7-Jacobson-Rind vs 12-Cline-Hankins
+  430          3.50   3.50 10-McCaslin-Davis vs 4-Tipton-Hesson
+  430          3.50   3.50 15-Hovda-Romeo vs 13-Fuhrman-Stuberg
+  430          3.50   3.50 16-Eng-Sieg vs 11-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   6.50 2-Miller-Ford vs 14-Sivapragasam-Jain
+  120          3.00   4.00 4-Tipton-Hesson vs 3-Herman-Herman
+  500          6.00   1.00 6-Christensen-Castner vs 10-McCaslin-Davis
+        100    0.50   6.50 7-Jacobson-Rind vs 9-Sievers-Ring
+  500          6.00   1.00 8-Roselle-Anderson vs 13-Fuhrman-Stuberg
+  300          4.00   3.00 11-Zaugg-Wright vs 5-Galer-Vulcan
+  100          2.00   5.00 15-Hovda-Romeo vs 1-Carmichael-Delfs
+  500          6.00   1.00 16-Eng-Sieg vs 12-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          3.50   3.50 2-Miller-Ford vs 14-Sivapragasam-Jain
+  460          3.50   3.50 4-Tipton-Hesson vs 3-Herman-Herman
+  460          3.50   3.50 6-Christensen-Castner vs 10-McCaslin-Davis
+  460          3.50   3.50 7-Jacobson-Rind vs 9-Sievers-Ring
+  460          3.50   3.50 8-Roselle-Anderson vs 13-Fuhrman-Stuberg
+  460          3.50   3.50 11-Zaugg-Wright vs 5-Galer-Vulcan
+  460          3.50   3.50 15-Hovda-Romeo vs 1-Carmichael-Delfs
+  460          3.50   3.50 16-Eng-Sieg vs 12-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.00   0.00 3-Herman-Herman vs 14-Sivapragasam-Jain
+        630    6.00   1.00 5-Galer-Vulcan vs 4-Tipton-Hesson
+        660    2.50   4.50 7-Jacobson-Rind vs 11-Zaugg-Wright
+        660    2.50   4.50 8-Roselle-Anderson vs 10-McCaslin-Davis
+        660    2.50   4.50 9-Sievers-Ring vs 1-Carmichael-Delfs
+        660    2.50   4.50 12-Cline-Hankins vs 6-Christensen-Castner
+        660    2.50   4.50 15-Hovda-Romeo vs 2-Miller-Ford
+        660    2.50   4.50 16-Eng-Sieg vs 13-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   4.50 3-Herman-Herman vs 14-Sivapragasam-Jain
+        100    2.50   4.50 5-Galer-Vulcan vs 4-Tipton-Hesson
+        100    2.50   4.50 7-Jacobson-Rind vs 11-Zaugg-Wright
+  620          6.50   0.50 8-Roselle-Anderson vs 10-McCaslin-Davis
+  620          6.50   0.50 9-Sievers-Ring vs 1-Carmichael-Delfs
+        100    2.50   4.50 12-Cline-Hankins vs 6-Christensen-Castner
+        100    2.50   4.50 15-Hovda-Romeo vs 2-Miller-Ford
+        100    2.50   4.50 16-Eng-Sieg vs 13-Fuhrman-Stuberg
+----------------------------------------------------------------------
