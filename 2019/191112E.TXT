@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 12, 2019  |CLUB NO.>158048    | 11/12/2019 22:25
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/2000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=6/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             A    .     .     .     52.20  38.67          
+
+ 2 William Campbell       Melinda Westgate         B    4     .     .     70.10  51.93  0.42(A) 
+
+ 3 John Uchida            Brad Rind                C    .     .     .     65.80  48.74          
+
+ 4 Stanford Christie      Brian Zaugg              A    5     .     .     67.90  50.30  0.24(A) 
+
+ 5 John McCaslin          Grant Davis              B    .     .     .     55.40  41.04          
+
+ 6 Mike Christensen       Mike Ring                A    .     .     .     62.70  46.44          
+
+ 7 Guy Arie                                        C    3     2     .     71.10  52.67  0.60(A) 
+
+ 8 David Taylor           Sue Anderson             A    .     .     .     64.10  47.48          
+
+ 9 Jeffrey Ford           Aaron Mohrman            A    .     .     .     64.50  47.78          
+
+10 Kevin Cline            David Hankins            B    .     .     .     65.30  48.37          
+
+11 Corneliu Galer         Bogdan Vulcan            C    1     1     1     86.60  64.15  1.20(A) 
+
+12 David Roselle          Jingsong Liu             A    2     .     .     84.30  62.44  0.84(A) 
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   5.00 3-Uchida-Rind vs 11-Galer-Vulcan
+   50          3.00   2.00 5-McCaslin-Davis vs 2-Campbell-Westgate
+   50          3.00   2.00 6-Christensen-Ring vs 10-Cline-Hankins
+   50          3.00   2.00 8-Taylor-Anderson vs 4-Christie-Zaugg
+   50          3.00   2.00 9-Ford-Mohrman vs 7-Arie-
+   50          3.00   2.00 12-Roselle-Liu vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.50   3.50 3-Uchida-Rind vs 11-Galer-Vulcan
+        130    1.50   3.50 5-McCaslin-Davis vs 2-Campbell-Westgate
+  250          5.00   0.00 6-Christensen-Ring vs 10-Cline-Hankins
+        130    1.50   3.50 8-Taylor-Anderson vs 4-Christie-Zaugg
+        130    1.50   3.50 9-Ford-Mohrman vs 7-Arie-
+  150          4.00   1.00 12-Roselle-Liu vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          1.50   3.50 3-Uchida-Rind vs 11-Galer-Vulcan
+  800          4.00   1.00 5-McCaslin-Davis vs 2-Campbell-Westgate
+  800          4.00   1.00 6-Christensen-Ring vs 10-Cline-Hankins
+  800          4.00   1.00 8-Taylor-Anderson vs 4-Christie-Zaugg
+  140          0.00   5.00 9-Ford-Mohrman vs 7-Arie-
+  500          1.50   3.50 12-Roselle-Liu vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.10   4.90 1-Tipton-Hesson vs 8-Taylor-Anderson
+        130    1.30   3.70 6-Christensen-Ring vs 3-Uchida-Rind
+  500   AVE+   3.70   3.00 7-Arie- vs 10-Cline-Hankins
+  AVE+ -500    3.00   1.30 9-Ford-Mohrman vs 5-McCaslin-Davis
+  800          4.90   0.10 11-Galer-Vulcan vs 4-Christie-Zaugg
+  200          2.50   2.50 12-Roselle-Liu vs 2-Campbell-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.90   0.10 1-Tipton-Hesson vs 8-Taylor-Anderson
+        200    0.10   4.90 6-Christensen-Ring vs 3-Uchida-Rind
+  100   AVE+   3.70   3.00 7-Arie- vs 10-Cline-Hankins
+  AVE+ -100    3.00   1.30 9-Ford-Mohrman vs 5-McCaslin-Davis
+   50          2.50   2.50 11-Galer-Vulcan vs 4-Christie-Zaugg
+        100    1.30   3.70 12-Roselle-Liu vs 2-Campbell-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.50   2.50 1-Tipton-Hesson vs 8-Taylor-Anderson
+  110          1.30   3.70 6-Christensen-Ring vs 3-Uchida-Rind
+  150   AVE+   3.70   3.00 7-Arie- vs 10-Cline-Hankins
+  AVE+ -150    3.00   1.30 9-Ford-Mohrman vs 5-McCaslin-Davis
+  800          4.90   0.10 11-Galer-Vulcan vs 4-Christie-Zaugg
+  100          0.10   4.90 12-Roselle-Liu vs 2-Campbell-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   5.00 1-Tipton-Hesson vs 6-Christensen-Ring
+  140          3.50   1.50 2-Campbell-Westgate vs 9-Ford-Mohrman
+        110    1.00   4.00 7-Arie- vs 4-Christie-Zaugg
+  170          5.00   0.00 10-Cline-Hankins vs 8-Taylor-Anderson
+        100    2.00   3.00 11-Galer-Vulcan vs 5-McCaslin-Davis
+  140          3.50   1.50 12-Roselle-Liu vs 3-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 1-Tipton-Hesson vs 6-Christensen-Ring
+  140          3.00   2.00 2-Campbell-Westgate vs 9-Ford-Mohrman
+  140          3.00   2.00 7-Arie- vs 4-Christie-Zaugg
+  140          3.00   2.00 10-Cline-Hankins vs 8-Taylor-Anderson
+  400          5.00   0.00 11-Galer-Vulcan vs 5-McCaslin-Davis
+  110          1.00   4.00 12-Roselle-Liu vs 3-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.50   1.50 1-Tipton-Hesson vs 6-Christensen-Ring
+  100          1.00   4.00 2-Campbell-Westgate vs 9-Ford-Mohrman
+         50    0.00   5.00 7-Arie- vs 4-Christie-Zaugg
+  140          2.00   3.00 10-Cline-Hankins vs 8-Taylor-Anderson
+  170          3.50   1.50 11-Galer-Vulcan vs 5-McCaslin-Davis
+  630          5.00   0.00 12-Roselle-Liu vs 3-Uchida-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   3.50 2-Campbell-Westgate vs 7-Arie-
+  100          4.00   1.00 3-Uchida-Rind vs 1-Tipton-Hesson
+        620    1.50   3.50 8-Taylor-Anderson vs 5-McCaslin-Davis
+  200          5.00   0.00 10-Cline-Hankins vs 9-Ford-Mohrman
+        620    1.50   3.50 11-Galer-Vulcan vs 6-Christensen-Ring
+        620    1.50   3.50 12-Roselle-Liu vs 4-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.00   5.00 2-Campbell-Westgate vs 7-Arie-
+        170    2.50   2.50 3-Uchida-Rind vs 1-Tipton-Hesson
+        170    2.50   2.50 8-Taylor-Anderson vs 5-McCaslin-Davis
+        170    2.50   2.50 10-Cline-Hankins vs 9-Ford-Mohrman
+        170    2.50   2.50 11-Galer-Vulcan vs 6-Christensen-Ring
+        130    5.00   0.00 12-Roselle-Liu vs 4-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1460          5.00   0.00 2-Campbell-Westgate vs 7-Arie-
+ 1430          2.00   3.00 3-Uchida-Rind vs 1-Tipton-Hesson
+ 1430          2.00   3.00 8-Taylor-Anderson vs 5-McCaslin-Davis
+ 1430          2.00   3.00 10-Cline-Hankins vs 9-Ford-Mohrman
+ 1430          2.00   3.00 11-Galer-Vulcan vs 6-Christensen-Ring
+ 1430          2.00   3.00 12-Roselle-Liu vs 4-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   5.00 1-Tipton-Hesson vs 10-Cline-Hankins
+  100          2.50   2.50 3-Uchida-Rind vs 8-Taylor-Anderson
+  100          2.50   2.50 4-Christie-Zaugg vs 2-Campbell-Westgate
+  100          2.50   2.50 7-Arie- vs 11-Galer-Vulcan
+  100          2.50   2.50 9-Ford-Mohrman vs 6-Christensen-Ring
+  140          5.00   0.00 12-Roselle-Liu vs 5-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.00   4.00 1-Tipton-Hesson vs 10-Cline-Hankins
+        100    0.00   5.00 3-Uchida-Rind vs 8-Taylor-Anderson
+  430          4.00   1.00 4-Christie-Zaugg vs 2-Campbell-Westgate
+  420          2.50   2.50 7-Arie- vs 11-Galer-Vulcan
+  420          2.50   2.50 9-Ford-Mohrman vs 6-Christensen-Ring
+  500          5.00   0.00 12-Roselle-Liu vs 5-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   3.00 1-Tipton-Hesson vs 10-Cline-Hankins
+        100    0.00   5.00 3-Uchida-Rind vs 8-Taylor-Anderson
+  620          3.00   2.00 4-Christie-Zaugg vs 2-Campbell-Westgate
+  500          1.00   4.00 7-Arie- vs 11-Galer-Vulcan
+  630          4.00   1.00 9-Ford-Mohrman vs 6-Christensen-Ring
+ 1370          5.00   0.00 12-Roselle-Liu vs 5-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   3.50 1-Tipton-Hesson vs 7-Arie-
+         50    1.50   3.50 2-Campbell-Westgate vs 10-Cline-Hankins
+         50    1.50   3.50 4-Christie-Zaugg vs 9-Ford-Mohrman
+         50    1.50   3.50 5-McCaslin-Davis vs 3-Uchida-Rind
+  450          4.50   0.50 8-Taylor-Anderson vs 11-Galer-Vulcan
+  450          4.50   0.50 12-Roselle-Liu vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.50   3.50 1-Tipton-Hesson vs 7-Arie-
+  690          5.00   0.00 2-Campbell-Westgate vs 10-Cline-Hankins
+  450          1.50   3.50 4-Christie-Zaugg vs 9-Ford-Mohrman
+  450          1.50   3.50 5-McCaslin-Davis vs 3-Uchida-Rind
+  450          1.50   3.50 8-Taylor-Anderson vs 11-Galer-Vulcan
+  460          4.00   1.00 12-Roselle-Liu vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   3.00 1-Tipton-Hesson vs 7-Arie-
+        110    3.00   2.00 2-Campbell-Westgate vs 10-Cline-Hankins
+        150    1.00   4.00 4-Christie-Zaugg vs 9-Ford-Mohrman
+         90    4.50   0.50 5-McCaslin-Davis vs 3-Uchida-Rind
+        400    0.00   5.00 8-Taylor-Anderson vs 11-Galer-Vulcan
+         90    4.50   0.50 12-Roselle-Liu vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   3.00 2-Campbell-Westgate vs 8-Taylor-Anderson
+  420          2.00   3.00 5-McCaslin-Davis vs 1-Tipton-Hesson
+  420          2.00   3.00 6-Christensen-Ring vs 4-Christie-Zaugg
+  420          2.00   3.00 10-Cline-Hankins vs 3-Uchida-Rind
+  450          5.00   0.00 11-Galer-Vulcan vs 9-Ford-Mohrman
+  420          2.00   3.00 12-Roselle-Liu vs 7-Arie-
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       5.00   0.00 2-Campbell-Westgate vs 8-Taylor-Anderson
+        100    3.00   2.00 5-McCaslin-Davis vs 1-Tipton-Hesson
+        200    0.50   4.50 6-Christensen-Ring vs 4-Christie-Zaugg
+        100    3.00   2.00 10-Cline-Hankins vs 3-Uchida-Rind
+        200    0.50   4.50 11-Galer-Vulcan vs 9-Ford-Mohrman
+        100    3.00   2.00 12-Roselle-Liu vs 7-Arie-
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.50   1.50 2-Campbell-Westgate vs 8-Taylor-Anderson
+        430    3.50   1.50 5-McCaslin-Davis vs 1-Tipton-Hesson
+        430    3.50   1.50 6-Christensen-Ring vs 4-Christie-Zaugg
+        460    0.50   4.50 10-Cline-Hankins vs 3-Uchida-Rind
+        430    3.50   1.50 11-Galer-Vulcan vs 9-Ford-Mohrman
+        460    0.50   4.50 12-Roselle-Liu vs 7-Arie-
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.30   3.70 3-Uchida-Rind vs 9-Ford-Mohrman
+         50    3.70   1.30 6-Christensen-Ring vs 2-Campbell-Westgate
+  AVE-  AVE-   2.00   2.00 7-Arie- vs 5-McCaslin-Davis
+        620    0.10   4.90 10-Cline-Hankins vs 4-Christie-Zaugg
+  100          4.90   0.10 11-Galer-Vulcan vs 1-Tipton-Hesson
+        140    2.50   2.50 12-Roselle-Liu vs 8-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.90   0.10 3-Uchida-Rind vs 9-Ford-Mohrman
+        180    3.70   1.30 6-Christensen-Ring vs 2-Campbell-Westgate
+  AVE-  AVE-   2.00   2.00 7-Arie- vs 5-McCaslin-Davis
+        690    0.10   4.90 10-Cline-Hankins vs 4-Christie-Zaugg
+        630    1.30   3.70 11-Galer-Vulcan vs 1-Tipton-Hesson
+        600    2.50   2.50 12-Roselle-Liu vs 8-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.30   3.70 3-Uchida-Rind vs 9-Ford-Mohrman
+        500    0.10   4.90 6-Christensen-Ring vs 2-Campbell-Westgate
+  AVE-  AVE-   2.00   2.00 7-Arie- vs 5-McCaslin-Davis
+  430          3.10   1.90 10-Cline-Hankins vs 4-Christie-Zaugg
+  430          3.10   1.90 11-Galer-Vulcan vs 1-Tipton-Hesson
+  460          4.90   0.10 12-Roselle-Liu vs 8-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.50   4.50 2-Campbell-Westgate vs 11-Galer-Vulcan
+         50    3.00   2.00 4-Christie-Zaugg vs 1-Tipton-Hesson
+  100          4.00   1.00 5-McCaslin-Davis vs 10-Cline-Hankins
+        300    0.50   4.50 7-Arie- vs 3-Uchida-Rind
+  530          5.00   0.00 8-Taylor-Anderson vs 6-Christensen-Ring
+        100    2.00   3.00 12-Roselle-Liu vs 9-Ford-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          1.50   3.50 2-Campbell-Westgate vs 11-Galer-Vulcan
+  600          3.00   2.00 4-Christie-Zaugg vs 1-Tipton-Hesson
+        800    0.00   5.00 5-McCaslin-Davis vs 10-Cline-Hankins
+  500          1.50   3.50 7-Arie- vs 3-Uchida-Rind
+  650          4.00   1.00 8-Taylor-Anderson vs 6-Christensen-Ring
+  680          5.00   0.00 12-Roselle-Liu vs 9-Ford-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       3.50   1.50 2-Campbell-Westgate vs 11-Galer-Vulcan
+        100    1.00   4.00 4-Christie-Zaugg vs 1-Tipton-Hesson
+    PASS       3.50   1.50 5-McCaslin-Davis vs 10-Cline-Hankins
+    PASS       3.50   1.50 7-Arie- vs 3-Uchida-Rind
+        150    0.00   5.00 8-Taylor-Anderson vs 6-Christensen-Ring
+    PASS       3.50   1.50 12-Roselle-Liu vs 9-Ford-Mohrman
+----------------------------------------------------------------------
