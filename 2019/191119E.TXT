@@ -1,0 +1,470 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>November 19, 2019  |CLUB NO.>158048    | 11/19/2019 22:35
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2000/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 William Campbell       Melinda Westgate         B    .     .     .     85.50  39.58          
+
+ 2 Bryan Delfs            Sue Anderson             A    3     .     .    121.00  56.02  0.45(A) 
+
+ 3 Adam Ruprecht          Christopher Jarvis       C    .     .     .    102.00  47.22          
+
+ 4 Kevin Cline            David Hankins            B    4     2     .    109.00  50.46  0.32(A) 
+
+ 5 Reidun Decker          John Swanson             A    .     .     .    105.00  48.61          
+
+ 6 Corneliu Galer         Bogdan Vulcan            C    2     1     1    122.00  56.48  0.63(A) 
+
+ 7 Shawn Abernethy        Mike Ring                A    1     .     .    129.50  59.95  0.90(A) 
+
+ 8 Ray Miller             Paul Schwaighart         A    .     .     .    108.00  50.00          
+
+ 9 Grant Davis            John McCaslin            C    .     .     .     90.00  41.67          
+
+
+                                          Totals                         972.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>November 19, 2019  |CLUB NO.>158048    | 11/19/2019 22:35
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2000/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=4/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Ann Romeo                A    .     .     .    100.50  46.53          
+
+ 2 Peiyush Jain           Rajendra Gokhale         A    2     .     .    119.50  55.32  0.63(A) 
+
+ 3 Chris Pesce            David Taylor             A    .     .     .     93.50  43.29          
+
+ 4 Joel Fuhrman           David Walker             B    4     .     .    105.50  48.84  0.32(A) 
+
+ 5 Hugh Hendrickson       Guy Arie                 C    .     .     .     99.00  45.83          
+
+ 6 Yuri Wiitala           Gert Wiitala             B    3     2     .    111.50  51.62  0.45(A) 
+
+ 7 Nick Tipton            Galen Hesson             A    .     .     .    103.00  47.69          
+
+ 8 Mike Christensen       Becky Stevens            A    .     .     .    105.00  48.61          
+
+ 9 Terry Jacobson         Brad Rind                C    1     1     1    134.50  62.27  0.90(A) 
+
+
+                                          Totals                         972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.50   4.50 1-Campbell-Westgate vs 1-Zaugg-Romeo
+  400          3.50   4.50 2-Delfs-Anderson vs 3-Pesce-Taylor
+  400          3.50   4.50 3-Ruprecht-Jarvis vs 5-Hendrickson-Arie
+  420          6.50   1.50 4-Cline-Hankins vs 7-Tipton-Hesson
+        100    0.50   7.50 5-Decker-Swanson vs 9-Jacobson-Rind
+  420          6.50   1.50 6-Galer-Vulcan vs 2-Jain-Gokhale
+  450          8.00   0.00 7-Abernethy-Ring vs 4-Fuhrman-Walker
+  400          3.50   4.50 8-Miller-Schwaighart vs 6-Wiitala-Wiitala
+        100    0.50   7.50 9-Davis-McCaslin vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   5.50 1-Campbell-Westgate vs 1-Zaugg-Romeo
+  110          7.00   1.00 2-Delfs-Anderson vs 3-Pesce-Taylor
+   90          6.00   2.00 3-Ruprecht-Jarvis vs 5-Hendrickson-Arie
+        300    0.00   8.00 4-Cline-Hankins vs 7-Tipton-Hesson
+        100    2.50   5.50 5-Decker-Swanson vs 9-Jacobson-Rind
+        100    2.50   5.50 6-Galer-Vulcan vs 2-Jain-Gokhale
+        100    2.50   5.50 7-Abernethy-Ring vs 4-Fuhrman-Walker
+  120          8.00   0.00 8-Miller-Schwaighart vs 6-Wiitala-Wiitala
+   50          5.00   3.00 9-Davis-McCaslin vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  230          0.00   8.00 1-Campbell-Westgate vs 1-Zaugg-Romeo
+ 1010          8.00   0.00 2-Delfs-Anderson vs 3-Pesce-Taylor
+  480          3.50   4.50 3-Ruprecht-Jarvis vs 5-Hendrickson-Arie
+  450          1.00   7.00 4-Cline-Hankins vs 7-Tipton-Hesson
+  480          3.50   4.50 5-Decker-Swanson vs 9-Jacobson-Rind
+  480          3.50   4.50 6-Galer-Vulcan vs 2-Jain-Gokhale
+  480          3.50   4.50 7-Abernethy-Ring vs 4-Fuhrman-Walker
+  650          6.00   2.00 8-Miller-Schwaighart vs 6-Wiitala-Wiitala
+  980          7.00   1.00 9-Davis-McCaslin vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   7.00 1-Campbell-Westgate vs 9-Jacobson-Rind
+        620    1.00   7.00 2-Delfs-Anderson vs 2-Jain-Gokhale
+  200          8.00   0.00 3-Ruprecht-Jarvis vs 4-Fuhrman-Walker
+        620    1.00   7.00 4-Cline-Hankins vs 6-Wiitala-Wiitala
+  100          5.00   3.00 5-Decker-Swanson vs 8-Christensen-Stevens
+  100          5.00   3.00 6-Galer-Vulcan vs 1-Zaugg-Romeo
+  100          5.00   3.00 7-Abernethy-Ring vs 3-Pesce-Taylor
+  100          5.00   3.00 8-Miller-Schwaighart vs 5-Hendrickson-Arie
+  100          5.00   3.00 9-Davis-McCaslin vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1020    0.00   8.00 1-Campbell-Westgate vs 9-Jacobson-Rind
+        490    5.00   3.00 2-Delfs-Anderson vs 2-Jain-Gokhale
+        990    1.00   7.00 3-Ruprecht-Jarvis vs 4-Fuhrman-Walker
+   50          7.00   1.00 4-Cline-Hankins vs 6-Wiitala-Wiitala
+   50          7.00   1.00 5-Decker-Swanson vs 8-Christensen-Stevens
+        920    3.00   5.00 6-Galer-Vulcan vs 1-Zaugg-Romeo
+        920    3.00   5.00 7-Abernethy-Ring vs 3-Pesce-Taylor
+   50          7.00   1.00 8-Miller-Schwaighart vs 5-Hendrickson-Arie
+        920    3.00   5.00 9-Davis-McCaslin vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          6.50   1.50 1-Campbell-Westgate vs 9-Jacobson-Rind
+  480          3.00   5.00 2-Delfs-Anderson vs 2-Jain-Gokhale
+  450          1.00   7.00 3-Ruprecht-Jarvis vs 4-Fuhrman-Walker
+  980          6.50   1.50 4-Cline-Hankins vs 6-Wiitala-Wiitala
+  480          3.00   5.00 5-Decker-Swanson vs 8-Christensen-Stevens
+  480          3.00   5.00 6-Galer-Vulcan vs 1-Zaugg-Romeo
+  980          6.50   1.50 7-Abernethy-Ring vs 3-Pesce-Taylor
+  400          0.00   8.00 8-Miller-Schwaighart vs 5-Hendrickson-Arie
+  980          6.50   1.50 9-Davis-McCaslin vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.00   8.00 1-Campbell-Westgate vs 8-Christensen-Stevens
+  100          7.50   0.50 2-Delfs-Anderson vs 1-Zaugg-Romeo
+  100          7.50   0.50 3-Ruprecht-Jarvis vs 3-Pesce-Taylor
+        630    2.50   5.50 4-Cline-Hankins vs 5-Hendrickson-Arie
+        150    6.00   2.00 5-Decker-Swanson vs 7-Tipton-Hesson
+        630    2.50   5.50 6-Galer-Vulcan vs 9-Jacobson-Rind
+        500    5.00   3.00 7-Abernethy-Ring vs 2-Jain-Gokhale
+        630    2.50   5.50 8-Miller-Schwaighart vs 4-Fuhrman-Walker
+        630    2.50   5.50 9-Davis-McCaslin vs 6-Wiitala-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   5.50 1-Campbell-Westgate vs 8-Christensen-Stevens
+         50    2.50   5.50 2-Delfs-Anderson vs 1-Zaugg-Romeo
+  140          6.50   1.50 3-Ruprecht-Jarvis vs 3-Pesce-Taylor
+  420          8.00   0.00 4-Cline-Hankins vs 5-Hendrickson-Arie
+  140          6.50   1.50 5-Decker-Swanson vs 7-Tipton-Hesson
+         50    2.50   5.50 6-Galer-Vulcan vs 9-Jacobson-Rind
+  100          5.00   3.00 7-Abernethy-Ring vs 2-Jain-Gokhale
+         50    2.50   5.50 8-Miller-Schwaighart vs 4-Fuhrman-Walker
+        650    0.00   8.00 9-Davis-McCaslin vs 6-Wiitala-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   6.50 1-Campbell-Westgate vs 8-Christensen-Stevens
+  150          7.00   1.00 2-Delfs-Anderson vs 1-Zaugg-Romeo
+         50    1.50   6.50 3-Ruprecht-Jarvis vs 3-Pesce-Taylor
+  150          7.00   1.00 4-Cline-Hankins vs 5-Hendrickson-Arie
+        100    0.00   8.00 5-Decker-Swanson vs 7-Tipton-Hesson
+   90          4.00   4.00 6-Galer-Vulcan vs 9-Jacobson-Rind
+   90          4.00   4.00 7-Abernethy-Ring vs 2-Jain-Gokhale
+  150          7.00   1.00 8-Miller-Schwaighart vs 4-Fuhrman-Walker
+   90          4.00   4.00 9-Davis-McCaslin vs 6-Wiitala-Wiitala
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   6.50 1-Campbell-Westgate vs 7-Tipton-Hesson
+        140    4.50   3.50 2-Delfs-Anderson vs 9-Jacobson-Rind
+        650    0.00   8.00 3-Ruprecht-Jarvis vs 2-Jain-Gokhale
+  100          6.50   1.50 4-Cline-Hankins vs 4-Fuhrman-Walker
+        620    1.50   6.50 5-Decker-Swanson vs 6-Wiitala-Wiitala
+  100          6.50   1.50 6-Galer-Vulcan vs 8-Christensen-Stevens
+  200          8.00   0.00 7-Abernethy-Ring vs 1-Zaugg-Romeo
+        140    4.50   3.50 8-Miller-Schwaighart vs 3-Pesce-Taylor
+        170    3.00   5.00 9-Davis-McCaslin vs 5-Hendrickson-Arie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    1.00   7.00 1-Campbell-Westgate vs 7-Tipton-Hesson
+        450    6.00   2.00 2-Delfs-Anderson vs 9-Jacobson-Rind
+        450    6.00   2.00 3-Ruprecht-Jarvis vs 2-Jain-Gokhale
+        980    0.00   8.00 4-Cline-Hankins vs 4-Fuhrman-Walker
+        450    6.00   2.00 5-Decker-Swanson vs 6-Wiitala-Wiitala
+        450    6.00   2.00 6-Galer-Vulcan vs 8-Christensen-Stevens
+        480    2.50   5.50 7-Abernethy-Ring vs 1-Zaugg-Romeo
+        480    2.50   5.50 8-Miller-Schwaighart vs 3-Pesce-Taylor
+        450    6.00   2.00 9-Davis-McCaslin vs 5-Hendrickson-Arie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        940    2.00   6.00 1-Campbell-Westgate vs 7-Tipton-Hesson
+        460    4.50   3.50 2-Delfs-Anderson vs 9-Jacobson-Rind
+        990    0.00   8.00 3-Ruprecht-Jarvis vs 2-Jain-Gokhale
+        460    4.50   3.50 4-Cline-Hankins vs 4-Fuhrman-Walker
+        940    2.00   6.00 5-Decker-Swanson vs 6-Wiitala-Wiitala
+  500          8.00   0.00 6-Galer-Vulcan vs 8-Christensen-Stevens
+        150    6.00   2.00 7-Abernethy-Ring vs 1-Zaugg-Romeo
+   50          7.00   1.00 8-Miller-Schwaighart vs 3-Pesce-Taylor
+        940    2.00   6.00 9-Davis-McCaslin vs 5-Hendrickson-Arie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   5.00 1-Campbell-Westgate vs 6-Wiitala-Wiitala
+  150          6.00   2.00 2-Delfs-Anderson vs 8-Christensen-Stevens
+        930    0.00   8.00 3-Ruprecht-Jarvis vs 1-Zaugg-Romeo
+  600          8.00   0.00 4-Cline-Hankins vs 3-Pesce-Taylor
+        200    1.50   6.50 5-Decker-Swanson vs 5-Hendrickson-Arie
+  150          6.00   2.00 6-Galer-Vulcan vs 7-Tipton-Hesson
+  150          6.00   2.00 7-Abernethy-Ring vs 9-Jacobson-Rind
+        200    1.50   6.50 8-Miller-Schwaighart vs 2-Jain-Gokhale
+        100    4.00   4.00 9-Davis-McCaslin vs 4-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   5.50 1-Campbell-Westgate vs 6-Wiitala-Wiitala
+        100    0.00   8.00 2-Delfs-Anderson vs 8-Christensen-Stevens
+  140          7.50   0.50 3-Ruprecht-Jarvis vs 1-Zaugg-Romeo
+         50    2.50   5.50 4-Cline-Hankins vs 3-Pesce-Taylor
+  140          7.50   0.50 5-Decker-Swanson vs 5-Hendrickson-Arie
+  100          5.00   3.00 6-Galer-Vulcan vs 7-Tipton-Hesson
+  110          6.00   2.00 7-Abernethy-Ring vs 9-Jacobson-Rind
+         50    2.50   5.50 8-Miller-Schwaighart vs 2-Jain-Gokhale
+         50    2.50   5.50 9-Davis-McCaslin vs 4-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   6.50 1-Campbell-Westgate vs 6-Wiitala-Wiitala
+        170    6.00   2.00 2-Delfs-Anderson vs 8-Christensen-Stevens
+        170    6.00   2.00 3-Ruprecht-Jarvis vs 1-Zaugg-Romeo
+        420    1.50   6.50 4-Cline-Hankins vs 3-Pesce-Taylor
+        420    1.50   6.50 5-Decker-Swanson vs 5-Hendrickson-Arie
+        170    6.00   2.00 6-Galer-Vulcan vs 7-Tipton-Hesson
+        170    6.00   2.00 7-Abernethy-Ring vs 9-Jacobson-Rind
+        420    1.50   6.50 8-Miller-Schwaighart vs 2-Jain-Gokhale
+        170    6.00   2.00 9-Davis-McCaslin vs 4-Fuhrman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    7.00   1.00 1-Campbell-Westgate vs 5-Hendrickson-Arie
+        100    5.00   3.00 2-Delfs-Anderson vs 7-Tipton-Hesson
+        100    5.00   3.00 3-Ruprecht-Jarvis vs 9-Jacobson-Rind
+        100    5.00   3.00 4-Cline-Hankins vs 2-Jain-Gokhale
+        110    3.00   5.00 5-Decker-Swanson vs 4-Fuhrman-Walker
+        300    0.50   7.50 6-Galer-Vulcan vs 6-Wiitala-Wiitala
+        150    2.00   6.00 7-Abernethy-Ring vs 8-Christensen-Stevens
+        300    0.50   7.50 8-Miller-Schwaighart vs 1-Zaugg-Romeo
+  110          8.00   0.00 9-Davis-McCaslin vs 3-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          6.50   1.50 1-Campbell-Westgate vs 5-Hendrickson-Arie
+  100          4.00   4.00 2-Delfs-Anderson vs 7-Tipton-Hesson
+        470    0.00   8.00 3-Ruprecht-Jarvis vs 9-Jacobson-Rind
+  150          6.50   1.50 4-Cline-Hankins vs 2-Jain-Gokhale
+   50          3.00   5.00 5-Decker-Swanson vs 4-Fuhrman-Walker
+  300          8.00   0.00 6-Galer-Vulcan vs 6-Wiitala-Wiitala
+         50    2.00   6.00 7-Abernethy-Ring vs 8-Christensen-Stevens
+  110          5.00   3.00 8-Miller-Schwaighart vs 1-Zaugg-Romeo
+        110    1.00   7.00 9-Davis-McCaslin vs 3-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    4.50   3.50 1-Campbell-Westgate vs 5-Hendrickson-Arie
+        500    0.50   7.50 2-Delfs-Anderson vs 7-Tipton-Hesson
+        500    0.50   7.50 3-Ruprecht-Jarvis vs 9-Jacobson-Rind
+        460    2.00   6.00 4-Cline-Hankins vs 2-Jain-Gokhale
+        450    4.50   3.50 5-Decker-Swanson vs 4-Fuhrman-Walker
+        420    7.00   1.00 6-Galer-Vulcan vs 6-Wiitala-Wiitala
+        450    4.50   3.50 7-Abernethy-Ring vs 8-Christensen-Stevens
+        200    8.00   0.00 8-Miller-Schwaighart vs 1-Zaugg-Romeo
+        450    4.50   3.50 9-Davis-McCaslin vs 3-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   2.50 1-Campbell-Westgate vs 4-Fuhrman-Walker
+  100          5.50   2.50 2-Delfs-Anderson vs 6-Wiitala-Wiitala
+  100          5.50   2.50 3-Ruprecht-Jarvis vs 8-Christensen-Stevens
+        110    3.00   5.00 4-Cline-Hankins vs 1-Zaugg-Romeo
+  200          8.00   0.00 5-Decker-Swanson vs 3-Pesce-Taylor
+        140    2.00   6.00 6-Galer-Vulcan vs 5-Hendrickson-Arie
+  100          5.50   2.50 7-Abernethy-Ring vs 7-Tipton-Hesson
+        170    1.00   7.00 8-Miller-Schwaighart vs 9-Jacobson-Rind
+        620    0.00   8.00 9-Davis-McCaslin vs 2-Jain-Gokhale
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.50   3.50 1-Campbell-Westgate vs 4-Fuhrman-Walker
+  170          4.50   3.50 2-Delfs-Anderson vs 6-Wiitala-Wiitala
+  100          1.00   7.00 3-Ruprecht-Jarvis vs 8-Christensen-Stevens
+  170          4.50   3.50 4-Cline-Hankins vs 1-Zaugg-Romeo
+        170    0.00   8.00 5-Decker-Swanson vs 3-Pesce-Taylor
+  170          4.50   3.50 6-Galer-Vulcan vs 5-Hendrickson-Arie
+  620          8.00   0.00 7-Abernethy-Ring vs 7-Tipton-Hesson
+  170          4.50   3.50 8-Miller-Schwaighart vs 9-Jacobson-Rind
+  170          4.50   3.50 9-Davis-McCaslin vs 2-Jain-Gokhale
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.50   2.50 1-Campbell-Westgate vs 4-Fuhrman-Walker
+  100          1.50   6.50 2-Delfs-Anderson vs 6-Wiitala-Wiitala
+  170          8.00   0.00 3-Ruprecht-Jarvis vs 8-Christensen-Stevens
+  140          5.50   2.50 4-Cline-Hankins vs 1-Zaugg-Romeo
+   50          0.00   8.00 5-Decker-Swanson vs 3-Pesce-Taylor
+  140          5.50   2.50 6-Galer-Vulcan vs 5-Hendrickson-Arie
+  140          5.50   2.50 7-Abernethy-Ring vs 7-Tipton-Hesson
+  110          3.00   5.00 8-Miller-Schwaighart vs 9-Jacobson-Rind
+  100          1.50   6.50 9-Davis-McCaslin vs 2-Jain-Gokhale
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   4.00 1-Campbell-Westgate vs 3-Pesce-Taylor
+        140    0.50   7.50 2-Delfs-Anderson vs 5-Hendrickson-Arie
+         50    7.50   0.50 3-Ruprecht-Jarvis vs 7-Tipton-Hesson
+        140    0.50   7.50 4-Cline-Hankins vs 9-Jacobson-Rind
+         50    7.50   0.50 5-Decker-Swanson vs 2-Jain-Gokhale
+        110    4.00   4.00 6-Galer-Vulcan vs 4-Fuhrman-Walker
+        110    4.00   4.00 7-Abernethy-Ring vs 6-Wiitala-Wiitala
+        110    4.00   4.00 8-Miller-Schwaighart vs 8-Christensen-Stevens
+        110    4.00   4.00 9-Davis-McCaslin vs 1-Zaugg-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   8.00 1-Campbell-Westgate vs 3-Pesce-Taylor
+  100          3.50   4.50 2-Delfs-Anderson vs 5-Hendrickson-Arie
+  110          5.50   2.50 3-Ruprecht-Jarvis vs 7-Tipton-Hesson
+        170    1.00   7.00 4-Cline-Hankins vs 9-Jacobson-Rind
+  200          7.50   0.50 5-Decker-Swanson vs 2-Jain-Gokhale
+        100    2.00   6.00 6-Galer-Vulcan vs 4-Fuhrman-Walker
+  200          7.50   0.50 7-Abernethy-Ring vs 6-Wiitala-Wiitala
+  110          5.50   2.50 8-Miller-Schwaighart vs 8-Christensen-Stevens
+  100          3.50   4.50 9-Davis-McCaslin vs 1-Zaugg-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    6.50   1.50 1-Campbell-Westgate vs 3-Pesce-Taylor
+        420    8.00   0.00 2-Delfs-Anderson vs 5-Hendrickson-Arie
+        480    2.50   5.50 3-Ruprecht-Jarvis vs 7-Tipton-Hesson
+        450    6.50   1.50 4-Cline-Hankins vs 9-Jacobson-Rind
+        480    2.50   5.50 5-Decker-Swanson vs 2-Jain-Gokhale
+        480    2.50   5.50 6-Galer-Vulcan vs 4-Fuhrman-Walker
+        480    2.50   5.50 7-Abernethy-Ring vs 6-Wiitala-Wiitala
+        480    2.50   5.50 8-Miller-Schwaighart vs 8-Christensen-Stevens
+        480    2.50   5.50 9-Davis-McCaslin vs 1-Zaugg-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   6.00 1-Campbell-Westgate vs 2-Jain-Gokhale
+        140    5.50   2.50 2-Delfs-Anderson vs 4-Fuhrman-Walker
+        170    2.00   6.00 3-Ruprecht-Jarvis vs 6-Wiitala-Wiitala
+        140    5.50   2.50 4-Cline-Hankins vs 8-Christensen-Stevens
+  100          8.00   0.00 5-Decker-Swanson vs 1-Zaugg-Romeo
+         50    7.00   1.00 6-Galer-Vulcan vs 3-Pesce-Taylor
+        170    2.00   6.00 7-Abernethy-Ring vs 5-Hendrickson-Arie
+        170    2.00   6.00 8-Miller-Schwaighart vs 7-Tipton-Hesson
+        170    2.00   6.00 9-Davis-McCaslin vs 9-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.50   2.50 1-Campbell-Westgate vs 2-Jain-Gokhale
+        140    3.50   4.50 2-Delfs-Anderson vs 4-Fuhrman-Walker
+        800    1.50   6.50 3-Ruprecht-Jarvis vs 6-Wiitala-Wiitala
+        800    1.50   6.50 4-Cline-Hankins vs 8-Christensen-Stevens
+        100    5.50   2.50 5-Decker-Swanson vs 1-Zaugg-Romeo
+  110          7.50   0.50 6-Galer-Vulcan vs 3-Pesce-Taylor
+  110          7.50   0.50 7-Abernethy-Ring vs 5-Hendrickson-Arie
+        140    3.50   4.50 8-Miller-Schwaighart vs 7-Tipton-Hesson
+        990    0.00   8.00 9-Davis-McCaslin vs 9-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   3.00 1-Campbell-Westgate vs 2-Jain-Gokhale
+  110          7.50   0.50 2-Delfs-Anderson vs 4-Fuhrman-Walker
+   50          5.00   3.00 3-Ruprecht-Jarvis vs 6-Wiitala-Wiitala
+   50          5.00   3.00 4-Cline-Hankins vs 8-Christensen-Stevens
+         50    1.50   6.50 5-Decker-Swanson vs 1-Zaugg-Romeo
+         50    1.50   6.50 6-Galer-Vulcan vs 3-Pesce-Taylor
+         50    1.50   6.50 7-Abernethy-Ring vs 5-Hendrickson-Arie
+  110          7.50   0.50 8-Miller-Schwaighart vs 7-Tipton-Hesson
+         50    1.50   6.50 9-Davis-McCaslin vs 9-Jacobson-Rind
+----------------------------------------------------------------------
