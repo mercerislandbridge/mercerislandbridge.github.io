@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 26, 2019  |SANCTION>L1911446B | 11/26/2019 22:46
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Unit Championship            |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=10/C=3                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 David Roselle          Sue Anderson             B   .     .     .   |   .     .     .     70.50  45.19          
+
+ 2 Kim Eng                Jeffrey Ford             A   .     .     .   |   6     .     .     83.00  53.21  0.29(SA)
+
+ 3 Kevin Cline            David Hankins            B  1/2   1/2    .   |  1/2   1/2    .     93.00  59.62  2.17(OA)
+
+ 4 Eric Sieg              Gregory Herman           B   4     3     .   |   4     3     .     85.00  54.49  1.05(OA)
+
+ 5 William Campbell       Melinda Westgate         B   .     .     .   |   .     .     .     67.00  42.95          
+
+ 6 Ann Romeo              Valerie Lycette          C   .     .     .   |   .     .     1     76.50  49.04  0.55(SC)
+
+ 7 Ray Miller             Bryan Delfs              A   .     .     .   |   .     .     .     78.00  50.00          
+
+ 8 Chris Pesce            Rex Tu                   C   .     .     .   |   .     .     .     61.50  39.42          
+
+ 9 Shawn Abernethy        Ken Christiansen         A   3     .     .   |   3     .     .     87.50  56.09  1.40(OA)
+
+10 Brian Zaugg            Mike Ring                B   5     4     .   |   5     4     .     83.50  53.53  0.78(OA)
+
+11 Mike Christensen       David Wright             B   .     .     .   |   .     .     .     71.50  45.83          
+
+12 Gary Haldane           Dave Setterholm          A   .     .     .   |   .     .     .     74.50  47.76          
+
+13 Dell Berg              Fan Zhang                B  1/2   1/2    .   |  1/2   1/2    .     93.00  59.62  2.17(OA)
+
+14 Corneliu Galer         Bogdan Vulcan            C   .     .     .   |   .     .     .     67.50  43.27          
+
+
+                                          Totals                                           1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.00   3.00 1-Roselle-Anderson vs 3-Cline-Hankins
+         90    3.00   3.00 2-Eng-Ford vs 6-Romeo-Lycette
+        150    0.50   5.50 4-Sieg-Herman vs 9-Abernethy-Christiansen
+         90    3.00   3.00 5-Campbell-Westgate vs 12-Haldane-Setterholm
+  100          6.00   0.00 7-Miller-Delfs vs 8-Pesce-Tu
+         50    5.00   1.00 13-Berg-Zhang vs 10-Zaugg-Ring
+        150    0.50   5.50 14-Galer-Vulcan vs 11-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 1-Roselle-Anderson vs 3-Cline-Hankins
+  120          3.50   2.50 2-Eng-Ford vs 6-Romeo-Lycette
+        100    1.00   5.00 4-Sieg-Herman vs 9-Abernethy-Christiansen
+  120          3.50   2.50 5-Campbell-Westgate vs 12-Haldane-Setterholm
+  150          5.00   1.00 7-Miller-Delfs vs 8-Pesce-Tu
+  100          2.00   4.00 13-Berg-Zhang vs 10-Zaugg-Ring
+  600          6.00   0.00 14-Galer-Vulcan vs 11-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.50   2.50 1-Roselle-Anderson vs 11-Christensen-Wright
+        100    0.00   6.00 2-Eng-Ford vs 4-Sieg-Herman
+  450          3.50   2.50 3-Cline-Hankins vs 7-Miller-Delfs
+  450          3.50   2.50 5-Campbell-Westgate vs 10-Zaugg-Ring
+  450          3.50   2.50 6-Romeo-Lycette vs 13-Berg-Zhang
+  420          1.00   5.00 8-Pesce-Tu vs 9-Abernethy-Christiansen
+  480          6.00   0.00 14-Galer-Vulcan vs 12-Haldane-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 1-Roselle-Anderson vs 11-Christensen-Wright
+        140    1.00   5.00 2-Eng-Ford vs 4-Sieg-Herman
+  100          4.50   1.50 3-Cline-Hankins vs 7-Miller-Delfs
+  100          4.50   1.50 5-Campbell-Westgate vs 10-Zaugg-Ring
+  100          4.50   1.50 6-Romeo-Lycette vs 13-Berg-Zhang
+        100    2.00   4.00 8-Pesce-Tu vs 9-Abernethy-Christiansen
+  100          4.50   1.50 14-Galer-Vulcan vs 12-Haldane-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    1.00   5.00 2-Eng-Ford vs 12-Haldane-Setterholm
+        110    5.00   1.00 3-Cline-Hankins vs 5-Campbell-Westgate
+        130    4.00   2.00 4-Sieg-Herman vs 8-Pesce-Tu
+   50          6.00   0.00 6-Romeo-Lycette vs 11-Christensen-Wright
+        400    3.00   3.00 7-Miller-Delfs vs 1-Roselle-Anderson
+        430    1.00   5.00 9-Abernethy-Christiansen vs 10-Zaugg-Ring
+        430    1.00   5.00 14-Galer-Vulcan vs 13-Berg-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          2.50   3.50 2-Eng-Ford vs 12-Haldane-Setterholm
+  520          5.00   1.00 3-Cline-Hankins vs 5-Campbell-Westgate
+  490          2.50   3.50 4-Sieg-Herman vs 8-Pesce-Tu
+  520          5.00   1.00 6-Romeo-Lycette vs 11-Christensen-Wright
+  400          0.50   5.50 7-Miller-Delfs vs 1-Roselle-Anderson
+  520          5.00   1.00 9-Abernethy-Christiansen vs 10-Zaugg-Ring
+  400          0.50   5.50 14-Galer-Vulcan vs 13-Berg-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   4.00 3-Cline-Hankins vs 13-Berg-Zhang
+  300          4.00   2.00 4-Sieg-Herman vs 6-Romeo-Lycette
+  300          4.00   2.00 5-Campbell-Westgate vs 9-Abernethy-Christiansen
+  300          4.00   2.00 7-Miller-Delfs vs 12-Haldane-Setterholm
+  100          0.50   5.50 8-Pesce-Tu vs 2-Eng-Ford
+  800          6.00   0.00 10-Zaugg-Ring vs 11-Christensen-Wright
+  100          0.50   5.50 14-Galer-Vulcan vs 1-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          4.50   1.50 3-Cline-Hankins vs 13-Berg-Zhang
+  180          4.50   1.50 4-Sieg-Herman vs 6-Romeo-Lycette
+  150          2.00   4.00 5-Campbell-Westgate vs 9-Abernethy-Christiansen
+    PASS       1.00   5.00 7-Miller-Delfs vs 12-Haldane-Setterholm
+  180          4.50   1.50 8-Pesce-Tu vs 2-Eng-Ford
+  180          4.50   1.50 10-Zaugg-Ring vs 11-Christensen-Wright
+         50    0.00   6.00 14-Galer-Vulcan vs 1-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          4.00   2.00 1-Roselle-Anderson vs 4-Sieg-Herman
+  450          1.00   5.00 5-Campbell-Westgate vs 7-Miller-Delfs
+  450          1.00   5.00 8-Pesce-Tu vs 13-Berg-Zhang
+  480          3.00   3.00 9-Abernethy-Christiansen vs 3-Cline-Hankins
+  980          5.50   0.50 10-Zaugg-Ring vs 6-Romeo-Lycette
+  980          5.50   0.50 11-Christensen-Wright vs 12-Haldane-Setterholm
+  450          1.00   5.00 14-Galer-Vulcan vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          3.50   2.50 4-Sieg-Herman vs 1-Roselle-Anderson
+  140          0.50   5.50 5-Campbell-Westgate vs 7-Miller-Delfs
+  600          5.00   1.00 6-Romeo-Lycette vs 10-Zaugg-Ring
+  140          0.50   5.50 8-Pesce-Tu vs 13-Berg-Zhang
+  150          2.00   4.00 9-Abernethy-Christiansen vs 3-Cline-Hankins
+  650          6.00   0.00 11-Christensen-Wright vs 12-Haldane-Setterholm
+  180          3.50   2.50 14-Galer-Vulcan vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   5.00 5-Campbell-Westgate vs 2-Eng-Ford
+         50    1.00   5.00 6-Romeo-Lycette vs 8-Pesce-Tu
+         50    1.00   5.00 7-Miller-Delfs vs 11-Christensen-Wright
+  450          6.00   0.00 9-Abernethy-Christiansen vs 1-Roselle-Anderson
+  170          3.50   2.50 10-Zaugg-Ring vs 4-Sieg-Herman
+  170          3.50   2.50 12-Haldane-Setterholm vs 13-Berg-Zhang
+  420          5.00   1.00 14-Galer-Vulcan vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.50   4.50 5-Campbell-Westgate vs 2-Eng-Ford
+        100    0.00   6.00 6-Romeo-Lycette vs 8-Pesce-Tu
+  620          1.50   4.50 7-Miller-Delfs vs 11-Christensen-Wright
+  680          5.50   0.50 9-Abernethy-Christiansen vs 1-Roselle-Anderson
+  650          3.50   2.50 10-Zaugg-Ring vs 4-Sieg-Herman
+  650          3.50   2.50 12-Haldane-Setterholm vs 13-Berg-Zhang
+  680          5.50   0.50 14-Galer-Vulcan vs 3-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.00   5.00 6-Romeo-Lycette vs 3-Cline-Hankins
+  690          4.00   2.00 7-Miller-Delfs vs 9-Abernethy-Christiansen
+  650          2.50   3.50 8-Pesce-Tu vs 12-Haldane-Setterholm
+ 1370          5.50   0.50 10-Zaugg-Ring vs 2-Eng-Ford
+ 1370          5.50   0.50 11-Christensen-Wright vs 5-Campbell-Westgate
+  650          2.50   3.50 13-Berg-Zhang vs 1-Roselle-Anderson
+        100    0.00   6.00 14-Galer-Vulcan vs 4-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   1.00 6-Romeo-Lycette vs 3-Cline-Hankins
+  150          6.00   0.00 7-Miller-Delfs vs 9-Abernethy-Christiansen
+        500    0.50   5.50 8-Pesce-Tu vs 12-Haldane-Setterholm
+        500    0.50   5.50 10-Zaugg-Ring vs 2-Eng-Ford
+        110    3.00   3.00 11-Christensen-Wright vs 5-Campbell-Westgate
+   50          4.00   2.00 13-Berg-Zhang vs 1-Roselle-Anderson
+        450    2.00   4.00 14-Galer-Vulcan vs 4-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          0.50   5.50 1-Roselle-Anderson vs 2-Eng-Ford
+ 1100          6.00   0.00 7-Miller-Delfs vs 4-Sieg-Herman
+  680          4.50   1.50 8-Pesce-Tu vs 10-Zaugg-Ring
+  620          0.50   5.50 9-Abernethy-Christiansen vs 13-Berg-Zhang
+  680          4.50   1.50 11-Christensen-Wright vs 3-Cline-Hankins
+  650          2.50   3.50 12-Haldane-Setterholm vs 6-Romeo-Lycette
+  650          2.50   3.50 14-Galer-Vulcan vs 5-Campbell-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   2.50 1-Roselle-Anderson vs 2-Eng-Ford
+        100    0.00   6.00 7-Miller-Delfs vs 4-Sieg-Herman
+  100          3.50   2.50 8-Pesce-Tu vs 10-Zaugg-Ring
+         50    1.00   5.00 9-Abernethy-Christiansen vs 13-Berg-Zhang
+   90          2.00   4.00 11-Christensen-Wright vs 3-Cline-Hankins
+  110          5.00   1.00 12-Haldane-Setterholm vs 6-Romeo-Lycette
+  300          6.00   0.00 14-Galer-Vulcan vs 5-Campbell-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   3.50 2-Eng-Ford vs 3-Cline-Hankins
+        170    0.50   5.50 8-Pesce-Tu vs 5-Campbell-Westgate
+         50    5.00   1.00 9-Abernethy-Christiansen vs 11-Christensen-Wright
+        100    4.00   2.00 10-Zaugg-Ring vs 1-Roselle-Anderson
+        140    2.50   3.50 12-Haldane-Setterholm vs 4-Sieg-Herman
+        170    0.50   5.50 13-Berg-Zhang vs 7-Miller-Delfs
+  500          6.00   0.00 14-Galer-Vulcan vs 6-Romeo-Lycette
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    2.00   4.00 2-Eng-Ford vs 3-Cline-Hankins
+        480    2.00   4.00 8-Pesce-Tu vs 5-Campbell-Westgate
+        480    2.00   4.00 9-Abernethy-Christiansen vs 11-Christensen-Wright
+        450    5.50   0.50 10-Zaugg-Ring vs 1-Roselle-Anderson
+        480    2.00   4.00 12-Haldane-Setterholm vs 4-Sieg-Herman
+        450    5.50   0.50 13-Berg-Zhang vs 7-Miller-Delfs
+        480    2.00   4.00 14-Galer-Vulcan vs 6-Romeo-Lycette
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   0.00 1-Roselle-Anderson vs 8-Pesce-Tu
+  100          5.00   1.00 3-Cline-Hankins vs 4-Sieg-Herman
+         50    3.50   2.50 9-Abernethy-Christiansen vs 6-Romeo-Lycette
+        150    0.50   5.50 10-Zaugg-Ring vs 12-Haldane-Setterholm
+        150    0.50   5.50 11-Christensen-Wright vs 2-Eng-Ford
+        100    2.00   4.00 13-Berg-Zhang vs 5-Campbell-Westgate
+         50    3.50   2.50 14-Galer-Vulcan vs 7-Miller-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.50   3.50 1-Roselle-Anderson vs 8-Pesce-Tu
+        600    2.50   3.50 3-Cline-Hankins vs 4-Sieg-Herman
+  100          6.00   0.00 9-Abernethy-Christiansen vs 6-Romeo-Lycette
+        600    2.50   3.50 10-Zaugg-Ring vs 12-Haldane-Setterholm
+        600    2.50   3.50 11-Christensen-Wright vs 2-Eng-Ford
+        110    5.00   1.00 13-Berg-Zhang vs 5-Campbell-Westgate
+        630    0.00   6.00 14-Galer-Vulcan vs 7-Miller-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   2.00 1-Roselle-Anderson vs 6-Romeo-Lycette
+  120          6.00   0.00 2-Eng-Ford vs 9-Abernethy-Christiansen
+   90          2.50   3.50 4-Sieg-Herman vs 5-Campbell-Westgate
+  110          5.00   1.00 10-Zaugg-Ring vs 7-Miller-Delfs
+        140    0.00   6.00 11-Christensen-Wright vs 13-Berg-Zhang
+        100    1.00   5.00 12-Haldane-Setterholm vs 3-Cline-Hankins
+   90          2.50   3.50 14-Galer-Vulcan vs 8-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   6.00 1-Roselle-Anderson vs 6-Romeo-Lycette
+  110          2.00   4.00 2-Eng-Ford vs 9-Abernethy-Christiansen
+        100    1.00   5.00 4-Sieg-Herman vs 5-Campbell-Westgate
+  670          6.00   0.00 10-Zaugg-Ring vs 7-Miller-Delfs
+  150          4.00   2.00 11-Christensen-Wright vs 13-Berg-Zhang
+  150          4.00   2.00 12-Haldane-Setterholm vs 3-Cline-Hankins
+  150          4.00   2.00 14-Galer-Vulcan vs 8-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.50   0.50 2-Eng-Ford vs 7-Miller-Delfs
+  170          5.50   0.50 3-Cline-Hankins vs 10-Zaugg-Ring
+  140          2.50   3.50 5-Campbell-Westgate vs 6-Romeo-Lycette
+  140          2.50   3.50 11-Christensen-Wright vs 8-Pesce-Tu
+  140          2.50   3.50 12-Haldane-Setterholm vs 1-Roselle-Anderson
+  140          2.50   3.50 13-Berg-Zhang vs 4-Sieg-Herman
+        100    0.00   6.00 14-Galer-Vulcan vs 9-Abernethy-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    0.00   6.00 2-Eng-Ford vs 7-Miller-Delfs
+  100          6.00   0.00 3-Cline-Hankins vs 10-Zaugg-Ring
+        150    1.00   5.00 5-Campbell-Westgate vs 6-Romeo-Lycette
+         50    3.50   2.50 11-Christensen-Wright vs 8-Pesce-Tu
+        140    2.00   4.00 12-Haldane-Setterholm vs 1-Roselle-Anderson
+   50          5.00   1.00 13-Berg-Zhang vs 4-Sieg-Herman
+         50    3.50   2.50 14-Galer-Vulcan vs 9-Abernethy-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.50   4.50 1-Roselle-Anderson vs 5-Campbell-Westgate
+  450          5.00   1.00 3-Cline-Hankins vs 8-Pesce-Tu
+  450          5.00   1.00 4-Sieg-Herman vs 11-Christensen-Wright
+  450          5.00   1.00 6-Romeo-Lycette vs 7-Miller-Delfs
+  420          1.50   4.50 12-Haldane-Setterholm vs 9-Abernethy-Christiansen
+  420          1.50   4.50 13-Berg-Zhang vs 2-Eng-Ford
+  420          1.50   4.50 14-Galer-Vulcan vs 10-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.50   2.50 1-Roselle-Anderson vs 5-Campbell-Westgate
+        620    1.00   5.00 3-Cline-Hankins vs 8-Pesce-Tu
+        140    6.00   0.00 4-Sieg-Herman vs 11-Christensen-Wright
+        170    3.50   2.50 6-Romeo-Lycette vs 7-Miller-Delfs
+        170    3.50   2.50 12-Haldane-Setterholm vs 9-Abernethy-Christiansen
+        170    3.50   2.50 13-Berg-Zhang vs 2-Eng-Ford
+        930    0.00   6.00 14-Galer-Vulcan vs 10-Zaugg-Ring
+----------------------------------------------------------------------
