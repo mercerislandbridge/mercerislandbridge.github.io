@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 3, 2019   |CLUB NO.>158048    | 12/03/2019 22:40
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim Eng         |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2000/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=6/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 Adam Ruprecht          Christopher Jarvis       B    .     2     .     59.50  49.58  0.34(B) 
+
+ 3 Brian Zaugg            Liliana Diaconescu       A    4     .     .     64.00  53.33  0.46(A) 
+
+ 4 Chris Moore            Kim Eng                  A    3     .     .     67.50  56.25  0.65(A) 
+
+ 5 Bryan Delfs            Jennifer Chalfan         A   5/6    .     .     61.00  50.83  0.24(A) 
+
+ 6 Gary Haldane           Sharon Miller            B   5/6    1     .     61.00  50.83  0.48(B) 
+
+ 7 Kevin Cline            David Hankins            B    .     .     .     56.50  47.08          
+
+ 8 Chris Pesce            Rex Tu                   C    .     .     .     54.50  45.42          
+
+ 9 Shawn Abernethy        Ken Christiansen         A    2     .     .     71.00  59.17  0.91(A) 
+
+10 David Roselle          Jingsong Liu             A    .     .     .     43.00  35.83          
+
+11 Terry Jacobson         Brad Rind                C    .     .     .     51.00  42.50          
+
+12 Guy Arie               Beau Hovda               C    .     .     1     58.50  48.75  0.24(C) 
+
+13 Nick Tipton            Galen Hesson             A    .     .     .     53.00  44.17          
+
+14 Corneliu Galer         Bogdan Vulcan            A    1     .     .     79.50  66.25  1.30(A) 
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   1.50 2-Ruprecht-Jarvis vs 6-Haldane-Miller
+         50    3.50   1.50 4-Moore-Eng vs 9-Abernethy-Christiansen
+        300    0.00   5.00 5-Delfs-Chalfan vs 12-Arie-Hovda
+        100    1.50   3.50 7-Cline-Hankins vs 8-Pesce-Tu
+        100    1.50   3.50 13-Tipton-Hesson vs 10-Roselle-Liu
+  110          5.00   0.00 14-Galer-Vulcan vs 11-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          5.00   0.00 2-Ruprecht-Jarvis vs 6-Haldane-Miller
+  300          2.00   3.00 4-Moore-Eng vs 9-Abernethy-Christiansen
+  260          0.00   5.00 5-Delfs-Chalfan vs 12-Arie-Hovda
+  300          2.00   3.00 7-Cline-Hankins vs 8-Pesce-Tu
+  300          2.00   3.00 13-Tipton-Hesson vs 10-Roselle-Liu
+  680          4.00   1.00 14-Galer-Vulcan vs 11-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.50   3.50 2-Ruprecht-Jarvis vs 4-Moore-Eng
+  450          4.00   1.00 3-Zaugg-Diaconescu vs 7-Cline-Hankins
+  450          4.00   1.00 5-Delfs-Chalfan vs 10-Roselle-Liu
+  420          0.00   5.00 6-Haldane-Miller vs 13-Tipton-Hesson
+  430          1.50   3.50 8-Pesce-Tu vs 9-Abernethy-Christiansen
+  450          4.00   1.00 14-Galer-Vulcan vs 12-Arie-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  790          4.50   0.50 2-Ruprecht-Jarvis vs 4-Moore-Eng
+  790          4.50   0.50 3-Zaugg-Diaconescu vs 7-Cline-Hankins
+  620          2.00   3.00 5-Delfs-Chalfan vs 10-Roselle-Liu
+  620          2.00   3.00 6-Haldane-Miller vs 13-Tipton-Hesson
+  170          0.00   5.00 8-Pesce-Tu vs 9-Abernethy-Christiansen
+  620          2.00   3.00 14-Galer-Vulcan vs 12-Arie-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   1.00 2-Ruprecht-Jarvis vs 12-Arie-Hovda
+        200    0.00   5.00 3-Zaugg-Diaconescu vs 5-Delfs-Chalfan
+  650          4.00   1.00 4-Moore-Eng vs 8-Pesce-Tu
+  650          4.00   1.00 6-Haldane-Miller vs 11-Jacobson-Rind
+  630          1.50   3.50 9-Abernethy-Christiansen vs 10-Roselle-Liu
+  630          1.50   3.50 14-Galer-Vulcan vs 13-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1470    1.00   4.00 2-Ruprecht-Jarvis vs 12-Arie-Hovda
+       1430    3.00   2.00 3-Zaugg-Diaconescu vs 5-Delfs-Chalfan
+       1370    4.00   1.00 4-Moore-Eng vs 8-Pesce-Tu
+       1460    2.00   3.00 6-Haldane-Miller vs 11-Jacobson-Rind
+       2140    0.00   5.00 9-Abernethy-Christiansen vs 10-Roselle-Liu
+        720    5.00   0.00 14-Galer-Vulcan vs 13-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          4.50   0.50 3-Zaugg-Diaconescu vs 13-Tipton-Hesson
+   90          4.50   0.50 4-Moore-Eng vs 6-Haldane-Miller
+        100    1.50   3.50 5-Delfs-Chalfan vs 9-Abernethy-Christiansen
+        100    1.50   3.50 7-Cline-Hankins vs 12-Arie-Hovda
+        100    1.50   3.50 8-Pesce-Tu vs 2-Ruprecht-Jarvis
+        100    1.50   3.50 10-Roselle-Liu vs 11-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   4.00 3-Zaugg-Diaconescu vs 13-Tipton-Hesson
+        400    0.00   5.00 4-Moore-Eng vs 6-Haldane-Miller
+        110    2.00   3.00 5-Delfs-Chalfan vs 9-Abernethy-Christiansen
+   50          3.50   1.50 7-Cline-Hankins vs 12-Arie-Hovda
+   50          3.50   1.50 8-Pesce-Tu vs 2-Ruprecht-Jarvis
+  100          5.00   0.00 10-Roselle-Liu vs 11-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.50   2.50 5-Delfs-Chalfan vs 7-Cline-Hankins
+  450          5.00   0.00 6-Haldane-Miller vs 10-Roselle-Liu
+  420          2.50   2.50 8-Pesce-Tu vs 13-Tipton-Hesson
+  140          0.00   5.00 9-Abernethy-Christiansen vs 3-Zaugg-Diaconescu
+  420          2.50   2.50 11-Jacobson-Rind vs 12-Arie-Hovda
+  420          2.50   2.50 14-Galer-Vulcan vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.00   5.00 5-Delfs-Chalfan vs 7-Cline-Hankins
+        600    2.50   2.50 6-Haldane-Miller vs 10-Roselle-Liu
+        600    2.50   2.50 8-Pesce-Tu vs 13-Tipton-Hesson
+  200          5.00   0.00 9-Abernethy-Christiansen vs 3-Zaugg-Diaconescu
+        620    1.00   4.00 11-Jacobson-Rind vs 12-Arie-Hovda
+  100          4.00   1.00 14-Galer-Vulcan vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.00   2.00 5-Delfs-Chalfan vs 2-Ruprecht-Jarvis
+         50    1.00   4.00 6-Haldane-Miller vs 8-Pesce-Tu
+  150          2.00   3.00 7-Cline-Hankins vs 11-Jacobson-Rind
+        300    0.00   5.00 10-Roselle-Liu vs 4-Moore-Eng
+  420          4.00   1.00 12-Arie-Hovda vs 13-Tipton-Hesson
+  450          5.00   0.00 14-Galer-Vulcan vs 3-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        240    3.50   1.50 5-Delfs-Chalfan vs 2-Ruprecht-Jarvis
+        210    5.00   0.00 6-Haldane-Miller vs 8-Pesce-Tu
+        490    1.00   4.00 7-Cline-Hankins vs 11-Jacobson-Rind
+        490    1.00   4.00 10-Roselle-Liu vs 4-Moore-Eng
+        490    1.00   4.00 12-Arie-Hovda vs 13-Tipton-Hesson
+        240    3.50   1.50 14-Galer-Vulcan vs 3-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.50   2.50 6-Haldane-Miller vs 3-Zaugg-Diaconescu
+        210    0.00   5.00 7-Cline-Hankins vs 9-Abernethy-Christiansen
+        110    4.00   1.00 8-Pesce-Tu vs 12-Arie-Hovda
+  100          5.00   0.00 10-Roselle-Liu vs 2-Ruprecht-Jarvis
+        150    1.00   4.00 11-Jacobson-Rind vs 5-Delfs-Chalfan
+        120    2.50   2.50 14-Galer-Vulcan vs 4-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   1.00 6-Haldane-Miller vs 3-Zaugg-Diaconescu
+        450    1.00   4.00 7-Cline-Hankins vs 9-Abernethy-Christiansen
+        200    4.00   1.00 8-Pesce-Tu vs 12-Arie-Hovda
+        450    1.00   4.00 10-Roselle-Liu vs 2-Ruprecht-Jarvis
+        450    1.00   4.00 11-Jacobson-Rind vs 5-Delfs-Chalfan
+        200    4.00   1.00 14-Galer-Vulcan vs 4-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.50   1.50 7-Cline-Hankins vs 4-Moore-Eng
+  620          3.50   1.50 8-Pesce-Tu vs 10-Roselle-Liu
+  620          3.50   1.50 9-Abernethy-Christiansen vs 13-Tipton-Hesson
+  620          3.50   1.50 11-Jacobson-Rind vs 3-Zaugg-Diaconescu
+        100    0.50   4.50 12-Arie-Hovda vs 6-Haldane-Miller
+        100    0.50   4.50 14-Galer-Vulcan vs 5-Delfs-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  520          4.00   1.00 7-Cline-Hankins vs 4-Moore-Eng
+  640          5.00   0.00 8-Pesce-Tu vs 10-Roselle-Liu
+  460          2.50   2.50 9-Abernethy-Christiansen vs 13-Tipton-Hesson
+  450          0.50   4.50 11-Jacobson-Rind vs 3-Zaugg-Diaconescu
+  460          2.50   2.50 12-Arie-Hovda vs 6-Haldane-Miller
+  450          0.50   4.50 14-Galer-Vulcan vs 5-Delfs-Chalfan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.00   4.00 2-Ruprecht-Jarvis vs 3-Zaugg-Diaconescu
+        300    5.00   0.00 8-Pesce-Tu vs 5-Delfs-Chalfan
+        400    4.00   1.00 9-Abernethy-Christiansen vs 11-Jacobson-Rind
+        800    0.00   5.00 12-Arie-Hovda vs 4-Moore-Eng
+        430    2.50   2.50 13-Tipton-Hesson vs 7-Cline-Hankins
+        430    2.50   2.50 14-Galer-Vulcan vs 6-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          4.50   0.50 2-Ruprecht-Jarvis vs 3-Zaugg-Diaconescu
+  680          1.50   3.50 8-Pesce-Tu vs 5-Delfs-Chalfan
+  680          1.50   3.50 9-Abernethy-Christiansen vs 11-Jacobson-Rind
+  680          1.50   3.50 12-Arie-Hovda vs 4-Moore-Eng
+  680          1.50   3.50 13-Tipton-Hesson vs 7-Cline-Hankins
+ 1430          4.50   0.50 14-Galer-Vulcan vs 6-Haldane-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 3-Zaugg-Diaconescu vs 4-Moore-Eng
+  100          3.00   2.00 9-Abernethy-Christiansen vs 6-Haldane-Miller
+        200    0.00   5.00 10-Roselle-Liu vs 12-Arie-Hovda
+        150    1.00   4.00 11-Jacobson-Rind vs 2-Ruprecht-Jarvis
+  100          3.00   2.00 13-Tipton-Hesson vs 5-Delfs-Chalfan
+  100          3.00   2.00 14-Galer-Vulcan vs 7-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.00   2.00 3-Zaugg-Diaconescu vs 4-Moore-Eng
+       1100    0.00   5.00 9-Abernethy-Christiansen vs 6-Haldane-Miller
+        650    1.50   3.50 10-Roselle-Liu vs 12-Arie-Hovda
+        200    4.50   0.50 11-Jacobson-Rind vs 2-Ruprecht-Jarvis
+        650    1.50   3.50 13-Tipton-Hesson vs 5-Delfs-Chalfan
+        200    4.50   0.50 14-Galer-Vulcan vs 7-Cline-Hankins
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 2-Ruprecht-Jarvis vs 9-Abernethy-Christiansen
+  130          4.00   1.00 4-Moore-Eng vs 5-Delfs-Chalfan
+        110    0.00   5.00 10-Roselle-Liu vs 7-Cline-Hankins
+         90    1.00   4.00 11-Jacobson-Rind vs 13-Tipton-Hesson
+   50          2.00   3.00 12-Arie-Hovda vs 3-Zaugg-Diaconescu
+  170          5.00   0.00 14-Galer-Vulcan vs 8-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.00   5.00 2-Ruprecht-Jarvis vs 9-Abernethy-Christiansen
+        620    2.50   2.50 4-Moore-Eng vs 5-Delfs-Chalfan
+        620    2.50   2.50 10-Roselle-Liu vs 7-Cline-Hankins
+        620    2.50   2.50 11-Jacobson-Rind vs 13-Tipton-Hesson
+        620    2.50   2.50 12-Arie-Hovda vs 3-Zaugg-Diaconescu
+        600    5.00   0.00 14-Galer-Vulcan vs 8-Pesce-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   3.00 2-Ruprecht-Jarvis vs 7-Cline-Hankins
+        100    4.50   0.50 3-Zaugg-Diaconescu vs 10-Roselle-Liu
+        100    4.50   0.50 5-Delfs-Chalfan vs 6-Haldane-Miller
+        140    3.00   2.00 11-Jacobson-Rind vs 8-Pesce-Tu
+        650    0.50   4.50 13-Tipton-Hesson vs 4-Moore-Eng
+        650    0.50   4.50 14-Galer-Vulcan vs 9-Abernethy-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.50   3.50 2-Ruprecht-Jarvis vs 7-Cline-Hankins
+  450          4.00   1.00 3-Zaugg-Diaconescu vs 10-Roselle-Liu
+  430          1.50   3.50 5-Delfs-Chalfan vs 6-Haldane-Miller
+  800          5.00   0.00 11-Jacobson-Rind vs 8-Pesce-Tu
+  430          1.50   3.50 13-Tipton-Hesson vs 4-Moore-Eng
+  430          1.50   3.50 14-Galer-Vulcan vs 9-Abernethy-Christiansen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.00   5.00 3-Zaugg-Diaconescu vs 8-Pesce-Tu
+  100          4.50   0.50 4-Moore-Eng vs 11-Jacobson-Rind
+        620    2.50   2.50 6-Haldane-Miller vs 7-Cline-Hankins
+        650    1.00   4.00 12-Arie-Hovda vs 9-Abernethy-Christiansen
+        620    2.50   2.50 13-Tipton-Hesson vs 2-Ruprecht-Jarvis
+  100          4.50   0.50 14-Galer-Vulcan vs 10-Roselle-Liu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.50   0.50 3-Zaugg-Diaconescu vs 8-Pesce-Tu
+  620          1.00   4.00 4-Moore-Eng vs 11-Jacobson-Rind
+  650          2.50   2.50 6-Haldane-Miller vs 7-Cline-Hankins
+  650          2.50   2.50 12-Arie-Hovda vs 9-Abernethy-Christiansen
+  170          0.00   5.00 13-Tipton-Hesson vs 2-Ruprecht-Jarvis
+  680          4.50   0.50 14-Galer-Vulcan vs 10-Roselle-Liu
+----------------------------------------------------------------------
