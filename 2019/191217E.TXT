@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 17, 2019  |CLUB NO.>158048    | 12/17/2019 22:34
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=6/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Jenni Carmichael       David Taylor             A   .     .     .   |   .     .     .     81.50  44.78          
+
+ 2 Eric Sieg              Gregory Herman           A   2     .     .   |   2     .     .    112.00  61.54  1.97(OA)
+
+ 3 Ray Miller             Chris Moore              A   .     .     .   |   .     .     .     87.50  48.08          
+
+ 4 Rex Tu                 Jack Yuan                C   .     .     .   |   .     .     .     94.00  51.65          
+
+ 5 Bogdan Vulcan          Corneliu Galer           C   .     .     .   |   6     .     .     95.50  52.47  0.27(SA)
+
+ 6 Terry Jacobson         Brad Rind                C   3     1     .   |   3     1     1    101.00  55.49  1.48(OA)
+
+ 7 Mike Ring              Shawn Abernethy          A   .     .     .   |   .     .     .     62.00  34.07          
+
+ 8 Jeffrey Ford           Kim Eng                  A   .     .     .   |   .     .     .     87.00  47.80          
+
+ 9 Mike Christensen       Becky Stevens            A   1     .     .   |   1     .     .    112.50  61.81  2.63(OA)
+
+10 Stanford Christie      Aaron Mohrman            A   .     .     .   |   .     .     .     83.50  45.88          
+
+11 Dex Stuberg            Joel Fuhrman             B   .     .     .   |   .     .     .     90.50  49.73          
+
+12 Hugh Hendrickson       Thomas Stever            B   4     2     .   |   4     2     .     96.50  53.02  1.11(OA)
+
+13 Brian Zaugg            Ann Romeo                A   5     .     .   |   5     .     .     96.00  52.75  0.83(OA)
+
+14 Kevin Cline            David Hankins            B   .     .     .   |   .     .     .     86.50  47.53          
+
+15 Nick Tipton            Galen Hesson             A   .     .     .   |   .     .     .     84.50  46.43          
+
+16 Bryan Delfs            Cristal Nell             A   .     .     .   |   .     .     .     85.50  46.98          
+
+
+                                          Totals                                           1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   5.50 4-Tu-Yuan vs 14-Cline-Hankins
+  100          5.00   2.00 6-Jacobson-Rind vs 5-Vulcan-Galer
+  130          6.50   0.50 8-Ford-Eng vs 12-Hendrickson-Stever
+  130          6.50   0.50 9-Christensen-Stevens vs 11-Stuberg-Fuhrman
+        500    0.00   7.00 10-Christie-Mohrman vs 2-Sieg-Herman
+        100    1.50   5.50 13-Zaugg-Romeo vs 7-Ring-Abernethy
+   50          4.00   3.00 15-Tipton-Hesson vs 3-Miller-Moore
+         50    3.00   4.00 16-Delfs-Nell vs 1-Carmichael-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.00   0.00 4-Tu-Yuan vs 14-Cline-Hankins
+        110    4.00   3.00 6-Jacobson-Rind vs 5-Vulcan-Galer
+        470    1.00   6.00 8-Ford-Eng vs 12-Hendrickson-Stever
+        200    2.00   5.00 9-Christensen-Stevens vs 11-Stuberg-Fuhrman
+        510    0.00   7.00 10-Christie-Mohrman vs 2-Sieg-Herman
+        110    4.00   3.00 13-Zaugg-Romeo vs 7-Ring-Abernethy
+        110    4.00   3.00 15-Tipton-Hesson vs 3-Miller-Moore
+        100    6.00   1.00 16-Delfs-Nell vs 1-Carmichael-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   5.50 1-Carmichael-Taylor vs 8-Ford-Eng
+        100    1.50   5.50 4-Tu-Yuan vs 15-Tipton-Hesson
+         50    5.00   2.00 5-Vulcan-Galer vs 14-Cline-Hankins
+        100    1.50   5.50 7-Ring-Abernethy vs 6-Jacobson-Rind
+         50    5.00   2.00 9-Christensen-Stevens vs 13-Zaugg-Romeo
+         50    5.00   2.00 10-Christie-Mohrman vs 12-Hendrickson-Stever
+  110          7.00   0.00 11-Stuberg-Fuhrman vs 3-Miller-Moore
+        100    1.50   5.50 16-Delfs-Nell vs 2-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.50   2.50 1-Carmichael-Taylor vs 8-Ford-Eng
+        200    4.50   2.50 4-Tu-Yuan vs 15-Tipton-Hesson
+        500    1.00   6.00 5-Vulcan-Galer vs 14-Cline-Hankins
+        790    0.00   7.00 7-Ring-Abernethy vs 6-Jacobson-Rind
+        200    4.50   2.50 9-Christensen-Stevens vs 13-Zaugg-Romeo
+        200    4.50   2.50 10-Christie-Mohrman vs 12-Hendrickson-Stever
+        200    4.50   2.50 11-Stuberg-Fuhrman vs 3-Miller-Moore
+        200    4.50   2.50 16-Delfs-Nell vs 2-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.00   6.00 2-Sieg-Herman vs 9-Christensen-Stevens
+  110          6.00   1.00 5-Vulcan-Galer vs 15-Tipton-Hesson
+        200    2.00   5.00 6-Jacobson-Rind vs 14-Cline-Hankins
+        140    3.00   4.00 8-Ford-Eng vs 7-Ring-Abernethy
+        530    0.00   7.00 10-Christie-Mohrman vs 1-Carmichael-Taylor
+  300          7.00   0.00 11-Stuberg-Fuhrman vs 13-Zaugg-Romeo
+   50          4.00   3.00 12-Hendrickson-Stever vs 4-Tu-Yuan
+  100          5.00   2.00 16-Delfs-Nell vs 3-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.00   5.00 2-Sieg-Herman vs 9-Christensen-Stevens
+  480          5.50   1.50 5-Vulcan-Galer vs 15-Tipton-Hesson
+  450          3.50   3.50 6-Jacobson-Rind vs 14-Cline-Hankins
+  800          7.00   0.00 8-Ford-Eng vs 7-Ring-Abernethy
+  480          5.50   1.50 10-Christie-Mohrman vs 1-Carmichael-Taylor
+        100    0.00   7.00 11-Stuberg-Fuhrman vs 13-Zaugg-Romeo
+  450          3.50   3.50 12-Hendrickson-Stever vs 4-Tu-Yuan
+  200          1.00   6.00 16-Delfs-Nell vs 3-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.00   7.00 3-Miller-Moore vs 10-Christie-Mohrman
+        620    5.00   2.00 6-Jacobson-Rind vs 15-Tipton-Hesson
+        650    3.00   4.00 9-Christensen-Stevens vs 8-Ford-Eng
+        650    3.00   4.00 11-Stuberg-Fuhrman vs 2-Sieg-Herman
+        650    3.00   4.00 12-Hendrickson-Stever vs 1-Carmichael-Taylor
+  100          6.50   0.50 13-Zaugg-Romeo vs 5-Vulcan-Galer
+  100          6.50   0.50 14-Cline-Hankins vs 7-Ring-Abernethy
+        660    1.00   6.00 16-Delfs-Nell vs 4-Tu-Yuan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          4.00   3.00 3-Miller-Moore vs 10-Christie-Mohrman
+  460          4.00   3.00 6-Jacobson-Rind vs 15-Tipton-Hesson
+  460          4.00   3.00 9-Christensen-Stevens vs 8-Ford-Eng
+  110          0.00   7.00 11-Stuberg-Fuhrman vs 2-Sieg-Herman
+  460          4.00   3.00 12-Hendrickson-Stever vs 1-Carmichael-Taylor
+  460          4.00   3.00 13-Zaugg-Romeo vs 5-Vulcan-Galer
+  460          4.00   3.00 14-Cline-Hankins vs 7-Ring-Abernethy
+  460          4.00   3.00 16-Delfs-Nell vs 4-Tu-Yuan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   7.00 1-Carmichael-Taylor vs 6-Jacobson-Rind
+         50    4.00   3.00 4-Tu-Yuan vs 11-Stuberg-Fuhrman
+         50    4.00   3.00 7-Ring-Abernethy vs 15-Tipton-Hesson
+         50    4.00   3.00 10-Christie-Mohrman vs 9-Christensen-Stevens
+         50    4.00   3.00 12-Hendrickson-Stever vs 3-Miller-Moore
+        100    1.00   6.00 13-Zaugg-Romeo vs 2-Sieg-Herman
+         50    4.00   3.00 14-Cline-Hankins vs 8-Ford-Eng
+  420          7.00   0.00 16-Delfs-Nell vs 5-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    6.00   1.00 1-Carmichael-Taylor vs 6-Jacobson-Rind
+        620    6.00   1.00 4-Tu-Yuan vs 11-Stuberg-Fuhrman
+        650    3.50   3.50 7-Ring-Abernethy vs 15-Tipton-Hesson
+        680    1.00   6.00 10-Christie-Mohrman vs 9-Christensen-Stevens
+        680    1.00   6.00 12-Hendrickson-Stever vs 3-Miller-Moore
+        620    6.00   1.00 13-Zaugg-Romeo vs 2-Sieg-Herman
+        650    3.50   3.50 14-Cline-Hankins vs 8-Ford-Eng
+        680    1.00   6.00 16-Delfs-Nell vs 5-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          6.50   0.50 1-Carmichael-Taylor vs 3-Miller-Moore
+  200          2.00   5.00 2-Sieg-Herman vs 7-Ring-Abernethy
+  450          6.50   0.50 5-Vulcan-Galer vs 12-Hendrickson-Stever
+  170          0.50   6.50 8-Ford-Eng vs 15-Tipton-Hesson
+  170          0.50   6.50 11-Stuberg-Fuhrman vs 10-Christie-Mohrman
+  420          4.00   3.00 13-Zaugg-Romeo vs 4-Tu-Yuan
+  420          4.00   3.00 14-Cline-Hankins vs 9-Christensen-Stevens
+  420          4.00   3.00 16-Delfs-Nell vs 6-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        940    0.00   7.00 1-Carmichael-Taylor vs 3-Miller-Moore
+        460    6.00   1.00 2-Sieg-Herman vs 7-Ring-Abernethy
+        490    2.50   4.50 5-Vulcan-Galer vs 12-Hendrickson-Stever
+        480    4.00   3.00 8-Ford-Eng vs 15-Tipton-Hesson
+        460    6.00   1.00 11-Stuberg-Fuhrman vs 10-Christie-Mohrman
+        490    2.50   4.50 13-Zaugg-Romeo vs 4-Tu-Yuan
+        460    6.00   1.00 14-Cline-Hankins vs 9-Christensen-Stevens
+        520    1.00   6.00 16-Delfs-Nell vs 6-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   3.00 1-Carmichael-Taylor vs 5-Vulcan-Galer
+        200    4.00   3.00 2-Sieg-Herman vs 4-Tu-Yuan
+        200    4.00   3.00 3-Miller-Moore vs 8-Ford-Eng
+        800    0.50   6.50 6-Jacobson-Rind vs 13-Zaugg-Romeo
+  200          7.00   0.00 9-Christensen-Stevens vs 15-Tipton-Hesson
+        100    6.00   1.00 12-Hendrickson-Stever vs 11-Stuberg-Fuhrman
+        630    2.00   5.00 14-Cline-Hankins vs 10-Christie-Mohrman
+        800    0.50   6.50 16-Delfs-Nell vs 7-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   3.00 1-Carmichael-Taylor vs 5-Vulcan-Galer
+  100          5.00   2.00 2-Sieg-Herman vs 4-Tu-Yuan
+        150    0.00   7.00 3-Miller-Moore vs 8-Ford-Eng
+  300          6.00   1.00 6-Jacobson-Rind vs 13-Zaugg-Romeo
+         50    2.50   4.50 9-Christensen-Stevens vs 15-Tipton-Hesson
+         50    2.50   4.50 12-Hendrickson-Stever vs 11-Stuberg-Fuhrman
+        100    1.00   6.00 14-Cline-Hankins vs 10-Christie-Mohrman
+ 2200          7.00   0.00 16-Delfs-Nell vs 7-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          6.50   0.50 2-Sieg-Herman vs 6-Jacobson-Rind
+  300          1.00   6.00 3-Miller-Moore vs 5-Vulcan-Galer
+  680          6.50   0.50 4-Tu-Yuan vs 9-Christensen-Stevens
+  650          4.00   3.00 7-Ring-Abernethy vs 1-Carmichael-Taylor
+  210          0.00   7.00 10-Christie-Mohrman vs 15-Tipton-Hesson
+  650          4.00   3.00 13-Zaugg-Romeo vs 12-Hendrickson-Stever
+  620          2.00   5.00 14-Cline-Hankins vs 11-Stuberg-Fuhrman
+  650          4.00   3.00 16-Delfs-Nell vs 8-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   4.50 2-Sieg-Herman vs 6-Jacobson-Rind
+  420          7.00   0.00 3-Miller-Moore vs 5-Vulcan-Galer
+         50    2.50   4.50 4-Tu-Yuan vs 9-Christensen-Stevens
+         50    2.50   4.50 7-Ring-Abernethy vs 1-Carmichael-Taylor
+         50    2.50   4.50 10-Christie-Mohrman vs 15-Tipton-Hesson
+         50    2.50   4.50 13-Zaugg-Romeo vs 12-Hendrickson-Stever
+         50    2.50   4.50 14-Cline-Hankins vs 11-Stuberg-Fuhrman
+  110          6.00   1.00 16-Delfs-Nell vs 8-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.00   7.00 1-Carmichael-Taylor vs 13-Zaugg-Romeo
+        140    1.50   5.50 3-Miller-Moore vs 7-Ring-Abernethy
+         50    4.00   3.00 4-Tu-Yuan vs 6-Jacobson-Rind
+  100          7.00   0.00 5-Vulcan-Galer vs 10-Christie-Mohrman
+        140    1.50   5.50 8-Ford-Eng vs 2-Sieg-Herman
+         50    4.00   3.00 14-Cline-Hankins vs 12-Hendrickson-Stever
+   50          6.00   1.00 15-Tipton-Hesson vs 11-Stuberg-Fuhrman
+         50    4.00   3.00 16-Delfs-Nell vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   1.50 1-Carmichael-Taylor vs 13-Zaugg-Romeo
+  100          7.00   0.00 3-Miller-Moore vs 7-Ring-Abernethy
+   50          5.50   1.50 4-Tu-Yuan vs 6-Jacobson-Rind
+        420    1.50   5.50 5-Vulcan-Galer vs 10-Christie-Mohrman
+        420    1.50   5.50 8-Ford-Eng vs 2-Sieg-Herman
+        420    1.50   5.50 14-Cline-Hankins vs 12-Hendrickson-Stever
+        170    4.00   3.00 15-Tipton-Hesson vs 11-Stuberg-Fuhrman
+        420    1.50   5.50 16-Delfs-Nell vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          6.00   1.00 2-Sieg-Herman vs 1-Carmichael-Taylor
+        110    2.00   5.00 4-Tu-Yuan vs 8-Ford-Eng
+         50    4.50   2.50 5-Vulcan-Galer vs 7-Ring-Abernethy
+        110    2.00   5.00 6-Jacobson-Rind vs 11-Stuberg-Fuhrman
+  200          7.00   0.00 9-Christensen-Stevens vs 3-Miller-Moore
+         50    4.50   2.50 14-Cline-Hankins vs 13-Zaugg-Romeo
+        110    2.00   5.00 15-Tipton-Hesson vs 12-Hendrickson-Stever
+        140    0.00   7.00 16-Delfs-Nell vs 10-Christie-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          2.00   5.00 2-Sieg-Herman vs 1-Carmichael-Taylor
+  660          2.00   5.00 4-Tu-Yuan vs 8-Ford-Eng
+ 1370          7.00   0.00 5-Vulcan-Galer vs 7-Ring-Abernethy
+  690          5.00   2.00 6-Jacobson-Rind vs 11-Stuberg-Fuhrman
+  690          5.00   2.00 9-Christensen-Stevens vs 3-Miller-Moore
+  660          2.00   5.00 14-Cline-Hankins vs 13-Zaugg-Romeo
+        200    0.00   7.00 15-Tipton-Hesson vs 12-Hendrickson-Stever
+  690          5.00   2.00 16-Delfs-Nell vs 10-Christie-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.50   3.50 1-Carmichael-Taylor vs 14-Cline-Hankins
+  930          6.00   1.00 3-Miller-Moore vs 2-Sieg-Herman
+  650          3.50   3.50 5-Vulcan-Galer vs 9-Christensen-Stevens
+  650          3.50   3.50 6-Jacobson-Rind vs 8-Ford-Eng
+  620          1.00   6.00 7-Ring-Abernethy vs 12-Hendrickson-Stever
+  650          3.50   3.50 10-Christie-Mohrman vs 4-Tu-Yuan
+ 1100          7.00   0.00 15-Tipton-Hesson vs 13-Zaugg-Romeo
+  200          0.00   7.00 16-Delfs-Nell vs 11-Stuberg-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.00   2.00 1-Carmichael-Taylor vs 14-Cline-Hankins
+  450          5.00   2.00 3-Miller-Moore vs 2-Sieg-Herman
+  480          7.00   0.00 5-Vulcan-Galer vs 9-Christensen-Stevens
+  400          3.00   4.00 6-Jacobson-Rind vs 8-Ford-Eng
+  100          1.00   6.00 7-Ring-Abernethy vs 12-Hendrickson-Stever
+  200          2.00   5.00 10-Christie-Mohrman vs 4-Tu-Yuan
+       1190    0.00   7.00 15-Tipton-Hesson vs 13-Zaugg-Romeo
+  450          5.00   2.00 16-Delfs-Nell vs 11-Stuberg-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.00   2.00 2-Sieg-Herman vs 14-Cline-Hankins
+  620          1.50   5.50 4-Tu-Yuan vs 3-Miller-Moore
+  650          5.00   2.00 6-Jacobson-Rind vs 10-Christie-Mohrman
+        100    0.00   7.00 7-Ring-Abernethy vs 9-Christensen-Stevens
+  620          1.50   5.50 8-Ford-Eng vs 13-Zaugg-Romeo
+  650          5.00   2.00 11-Stuberg-Fuhrman vs 5-Vulcan-Galer
+  650          5.00   2.00 15-Tipton-Hesson vs 1-Carmichael-Taylor
+  650          5.00   2.00 16-Delfs-Nell vs 12-Hendrickson-Stever
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   5.00 2-Sieg-Herman vs 14-Cline-Hankins
+  300          5.00   2.00 4-Tu-Yuan vs 3-Miller-Moore
+  300          5.00   2.00 6-Jacobson-Rind vs 10-Christie-Mohrman
+        100    0.00   7.00 7-Ring-Abernethy vs 9-Christensen-Stevens
+         50    2.00   5.00 8-Ford-Eng vs 13-Zaugg-Romeo
+  600          7.00   0.00 11-Stuberg-Fuhrman vs 5-Vulcan-Galer
+  300          5.00   2.00 15-Tipton-Hesson vs 1-Carmichael-Taylor
+         50    2.00   5.00 16-Delfs-Nell vs 12-Hendrickson-Stever
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   1.50 3-Miller-Moore vs 14-Cline-Hankins
+        100    3.00   4.00 5-Vulcan-Galer vs 4-Tu-Yuan
+         50    4.00   3.00 7-Ring-Abernethy vs 11-Stuberg-Fuhrman
+        110    1.50   5.50 8-Ford-Eng vs 10-Christie-Mohrman
+  300          7.00   0.00 9-Christensen-Stevens vs 1-Carmichael-Taylor
+        110    1.50   5.50 12-Hendrickson-Stever vs 6-Jacobson-Rind
+        140    0.00   7.00 15-Tipton-Hesson vs 2-Sieg-Herman
+  200          5.50   1.50 16-Delfs-Nell vs 13-Zaugg-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   3.00 3-Miller-Moore vs 14-Cline-Hankins
+  200          7.00   0.00 5-Vulcan-Galer vs 4-Tu-Yuan
+  100          4.00   3.00 7-Ring-Abernethy vs 11-Stuberg-Fuhrman
+  100          4.00   3.00 8-Ford-Eng vs 10-Christie-Mohrman
+  100          4.00   3.00 9-Christensen-Stevens vs 1-Carmichael-Taylor
+  100          4.00   3.00 12-Hendrickson-Stever vs 6-Jacobson-Rind
+        620    0.00   7.00 15-Tipton-Hesson vs 2-Sieg-Herman
+        140    1.00   6.00 16-Delfs-Nell vs 13-Zaugg-Romeo
+----------------------------------------------------------------------
