@@ -1,0 +1,65 @@
+
+EVENT>Tuesday Evening Pairs                                           |Page> 1
+------------------------,---------------------,----------------------- ---------
+DATE>January 21, 2020   |CLUB NO.>158048      | 01/21/2020 22:27
+---------------------,-- --------------------- -----------,---------------------
+DIR> Jeff/Kim        |RATING>Club - Grand National Teams  |GAME>VICTORY POINT
+----------,---------- ,-------------------------,--------- ---------------------
+ROUNDS> 4 |BDS/RD>  6 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+---------- ----------- ------------------------- -------------------------------
+TEAMS IN STRAT A=10/B=4/C=0
+--------------------------,--------,----------------------,--------,-----,------------,-------,-------,------------------,
+                          | Master |                      | Master |     | Qualifiers |       |       |   Overall Rank   |
+ No Name                  | Points |Name                  | Points |  Flt| A   B   C  |  Wins | Score |   A     B     C  |
+-------------------------- -------- ---------------------- -------- ----- ------------ ------- ------- ------------------ 
+    William Campbell        0.12Red|Ann Romeo               0.12Red|                          |
+    Mercer Island WA        0.11Blk| US                     0.11Blk|                          |
+  1 Valerie Lycette         0.12Red|Melinda Westgate        0.12Red|  B                   1   |  31.00    .     .     .   
+    Issaquah WA             0.11Blk|Mercer Island WA        0.11Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Brian Zaugg             1.13Red|Shawn Abernethy         1.13Red|                          |
+    Burien WA               1.12Blk|Seattle WA              1.12Blk|                          |
+  2 Chris Moore             1.13Red|Ray Miller              1.13Red|  A    Q              3   |  53.00    2     .     .   
+    Bellevue WA             1.12Blk|Seattle WA              1.12Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Kim Eng                 0.23Red|Gregory Herman          0.23Red|                          |
+    Issaquah WA             0.23Blk|Bellevue WA             0.23Blk|                          |
+  3 Jeffrey Ford            0.23Red|Eric Sieg               0.23Red|  A    Q              2   |  35.00    .     .     .   
+    Redmond WA              0.23Blk|                        0.23Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Kevin Cline             1.50Red|Chris Pesce             1.50Red|                          |
+    Seattle WA              1.50Blk|Seattle WA              1.50Blk|                          |
+  4 Bogdan Vulcan           1.50Red|Corneliu Galer          1.50Red|  B    Q   Q          4   |  69.00    1     1     .   
+                            1.50Blk|Mercer Island WA        1.50Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Kenneth Diamond         0.12Red|Valliappa Lakshmanan    0.12Red|                          |
+    Mercer Island WA        0.11Blk|Bellevue WA             0.11Blk|                          |
+  5 Grant Davis             0.12Red|John McCaslin           0.12Red|  B                   1   |  24.00    .     .     .   
+                            0.11Blk|Kirkland WA             0.11Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Stanford Christie       0.85Red|Ken Christiansen        0.85Red|                          |
+    Kirkland WA             0.84Blk|Bothell WA              0.84Blk|                          |
+  6 Cristal Nell            0.85Red|Phil Clayton            0.85Red|  A    Q              2.50|  44.00    3     .     .   
+    Seattle WA              0.84Blk|Seattle WA              0.84Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Sue Anderson            0.23Red|David Roselle           0.23Red|                          |
+    Seattle WA              0.23Blk|Kirkland WA             0.23Blk|                          |
+  7 Mike Christensen        0.23Red|Becky Stevens           0.23Red|  A    Q              2   |  38.00    .     .     .   
+    Redmond WA              0.23Blk|Redmond WA              0.23Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Joel Castoriano         0.64Red|Diane Felure            0.64Red|                          |
+                            0.63Blk|Seattle WA              0.63Blk|                          |
+  8 David Taylor            0.64Red|David Binney            0.64Red|  A    Q              2   |  41.00    4     .     .   
+    Seattle WA              0.63Blk|Seattle WA              0.63Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Joel Fuhrman            0.06Red|Dex Stuberg             0.06Red|                          |
+    Kirkland WA             0.06Blk|Seattle WA              0.06Blk|                          |
+  9 David Walker            0.06Red|Galen Hesson            0.06Red|  A                   0.50|  31.00    .     .     .   
+    Seattle WA              0.06Blk|Shoreline WA            0.06Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Brad Rind               0.23Red|John Uchida             0.23Red|                          |
+    Mercer Island WA        0.23Blk|Seattle WA              0.23Blk|                          |
+ 10 Christopher Jarvis      0.23Red|Adam Ruprecht           0.23Red|  B    Q   Q          2   |  34.00    .     .     .   
+    Seattle WA              0.23Blk|Seattle WA              0.23Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+                                                                                TOTALS   20.00  400.00
