@@ -1,0 +1,505 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>February 4, 2020   |CLUB NO.>158048    | 02/04/2020 22:32
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=7/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Moore            Brian Zaugg              A    2     .     .    135.00  55.56  0.77(A) 
+
+ 2 William Herman         Gregory Herman           B    .     .     .    107.44  44.21          
+
+ 3 Ken Christiansen       Melinda Westgate         A    3     .     .    133.88  55.09  0.55(A) 
+
+ 4 David Binney           David Walker             A    .     .     .    125.44  51.62          
+
+ 5 Corneliu Galer         Bogdan Vulcan            B    4     2     .    131.63  54.17  0.39(A) 
+
+ 6 Kenneth Diamond        Marilyn Dierickx         C    .     .     .     87.75  36.11          
+
+ 7 John McCaslin          Grant Davis              B    .     3     .    131.06  53.93  0.28(B) 
+
+ 8 Carol Schroeder        Alan Hendrickson         B    .     .     .    113.63  46.76          
+
+ 9 Kevin Cline            David Hankins            B    1     1     .    140.63  57.87  1.10(A) 
+
+10 Ray Miller             Jeffrey Ford             A    .     .     .    101.81  41.90          
+
+11 Valliappa Lakshmanan   Peiyush Jain             C    .     .     .    126.00  51.85          
+
+
+                                          Totals                        1334.27       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>February 4, 2020   |CLUB NO.>158048    | 02/04/2020 22:32
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=8/C=1                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B    .     .     .     78.50  32.30          
+
+
+
+ 3 Valerie Lycette        Ann Romeo                B    .     3     .    120.50  49.59  0.32(B) 
+
+ 4 Shawn Abernethy        Stanford Christie        A    1     .     .    153.50  63.17  1.10(A) 
+
+ 5 David Taylor           Chris Pesce              B    2     1     .    144.50  59.47  0.77(A) 
+
+ 6 Terry Jacobson         Brad Rind                C    3     2     .    134.00  55.14  0.55(A) 
+
+ 7 Lorenzo Migliorini     Donald Stark             B    .     .     .     99.50  40.95          
+
+ 8 Joel Fuhrman           Dex Stuberg              B    .     .     .    118.50  48.77          
+
+ 9 David Roselle          Sue Anderson             B    .     .     .    112.50  46.30          
+
+10 Mike Ring              Mike Christensen         A    4     .     .    133.50  54.94  0.39(A) 
+
+11 Hugh Hendrickson       Muhunthan Sivapragasam   B    .     .     .    120.00  49.38          
+
+
+                                          Totals                        1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   5.00 1-Moore-Zaugg vs 1-Tipton-Hesson
+   50          5.50   3.50 2-Herman-Herman vs 5-Taylor-Pesce
+        140    2.50   6.50 3-Christiansen-Westgate vs 7-Migliorini-Stark
+  100          8.00   1.00 4-Binney-Walker vs 9-Roselle-Anderson
+   50          5.50   3.50 5-Galer-Vulcan vs 11-Hendrickson-Sivapragasam
+  100          8.00   1.00 7-McCaslin-Davis vs 4-Abernethy-Christie
+        140    2.50   6.50 8-Schroeder-Hendrickson vs 6-Jacobson-Rind
+        150    1.00   8.00 9-Cline-Hankins vs 8-Fuhrman-Stuberg
+        300    0.00   9.00 10-Miller-Ford vs 10-Ring-Christensen
+  100          8.00   1.00 11-Lakshmanan-Jain vs 3-Lycette-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.50   2.50 1-Moore-Zaugg vs 1-Tipton-Hesson
+        100    1.00   8.00 2-Herman-Herman vs 5-Taylor-Pesce
+  140          6.50   2.50 3-Christiansen-Westgate vs 7-Migliorini-Stark
+  140          6.50   2.50 4-Binney-Walker vs 9-Roselle-Anderson
+   50          3.00   6.00 5-Galer-Vulcan vs 11-Hendrickson-Sivapragasam
+  100          4.00   5.00 7-McCaslin-Davis vs 4-Abernethy-Christie
+        100    1.00   8.00 8-Schroeder-Hendrickson vs 6-Jacobson-Rind
+  140          6.50   2.50 9-Cline-Hankins vs 8-Fuhrman-Stuberg
+  170          9.00   0.00 10-Miller-Ford vs 10-Ring-Christensen
+        100    1.00   8.00 11-Lakshmanan-Jain vs 3-Lycette-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          8.00   1.00 1-Moore-Zaugg vs 1-Tipton-Hesson
+  150          5.00   4.00 2-Herman-Herman vs 5-Taylor-Pesce
+  120          4.00   5.00 3-Christiansen-Westgate vs 7-Migliorini-Stark
+         50    1.00   8.00 4-Binney-Walker vs 9-Roselle-Anderson
+         50    1.00   8.00 5-Galer-Vulcan vs 11-Hendrickson-Sivapragasam
+  110          3.00   6.00 7-McCaslin-Davis vs 4-Abernethy-Christie
+  430          8.00   1.00 8-Schroeder-Hendrickson vs 6-Jacobson-Rind
+  400          6.00   3.00 9-Cline-Hankins vs 8-Fuhrman-Stuberg
+         50    1.00   8.00 10-Miller-Ford vs 10-Ring-Christensen
+  430          8.00   1.00 11-Lakshmanan-Jain vs 3-Lycette-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1370          7.50   1.50 1-Moore-Zaugg vs 11-Hendrickson-Sivapragasam
+  660          2.00   7.00 3-Christiansen-Westgate vs 6-Jacobson-Rind
+  690          5.50   3.50 4-Binney-Walker vs 8-Fuhrman-Stuberg
+  660          2.00   7.00 5-Galer-Vulcan vs 10-Ring-Christensen
+  690          5.50   3.50 6-Diamond-Dierickx vs 1-Tipton-Hesson
+  660          2.00   7.00 7-McCaslin-Davis vs 3-Lycette-Romeo
+  660          2.00   7.00 8-Schroeder-Hendrickson vs 5-Taylor-Pesce
+ 1370          7.50   1.50 9-Cline-Hankins vs 7-Migliorini-Stark
+  660          2.00   7.00 10-Miller-Ford vs 9-Roselle-Anderson
+ 1440          9.00   0.00 11-Lakshmanan-Jain vs 4-Abernethy-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   6.50 1-Moore-Zaugg vs 11-Hendrickson-Sivapragasam
+  620          8.00   1.00 3-Christiansen-Westgate vs 6-Jacobson-Rind
+        100    2.50   6.50 4-Binney-Walker vs 8-Fuhrman-Stuberg
+  620          8.00   1.00 5-Galer-Vulcan vs 10-Ring-Christensen
+  170          5.00   4.00 6-Diamond-Dierickx vs 1-Tipton-Hesson
+  600          6.00   3.00 7-McCaslin-Davis vs 3-Lycette-Romeo
+        200    0.50   8.50 8-Schroeder-Hendrickson vs 5-Taylor-Pesce
+  140          4.00   5.00 9-Cline-Hankins vs 7-Migliorini-Stark
+  620          8.00   1.00 10-Miller-Ford vs 9-Roselle-Anderson
+        200    0.50   8.50 11-Lakshmanan-Jain vs 4-Abernethy-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.00   5.00 1-Moore-Zaugg vs 11-Hendrickson-Sivapragasam
+        500    7.00   2.00 3-Christiansen-Westgate vs 6-Jacobson-Rind
+        680    4.00   5.00 4-Binney-Walker vs 8-Fuhrman-Stuberg
+        200    9.00   0.00 5-Galer-Vulcan vs 10-Ring-Christensen
+        300    8.00   1.00 6-Diamond-Dierickx vs 1-Tipton-Hesson
+        800    0.50   8.50 7-McCaslin-Davis vs 3-Lycette-Romeo
+        680    4.00   5.00 8-Schroeder-Hendrickson vs 5-Taylor-Pesce
+        680    4.00   5.00 9-Cline-Hankins vs 7-Migliorini-Stark
+        800    0.50   8.50 10-Miller-Ford vs 9-Roselle-Anderson
+        680    4.00   5.00 11-Lakshmanan-Jain vs 4-Abernethy-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   6.00 1-Moore-Zaugg vs 10-Ring-Christensen
+        650    3.00   6.00 2-Herman-Herman vs 1-Tipton-Hesson
+  200          9.00   0.00 3-Christiansen-Westgate vs 3-Lycette-Romeo
+        650    3.00   6.00 4-Binney-Walker vs 7-Migliorini-Stark
+        170    8.00   1.00 5-Galer-Vulcan vs 9-Roselle-Anderson
+        650    3.00   6.00 6-Diamond-Dierickx vs 11-Hendrickson-Sivapragasam
+        650    3.00   6.00 8-Schroeder-Hendrickson vs 4-Abernethy-Christie
+        620    7.00   2.00 9-Cline-Hankins vs 6-Jacobson-Rind
+        650    3.00   6.00 10-Miller-Ford vs 8-Fuhrman-Stuberg
+        650    3.00   6.00 11-Lakshmanan-Jain vs 5-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.50   5.50 1-Moore-Zaugg vs 10-Ring-Christensen
+  460          8.00   1.00 2-Herman-Herman vs 1-Tipton-Hesson
+  400          0.00   9.00 3-Christiansen-Westgate vs 3-Lycette-Romeo
+  430          3.50   5.50 4-Binney-Walker vs 7-Migliorini-Stark
+  430          3.50   5.50 5-Galer-Vulcan vs 9-Roselle-Anderson
+  430          3.50   5.50 6-Diamond-Dierickx vs 11-Hendrickson-Sivapragasam
+  430          3.50   5.50 8-Schroeder-Hendrickson vs 4-Abernethy-Christie
+  430          3.50   5.50 9-Cline-Hankins vs 6-Jacobson-Rind
+  460          8.00   1.00 10-Miller-Ford vs 8-Fuhrman-Stuberg
+  460          8.00   1.00 11-Lakshmanan-Jain vs 5-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.00   6.00 1-Moore-Zaugg vs 10-Ring-Christensen
+  430          3.00   6.00 2-Herman-Herman vs 1-Tipton-Hesson
+  400          1.00   8.00 3-Christiansen-Westgate vs 3-Lycette-Romeo
+  490          9.00   0.00 4-Binney-Walker vs 7-Migliorini-Stark
+  460          6.50   2.50 5-Galer-Vulcan vs 9-Roselle-Anderson
+  430          3.00   6.00 6-Diamond-Dierickx vs 11-Hendrickson-Sivapragasam
+  180          0.00   9.00 8-Schroeder-Hendrickson vs 4-Abernethy-Christie
+  460          6.50   2.50 9-Cline-Hankins vs 6-Jacobson-Rind
+  460          6.50   2.50 10-Miller-Ford vs 8-Fuhrman-Stuberg
+  460          6.50   2.50 11-Lakshmanan-Jain vs 5-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    3.50   5.50 1-Moore-Zaugg vs 9-Roselle-Anderson
+        500    5.00   4.00 2-Herman-Herman vs 11-Hendrickson-Sivapragasam
+        600    3.50   5.50 4-Binney-Walker vs 4-Abernethy-Christie
+        200    7.00   2.00 5-Galer-Vulcan vs 8-Fuhrman-Stuberg
+        660    0.00   9.00 6-Diamond-Dierickx vs 10-Ring-Christensen
+        200    7.00   2.00 7-McCaslin-Davis vs 1-Tipton-Hesson
+  100          9.00   0.00 8-Schroeder-Hendrickson vs 3-Lycette-Romeo
+        650    1.50   7.50 9-Cline-Hankins vs 5-Taylor-Pesce
+        200    7.00   2.00 10-Miller-Ford vs 7-Migliorini-Stark
+        650    1.50   7.50 11-Lakshmanan-Jain vs 6-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  210          9.00   0.00 1-Moore-Zaugg vs 9-Roselle-Anderson
+  180          8.00   1.00 2-Herman-Herman vs 11-Hendrickson-Sivapragasam
+  120          4.50   4.50 4-Binney-Walker vs 4-Abernethy-Christie
+  120          4.50   4.50 5-Galer-Vulcan vs 8-Fuhrman-Stuberg
+   90          1.00   8.00 6-Diamond-Dierickx vs 10-Ring-Christensen
+   90          1.00   8.00 7-McCaslin-Davis vs 1-Tipton-Hesson
+  120          4.50   4.50 8-Schroeder-Hendrickson vs 3-Lycette-Romeo
+  120          4.50   4.50 9-Cline-Hankins vs 5-Taylor-Pesce
+  150          7.00   2.00 10-Miller-Ford vs 7-Migliorini-Stark
+   90          1.00   8.00 11-Lakshmanan-Jain vs 6-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          8.00   1.00 1-Moore-Zaugg vs 9-Roselle-Anderson
+        450    3.00   6.00 2-Herman-Herman vs 11-Hendrickson-Sivapragasam
+        480    0.00   9.00 4-Binney-Walker vs 4-Abernethy-Christie
+        450    3.00   6.00 5-Galer-Vulcan vs 8-Fuhrman-Stuberg
+        450    3.00   6.00 6-Diamond-Dierickx vs 10-Ring-Christensen
+  100          9.00   0.00 7-McCaslin-Davis vs 1-Tipton-Hesson
+        450    3.00   6.00 8-Schroeder-Hendrickson vs 3-Lycette-Romeo
+        420    6.00   3.00 9-Cline-Hankins vs 5-Taylor-Pesce
+        450    3.00   6.00 10-Miller-Ford vs 7-Migliorini-Stark
+        200    7.00   2.00 11-Lakshmanan-Jain vs 6-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.50   8.50 1-Moore-Zaugg vs 8-Fuhrman-Stuberg
+        690    0.50   8.50 2-Herman-Herman vs 10-Ring-Christensen
+  200          8.00   1.00 3-Christiansen-Westgate vs 1-Tipton-Hesson
+        600    6.50   2.50 4-Binney-Walker vs 3-Lycette-Romeo
+        660    3.00   6.00 5-Galer-Vulcan vs 5-Taylor-Pesce
+  300          9.00   0.00 6-Diamond-Dierickx vs 9-Roselle-Anderson
+        600    6.50   2.50 7-McCaslin-Davis vs 11-Hendrickson-Sivapragasam
+        660    3.00   6.00 9-Cline-Hankins vs 4-Abernethy-Christie
+        620    5.00   4.00 10-Miller-Ford vs 6-Jacobson-Rind
+        660    3.00   6.00 11-Lakshmanan-Jain vs 7-Migliorini-Stark
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.50   6.50 1-Moore-Zaugg vs 8-Fuhrman-Stuberg
+        100    4.00   5.00 2-Herman-Herman vs 10-Ring-Christensen
+         50    6.00   3.00 3-Christiansen-Westgate vs 1-Tipton-Hesson
+         50    6.00   3.00 4-Binney-Walker vs 3-Lycette-Romeo
+  100          9.00   0.00 5-Galer-Vulcan vs 5-Taylor-Pesce
+        300    1.00   8.00 6-Diamond-Dierickx vs 9-Roselle-Anderson
+         50    6.00   3.00 7-McCaslin-Davis vs 11-Hendrickson-Sivapragasam
+        500    0.00   9.00 9-Cline-Hankins vs 4-Abernethy-Christie
+        130    2.50   6.50 10-Miller-Ford vs 6-Jacobson-Rind
+   50          8.00   1.00 11-Lakshmanan-Jain vs 7-Migliorini-Stark
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          9.00   0.00 1-Moore-Zaugg vs 8-Fuhrman-Stuberg
+  130          5.50   3.50 2-Herman-Herman vs 10-Ring-Christensen
+  130          5.50   3.50 3-Christiansen-Westgate vs 1-Tipton-Hesson
+  130          5.50   3.50 4-Binney-Walker vs 3-Lycette-Romeo
+        100    1.00   8.00 5-Galer-Vulcan vs 5-Taylor-Pesce
+  130          5.50   3.50 6-Diamond-Dierickx vs 9-Roselle-Anderson
+  130          5.50   3.50 7-McCaslin-Davis vs 11-Hendrickson-Sivapragasam
+  130          5.50   3.50 9-Cline-Hankins vs 4-Abernethy-Christie
+        100    1.00   8.00 10-Miller-Ford vs 6-Jacobson-Rind
+        100    1.00   8.00 11-Lakshmanan-Jain vs 7-Migliorini-Stark
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        710    5.50   3.50 1-Moore-Zaugg vs 7-Migliorini-Stark
+        710    5.50   3.50 2-Herman-Herman vs 9-Roselle-Anderson
+        710    5.50   3.50 3-Christiansen-Westgate vs 11-Hendrickson-Sivapragasa
+        710    5.50   3.50 5-Galer-Vulcan vs 4-Abernethy-Christie
+        710    5.50   3.50 6-Diamond-Dierickx vs 6-Jacobson-Rind
+        710    5.50   3.50 7-McCaslin-Davis vs 10-Ring-Christensen
+        800    1.50   7.50 8-Schroeder-Hendrickson vs 1-Tipton-Hesson
+        680    9.00   0.00 9-Cline-Hankins vs 3-Lycette-Romeo
+       1460    0.00   9.00 10-Miller-Ford vs 5-Taylor-Pesce
+        800    1.50   7.50 11-Lakshmanan-Jain vs 8-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   4.50 1-Moore-Zaugg vs 7-Migliorini-Stark
+        110    3.00   6.00 2-Herman-Herman vs 9-Roselle-Anderson
+        150    1.00   8.00 3-Christiansen-Westgate vs 11-Hendrickson-Sivapragasa
+        130    2.00   7.00 5-Galer-Vulcan vs 4-Abernethy-Christie
+  100          8.50   0.50 6-Diamond-Dierickx vs 6-Jacobson-Rind
+        100    4.50   4.50 7-McCaslin-Davis vs 10-Ring-Christensen
+  100          8.50   0.50 8-Schroeder-Hendrickson vs 1-Tipton-Hesson
+         50    6.50   2.50 9-Cline-Hankins vs 3-Lycette-Romeo
+        300    0.00   9.00 10-Miller-Ford vs 5-Taylor-Pesce
+         50    6.50   2.50 11-Lakshmanan-Jain vs 8-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    8.50   0.50 1-Moore-Zaugg vs 7-Migliorini-Stark
+        800    2.00   7.00 2-Herman-Herman vs 9-Roselle-Anderson
+        490    5.00   4.00 3-Christiansen-Westgate vs 11-Hendrickson-Sivapragasa
+        490    5.00   4.00 5-Galer-Vulcan vs 4-Abernethy-Christie
+        990    0.00   9.00 6-Diamond-Dierickx vs 6-Jacobson-Rind
+        490    5.00   4.00 7-McCaslin-Davis vs 10-Ring-Christensen
+        490    5.00   4.00 8-Schroeder-Hendrickson vs 1-Tipton-Hesson
+        420    8.50   0.50 9-Cline-Hankins vs 3-Lycette-Romeo
+        920    1.00   8.00 10-Miller-Ford vs 5-Taylor-Pesce
+        490    5.00   4.00 11-Lakshmanan-Jain vs 8-Fuhrman-Stuberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.50   3.50 1-Moore-Zaugg vs 6-Jacobson-Rind
+         50    0.50   8.50 2-Herman-Herman vs 8-Fuhrman-Stuberg
+  170          5.50   3.50 3-Christiansen-Westgate vs 10-Ring-Christensen
+  170          5.50   3.50 4-Binney-Walker vs 1-Tipton-Hesson
+         50    0.50   8.50 5-Galer-Vulcan vs 3-Lycette-Romeo
+  170          5.50   3.50 6-Diamond-Dierickx vs 5-Taylor-Pesce
+  420          9.00   0.00 7-McCaslin-Davis vs 7-Migliorini-Stark
+  170          5.50   3.50 8-Schroeder-Hendrickson vs 11-Hendrickson-Sivapragasa
+  110          2.00   7.00 10-Miller-Ford vs 4-Abernethy-Christie
+  170          5.50   3.50 11-Lakshmanan-Jain vs 9-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.50   6.50 1-Moore-Zaugg vs 6-Jacobson-Rind
+  110          7.00   2.00 2-Herman-Herman vs 8-Fuhrman-Stuberg
+  110          7.00   2.00 3-Christiansen-Westgate vs 10-Ring-Christensen
+   90          2.50   6.50 4-Binney-Walker vs 1-Tipton-Hesson
+        110    0.50   8.50 5-Galer-Vulcan vs 3-Lycette-Romeo
+  100          4.50   4.50 6-Diamond-Dierickx vs 5-Taylor-Pesce
+  110          7.00   2.00 7-McCaslin-Davis vs 7-Migliorini-Stark
+  670          9.00   0.00 8-Schroeder-Hendrickson vs 11-Hendrickson-Sivapragasa
+        110    0.50   8.50 10-Miller-Ford vs 4-Abernethy-Christie
+  100          4.50   4.50 11-Lakshmanan-Jain vs 9-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   7.50 1-Moore-Zaugg vs 6-Jacobson-Rind
+  650          6.50   2.50 2-Herman-Herman vs 8-Fuhrman-Stuberg
+        100    3.00   6.00 3-Christiansen-Westgate vs 10-Ring-Christensen
+  850          9.00   0.00 4-Binney-Walker vs 1-Tipton-Hesson
+  650          6.50   2.50 5-Galer-Vulcan vs 3-Lycette-Romeo
+        500    0.00   9.00 6-Diamond-Dierickx vs 5-Taylor-Pesce
+  650          6.50   2.50 7-McCaslin-Davis vs 7-Migliorini-Stark
+        200    1.50   7.50 8-Schroeder-Hendrickson vs 11-Hendrickson-Sivapragasa
+  650          6.50   2.50 10-Miller-Ford vs 4-Abernethy-Christie
+  620          4.00   5.00 11-Lakshmanan-Jain vs 9-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          9.00   0.00 1-Moore-Zaugg vs 5-Taylor-Pesce
+        660    0.50   8.50 2-Herman-Herman vs 7-Migliorini-Stark
+  300          8.00   1.00 3-Christiansen-Westgate vs 9-Roselle-Anderson
+        130    6.00   3.00 4-Binney-Walker vs 11-Hendrickson-Sivapragasam
+        660    0.50   8.50 6-Diamond-Dierickx vs 4-Abernethy-Christie
+        600    4.50   4.50 7-McCaslin-Davis vs 6-Jacobson-Rind
+        630    2.50   6.50 8-Schroeder-Hendrickson vs 8-Fuhrman-Stuberg
+  200          7.00   2.00 9-Cline-Hankins vs 1-Tipton-Hesson
+        600    4.50   4.50 10-Miller-Ford vs 3-Lycette-Romeo
+        630    2.50   6.50 11-Lakshmanan-Jain vs 10-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          8.50   0.50 1-Moore-Zaugg vs 5-Taylor-Pesce
+        300    2.50   6.50 2-Herman-Herman vs 7-Migliorini-Stark
+        130    4.50   4.50 3-Christiansen-Westgate vs 9-Roselle-Anderson
+        300    2.50   6.50 4-Binney-Walker vs 11-Hendrickson-Sivapragasam
+        500    1.00   8.00 6-Diamond-Dierickx vs 4-Abernethy-Christie
+        130    4.50   4.50 7-McCaslin-Davis vs 6-Jacobson-Rind
+        870    0.00   9.00 8-Schroeder-Hendrickson vs 8-Fuhrman-Stuberg
+  200          8.50   0.50 9-Cline-Hankins vs 1-Tipton-Hesson
+        110    6.00   3.00 10-Miller-Ford vs 3-Lycette-Romeo
+        100    7.00   2.00 11-Lakshmanan-Jain vs 10-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   8.00 1-Moore-Zaugg vs 5-Taylor-Pesce
+   50          6.50   2.50 2-Herman-Herman vs 7-Migliorini-Stark
+        420    1.00   8.00 3-Christiansen-Westgate vs 9-Roselle-Anderson
+   50          6.50   2.50 4-Binney-Walker vs 11-Hendrickson-Sivapragasam
+        420    1.00   8.00 6-Diamond-Dierickx vs 4-Abernethy-Christie
+        170    3.00   6.00 7-McCaslin-Davis vs 6-Jacobson-Rind
+   50          6.50   2.50 8-Schroeder-Hendrickson vs 8-Fuhrman-Stuberg
+   50          6.50   2.50 9-Cline-Hankins vs 1-Tipton-Hesson
+   50          6.50   2.50 10-Miller-Ford vs 3-Lycette-Romeo
+   50          6.50   2.50 11-Lakshmanan-Jain vs 10-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.00   7.00 1-Moore-Zaugg vs 4-Abernethy-Christie
+        130    3.00   6.00 2-Herman-Herman vs 6-Jacobson-Rind
+  140          9.00   0.00 3-Christiansen-Westgate vs 8-Fuhrman-Stuberg
+  100          7.00   2.00 4-Binney-Walker vs 10-Ring-Christensen
+  110          8.00   1.00 5-Galer-Vulcan vs 1-Tipton-Hesson
+        660    0.00   9.00 6-Diamond-Dierickx vs 3-Lycette-Romeo
+         50    6.00   3.00 7-McCaslin-Davis vs 5-Taylor-Pesce
+         90    5.00   4.00 8-Schroeder-Hendrickson vs 7-Migliorini-Stark
+        100    4.00   5.00 9-Cline-Hankins vs 9-Roselle-Anderson
+        500    1.00   8.00 11-Lakshmanan-Jain vs 11-Hendrickson-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          7.50   1.50 1-Moore-Zaugg vs 4-Abernethy-Christie
+  110          2.50   6.50 2-Herman-Herman vs 6-Jacobson-Rind
+  110          2.50   6.50 3-Christiansen-Westgate vs 8-Fuhrman-Stuberg
+        100    1.00   8.00 4-Binney-Walker vs 10-Ring-Christensen
+  800          7.50   1.50 5-Galer-Vulcan vs 1-Tipton-Hesson
+  200          4.00   5.00 6-Diamond-Dierickx vs 3-Lycette-Romeo
+        110    0.00   9.00 7-McCaslin-Davis vs 5-Taylor-Pesce
+  800          7.50   1.50 8-Schroeder-Hendrickson vs 7-Migliorini-Stark
+  800          7.50   1.50 9-Cline-Hankins vs 9-Roselle-Anderson
+  500          5.00   4.00 11-Lakshmanan-Jain vs 11-Hendrickson-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   4.50 1-Moore-Zaugg vs 4-Abernethy-Christie
+        100    4.50   4.50 2-Herman-Herman vs 6-Jacobson-Rind
+   50          7.50   1.50 3-Christiansen-Westgate vs 8-Fuhrman-Stuberg
+        110    2.50   6.50 4-Binney-Walker vs 10-Ring-Christensen
+   50          7.50   1.50 5-Galer-Vulcan vs 1-Tipton-Hesson
+        400    0.00   9.00 6-Diamond-Dierickx vs 3-Lycette-Romeo
+        110    2.50   6.50 7-McCaslin-Davis vs 5-Taylor-Pesce
+   50          7.50   1.50 8-Schroeder-Hendrickson vs 7-Migliorini-Stark
+        300    1.00   8.00 9-Cline-Hankins vs 9-Roselle-Anderson
+   50          7.50   1.50 11-Lakshmanan-Jain vs 11-Hendrickson-Sivapragasam
+----------------------------------------------------------------------
