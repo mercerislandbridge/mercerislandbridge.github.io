@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 4, 2020   |CLUB NO.>158048    | 02/04/2020 22:32
+DATE>February 4, 2020   |CLUB NO.>158048    | 02/11/2020 22:28
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -17,13 +17,13 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  3 Ken Christiansen       Melinda Westgate         A    3     .     .    133.88  55.09  0.55(A) 
 
- 4 David Binney           David Walker             A    .     .     .    125.44  51.62          
+ 4 David Binney           David Walker             A    .     .     .    124.88  51.39          
 
- 5 Corneliu Galer         Bogdan Vulcan            B    4     2     .    131.63  54.17  0.39(A) 
+ 5 Corneliu Galer         Bogdan Vulcan            B   4/5   2/3    .    131.63  54.17  0.34(B) 
 
  6 Kenneth Diamond        Marilyn Dierickx         C    .     .     .     87.75  36.11          
 
- 7 John McCaslin          Grant Davis              B    .     3     .    131.06  53.93  0.28(B) 
+ 7 John McCaslin          Grant Davis              B   4/5   2/3    .    131.63  54.17  0.34(B) 
 
  8 Carol Schroeder        Alan Hendrickson         B    .     .     .    113.63  46.76          
 
@@ -34,10 +34,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 11 Valliappa Lakshmanan   Peiyush Jain             C    .     .     .    126.00  51.85          
 
 
-                                          Totals                        1334.27       
+                                          Totals                        1334.28       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 4, 2020   |CLUB NO.>158048    | 02/04/2020 22:32
+DATE>February 4, 2020   |CLUB NO.>158048    | 02/11/2020 22:28
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -55,9 +55,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  4 Shawn Abernethy        Stanford Christie        A    1     .     .    153.50  63.17  1.10(A) 
 
- 5 David Taylor           Chris Pesce              B    2     1     .    144.50  59.47  0.77(A) 
+ 5 David Taylor           Chris Pesce              B    2     1     .    144.00  59.26  0.77(A) 
 
- 6 Terry Jacobson         Brad Rind                C    3     2     .    134.00  55.14  0.55(A) 
+ 6 Terry Jacobson         Brad Rind                C   3/4    2     .    134.00  55.14  0.47(A) 
 
  7 Lorenzo Migliorini     Donald Stark             B    .     .     .     99.50  40.95          
 
@@ -65,7 +65,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  9 David Roselle          Sue Anderson             B    .     .     .    112.50  46.30          
 
-10 Mike Ring              Mike Christensen         A    4     .     .    133.50  54.94  0.39(A) 
+10 Mike Ring              Mike Christensen         A   3/4    .     .    134.00  55.14  0.47(A) 
 
 11 Hugh Hendrickson       Muhunthan Sivapragasam   B    .     .     .    120.00  49.38          
 
@@ -479,10 +479,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   800          7.50   1.50 1-Moore-Zaugg vs 4-Abernethy-Christie
   110          2.50   6.50 2-Herman-Herman vs 6-Jacobson-Rind
   110          2.50   6.50 3-Christiansen-Westgate vs 8-Fuhrman-Stuberg
-        100    1.00   8.00 4-Binney-Walker vs 10-Ring-Christensen
+        100    0.50   8.50 4-Binney-Walker vs 10-Ring-Christensen
   800          7.50   1.50 5-Galer-Vulcan vs 1-Tipton-Hesson
   200          4.00   5.00 6-Diamond-Dierickx vs 3-Lycette-Romeo
-        110    0.00   9.00 7-McCaslin-Davis vs 5-Taylor-Pesce
+        100    0.50   8.50 7-McCaslin-Davis vs 5-Taylor-Pesce
   800          7.50   1.50 8-Schroeder-Hendrickson vs 7-Migliorini-Stark
   800          7.50   1.50 9-Cline-Hankins vs 9-Roselle-Anderson
   500          5.00   4.00 11-Lakshmanan-Jain vs 11-Hendrickson-Sivapragasam
