@@ -1,0 +1,411 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 11, 2020  |CLUB NO.>158048    | 02/11/2020 22:22
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   91.0 |TOP>   7 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=16/B=10/C=3                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jeffrey Ford           Aaron Mohrman            A    .     .     .     81.50  44.78          
+
+ 2 Muhunthan Sivapragasam Peiyush Jain             C    .     .     .     88.00  48.35          
+
+ 3 Ray Miller             Daniel Poore             A    3     .     .    107.00  58.79  0.80(A) 
+
+ 4 William Campbell       Ted Bartunek             B    .     .     .     81.00  44.51          
+
+ 5 Nick Tipton            Galen Hesson             B    .     .     .     81.00  44.51          
+
+ 6 Kim Eng                Eric Sieg                A    1     .     .    113.00  62.09  1.50(A) 
+
+ 7 Bryan Delfs            Sue Anderson             B    4     2     .    100.50  55.22  0.56(A) 
+
+ 8 Mike Christensen       Mike Ring                A   5/6    .     .     95.00  52.20  0.30(A) 
+
+ 9 Terry Jacobson         Brad Rind                C    .     4     1     94.50  51.92  0.28(B) 
+
+10 Corneliu Galer         Bogdan Vulcan            B    2     1     .    110.50  60.71  1.12(A) 
+
+11 Ann Romeo              Andrea James             A    .     .     .     90.50  49.73          
+
+12 Brian Zaugg            Melinda Westgate         A    .     .     .     66.50  36.54          
+
+13 David Roselle          Christopher Jarvis       B   5/6    3     .     95.00  52.20  0.40(B) 
+
+14 Chris Pesce            David Taylor             B    .     .     .     89.50  49.18          
+
+15 Cliff Marx             Dex Stuberg              C    .     .     .     72.50  39.84          
+
+16 David Walker           Joel Fuhrman             B    .     .     .     90.00  49.45          
+
+
+                                          Totals                        1456.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   3.00 4-Campbell-Bartunek vs 14-Pesce-Taylor
+  140          4.00   3.00 6-Eng-Sieg vs 5-Tipton-Hesson
+  170          6.50   0.50 8-Christensen-Ring vs 12-Zaugg-Westgate
+  170          6.50   0.50 9-Jacobson-Rind vs 11-Romeo-James
+         50    1.00   6.00 10-Galer-Vulcan vs 2-Sivapragasam-Jain
+         50    1.00   6.00 13-Roselle-Jarvis vs 7-Delfs-Anderson
+  140          4.00   3.00 15-Marx-Stuberg vs 3-Miller-Poore
+         50    1.00   6.00 16-Walker-Fuhrman vs 1-Ford-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.50   4.50 4-Campbell-Bartunek vs 14-Pesce-Taylor
+        430    0.50   6.50 6-Eng-Sieg vs 5-Tipton-Hesson
+        400    2.50   4.50 8-Christensen-Ring vs 12-Zaugg-Westgate
+        430    0.50   6.50 9-Jacobson-Rind vs 11-Romeo-James
+   50          7.00   0.00 10-Galer-Vulcan vs 2-Sivapragasam-Jain
+        130    6.00   1.00 13-Roselle-Jarvis vs 7-Delfs-Anderson
+        150    5.00   2.00 15-Marx-Stuberg vs 3-Miller-Poore
+        180    4.00   3.00 16-Walker-Fuhrman vs 1-Ford-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          6.00   1.00 1-Ford-Mohrman vs 8-Christensen-Ring
+  460          3.00   4.00 4-Campbell-Bartunek vs 15-Marx-Stuberg
+  460          3.00   4.00 5-Tipton-Hesson vs 14-Pesce-Taylor
+  490          6.00   1.00 7-Delfs-Anderson vs 6-Eng-Sieg
+  430          0.50   6.50 9-Jacobson-Rind vs 13-Roselle-Jarvis
+  490          6.00   1.00 10-Galer-Vulcan vs 12-Zaugg-Westgate
+  430          0.50   6.50 11-Romeo-James vs 3-Miller-Poore
+  460          3.00   4.00 16-Walker-Fuhrman vs 2-Sivapragasam-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   3.00 1-Ford-Mohrman vs 8-Christensen-Ring
+  140          4.00   3.00 4-Campbell-Bartunek vs 15-Marx-Stuberg
+  110          2.00   5.00 5-Tipton-Hesson vs 14-Pesce-Taylor
+  170          6.50   0.50 7-Delfs-Anderson vs 6-Eng-Sieg
+        100    0.50   6.50 9-Jacobson-Rind vs 13-Roselle-Jarvis
+  170          6.50   0.50 10-Galer-Vulcan vs 12-Zaugg-Westgate
+        100    0.50   6.50 11-Romeo-James vs 3-Miller-Poore
+  140          4.00   3.00 16-Walker-Fuhrman vs 2-Sivapragasam-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          6.50   0.50 2-Sivapragasam-Jain vs 9-Jacobson-Rind
+        200    0.00   7.00 5-Tipton-Hesson vs 15-Marx-Stuberg
+  110          3.00   4.00 6-Eng-Sieg vs 14-Pesce-Taylor
+  130          4.50   2.50 8-Christensen-Ring vs 7-Delfs-Anderson
+  600          6.50   0.50 10-Galer-Vulcan vs 1-Ford-Mohrman
+   50          2.00   5.00 11-Romeo-James vs 13-Roselle-Jarvis
+  130          4.50   2.50 12-Zaugg-Westgate vs 4-Campbell-Bartunek
+        100    1.00   6.00 16-Walker-Fuhrman vs 3-Miller-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   6.00 2-Sivapragasam-Jain vs 9-Jacobson-Rind
+  120          4.00   3.00 5-Tipton-Hesson vs 15-Marx-Stuberg
+  130          5.50   1.50 6-Eng-Sieg vs 14-Pesce-Taylor
+         50    2.00   5.00 8-Christensen-Ring vs 7-Delfs-Anderson
+  150          7.00   0.00 10-Galer-Vulcan vs 1-Ford-Mohrman
+  130          5.50   1.50 11-Romeo-James vs 13-Roselle-Jarvis
+        180    0.00   7.00 12-Zaugg-Westgate vs 4-Campbell-Bartunek
+  110          3.00   4.00 16-Walker-Fuhrman vs 3-Miller-Poore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.50   6.50 3-Miller-Poore vs 10-Galer-Vulcan
+        230    4.00   3.00 6-Eng-Sieg vs 15-Marx-Stuberg
+        650    2.00   5.00 9-Jacobson-Rind vs 8-Christensen-Ring
+  200          7.00   0.00 11-Romeo-James vs 2-Sivapragasam-Jain
+  100          5.50   1.50 12-Zaugg-Westgate vs 1-Ford-Mohrman
+  100          5.50   1.50 13-Roselle-Jarvis vs 5-Tipton-Hesson
+        620    3.00   4.00 14-Pesce-Taylor vs 7-Delfs-Anderson
+        680    0.50   6.50 16-Walker-Fuhrman vs 4-Campbell-Bartunek
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.50   3.50 3-Miller-Poore vs 10-Galer-Vulcan
+        400    6.50   0.50 6-Eng-Sieg vs 15-Marx-Stuberg
+        430    3.50   3.50 9-Jacobson-Rind vs 8-Christensen-Ring
+        460    1.00   6.00 11-Romeo-James vs 2-Sivapragasam-Jain
+        430    3.50   3.50 12-Zaugg-Westgate vs 1-Ford-Mohrman
+        400    6.50   0.50 13-Roselle-Jarvis vs 5-Tipton-Hesson
+        500    0.00   7.00 14-Pesce-Taylor vs 7-Delfs-Anderson
+        430    3.50   3.50 16-Walker-Fuhrman vs 4-Campbell-Bartunek
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.00   6.00 1-Ford-Mohrman vs 6-Eng-Sieg
+  420          5.50   1.50 4-Campbell-Bartunek vs 11-Romeo-James
+  170          1.00   6.00 7-Delfs-Anderson vs 15-Marx-Stuberg
+  450          7.00   0.00 10-Galer-Vulcan vs 9-Jacobson-Rind
+  200          3.50   3.50 12-Zaugg-Westgate vs 3-Miller-Poore
+  170          1.00   6.00 13-Roselle-Jarvis vs 2-Sivapragasam-Jain
+  420          5.50   1.50 14-Pesce-Taylor vs 8-Christensen-Ring
+  200          3.50   3.50 16-Walker-Fuhrman vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   1.00 1-Ford-Mohrman vs 6-Eng-Sieg
+        110    2.00   5.00 4-Campbell-Bartunek vs 11-Romeo-James
+        100    3.50   3.50 7-Delfs-Anderson vs 15-Marx-Stuberg
+        100    3.50   3.50 10-Galer-Vulcan vs 9-Jacobson-Rind
+        730    0.00   7.00 12-Zaugg-Westgate vs 3-Miller-Poore
+  110          6.00   1.00 13-Roselle-Jarvis vs 2-Sivapragasam-Jain
+        300    1.00   6.00 14-Pesce-Taylor vs 8-Christensen-Ring
+  110          6.00   1.00 16-Walker-Fuhrman vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   4.50 1-Ford-Mohrman vs 3-Miller-Poore
+         50    7.00   0.00 2-Sivapragasam-Jain vs 7-Delfs-Anderson
+        110    5.00   2.00 5-Tipton-Hesson vs 12-Zaugg-Westgate
+        140    2.50   4.50 8-Christensen-Ring vs 15-Marx-Stuberg
+        140    2.50   4.50 11-Romeo-James vs 10-Galer-Vulcan
+        100    6.00   1.00 13-Roselle-Jarvis vs 4-Campbell-Bartunek
+        140    2.50   4.50 14-Pesce-Taylor vs 9-Jacobson-Rind
+        300    0.00   7.00 16-Walker-Fuhrman vs 6-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.00   4.00 1-Ford-Mohrman vs 3-Miller-Poore
+        430    3.00   4.00 2-Sivapragasam-Jain vs 7-Delfs-Anderson
+        130    6.50   0.50 5-Tipton-Hesson vs 12-Zaugg-Westgate
+        130    6.50   0.50 8-Christensen-Ring vs 15-Marx-Stuberg
+        430    3.00   4.00 11-Romeo-James vs 10-Galer-Vulcan
+        400    5.00   2.00 13-Roselle-Jarvis vs 4-Campbell-Bartunek
+        460    1.00   6.00 14-Pesce-Taylor vs 9-Jacobson-Rind
+        670    0.00   7.00 16-Walker-Fuhrman vs 6-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.00   5.00 1-Ford-Mohrman vs 5-Tipton-Hesson
+        600    1.00   6.00 2-Sivapragasam-Jain vs 4-Campbell-Bartunek
+        120    4.50   2.50 3-Miller-Poore vs 8-Christensen-Ring
+        140    3.00   4.00 6-Eng-Sieg vs 13-Roselle-Jarvis
+        110    6.50   0.50 9-Jacobson-Rind vs 15-Marx-Stuberg
+        800    0.00   7.00 12-Zaugg-Westgate vs 11-Romeo-James
+        110    6.50   0.50 14-Pesce-Taylor vs 10-Galer-Vulcan
+        120    4.50   2.50 16-Walker-Fuhrman vs 7-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   5.50 1-Ford-Mohrman vs 5-Tipton-Hesson
+        100    4.50   2.50 2-Sivapragasam-Jain vs 4-Campbell-Bartunek
+        100    4.50   2.50 3-Miller-Poore vs 8-Christensen-Ring
+  130          6.50   0.50 6-Eng-Sieg vs 13-Roselle-Jarvis
+  130          6.50   0.50 9-Jacobson-Rind vs 15-Marx-Stuberg
+        140    3.00   4.00 12-Zaugg-Westgate vs 11-Romeo-James
+        800    0.00   7.00 14-Pesce-Taylor vs 10-Galer-Vulcan
+        420    1.50   5.50 16-Walker-Fuhrman vs 7-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.50   1.50 2-Sivapragasam-Jain vs 6-Eng-Sieg
+  620          5.50   1.50 3-Miller-Poore vs 5-Tipton-Hesson
+        100    0.50   6.50 4-Campbell-Bartunek vs 9-Jacobson-Rind
+  650          7.00   0.00 7-Delfs-Anderson vs 1-Ford-Mohrman
+  170          2.50   4.50 10-Galer-Vulcan vs 15-Marx-Stuberg
+  200          4.00   3.00 13-Roselle-Jarvis vs 12-Zaugg-Westgate
+  170          2.50   4.50 14-Pesce-Taylor vs 11-Romeo-James
+        100    0.50   6.50 16-Walker-Fuhrman vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.50   5.50 2-Sivapragasam-Jain vs 6-Eng-Sieg
+  300          6.00   1.00 3-Miller-Poore vs 5-Tipton-Hesson
+        600    1.50   5.50 4-Campbell-Bartunek vs 9-Jacobson-Rind
+        150    3.00   4.00 7-Delfs-Anderson vs 1-Ford-Mohrman
+  300          6.00   1.00 10-Galer-Vulcan vs 15-Marx-Stuberg
+  300          6.00   1.00 13-Roselle-Jarvis vs 12-Zaugg-Westgate
+        800    0.00   7.00 14-Pesce-Taylor vs 11-Romeo-James
+  200          4.00   3.00 16-Walker-Fuhrman vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.00   0.00 1-Ford-Mohrman vs 13-Roselle-Jarvis
+        480    0.50   6.50 3-Miller-Poore vs 7-Delfs-Anderson
+        480    0.50   6.50 4-Campbell-Bartunek vs 6-Eng-Sieg
+        400    4.50   2.50 5-Tipton-Hesson vs 10-Galer-Vulcan
+        400    4.50   2.50 8-Christensen-Ring vs 2-Sivapragasam-Jain
+        450    2.00   5.00 14-Pesce-Taylor vs 12-Zaugg-Westgate
+        400    4.50   2.50 15-Marx-Stuberg vs 11-Romeo-James
+        400    4.50   2.50 16-Walker-Fuhrman vs 9-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.50   2.50 1-Ford-Mohrman vs 13-Roselle-Jarvis
+  180          6.00   1.00 3-Miller-Poore vs 7-Delfs-Anderson
+   50          0.50   6.50 4-Campbell-Bartunek vs 6-Eng-Sieg
+   90          2.00   5.00 5-Tipton-Hesson vs 10-Galer-Vulcan
+  120          3.00   4.00 8-Christensen-Ring vs 2-Sivapragasam-Jain
+  580          7.00   0.00 14-Pesce-Taylor vs 12-Zaugg-Westgate
+   50          0.50   6.50 15-Marx-Stuberg vs 11-Romeo-James
+  150          4.50   2.50 16-Walker-Fuhrman vs 9-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          6.50   0.50 2-Sivapragasam-Jain vs 1-Ford-Mohrman
+         50    1.00   6.00 4-Campbell-Bartunek vs 8-Christensen-Ring
+         50    1.00   6.00 5-Tipton-Hesson vs 7-Delfs-Anderson
+  120          6.50   0.50 6-Eng-Sieg vs 11-Romeo-James
+  100          4.00   3.00 9-Jacobson-Rind vs 3-Miller-Poore
+  110          5.00   2.00 14-Pesce-Taylor vs 13-Roselle-Jarvis
+         50    1.00   6.00 15-Marx-Stuberg vs 12-Zaugg-Westgate
+   90          3.00   4.00 16-Walker-Fuhrman vs 10-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   5.00 2-Sivapragasam-Jain vs 1-Ford-Mohrman
+        170    2.00   5.00 4-Campbell-Bartunek vs 8-Christensen-Ring
+  110          7.00   0.00 5-Tipton-Hesson vs 7-Delfs-Anderson
+   90          6.00   1.00 6-Eng-Sieg vs 11-Romeo-James
+        100    4.50   2.50 9-Jacobson-Rind vs 3-Miller-Poore
+        100    4.50   2.50 14-Pesce-Taylor vs 13-Roselle-Jarvis
+        620    0.00   7.00 15-Marx-Stuberg vs 12-Zaugg-Westgate
+        170    2.00   5.00 16-Walker-Fuhrman vs 10-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.00   1.00 1-Ford-Mohrman vs 14-Pesce-Taylor
+  110          2.50   4.50 3-Miller-Poore vs 2-Sivapragasam-Jain
+  110          2.50   4.50 5-Tipton-Hesson vs 9-Jacobson-Rind
+  110          2.50   4.50 6-Eng-Sieg vs 8-Christensen-Ring
+  140          6.00   1.00 7-Delfs-Anderson vs 12-Zaugg-Westgate
+        400    0.00   7.00 10-Galer-Vulcan vs 4-Campbell-Bartunek
+  110          2.50   4.50 15-Marx-Stuberg vs 13-Roselle-Jarvis
+  140          6.00   1.00 16-Walker-Fuhrman vs 11-Romeo-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    3.50   3.50 1-Ford-Mohrman vs 14-Pesce-Taylor
+        600    5.50   1.50 3-Miller-Poore vs 2-Sivapragasam-Jain
+        630    3.50   3.50 5-Tipton-Hesson vs 9-Jacobson-Rind
+        150    7.00   0.00 6-Eng-Sieg vs 8-Christensen-Ring
+        660    1.50   5.50 7-Delfs-Anderson vs 12-Zaugg-Westgate
+       1100    0.00   7.00 10-Galer-Vulcan vs 4-Campbell-Bartunek
+        660    1.50   5.50 15-Marx-Stuberg vs 13-Roselle-Jarvis
+        600    5.50   1.50 16-Walker-Fuhrman vs 11-Romeo-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   6.50 2-Sivapragasam-Jain vs 14-Pesce-Taylor
+        100    0.50   6.50 4-Campbell-Bartunek vs 3-Miller-Poore
+  150          5.50   1.50 6-Eng-Sieg vs 10-Galer-Vulcan
+  150          5.50   1.50 7-Delfs-Anderson vs 9-Jacobson-Rind
+  150          5.50   1.50 8-Christensen-Ring vs 13-Roselle-Jarvis
+  140          3.00   4.00 11-Romeo-James vs 5-Tipton-Hesson
+  110          2.00   5.00 15-Marx-Stuberg vs 1-Ford-Mohrman
+  150          5.50   1.50 16-Walker-Fuhrman vs 12-Zaugg-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.50   5.50 2-Sivapragasam-Jain vs 14-Pesce-Taylor
+        400    1.50   5.50 4-Campbell-Bartunek vs 3-Miller-Poore
+        400    1.50   5.50 6-Eng-Sieg vs 10-Galer-Vulcan
+   50          5.00   2.00 7-Delfs-Anderson vs 9-Jacobson-Rind
+        400    1.50   5.50 8-Christensen-Ring vs 13-Roselle-Jarvis
+  100          7.00   0.00 11-Romeo-James vs 5-Tipton-Hesson
+   50          5.00   2.00 15-Marx-Stuberg vs 1-Ford-Mohrman
+   50          5.00   2.00 16-Walker-Fuhrman vs 12-Zaugg-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   4.50 3-Miller-Poore vs 14-Pesce-Taylor
+  400          4.50   2.50 5-Tipton-Hesson vs 4-Campbell-Bartunek
+        100    0.50   6.50 7-Delfs-Anderson vs 11-Romeo-James
+  420          6.00   1.00 8-Christensen-Ring vs 10-Galer-Vulcan
+  400          4.50   2.50 9-Jacobson-Rind vs 1-Ford-Mohrman
+        100    0.50   6.50 12-Zaugg-Westgate vs 6-Eng-Sieg
+         50    2.50   4.50 15-Marx-Stuberg vs 2-Sivapragasam-Jain
+  430          7.00   0.00 16-Walker-Fuhrman vs 13-Roselle-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   6.00 3-Miller-Poore vs 14-Pesce-Taylor
+  170          2.50   4.50 5-Tipton-Hesson vs 4-Campbell-Bartunek
+  200          4.00   3.00 7-Delfs-Anderson vs 11-Romeo-James
+        150    0.00   7.00 8-Christensen-Ring vs 10-Galer-Vulcan
+  790          6.00   1.00 9-Jacobson-Rind vs 1-Ford-Mohrman
+  620          5.00   2.00 12-Zaugg-Westgate vs 6-Eng-Sieg
+  170          2.50   4.50 15-Marx-Stuberg vs 2-Sivapragasam-Jain
+ 1070          7.00   0.00 16-Walker-Fuhrman vs 13-Roselle-Jarvis
+----------------------------------------------------------------------
