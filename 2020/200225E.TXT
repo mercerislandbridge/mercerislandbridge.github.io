@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 25, 2020  |CLUB NO.>158048    | 02/25/2020 22:29
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=5/C=1                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Corneliu Galer         Bogdan Vulcan            B    .     .     .     59.50  44.07          
+
+ 2 John McCaslin          Grant Davis              B    .     .     .     69.00  51.11          
+
+ 3 Terry Jacobson         Brad Rind                C    .     .     .     53.00  39.26          
+
+ 4 Nick Tipton            Galen Hesson             A    3     .     .     75.00  55.56  0.60(A) 
+
+ 5 Dex Stuberg            Joel Fuhrman             A    .     .     .     58.50  43.33          
+
+ 6 Mike Christensen       David Wright             A    1     .     .     87.00  64.44  1.20(A) 
+
+ 7 Thomas Stever          Muhunthan Sivapragasam   B    4     1     .     74.50  55.19  0.42(A) 
+
+ 8 Jeffrey Ford           Sue Anderson             A    5     .     .     73.00  54.07  0.24(A) 
+
+ 9 Ray Miller             David Binney             A    .     .     .     53.00  39.26          
+
+10 David Roselle          Brian Zaugg              A    .     .     .     58.00  42.96          
+
+11 Ann Romeo              Melinda Westgate         B    .     2     .     69.50  51.48  0.28(B) 
+
+12 Shawn Abernethy        Ken Christiansen         A    2     .     .     80.00  59.26  0.84(A) 
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          0.00   5.00 3-Jacobson-Rind vs 11-Romeo-Westgate
+  100          3.50   1.50 5-Stuberg-Fuhrman vs 2-McCaslin-Davis
+  100          3.50   1.50 6-Christensen-Wright vs 10-Roselle-Zaugg
+   90          1.50   3.50 8-Ford-Anderson vs 4-Tipton-Hesson
+   90          1.50   3.50 9-Miller-Binney vs 7-Stever-Sivapragasam
+  470          5.00   0.00 12-Abernethy-Christiansen vs 1-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    1.00   4.00 3-Jacobson-Rind vs 11-Romeo-Westgate
+        550    0.00   5.00 5-Stuberg-Fuhrman vs 2-McCaslin-Davis
+   50          4.00   1.00 6-Christensen-Wright vs 10-Roselle-Zaugg
+        100    3.00   2.00 8-Ford-Anderson vs 4-Tipton-Hesson
+        200    2.00   3.00 9-Miller-Binney vs 7-Stever-Sivapragasam
+  100          5.00   0.00 12-Abernethy-Christiansen vs 1-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   4.00 3-Jacobson-Rind vs 11-Romeo-Westgate
+        200    5.00   0.00 5-Stuberg-Fuhrman vs 2-McCaslin-Davis
+        630    3.00   2.00 6-Christensen-Wright vs 10-Roselle-Zaugg
+        620    4.00   1.00 8-Ford-Anderson vs 4-Tipton-Hesson
+        650    1.00   4.00 9-Miller-Binney vs 7-Stever-Sivapragasam
+        650    1.00   4.00 12-Abernethy-Christiansen vs 1-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   3.50 1-Galer-Vulcan vs 8-Ford-Anderson
+        620    1.50   3.50 6-Christensen-Wright vs 3-Jacobson-Rind
+        170    3.50   1.50 7-Stever-Sivapragasam vs 10-Roselle-Zaugg
+        170    3.50   1.50 9-Miller-Binney vs 5-Stuberg-Fuhrman
+  200          5.00   0.00 11-Romeo-Westgate vs 4-Tipton-Hesson
+        650    0.00   5.00 12-Abernethy-Christiansen vs 2-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   0.50 1-Galer-Vulcan vs 8-Ford-Anderson
+  620          4.50   0.50 6-Christensen-Wright vs 3-Jacobson-Rind
+        100    0.00   5.00 7-Stever-Sivapragasam vs 10-Roselle-Zaugg
+  140          2.00   3.00 9-Miller-Binney vs 5-Stuberg-Fuhrman
+  140          2.00   3.00 11-Romeo-Westgate vs 4-Tipton-Hesson
+  140          2.00   3.00 12-Abernethy-Christiansen vs 2-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.00   5.00 1-Galer-Vulcan vs 8-Ford-Anderson
+        650    2.00   3.00 6-Christensen-Wright vs 3-Jacobson-Rind
+  100          5.00   0.00 7-Stever-Sivapragasam vs 10-Roselle-Zaugg
+        650    2.00   3.00 9-Miller-Binney vs 5-Stuberg-Fuhrman
+        650    2.00   3.00 11-Romeo-Westgate vs 4-Tipton-Hesson
+        620    4.00   1.00 12-Abernethy-Christiansen vs 2-McCaslin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        750    0.00   5.00 1-Galer-Vulcan vs 6-Christensen-Wright
+  100          3.50   1.50 2-McCaslin-Davis vs 9-Miller-Binney
+  100          3.50   1.50 7-Stever-Sivapragasam vs 4-Tipton-Hesson
+        200    2.00   3.00 10-Roselle-Zaugg vs 8-Ford-Anderson
+        500    1.00   4.00 11-Romeo-Westgate vs 5-Stuberg-Fuhrman
+ 1400          5.00   0.00 12-Abernethy-Christiansen vs 3-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   3.50 1-Galer-Vulcan vs 6-Christensen-Wright
+  420          4.50   0.50 2-McCaslin-Davis vs 9-Miller-Binney
+         50    1.50   3.50 7-Stever-Sivapragasam vs 4-Tipton-Hesson
+         50    1.50   3.50 10-Roselle-Zaugg vs 8-Ford-Anderson
+         50    1.50   3.50 11-Romeo-Westgate vs 5-Stuberg-Fuhrman
+  420          4.50   0.50 12-Abernethy-Christiansen vs 3-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   1.00 1-Galer-Vulcan vs 6-Christensen-Wright
+         50    1.00   4.00 2-McCaslin-Davis vs 9-Miller-Binney
+        110    0.00   5.00 7-Stever-Sivapragasam vs 4-Tipton-Hesson
+  500          5.00   0.00 10-Roselle-Zaugg vs 8-Ford-Anderson
+  140          2.00   3.00 11-Romeo-Westgate vs 5-Stuberg-Fuhrman
+  200          3.00   2.00 12-Abernethy-Christiansen vs 3-Jacobson-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   4.00 2-McCaslin-Davis vs 7-Stever-Sivapragasam
+        620    3.00   2.00 3-Jacobson-Rind vs 1-Galer-Vulcan
+        620    3.00   2.00 8-Ford-Anderson vs 5-Stuberg-Fuhrman
+        200    5.00   0.00 10-Roselle-Zaugg vs 9-Miller-Binney
+        800    0.00   5.00 11-Romeo-Westgate vs 6-Christensen-Wright
+        620    3.00   2.00 12-Abernethy-Christiansen vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    2.50   2.50 2-McCaslin-Davis vs 7-Stever-Sivapragasam
+        920    0.50   4.50 3-Jacobson-Rind vs 1-Galer-Vulcan
+        420    4.50   0.50 8-Ford-Anderson vs 5-Stuberg-Fuhrman
+        420    4.50   0.50 10-Roselle-Zaugg vs 9-Miller-Binney
+        920    0.50   4.50 11-Romeo-Westgate vs 6-Christensen-Wright
+        460    2.50   2.50 12-Abernethy-Christiansen vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   2.00 2-McCaslin-Davis vs 7-Stever-Sivapragasam
+  650          3.00   2.00 3-Jacobson-Rind vs 1-Galer-Vulcan
+  650          3.00   2.00 8-Ford-Anderson vs 5-Stuberg-Fuhrman
+  650          3.00   2.00 10-Roselle-Zaugg vs 9-Miller-Binney
+  620          0.00   5.00 11-Romeo-Westgate vs 6-Christensen-Wright
+  650          3.00   2.00 12-Abernethy-Christiansen vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          5.00   0.00 1-Galer-Vulcan vs 10-Roselle-Zaugg
+        200    0.00   5.00 3-Jacobson-Rind vs 8-Ford-Anderson
+        100    2.00   3.00 4-Tipton-Hesson vs 2-McCaslin-Davis
+        100    2.00   3.00 7-Stever-Sivapragasam vs 11-Romeo-Westgate
+  140          4.00   1.00 9-Miller-Binney vs 6-Christensen-Wright
+        100    2.00   3.00 12-Abernethy-Christiansen vs 5-Stuberg-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          4.50   0.50 1-Galer-Vulcan vs 10-Roselle-Zaugg
+  460          3.00   2.00 3-Jacobson-Rind vs 8-Ford-Anderson
+         50    1.00   4.00 4-Tipton-Hesson vs 2-McCaslin-Davis
+         50    1.00   4.00 7-Stever-Sivapragasam vs 11-Romeo-Westgate
+         50    1.00   4.00 9-Miller-Binney vs 6-Christensen-Wright
+  490          4.50   0.50 12-Abernethy-Christiansen vs 5-Stuberg-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 1-Galer-Vulcan vs 10-Roselle-Zaugg
+        200    0.00   5.00 3-Jacobson-Rind vs 8-Ford-Anderson
+  800          5.00   0.00 4-Tipton-Hesson vs 2-McCaslin-Davis
+  300          3.50   1.50 7-Stever-Sivapragasam vs 11-Romeo-Westgate
+  110          2.00   3.00 9-Miller-Binney vs 6-Christensen-Wright
+  300          3.50   1.50 12-Abernethy-Christiansen vs 5-Stuberg-Fuhrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.50   4.50 1-Galer-Vulcan vs 7-Stever-Sivapragasam
+        150    4.00   1.00 2-McCaslin-Davis vs 10-Roselle-Zaugg
+        170    2.50   2.50 4-Tipton-Hesson vs 9-Miller-Binney
+        620    0.50   4.50 5-Stuberg-Fuhrman vs 3-Jacobson-Rind
+  100          5.00   0.00 8-Ford-Anderson vs 11-Romeo-Westgate
+        170    2.50   2.50 12-Abernethy-Christiansen vs 6-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.50   3.50 1-Galer-Vulcan vs 7-Stever-Sivapragasam
+        170    5.00   0.00 2-McCaslin-Davis vs 10-Roselle-Zaugg
+        450    1.50   3.50 4-Tipton-Hesson vs 9-Miller-Binney
+        460    0.00   5.00 5-Stuberg-Fuhrman vs 3-Jacobson-Rind
+        420    3.50   1.50 8-Ford-Anderson vs 11-Romeo-Westgate
+        420    3.50   1.50 12-Abernethy-Christiansen vs 6-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   3.00 1-Galer-Vulcan vs 7-Stever-Sivapragasam
+  120          4.00   1.00 2-McCaslin-Davis vs 10-Roselle-Zaugg
+  150          5.00   0.00 4-Tipton-Hesson vs 9-Miller-Binney
+        100    2.00   3.00 5-Stuberg-Fuhrman vs 3-Jacobson-Rind
+        200    0.00   5.00 8-Ford-Anderson vs 11-Romeo-Westgate
+        100    2.00   3.00 12-Abernethy-Christiansen vs 6-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.00   1.00 2-McCaslin-Davis vs 8-Ford-Anderson
+  170          0.00   5.00 5-Stuberg-Fuhrman vs 1-Galer-Vulcan
+  420          1.50   3.50 6-Christensen-Wright vs 4-Tipton-Hesson
+  420          1.50   3.50 10-Roselle-Zaugg vs 3-Jacobson-Rind
+  450          4.00   1.00 11-Romeo-Westgate vs 9-Miller-Binney
+  450          4.00   1.00 12-Abernethy-Christiansen vs 7-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        720    0.50   4.50 2-McCaslin-Davis vs 8-Ford-Anderson
+  100          3.50   1.50 5-Stuberg-Fuhrman vs 1-Galer-Vulcan
+        720    0.50   4.50 6-Christensen-Wright vs 4-Tipton-Hesson
+  100          3.50   1.50 10-Roselle-Zaugg vs 3-Jacobson-Rind
+  100          3.50   1.50 11-Romeo-Westgate vs 9-Miller-Binney
+  100          3.50   1.50 12-Abernethy-Christiansen vs 7-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   2.00 2-McCaslin-Davis vs 8-Ford-Anderson
+  140          3.00   2.00 5-Stuberg-Fuhrman vs 1-Galer-Vulcan
+  140          3.00   2.00 6-Christensen-Wright vs 4-Tipton-Hesson
+   80          1.00   4.00 10-Roselle-Zaugg vs 3-Jacobson-Rind
+  170          5.00   0.00 11-Romeo-Westgate vs 9-Miller-Binney
+        100    0.00   5.00 12-Abernethy-Christiansen vs 7-Stever-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   5.00 3-Jacobson-Rind vs 9-Miller-Binney
+  600          5.00   0.00 6-Christensen-Wright vs 2-McCaslin-Davis
+  140          3.00   2.00 7-Stever-Sivapragasam vs 5-Stuberg-Fuhrman
+  530          4.00   1.00 10-Roselle-Zaugg vs 4-Tipton-Hesson
+        300    1.00   4.00 11-Romeo-Westgate vs 1-Galer-Vulcan
+  100          2.00   3.00 12-Abernethy-Christiansen vs 8-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   3.50 3-Jacobson-Rind vs 9-Miller-Binney
+  200          5.00   0.00 6-Christensen-Wright vs 2-McCaslin-Davis
+  110          4.00   1.00 7-Stever-Sivapragasam vs 5-Stuberg-Fuhrman
+        200    0.00   5.00 10-Roselle-Zaugg vs 4-Tipton-Hesson
+        100    1.50   3.50 11-Romeo-Westgate vs 1-Galer-Vulcan
+   90          3.00   2.00 12-Abernethy-Christiansen vs 8-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   3.00 3-Jacobson-Rind vs 9-Miller-Binney
+  450          2.00   3.00 6-Christensen-Wright vs 2-McCaslin-Davis
+  450          2.00   3.00 7-Stever-Sivapragasam vs 5-Stuberg-Fuhrman
+  450          2.00   3.00 10-Roselle-Zaugg vs 4-Tipton-Hesson
+  460          5.00   0.00 11-Romeo-Westgate vs 1-Galer-Vulcan
+  450          2.00   3.00 12-Abernethy-Christiansen vs 8-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   3.00 2-McCaslin-Davis vs 11-Romeo-Westgate
+        620    2.00   3.00 4-Tipton-Hesson vs 1-Galer-Vulcan
+        620    2.00   3.00 5-Stuberg-Fuhrman vs 10-Roselle-Zaugg
+  100          5.00   0.00 7-Stever-Sivapragasam vs 3-Jacobson-Rind
+        620    2.00   3.00 8-Ford-Anderson vs 6-Christensen-Wright
+        620    2.00   3.00 12-Abernethy-Christiansen vs 9-Miller-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    3.00   2.00 2-McCaslin-Davis vs 11-Romeo-Westgate
+        630    3.00   2.00 4-Tipton-Hesson vs 1-Galer-Vulcan
+        630    3.00   2.00 5-Stuberg-Fuhrman vs 10-Roselle-Zaugg
+        660    0.50   4.50 7-Stever-Sivapragasam vs 3-Jacobson-Rind
+        660    0.50   4.50 8-Ford-Anderson vs 6-Christensen-Wright
+        600    5.00   0.00 12-Abernethy-Christiansen vs 9-Miller-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          2.50   2.50 2-McCaslin-Davis vs 11-Romeo-Westgate
+  150          5.00   0.00 4-Tipton-Hesson vs 1-Galer-Vulcan
+  120          2.50   2.50 5-Stuberg-Fuhrman vs 10-Roselle-Zaugg
+  120          2.50   2.50 7-Stever-Sivapragasam vs 3-Jacobson-Rind
+         50    0.00   5.00 8-Ford-Anderson vs 6-Christensen-Wright
+  120          2.50   2.50 12-Abernethy-Christiansen vs 9-Miller-Binney
+----------------------------------------------------------------------
