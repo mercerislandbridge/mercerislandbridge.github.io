@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>July 20, 2021      |CLUB NO.>158048    | 07/20/2021 22:24
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=6/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jenni Carmichael       J.C. Chupack             A    .     .     .     68.00  35.98          
+
+ 2 Nelson Davis           Hugh Hendrickson         B    3     .     .     95.00  50.26  0.45(A) 
+
+ 3 Eric Sieg              Gregory Herman           B   4/5    .     .     94.50  50.00  0.25(A) 
+
+ 4 Shawn Abernethy        Mike Ring                B    1     1     .    115.00  60.85  0.90(A) 
+
+ 5 Valliappa Lakshmanan   Peiyush Jain             C    2     2     1    102.50  54.23  0.63(A) 
+
+ 6 Adam Ruprecht          Christopher Jarvis       C   4/5    .     .     94.50  50.00  0.25(A) 
+
+ 7 Pete Cowles            Clay Laughary            C    .     .     .     93.00  49.21          
+
+ 8 Ray Miller             Ann Romeo                A    .     .     .     93.50  49.47          
+
+
+
+
+                                          Totals                         756.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>July 20, 2021      |CLUB NO.>158048    | 07/20/2021 22:24
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=1                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            James Holzhauer          A    .     .     .     88.88  47.03          
+
+ 2 Nick Tipton            Galen Hesson             B    .     .     .     90.56  47.92          
+
+ 3 Kim Eng                Jeffrey Ford             A    4     .     .     98.44  52.08  0.32(A) 
+
+ 4 Aaron Mohrman          Brian Zaugg              B    1     1     .    116.44  61.61  0.90(A) 
+
+ 5 Sue Anderson           David Roselle            B    2     2     .    106.88  56.55  0.63(A) 
+
+ 6 Bogdan Vulcan          Kevin Cline              C    .     .     .     83.81  44.34          
+
+ 7 Chris Pesce            David Taylor             B    .     .     .     79.31  41.96          
+
+ 8 Mike Christensen       Becky Stevens            A    .     .     .     85.50  45.24          
+
+ 9 Howard Epley           Karen Epley              A    3     .     .    100.69  53.28  0.45(A) 
+
+
+                                          Totals                         850.51       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          5.50   1.50 1-Carmichael-Chupack vs 1-Delfs-Holzhauer
+  110          2.50   4.50 2-Davis-Hendrickson vs 3-Eng-Ford
+         50    0.50   6.50 3-Sieg-Herman vs 5-Anderson-Roselle
+  130          5.50   1.50 4-Abernethy-Ring vs 7-Pesce-Taylor
+         50    0.50   6.50 5-Lakshmanan-Jain vs 9-Epley-Epley
+  130          5.50   1.50 6-Ruprecht-Jarvis vs 2-Tipton-Hesson
+  130          5.50   1.50 7-Cowles-Laughary vs 4-Mohrman-Zaugg
+  110          2.50   4.50 8-Miller-Romeo vs 6-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   7.00 1-Carmichael-Chupack vs 1-Delfs-Holzhauer
+   50          3.00   4.00 2-Davis-Hendrickson vs 3-Eng-Ford
+        100    1.50   5.50 3-Sieg-Herman vs 5-Anderson-Roselle
+  300          5.00   2.00 4-Abernethy-Ring vs 7-Pesce-Taylor
+  500          6.50   0.50 5-Lakshmanan-Jain vs 9-Epley-Epley
+        100    1.50   5.50 6-Ruprecht-Jarvis vs 2-Tipton-Hesson
+  500          6.50   0.50 7-Cowles-Laughary vs 4-Mohrman-Zaugg
+  100          4.00   3.00 8-Miller-Romeo vs 6-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.50   6.50 1-Carmichael-Chupack vs 1-Delfs-Holzhauer
+        650    4.50   2.50 2-Davis-Hendrickson vs 3-Eng-Ford
+        650    4.50   2.50 3-Sieg-Herman vs 5-Anderson-Roselle
+        650    4.50   2.50 4-Abernethy-Ring vs 7-Pesce-Taylor
+        650    4.50   2.50 5-Lakshmanan-Jain vs 9-Epley-Epley
+        650    4.50   2.50 6-Ruprecht-Jarvis vs 2-Tipton-Hesson
+        680    0.50   6.50 7-Cowles-Laughary vs 4-Mohrman-Zaugg
+        650    4.50   2.50 8-Miller-Romeo vs 6-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.00   7.00 1-Carmichael-Chupack vs 9-Epley-Epley
+  100          4.50   2.50 2-Davis-Hendrickson vs 2-Tipton-Hesson
+  100          4.50   2.50 3-Sieg-Herman vs 4-Mohrman-Zaugg
+  100          4.50   2.50 4-Abernethy-Ring vs 6-Vulcan-Cline
+  100          4.50   2.50 5-Lakshmanan-Jain vs 8-Christensen-Stevens
+  300          7.00   0.00 6-Ruprecht-Jarvis vs 1-Delfs-Holzhauer
+        600    1.50   5.50 7-Cowles-Laughary vs 3-Eng-Ford
+        600    1.50   5.50 8-Miller-Romeo vs 5-Anderson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   6.00 1-Carmichael-Chupack vs 9-Epley-Epley
+  600          3.00   4.00 2-Davis-Hendrickson vs 2-Tipton-Hesson
+  630          5.00   2.00 3-Sieg-Herman vs 4-Mohrman-Zaugg
+  690          7.00   0.00 4-Abernethy-Ring vs 6-Vulcan-Cline
+  600          3.00   4.00 5-Lakshmanan-Jain vs 8-Christensen-Stevens
+  600          3.00   4.00 6-Ruprecht-Jarvis vs 1-Delfs-Holzhauer
+  660          6.00   1.00 7-Cowles-Laughary vs 3-Eng-Ford
+        100    0.00   7.00 8-Miller-Romeo vs 5-Anderson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   7.00 1-Carmichael-Chupack vs 9-Epley-Epley
+  200          5.00   2.00 2-Davis-Hendrickson vs 2-Tipton-Hesson
+        100    1.00   6.00 3-Sieg-Herman vs 4-Mohrman-Zaugg
+  100          3.00   4.00 4-Abernethy-Ring vs 6-Vulcan-Cline
+  500          7.00   0.00 5-Lakshmanan-Jain vs 8-Christensen-Stevens
+  200          5.00   2.00 6-Ruprecht-Jarvis vs 1-Delfs-Holzhauer
+         90    2.00   5.00 7-Cowles-Laughary vs 3-Eng-Ford
+  200          5.00   2.00 8-Miller-Romeo vs 5-Anderson-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          3.00   4.00 1-Carmichael-Chupack vs 8-Christensen-Stevens
+  630          3.00   4.00 2-Davis-Hendrickson vs 1-Delfs-Holzhauer
+  660          6.50   0.50 3-Sieg-Herman vs 3-Eng-Ford
+  660          6.50   0.50 4-Abernethy-Ring vs 5-Anderson-Roselle
+  650          5.00   2.00 5-Lakshmanan-Jain vs 7-Pesce-Taylor
+  630          3.00   4.00 6-Ruprecht-Jarvis vs 9-Epley-Epley
+  620          1.00   6.00 7-Cowles-Laughary vs 2-Tipton-Hesson
+  180          0.00   7.00 8-Miller-Romeo vs 4-Mohrman-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          3.50   3.50 1-Carmichael-Chupack vs 8-Christensen-Stevens
+  490          6.50   0.50 2-Davis-Hendrickson vs 1-Delfs-Holzhauer
+  490          6.50   0.50 3-Sieg-Herman vs 3-Eng-Ford
+  460          3.50   3.50 4-Abernethy-Ring vs 5-Anderson-Roselle
+        150    0.00   7.00 5-Lakshmanan-Jain vs 7-Pesce-Taylor
+  460          3.50   3.50 6-Ruprecht-Jarvis vs 9-Epley-Epley
+  460          3.50   3.50 7-Cowles-Laughary vs 2-Tipton-Hesson
+  430          1.00   6.00 8-Miller-Romeo vs 4-Mohrman-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   3.00 1-Carmichael-Chupack vs 8-Christensen-Stevens
+        150    5.00   2.00 2-Davis-Hendrickson vs 1-Delfs-Holzhauer
+        500    0.00   7.00 3-Sieg-Herman vs 3-Eng-Ford
+        300    1.50   5.50 4-Abernethy-Ring vs 5-Anderson-Roselle
+        100    6.00   1.00 5-Lakshmanan-Jain vs 7-Pesce-Taylor
+        300    1.50   5.50 6-Ruprecht-Jarvis vs 9-Epley-Epley
+        250    3.00   4.00 7-Cowles-Laughary vs 2-Tipton-Hesson
+  100          7.00   0.00 8-Miller-Romeo vs 4-Mohrman-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    5.00   2.00 1-Carmichael-Chupack vs 7-Pesce-Taylor
+        600    2.50   4.50 2-Davis-Hendrickson vs 9-Epley-Epley
+        130    6.50   0.50 3-Sieg-Herman vs 2-Tipton-Hesson
+        600    2.50   4.50 4-Abernethy-Ring vs 4-Mohrman-Zaugg
+        130    6.50   0.50 5-Lakshmanan-Jain vs 6-Vulcan-Cline
+        600    2.50   4.50 6-Ruprecht-Jarvis vs 8-Christensen-Stevens
+        600    2.50   4.50 7-Cowles-Laughary vs 1-Delfs-Holzhauer
+        800    0.00   7.00 8-Miller-Romeo vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.50   6.50 1-Carmichael-Chupack vs 7-Pesce-Taylor
+        150    0.50   6.50 2-Davis-Hendrickson vs 9-Epley-Epley
+   50          5.50   1.50 3-Sieg-Herman vs 2-Tipton-Hesson
+        120    3.50   3.50 4-Abernethy-Ring vs 4-Mohrman-Zaugg
+  110          7.00   0.00 5-Lakshmanan-Jain vs 6-Vulcan-Cline
+   50          5.50   1.50 6-Ruprecht-Jarvis vs 8-Christensen-Stevens
+        120    3.50   3.50 7-Cowles-Laughary vs 1-Delfs-Holzhauer
+        140    2.00   5.00 8-Miller-Romeo vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   4.50 1-Carmichael-Chupack vs 7-Pesce-Taylor
+  170          2.50   4.50 2-Davis-Hendrickson vs 9-Epley-Epley
+  170          2.50   4.50 3-Sieg-Herman vs 2-Tipton-Hesson
+  620          6.00   1.00 4-Abernethy-Ring vs 4-Mohrman-Zaugg
+  620          6.00   1.00 5-Lakshmanan-Jain vs 6-Vulcan-Cline
+   50          0.00   7.00 6-Ruprecht-Jarvis vs 8-Christensen-Stevens
+  620          6.00   1.00 7-Cowles-Laughary vs 1-Delfs-Holzhauer
+  170          2.50   4.50 8-Miller-Romeo vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   5.00 1-Carmichael-Chupack vs 6-Vulcan-Cline
+  100          2.00   5.00 2-Davis-Hendrickson vs 8-Christensen-Stevens
+        100    0.00   7.00 3-Sieg-Herman vs 1-Delfs-Holzhauer
+  120          5.50   1.50 4-Abernethy-Ring vs 3-Eng-Ford
+  120          5.50   1.50 5-Lakshmanan-Jain vs 5-Anderson-Roselle
+  120          5.50   1.50 6-Ruprecht-Jarvis vs 7-Pesce-Taylor
+  120          5.50   1.50 7-Cowles-Laughary vs 9-Epley-Epley
+  100          2.00   5.00 8-Miller-Romeo vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   6.00 1-Carmichael-Chupack vs 6-Vulcan-Cline
+  130          6.00   1.00 2-Davis-Hendrickson vs 8-Christensen-Stevens
+  100          4.50   2.50 3-Sieg-Herman vs 1-Delfs-Holzhauer
+  300          7.00   0.00 4-Abernethy-Ring vs 3-Eng-Ford
+         50    1.00   6.00 5-Lakshmanan-Jain vs 5-Anderson-Roselle
+   50          3.00   4.00 6-Ruprecht-Jarvis vs 7-Pesce-Taylor
+         50    1.00   6.00 7-Cowles-Laughary vs 9-Epley-Epley
+  100          4.50   2.50 8-Miller-Romeo vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          5.00   2.00 1-Carmichael-Chupack vs 6-Vulcan-Cline
+  100          6.50   0.50 2-Davis-Hendrickson vs 8-Christensen-Stevens
+        140    0.50   6.50 3-Sieg-Herman vs 1-Delfs-Holzhauer
+        140    0.50   6.50 4-Abernethy-Ring vs 3-Eng-Ford
+   50          4.00   3.00 5-Lakshmanan-Jain vs 5-Anderson-Roselle
+  100          6.50   0.50 6-Ruprecht-Jarvis vs 7-Pesce-Taylor
+        100    2.50   4.50 7-Cowles-Laughary vs 9-Epley-Epley
+        100    2.50   4.50 8-Miller-Romeo vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   5.50 1-Carmichael-Chupack vs 5-Anderson-Roselle
+  200          7.00   0.00 2-Davis-Hendrickson vs 7-Pesce-Taylor
+  130          5.50   1.50 3-Sieg-Herman vs 9-Epley-Epley
+  130          5.50   1.50 4-Abernethy-Ring vs 2-Tipton-Hesson
+  110          3.50   3.50 5-Lakshmanan-Jain vs 4-Mohrman-Zaugg
+        100    0.00   7.00 6-Ruprecht-Jarvis vs 6-Vulcan-Cline
+  100          1.50   5.50 7-Cowles-Laughary vs 8-Christensen-Stevens
+  110          3.50   3.50 8-Miller-Romeo vs 1-Delfs-Holzhauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.50   4.50 1-Carmichael-Chupack vs 5-Anderson-Roselle
+        300    5.00   2.00 2-Davis-Hendrickson vs 7-Pesce-Taylor
+        400    2.50   4.50 3-Sieg-Herman vs 9-Epley-Epley
+        400    2.50   4.50 4-Abernethy-Ring vs 2-Tipton-Hesson
+        430    0.00   7.00 5-Lakshmanan-Jain vs 4-Mohrman-Zaugg
+        400    2.50   4.50 6-Ruprecht-Jarvis vs 6-Vulcan-Cline
+        100    6.00   1.00 7-Cowles-Laughary vs 8-Christensen-Stevens
+   50          7.00   0.00 8-Miller-Romeo vs 1-Delfs-Holzhauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    2.50   4.50 1-Carmichael-Chupack vs 5-Anderson-Roselle
+        480    2.50   4.50 2-Davis-Hendrickson vs 7-Pesce-Taylor
+        450    5.50   1.50 3-Sieg-Herman vs 9-Epley-Epley
+   50          7.00   0.00 4-Abernethy-Ring vs 2-Tipton-Hesson
+        490    0.00   7.00 5-Lakshmanan-Jain vs 4-Mohrman-Zaugg
+        450    5.50   1.50 6-Ruprecht-Jarvis vs 6-Vulcan-Cline
+        480    2.50   4.50 7-Cowles-Laughary vs 8-Christensen-Stevens
+        480    2.50   4.50 8-Miller-Romeo vs 1-Delfs-Holzhauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   5.00 1-Carmichael-Chupack vs 4-Mohrman-Zaugg
+   90          4.50   2.50 2-Davis-Hendrickson vs 6-Vulcan-Cline
+  170          7.00   0.00 3-Sieg-Herman vs 8-Christensen-Stevens
+         50    2.00   5.00 4-Abernethy-Ring vs 1-Delfs-Holzhauer
+   90          4.50   2.50 5-Lakshmanan-Jain vs 3-Eng-Ford
+         50    2.00   5.00 6-Ruprecht-Jarvis vs 5-Anderson-Roselle
+        100    0.00   7.00 7-Cowles-Laughary vs 7-Pesce-Taylor
+  110          6.00   1.00 8-Miller-Romeo vs 9-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.00   6.00 1-Carmichael-Chupack vs 4-Mohrman-Zaugg
+  120          5.50   1.50 2-Davis-Hendrickson vs 6-Vulcan-Cline
+        800    0.00   7.00 3-Sieg-Herman vs 8-Christensen-Stevens
+        100    4.00   3.00 4-Abernethy-Ring vs 1-Delfs-Holzhauer
+        200    2.50   4.50 5-Lakshmanan-Jain vs 3-Eng-Ford
+        200    2.50   4.50 6-Ruprecht-Jarvis vs 5-Anderson-Roselle
+  120          5.50   1.50 7-Cowles-Laughary vs 7-Pesce-Taylor
+  600          7.00   0.00 8-Miller-Romeo vs 9-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    0.00   7.00 1-Carmichael-Chupack vs 4-Mohrman-Zaugg
+        100    2.50   4.50 2-Davis-Hendrickson vs 6-Vulcan-Cline
+        100    2.50   4.50 3-Sieg-Herman vs 8-Christensen-Stevens
+        100    2.50   4.50 4-Abernethy-Ring vs 1-Delfs-Holzhauer
+        100    2.50   4.50 5-Lakshmanan-Jain vs 3-Eng-Ford
+   50          5.50   1.50 6-Ruprecht-Jarvis vs 5-Anderson-Roselle
+  140          7.00   0.00 7-Cowles-Laughary vs 7-Pesce-Taylor
+   50          5.50   1.50 8-Miller-Romeo vs 9-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          6.00   1.00 1-Carmichael-Chupack vs 3-Eng-Ford
+         50    2.00   5.00 2-Davis-Hendrickson vs 5-Anderson-Roselle
+         50    2.00   5.00 3-Sieg-Herman vs 7-Pesce-Taylor
+  140          6.00   1.00 4-Abernethy-Ring vs 9-Epley-Epley
+  140          6.00   1.00 5-Lakshmanan-Jain vs 2-Tipton-Hesson
+         50    2.00   5.00 6-Ruprecht-Jarvis vs 4-Mohrman-Zaugg
+         50    2.00   5.00 7-Cowles-Laughary vs 6-Vulcan-Cline
+         50    2.00   5.00 8-Miller-Romeo vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.50   2.50 1-Carmichael-Chupack vs 3-Eng-Ford
+        100    0.50   6.50 2-Davis-Hendrickson vs 5-Anderson-Roselle
+  650          4.50   2.50 3-Sieg-Herman vs 7-Pesce-Taylor
+  650          4.50   2.50 4-Abernethy-Ring vs 9-Epley-Epley
+        100    0.50   6.50 5-Lakshmanan-Jain vs 2-Tipton-Hesson
+  650          4.50   2.50 6-Ruprecht-Jarvis vs 4-Mohrman-Zaugg
+  650          4.50   2.50 7-Cowles-Laughary vs 6-Vulcan-Cline
+  650          4.50   2.50 8-Miller-Romeo vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   2.50 1-Carmichael-Chupack vs 3-Eng-Ford
+  100          6.50   0.50 2-Davis-Hendrickson vs 5-Anderson-Roselle
+        100    3.00   4.00 3-Sieg-Herman vs 7-Pesce-Taylor
+        420    1.00   6.00 4-Abernethy-Ring vs 9-Epley-Epley
+        420    1.00   6.00 5-Lakshmanan-Jain vs 2-Tipton-Hesson
+  100          6.50   0.50 6-Ruprecht-Jarvis vs 4-Mohrman-Zaugg
+        420    1.00   6.00 7-Cowles-Laughary vs 6-Vulcan-Cline
+   50          4.50   2.50 8-Miller-Romeo vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   3.00 1-Carmichael-Chupack vs 2-Tipton-Hesson
+        500    1.00   6.00 2-Davis-Hendrickson vs 4-Mohrman-Zaugg
+        200    4.00   3.00 3-Sieg-Herman vs 6-Vulcan-Cline
+        150    6.50   0.50 4-Abernethy-Ring vs 8-Christensen-Stevens
+        150    6.50   0.50 5-Lakshmanan-Jain vs 1-Delfs-Holzhauer
+        500    1.00   6.00 6-Ruprecht-Jarvis vs 3-Eng-Ford
+        200    4.00   3.00 7-Cowles-Laughary vs 5-Anderson-Roselle
+        500    1.00   6.00 8-Miller-Romeo vs 7-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.00   5.00 1-Carmichael-Chupack vs 2-Tipton-Hesson
+        690    0.50   6.50 2-Davis-Hendrickson vs 4-Mohrman-Zaugg
+        600    4.50   2.50 3-Sieg-Herman vs 6-Vulcan-Cline
+        690    0.50   6.50 4-Abernethy-Ring vs 8-Christensen-Stevens
+        600    4.50   2.50 5-Lakshmanan-Jain vs 1-Delfs-Holzhauer
+        600    4.50   2.50 6-Ruprecht-Jarvis vs 3-Eng-Ford
+        600    4.50   2.50 7-Cowles-Laughary vs 5-Anderson-Roselle
+  100          7.00   0.00 8-Miller-Romeo vs 7-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    4.00   3.00 1-Carmichael-Chupack vs 2-Tipton-Hesson
+        430    0.50   6.50 2-Davis-Hendrickson vs 4-Mohrman-Zaugg
+        400    4.00   3.00 3-Sieg-Herman vs 6-Vulcan-Cline
+        140    7.00   0.00 4-Abernethy-Ring vs 8-Christensen-Stevens
+        400    4.00   3.00 5-Lakshmanan-Jain vs 1-Delfs-Holzhauer
+        430    0.50   6.50 6-Ruprecht-Jarvis vs 3-Eng-Ford
+        400    4.00   3.00 7-Cowles-Laughary vs 5-Anderson-Roselle
+        400    4.00   3.00 8-Miller-Romeo vs 7-Pesce-Taylor
+----------------------------------------------------------------------
