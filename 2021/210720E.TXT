@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>July 20, 2021      |CLUB NO.>158048    | 07/20/2021 22:24
+DATE>July 20, 2021      |CLUB NO.>158048    | 07/27/2021 13:45
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -13,15 +13,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
  1 Jenni Carmichael       J.C. Chupack             A    .     .     .     68.00  35.98          
 
- 2 Nelson Davis           Hugh Hendrickson         B    3     .     .     95.00  50.26  0.45(A) 
+ 2 Nelson Davis           Hugh Hendrickson         B    .     .     .     95.00  50.26          
 
- 3 Eric Sieg              Gregory Herman           B   4/5    .     .     94.50  50.00  0.25(A) 
+ 3 Eric Sieg              Gregory Herman           B   3/4    .     .     95.50  50.53  0.39(A) 
 
  4 Shawn Abernethy        Mike Ring                B    1     1     .    115.00  60.85  0.90(A) 
 
- 5 Valliappa Lakshmanan   Peiyush Jain             C    2     2     1    102.50  54.23  0.63(A) 
+ 5 Valliappa Lakshmanan   Peiyush Jain             C    2     2     1    100.50  53.17  0.63(A) 
 
- 6 Adam Ruprecht          Christopher Jarvis       C   4/5    .     .     94.50  50.00  0.25(A) 
+ 6 Adam Ruprecht          Christopher Jarvis       C   3/4    .     .     95.50  50.53  0.39(A) 
 
  7 Pete Cowles            Clay Laughary            C    .     .     .     93.00  49.21          
 
@@ -33,7 +33,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
                                           Totals                         756.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>July 20, 2021      |CLUB NO.>158048    | 07/20/2021 22:24
+DATE>July 20, 2021      |CLUB NO.>158048    | 07/27/2021 13:45
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -45,7 +45,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
  1 Bryan Delfs            James Holzhauer          A    .     .     .     88.88  47.03          
 
- 2 Nick Tipton            Galen Hesson             B    .     .     .     90.56  47.92          
+ 2 Nick Tipton            Galen Hesson             B    .     .     .     89.44  47.32          
 
  3 Kim Eng                Jeffrey Ford             A    4     .     .     98.44  52.08  0.32(A) 
 
@@ -53,16 +53,16 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  5 Sue Anderson           David Roselle            B    2     2     .    106.88  56.55  0.63(A) 
 
- 6 Bogdan Vulcan          Kevin Cline              C    .     .     .     83.81  44.34          
+ 6 Bogdan Vulcan          Kevin Cline              C    .     .     .     86.06  45.53          
 
  7 Chris Pesce            David Taylor             B    .     .     .     79.31  41.96          
 
- 8 Mike Christensen       Becky Stevens            A    .     .     .     85.50  45.24          
+ 8 Mike Christensen       Becky Stevens            A    .     .     .     84.38  44.65          
 
  9 Howard Epley           Karen Epley              A    3     .     .    100.69  53.28  0.45(A) 
 
 
-                                          Totals                         850.51       
+                                          Totals                         850.52       
 
  RESULTS OF BOARD 1
 
@@ -210,10 +210,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
         150    0.50   6.50 1-Carmichael-Chupack vs 7-Pesce-Taylor
         150    0.50   6.50 2-Davis-Hendrickson vs 9-Epley-Epley
-   50          5.50   1.50 3-Sieg-Herman vs 2-Tipton-Hesson
+   50          6.50   0.50 3-Sieg-Herman vs 2-Tipton-Hesson
         120    3.50   3.50 4-Abernethy-Ring vs 4-Mohrman-Zaugg
-  110          7.00   0.00 5-Lakshmanan-Jain vs 6-Vulcan-Cline
-   50          5.50   1.50 6-Ruprecht-Jarvis vs 8-Christensen-Stevens
+        110    5.00   2.00 5-Lakshmanan-Jain vs 6-Vulcan-Cline
+   50          6.50   0.50 6-Ruprecht-Jarvis vs 8-Christensen-Stevens
         120    3.50   3.50 7-Cowles-Laughary vs 1-Delfs-Holzhauer
         140    2.00   5.00 8-Miller-Romeo vs 3-Eng-Ford
 ----------------------------------------------------------------------
