@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>July 27, 2021      |CLUB NO.>158048    | 07/27/2021 22:09
+DATE>July 27, 2021      |CLUB NO.>158048    | 07/27/2021 22:16
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -13,7 +13,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
 ------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
  1 Kim Eng                Jeffrey Ford             A   Q            3     .     .   |   2     .     .     94.00  55.95  0.95Red 
                                                                                                                         0.95Blk 
- 2 Arvind Ranasaria                                A                .     .     .   |   .     .     .     65.50  38.99          
+ 2 Arvind Ranasaria       Arun Bahulkar            A                .     .     .   |   .     .     .     65.50  38.99          
 
  3 Gregory Herman         Eric Sieg                A   Q            .     .     .   |   .     .     .     88.00  52.38          
 
@@ -31,7 +31,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
                                           Totals                                                         672.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>July 27, 2021      |CLUB NO.>158048    | 07/27/2021 22:09
+DATE>July 27, 2021      |CLUB NO.>158048    | 07/27/2021 22:16
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -65,7 +65,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   430          4.50   2.50 1-Eng-Ford vs 1-Christensen-Wright
-  430          4.50   2.50 2-Ranasaria- vs 3-Tipton-Hesson
+  430          4.50   2.50 2-Ranasaria-Bahulkar vs 3-Tipton-Hesson
   460          6.50   0.50 3-Herman-Sieg vs 5-Roselle-Anderson
   460          6.50   0.50 4-Abernethy-Ring vs 7-Bauer-Romeo
         150    0.00   7.00 5-Jain-Lakshmanan vs 2-White-Gunstone-White
@@ -79,7 +79,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   600          2.00   5.00 1-Eng-Ford vs 1-Christensen-Wright
-  620          5.50   1.50 2-Ranasaria- vs 3-Tipton-Hesson
+  620          5.50   1.50 2-Ranasaria-Bahulkar vs 3-Tipton-Hesson
   500          0.00   7.00 3-Herman-Sieg vs 5-Roselle-Anderson
   620          5.50   1.50 4-Abernethy-Ring vs 7-Bauer-Romeo
   600          2.00   5.00 5-Jain-Lakshmanan vs 2-White-Gunstone-White
@@ -93,7 +93,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   480          7.00   0.00 1-Eng-Ford vs 1-Christensen-Wright
-         50    1.00   6.00 2-Ranasaria- vs 3-Tipton-Hesson
+         50    1.00   6.00 2-Ranasaria-Bahulkar vs 3-Tipton-Hesson
   400          4.50   2.50 3-Herman-Sieg vs 5-Roselle-Anderson
   420          6.00   1.00 4-Abernethy-Ring vs 7-Bauer-Romeo
          50    1.00   6.00 5-Jain-Lakshmanan vs 2-White-Gunstone-White
@@ -107,7 +107,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         400    1.00   6.00 1-Eng-Ford vs 8-Epley-Epley
-        300    2.00   5.00 2-Ranasaria- vs 2-White-Gunstone-White
+        300    2.00   5.00 2-Ranasaria-Bahulkar vs 2-White-Gunstone-White
   100          7.00   0.00 3-Herman-Sieg vs 4-Chupack-Chupack
         140    4.00   3.00 4-Abernethy-Ring vs 6-Hendrickson-Michell
         140    4.00   3.00 5-Jain-Lakshmanan vs 1-Christensen-Wright
@@ -121,7 +121,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   180          7.00   0.00 1-Eng-Ford vs 8-Epley-Epley
-   50          2.50   4.50 2-Ranasaria- vs 2-White-Gunstone-White
+   50          2.50   4.50 2-Ranasaria-Bahulkar vs 2-White-Gunstone-White
   150          6.00   1.00 3-Herman-Sieg vs 4-Chupack-Chupack
    50          2.50   4.50 4-Abernethy-Ring vs 6-Hendrickson-Michell
         110    0.00   7.00 5-Jain-Lakshmanan vs 1-Christensen-Wright
@@ -135,7 +135,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   420          3.00   4.00 1-Eng-Ford vs 8-Epley-Epley
-  170          0.00   7.00 2-Ranasaria- vs 2-White-Gunstone-White
+  170          0.00   7.00 2-Ranasaria-Bahulkar vs 2-White-Gunstone-White
   500          7.00   0.00 3-Herman-Sieg vs 4-Chupack-Chupack
   420          3.00   4.00 4-Abernethy-Ring vs 6-Hendrickson-Michell
   420          3.00   4.00 5-Jain-Lakshmanan vs 1-Christensen-Wright
@@ -149,7 +149,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   600          4.50   2.50 1-Eng-Ford vs 7-Bauer-Romeo
-  600          4.50   2.50 2-Ranasaria- vs 1-Christensen-Wright
+  600          4.50   2.50 2-Ranasaria-Bahulkar vs 1-Christensen-Wright
   600          4.50   2.50 3-Herman-Sieg vs 3-Tipton-Hesson
         500    0.00   7.00 4-Abernethy-Ring vs 5-Roselle-Anderson
   600          4.50   2.50 5-Jain-Lakshmanan vs 8-Epley-Epley
@@ -163,7 +163,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         100    3.00   4.00 1-Eng-Ford vs 7-Bauer-Romeo
-         90    6.00   1.00 2-Ranasaria- vs 1-Christensen-Wright
+         90    6.00   1.00 2-Ranasaria-Bahulkar vs 1-Christensen-Wright
         100    3.00   4.00 3-Herman-Sieg vs 3-Tipton-Hesson
         100    3.00   4.00 4-Abernethy-Ring vs 5-Roselle-Anderson
         100    3.00   4.00 5-Jain-Lakshmanan vs 8-Epley-Epley
@@ -177,7 +177,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         170    3.50   3.50 1-Eng-Ford vs 7-Bauer-Romeo
-        620    0.00   7.00 2-Ranasaria- vs 1-Christensen-Wright
+        620    0.00   7.00 2-Ranasaria-Bahulkar vs 1-Christensen-Wright
         300    1.50   5.50 3-Herman-Sieg vs 3-Tipton-Hesson
         300    1.50   5.50 4-Abernethy-Ring vs 5-Roselle-Anderson
         170    3.50   3.50 5-Jain-Lakshmanan vs 8-Epley-Epley
@@ -191,7 +191,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         600    3.00   4.00 1-Eng-Ford vs 6-Hendrickson-Michell
-        600    3.00   4.00 2-Ranasaria- vs 8-Epley-Epley
+        600    3.00   4.00 2-Ranasaria-Bahulkar vs 8-Epley-Epley
         600    3.00   4.00 3-Herman-Sieg vs 2-White-Gunstone-White
         500    7.00   0.00 4-Abernethy-Ring vs 4-Chupack-Chupack
         600    3.00   4.00 5-Jain-Lakshmanan vs 7-Bauer-Romeo
@@ -205,7 +205,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
    50          5.50   1.50 1-Eng-Ford vs 6-Hendrickson-Michell
-         50    4.00   3.00 2-Ranasaria- vs 8-Epley-Epley
+         50    4.00   3.00 2-Ranasaria-Bahulkar vs 8-Epley-Epley
         140    2.50   4.50 3-Herman-Sieg vs 2-White-Gunstone-White
         640    0.00   7.00 4-Abernethy-Ring vs 4-Chupack-Chupack
    50          5.50   1.50 5-Jain-Lakshmanan vs 7-Bauer-Romeo
@@ -219,7 +219,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   620          5.50   1.50 1-Eng-Ford vs 6-Hendrickson-Michell
-        100    1.50   5.50 2-Ranasaria- vs 8-Epley-Epley
+        100    1.50   5.50 2-Ranasaria-Bahulkar vs 8-Epley-Epley
         100    1.50   5.50 3-Herman-Sieg vs 2-White-Gunstone-White
   620          5.50   1.50 4-Abernethy-Ring vs 4-Chupack-Chupack
   170          3.00   4.00 5-Jain-Lakshmanan vs 7-Bauer-Romeo
@@ -233,7 +233,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         620    1.50   5.50 1-Eng-Ford vs 5-Roselle-Anderson
-        200    5.00   2.00 2-Ranasaria- vs 7-Bauer-Romeo
+        200    5.00   2.00 2-Ranasaria-Bahulkar vs 7-Bauer-Romeo
         650    0.00   7.00 3-Herman-Sieg vs 1-Christensen-Wright
         620    1.50   5.50 4-Abernethy-Ring vs 3-Tipton-Hesson
         150    7.00   0.00 5-Jain-Lakshmanan vs 6-Hendrickson-Michell
@@ -247,7 +247,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   480          3.50   3.50 1-Eng-Ford vs 5-Roselle-Anderson
-  480          3.50   3.50 2-Ranasaria- vs 7-Bauer-Romeo
+  480          3.50   3.50 2-Ranasaria-Bahulkar vs 7-Bauer-Romeo
   980          7.00   0.00 3-Herman-Sieg vs 1-Christensen-Wright
   450          0.00   7.00 4-Abernethy-Ring vs 3-Tipton-Hesson
   480          3.50   3.50 5-Jain-Lakshmanan vs 6-Hendrickson-Michell
@@ -261,7 +261,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
  1430          4.50   2.50 1-Eng-Ford vs 5-Roselle-Anderson
-  690          2.00   5.00 2-Ranasaria- vs 7-Bauer-Romeo
+  690          2.00   5.00 2-Ranasaria-Bahulkar vs 7-Bauer-Romeo
  1430          4.50   2.50 3-Herman-Sieg vs 1-Christensen-Wright
         100    0.00   7.00 4-Abernethy-Ring vs 3-Tipton-Hesson
  1440          7.00   0.00 5-Jain-Lakshmanan vs 6-Hendrickson-Michell
@@ -275,7 +275,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   140          7.00   0.00 1-Eng-Ford vs 4-Chupack-Chupack
-        380    0.00   7.00 2-Ranasaria- vs 6-Hendrickson-Michell
+        380    0.00   7.00 2-Ranasaria-Bahulkar vs 6-Hendrickson-Michell
          50    3.00   4.00 3-Herman-Sieg vs 8-Epley-Epley
   110          5.00   2.00 4-Abernethy-Ring vs 2-White-Gunstone-White
   120          6.00   1.00 5-Jain-Lakshmanan vs 5-Roselle-Anderson
@@ -289,7 +289,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         100    0.50   6.50 1-Eng-Ford vs 4-Chupack-Chupack
-         50    2.00   5.00 2-Ranasaria- vs 6-Hendrickson-Michell
+         50    2.00   5.00 2-Ranasaria-Bahulkar vs 6-Hendrickson-Michell
         100    0.50   6.50 3-Herman-Sieg vs 8-Epley-Epley
   430          3.00   4.00 4-Abernethy-Ring vs 2-White-Gunstone-White
   490          5.00   2.00 5-Jain-Lakshmanan vs 5-Roselle-Anderson
@@ -303,7 +303,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   620          5.00   2.00 1-Eng-Ford vs 4-Chupack-Chupack
-  620          5.00   2.00 2-Ranasaria- vs 6-Hendrickson-Michell
+  620          5.00   2.00 2-Ranasaria-Bahulkar vs 6-Hendrickson-Michell
  1370          7.00   0.00 3-Herman-Sieg vs 8-Epley-Epley
   150          0.50   6.50 4-Abernethy-Ring vs 2-White-Gunstone-White
   620          5.00   2.00 5-Jain-Lakshmanan vs 5-Roselle-Anderson
@@ -317,7 +317,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         650    2.50   4.50 1-Eng-Ford vs 3-Tipton-Hesson
-        650    2.50   4.50 2-Ranasaria- vs 5-Roselle-Anderson
+        650    2.50   4.50 2-Ranasaria-Bahulkar vs 5-Roselle-Anderson
         650    2.50   4.50 3-Herman-Sieg vs 7-Bauer-Romeo
         650    2.50   4.50 4-Abernethy-Ring vs 1-Christensen-Wright
   100          6.50   0.50 5-Jain-Lakshmanan vs 4-Chupack-Chupack
@@ -331,7 +331,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
    80          6.00   1.00 1-Eng-Ford vs 3-Tipton-Hesson
-        120    2.00   5.00 2-Ranasaria- vs 5-Roselle-Anderson
+        120    2.00   5.00 2-Ranasaria-Bahulkar vs 5-Roselle-Anderson
          90    5.00   2.00 3-Herman-Sieg vs 7-Bauer-Romeo
   100          7.00   0.00 4-Abernethy-Ring vs 1-Christensen-Wright
         110    3.00   4.00 5-Jain-Lakshmanan vs 4-Chupack-Chupack
@@ -345,7 +345,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   300          7.00   0.00 1-Eng-Ford vs 3-Tipton-Hesson
-        180    0.00   7.00 2-Ranasaria- vs 5-Roselle-Anderson
+        180    0.00   7.00 2-Ranasaria-Bahulkar vs 5-Roselle-Anderson
         140    1.00   6.00 3-Herman-Sieg vs 7-Bauer-Romeo
          90    2.00   5.00 4-Abernethy-Ring vs 1-Christensen-Wright
   130          3.00   4.00 5-Jain-Lakshmanan vs 4-Chupack-Chupack
@@ -359,7 +359,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         620    4.50   2.50 1-Eng-Ford vs 2-White-Gunstone-White
-        650    1.00   6.00 2-Ranasaria- vs 4-Chupack-Chupack
+        650    1.00   6.00 2-Ranasaria-Bahulkar vs 4-Chupack-Chupack
         620    4.50   2.50 3-Herman-Sieg vs 6-Hendrickson-Michell
         620    4.50   2.50 4-Abernethy-Ring vs 8-Epley-Epley
         620    4.50   2.50 5-Jain-Lakshmanan vs 3-Tipton-Hesson
@@ -373,7 +373,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         100    2.50   4.50 1-Eng-Ford vs 2-White-Gunstone-White
-        110    1.00   6.00 2-Ranasaria- vs 4-Chupack-Chupack
+        110    1.00   6.00 2-Ranasaria-Bahulkar vs 4-Chupack-Chupack
         500    0.00   7.00 3-Herman-Sieg vs 6-Hendrickson-Michell
   140          6.00   1.00 4-Abernethy-Ring vs 8-Epley-Epley
         100    2.50   4.50 5-Jain-Lakshmanan vs 3-Tipton-Hesson
@@ -387,7 +387,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         510    0.00   7.00 1-Eng-Ford vs 2-White-Gunstone-White
-  110          7.00   0.00 2-Ranasaria- vs 4-Chupack-Chupack
+  110          7.00   0.00 2-Ranasaria-Bahulkar vs 4-Chupack-Chupack
    50          6.00   1.00 3-Herman-Sieg vs 6-Hendrickson-Michell
         110    3.50   3.50 4-Abernethy-Ring vs 8-Epley-Epley
         100    5.00   2.00 5-Jain-Lakshmanan vs 3-Tipton-Hesson
