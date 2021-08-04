@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 3, 2021     |CLUB NO.>158048    | 08/03/2021 22:24
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=8/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Eric Sieg              Matthew Weingarten       A    1     .     .     75.00  62.50  1.30(A) 
+
+
+
+ 3 Hugh Hendrickson       Ann Romeo                B    .     .     .     54.00  45.00          
+
+ 4 Rui Gong               Nathan Gong              C    .     .     .     47.00  39.17          
+
+ 5 David Wright           Brian Zaugg              B    2     1     .     72.00  60.00  0.91(A) 
+
+ 6 Howard Epley           Karen Epley              A   5/6    .     .     61.00  50.83  0.24(A) 
+
+ 7 Ray Miller             Jeffrey Ford             A    .     .     .     59.50  49.58          
+
+ 8 Valliappa Lakshmanan   Aaron Mohrman            C    .     .     .     51.00  42.50          
+
+ 9 Chris Moore            Kim Eng                  A    4     .     .     63.50  52.92  0.46(A) 
+
+10 Nick Tipton            Galen Hesson             B   5/6    2     .     61.00  50.83  0.45(B) 
+
+11 Mike Christensen       Mike Ring                A    3     .     .     67.00  55.83  0.65(A) 
+
+12 David Taylor           Sue Anderson             B    .     3     .     60.50  50.42  0.32(B) 
+
+13 Adam Ruprecht          Christopher Jarvis       B    .     .     .     58.50  48.75          
+
+14 Peiyush Jain           Arvind Ranasaria         B    .     .     .     50.00  41.67          
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 1-Sieg-Weingarten vs 3-Hendrickson-Romeo
+  100          4.00   1.00 4-Gong-Gong vs 9-Moore-Eng
+   50          2.00   3.00 5-Wright-Zaugg vs 12-Taylor-Anderson
+  100          4.00   1.00 7-Miller-Ford vs 8-Lakshmanan-Mohrman
+        140    1.00   4.00 13-Ruprecht-Jarvis vs 10-Tipton-Hesson
+        400    0.00   5.00 14-Jain-Ranasaria vs 11-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.50   3.50 1-Sieg-Weingarten vs 3-Hendrickson-Romeo
+        150    1.50   3.50 4-Gong-Gong vs 9-Moore-Eng
+        150    1.50   3.50 5-Wright-Zaugg vs 12-Taylor-Anderson
+        150    1.50   3.50 7-Miller-Ford vs 8-Lakshmanan-Mohrman
+  150          4.50   0.50 13-Ruprecht-Jarvis vs 10-Tipton-Hesson
+  150          4.50   0.50 14-Jain-Ranasaria vs 11-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          3.50   1.50 1-Sieg-Weingarten vs 11-Christensen-Ring
+  430          0.50   4.50 3-Hendrickson-Romeo vs 7-Miller-Ford
+  920          5.00   0.00 5-Wright-Zaugg vs 10-Tipton-Hesson
+  430          0.50   4.50 6-Epley-Epley vs 13-Ruprecht-Jarvis
+  460          2.00   3.00 8-Lakshmanan-Mohrman vs 9-Moore-Eng
+  490          3.50   1.50 14-Jain-Ranasaria vs 12-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          1.00   4.00 1-Sieg-Weingarten vs 11-Christensen-Ring
+  630          5.00   0.00 3-Hendrickson-Romeo vs 7-Miller-Ford
+  150          2.50   2.50 5-Wright-Zaugg vs 10-Tipton-Hesson
+  170          4.00   1.00 6-Epley-Epley vs 13-Ruprecht-Jarvis
+   90          0.00   5.00 8-Lakshmanan-Mohrman vs 9-Moore-Eng
+  150          2.50   2.50 14-Jain-Ranasaria vs 12-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    0.50   4.50 3-Hendrickson-Romeo vs 5-Wright-Zaugg
+        400    5.00   0.00 4-Gong-Gong vs 8-Lakshmanan-Mohrman
+        490    0.50   4.50 6-Epley-Epley vs 11-Christensen-Ring
+        460    2.00   3.00 7-Miller-Ford vs 1-Sieg-Weingarten
+        450    3.00   2.00 9-Moore-Eng vs 10-Tipton-Hesson
+        420    4.00   1.00 14-Jain-Ranasaria vs 13-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   1.00 3-Hendrickson-Romeo vs 5-Wright-Zaugg
+         50    0.50   4.50 4-Gong-Gong vs 8-Lakshmanan-Mohrman
+  170          4.00   1.00 6-Epley-Epley vs 11-Christensen-Ring
+  140          2.00   3.00 7-Miller-Ford vs 1-Sieg-Weingarten
+  170          4.00   1.00 9-Moore-Eng vs 10-Tipton-Hesson
+         50    0.50   4.50 14-Jain-Ranasaria vs 13-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 3-Hendrickson-Romeo vs 13-Ruprecht-Jarvis
+  600          5.00   0.00 4-Gong-Gong vs 6-Epley-Epley
+  130          3.00   2.00 5-Wright-Zaugg vs 9-Moore-Eng
+  130          3.00   2.00 7-Miller-Ford vs 12-Taylor-Anderson
+  130          3.00   2.00 10-Tipton-Hesson vs 11-Christensen-Ring
+        500    0.00   5.00 14-Jain-Ranasaria vs 1-Sieg-Weingarten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.00   2.00 3-Hendrickson-Romeo vs 13-Ruprecht-Jarvis
+        450    3.00   2.00 4-Gong-Gong vs 6-Epley-Epley
+        450    3.00   2.00 5-Wright-Zaugg vs 9-Moore-Eng
+        480    0.50   4.50 7-Miller-Ford vs 12-Taylor-Anderson
+        420    5.00   0.00 10-Tipton-Hesson vs 11-Christensen-Ring
+        480    0.50   4.50 14-Jain-Ranasaria vs 1-Sieg-Weingarten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   5.00 4-Gong-Gong vs 1-Sieg-Weingarten
+        620    2.50   2.50 5-Wright-Zaugg vs 7-Miller-Ford
+  100          4.50   0.50 6-Epley-Epley vs 10-Tipton-Hesson
+        620    2.50   2.50 8-Lakshmanan-Mohrman vs 13-Ruprecht-Jarvis
+        630    1.00   4.00 9-Moore-Eng vs 3-Hendrickson-Romeo
+  100          4.50   0.50 11-Christensen-Ring vs 12-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 4-Gong-Gong vs 1-Sieg-Weingarten
+        200    0.00   5.00 5-Wright-Zaugg vs 7-Miller-Ford
+  680          4.50   0.50 6-Epley-Epley vs 10-Tipton-Hesson
+  650          2.50   2.50 8-Lakshmanan-Mohrman vs 13-Ruprecht-Jarvis
+  650          2.50   2.50 9-Moore-Eng vs 3-Hendrickson-Romeo
+  680          4.50   0.50 11-Christensen-Ring vs 12-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          5.00   0.00 6-Epley-Epley vs 8-Lakshmanan-Mohrman
+        550    0.00   5.00 7-Miller-Ford vs 11-Christensen-Ring
+  100          4.00   1.00 9-Moore-Eng vs 1-Sieg-Weingarten
+   50          3.00   2.00 10-Tipton-Hesson vs 4-Gong-Gong
+         50    2.00   3.00 12-Taylor-Anderson vs 13-Ruprecht-Jarvis
+        400    1.00   4.00 14-Jain-Ranasaria vs 3-Hendrickson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.50   0.50 6-Epley-Epley vs 8-Lakshmanan-Mohrman
+        140    1.50   3.50 7-Miller-Ford vs 11-Christensen-Ring
+        140    1.50   3.50 9-Moore-Eng vs 1-Sieg-Weingarten
+        140    1.50   3.50 10-Tipton-Hesson vs 4-Gong-Gong
+        140    1.50   3.50 12-Taylor-Anderson vs 13-Ruprecht-Jarvis
+        110    4.50   0.50 14-Jain-Ranasaria vs 3-Hendrickson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          4.50   0.50 6-Epley-Epley vs 3-Hendrickson-Romeo
+  300          3.00   2.00 7-Miller-Ford vs 9-Moore-Eng
+        100    1.50   3.50 8-Lakshmanan-Mohrman vs 12-Taylor-Anderson
+        100    1.50   3.50 11-Christensen-Ring vs 5-Wright-Zaugg
+        200    0.00   5.00 13-Ruprecht-Jarvis vs 1-Sieg-Weingarten
+  600          4.50   0.50 14-Jain-Ranasaria vs 4-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   0.50 6-Epley-Epley vs 3-Hendrickson-Romeo
+        100    1.00   4.00 7-Miller-Ford vs 9-Moore-Eng
+  100          4.50   0.50 8-Lakshmanan-Mohrman vs 12-Taylor-Anderson
+         50    3.00   2.00 11-Christensen-Ring vs 5-Wright-Zaugg
+        100    1.00   4.00 13-Ruprecht-Jarvis vs 1-Sieg-Weingarten
+        100    1.00   4.00 14-Jain-Ranasaria vs 4-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    5.00   0.00 7-Miller-Ford vs 4-Gong-Gong
+        500    1.50   3.50 8-Lakshmanan-Mohrman vs 10-Tipton-Hesson
+        500    1.50   3.50 9-Moore-Eng vs 13-Ruprecht-Jarvis
+        200    4.00   1.00 11-Christensen-Ring vs 3-Hendrickson-Romeo
+        300    3.00   2.00 12-Taylor-Anderson vs 6-Epley-Epley
+        800    0.00   5.00 14-Jain-Ranasaria vs 5-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.50   2.50 7-Miller-Ford vs 4-Gong-Gong
+  170          0.50   4.50 8-Lakshmanan-Mohrman vs 10-Tipton-Hesson
+  200          2.50   2.50 9-Moore-Eng vs 13-Ruprecht-Jarvis
+  170          0.50   4.50 11-Christensen-Ring vs 3-Hendrickson-Romeo
+  420          4.50   0.50 12-Taylor-Anderson vs 6-Epley-Epley
+  420          4.50   0.50 14-Jain-Ranasaria vs 5-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.50   4.50 8-Lakshmanan-Mohrman vs 5-Wright-Zaugg
+        400    0.50   4.50 9-Moore-Eng vs 11-Christensen-Ring
+   50          4.50   0.50 10-Tipton-Hesson vs 1-Sieg-Weingarten
+   50          4.50   0.50 12-Taylor-Anderson vs 4-Gong-Gong
+        150    2.00   3.00 13-Ruprecht-Jarvis vs 7-Miller-Ford
+        120    3.00   2.00 14-Jain-Ranasaria vs 6-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.00   5.00 8-Lakshmanan-Mohrman vs 5-Wright-Zaugg
+        420    3.00   2.00 9-Moore-Eng vs 11-Christensen-Ring
+        420    3.00   2.00 10-Tipton-Hesson vs 1-Sieg-Weingarten
+        420    3.00   2.00 12-Taylor-Anderson vs 4-Gong-Gong
+        420    3.00   2.00 13-Ruprecht-Jarvis vs 7-Miller-Ford
+        420    3.00   2.00 14-Jain-Ranasaria vs 6-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    3.00   2.00 1-Sieg-Weingarten vs 8-Lakshmanan-Mohrman
+        720    4.50   0.50 3-Hendrickson-Romeo vs 4-Gong-Gong
+        720    4.50   0.50 9-Moore-Eng vs 6-Epley-Epley
+       1470    1.00   4.00 10-Tipton-Hesson vs 12-Taylor-Anderson
+       1470    1.00   4.00 13-Ruprecht-Jarvis vs 5-Wright-Zaugg
+       1470    1.00   4.00 14-Jain-Ranasaria vs 7-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          4.00   1.00 1-Sieg-Weingarten vs 8-Lakshmanan-Mohrman
+  600          1.00   4.00 3-Hendrickson-Romeo vs 4-Gong-Gong
+  660          4.00   1.00 9-Moore-Eng vs 6-Epley-Epley
+  660          4.00   1.00 10-Tipton-Hesson vs 12-Taylor-Anderson
+  600          1.00   4.00 13-Ruprecht-Jarvis vs 5-Wright-Zaugg
+  600          1.00   4.00 14-Jain-Ranasaria vs 7-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.50   2.50 1-Sieg-Weingarten vs 6-Epley-Epley
+        450    0.50   4.50 4-Gong-Gong vs 5-Wright-Zaugg
+        420    4.50   0.50 10-Tipton-Hesson vs 7-Miller-Ford
+        420    4.50   0.50 11-Christensen-Ring vs 13-Ruprecht-Jarvis
+        430    2.50   2.50 12-Taylor-Anderson vs 3-Hendrickson-Romeo
+        450    0.50   4.50 14-Jain-Ranasaria vs 8-Lakshmanan-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   2.00 1-Sieg-Weingarten vs 6-Epley-Epley
+        650    0.00   5.00 4-Gong-Gong vs 5-Wright-Zaugg
+  200          3.00   2.00 10-Tipton-Hesson vs 7-Miller-Ford
+  500          5.00   0.00 11-Christensen-Ring vs 13-Ruprecht-Jarvis
+  200          3.00   2.00 12-Taylor-Anderson vs 3-Hendrickson-Romeo
+        500    1.00   4.00 14-Jain-Ranasaria vs 8-Lakshmanan-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    1.50   3.50 3-Hendrickson-Romeo vs 10-Tipton-Hesson
+        600    4.00   1.00 5-Wright-Zaugg vs 6-Epley-Epley
+        630    1.50   3.50 11-Christensen-Ring vs 8-Lakshmanan-Mohrman
+        630    1.50   3.50 12-Taylor-Anderson vs 1-Sieg-Weingarten
+  100          5.00   0.00 13-Ruprecht-Jarvis vs 4-Gong-Gong
+        630    1.50   3.50 14-Jain-Ranasaria vs 9-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          4.00   1.00 3-Hendrickson-Romeo vs 10-Tipton-Hesson
+        150    0.00   5.00 5-Wright-Zaugg vs 6-Epley-Epley
+        100    1.50   3.50 11-Christensen-Ring vs 8-Lakshmanan-Mohrman
+        100    1.50   3.50 12-Taylor-Anderson vs 1-Sieg-Weingarten
+ 1100          5.00   0.00 13-Ruprecht-Jarvis vs 4-Gong-Gong
+         50    3.00   2.00 14-Jain-Ranasaria vs 9-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 1-Sieg-Weingarten vs 5-Wright-Zaugg
+         50    1.50   3.50 3-Hendrickson-Romeo vs 8-Lakshmanan-Mohrman
+  170          4.00   1.00 4-Gong-Gong vs 11-Christensen-Ring
+        100    0.00   5.00 6-Epley-Epley vs 7-Miller-Ford
+         50    1.50   3.50 12-Taylor-Anderson vs 9-Moore-Eng
+  140          3.00   2.00 14-Jain-Ranasaria vs 10-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 1-Sieg-Weingarten vs 5-Wright-Zaugg
+        100    1.00   4.00 3-Hendrickson-Romeo vs 8-Lakshmanan-Mohrman
+  130          3.00   2.00 4-Gong-Gong vs 11-Christensen-Ring
+  200          4.00   1.00 6-Epley-Epley vs 7-Miller-Ford
+  300          5.00   0.00 12-Taylor-Anderson vs 9-Moore-Eng
+  100          2.00   3.00 14-Jain-Ranasaria vs 10-Tipton-Hesson
+----------------------------------------------------------------------
