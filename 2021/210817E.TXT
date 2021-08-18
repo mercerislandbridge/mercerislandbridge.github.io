@@ -1,0 +1,336 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 17, 2021    |CLUB NO.>158048    | 08/17/2021 22:18
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=8/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Wright           Sue Anderson             C    2     1     .     61.88  57.30  0.77(A) 
+
+ 2 Bogdan Vulcan          Brian Zaugg              B    .     .     .     50.06  46.35          
+
+ 3 Gregory Herman         Eric Sieg                B    .     .     .     50.06  46.35          
+
+ 4 Becky Stevens          Ann Romeo                B    .     .     .     32.63  30.21          
+
+ 5 Ray Miller             Chris Moore              A    3     .     .     60.19  55.73  0.55(A) 
+
+ 6 Nick Tipton            Galen Hesson             B    .     3     .     54.50  50.46  0.32(B) 
+
+
+
+ 8 Bryan Delfs            Mike Christensen         A    .     .     .     56.00  51.85          
+
+ 9 Kim Eng                Andrew Sherrill          B    4     2     .     56.25  52.08  0.45(B) 
+
+10 Shawn Abernethy        Mike Ring                B    .     .     .     47.25  43.75          
+
+11 Howard Epley           Karen Epley              A    1     .     .     72.00  66.67  1.10(A) 
+
+12 Rui Gong               Nathan Gong              C    .     .     .     52.88  48.96          
+
+
+                                          Totals                         593.70       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   1.50 3-Herman-Sieg vs 11-Epley-Epley
+  490          4.00   0.00 5-Miller-Moore vs 2-Vulcan-Zaugg
+  420          0.50   3.50 6-Tipton-Hesson vs 10-Abernethy-Ring
+  420          0.50   3.50 8-Delfs-Christensen vs 4-Stevens-Romeo
+  450          2.50   1.50 12-Gong-Gong vs 1-Wright-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   3.00 3-Herman-Sieg vs 11-Epley-Epley
+        150    3.00   1.00 5-Miller-Moore vs 2-Vulcan-Zaugg
+        230    2.00   2.00 6-Tipton-Hesson vs 10-Abernethy-Ring
+   50          4.00   0.00 8-Delfs-Christensen vs 4-Stevens-Romeo
+        450    0.00   4.00 12-Gong-Gong vs 1-Wright-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   3.00 3-Herman-Sieg vs 11-Epley-Epley
+        250    0.00   4.00 5-Miller-Moore vs 2-Vulcan-Zaugg
+  110          3.50   0.50 6-Tipton-Hesson vs 10-Abernethy-Ring
+         50    2.00   2.00 8-Delfs-Christensen vs 4-Stevens-Romeo
+  110          3.50   0.50 12-Gong-Gong vs 1-Wright-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   1.00 1-Wright-Anderson vs 8-Delfs-Christensen
+        110    0.00   4.00 6-Tipton-Hesson vs 3-Herman-Sieg
+  100          1.50   2.50 9-Eng-Sherrill vs 5-Miller-Moore
+  150          4.00   0.00 11-Epley-Epley vs 4-Stevens-Romeo
+  100          1.50   2.50 12-Gong-Gong vs 2-Vulcan-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   3.00 1-Wright-Anderson vs 8-Delfs-Christensen
+        110    3.00   1.00 6-Tipton-Hesson vs 3-Herman-Sieg
+  380          4.00   0.00 9-Eng-Sherrill vs 5-Miller-Moore
+        130    2.00   2.00 11-Epley-Epley vs 4-Stevens-Romeo
+        400    0.00   4.00 12-Gong-Gong vs 2-Vulcan-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          3.00   1.00 1-Wright-Anderson vs 8-Delfs-Christensen
+  420          1.50   2.50 6-Tipton-Hesson vs 3-Herman-Sieg
+         50    0.00   4.00 9-Eng-Sherrill vs 5-Miller-Moore
+  650          4.00   0.00 11-Epley-Epley vs 4-Stevens-Romeo
+  420          1.50   2.50 12-Gong-Gong vs 2-Vulcan-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.00   4.00 1-Wright-Anderson vs 6-Tipton-Hesson
+        100    1.00   3.00 2-Vulcan-Zaugg vs 9-Eng-Sherrill
+  850          3.00   1.00 10-Abernethy-Ring vs 8-Delfs-Christensen
+  850          3.00   1.00 11-Epley-Epley vs 5-Miller-Moore
+  850          3.00   1.00 12-Gong-Gong vs 3-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.00   1.00 1-Wright-Anderson vs 6-Tipton-Hesson
+  450          1.50   2.50 2-Vulcan-Zaugg vs 9-Eng-Sherrill
+  200          0.00   4.00 10-Abernethy-Ring vs 8-Delfs-Christensen
+  800          4.00   0.00 11-Epley-Epley vs 5-Miller-Moore
+  450          1.50   2.50 12-Gong-Gong vs 3-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.00   1.00 1-Wright-Anderson vs 6-Tipton-Hesson
+         50    1.00   3.00 2-Vulcan-Zaugg vs 9-Eng-Sherrill
+         50    1.00   3.00 10-Abernethy-Ring vs 8-Delfs-Christensen
+  420          4.00   0.00 11-Epley-Epley vs 5-Miller-Moore
+         50    1.00   3.00 12-Gong-Gong vs 3-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          0.50   3.50 3-Herman-Sieg vs 1-Wright-Anderson
+  660          3.50   0.50 8-Delfs-Christensen vs 5-Miller-Moore
+  630          2.00   2.00 10-Abernethy-Ring vs 9-Eng-Sherrill
+  620          0.50   3.50 11-Epley-Epley vs 6-Tipton-Hesson
+  660          3.50   0.50 12-Gong-Gong vs 4-Stevens-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   3.50 3-Herman-Sieg vs 1-Wright-Anderson
+        140    0.50   3.50 8-Delfs-Christensen vs 5-Miller-Moore
+   50          3.00   1.00 10-Abernethy-Ring vs 9-Eng-Sherrill
+         50    2.00   2.00 11-Epley-Epley vs 6-Tipton-Hesson
+  110          4.00   0.00 12-Gong-Gong vs 4-Stevens-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          1.00   3.00 3-Herman-Sieg vs 1-Wright-Anderson
+        100    0.00   4.00 8-Delfs-Christensen vs 5-Miller-Moore
+  130          2.50   1.50 10-Abernethy-Ring vs 9-Eng-Sherrill
+  130          2.50   1.50 11-Epley-Epley vs 6-Tipton-Hesson
+  600          4.00   0.00 12-Gong-Gong vs 4-Stevens-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   1.00 1-Wright-Anderson vs 10-Abernethy-Ring
+        140    1.00   3.00 3-Herman-Sieg vs 8-Delfs-Christensen
+        140    1.00   3.00 4-Stevens-Romeo vs 2-Vulcan-Zaugg
+        140    1.00   3.00 9-Eng-Sherrill vs 6-Tipton-Hesson
+  200          4.00   0.00 12-Gong-Gong vs 5-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.00   1.00 1-Wright-Anderson vs 10-Abernethy-Ring
+        400    3.00   1.00 3-Herman-Sieg vs 8-Delfs-Christensen
+        430    0.50   3.50 4-Stevens-Romeo vs 2-Vulcan-Zaugg
+        400    3.00   1.00 9-Eng-Sherrill vs 6-Tipton-Hesson
+        430    0.50   3.50 12-Gong-Gong vs 5-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          1.00   3.00 1-Wright-Anderson vs 10-Abernethy-Ring
+ 2210          4.00   0.00 3-Herman-Sieg vs 8-Delfs-Christensen
+  690          3.00   1.00 4-Stevens-Romeo vs 2-Vulcan-Zaugg
+  680          1.00   3.00 9-Eng-Sherrill vs 6-Tipton-Hesson
+  680          1.00   3.00 12-Gong-Gong vs 5-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   1.00 2-Vulcan-Zaugg vs 10-Abernethy-Ring
+  140          3.00   1.00 4-Stevens-Romeo vs 9-Eng-Sherrill
+  140          3.00   1.00 5-Miller-Moore vs 3-Herman-Sieg
+         50    0.50   3.50 8-Delfs-Christensen vs 11-Epley-Epley
+         50    0.50   3.50 12-Gong-Gong vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   0.00 2-Vulcan-Zaugg vs 10-Abernethy-Ring
+        170    0.00   4.00 4-Stevens-Romeo vs 9-Eng-Sherrill
+   50          3.00   1.00 5-Miller-Moore vs 3-Herman-Sieg
+         90    2.00   2.00 8-Delfs-Christensen vs 11-Epley-Epley
+        110    1.00   3.00 12-Gong-Gong vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    0.00   4.00 2-Vulcan-Zaugg vs 10-Abernethy-Ring
+  100          2.50   1.50 4-Stevens-Romeo vs 9-Eng-Sherrill
+  100          2.50   1.50 5-Miller-Moore vs 3-Herman-Sieg
+   50          1.00   3.00 8-Delfs-Christensen vs 11-Epley-Epley
+  600          4.00   0.00 12-Gong-Gong vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.00   4.00 2-Vulcan-Zaugg vs 8-Delfs-Christensen
+        650    2.00   2.00 5-Miller-Moore vs 1-Wright-Anderson
+        620    4.00   0.00 6-Tipton-Hesson vs 4-Stevens-Romeo
+        650    2.00   2.00 10-Abernethy-Ring vs 3-Herman-Sieg
+        650    2.00   2.00 11-Epley-Epley vs 9-Eng-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   2.00 2-Vulcan-Zaugg vs 8-Delfs-Christensen
+  200          2.00   2.00 5-Miller-Moore vs 1-Wright-Anderson
+  400          4.00   0.00 6-Tipton-Hesson vs 4-Stevens-Romeo
+  200          2.00   2.00 10-Abernethy-Ring vs 3-Herman-Sieg
+  170          0.00   4.00 11-Epley-Epley vs 9-Eng-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   2.00 2-Vulcan-Zaugg vs 8-Delfs-Christensen
+   50          2.00   2.00 5-Miller-Moore vs 1-Wright-Anderson
+   50          2.00   2.00 6-Tipton-Hesson vs 4-Stevens-Romeo
+   50          2.00   2.00 10-Abernethy-Ring vs 3-Herman-Sieg
+   50          2.00   2.00 11-Epley-Epley vs 9-Eng-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.00   3.00 3-Herman-Sieg vs 9-Eng-Sherrill
+        620    2.50   1.50 6-Tipton-Hesson vs 2-Vulcan-Zaugg
+        230    4.00   0.00 10-Abernethy-Ring vs 4-Stevens-Romeo
+        620    2.50   1.50 11-Epley-Epley vs 1-Wright-Anderson
+       1430    0.00   4.00 12-Gong-Gong vs 8-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    4.00   0.00 3-Herman-Sieg vs 9-Eng-Sherrill
+        620    1.00   3.00 6-Tipton-Hesson vs 2-Vulcan-Zaugg
+        620    1.00   3.00 10-Abernethy-Ring vs 4-Stevens-Romeo
+        620    1.00   3.00 11-Epley-Epley vs 1-Wright-Anderson
+        170    3.00   1.00 12-Gong-Gong vs 8-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.50   2.50 3-Herman-Sieg vs 9-Eng-Sherrill
+  140          1.50   2.50 6-Tipton-Hesson vs 2-Vulcan-Zaugg
+  140          1.50   2.50 10-Abernethy-Ring vs 4-Stevens-Romeo
+  170          4.00   0.00 11-Epley-Epley vs 1-Wright-Anderson
+  140          1.50   2.50 12-Gong-Gong vs 8-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          0.50   3.50 2-Vulcan-Zaugg vs 11-Epley-Epley
+  480          0.50   3.50 4-Stevens-Romeo vs 1-Wright-Anderson
+ 1100          4.00   0.00 5-Miller-Moore vs 10-Abernethy-Ring
+  980          2.50   1.50 8-Delfs-Christensen vs 6-Tipton-Hesson
+  980          2.50   1.50 12-Gong-Gong vs 9-Eng-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.00   3.00 2-Vulcan-Zaugg vs 11-Epley-Epley
+  200          1.00   3.00 4-Stevens-Romeo vs 1-Wright-Anderson
+  620          4.00   0.00 5-Miller-Moore vs 10-Abernethy-Ring
+  300          3.00   1.00 8-Delfs-Christensen vs 6-Tipton-Hesson
+  200          1.00   3.00 12-Gong-Gong vs 9-Eng-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.00   4.00 2-Vulcan-Zaugg vs 11-Epley-Epley
+   50          2.00   2.00 4-Stevens-Romeo vs 1-Wright-Anderson
+   50          2.00   2.00 5-Miller-Moore vs 10-Abernethy-Ring
+  110          4.00   0.00 8-Delfs-Christensen vs 6-Tipton-Hesson
+   50          2.00   2.00 12-Gong-Gong vs 9-Eng-Sherrill
+----------------------------------------------------------------------
