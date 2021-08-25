@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 24, 2021    |CLUB NO.>158048    | 08/24/2021 22:30
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=7/C=1                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Eric Sieg              Gregory Herman           B    .     .     .     68.50  50.74          
+
+ 2 Kevin Cline            Becky Stevens            B    1     1     .     80.00  59.26  1.20(A) 
+
+ 3 Nick Tipton            Galen Hesson             B    .     3     .     70.00  51.85  0.28(B) 
+
+ 4 Bogdan Vulcan          Stanford Christie        A    .     .     .     50.00  37.04          
+
+ 5 Kim Eng                Jeffrey Ford             A    3     .     .     76.50  56.67  0.60(A) 
+
+ 6 Howard Epley           Karen Epley              A    .     .     .     64.50  47.78          
+
+ 7 Rui Gong               Nathan Gong              C    5     2     .     71.00  52.59  0.39(B) 
+
+ 8 Mike Christensen       David Wright             A    4     .     .     73.00  54.07  0.42(A) 
+
+ 9 John Emmerson          Ann Romeo                B    .     .     .     62.00  45.93          
+
+10 Ray Miller             Sue Anderson             A    2     .     .     79.50  58.89  0.84(A) 
+
+11 Pete Cowles            Clay Laughary            B    .     .     .     49.00  36.30          
+
+12 Glen Young             Hugh Hendrickson         B    .     .     .     66.00  48.89          
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   1.50 3-Tipton-Hesson vs 11-Cowles-Laughary
+   50          3.50   1.50 5-Eng-Ford vs 2-Cline-Stevens
+        990    0.50   4.50 6-Epley-Epley vs 10-Miller-Anderson
+   50          3.50   1.50 8-Christensen-Wright vs 4-Vulcan-Christie
+        990    0.50   4.50 9-Emmerson-Romeo vs 7-Gong-Gong
+   50          3.50   1.50 12-Young-Hendrickson vs 1-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  790          5.00   0.00 3-Tipton-Hesson vs 11-Cowles-Laughary
+  300          3.00   2.00 5-Eng-Ford vs 2-Cline-Stevens
+  170          0.50   4.50 6-Epley-Epley vs 10-Miller-Anderson
+  170          0.50   4.50 8-Christensen-Wright vs 4-Vulcan-Christie
+  300          3.00   2.00 9-Emmerson-Romeo vs 7-Gong-Gong
+  300          3.00   2.00 12-Young-Hendrickson vs 1-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          1.00   4.00 3-Tipton-Hesson vs 11-Cowles-Laughary
+  180          3.00   2.00 5-Eng-Ford vs 2-Cline-Stevens
+         50    0.00   5.00 6-Epley-Epley vs 10-Miller-Anderson
+  500          4.50   0.50 8-Christensen-Wright vs 4-Vulcan-Christie
+  500          4.50   0.50 9-Emmerson-Romeo vs 7-Gong-Gong
+  150          2.00   3.00 12-Young-Hendrickson vs 1-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   5.00 1-Sieg-Herman vs 8-Christensen-Wright
+  850          5.00   0.00 6-Epley-Epley vs 3-Tipton-Hesson
+  620          2.50   2.50 7-Gong-Gong vs 10-Miller-Anderson
+  620          2.50   2.50 9-Emmerson-Romeo vs 5-Eng-Ford
+  620          2.50   2.50 11-Cowles-Laughary vs 4-Vulcan-Christie
+  620          2.50   2.50 12-Young-Hendrickson vs 2-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   3.00 1-Sieg-Herman vs 8-Christensen-Wright
+        450    1.00   4.00 6-Epley-Epley vs 3-Tipton-Hesson
+        150    3.00   2.00 7-Gong-Gong vs 10-Miller-Anderson
+        480    0.00   5.00 9-Emmerson-Romeo vs 5-Eng-Ford
+  100          4.50   0.50 11-Cowles-Laughary vs 4-Vulcan-Christie
+  100          4.50   0.50 12-Young-Hendrickson vs 2-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   2.00 1-Sieg-Herman vs 8-Christensen-Wright
+  180          5.00   0.00 6-Epley-Epley vs 3-Tipton-Hesson
+         50    0.00   5.00 7-Gong-Gong vs 10-Miller-Anderson
+  140          3.00   2.00 9-Emmerson-Romeo vs 5-Eng-Ford
+  140          3.00   2.00 11-Cowles-Laughary vs 4-Vulcan-Christie
+  110          1.00   4.00 12-Young-Hendrickson vs 2-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.50   2.50 1-Sieg-Herman vs 6-Epley-Epley
+        650    2.50   2.50 2-Cline-Stevens vs 9-Emmerson-Romeo
+  100          5.00   0.00 7-Gong-Gong vs 4-Vulcan-Christie
+        680    0.00   5.00 10-Miller-Anderson vs 8-Christensen-Wright
+        650    2.50   2.50 11-Cowles-Laughary vs 5-Eng-Ford
+        650    2.50   2.50 12-Young-Hendrickson vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   2.50 1-Sieg-Herman vs 6-Epley-Epley
+        100    5.00   0.00 2-Cline-Stevens vs 9-Emmerson-Romeo
+        480    1.00   4.00 7-Gong-Gong vs 4-Vulcan-Christie
+        420    4.00   1.00 10-Miller-Anderson vs 8-Christensen-Wright
+        450    2.50   2.50 11-Cowles-Laughary vs 5-Eng-Ford
+        650    0.00   5.00 12-Young-Hendrickson vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 1-Sieg-Herman vs 6-Epley-Epley
+        600    4.00   1.00 2-Cline-Stevens vs 9-Emmerson-Romeo
+        660    2.50   2.50 7-Gong-Gong vs 4-Vulcan-Christie
+       1370    0.00   5.00 10-Miller-Anderson vs 8-Christensen-Wright
+        690    1.00   4.00 11-Cowles-Laughary vs 5-Eng-Ford
+        660    2.50   2.50 12-Young-Hendrickson vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   0.50 2-Cline-Stevens vs 7-Gong-Gong
+  200          1.50   3.50 3-Tipton-Hesson vs 1-Sieg-Herman
+  620          4.50   0.50 8-Christensen-Wright vs 5-Eng-Ford
+  400          3.00   2.00 10-Miller-Anderson vs 9-Emmerson-Romeo
+  200          1.50   3.50 11-Cowles-Laughary vs 6-Epley-Epley
+  140          0.00   5.00 12-Young-Hendrickson vs 4-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   2.50 2-Cline-Stevens vs 7-Gong-Gong
+        420    1.00   4.00 3-Tipton-Hesson vs 1-Sieg-Herman
+   50          2.50   2.50 8-Christensen-Wright vs 5-Eng-Ford
+  110          4.00   1.00 10-Miller-Anderson vs 9-Emmerson-Romeo
+        800    0.00   5.00 11-Cowles-Laughary vs 6-Epley-Epley
+  140          5.00   0.00 12-Young-Hendrickson vs 4-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   4.00 2-Cline-Stevens vs 7-Gong-Gong
+  130          4.00   1.00 3-Tipton-Hesson vs 1-Sieg-Herman
+        200    1.00   4.00 8-Christensen-Wright vs 5-Eng-Ford
+        200    1.00   4.00 10-Miller-Anderson vs 9-Emmerson-Romeo
+  620          5.00   0.00 11-Cowles-Laughary vs 6-Epley-Epley
+        100    3.00   2.00 12-Young-Hendrickson vs 4-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 1-Sieg-Herman vs 10-Miller-Anderson
+        100    1.50   3.50 3-Tipton-Hesson vs 8-Christensen-Wright
+  120          4.50   0.50 4-Vulcan-Christie vs 2-Cline-Stevens
+  120          4.50   0.50 7-Gong-Gong vs 11-Cowles-Laughary
+        100    1.50   3.50 9-Emmerson-Romeo vs 6-Epley-Epley
+  100          3.00   2.00 12-Young-Hendrickson vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   2.00 1-Sieg-Herman vs 10-Miller-Anderson
+        140    3.00   2.00 3-Tipton-Hesson vs 8-Christensen-Wright
+        140    3.00   2.00 4-Vulcan-Christie vs 2-Cline-Stevens
+        140    3.00   2.00 7-Gong-Gong vs 11-Cowles-Laughary
+        150    0.00   5.00 9-Emmerson-Romeo vs 6-Epley-Epley
+        140    3.00   2.00 12-Young-Hendrickson vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.50   2.50 1-Sieg-Herman vs 10-Miller-Anderson
+  630          2.50   2.50 3-Tipton-Hesson vs 8-Christensen-Wright
+  630          2.50   2.50 4-Vulcan-Christie vs 2-Cline-Stevens
+  630          2.50   2.50 7-Gong-Gong vs 11-Cowles-Laughary
+  660          5.00   0.00 9-Emmerson-Romeo vs 6-Epley-Epley
+  600          0.00   5.00 12-Young-Hendrickson vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.50   4.50 1-Sieg-Herman vs 7-Gong-Gong
+        170    5.00   0.00 2-Cline-Stevens vs 10-Miller-Anderson
+        620    2.00   3.00 4-Vulcan-Christie vs 9-Emmerson-Romeo
+        600    3.00   2.00 5-Eng-Ford vs 3-Tipton-Hesson
+        630    0.50   4.50 8-Christensen-Wright vs 11-Cowles-Laughary
+        190    4.00   1.00 12-Young-Hendrickson vs 6-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   2.00 1-Sieg-Herman vs 7-Gong-Gong
+        130    3.00   2.00 2-Cline-Stevens vs 10-Miller-Anderson
+        130    3.00   2.00 4-Vulcan-Christie vs 9-Emmerson-Romeo
+        130    3.00   2.00 5-Eng-Ford vs 3-Tipton-Hesson
+        130    3.00   2.00 8-Christensen-Wright vs 11-Cowles-Laughary
+        400    0.00   5.00 12-Young-Hendrickson vs 6-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    2.50   2.50 1-Sieg-Herman vs 7-Gong-Gong
+        980    2.50   2.50 2-Cline-Stevens vs 10-Miller-Anderson
+       1010    0.00   5.00 4-Vulcan-Christie vs 9-Emmerson-Romeo
+        980    2.50   2.50 5-Eng-Ford vs 3-Tipton-Hesson
+        480    5.00   0.00 8-Christensen-Wright vs 11-Cowles-Laughary
+        980    2.50   2.50 12-Young-Hendrickson vs 6-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   1.50 2-Cline-Stevens vs 8-Christensen-Wright
+  420          3.50   1.50 5-Eng-Ford vs 1-Sieg-Herman
+  420          3.50   1.50 6-Epley-Epley vs 4-Vulcan-Christie
+  170          0.50   4.50 10-Miller-Anderson vs 3-Tipton-Hesson
+  170          0.50   4.50 11-Cowles-Laughary vs 9-Emmerson-Romeo
+  420          3.50   1.50 12-Young-Hendrickson vs 7-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   3.00 2-Cline-Stevens vs 8-Christensen-Wright
+  200          4.00   1.00 5-Eng-Ford vs 1-Sieg-Herman
+  710          5.00   0.00 6-Epley-Epley vs 4-Vulcan-Christie
+        100    1.00   4.00 10-Miller-Anderson vs 3-Tipton-Hesson
+  170          3.00   2.00 11-Cowles-Laughary vs 9-Emmerson-Romeo
+        130    0.00   5.00 12-Young-Hendrickson vs 7-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   3.00 2-Cline-Stevens vs 8-Christensen-Wright
+  140          3.00   2.00 5-Eng-Ford vs 1-Sieg-Herman
+  150          4.00   1.00 6-Epley-Epley vs 4-Vulcan-Christie
+  170          5.00   0.00 10-Miller-Anderson vs 3-Tipton-Hesson
+        100    0.50   4.50 11-Cowles-Laughary vs 9-Emmerson-Romeo
+        100    0.50   4.50 12-Young-Hendrickson vs 7-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 3-Tipton-Hesson vs 9-Emmerson-Romeo
+        300    0.00   5.00 6-Epley-Epley vs 2-Cline-Stevens
+        150    2.50   2.50 7-Gong-Gong vs 5-Eng-Ford
+  100          4.00   1.00 10-Miller-Anderson vs 4-Vulcan-Christie
+        200    1.00   4.00 11-Cowles-Laughary vs 1-Sieg-Herman
+        150    2.50   2.50 12-Young-Hendrickson vs 8-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   1.00 3-Tipton-Hesson vs 9-Emmerson-Romeo
+        100    0.50   4.50 6-Epley-Epley vs 2-Cline-Stevens
+        100    0.50   4.50 7-Gong-Gong vs 5-Eng-Ford
+  200          3.00   2.00 10-Miller-Anderson vs 4-Vulcan-Christie
+  140          2.00   3.00 11-Cowles-Laughary vs 1-Sieg-Herman
+  650          5.00   0.00 12-Young-Hendrickson vs 8-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.00   3.00 3-Tipton-Hesson vs 9-Emmerson-Romeo
+        130    2.00   3.00 6-Epley-Epley vs 2-Cline-Stevens
+        130    2.00   3.00 7-Gong-Gong vs 5-Eng-Ford
+  110          5.00   0.00 10-Miller-Anderson vs 4-Vulcan-Christie
+        510    0.00   5.00 11-Cowles-Laughary vs 1-Sieg-Herman
+        100    4.00   1.00 12-Young-Hendrickson vs 8-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  570          5.00   0.00 2-Cline-Stevens vs 11-Cowles-Laughary
+        100    0.00   5.00 4-Vulcan-Christie vs 1-Sieg-Herman
+  100          2.00   3.00 5-Eng-Ford vs 10-Miller-Anderson
+  140          3.00   2.00 7-Gong-Gong vs 3-Tipton-Hesson
+  530          4.00   1.00 8-Christensen-Wright vs 6-Epley-Epley
+         50    1.00   4.00 12-Young-Hendrickson vs 9-Emmerson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   0.50 2-Cline-Stevens vs 11-Cowles-Laughary
+  200          4.50   0.50 4-Vulcan-Christie vs 1-Sieg-Herman
+        660    0.00   5.00 5-Eng-Ford vs 10-Miller-Anderson
+        630    1.00   4.00 7-Gong-Gong vs 3-Tipton-Hesson
+  100          2.50   2.50 8-Christensen-Wright vs 6-Epley-Epley
+  100          2.50   2.50 12-Young-Hendrickson vs 9-Emmerson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   2.00 2-Cline-Stevens vs 11-Cowles-Laughary
+        500    0.00   5.00 4-Vulcan-Christie vs 1-Sieg-Herman
+        120    1.50   3.50 5-Eng-Ford vs 10-Miller-Anderson
+         90    4.00   1.00 7-Gong-Gong vs 3-Tipton-Hesson
+        120    1.50   3.50 8-Christensen-Wright vs 6-Epley-Epley
+   50          5.00   0.00 12-Young-Hendrickson vs 9-Emmerson-Romeo
+----------------------------------------------------------------------
