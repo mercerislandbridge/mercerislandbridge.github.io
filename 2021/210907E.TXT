@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 7, 2021  |CLUB NO.>158048    | 09/07/2021 22:26
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/5000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=9/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Arthur Gong            David Wright             C    .     .     .     58.50  48.75          
+
+ 2 John Emmerson          Ann Romeo                B    .     .     .     51.00  42.50          
+
+ 3 Becky Stevens          Mike Christensen         A    .     .     .     56.50  47.08          
+
+ 4 Nick Tipton            Galen Hesson             B    .     .     .     49.50  41.25          
+
+ 5 Howard Epley           Kevin Epley              A    .     .     .     52.50  43.75          
+
+ 6 Ray Miller             Jeffrey Ford             A    .     .     .     60.00  50.00          
+
+ 7 Pete Cowles            Clay Laughary            C    .     .     .     60.00  50.00          
+
+
+
+ 9 Kim Eng                Eric Sieg                A    3     .     .     68.50  57.08  0.65(A) 
+
+10 Adam Ruprecht          Christopher Jarvis       C    4     3     1     64.00  53.33  0.46(A) 
+
+11 Nathan Gong            Rui Gong                 C    5     4     2     60.50  50.42  0.26(A) 
+
+12 Hugh Hendrickson       Mike Ring                B    2     2     .     70.50  58.75  0.91(A) 
+
+13 Bogdan Vulcan          Beau Hovda               B    1     1     .     75.50  62.92  1.30(A) 
+
+14 Gert Wiitala           Yuri Wiitala             B    .     .     .     53.00  44.17          
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    2.50   2.50 1-Gong-Wright vs 3-Stevens-Christensen
+        920    2.50   2.50 2-Emmerson-Romeo vs 6-Miller-Ford
+        940    1.00   4.00 4-Tipton-Hesson vs 9-Eng-Sieg
+        990    0.00   5.00 5-Epley-Epley vs 12-Hendrickson-Ring
+        490    4.50   0.50 13-Vulcan-Hovda vs 10-Ruprecht-Jarvis
+        490    4.50   0.50 14-Wiitala-Wiitala vs 11-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 1-Gong-Wright vs 3-Stevens-Christensen
+  800          5.00   0.00 2-Emmerson-Romeo vs 6-Miller-Ford
+  100          3.00   2.00 4-Tipton-Hesson vs 9-Eng-Sieg
+        100    1.50   3.50 5-Epley-Epley vs 12-Hendrickson-Ring
+  200          4.00   1.00 13-Vulcan-Hovda vs 10-Ruprecht-Jarvis
+        100    1.50   3.50 14-Wiitala-Wiitala vs 11-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   3.50 1-Gong-Wright vs 11-Gong-Gong
+  140          5.00   0.00 2-Emmerson-Romeo vs 4-Tipton-Hesson
+  100          3.50   1.50 3-Stevens-Christensen vs 7-Cowles-Laughary
+  100          3.50   1.50 5-Epley-Epley vs 10-Ruprecht-Jarvis
+        620    1.50   3.50 6-Miller-Ford vs 13-Vulcan-Hovda
+        650    0.00   5.00 14-Wiitala-Wiitala vs 12-Hendrickson-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1100    0.00   5.00 1-Gong-Wright vs 11-Gong-Gong
+        170    4.00   1.00 2-Emmerson-Romeo vs 4-Tipton-Hesson
+        600    2.00   3.00 3-Stevens-Christensen vs 7-Cowles-Laughary
+        680    1.00   4.00 5-Epley-Epley vs 10-Ruprecht-Jarvis
+        200    3.00   2.00 6-Miller-Ford vs 13-Vulcan-Hovda
+  200          5.00   0.00 14-Wiitala-Wiitala vs 12-Hendrickson-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 2-Emmerson-Romeo vs 12-Hendrickson-Ring
+  170          3.00   2.00 3-Stevens-Christensen vs 5-Epley-Epley
+  620          5.00   0.00 6-Miller-Ford vs 11-Gong-Gong
+  170          3.00   2.00 7-Cowles-Laughary vs 1-Gong-Wright
+  170          3.00   2.00 9-Eng-Sieg vs 10-Ruprecht-Jarvis
+  140          1.00   4.00 14-Wiitala-Wiitala vs 13-Vulcan-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.00   5.00 2-Emmerson-Romeo vs 12-Hendrickson-Ring
+        630    3.00   2.00 3-Stevens-Christensen vs 5-Epley-Epley
+        630    3.00   2.00 6-Miller-Ford vs 11-Gong-Gong
+        630    3.00   2.00 7-Cowles-Laughary vs 1-Gong-Wright
+        600    5.00   0.00 9-Eng-Sieg vs 10-Ruprecht-Jarvis
+        660    1.00   4.00 14-Wiitala-Wiitala vs 13-Vulcan-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          4.50   0.50 3-Stevens-Christensen vs 13-Vulcan-Hovda
+        300    0.00   5.00 4-Tipton-Hesson vs 6-Miller-Ford
+  130          1.00   4.00 5-Epley-Epley vs 9-Eng-Sieg
+  150          2.50   2.50 7-Cowles-Laughary vs 12-Hendrickson-Ring
+  600          4.50   0.50 10-Ruprecht-Jarvis vs 11-Gong-Gong
+  150          2.50   2.50 14-Wiitala-Wiitala vs 1-Gong-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          3.00   2.00 3-Stevens-Christensen vs 13-Vulcan-Hovda
+  490          5.00   0.00 4-Tipton-Hesson vs 6-Miller-Ford
+         50    0.00   5.00 5-Epley-Epley vs 9-Eng-Sieg
+  460          3.00   2.00 7-Cowles-Laughary vs 12-Hendrickson-Ring
+  460          3.00   2.00 10-Ruprecht-Jarvis vs 11-Gong-Gong
+  400          1.00   4.00 14-Wiitala-Wiitala vs 1-Gong-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   2.50 4-Tipton-Hesson vs 1-Gong-Wright
+        100    0.00   5.00 5-Epley-Epley vs 7-Cowles-Laughary
+  140          2.50   2.50 6-Miller-Ford vs 10-Ruprecht-Jarvis
+  420          4.50   0.50 9-Eng-Sieg vs 3-Stevens-Christensen
+         50    1.00   4.00 11-Gong-Gong vs 12-Hendrickson-Ring
+  420          4.50   0.50 14-Wiitala-Wiitala vs 2-Emmerson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.50   4.50 4-Tipton-Hesson vs 1-Gong-Wright
+  100          4.50   0.50 5-Epley-Epley vs 7-Cowles-Laughary
+        120    2.50   2.50 6-Miller-Ford vs 10-Ruprecht-Jarvis
+  100          4.50   0.50 9-Eng-Sieg vs 3-Stevens-Christensen
+        120    2.50   2.50 11-Gong-Gong vs 12-Hendrickson-Ring
+        150    0.50   4.50 14-Wiitala-Wiitala vs 2-Emmerson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.50   2.50 5-Epley-Epley vs 2-Emmerson-Romeo
+   50          4.50   0.50 7-Cowles-Laughary vs 11-Gong-Gong
+   50          4.50   0.50 9-Eng-Sieg vs 1-Gong-Wright
+        180    1.00   4.00 10-Ruprecht-Jarvis vs 4-Tipton-Hesson
+        210    0.00   5.00 12-Hendrickson-Ring vs 13-Vulcan-Hovda
+        120    2.50   2.50 14-Wiitala-Wiitala vs 3-Stevens-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   5.00 5-Epley-Epley vs 2-Emmerson-Romeo
+  150          4.00   1.00 7-Cowles-Laughary vs 11-Gong-Gong
+  130          2.00   3.00 9-Eng-Sieg vs 1-Gong-Wright
+  150          4.00   1.00 10-Ruprecht-Jarvis vs 4-Tipton-Hesson
+  110          1.00   4.00 12-Hendrickson-Ring vs 13-Vulcan-Hovda
+  150          4.00   1.00 14-Wiitala-Wiitala vs 3-Stevens-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   4.00 6-Miller-Ford vs 3-Stevens-Christensen
+        650    1.00   4.00 7-Cowles-Laughary vs 9-Eng-Sieg
+        170    5.00   0.00 10-Ruprecht-Jarvis vs 2-Emmerson-Romeo
+        650    1.00   4.00 11-Gong-Gong vs 5-Epley-Epley
+        400    3.00   2.00 13-Vulcan-Hovda vs 1-Gong-Wright
+        200    4.00   1.00 14-Wiitala-Wiitala vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.50   2.50 6-Miller-Ford vs 3-Stevens-Christensen
+  460          5.00   0.00 7-Cowles-Laughary vs 9-Eng-Sieg
+  400          2.50   2.50 10-Ruprecht-Jarvis vs 2-Emmerson-Romeo
+  400          2.50   2.50 11-Gong-Gong vs 5-Epley-Epley
+  400          2.50   2.50 13-Vulcan-Hovda vs 1-Gong-Wright
+        150    0.00   5.00 14-Wiitala-Wiitala vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 1-Gong-Wright vs 2-Emmerson-Romeo
+   50          2.50   2.50 7-Cowles-Laughary vs 4-Tipton-Hesson
+        110    1.00   4.00 9-Eng-Sieg vs 13-Vulcan-Hovda
+   50          2.50   2.50 11-Gong-Gong vs 3-Stevens-Christensen
+   90          4.00   1.00 12-Hendrickson-Ring vs 6-Miller-Ford
+        140    0.00   5.00 14-Wiitala-Wiitala vs 5-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    3.00   2.00 1-Gong-Wright vs 2-Emmerson-Romeo
+        680    3.00   2.00 7-Cowles-Laughary vs 4-Tipton-Hesson
+        680    3.00   2.00 9-Eng-Sieg vs 13-Vulcan-Hovda
+        680    3.00   2.00 11-Gong-Gong vs 3-Stevens-Christensen
+        680    3.00   2.00 12-Hendrickson-Ring vs 6-Miller-Ford
+       1430    0.00   5.00 14-Wiitala-Wiitala vs 5-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   3.00 2-Emmerson-Romeo vs 3-Stevens-Christensen
+  140          2.00   3.00 9-Eng-Sieg vs 11-Gong-Gong
+  420          5.00   0.00 10-Ruprecht-Jarvis vs 1-Gong-Wright
+  140          2.00   3.00 12-Hendrickson-Ring vs 4-Tipton-Hesson
+  140          2.00   3.00 13-Vulcan-Hovda vs 7-Cowles-Laughary
+  140          2.00   3.00 14-Wiitala-Wiitala vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   1.00 2-Emmerson-Romeo vs 3-Stevens-Christensen
+        100    1.50   3.50 9-Eng-Sieg vs 11-Gong-Gong
+        100    1.50   3.50 10-Ruprecht-Jarvis vs 1-Gong-Wright
+        100    1.50   3.50 12-Hendrickson-Ring vs 4-Tipton-Hesson
+  690          5.00   0.00 13-Vulcan-Hovda vs 7-Cowles-Laughary
+        100    1.50   3.50 14-Wiitala-Wiitala vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    3.50   1.50 3-Stevens-Christensen vs 4-Tipton-Hesson
+        620    2.00   3.00 9-Eng-Sieg vs 6-Miller-Ford
+        630    1.00   4.00 10-Ruprecht-Jarvis vs 12-Hendrickson-Ring
+        150    5.00   0.00 11-Gong-Gong vs 2-Emmerson-Romeo
+        660    0.00   5.00 13-Vulcan-Hovda vs 5-Epley-Epley
+        600    3.50   1.50 14-Wiitala-Wiitala vs 7-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   4.00 3-Stevens-Christensen vs 4-Tipton-Hesson
+        620    1.00   4.00 9-Eng-Sieg vs 6-Miller-Ford
+        620    1.00   4.00 10-Ruprecht-Jarvis vs 12-Hendrickson-Ring
+  200          5.00   0.00 11-Gong-Gong vs 2-Emmerson-Romeo
+  100          3.50   1.50 13-Vulcan-Hovda vs 5-Epley-Epley
+  100          3.50   1.50 14-Wiitala-Wiitala vs 7-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.50   2.50 1-Gong-Wright vs 6-Miller-Ford
+        450    1.00   4.00 2-Emmerson-Romeo vs 9-Eng-Sieg
+        130    5.00   0.00 4-Tipton-Hesson vs 5-Epley-Epley
+        170    4.00   1.00 10-Ruprecht-Jarvis vs 7-Cowles-Laughary
+        800    0.00   5.00 11-Gong-Gong vs 13-Vulcan-Hovda
+        420    2.50   2.50 12-Hendrickson-Ring vs 3-Stevens-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1010          5.00   0.00 1-Gong-Wright vs 6-Miller-Ford
+  510          2.00   3.00 2-Emmerson-Romeo vs 9-Eng-Sieg
+  480          0.00   5.00 4-Tipton-Hesson vs 5-Epley-Epley
+  510          2.00   3.00 10-Ruprecht-Jarvis vs 7-Cowles-Laughary
+  980          4.00   1.00 11-Gong-Gong vs 13-Vulcan-Hovda
+  510          2.00   3.00 12-Hendrickson-Ring vs 3-Stevens-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          0.50   4.50 2-Emmerson-Romeo vs 7-Cowles-Laughary
+  650          0.50   4.50 3-Stevens-Christensen vs 10-Ruprecht-Jarvis
+  680          2.00   3.00 5-Epley-Epley vs 6-Miller-Ford
+  690          3.50   1.50 12-Hendrickson-Ring vs 1-Gong-Wright
+  690          3.50   1.50 13-Vulcan-Hovda vs 4-Tipton-Hesson
+ 1440          5.00   0.00 14-Wiitala-Wiitala vs 9-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   0.00 2-Emmerson-Romeo vs 7-Cowles-Laughary
+        980    0.00   5.00 3-Stevens-Christensen vs 10-Ruprecht-Jarvis
+        480    1.50   3.50 5-Epley-Epley vs 6-Miller-Ford
+        450    3.50   1.50 12-Hendrickson-Ring vs 1-Gong-Wright
+        450    3.50   1.50 13-Vulcan-Hovda vs 4-Tipton-Hesson
+        480    1.50   3.50 14-Wiitala-Wiitala vs 9-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          3.00   2.00 1-Gong-Wright vs 5-Epley-Epley
+  110          1.00   4.00 4-Tipton-Hesson vs 11-Gong-Gong
+  180          5.00   0.00 6-Miller-Ford vs 7-Cowles-Laughary
+  120          3.00   2.00 12-Hendrickson-Ring vs 9-Eng-Sieg
+  120          3.00   2.00 13-Vulcan-Hovda vs 2-Emmerson-Romeo
+   90          0.00   5.00 14-Wiitala-Wiitala vs 10-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 1-Gong-Wright vs 5-Epley-Epley
+        650    0.00   5.00 4-Tipton-Hesson vs 11-Gong-Gong
+        500    1.00   4.00 6-Miller-Ford vs 7-Cowles-Laughary
+        110    2.00   3.00 12-Hendrickson-Ring vs 9-Eng-Sieg
+  100          4.00   1.00 13-Vulcan-Hovda vs 2-Emmerson-Romeo
+  100          4.00   1.00 14-Wiitala-Wiitala vs 10-Ruprecht-Jarvis
+----------------------------------------------------------------------
