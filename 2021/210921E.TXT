@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 21, 2021 |CLUB NO.>158048    | 09/21/2021 22:20
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=10/C=5                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Helen Abbott           Ann Romeo                A   5     .     .   |   5     .     .     81.25  52.08  0.83(OA)
+
+ 2 Kim Eng                Jeffrey Ford             A   .     .     .   |   .     .     .     78.54  50.35          
+
+ 3 Ray Miller             Chris Moore              A   4     .     .   |   4     .     .     83.50  53.53  1.11(OA)
+
+ 4 Mike Ring              Shawn Abernethy          B   .     .     .   |   .     .     .     67.71  43.40          
+
+ 5 Hugh Hendrickson       Sylvia Bailey            C   .     .     .   |   .     .     .     70.42  45.14          
+
+ 6 Bogdan Vulcan          Beau Hovda               B   2     2     .   |   2     2     .     92.63  59.38  1.97(OA)
+
+ 7 Howard Epley           Karen Epley              A   .     .     .   |   .     .     .     73.67  47.22          
+
+ 8 Bryan Delfs            Mike Christensen         A   .     .     .   |   .     .     .     75.29  48.26          
+
+ 9 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     60.67  38.89          
+
+10 Adam Ruprecht          Christopher Jarvis       C   3     3     2   |   3     3     2     88.50  56.73  1.48(OA)
+
+11 Eric Sieg              Aaron Mohrman            C   1     1     1   |   1     1     1    100.21  64.24  2.63(OA)
+
+12 Kevin Cline            Becky Stevens            C   .     4     .   |   6     4     .     79.08  50.69  0.69(OB)
+
+
+
+14 Gert Wiitala           Yuri Wiitala             C   .     .     .   |   .     .     .     78.54  50.35          
+
+15 David Roselle          Sue Anderson             B   .     .     .   |   .     .     .     72.04  46.18          
+
+16 John Emmerson          Melinda Westgate         B   .     .     .   |   .     .     .     66.63  42.71          
+
+
+                                          Totals                                           1168.68       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   4.00 4-Ring-Abernethy vs 14-Wiitala-Wiitala
+        450    2.00   4.00 6-Vulcan-Hovda vs 5-Hendrickson-Bailey
+        100    5.50   0.50 8-Delfs-Christensen vs 12-Cline-Stevens
+        450    2.00   4.00 9-Tipton-Hesson vs 11-Sieg-Mohrman
+        100    5.50   0.50 10-Ruprecht-Jarvis vs 2-Eng-Ford
+        450    2.00   4.00 15-Roselle-Anderson vs 3-Miller-Moore
+        450    2.00   4.00 16-Emmerson-Westgate vs 1-Abbott-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   4.50 4-Ring-Abernethy vs 14-Wiitala-Wiitala
+        420    1.50   4.50 6-Vulcan-Hovda vs 5-Hendrickson-Bailey
+        420    1.50   4.50 8-Delfs-Christensen vs 12-Cline-Stevens
+        420    1.50   4.50 9-Tipton-Hesson vs 11-Sieg-Mohrman
+   50          5.00   1.00 10-Ruprecht-Jarvis vs 2-Eng-Ford
+   50          5.00   1.00 15-Roselle-Anderson vs 3-Miller-Moore
+   50          5.00   1.00 16-Emmerson-Westgate vs 1-Abbott-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.50   5.50 1-Abbott-Romeo vs 8-Delfs-Christensen
+         50    4.00   2.00 4-Ring-Abernethy vs 15-Roselle-Anderson
+  100          6.00   0.00 5-Hendrickson-Bailey vs 14-Wiitala-Wiitala
+         50    4.00   2.00 7-Epley-Epley vs 6-Vulcan-Hovda
+         50    4.00   2.00 10-Ruprecht-Jarvis vs 12-Cline-Stevens
+        110    2.00   4.00 11-Sieg-Mohrman vs 3-Miller-Moore
+        130    0.50   5.50 16-Emmerson-Westgate vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.50   1.50 1-Abbott-Romeo vs 8-Delfs-Christensen
+        200    4.50   1.50 4-Ring-Abernethy vs 15-Roselle-Anderson
+        300    2.00   4.00 5-Hendrickson-Bailey vs 14-Wiitala-Wiitala
+        400    0.00   6.00 7-Epley-Epley vs 6-Vulcan-Hovda
+        300    2.00   4.00 10-Ruprecht-Jarvis vs 12-Cline-Stevens
+  630          6.00   0.00 11-Sieg-Mohrman vs 3-Miller-Moore
+        300    2.00   4.00 16-Emmerson-Westgate vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   3.00 2-Eng-Ford vs 9-Tipton-Hesson
+   50          5.00   1.00 5-Hendrickson-Bailey vs 15-Roselle-Anderson
+   50          5.00   1.00 6-Vulcan-Hovda vs 14-Wiitala-Wiitala
+        180    2.00   4.00 8-Delfs-Christensen vs 7-Epley-Epley
+        420    0.50   5.50 10-Ruprecht-Jarvis vs 1-Abbott-Romeo
+   50          5.00   1.00 12-Cline-Stevens vs 4-Ring-Abernethy
+        420    0.50   5.50 16-Emmerson-Westgate vs 3-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.00   4.00 2-Eng-Ford vs 9-Tipton-Hesson
+        600    2.00   4.00 5-Hendrickson-Bailey vs 15-Roselle-Anderson
+        110    5.50   0.50 6-Vulcan-Hovda vs 14-Wiitala-Wiitala
+        600    2.00   4.00 8-Delfs-Christensen vs 7-Epley-Epley
+        150    4.00   2.00 10-Ruprecht-Jarvis vs 1-Abbott-Romeo
+        110    5.50   0.50 12-Cline-Stevens vs 4-Ring-Abernethy
+        660    0.00   6.00 16-Emmerson-Westgate vs 3-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   6.00 3-Miller-Moore vs 10-Ruprecht-Jarvis
+        100    1.50   4.50 6-Vulcan-Hovda vs 15-Roselle-Anderson
+  110          4.00   2.00 9-Tipton-Hesson vs 8-Delfs-Christensen
+        100    1.50   4.50 11-Sieg-Mohrman vs 2-Eng-Ford
+  200          6.00   0.00 12-Cline-Stevens vs 1-Abbott-Romeo
+  110          4.00   2.00 14-Wiitala-Wiitala vs 7-Epley-Epley
+  110          4.00   2.00 16-Emmerson-Westgate vs 4-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.00   3.00 3-Miller-Moore vs 10-Ruprecht-Jarvis
+        420    3.00   3.00 6-Vulcan-Hovda vs 15-Roselle-Anderson
+        420    3.00   3.00 9-Tipton-Hesson vs 8-Delfs-Christensen
+        420    3.00   3.00 11-Sieg-Mohrman vs 2-Eng-Ford
+        420    3.00   3.00 12-Cline-Stevens vs 1-Abbott-Romeo
+        420    3.00   3.00 14-Wiitala-Wiitala vs 7-Epley-Epley
+        420    3.00   3.00 16-Emmerson-Westgate vs 4-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.50   1.50 1-Abbott-Romeo vs 6-Vulcan-Hovda
+        690    2.50   3.50 4-Ring-Abernethy vs 11-Sieg-Mohrman
+       1460    0.00   6.00 7-Epley-Epley vs 15-Roselle-Anderson
+        620    6.00   0.00 10-Ruprecht-Jarvis vs 9-Tipton-Hesson
+       1390    1.00   5.00 12-Cline-Stevens vs 3-Miller-Moore
+        680    4.50   1.50 14-Wiitala-Wiitala vs 8-Delfs-Christensen
+        690    2.50   3.50 16-Emmerson-Westgate vs 5-Hendrickson-Bailey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1100    0.00   6.00 1-Abbott-Romeo vs 6-Vulcan-Hovda
+        110    1.50   4.50 4-Ring-Abernethy vs 11-Sieg-Mohrman
+  300          6.00   0.00 7-Epley-Epley vs 15-Roselle-Anderson
+  200          5.00   1.00 10-Ruprecht-Jarvis vs 9-Tipton-Hesson
+        100    3.00   3.00 12-Cline-Stevens vs 3-Miller-Moore
+  100          4.00   2.00 14-Wiitala-Wiitala vs 8-Delfs-Christensen
+        110    1.50   4.50 16-Emmerson-Westgate vs 5-Hendrickson-Bailey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   6.00 1-Abbott-Romeo vs 3-Miller-Moore
+         50    2.00   4.00 2-Eng-Ford vs 7-Epley-Epley
+   50          4.00   2.00 5-Hendrickson-Bailey vs 12-Cline-Stevens
+         50    2.00   4.00 8-Delfs-Christensen vs 15-Roselle-Anderson
+  120          6.00   0.00 11-Sieg-Mohrman vs 10-Ruprecht-Jarvis
+   90          5.00   1.00 14-Wiitala-Wiitala vs 9-Tipton-Hesson
+         50    2.00   4.00 16-Emmerson-Westgate vs 6-Vulcan-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    3.50   2.50 1-Abbott-Romeo vs 3-Miller-Moore
+        460    3.50   2.50 2-Eng-Ford vs 7-Epley-Epley
+        460    3.50   2.50 5-Hendrickson-Bailey vs 12-Cline-Stevens
+        460    3.50   2.50 8-Delfs-Christensen vs 15-Roselle-Anderson
+        460    3.50   2.50 11-Sieg-Mohrman vs 10-Ruprecht-Jarvis
+        460    3.50   2.50 14-Wiitala-Wiitala vs 9-Tipton-Hesson
+        490    0.00   6.00 16-Emmerson-Westgate vs 6-Vulcan-Hovda
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    5.00   1.00 1-Abbott-Romeo vs 5-Hendrickson-Bailey
+        150    3.50   2.50 2-Eng-Ford vs 4-Ring-Abernethy
+        150    3.50   2.50 3-Miller-Moore vs 8-Delfs-Christensen
+        210    2.00   4.00 9-Tipton-Hesson vs 15-Roselle-Anderson
+        630    0.00   6.00 12-Cline-Stevens vs 11-Sieg-Mohrman
+        500    1.00   5.00 14-Wiitala-Wiitala vs 10-Ruprecht-Jarvis
+        120    6.00   0.00 16-Emmerson-Westgate vs 7-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  530          6.00   0.00 1-Abbott-Romeo vs 5-Hendrickson-Bailey
+  140          4.00   2.00 2-Eng-Ford vs 4-Ring-Abernethy
+  170          5.00   1.00 3-Miller-Moore vs 8-Delfs-Christensen
+        110    0.50   5.50 9-Tipton-Hesson vs 15-Roselle-Anderson
+        110    0.50   5.50 12-Cline-Stevens vs 11-Sieg-Mohrman
+   50          2.00   4.00 14-Wiitala-Wiitala vs 10-Ruprecht-Jarvis
+  100          3.00   3.00 16-Emmerson-Westgate vs 7-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          1.50   4.50 2-Eng-Ford vs 6-Vulcan-Hovda
+  660          6.00   0.00 3-Miller-Moore vs 5-Hendrickson-Bailey
+  630          4.50   1.50 4-Ring-Abernethy vs 9-Tipton-Hesson
+  600          1.50   4.50 7-Epley-Epley vs 1-Abbott-Romeo
+  630          4.50   1.50 10-Ruprecht-Jarvis vs 15-Roselle-Anderson
+  600          1.50   4.50 14-Wiitala-Wiitala vs 11-Sieg-Mohrman
+  600          1.50   4.50 16-Emmerson-Westgate vs 8-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          6.00   0.00 2-Eng-Ford vs 6-Vulcan-Hovda
+  450          4.50   1.50 3-Miller-Moore vs 5-Hendrickson-Bailey
+         50    0.50   5.50 4-Ring-Abernethy vs 9-Tipton-Hesson
+  450          4.50   1.50 7-Epley-Epley vs 1-Abbott-Romeo
+  430          3.00   3.00 10-Ruprecht-Jarvis vs 15-Roselle-Anderson
+         50    0.50   5.50 14-Wiitala-Wiitala vs 11-Sieg-Mohrman
+  200          2.00   4.00 16-Emmerson-Westgate vs 8-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   1.00 3-Miller-Moore vs 7-Epley-Epley
+        140    0.00   6.00 4-Ring-Abernethy vs 6-Vulcan-Hovda
+        100    1.50   4.50 5-Hendrickson-Bailey vs 10-Ruprecht-Jarvis
+  150          5.00   1.00 8-Delfs-Christensen vs 2-Eng-Ford
+   50          3.00   3.00 14-Wiitala-Wiitala vs 12-Cline-Stevens
+        100    1.50   4.50 15-Roselle-Anderson vs 11-Sieg-Mohrman
+  150          5.00   1.00 16-Emmerson-Westgate vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    1.50   4.50 3-Miller-Moore vs 7-Epley-Epley
+        480    4.00   2.00 4-Ring-Abernethy vs 6-Vulcan-Hovda
+        980    1.50   4.50 5-Hendrickson-Bailey vs 10-Ruprecht-Jarvis
+        980    1.50   4.50 8-Delfs-Christensen vs 2-Eng-Ford
+   50          5.50   0.50 14-Wiitala-Wiitala vs 12-Cline-Stevens
+        980    1.50   4.50 15-Roselle-Anderson vs 11-Sieg-Mohrman
+   50          5.50   0.50 16-Emmerson-Westgate vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.50   3.50 2-Eng-Ford vs 1-Abbott-Romeo
+  420          2.50   3.50 4-Ring-Abernethy vs 8-Delfs-Christensen
+  420          2.50   3.50 5-Hendrickson-Bailey vs 7-Epley-Epley
+  420          2.50   3.50 6-Vulcan-Hovda vs 11-Sieg-Mohrman
+  420          2.50   3.50 9-Tipton-Hesson vs 3-Miller-Moore
+  420          2.50   3.50 15-Roselle-Anderson vs 12-Cline-Stevens
+  450          6.00   0.00 16-Emmerson-Westgate vs 10-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.00   5.00 2-Eng-Ford vs 1-Abbott-Romeo
+  100          5.00   1.00 4-Ring-Abernethy vs 8-Delfs-Christensen
+        200    3.00   3.00 5-Hendrickson-Bailey vs 7-Epley-Epley
+  200          6.00   0.00 6-Vulcan-Hovda vs 11-Sieg-Mohrman
+        110    4.00   2.00 9-Tipton-Hesson vs 3-Miller-Moore
+        500    1.00   5.00 15-Roselle-Anderson vs 12-Cline-Stevens
+        500    1.00   5.00 16-Emmerson-Westgate vs 10-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    4.50   1.50 1-Abbott-Romeo vs 14-Wiitala-Wiitala
+        430    1.00   5.00 3-Miller-Moore vs 2-Eng-Ford
+        400    4.50   1.50 5-Hendrickson-Bailey vs 9-Tipton-Hesson
+        400    4.50   1.50 6-Vulcan-Hovda vs 8-Delfs-Christensen
+        430    1.00   5.00 7-Epley-Epley vs 12-Cline-Stevens
+        400    4.50   1.50 10-Ruprecht-Jarvis vs 4-Ring-Abernethy
+        430    1.00   5.00 16-Emmerson-Westgate vs 11-Sieg-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   3.00 1-Abbott-Romeo vs 14-Wiitala-Wiitala
+  140          3.00   3.00 3-Miller-Moore vs 2-Eng-Ford
+  140          3.00   3.00 5-Hendrickson-Bailey vs 9-Tipton-Hesson
+  140          3.00   3.00 6-Vulcan-Hovda vs 8-Delfs-Christensen
+  140          3.00   3.00 7-Epley-Epley vs 12-Cline-Stevens
+  140          3.00   3.00 10-Ruprecht-Jarvis vs 4-Ring-Abernethy
+  140          3.00   3.00 16-Emmerson-Westgate vs 11-Sieg-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   2.00 2-Eng-Ford vs 14-Wiitala-Wiitala
+  140          4.00   2.00 4-Ring-Abernethy vs 3-Miller-Moore
+  140          4.00   2.00 6-Vulcan-Hovda vs 10-Ruprecht-Jarvis
+  110          1.50   4.50 7-Epley-Epley vs 9-Tipton-Hesson
+  170          6.00   0.00 11-Sieg-Mohrman vs 5-Hendrickson-Bailey
+        200    0.00   6.00 15-Roselle-Anderson vs 1-Abbott-Romeo
+  110          1.50   4.50 16-Emmerson-Westgate vs 12-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   6.00 2-Eng-Ford vs 14-Wiitala-Wiitala
+  140          3.00   3.00 4-Ring-Abernethy vs 3-Miller-Moore
+  140          3.00   3.00 6-Vulcan-Hovda vs 10-Ruprecht-Jarvis
+  140          3.00   3.00 7-Epley-Epley vs 9-Tipton-Hesson
+  140          3.00   3.00 11-Sieg-Mohrman vs 5-Hendrickson-Bailey
+  170          6.00   0.00 15-Roselle-Anderson vs 1-Abbott-Romeo
+  140          3.00   3.00 16-Emmerson-Westgate vs 12-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.50   2.50 3-Miller-Moore vs 14-Wiitala-Wiitala
+        170    0.50   5.50 5-Hendrickson-Bailey vs 4-Ring-Abernethy
+         50    5.00   1.00 7-Epley-Epley vs 11-Sieg-Mohrman
+  100          6.00   0.00 8-Delfs-Christensen vs 10-Ruprecht-Jarvis
+        170    0.50   5.50 9-Tipton-Hesson vs 1-Abbott-Romeo
+        150    2.00   4.00 12-Cline-Stevens vs 6-Vulcan-Hovda
+        110    3.50   2.50 15-Roselle-Anderson vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   6.00 3-Miller-Moore vs 14-Wiitala-Wiitala
+  620          4.00   2.00 5-Hendrickson-Bailey vs 4-Ring-Abernethy
+  620          4.00   2.00 7-Epley-Epley vs 11-Sieg-Mohrman
+  620          4.00   2.00 8-Delfs-Christensen vs 10-Ruprecht-Jarvis
+  620          4.00   2.00 9-Tipton-Hesson vs 1-Abbott-Romeo
+  620          4.00   2.00 12-Cline-Stevens vs 6-Vulcan-Hovda
+  170          1.00   5.00 15-Roselle-Anderson vs 2-Eng-Ford
+----------------------------------------------------------------------
