@@ -1,0 +1,336 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 28, 2021 |CLUB NO.>158048    | 09/28/2021 22:20
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=7/C=0                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     50.06  46.35          
+
+ 2 John Emmerson          Melinda Westgate         B   .     .     .   |   .     .     .     43.31  40.10          
+
+ 3 Mike Christensen       David Wright             A   4     .     .   |   4     .     .     58.50  54.17  0.98(OA)
+
+ 4 Kim Eng                Jeffrey Ford             A   1     .     .   |   1     .     .     77.63  71.88  2.33(OA)
+
+ 5 Ray Miller             Aaron Mohrman            A   .     .     .   |   .     .     .     48.38  44.80          
+
+ 6 Stanford Christie      Bogdan Vulcan            A   .     .     .   |   .     .     .     56.81  52.60          
+
+ 7 Eric Sieg              Gregory Herman           B   .     .     .   |   .     .     .     43.50  40.28          
+
+
+
+ 9 Bryan Delfs            Sue Anderson             B   2     1     .   |   2     1     .     60.00  55.56  1.75(OA)
+
+10 David Roselle          David Baer               B   3     2     .   |   3     2     .     59.06  54.69  1.31(OA)
+
+11 Adam Ruprecht          Christopher Jarvis       B   .     3     .   |   .     3     .     53.44  49.48  0.86(OB)
+
+12 Nelson Davis           Ann Romeo                B   .     .     .   |   .     .     .     43.88  40.63          
+
+
+                                          Totals                                            594.57       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   1.50 3-Christensen-Wright vs 11-Ruprecht-Jarvis
+  170          2.50   1.50 5-Miller-Mohrman vs 2-Emmerson-Westgate
+   50          0.00   4.00 6-Christie-Vulcan vs 10-Roselle-Baer
+  170          2.50   1.50 9-Delfs-Anderson vs 7-Sieg-Herman
+  170          2.50   1.50 12-Davis-Romeo vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   0.50 3-Christensen-Wright vs 11-Ruprecht-Jarvis
+   50          1.50   2.50 5-Miller-Mohrman vs 2-Emmerson-Westgate
+   50          1.50   2.50 6-Christie-Vulcan vs 10-Roselle-Baer
+  100          3.50   0.50 9-Delfs-Anderson vs 7-Sieg-Herman
+        130    0.00   4.00 12-Davis-Romeo vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   2.00 3-Christensen-Wright vs 11-Ruprecht-Jarvis
+  420          2.00   2.00 5-Miller-Mohrman vs 2-Emmerson-Westgate
+  420          2.00   2.00 6-Christie-Vulcan vs 10-Roselle-Baer
+  420          2.00   2.00 9-Delfs-Anderson vs 7-Sieg-Herman
+  420          2.00   2.00 12-Davis-Romeo vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.00   2.00 6-Christie-Vulcan vs 3-Christensen-Wright
+  680          2.00   2.00 7-Sieg-Herman vs 10-Roselle-Baer
+  680          2.00   2.00 9-Delfs-Anderson vs 5-Miller-Mohrman
+  500          0.00   4.00 11-Ruprecht-Jarvis vs 4-Eng-Ford
+ 1190          4.00   0.00 12-Davis-Romeo vs 2-Emmerson-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.00   2.00 6-Christie-Vulcan vs 3-Christensen-Wright
+        430    1.00   3.00 7-Sieg-Herman vs 10-Roselle-Baer
+   50          3.50   0.50 9-Delfs-Anderson vs 5-Miller-Mohrman
+        450    0.00   4.00 11-Ruprecht-Jarvis vs 4-Eng-Ford
+   50          3.50   0.50 12-Davis-Romeo vs 2-Emmerson-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.50   2.50 6-Christie-Vulcan vs 3-Christensen-Wright
+  140          1.50   2.50 7-Sieg-Herman vs 10-Roselle-Baer
+  530          4.00   0.00 9-Delfs-Anderson vs 5-Miller-Mohrman
+  140          1.50   2.50 11-Ruprecht-Jarvis vs 4-Eng-Ford
+  140          1.50   2.50 12-Davis-Romeo vs 2-Emmerson-Westgate
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   3.00 1-Tipton-Hesson vs 6-Christie-Vulcan
+        650    1.00   3.00 2-Emmerson-Westgate vs 9-Delfs-Anderson
+        650    1.00   3.00 7-Sieg-Herman vs 4-Eng-Ford
+        200    3.50   0.50 11-Ruprecht-Jarvis vs 5-Miller-Mohrman
+        200    3.50   0.50 12-Davis-Romeo vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.00   0.00 1-Tipton-Hesson vs 6-Christie-Vulcan
+  420          2.50   1.50 2-Emmerson-Westgate vs 9-Delfs-Anderson
+  140          1.00   3.00 7-Sieg-Herman vs 4-Eng-Ford
+  420          2.50   1.50 11-Ruprecht-Jarvis vs 5-Miller-Mohrman
+   50          0.00   4.00 12-Davis-Romeo vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   2.00 1-Tipton-Hesson vs 6-Christie-Vulcan
+        650    0.00   4.00 2-Emmerson-Westgate vs 9-Delfs-Anderson
+        620    1.00   3.00 7-Sieg-Herman vs 4-Eng-Ford
+  200          3.00   1.00 11-Ruprecht-Jarvis vs 5-Miller-Mohrman
+  450          4.00   0.00 12-Davis-Romeo vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1460    1.00   3.00 1-Tipton-Hesson vs 3-Christensen-Wright
+        680    4.00   0.00 2-Emmerson-Westgate vs 7-Sieg-Herman
+       1460    1.00   3.00 10-Roselle-Baer vs 9-Delfs-Anderson
+        710    3.00   1.00 11-Ruprecht-Jarvis vs 6-Christie-Vulcan
+       1460    1.00   3.00 12-Davis-Romeo vs 4-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   4.00 1-Tipton-Hesson vs 3-Christensen-Wright
+  800          4.00   0.00 2-Emmerson-Westgate vs 7-Sieg-Herman
+  430          1.50   2.50 10-Roselle-Baer vs 9-Delfs-Anderson
+  460          3.00   1.00 11-Ruprecht-Jarvis vs 6-Christie-Vulcan
+  430          1.50   2.50 12-Davis-Romeo vs 4-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.00   0.00 1-Tipton-Hesson vs 3-Christensen-Wright
+  100          2.00   2.00 2-Emmerson-Westgate vs 7-Sieg-Herman
+  300          3.00   1.00 10-Roselle-Baer vs 9-Delfs-Anderson
+        110    0.00   4.00 11-Ruprecht-Jarvis vs 6-Christie-Vulcan
+   50          1.00   3.00 12-Davis-Romeo vs 4-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          1.50   2.50 1-Tipton-Hesson vs 10-Roselle-Baer
+ 1430          4.00   0.00 4-Eng-Ford vs 2-Emmerson-Westgate
+  680          1.50   2.50 7-Sieg-Herman vs 11-Ruprecht-Jarvis
+  680          1.50   2.50 9-Delfs-Anderson vs 6-Christie-Vulcan
+  680          1.50   2.50 12-Davis-Romeo vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   3.00 1-Tipton-Hesson vs 10-Roselle-Baer
+  170          4.00   0.00 4-Eng-Ford vs 2-Emmerson-Westgate
+  140          2.50   1.50 7-Sieg-Herman vs 11-Ruprecht-Jarvis
+  140          2.50   1.50 9-Delfs-Anderson vs 6-Christie-Vulcan
+        100    0.00   4.00 12-Davis-Romeo vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    2.00   2.00 1-Tipton-Hesson vs 10-Roselle-Baer
+        150    4.00   0.00 4-Eng-Ford vs 2-Emmerson-Westgate
+        490    0.00   4.00 7-Sieg-Herman vs 11-Ruprecht-Jarvis
+        460    2.00   2.00 9-Delfs-Anderson vs 6-Christie-Vulcan
+        460    2.00   2.00 12-Davis-Romeo vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.50   2.50 1-Tipton-Hesson vs 7-Sieg-Herman
+        100    3.00   1.00 2-Emmerson-Westgate vs 10-Roselle-Baer
+         50    4.00   0.00 4-Eng-Ford vs 9-Delfs-Anderson
+       1100    0.00   4.00 5-Miller-Mohrman vs 3-Christensen-Wright
+        300    1.50   2.50 12-Davis-Romeo vs 6-Christie-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          3.00   1.00 1-Tipton-Hesson vs 7-Sieg-Herman
+  430          0.50   3.50 2-Emmerson-Westgate vs 10-Roselle-Baer
+  460          3.00   1.00 4-Eng-Ford vs 9-Delfs-Anderson
+  430          0.50   3.50 5-Miller-Mohrman vs 3-Christensen-Wright
+  460          3.00   1.00 12-Davis-Romeo vs 6-Christie-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   3.00 1-Tipton-Hesson vs 7-Sieg-Herman
+        100    2.50   1.50 2-Emmerson-Westgate vs 10-Roselle-Baer
+        100    2.50   1.50 4-Eng-Ford vs 9-Delfs-Anderson
+  140          4.00   0.00 5-Miller-Mohrman vs 3-Christensen-Wright
+        450    0.00   4.00 12-Davis-Romeo vs 6-Christie-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.00   2.00 5-Miller-Mohrman vs 1-Tipton-Hesson
+  430          2.00   2.00 6-Christie-Vulcan vs 4-Eng-Ford
+  430          2.00   2.00 10-Roselle-Baer vs 3-Christensen-Wright
+  430          2.00   2.00 11-Ruprecht-Jarvis vs 9-Delfs-Anderson
+  430          2.00   2.00 12-Davis-Romeo vs 7-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   2.50 5-Miller-Mohrman vs 1-Tipton-Hesson
+  110          3.00   1.00 6-Christie-Vulcan vs 4-Eng-Ford
+  100          1.50   2.50 10-Roselle-Baer vs 3-Christensen-Wright
+  140          4.00   0.00 11-Ruprecht-Jarvis vs 9-Delfs-Anderson
+        100    0.00   4.00 12-Davis-Romeo vs 7-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.50   0.50 5-Miller-Mohrman vs 1-Tipton-Hesson
+  600          2.00   2.00 6-Christie-Vulcan vs 4-Eng-Ford
+  170          0.00   4.00 10-Roselle-Baer vs 3-Christensen-Wright
+  620          3.50   0.50 11-Ruprecht-Jarvis vs 9-Delfs-Anderson
+  500          1.00   3.00 12-Davis-Romeo vs 7-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.50   3.50 3-Christensen-Wright vs 9-Delfs-Anderson
+  200          4.00   0.00 6-Christie-Vulcan vs 2-Emmerson-Westgate
+  100          2.50   1.50 7-Sieg-Herman vs 5-Miller-Mohrman
+  100          2.50   1.50 10-Roselle-Baer vs 4-Eng-Ford
+        600    0.50   3.50 11-Ruprecht-Jarvis vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    2.00   2.00 3-Christensen-Wright vs 9-Delfs-Anderson
+        660    2.00   2.00 6-Christie-Vulcan vs 2-Emmerson-Westgate
+        660    2.00   2.00 7-Sieg-Herman vs 5-Miller-Mohrman
+        660    2.00   2.00 10-Roselle-Baer vs 4-Eng-Ford
+        660    2.00   2.00 11-Ruprecht-Jarvis vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   2.50 3-Christensen-Wright vs 9-Delfs-Anderson
+  100          4.00   0.00 6-Christie-Vulcan vs 2-Emmerson-Westgate
+        110    0.00   4.00 7-Sieg-Herman vs 5-Miller-Mohrman
+         50    1.50   2.50 10-Roselle-Baer vs 4-Eng-Ford
+   90          3.00   1.00 11-Ruprecht-Jarvis vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   0.00 2-Emmerson-Westgate vs 11-Ruprecht-Jarvis
+  170          3.00   1.00 4-Eng-Ford vs 1-Tipton-Hesson
+  110          1.00   3.00 5-Miller-Mohrman vs 10-Roselle-Baer
+  110          1.00   3.00 7-Sieg-Herman vs 3-Christensen-Wright
+  110          1.00   3.00 12-Davis-Romeo vs 9-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.00   3.00 2-Emmerson-Westgate vs 11-Ruprecht-Jarvis
+        140    2.50   1.50 4-Eng-Ford vs 1-Tipton-Hesson
+        200    0.00   4.00 5-Miller-Mohrman vs 10-Roselle-Baer
+        100    4.00   0.00 7-Sieg-Herman vs 3-Christensen-Wright
+        140    2.50   1.50 12-Davis-Romeo vs 9-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   1.00 2-Emmerson-Westgate vs 11-Ruprecht-Jarvis
+  420          3.00   1.00 4-Eng-Ford vs 1-Tipton-Hesson
+  420          3.00   1.00 5-Miller-Mohrman vs 10-Roselle-Baer
+         50    1.00   3.00 7-Sieg-Herman vs 3-Christensen-Wright
+        100    0.00   4.00 12-Davis-Romeo vs 9-Delfs-Anderson
+----------------------------------------------------------------------
