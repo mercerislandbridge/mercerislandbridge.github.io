@@ -1,0 +1,336 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 12, 2021   |CLUB NO.>158048    | 10/12/2021 22:20
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Upgraded Club Championship   |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=6/C=1                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Pesce            Christopher Jarvis       B   4     2     .   |   4     2     .     54.56  50.52  1.28(OB)
+
+ 2 David Roselle          Sue Anderson             B   .     .     .   |   .     .     .     50.06  46.35          
+
+ 3 Mike Ring              Mike Christensen         A   .     .     .   |   .     .     .     50.06  46.35          
+
+ 4 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     51.75  47.92          
+
+ 5 Ray Miller             Chris Moore              A   1     .     .   |   1     .     .     70.88  65.63  3.00(OA)
+
+ 6 Stanford Christie      Bogdan Vulcan            A   3     .     .   |   3     .     .     64.50  59.72  1.69(OA)
+
+
+
+ 8 Clay Laughary          Pete Cowles              C   .     .     .   |   .     .     .     38.50  35.65          
+
+ 9 Gregory Herman         Eric Sieg                B   2     1     .   |   2     1     .     68.06  63.02  2.25(OA)
+
+10 John Emmerson          Melinda Westgate         A   .     .     .   |   .     .     .     51.19  47.40          
+
+11 Nelson Davis           Ann Romeo                B   .     .     .   |   .     .     .     46.13  42.71          
+
+12 Jeffrey Ford           Aaron Mohrman            A   .     .     .   |   .     .     .     48.94  45.31          
+
+
+                                          Totals                                            594.63       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   2.50 3-Ring-Christensen vs 11-Davis-Romeo
+  100          4.00   0.00 5-Miller-Moore vs 2-Roselle-Anderson
+        300    0.00   4.00 6-Christie-Vulcan vs 10-Emmerson-Westgate
+        100    3.00   1.00 8-Laughary-Cowles vs 4-Tipton-Hesson
+        140    1.50   2.50 12-Ford-Mohrman vs 1-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.00   2.00 3-Ring-Christensen vs 11-Davis-Romeo
+  100          3.50   0.50 5-Miller-Moore vs 2-Roselle-Anderson
+  100          3.50   0.50 6-Christie-Vulcan vs 10-Emmerson-Westgate
+        450    1.00   3.00 8-Laughary-Cowles vs 4-Tipton-Hesson
+       2300    0.00   4.00 12-Ford-Mohrman vs 1-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   4.00 3-Ring-Christensen vs 11-Davis-Romeo
+  420          3.00   1.00 5-Miller-Moore vs 2-Roselle-Anderson
+  420          3.00   1.00 6-Christie-Vulcan vs 10-Emmerson-Westgate
+  420          3.00   1.00 8-Laughary-Cowles vs 4-Tipton-Hesson
+         50    1.00   3.00 12-Ford-Mohrman vs 1-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   0.00 1-Pesce-Jarvis vs 8-Laughary-Cowles
+        100    1.00   3.00 6-Christie-Vulcan vs 3-Ring-Christensen
+  620          3.00   1.00 9-Herman-Sieg vs 5-Miller-Moore
+        100    1.00   3.00 11-Davis-Romeo vs 4-Tipton-Hesson
+        100    1.00   3.00 12-Ford-Mohrman vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   1.00 1-Pesce-Jarvis vs 8-Laughary-Cowles
+        300    0.50   3.50 6-Christie-Vulcan vs 3-Ring-Christensen
+        300    0.50   3.50 9-Herman-Sieg vs 5-Miller-Moore
+        200    2.00   2.00 11-Davis-Romeo vs 4-Tipton-Hesson
+  120          4.00   0.00 12-Ford-Mohrman vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          1.50   2.50 1-Pesce-Jarvis vs 8-Laughary-Cowles
+  500          3.00   1.00 6-Christie-Vulcan vs 3-Ring-Christensen
+  800          4.00   0.00 9-Herman-Sieg vs 5-Miller-Moore
+  130          1.50   2.50 11-Davis-Romeo vs 4-Tipton-Hesson
+  120          0.00   4.00 12-Ford-Mohrman vs 2-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   3.00 1-Pesce-Jarvis vs 6-Christie-Vulcan
+         90    2.00   2.00 2-Roselle-Anderson vs 9-Herman-Sieg
+    PASS       3.00   1.00 10-Emmerson-Westgate vs 8-Laughary-Cowles
+        300    0.00   4.00 11-Davis-Romeo vs 5-Miller-Moore
+  200          4.00   0.00 12-Ford-Mohrman vs 3-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   0.00 1-Pesce-Jarvis vs 6-Christie-Vulcan
+        110    1.00   3.00 2-Roselle-Anderson vs 9-Herman-Sieg
+         90    2.50   1.50 10-Emmerson-Westgate vs 8-Laughary-Cowles
+         90    2.50   1.50 11-Davis-Romeo vs 5-Miller-Moore
+        150    0.00   4.00 12-Ford-Mohrman vs 3-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.50   1.50 1-Pesce-Jarvis vs 6-Christie-Vulcan
+  400          0.00   4.00 2-Roselle-Anderson vs 9-Herman-Sieg
+  430          2.50   1.50 10-Emmerson-Westgate vs 8-Laughary-Cowles
+  430          2.50   1.50 11-Davis-Romeo vs 5-Miller-Moore
+  430          2.50   1.50 12-Ford-Mohrman vs 3-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   1.00 3-Ring-Christensen vs 1-Pesce-Jarvis
+        110    1.00   3.00 8-Laughary-Cowles vs 5-Miller-Moore
+  100          2.00   2.00 10-Emmerson-Westgate vs 9-Herman-Sieg
+        670    0.00   4.00 11-Davis-Romeo vs 6-Christie-Vulcan
+  140          4.00   0.00 12-Ford-Mohrman vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   1.00 3-Ring-Christensen vs 1-Pesce-Jarvis
+  420          3.00   1.00 8-Laughary-Cowles vs 5-Miller-Moore
+  420          3.00   1.00 10-Emmerson-Westgate vs 9-Herman-Sieg
+         50    0.00   4.00 11-Davis-Romeo vs 6-Christie-Vulcan
+  300          1.00   3.00 12-Ford-Mohrman vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          3.00   1.00 3-Ring-Christensen vs 1-Pesce-Jarvis
+        100    1.00   3.00 8-Laughary-Cowles vs 5-Miller-Moore
+  140          2.00   2.00 10-Emmerson-Westgate vs 9-Herman-Sieg
+        200    0.00   4.00 11-Davis-Romeo vs 6-Christie-Vulcan
+  620          4.00   0.00 12-Ford-Mohrman vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   3.00 1-Pesce-Jarvis vs 10-Emmerson-Westgate
+        620    2.00   2.00 3-Ring-Christensen vs 8-Laughary-Cowles
+        680    0.00   4.00 4-Tipton-Hesson vs 2-Roselle-Anderson
+  100          4.00   0.00 9-Herman-Sieg vs 6-Christie-Vulcan
+        140    3.00   1.00 12-Ford-Mohrman vs 5-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.50   2.50 1-Pesce-Jarvis vs 10-Emmerson-Westgate
+        130    4.00   0.00 3-Ring-Christensen vs 8-Laughary-Cowles
+        300    3.00   1.00 4-Tipton-Hesson vs 2-Roselle-Anderson
+        430    0.00   4.00 9-Herman-Sieg vs 6-Christie-Vulcan
+        400    1.50   2.50 12-Ford-Mohrman vs 5-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.00   2.00 1-Pesce-Jarvis vs 10-Emmerson-Westgate
+        430    2.00   2.00 3-Ring-Christensen vs 8-Laughary-Cowles
+        430    2.00   2.00 4-Tipton-Hesson vs 2-Roselle-Anderson
+        430    2.00   2.00 9-Herman-Sieg vs 6-Christie-Vulcan
+        430    2.00   2.00 12-Ford-Mohrman vs 5-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   2.00 2-Roselle-Anderson vs 10-Emmerson-Westgate
+        150    0.00   4.00 4-Tipton-Hesson vs 9-Herman-Sieg
+  200          4.00   0.00 5-Miller-Moore vs 3-Ring-Christensen
+        130    1.00   3.00 8-Laughary-Cowles vs 11-Davis-Romeo
+  100          3.00   1.00 12-Ford-Mohrman vs 6-Christie-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   0.00 2-Roselle-Anderson vs 10-Emmerson-Westgate
+         90    2.50   1.50 4-Tipton-Hesson vs 9-Herman-Sieg
+         90    2.50   1.50 5-Miller-Moore vs 3-Ring-Christensen
+        110    0.50   3.50 8-Laughary-Cowles vs 11-Davis-Romeo
+        110    0.50   3.50 12-Ford-Mohrman vs 6-Christie-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.00   2.00 2-Roselle-Anderson vs 10-Emmerson-Westgate
+  630          2.00   2.00 4-Tipton-Hesson vs 9-Herman-Sieg
+ 1100          4.00   0.00 5-Miller-Moore vs 3-Ring-Christensen
+  630          2.00   2.00 8-Laughary-Cowles vs 11-Davis-Romeo
+  500          0.00   4.00 12-Ford-Mohrman vs 6-Christie-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.00   3.00 2-Roselle-Anderson vs 8-Laughary-Cowles
+  530          4.00   0.00 5-Miller-Moore vs 1-Pesce-Jarvis
+        100    2.50   1.50 6-Christie-Vulcan vs 4-Tipton-Hesson
+        620    0.00   4.00 10-Emmerson-Westgate vs 3-Ring-Christensen
+        100    2.50   1.50 11-Davis-Romeo vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   1.00 2-Roselle-Anderson vs 8-Laughary-Cowles
+  100          4.00   0.00 5-Miller-Moore vs 1-Pesce-Jarvis
+        680    1.00   3.00 6-Christie-Vulcan vs 4-Tipton-Hesson
+        680    1.00   3.00 10-Emmerson-Westgate vs 3-Ring-Christensen
+        680    1.00   3.00 11-Davis-Romeo vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   1.50 2-Roselle-Anderson vs 8-Laughary-Cowles
+        200    1.00   3.00 5-Miller-Moore vs 1-Pesce-Jarvis
+        300    0.00   4.00 6-Christie-Vulcan vs 4-Tipton-Hesson
+   50          2.50   1.50 10-Emmerson-Westgate vs 3-Ring-Christensen
+  100          4.00   0.00 11-Davis-Romeo vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   4.00 3-Ring-Christensen vs 9-Herman-Sieg
+  180          2.00   2.00 6-Christie-Vulcan vs 2-Roselle-Anderson
+  460          4.00   0.00 10-Emmerson-Westgate vs 4-Tipton-Hesson
+  170          1.00   3.00 11-Davis-Romeo vs 1-Pesce-Jarvis
+  400          3.00   1.00 12-Ford-Mohrman vs 8-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   4.00 3-Ring-Christensen vs 9-Herman-Sieg
+  170          4.00   0.00 6-Christie-Vulcan vs 2-Roselle-Anderson
+  140          2.00   2.00 10-Emmerson-Westgate vs 4-Tipton-Hesson
+  140          2.00   2.00 11-Davis-Romeo vs 1-Pesce-Jarvis
+  140          2.00   2.00 12-Ford-Mohrman vs 8-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          1.00   3.00 3-Ring-Christensen vs 9-Herman-Sieg
+  430          3.50   0.50 6-Christie-Vulcan vs 2-Roselle-Anderson
+  130          1.00   3.00 10-Emmerson-Westgate vs 4-Tipton-Hesson
+  130          1.00   3.00 11-Davis-Romeo vs 1-Pesce-Jarvis
+  430          3.50   0.50 12-Ford-Mohrman vs 8-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.50   0.50 2-Roselle-Anderson vs 11-Davis-Romeo
+        150    0.50   3.50 4-Tipton-Hesson vs 1-Pesce-Jarvis
+  200          3.50   0.50 5-Miller-Moore vs 10-Emmerson-Westgate
+         50    2.00   2.00 8-Laughary-Cowles vs 6-Christie-Vulcan
+        150    0.50   3.50 12-Ford-Mohrman vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    3.00   1.00 2-Roselle-Anderson vs 11-Davis-Romeo
+        630    3.00   1.00 4-Tipton-Hesson vs 1-Pesce-Jarvis
+        630    3.00   1.00 5-Miller-Moore vs 10-Emmerson-Westgate
+        690    0.00   4.00 8-Laughary-Cowles vs 6-Christie-Vulcan
+        660    1.00   3.00 12-Ford-Mohrman vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.50   1.50 2-Roselle-Anderson vs 11-Davis-Romeo
+   50          4.00   0.00 4-Tipton-Hesson vs 1-Pesce-Jarvis
+        400    2.50   1.50 5-Miller-Moore vs 10-Emmerson-Westgate
+        430    0.50   3.50 8-Laughary-Cowles vs 6-Christie-Vulcan
+        430    0.50   3.50 12-Ford-Mohrman vs 9-Herman-Sieg
+----------------------------------------------------------------------
