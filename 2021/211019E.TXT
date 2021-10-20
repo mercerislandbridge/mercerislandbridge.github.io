@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 19, 2021   |CLUB NO.>158048    | 10/19/2021 22:31
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Appreciation game       |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=8/C=2                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B   .     3     .   |   .     3     .     69.50  51.48  1.11(OB)
+
+ 2 Nelson Davis           Hugh Hendrickson         B   .     1     .   |   5     1     .     77.00  57.04  1.97(OB)
+
+ 3 Bryan Delfs            Mike Christensen         A   4     .     .   |   4     .     .     77.50  57.41  1.27(OA)
+
+ 4 Kevin Cline            Becky Stevens            B   .     2     .   |   .     2     .     70.50  52.22  1.48(OB)
+
+ 5 Ray Miller             Bogdan Vulcan            A   3     .     .   |   3     .     .     78.00  57.78  1.69(OA)
+
+ 6 Eric Sieg              Kim Eng                  A   2     .     .   |   2     .     .     79.00  58.52  2.25(OA)
+
+ 7 Gregory Herman         William Herman           C   .     .     .   |   .     .     1     62.00  45.93  0.73(SC)
+
+ 8 Mike Ring              Shawn Abernethy          B   .     .     .   |   .     .     .     55.00  40.74          
+
+ 9 Adam Ruprecht          Christopher Jarvis       C   .     .     .   |   .     .     .     49.00  36.30          
+
+10 John Emmerson          Melinda Westgate         B   .     .     .   |   .     .     .     57.00  42.22          
+
+11 Howard Epley           Barbara Nist             A   1     .     .   |   1     .     .     84.50  62.59  3.00(OA)
+
+12 Aaron Mohrman          Ann Romeo                B   .     .     .   |   .     .     .     51.00  37.78          
+
+
+                                          Totals                                            810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   4.50 3-Delfs-Christensen vs 11-Epley-Nist
+   90          4.00   1.00 5-Miller-Vulcan vs 2-Davis-Hendrickson
+         50    3.00   2.00 6-Sieg-Eng vs 10-Emmerson-Westgate
+        170    2.00   3.00 8-Ring-Abernethy vs 4-Cline-Stevens
+        200    0.50   4.50 9-Ruprecht-Jarvis vs 7-Herman-Herman
+  110          5.00   0.00 12-Mohrman-Romeo vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.00   5.00 3-Delfs-Christensen vs 11-Epley-Nist
+        170    2.50   2.50 5-Miller-Vulcan vs 2-Davis-Hendrickson
+        170    2.50   2.50 6-Sieg-Eng vs 10-Emmerson-Westgate
+        100    5.00   0.00 8-Ring-Abernethy vs 4-Cline-Stevens
+        170    2.50   2.50 9-Ruprecht-Jarvis vs 7-Herman-Herman
+        170    2.50   2.50 12-Mohrman-Romeo vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.50   2.50 3-Delfs-Christensen vs 11-Epley-Nist
+        380    0.00   5.00 5-Miller-Vulcan vs 2-Davis-Hendrickson
+   90          2.50   2.50 6-Sieg-Eng vs 10-Emmerson-Westgate
+        100    1.00   4.00 8-Ring-Abernethy vs 4-Cline-Stevens
+  120          4.50   0.50 9-Ruprecht-Jarvis vs 7-Herman-Herman
+  120          4.50   0.50 12-Mohrman-Romeo vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.00   2.00 1-Tipton-Hesson vs 8-Ring-Abernethy
+        660    0.00   5.00 6-Sieg-Eng vs 3-Delfs-Christensen
+        130    4.00   1.00 7-Herman-Herman vs 10-Emmerson-Westgate
+        600    1.00   4.00 9-Ruprecht-Jarvis vs 5-Miller-Vulcan
+        120    5.00   0.00 11-Epley-Nist vs 4-Cline-Stevens
+        180    2.00   3.00 12-Mohrman-Romeo vs 2-Davis-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   0.50 1-Tipton-Hesson vs 8-Ring-Abernethy
+        100    1.00   4.00 6-Sieg-Eng vs 3-Delfs-Christensen
+  620          4.50   0.50 7-Herman-Herman vs 10-Emmerson-Westgate
+        100    1.00   4.00 9-Ruprecht-Jarvis vs 5-Miller-Vulcan
+  140          3.00   2.00 11-Epley-Nist vs 4-Cline-Stevens
+        100    1.00   4.00 12-Mohrman-Romeo vs 2-Davis-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       2140    0.00   5.00 1-Tipton-Hesson vs 8-Ring-Abernethy
+       1470    2.50   2.50 6-Sieg-Eng vs 3-Delfs-Christensen
+        720    5.00   0.00 7-Herman-Herman vs 10-Emmerson-Westgate
+       1470    2.50   2.50 9-Ruprecht-Jarvis vs 5-Miller-Vulcan
+       1470    2.50   2.50 11-Epley-Nist vs 4-Cline-Stevens
+       1470    2.50   2.50 12-Mohrman-Romeo vs 2-Davis-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    4.00   1.00 1-Tipton-Hesson vs 6-Sieg-Eng
+        620    4.00   1.00 2-Davis-Hendrickson vs 9-Ruprecht-Jarvis
+        650    1.00   4.00 7-Herman-Herman vs 4-Cline-Stevens
+        650    1.00   4.00 10-Emmerson-Westgate vs 8-Ring-Abernethy
+        620    4.00   1.00 11-Epley-Nist vs 5-Miller-Vulcan
+        650    1.00   4.00 12-Mohrman-Romeo vs 3-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   2.50 1-Tipton-Hesson vs 6-Sieg-Eng
+        150    1.00   4.00 2-Davis-Hendrickson vs 9-Ruprecht-Jarvis
+        100    5.00   0.00 7-Herman-Herman vs 4-Cline-Stevens
+        110    4.00   1.00 10-Emmerson-Westgate vs 8-Ring-Abernethy
+        140    2.50   2.50 11-Epley-Nist vs 5-Miller-Vulcan
+        170    0.00   5.00 12-Mohrman-Romeo vs 3-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.50   1.50 1-Tipton-Hesson vs 6-Sieg-Eng
+  130          5.00   0.00 2-Davis-Hendrickson vs 9-Ruprecht-Jarvis
+   90          1.50   3.50 7-Herman-Herman vs 4-Cline-Stevens
+         50    0.00   5.00 10-Emmerson-Westgate vs 8-Ring-Abernethy
+  110          3.50   1.50 11-Epley-Nist vs 5-Miller-Vulcan
+   90          1.50   3.50 12-Mohrman-Romeo vs 3-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 2-Davis-Hendrickson vs 7-Herman-Herman
+  100          4.00   1.00 3-Delfs-Christensen vs 1-Tipton-Hesson
+        200    0.00   5.00 8-Ring-Abernethy vs 5-Miller-Vulcan
+  100          4.00   1.00 10-Emmerson-Westgate vs 9-Ruprecht-Jarvis
+        170    1.50   3.50 11-Epley-Nist vs 6-Sieg-Eng
+        170    1.50   3.50 12-Mohrman-Romeo vs 4-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          3.00   2.00 2-Davis-Hendrickson vs 7-Herman-Herman
+  980          3.00   2.00 3-Delfs-Christensen vs 1-Tipton-Hesson
+  480          0.00   5.00 8-Ring-Abernethy vs 5-Miller-Vulcan
+  980          3.00   2.00 10-Emmerson-Westgate vs 9-Ruprecht-Jarvis
+  980          3.00   2.00 11-Epley-Nist vs 6-Sieg-Eng
+  980          3.00   2.00 12-Mohrman-Romeo vs 4-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   1.00 2-Davis-Hendrickson vs 7-Herman-Herman
+         90    3.00   2.00 3-Delfs-Christensen vs 1-Tipton-Hesson
+  150          5.00   0.00 8-Ring-Abernethy vs 5-Miller-Vulcan
+        110    2.00   3.00 10-Emmerson-Westgate vs 9-Ruprecht-Jarvis
+        140    1.00   4.00 11-Epley-Nist vs 6-Sieg-Eng
+        170    0.00   5.00 12-Mohrman-Romeo vs 4-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   2.00 1-Tipton-Hesson vs 10-Emmerson-Westgate
+  300          4.00   1.00 3-Delfs-Christensen vs 8-Ring-Abernethy
+  400          5.00   0.00 4-Cline-Stevens vs 2-Davis-Hendrickson
+        930    0.00   5.00 7-Herman-Herman vs 11-Epley-Nist
+        140    2.00   3.00 9-Ruprecht-Jarvis vs 6-Sieg-Eng
+        170    1.00   4.00 12-Mohrman-Romeo vs 5-Miller-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   1.00 1-Tipton-Hesson vs 10-Emmerson-Westgate
+  420          4.00   1.00 3-Delfs-Christensen vs 8-Ring-Abernethy
+  420          4.00   1.00 4-Cline-Stevens vs 2-Davis-Hendrickson
+        150    0.00   5.00 7-Herman-Herman vs 11-Epley-Nist
+        100    1.00   4.00 9-Ruprecht-Jarvis vs 6-Sieg-Eng
+         50    2.00   3.00 12-Mohrman-Romeo vs 5-Miller-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   3.50 1-Tipton-Hesson vs 10-Emmerson-Westgate
+  600          4.50   0.50 3-Delfs-Christensen vs 8-Ring-Abernethy
+  380          3.00   2.00 4-Cline-Stevens vs 2-Davis-Hendrickson
+  600          4.50   0.50 7-Herman-Herman vs 11-Epley-Nist
+  100          0.00   5.00 9-Ruprecht-Jarvis vs 6-Sieg-Eng
+  110          1.50   3.50 12-Mohrman-Romeo vs 5-Miller-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          4.00   1.00 1-Tipton-Hesson vs 7-Herman-Herman
+  480          4.00   1.00 2-Davis-Hendrickson vs 10-Emmerson-Westgate
+  450          1.00   4.00 4-Cline-Stevens vs 9-Ruprecht-Jarvis
+  480          4.00   1.00 5-Miller-Vulcan vs 3-Delfs-Christensen
+  450          1.00   4.00 8-Ring-Abernethy vs 11-Epley-Nist
+  450          1.00   4.00 12-Mohrman-Romeo vs 6-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   1.00 1-Tipton-Hesson vs 7-Herman-Herman
+        110    2.50   2.50 2-Davis-Hendrickson vs 10-Emmerson-Westgate
+        110    2.50   2.50 4-Cline-Stevens vs 9-Ruprecht-Jarvis
+  110          5.00   0.00 5-Miller-Vulcan vs 3-Delfs-Christensen
+        150    0.50   4.50 8-Ring-Abernethy vs 11-Epley-Nist
+        150    0.50   4.50 12-Mohrman-Romeo vs 6-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 1-Tipton-Hesson vs 7-Herman-Herman
+  300          5.00   0.00 2-Davis-Hendrickson vs 10-Emmerson-Westgate
+  130          4.00   1.00 4-Cline-Stevens vs 9-Ruprecht-Jarvis
+        110    0.50   4.50 5-Miller-Vulcan vs 3-Delfs-Christensen
+   50          2.00   3.00 8-Ring-Abernethy vs 11-Epley-Nist
+        110    0.50   4.50 12-Mohrman-Romeo vs 6-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.00   1.00 2-Davis-Hendrickson vs 8-Ring-Abernethy
+        140    1.50   3.50 5-Miller-Vulcan vs 1-Tipton-Hesson
+        140    1.50   3.50 6-Sieg-Eng vs 4-Cline-Stevens
+  200          3.00   2.00 10-Emmerson-Westgate vs 3-Delfs-Christensen
+  400          5.00   0.00 11-Epley-Nist vs 9-Ruprecht-Jarvis
+        620    0.00   5.00 12-Mohrman-Romeo vs 7-Herman-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.00   2.00 2-Davis-Hendrickson vs 8-Ring-Abernethy
+        100    0.50   4.50 5-Miller-Vulcan vs 1-Tipton-Hesson
+  200          4.00   1.00 6-Sieg-Eng vs 4-Cline-Stevens
+  100          2.00   3.00 10-Emmerson-Westgate vs 3-Delfs-Christensen
+  620          5.00   0.00 11-Epley-Nist vs 9-Ruprecht-Jarvis
+        100    0.50   4.50 12-Mohrman-Romeo vs 7-Herman-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    0.50   4.50 2-Davis-Hendrickson vs 8-Ring-Abernethy
+   90          3.50   1.50 5-Miller-Vulcan vs 1-Tipton-Hesson
+         90    0.50   4.50 6-Sieg-Eng vs 4-Cline-Stevens
+   90          3.50   1.50 10-Emmerson-Westgate vs 3-Delfs-Christensen
+   50          2.00   3.00 11-Epley-Nist vs 9-Ruprecht-Jarvis
+  110          5.00   0.00 12-Mohrman-Romeo vs 7-Herman-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   1.00 3-Delfs-Christensen vs 9-Ruprecht-Jarvis
+         50    2.50   2.50 6-Sieg-Eng vs 2-Davis-Hendrickson
+        170    0.00   5.00 7-Herman-Herman vs 5-Miller-Vulcan
+  570          5.00   0.00 10-Emmerson-Westgate vs 4-Cline-Stevens
+         50    2.50   2.50 11-Epley-Nist vs 1-Tipton-Hesson
+        100    1.00   4.00 12-Mohrman-Romeo vs 8-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   1.50 3-Delfs-Christensen vs 9-Ruprecht-Jarvis
+  100          3.50   1.50 6-Sieg-Eng vs 2-Davis-Hendrickson
+  100          3.50   1.50 7-Herman-Herman vs 5-Miller-Vulcan
+  100          3.50   1.50 10-Emmerson-Westgate vs 4-Cline-Stevens
+         90    1.00   4.00 11-Epley-Nist vs 1-Tipton-Hesson
+        110    0.00   5.00 12-Mohrman-Romeo vs 8-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.50   3.50 3-Delfs-Christensen vs 9-Ruprecht-Jarvis
+        420    3.00   2.00 6-Sieg-Eng vs 2-Davis-Hendrickson
+        920    0.00   5.00 7-Herman-Herman vs 5-Miller-Vulcan
+        450    1.50   3.50 10-Emmerson-Westgate vs 4-Cline-Stevens
+   50          4.00   1.00 11-Epley-Nist vs 1-Tipton-Hesson
+  100          5.00   0.00 12-Mohrman-Romeo vs 8-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   0.00 2-Davis-Hendrickson vs 11-Epley-Nist
+   90          1.50   3.50 4-Cline-Stevens vs 1-Tipton-Hesson
+  140          4.00   1.00 5-Miller-Vulcan vs 10-Emmerson-Westgate
+  110          3.00   2.00 7-Herman-Herman vs 3-Delfs-Christensen
+        730    0.00   5.00 8-Ring-Abernethy vs 6-Sieg-Eng
+   90          1.50   3.50 12-Mohrman-Romeo vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 2-Davis-Hendrickson vs 11-Epley-Nist
+         90    1.00   4.00 4-Cline-Stevens vs 1-Tipton-Hesson
+   90          3.00   2.00 5-Miller-Vulcan vs 10-Emmerson-Westgate
+   90          3.00   2.00 7-Herman-Herman vs 3-Delfs-Christensen
+        200    0.00   5.00 8-Ring-Abernethy vs 6-Sieg-Eng
+   90          3.00   2.00 12-Mohrman-Romeo vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   5.00 2-Davis-Hendrickson vs 11-Epley-Nist
+  100          5.00   0.00 4-Cline-Stevens vs 1-Tipton-Hesson
+        110    2.00   3.00 5-Miller-Vulcan vs 10-Emmerson-Westgate
+        110    2.00   3.00 7-Herman-Herman vs 3-Delfs-Christensen
+        110    2.00   3.00 8-Ring-Abernethy vs 6-Sieg-Eng
+   50          4.00   1.00 12-Mohrman-Romeo vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
