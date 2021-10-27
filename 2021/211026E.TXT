@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 26, 2021   |CLUB NO.>158048    | 10/26/2021 22:10
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=7/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Jenni Carmichael       Bryan Delfs              A   .     .     .   |   .     .     .     68.00  50.37          
+
+ 2 Ann Romeo              Jeremy Gulley            C   3     1     .   |   3     1     1     76.50  56.67  1.53(OB)
+
+ 3 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     65.50  48.52          
+
+ 4 Bogdan Vulcan          Stanford Christie        A   1     .     .   |   1     .     .     83.00  61.48  2.33(OA)
+
+ 5 Ray Miller             Aaron Mohrman            A   .     .     .   |   .     .     .     59.00  43.70          
+
+ 6 Kevin Cline            Becky Stevens            B   .     3     .   |   .     3     .     66.50  49.26  0.86(OB)
+
+ 7 Clay Laughary          Pete Cowles              C   .     .     .   |   .     .     .     59.00  43.70          
+
+ 8 Eric Sieg              Arthur Gong              B   .     .     .   |   .     .     .     61.50  45.56          
+
+ 9 Mike Christensen       David Wright             A   2     .     .   |   2     .     .     82.50  61.11  1.75(OA)
+
+10 Kim Eng                Jeffrey Ford             A   4     .     .   |   4     .     .     73.00  54.07  0.98(OA)
+
+11 John Emmerson          Melinda Westgate         B   .     .     .   |   .     .     .     46.50  34.44          
+
+12 Adam Ruprecht          Christopher Jarvis       C   .     2     .   |   5     2     .     69.00  51.11  1.15(OB)
+
+
+                                          Totals                                            810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   3.50 3-Tipton-Hesson vs 11-Emmerson-Westgate
+         50    0.00   5.00 5-Miller-Mohrman vs 2-Romeo-Gulley
+  420          4.50   0.50 6-Cline-Stevens vs 10-Eng-Ford
+   50          1.50   3.50 8-Sieg-Gong vs 4-Vulcan-Christie
+  130          3.00   2.00 9-Christensen-Wright vs 7-Laughary-Cowles
+  420          4.50   0.50 12-Ruprecht-Jarvis vs 1-Carmichael-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.50   0.50 3-Tipton-Hesson vs 11-Emmerson-Westgate
+        400    0.00   5.00 5-Miller-Mohrman vs 2-Romeo-Gulley
+  130          4.50   0.50 6-Cline-Stevens vs 10-Eng-Ford
+        110    3.00   2.00 8-Sieg-Gong vs 4-Vulcan-Christie
+        130    1.50   3.50 9-Christensen-Wright vs 7-Laughary-Cowles
+        130    1.50   3.50 12-Ruprecht-Jarvis vs 1-Carmichael-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   2.00 3-Tipton-Hesson vs 11-Emmerson-Westgate
+        110    3.00   2.00 5-Miller-Mohrman vs 2-Romeo-Gulley
+        110    3.00   2.00 6-Cline-Stevens vs 10-Eng-Ford
+        150    0.00   5.00 8-Sieg-Gong vs 4-Vulcan-Christie
+        110    3.00   2.00 9-Christensen-Wright vs 7-Laughary-Cowles
+        110    3.00   2.00 12-Ruprecht-Jarvis vs 1-Carmichael-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.50   2.50 1-Carmichael-Delfs vs 8-Sieg-Gong
+        620    2.50   2.50 6-Cline-Stevens vs 3-Tipton-Hesson
+        620    2.50   2.50 7-Laughary-Cowles vs 10-Eng-Ford
+        620    2.50   2.50 9-Christensen-Wright vs 5-Miller-Mohrman
+        620    2.50   2.50 11-Emmerson-Westgate vs 4-Vulcan-Christie
+        620    2.50   2.50 12-Ruprecht-Jarvis vs 2-Romeo-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.50   0.50 1-Carmichael-Delfs vs 8-Sieg-Gong
+  620          2.00   3.00 6-Cline-Stevens vs 3-Tipton-Hesson
+  620          2.00   3.00 7-Laughary-Cowles vs 10-Eng-Ford
+  650          4.50   0.50 9-Christensen-Wright vs 5-Miller-Mohrman
+        100    0.00   5.00 11-Emmerson-Westgate vs 4-Vulcan-Christie
+  620          2.00   3.00 12-Ruprecht-Jarvis vs 2-Romeo-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   2.00 1-Carmichael-Delfs vs 8-Sieg-Gong
+  300          4.00   1.00 6-Cline-Stevens vs 3-Tipton-Hesson
+        130    1.00   4.00 7-Laughary-Cowles vs 10-Eng-Ford
+  500          5.00   0.00 9-Christensen-Wright vs 5-Miller-Mohrman
+        100    2.00   3.00 11-Emmerson-Westgate vs 4-Vulcan-Christie
+        150    0.00   5.00 12-Ruprecht-Jarvis vs 2-Romeo-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   0.00 1-Carmichael-Delfs vs 6-Cline-Stevens
+        100    0.00   5.00 2-Romeo-Gulley vs 9-Christensen-Wright
+  200          3.50   1.50 7-Laughary-Cowles vs 4-Vulcan-Christie
+  200          3.50   1.50 10-Eng-Ford vs 8-Sieg-Gong
+  140          1.00   4.00 11-Emmerson-Westgate vs 5-Miller-Mohrman
+  170          2.00   3.00 12-Ruprecht-Jarvis vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   5.00 1-Carmichael-Delfs vs 6-Cline-Stevens
+  100          3.50   1.50 2-Romeo-Gulley vs 9-Christensen-Wright
+  100          3.50   1.50 7-Laughary-Cowles vs 4-Vulcan-Christie
+  100          3.50   1.50 10-Eng-Ford vs 8-Sieg-Gong
+  100          3.50   1.50 11-Emmerson-Westgate vs 5-Miller-Mohrman
+        110    1.00   4.00 12-Ruprecht-Jarvis vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 1-Carmichael-Delfs vs 6-Cline-Stevens
+  100          3.00   2.00 2-Romeo-Gulley vs 9-Christensen-Wright
+        100    0.00   5.00 7-Laughary-Cowles vs 4-Vulcan-Christie
+  200          5.00   0.00 10-Eng-Ford vs 8-Sieg-Gong
+  100          3.00   2.00 11-Emmerson-Westgate vs 5-Miller-Mohrman
+         90    1.00   4.00 12-Ruprecht-Jarvis vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 2-Romeo-Gulley vs 7-Laughary-Cowles
+        130    1.00   4.00 3-Tipton-Hesson vs 1-Carmichael-Delfs
+  100          3.50   1.50 8-Sieg-Gong vs 5-Miller-Mohrman
+        130    1.00   4.00 10-Eng-Ford vs 9-Christensen-Wright
+  100          3.50   1.50 11-Emmerson-Westgate vs 6-Cline-Stevens
+        130    1.00   4.00 12-Ruprecht-Jarvis vs 4-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   5.00 2-Romeo-Gulley vs 7-Laughary-Cowles
+  200          3.00   2.00 3-Tipton-Hesson vs 1-Carmichael-Delfs
+  100          1.50   3.50 8-Sieg-Gong vs 5-Miller-Mohrman
+  300          4.50   0.50 10-Eng-Ford vs 9-Christensen-Wright
+  100          1.50   3.50 11-Emmerson-Westgate vs 6-Cline-Stevens
+  300          4.50   0.50 12-Ruprecht-Jarvis vs 4-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    4.00   1.00 2-Romeo-Gulley vs 7-Laughary-Cowles
+        200    5.00   0.00 3-Tipton-Hesson vs 1-Carmichael-Delfs
+        400    3.00   2.00 8-Sieg-Gong vs 5-Miller-Mohrman
+        500    2.00   3.00 10-Eng-Ford vs 9-Christensen-Wright
+        800    0.50   4.50 11-Emmerson-Westgate vs 6-Cline-Stevens
+        800    0.50   4.50 12-Ruprecht-Jarvis vs 4-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 1-Carmichael-Delfs vs 10-Eng-Ford
+        140    0.00   5.00 3-Tipton-Hesson vs 8-Sieg-Gong
+        110    2.50   2.50 4-Vulcan-Christie vs 2-Romeo-Gulley
+        110    2.50   2.50 7-Laughary-Cowles vs 11-Emmerson-Westgate
+  180          5.00   0.00 9-Christensen-Wright vs 6-Cline-Stevens
+        120    1.00   4.00 12-Ruprecht-Jarvis vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   0.50 1-Carmichael-Delfs vs 10-Eng-Ford
+        400    0.00   5.00 3-Tipton-Hesson vs 8-Sieg-Gong
+   50          2.00   3.00 4-Vulcan-Christie vs 2-Romeo-Gulley
+   50          2.00   3.00 7-Laughary-Cowles vs 11-Emmerson-Westgate
+   50          2.00   3.00 9-Christensen-Wright vs 6-Cline-Stevens
+  100          4.50   0.50 12-Ruprecht-Jarvis vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   2.50 1-Carmichael-Delfs vs 10-Eng-Ford
+   50          0.50   4.50 3-Tipton-Hesson vs 8-Sieg-Gong
+  110          4.00   1.00 4-Vulcan-Christie vs 2-Romeo-Gulley
+  120          5.00   0.00 7-Laughary-Cowles vs 11-Emmerson-Westgate
+   50          0.50   4.50 9-Christensen-Wright vs 6-Cline-Stevens
+  100          2.50   2.50 12-Ruprecht-Jarvis vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  210          5.00   0.00 1-Carmichael-Delfs vs 7-Laughary-Cowles
+  120          2.50   2.50 2-Romeo-Gulley vs 10-Eng-Ford
+         50    0.50   4.50 4-Vulcan-Christie vs 9-Christensen-Wright
+         50    0.50   4.50 5-Miller-Mohrman vs 3-Tipton-Hesson
+  180          4.00   1.00 8-Sieg-Gong vs 11-Emmerson-Westgate
+  120          2.50   2.50 12-Ruprecht-Jarvis vs 6-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   2.00 1-Carmichael-Delfs vs 7-Laughary-Cowles
+  110          0.00   5.00 2-Romeo-Gulley vs 10-Eng-Ford
+  140          3.00   2.00 4-Vulcan-Christie vs 9-Christensen-Wright
+  140          3.00   2.00 5-Miller-Mohrman vs 3-Tipton-Hesson
+  140          3.00   2.00 8-Sieg-Gong vs 11-Emmerson-Westgate
+  140          3.00   2.00 12-Ruprecht-Jarvis vs 6-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 1-Carmichael-Delfs vs 7-Laughary-Cowles
+  200          3.50   1.50 2-Romeo-Gulley vs 10-Eng-Ford
+  170          1.50   3.50 4-Vulcan-Christie vs 9-Christensen-Wright
+  200          3.50   1.50 5-Miller-Mohrman vs 3-Tipton-Hesson
+  170          1.50   3.50 8-Sieg-Gong vs 11-Emmerson-Westgate
+  650          5.00   0.00 12-Ruprecht-Jarvis vs 6-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   2.00 2-Romeo-Gulley vs 8-Sieg-Gong
+        170    3.00   2.00 5-Miller-Mohrman vs 1-Carmichael-Delfs
+        620    1.00   4.00 6-Cline-Stevens vs 4-Vulcan-Christie
+ 2200          5.00   0.00 10-Eng-Ford vs 3-Tipton-Hesson
+        650    0.00   5.00 11-Emmerson-Westgate vs 9-Christensen-Wright
+        170    3.00   2.00 12-Ruprecht-Jarvis vs 7-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   3.00 2-Romeo-Gulley vs 8-Sieg-Gong
+ 1400          5.00   0.00 5-Miller-Mohrman vs 1-Carmichael-Delfs
+  150          0.00   5.00 6-Cline-Stevens vs 4-Vulcan-Christie
+  660          4.00   1.00 10-Eng-Ford vs 3-Tipton-Hesson
+  500          1.00   4.00 11-Emmerson-Westgate vs 9-Christensen-Wright
+  630          3.00   2.00 12-Ruprecht-Jarvis vs 7-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   0.00 2-Romeo-Gulley vs 8-Sieg-Gong
+   90          3.00   2.00 5-Miller-Mohrman vs 1-Carmichael-Delfs
+   50          1.00   4.00 6-Cline-Stevens vs 4-Vulcan-Christie
+   90          3.00   2.00 10-Eng-Ford vs 3-Tipton-Hesson
+        200    0.00   5.00 11-Emmerson-Westgate vs 9-Christensen-Wright
+   90          3.00   2.00 12-Ruprecht-Jarvis vs 7-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.00   3.00 3-Tipton-Hesson vs 9-Christensen-Wright
+        130    2.00   3.00 6-Cline-Stevens vs 2-Romeo-Gulley
+  110          5.00   0.00 7-Laughary-Cowles vs 5-Miller-Mohrman
+        180    0.00   5.00 10-Eng-Ford vs 4-Vulcan-Christie
+        130    2.00   3.00 11-Emmerson-Westgate vs 1-Carmichael-Delfs
+    PASS       4.00   1.00 12-Ruprecht-Jarvis vs 8-Sieg-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.00   2.00 3-Tipton-Hesson vs 9-Christensen-Wright
+  630          2.00   3.00 6-Cline-Stevens vs 2-Romeo-Gulley
+        200    0.00   5.00 7-Laughary-Cowles vs 5-Miller-Mohrman
+  690          4.50   0.50 10-Eng-Ford vs 4-Vulcan-Christie
+  600          1.00   4.00 11-Emmerson-Westgate vs 1-Carmichael-Delfs
+  690          4.50   0.50 12-Ruprecht-Jarvis vs 8-Sieg-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.00   3.00 3-Tipton-Hesson vs 9-Christensen-Wright
+  420          5.00   0.00 6-Cline-Stevens vs 2-Romeo-Gulley
+  400          2.00   3.00 7-Laughary-Cowles vs 5-Miller-Mohrman
+  400          2.00   3.00 10-Eng-Ford vs 4-Vulcan-Christie
+  400          2.00   3.00 11-Emmerson-Westgate vs 1-Carmichael-Delfs
+  400          2.00   3.00 12-Ruprecht-Jarvis vs 8-Sieg-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   2.50 2-Romeo-Gulley vs 11-Emmerson-Westgate
+         50    2.50   2.50 4-Vulcan-Christie vs 1-Carmichael-Delfs
+         50    2.50   2.50 5-Miller-Mohrman vs 10-Eng-Ford
+         50    2.50   2.50 7-Laughary-Cowles vs 3-Tipton-Hesson
+        100    0.00   5.00 8-Sieg-Gong vs 6-Cline-Stevens
+  170          5.00   0.00 12-Ruprecht-Jarvis vs 9-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   0.50 2-Romeo-Gulley vs 11-Emmerson-Westgate
+  100          2.50   2.50 4-Vulcan-Christie vs 1-Carmichael-Delfs
+        100    1.00   4.00 5-Miller-Mohrman vs 10-Eng-Ford
+        110    0.00   5.00 7-Laughary-Cowles vs 3-Tipton-Hesson
+  200          4.50   0.50 8-Sieg-Gong vs 6-Cline-Stevens
+  100          2.50   2.50 12-Ruprecht-Jarvis vs 9-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.00   2.00 2-Romeo-Gulley vs 11-Emmerson-Westgate
+  200          5.00   0.00 4-Vulcan-Christie vs 1-Carmichael-Delfs
+         90    2.00   3.00 5-Miller-Mohrman vs 10-Eng-Ford
+        110    1.00   4.00 7-Laughary-Cowles vs 3-Tipton-Hesson
+  170          4.00   1.00 8-Sieg-Gong vs 6-Cline-Stevens
+        470    0.00   5.00 12-Ruprecht-Jarvis vs 9-Christensen-Wright
+----------------------------------------------------------------------
