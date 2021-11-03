@@ -1,0 +1,331 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 2, 2021   |CLUB NO.>158048    | 11/02/2021 22:23
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3500/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=1                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Aaron Mohrman          Jeffrey Ford             B   3     1     .   |   3     1     .     60.38  55.91  1.58(OB)
+
+ 2 David Binney           Ann Romeo                A   1     .     .   |   1     .     .     65.63  60.77  2.19(OA)
+
+ 3 Eric Sieg              David Taylor             B   4     2     .   |   4     2     .     59.25  54.86  1.19(OB)
+
+ 4 Kevin Cline            Becky Stevens            B   .     .     .   |   .     .     .     52.96  49.04          
+
+ 5 Beau Hovda             Sue Anderson             B   .     .     .   |   .     .     .     42.75  39.58          
+
+ 6 Ray Miller             Bogdan Vulcan            A   .     .     .   |   .     .     .     55.63  51.51          
+
+ 7 Bryan Delfs            Mike Christensen         A   2     .     .   |   2     .     .     60.75  56.25  1.64(OA)
+
+ 8 Pete Cowles            Clay Laughary            C   .     3     .   |   .     3     .     57.25  53.01  0.89(OB)
+
+ 9 Adam Ruprecht          Christopher Jarvis       B   .     .     .   |   .     .     .     40.88  37.85          
+
+10 Gregory Herman         Thang Phu                B   .     .     .   |   .     .     .     44.13  40.86          
+
+
+                                          Totals                                            539.61       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.00   1.00 1-Mohrman-Ford vs 4-Cline-Stevens
+  200          4.00   0.00 2-Binney-Romeo vs 9-Ruprecht-Jarvis
+         50    0.00   4.00 3-Sieg-Taylor vs 7-Delfs-Christensen
+  140          2.00   2.00 5-Hovda-Anderson vs 6-Miller-Vulcan
+  100          1.00   3.00 10-Herman-Phu vs 8-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   4.00 1-Mohrman-Ford vs 4-Cline-Stevens
+  140          4.00   0.00 2-Binney-Romeo vs 9-Ruprecht-Jarvis
+        100    2.00   2.00 3-Sieg-Taylor vs 7-Delfs-Christensen
+        100    2.00   2.00 5-Hovda-Anderson vs 6-Miller-Vulcan
+        100    2.00   2.00 10-Herman-Phu vs 8-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   2.50 1-Mohrman-Ford vs 4-Cline-Stevens
+  150          4.00   0.00 2-Binney-Romeo vs 9-Ruprecht-Jarvis
+         50    0.00   4.00 3-Sieg-Taylor vs 7-Delfs-Christensen
+  120          3.00   1.00 5-Hovda-Anderson vs 6-Miller-Vulcan
+  110          1.50   2.50 10-Herman-Phu vs 8-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    3.00   1.00 2-Binney-Romeo vs 5-Hovda-Anderson
+        660    0.50   3.50 3-Sieg-Taylor vs 1-Mohrman-Ford
+        660    0.50   3.50 4-Cline-Stevens vs 8-Cowles-Laughary
+        630    3.00   1.00 6-Miller-Vulcan vs 7-Delfs-Christensen
+        630    3.00   1.00 10-Herman-Phu vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.00   3.00 2-Binney-Romeo vs 5-Hovda-Anderson
+ 1440          4.00   0.00 3-Sieg-Taylor vs 1-Mohrman-Ford
+  500          0.00   4.00 4-Cline-Stevens vs 8-Cowles-Laughary
+ 1430          3.00   1.00 6-Miller-Vulcan vs 7-Delfs-Christensen
+  690          2.00   2.00 10-Herman-Phu vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.00   4.00 2-Binney-Romeo vs 5-Hovda-Anderson
+        500    2.00   2.00 3-Sieg-Taylor vs 1-Mohrman-Ford
+        300    3.50   0.50 4-Cline-Stevens vs 8-Cowles-Laughary
+        650    1.00   3.00 6-Miller-Vulcan vs 7-Delfs-Christensen
+        300    3.50   0.50 10-Herman-Phu vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.50   1.50 3-Sieg-Taylor vs 6-Miller-Vulcan
+        600    4.00   0.00 4-Cline-Stevens vs 2-Binney-Romeo
+        660    0.50   3.50 5-Hovda-Anderson vs 9-Ruprecht-Jarvis
+        630    2.50   1.50 7-Delfs-Christensen vs 8-Cowles-Laughary
+        660    0.50   3.50 10-Herman-Phu vs 1-Mohrman-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 3-Sieg-Taylor vs 6-Miller-Vulcan
+        150    0.00   4.00 4-Cline-Stevens vs 2-Binney-Romeo
+        130    1.50   2.50 5-Hovda-Anderson vs 9-Ruprecht-Jarvis
+        110    3.00   1.00 7-Delfs-Christensen vs 8-Cowles-Laughary
+        130    1.50   2.50 10-Herman-Phu vs 1-Mohrman-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.50   2.50 3-Sieg-Taylor vs 6-Miller-Vulcan
+        680    1.50   2.50 4-Cline-Stevens vs 2-Binney-Romeo
+        680    1.50   2.50 5-Hovda-Anderson vs 9-Ruprecht-Jarvis
+        650    4.00   0.00 7-Delfs-Christensen vs 8-Cowles-Laughary
+        680    1.50   2.50 10-Herman-Phu vs 1-Mohrman-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.00   0.00 4-Cline-Stevens vs 7-Delfs-Christensen
+        650    2.00   2.00 5-Hovda-Anderson vs 3-Sieg-Taylor
+        650    2.00   2.00 6-Miller-Vulcan vs 1-Mohrman-Ford
+        990    0.00   4.00 8-Cowles-Laughary vs 9-Ruprecht-Jarvis
+        650    2.00   2.00 10-Herman-Phu vs 2-Binney-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   2.00 4-Cline-Stevens vs 7-Delfs-Christensen
+   50          1.00   3.00 5-Hovda-Anderson vs 3-Sieg-Taylor
+  120          3.00   1.00 6-Miller-Vulcan vs 1-Mohrman-Ford
+  150          4.00   0.00 8-Cowles-Laughary vs 9-Ruprecht-Jarvis
+        100    0.00   4.00 10-Herman-Phu vs 2-Binney-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        280    0.00   4.00 4-Cline-Stevens vs 7-Delfs-Christensen
+        100    1.50   2.50 5-Hovda-Anderson vs 3-Sieg-Taylor
+        100    1.50   2.50 6-Miller-Vulcan vs 1-Mohrman-Ford
+   50          3.00   1.00 8-Cowles-Laughary vs 9-Ruprecht-Jarvis
+  120          4.00   0.00 10-Herman-Phu vs 2-Binney-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.00   3.00 5-Hovda-Anderson vs 8-Cowles-Laughary
+  650          3.50   0.50 6-Miller-Vulcan vs 4-Cline-Stevens
+  620          1.00   3.00 7-Delfs-Christensen vs 2-Binney-Romeo
+  620          1.00   3.00 9-Ruprecht-Jarvis vs 1-Mohrman-Ford
+  650          3.50   0.50 10-Herman-Phu vs 3-Sieg-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   3.50 5-Hovda-Anderson vs 8-Cowles-Laughary
+  800          4.00   0.00 6-Miller-Vulcan vs 4-Cline-Stevens
+  400          2.50   1.50 7-Delfs-Christensen vs 2-Binney-Romeo
+  400          2.50   1.50 9-Ruprecht-Jarvis vs 1-Mohrman-Ford
+         50    0.50   3.50 10-Herman-Phu vs 3-Sieg-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   1.00 5-Hovda-Anderson vs 8-Cowles-Laughary
+  100          4.00   0.00 6-Miller-Vulcan vs 4-Cline-Stevens
+        470    0.00   4.00 7-Delfs-Christensen vs 2-Binney-Romeo
+        100    1.50   2.50 9-Ruprecht-Jarvis vs 1-Mohrman-Ford
+        100    1.50   2.50 10-Herman-Phu vs 3-Sieg-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   2.00 1-Mohrman-Ford vs 2-Binney-Romeo
+  650          4.00   0.00 6-Miller-Vulcan vs 9-Ruprecht-Jarvis
+  480          3.00   1.00 7-Delfs-Christensen vs 5-Hovda-Anderson
+        170    0.00   4.00 8-Cowles-Laughary vs 3-Sieg-Taylor
+  130          1.00   3.00 10-Herman-Phu vs 4-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          3.00   1.00 1-Mohrman-Ford vs 2-Binney-Romeo
+  980          3.00   1.00 6-Miller-Vulcan vs 9-Ruprecht-Jarvis
+  980          3.00   1.00 7-Delfs-Christensen vs 5-Hovda-Anderson
+  480          1.00   3.00 8-Cowles-Laughary vs 3-Sieg-Taylor
+         50    0.00   4.00 10-Herman-Phu vs 4-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.38   2.63 1-Mohrman-Ford vs 2-Binney-Romeo
+         90    0.13   3.88 6-Miller-Vulcan vs 9-Ruprecht-Jarvis
+  100          3.25   0.75 7-Delfs-Christensen vs 5-Hovda-Anderson
+  100          3.25   0.75 8-Cowles-Laughary vs 3-Sieg-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        210    2.00   2.00 2-Binney-Romeo vs 3-Sieg-Taylor
+        300    1.00   3.00 7-Delfs-Christensen vs 1-Mohrman-Ford
+        120    3.00   1.00 8-Cowles-Laughary vs 6-Miller-Vulcan
+        600    0.00   4.00 9-Ruprecht-Jarvis vs 4-Cline-Stevens
+         90    4.00   0.00 10-Herman-Phu vs 5-Hovda-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          1.00   3.00 2-Binney-Romeo vs 3-Sieg-Taylor
+  200          2.50   1.50 7-Delfs-Christensen vs 1-Mohrman-Ford
+  870          4.00   0.00 8-Cowles-Laughary vs 6-Miller-Vulcan
+  200          2.50   1.50 9-Ruprecht-Jarvis vs 4-Cline-Stevens
+        400    0.00   4.00 10-Herman-Phu vs 5-Hovda-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.00   1.00 2-Binney-Romeo vs 3-Sieg-Taylor
+  300          0.50   3.50 7-Delfs-Christensen vs 1-Mohrman-Ford
+  620          3.00   1.00 8-Cowles-Laughary vs 6-Miller-Vulcan
+  300          0.50   3.50 9-Ruprecht-Jarvis vs 4-Cline-Stevens
+  620          3.00   1.00 10-Herman-Phu vs 5-Hovda-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          4.00   0.00 1-Mohrman-Ford vs 5-Hovda-Anderson
+        110    1.00   3.00 3-Sieg-Taylor vs 4-Cline-Stevens
+         50    2.50   1.50 8-Cowles-Laughary vs 2-Binney-Romeo
+         50    2.50   1.50 9-Ruprecht-Jarvis vs 7-Delfs-Christensen
+        130    0.00   4.00 10-Herman-Phu vs 6-Miller-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.50   1.50 1-Mohrman-Ford vs 5-Hovda-Anderson
+        630    2.50   1.50 3-Sieg-Taylor vs 4-Cline-Stevens
+        660    0.00   4.00 8-Cowles-Laughary vs 2-Binney-Romeo
+        630    2.50   1.50 9-Ruprecht-Jarvis vs 7-Delfs-Christensen
+        630    2.50   1.50 10-Herman-Phu vs 6-Miller-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   1.00 1-Mohrman-Ford vs 5-Hovda-Anderson
+  500          4.00   0.00 3-Sieg-Taylor vs 4-Cline-Stevens
+         50    1.50   2.50 8-Cowles-Laughary vs 2-Binney-Romeo
+         50    1.50   2.50 9-Ruprecht-Jarvis vs 7-Delfs-Christensen
+        150    0.00   4.00 10-Herman-Phu vs 6-Miller-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  440          1.00   3.00 1-Mohrman-Ford vs 8-Cowles-Laughary
+  520          3.50   0.50 2-Binney-Romeo vs 6-Miller-Vulcan
+  520          3.50   0.50 4-Cline-Stevens vs 5-Hovda-Anderson
+  400          0.00   4.00 9-Ruprecht-Jarvis vs 3-Sieg-Taylor
+  490          2.00   2.00 10-Herman-Phu vs 7-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.00   0.00 1-Mohrman-Ford vs 8-Cowles-Laughary
+        680    1.50   2.50 2-Binney-Romeo vs 6-Miller-Vulcan
+        680    1.50   2.50 4-Cline-Stevens vs 5-Hovda-Anderson
+        680    1.50   2.50 9-Ruprecht-Jarvis vs 3-Sieg-Taylor
+        680    1.50   2.50 10-Herman-Phu vs 7-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.50   3.50 1-Mohrman-Ford vs 8-Cowles-Laughary
+  100          4.00   0.00 2-Binney-Romeo vs 6-Miller-Vulcan
+        100    2.00   2.00 4-Cline-Stevens vs 5-Hovda-Anderson
+   50          3.00   1.00 9-Ruprecht-Jarvis vs 3-Sieg-Taylor
+        500    0.50   3.50 10-Herman-Phu vs 7-Delfs-Christensen
+----------------------------------------------------------------------
