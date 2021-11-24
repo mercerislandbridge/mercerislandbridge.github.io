@@ -1,0 +1,321 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 23, 2021  |CLUB NO.>158048    | 11/23/2021 22:25
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   48.0 |TOP>   4 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=8/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Taylor           Sue Anderson             B    1     1     .     61.77  64.34  1.10(A) 
+
+ 2 Stanford Christie      Bogdan Vulcan            A    .     .     .     50.18  52.27          
+
+ 3 Mike Christensen       David Wright             A    2     .     .     57.33  59.72  0.77(A) 
+
+ 4 Nick Tipton            Galen Hesson             B    .     .     .     47.62  49.60          
+
+ 5 Ray Miller             Aaron Mohrman            A    .     .     .     45.47  47.36          
+
+ 6 Gregory Herman         Thang Phu                B    .     .     .     49.79  51.86          
+
+
+
+ 8 Arthur Gong            Nathan Gong              C    .     .     .     44.80  46.67          
+
+ 9 Nelson Davis           Mary Lee                 B    .     .     .     33.61  35.01          
+
+10 Kevin Cline            Becky Stevens            B    .     .     .     35.31  36.78          
+
+11 Ann Romeo              Jeremy Gulley            B    4     3     .     50.32  52.42  0.39(A) 
+
+12 Pete Cowles            Clay Laughary            C    3     2     .     54.33  56.59  0.55(A) 
+
+
+                                          Totals                         530.53       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          1.38   2.63 5-Miller-Mohrman vs 2-Christie-Vulcan
+ 1010          2.63   1.38 6-Herman-Phu vs 10-Cline-Stevens
+ 1020          3.88   0.13 8-Gong-Gong vs 4-Tipton-Hesson
+  520          0.13   3.88 12-Cowles-Laughary vs 1-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.88   0.13 5-Miller-Mohrman vs 2-Christie-Vulcan
+  630          2.00   2.00 6-Herman-Phu vs 10-Cline-Stevens
+  600          0.13   3.88 8-Gong-Gong vs 4-Tipton-Hesson
+  630          2.00   2.00 12-Cowles-Laughary vs 1-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.63   1.38 5-Miller-Mohrman vs 2-Christie-Vulcan
+  420          0.13   3.88 6-Herman-Phu vs 10-Cline-Stevens
+  450          2.63   1.38 8-Gong-Gong vs 4-Tipton-Hesson
+  450          2.63   1.38 12-Cowles-Laughary vs 1-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.50   0.50 1-Taylor-Anderson vs 8-Gong-Gong
+        400    0.00   4.00 6-Herman-Phu vs 3-Christensen-Wright
+        100    1.50   2.50 9-Davis-Lee vs 5-Miller-Mohrman
+        100    1.50   2.50 11-Romeo-Gulley vs 4-Tipton-Hesson
+  110          3.50   0.50 12-Cowles-Laughary vs 2-Christie-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.50   1.50 1-Taylor-Anderson vs 8-Gong-Gong
+   50          4.00   0.00 6-Herman-Phu vs 3-Christensen-Wright
+        130    2.50   1.50 9-Davis-Lee vs 5-Miller-Mohrman
+        200    1.00   3.00 11-Romeo-Gulley vs 4-Tipton-Hesson
+        510    0.00   4.00 12-Cowles-Laughary vs 2-Christie-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.00   0.00 1-Taylor-Anderson vs 8-Gong-Gong
+  420          2.00   2.00 6-Herman-Phu vs 3-Christensen-Wright
+  170          0.00   4.00 9-Davis-Lee vs 5-Miller-Mohrman
+  420          2.00   2.00 11-Romeo-Gulley vs 4-Tipton-Hesson
+  420          2.00   2.00 12-Cowles-Laughary vs 2-Christie-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.38   2.63 2-Christie-Vulcan vs 9-Davis-Lee
+        660    0.13   3.88 10-Cline-Stevens vs 8-Gong-Gong
+        630    2.63   1.38 11-Romeo-Gulley vs 5-Miller-Mohrman
+        620    3.88   0.13 12-Cowles-Laughary vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.88   0.13 2-Christie-Vulcan vs 9-Davis-Lee
+        570    0.13   3.88 10-Cline-Stevens vs 8-Gong-Gong
+        130    2.63   1.38 11-Romeo-Gulley vs 5-Miller-Mohrman
+        150    1.38   2.63 12-Cowles-Laughary vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.88   0.13 2-Christie-Vulcan vs 9-Davis-Lee
+        600    0.13   3.88 10-Cline-Stevens vs 8-Gong-Gong
+        180    2.00   2.00 11-Romeo-Gulley vs 5-Miller-Mohrman
+        180    2.00   2.00 12-Cowles-Laughary vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          3.88   0.13 3-Christensen-Wright vs 1-Taylor-Anderson
+  200          0.13   3.88 10-Cline-Stevens vs 9-Davis-Lee
+  500          1.38   2.63 11-Romeo-Gulley vs 6-Herman-Phu
+  600          2.63   1.38 12-Cowles-Laughary vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.88   0.13 3-Christensen-Wright vs 1-Taylor-Anderson
+         50    2.63   1.38 10-Cline-Stevens vs 9-Davis-Lee
+        100    1.38   2.63 11-Romeo-Gulley vs 6-Herman-Phu
+        130    0.13   3.88 12-Cowles-Laughary vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.13   3.88 3-Christensen-Wright vs 1-Taylor-Anderson
+   50          1.38   2.63 10-Cline-Stevens vs 9-Davis-Lee
+   90          2.63   1.38 11-Romeo-Gulley vs 6-Herman-Phu
+  120          3.88   0.13 12-Cowles-Laughary vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.38   2.63 1-Taylor-Anderson vs 10-Cline-Stevens
+  100          2.63   1.38 3-Christensen-Wright vs 8-Gong-Gong
+        690    0.13   3.88 9-Davis-Lee vs 6-Herman-Phu
+  200          3.88   0.13 12-Cowles-Laughary vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.88   0.13 1-Taylor-Anderson vs 10-Cline-Stevens
+        400    2.63   1.38 3-Christensen-Wright vs 8-Gong-Gong
+        430    0.75   3.25 9-Davis-Lee vs 6-Herman-Phu
+        430    0.75   3.25 12-Cowles-Laughary vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.75   3.25 1-Taylor-Anderson vs 10-Cline-Stevens
+        420    0.75   3.25 3-Christensen-Wright vs 8-Gong-Gong
+        170    3.25   0.75 9-Davis-Lee vs 6-Herman-Phu
+        170    3.25   0.75 12-Cowles-Laughary vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   4.00 2-Christie-Vulcan vs 10-Cline-Stevens
+        140    1.50   2.50 4-Tipton-Hesson vs 9-Davis-Lee
+        110    4.00   0.00 5-Miller-Mohrman vs 3-Christensen-Wright
+        140    1.50   2.50 8-Gong-Gong vs 11-Romeo-Gulley
+        120    3.00   1.00 12-Cowles-Laughary vs 6-Herman-Phu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   2.00 2-Christie-Vulcan vs 10-Cline-Stevens
+        170    3.50   0.50 4-Tipton-Hesson vs 9-Davis-Lee
+        450    0.00   4.00 5-Miller-Mohrman vs 3-Christensen-Wright
+        250    1.00   3.00 8-Gong-Gong vs 11-Romeo-Gulley
+        170    3.50   0.50 12-Cowles-Laughary vs 6-Herman-Phu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   1.50 2-Christie-Vulcan vs 10-Cline-Stevens
+  110          4.00   0.00 4-Tipton-Hesson vs 9-Davis-Lee
+        200    0.00   4.00 5-Miller-Mohrman vs 3-Christensen-Wright
+        110    1.00   3.00 8-Gong-Gong vs 11-Romeo-Gulley
+        100    2.50   1.50 12-Cowles-Laughary vs 6-Herman-Phu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.50   0.50 2-Christie-Vulcan vs 8-Gong-Gong
+  100          1.50   2.50 5-Miller-Mohrman vs 1-Taylor-Anderson
+  200          3.50   0.50 6-Herman-Phu vs 4-Tipton-Hesson
+        110    0.00   4.00 10-Cline-Stevens vs 3-Christensen-Wright
+  100          1.50   2.50 11-Romeo-Gulley vs 9-Davis-Lee
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.00   1.00 2-Christie-Vulcan vs 8-Gong-Gong
+        650    1.00   3.00 5-Miller-Mohrman vs 1-Taylor-Anderson
+        650    1.00   3.00 6-Herman-Phu vs 4-Tipton-Hesson
+        650    1.00   3.00 10-Cline-Stevens vs 3-Christensen-Wright
+        140    4.00   0.00 11-Romeo-Gulley vs 9-Davis-Lee
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    2.00   2.00 2-Christie-Vulcan vs 8-Gong-Gong
+        200    0.00   4.00 5-Miller-Mohrman vs 1-Taylor-Anderson
+   90          3.50   0.50 6-Herman-Phu vs 4-Tipton-Hesson
+        150    1.00   3.00 10-Cline-Stevens vs 3-Christensen-Wright
+   90          3.50   0.50 11-Romeo-Gulley vs 9-Davis-Lee
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   3.00 3-Christensen-Wright vs 9-Davis-Lee
+        170    3.50   0.50 6-Herman-Phu vs 2-Christie-Vulcan
+        620    1.00   3.00 10-Cline-Stevens vs 4-Tipton-Hesson
+        620    1.00   3.00 11-Romeo-Gulley vs 1-Taylor-Anderson
+        170    3.50   0.50 12-Cowles-Laughary vs 8-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 3-Christensen-Wright vs 9-Davis-Lee
+        630    0.00   4.00 6-Herman-Phu vs 2-Christie-Vulcan
+        180    1.00   3.00 10-Cline-Stevens vs 4-Tipton-Hesson
+        150    2.00   2.00 11-Romeo-Gulley vs 1-Taylor-Anderson
+         90    3.00   1.00 12-Cowles-Laughary vs 8-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   1.50 3-Christensen-Wright vs 9-Davis-Lee
+   50          4.00   0.00 6-Herman-Phu vs 2-Christie-Vulcan
+         50    2.50   1.50 10-Cline-Stevens vs 4-Tipton-Hesson
+        130    1.00   3.00 11-Romeo-Gulley vs 1-Taylor-Anderson
+        550    0.00   4.00 12-Cowles-Laughary vs 8-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   2.00 2-Christie-Vulcan vs 11-Romeo-Gulley
+  150          0.13   3.88 4-Tipton-Hesson vs 1-Taylor-Anderson
+  420          2.00   2.00 5-Miller-Mohrman vs 10-Cline-Stevens
+ 1100          3.88   0.13 8-Gong-Gong vs 6-Herman-Phu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1100          2.00   2.00 2-Christie-Vulcan vs 11-Romeo-Gulley
+  630          0.13   3.88 4-Tipton-Hesson vs 1-Taylor-Anderson
+ 1400          3.88   0.13 5-Miller-Mohrman vs 10-Cline-Stevens
+ 1100          2.00   2.00 8-Gong-Gong vs 6-Herman-Phu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.63   1.38 2-Christie-Vulcan vs 11-Romeo-Gulley
+   50          2.63   1.38 4-Tipton-Hesson vs 1-Taylor-Anderson
+   50          2.63   1.38 5-Miller-Mohrman vs 10-Cline-Stevens
+        420    0.13   3.88 8-Gong-Gong vs 6-Herman-Phu
+----------------------------------------------------------------------
