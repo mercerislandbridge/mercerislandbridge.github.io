@@ -638,23 +638,23 @@ function boarddata() {
   var hasLeads=0;
   var top=4;
   var handix=[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27];
-  var times_played=[4,4,4,5,5,5,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,4,4,4];
+  var times_played=[5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5];
   var b=[
-[990,1.38,"5","2","6N N",1010,2.63,"6","10","6H N +1",1020,3.88,"8","4","6N N +1",520,0.13,"12","1","3N N +4"],
-[660,3.88,"5","2","3N S +2",630,2.00,"6","10","3N N +1",600,0.13,"8","4","3N S",630,2.00,"12","1","3N S +1"],
-[450,2.63,"5","2","4S S +1",420,0.13,"6","10","4S S",450,2.63,"8","4","4S S +1",450,2.63,"12","1","4S S +1"],
+[1020,3.50,"3","11","6N N +1",990,1.00,"5","2","6N N",1010,2.00,"6","10","6H N +1",1020,3.50,"8","4","6N N +1",520,0.00,"12","1","3N N +4"],
+[660,3.50,"3","11","3N S +2",660,3.50,"5","2","3N S +2",630,1.50,"6","10","3N N +1",600,0.00,"8","4","3N S",630,1.50,"12","1","3N S +1"],
+[420,0.50,"3","11","4S S",450,3.00,"5","2","4S S +1",420,0.50,"6","10","4S S",450,3.00,"8","4","4S S +1",450,3.00,"12","1","4S S +1"],
 [110,3.50,"1","8","2S S",-400,0.00,"6","3","4S S -4",-100,1.50,"9","5","3S S -1",-100,1.50,"11","4","2S S -1",110,3.50,"12","2","2S S"],
 [-130,2.50,"1","8","4C W",50,4.00,"6","3","5C W -1",-130,2.50,"9","5","3D E +1",-200,1.00,"11","4","3H N -2",-510,0.00,"12","2","4D* E"],
 [450,4.00,"1","8","4S S +1",420,2.00,"6","3","4S S",170,0.00,"9","5","2S S +2",420,2.00,"11","4","4S S",420,2.00,"12","2","4S S"],
-[-650,1.38,"2","9","4H E +1",-660,0.13,"10","8","4N E +1",-630,2.63,"11","5","3N E +1",-620,3.88,"12","3","4H E"],
-[-100,3.88,"2","9","4C S -2",-570,0.13,"10","8","3D* W +1",-130,2.63,"11","5","3D W +1",-150,1.38,"12","3","3D W +2"],
-[-150,3.88,"2","9","1N E +2",-600,0.13,"10","8","3N W",-180,2.00,"11","5","2N E +2",-180,2.00,"12","3","2N E +2"],
-[690,3.88,"3","1","3N S +3",200,0.13,"10","9","3D* W -1",500,1.38,"11","6","5D* W -2",600,2.63,"12","4","5C N"],
-[110,3.88,"3","1","2S S",-50,2.63,"10","9","2S S -1",-100,1.38,"11","6","3S S -2",-130,0.13,"12","4","2C W +2"],
-[-100,0.13,"3","1","2N N -1",50,1.38,"10","9","2S W -1",90,2.63,"11","6","2C N",120,3.88,"12","4","1N N +1"],
-[-660,1.38,"1","10","3N E +2",100,2.63,"3","8","4N W -1",-690,0.13,"9","6","3N W +3",200,3.88,"12","5","6N E -2"],
-[50,3.88,"1","10","3N W -1",-400,2.63,"3","8","5D E",-430,0.75,"9","6","3N W +1",-430,0.75,"12","5","3N W +1"],
-[-420,0.75,"1","10","4H E",-420,0.75,"3","8","4H W",-170,3.25,"9","6","2H W +2",-170,3.25,"12","5","3H W +1"],
+[-690,0.00,"1","6","3N W +3",-650,2.00,"2","9","4H E +1",-660,1.00,"10","8","4N E +1",-630,3.00,"11","5","3N E +1",-620,4.00,"12","3","4H E"],
+[100,4.00,"1","6","4H E -2",-100,3.00,"2","9","4C S -2",-570,0.00,"10","8","3D* W +1",-130,2.00,"11","5","3D W +1",-150,1.00,"12","3","3D W +2"],
+[-120,4.00,"1","6","2N W",-150,3.00,"2","9","1N E +2",-600,0.00,"10","8","3N W",-180,1.50,"11","5","2N E +2",-180,1.50,"12","3","2N E +2"],
+[690,4.00,"3","1","3N S +3",630,3.00,"8","5","3N S +1",200,0.00,"10","9","3D* W -1",500,1.00,"11","6","5D* W -2",600,2.00,"12","4","5C N"],
+[110,4.00,"3","1","2S S",-140,0.00,"8","5","2H E +1",-50,3.00,"10","9","2S S -1",-100,2.00,"11","6","3S S -2",-130,1.00,"12","4","2C W +2"],
+[-100,0.50,"3","1","2N N -1",-100,0.50,"8","5","2N N -1",50,2.00,"10","9","2S W -1",90,3.00,"11","6","2C N",120,4.00,"12","4","1N N +1"],
+[-660,1.50,"1","10","3N E +2",100,3.00,"3","8","4N W -1",-660,1.50,"4","2","4N E +1",-690,0.00,"9","6","3N W +3",200,4.00,"12","5","6N E -2"],
+[50,4.00,"1","10","3N W -1",-400,3.00,"3","8","5D E",-500,0.00,"4","2","3C* S -3",-430,1.50,"9","6","3N W +1",-430,1.50,"12","5","3N W +1"],
+[-420,1.00,"1","10","4H E",-420,1.00,"3","8","4H W",-420,1.00,"4","2","4H E",-170,3.50,"9","6","2H W +2",-170,3.50,"12","5","3H W +1"],
 [-300,0.00,"2","10","4H* S -2",-140,1.50,"4","9","3S E",-110,4.00,"5","3","3D W",-140,1.50,"8","11","3S E",-120,3.00,"12","6","2N E"],
 [-200,2.00,"2","10","3S W +2",-170,3.50,"4","9","3S E +1",-450,0.00,"5","3","4S E +1",-250,1.00,"8","11","4H S -5",-170,3.50,"12","6","2S E +2"],
 [-100,2.50,"2","10","3H N -1",110,4.00,"4","9","2H S",-200,0.00,"5","3","2N S -2",-110,1.00,"8","11","2S E",-100,2.50,"12","6","3N S -1"],
@@ -664,9 +664,9 @@ function boarddata() {
 [-620,1.00,"3","9","4H W",-170,3.50,"6","2","3H E +1",-620,1.00,"10","4","4H E",-620,1.00,"11","1","4H W",-170,3.50,"12","8","2H W +2"],
 [100,4.00,"3","9","2N W -1",-630,0.00,"6","2","3N W +1",-180,1.00,"10","4","2N W +2",-150,2.00,"11","1","1N E +2",-90,3.00,"12","8","1N E"],
 [-50,2.50,"3","9","4S S -1",50,4.00,"6","2","3N W -1",-50,2.50,"10","4","4S S -1",-130,1.00,"11","1","4C W",-550,0.00,"12","8","3N* W"],
-[420,2.00,"2","11","5C N +1",150,0.13,"4","1","3C S +2",420,2.00,"5","10","5C N +1",1100,3.88,"8","6","4S* E -4"],
-[1100,2.00,"2","11","3C* W -4",630,0.13,"4","1","3N N +1",1400,3.88,"5","10","3C* W -5",1100,2.00,"8","6","3C* W -4"],
-[50,2.63,"2","11","4H W -1",50,2.63,"4","1","4H W -1",50,2.63,"5","10","4H W -1",-420,0.13,"8","6","4H W"]
+[420,2.50,"2","11","5C N +1",150,0.00,"4","1","3C S +2",420,2.50,"5","10","5C N +1",1100,4.00,"8","6","4S* E -4",170,1.00,"12","9","3C N +3"],
+[1100,2.50,"2","11","3C* W -4",630,0.50,"4","1","3N N +1",1400,4.00,"5","10","3C* W -5",1100,2.50,"8","6","3C* W -4",630,0.50,"12","9","3N N +1"],
+[50,3.00,"2","11","4H W -1",50,3.00,"4","1","4H W -1",50,3.00,"5","10","4H W -1",-420,0.50,"8","6","4H W",-420,0.50,"12","9","4H W"]
 ];
   return [top, handix, times_played, hasContracts, hasLeads, b];
 }
@@ -714,39 +714,40 @@ Jump directly to board
 <caption class="winnersCaption"><span class="stars">&#9733; &#9733; &#9733;&nbsp;&nbsp;</span>Masterpoint Winners&nbsp;&nbsp;<span class="stars">&#9733; &#9733; &#9733;</span></caption>
   <thead><tr> <td>Partnership</td> <td class="center">Pct</td> <td class="right">Rank</td> <td class="center">MP</td> </tr></thead>
   <tbody>
-  <tr> <td>David Taylor - Sue Anderson</td> <td class="right">64.34</td> <td class="right">1st A</td> <td>1.10</td> </tr>
-  <tr> <td>David Wright - Mike Christensen</td> <td class="right">59.72</td> <td class="right">2nd A</td> <td>0.77</td> </tr>
-  <tr> <td>Clay Laughary - Pete Cowles</td> <td class="right">56.59</td> <td class="right">3rd A</td> <td>0.55</td> </tr>
-  <tr> <td>Ann Romeo - Jeremy Gulley</td> <td class="right">52.42</td> <td class="right">4th A</td> <td>0.39</td> </tr>
+  <tr> <td>David Taylor - Sue Anderson</td> <td class="right">64.06</td> <td class="right">1st OA</td> <td>2.33</td> </tr>
+  <tr> <td>David Wright - Mike Christensen</td> <td class="right">62.50</td> <td class="right">2nd OA</td> <td>1.75</td> </tr>
+  <tr> <td>Bogdan Vulcan - Stanford Christie</td> <td class="right">56.25</td> <td class="right">3rd OA</td> <td>1.31</td> </tr>
+  <tr> <td>Clay Laughary - Pete Cowles</td> <td class="right">52.08</td> <td class="right">2nd OB</td> <td>1.15</td> </tr>
+  <tr> <td>Ann Romeo - Jeremy Gulley</td> <td class="right">48.96</td> <td class="right">3rd OB</td> <td>0.86</td> </tr>
   </tbody>
 </table>
 
 <pre>
 EVENT&gt;Tuesday Evening Pairs    |SESSION&gt;Tuesday Eve  |SECTION&gt; A
 ------------------------,------ ------------,-------- --------------------------
-DATE&gt;November 23, 2021  |CLUB NO.&gt;158048    | 11/23/2021 22:25
+DATE&gt;November 23, 2021  |CLUB NO.&gt;158048    | 12/07/2021 18:13
 ---------------------,-- ------------------- -------------,---------------------
 DIR&gt;                 |RATING&gt;Club Championship (100%, 80%, 80% Open)|MOVEMENT&gt;ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
-AVE&gt;   48.0 |TOP&gt;   4 |MP LIMITS&gt;None/3000/1000 |CLUB&gt;Mercercrest
+AVE&gt;   54.0 |TOP&gt;   4 |MP LIMITS&gt;None/3000/1000 |CLUB&gt;Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=11/B=8/C=2                      ,-,-------------------,------,---------,
--------------------------------------------------| |  Section          |      |Section  |
-No Name                   Name                   |F| A | B | C | Score | Pct  |Awards   |
--------------------------------------------------|- --- --- --- ------- ------ ---------
- <a href="javascript:recap('A1')">1</a> David Taylor           Sue Anderson            B 1   1   .     61.77 64.34  1.10(A) 
- <a href="javascript:recap('A2')">2</a> Stanford Christie      Bogdan Vulcan           A .   .   .     50.18 52.27          
- <a href="javascript:recap('A3')">3</a> Mike Christensen       David Wright            A 2   .   .     57.33 59.72  0.77(A) 
- <a href="javascript:recap('A4')">4</a> Nick Tipton            Galen Hesson            B .   .   .     47.62 49.60          
- <a href="javascript:recap('A5')">5</a> Ray Miller             Aaron Mohrman           A .   .   .     45.47 47.36          
- <a href="javascript:recap('A6')">6</a> Gregory Herman         Thang Phu               B .   .   .     49.79 51.86          
- <a href="javascript:recap('A8')">8</a> Arthur Gong            Nathan Gong             C .   .   .     44.80 46.67          
- <a href="javascript:recap('A9')">9</a> Nelson Davis           Mary Lee                B .   .   .     33.61 35.01          
-<a href="javascript:recap('A10')">10</a> Kevin Cline            Becky Stevens           B .   .   .     35.31 36.78          
-<a href="javascript:recap('A11')">11</a> Ann Romeo              Jeremy Gulley           B 4   3   .     50.32 52.42  0.39(A) 
-<a href="javascript:recap('A12')">12</a> Pete Cowles            Clay Laughary           C 3   2   .     54.33 56.59  0.55(A) 
+PAIRS IN STRAT A=11/B=8/C=2                      ,-,-----------,-------------------,------,---------,
+-------------------------------------------------| |  Overall  |  Section          |      |Final    |
+No Name                   Name                   |F| A | B | C | A | B | C | Score | Pct  |Awards   |
+-------------------------------------------------|- --- --- --- --- --- --- ------- ------ ---------
+ <a href="javascript:recap('A1')">1</a> David Taylor           Sue Anderson            B  1   1   .   1   1   .     69.1  64.06  2.33(OA)
+ <a href="javascript:recap('A2')">2</a> Stanford Christie      Bogdan Vulcan           A  3   .   .   3   .   .     60.7  56.25  1.31(OA)
+ <a href="javascript:recap('A3')">3</a> Mike Christensen       David Wright            A  2   .   .   2   .   .     67.5  62.50  1.75(OA)
+ <a href="javascript:recap('A4')">4</a> Nick Tipton            Galen Hesson            B  .   .   .   .   .   .     50.0  46.35          
+ <a href="javascript:recap('A5')">5</a> Ray Miller             Aaron Mohrman           A  .   .   .   .   .   .     54.5  50.52          
+ <a href="javascript:recap('A6')">6</a> Gregory Herman         Thang Phu               B  .   .   .   .   .   .     50.5  46.76          
+ <a href="javascript:recap('A8')">8</a> Arthur Gong            Nathan Gong             C  .   .   .   .   .   .     47.5  43.98          
+ <a href="javascript:recap('A9')">9</a> Nelson Davis           Mary Lee                B  .   .   .   .   .   .     45.5  42.19          
+<a href="javascript:recap('A10')">10</a> Kevin Cline            Becky Stevens           B  .   .   .   .   .   .     40.5  37.50          
+<a href="javascript:recap('A11')">11</a> Ann Romeo              Jeremy Gulley           B  .   3   .   .   3   .     52.8  48.96  0.86(OB)
+<a href="javascript:recap('A12')">12</a> Pete Cowles            Clay Laughary           C  4   2   .   4   2   .     56.2  52.08  1.15(OB)
 
-                                                                    Totals 530.53
+                                                                    Totals 595.25
 
 </pre>
 <form action="#">
@@ -832,10 +833,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 1</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">1020</td><td class="right"></td><td class="right">3.88</td><td class="right">0.13</td><td>6N N 7</td><td>8-Gong-Gong vs 4-Tipton-Hesson</td></tr>
-<tr><td class="right">1010</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>6<span class="hs">&hearts;</span> N 7</td><td>6-Herman-Phu vs 10-Cline-Stevens</td></tr>
-<tr><td class="right">990</td><td class="right"></td><td class="right">1.38</td><td class="right">2.63</td><td>6N N 6</td><td>5-Miller-Mohrman vs 2-Christie-Vulcan</td></tr>
-<tr><td class="right">520</td><td class="right"></td><td class="right">0.13</td><td class="right">3.88</td><td>3N N 7</td><td>12-Cowles-Laughary vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right">1020</td><td class="right"></td><td class="right">3.50</td><td class="right">0.50</td><td>6N N 7</td><td>3-Christensen-Wright vs 11-Romeo-Gulley</td></tr>
+<tr><td class="right">1020</td><td class="right"></td><td class="right">3.50</td><td class="right">0.50</td><td>6N N 7</td><td>8-Gong-Gong vs 4-Tipton-Hesson</td></tr>
+<tr><td class="right">1010</td><td class="right"></td><td class="right">2.00</td><td class="right">2.00</td><td>6<span class="hs">&hearts;</span> N 7</td><td>6-Herman-Phu vs 10-Cline-Stevens</td></tr>
+<tr><td class="right">990</td><td class="right"></td><td class="right">1.00</td><td class="right">3.00</td><td>6N N 6</td><td>5-Miller-Mohrman vs 2-Christie-Vulcan</td></tr>
+<tr><td class="right">520</td><td class="right"></td><td class="right">0.00</td><td class="right">4.00</td><td>3N N 7</td><td>12-Cowles-Laughary vs 1-Taylor-Anderson</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -892,13 +894,13 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;5&clubs;&nbsp;4<span class="hs">&diams;</span>&nbsp;6/5<span class="hs">&hearts;</span>&nbsp;4&spades;&nbsp;5NT</td></tr>
+        <tr><td>NS:&nbsp;5&clubs;&nbsp;4<span class="hs">&diams;</span>&nbsp;5/6<span class="hs">&hearts;</span>&nbsp;4&spades;&nbsp;5NT</td></tr>
         <tr><td>EW:&nbsp;<span class="ddfail"> &clubs;2 &diams;3 &hearts;1 &spades;3 NT2</span></td></tr>
       </table>
     </td>
   </tr></table>
   <table class="lott_par_copyaids"><tr>
-    <td>LoTT: 15 - 14 = +1<br>Par: +1430 6<span class="hs">&hearts;</span>-N</td>
+    <td>LoTT: 15 - 14 = +1<br>Par: +1430 6<span class="hs">&hearts;</span>-S</td>
 <p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAQ963hK76dAJ54c7&s=s85hAQT9dT2cAKJ43&e=sKJ2h842d976cQ985&w=sT74hJ53dKQ83cT62&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('2','T74.J53.KQ83.T62','AQ963.K76.AJ54.7','KJ2.842.976.Q985','85.AQT9.T2.AKJ43')"></td>
   </tr></table>
 </td>
@@ -909,10 +911,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 2</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">660</td><td class="right"></td><td class="right">3.88</td><td class="right">0.13</td><td>3N S 5</td><td>5-Miller-Mohrman vs 2-Christie-Vulcan</td></tr>
-<tr><td class="right">630</td><td class="right"></td><td class="right">2.00</td><td class="right">2.00</td><td>3N S 4</td><td>12-Cowles-Laughary vs 1-Taylor-Anderson</td></tr>
-<tr><td class="right">630</td><td class="right"></td><td class="right">2.00</td><td class="right">2.00</td><td>3N N 4</td><td>6-Herman-Phu vs 10-Cline-Stevens</td></tr>
-<tr><td class="right">600</td><td class="right"></td><td class="right">0.13</td><td class="right">3.88</td><td>3N S 3</td><td>8-Gong-Gong vs 4-Tipton-Hesson</td></tr>
+<tr><td class="right">660</td><td class="right"></td><td class="right">3.50</td><td class="right">0.50</td><td>3N S 5</td><td>3-Christensen-Wright vs 11-Romeo-Gulley</td></tr>
+<tr><td class="right">660</td><td class="right"></td><td class="right">3.50</td><td class="right">0.50</td><td>3N S 5</td><td>5-Miller-Mohrman vs 2-Christie-Vulcan</td></tr>
+<tr><td class="right">630</td><td class="right"></td><td class="right">1.50</td><td class="right">2.50</td><td>3N S 4</td><td>12-Cowles-Laughary vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right">630</td><td class="right"></td><td class="right">1.50</td><td class="right">2.50</td><td>3N N 4</td><td>6-Herman-Phu vs 10-Cline-Stevens</td></tr>
+<tr><td class="right">600</td><td class="right"></td><td class="right">0.00</td><td class="right">4.00</td><td>3N S 3</td><td>8-Gong-Gong vs 4-Tipton-Hesson</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -986,10 +989,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 3</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">450</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>4&spades; S 5</td><td>5-Miller-Mohrman vs 2-Christie-Vulcan</td></tr>
-<tr><td class="right">450</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>4&spades; S 5</td><td>8-Gong-Gong vs 4-Tipton-Hesson</td></tr>
-<tr><td class="right">450</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>4&spades; S 5</td><td>12-Cowles-Laughary vs 1-Taylor-Anderson</td></tr>
-<tr><td class="right">420</td><td class="right"></td><td class="right">0.13</td><td class="right">3.88</td><td>4&spades; S 4</td><td>6-Herman-Phu vs 10-Cline-Stevens</td></tr>
+<tr><td class="right">450</td><td class="right"></td><td class="right">3.00</td><td class="right">1.00</td><td>4&spades; S 5</td><td>5-Miller-Mohrman vs 2-Christie-Vulcan</td></tr>
+<tr><td class="right">450</td><td class="right"></td><td class="right">3.00</td><td class="right">1.00</td><td>4&spades; S 5</td><td>8-Gong-Gong vs 4-Tipton-Hesson</td></tr>
+<tr><td class="right">450</td><td class="right"></td><td class="right">3.00</td><td class="right">1.00</td><td>4&spades; S 5</td><td>12-Cowles-Laughary vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right">420</td><td class="right"></td><td class="right">0.50</td><td class="right">3.50</td><td>4&spades; S 4</td><td>3-Christensen-Wright vs 11-Romeo-Gulley</td></tr>
+<tr><td class="right">420</td><td class="right"></td><td class="right">0.50</td><td class="right">3.50</td><td>4&spades; S 4</td><td>6-Herman-Phu vs 10-Cline-Stevens</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -1297,10 +1301,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 7</td></tr>
     </thead>
     <tbody>
-<tr><td class="right"></td><td class="right">620</td><td class="right">3.88</td><td class="right">0.13</td><td>4<span class="hs">&hearts;</span> E 4</td><td>12-Cowles-Laughary vs 3-Christensen-Wright</td></tr>
-<tr><td class="right"></td><td class="right">630</td><td class="right">2.63</td><td class="right">1.38</td><td>3N E 4</td><td>11-Romeo-Gulley vs 5-Miller-Mohrman</td></tr>
-<tr><td class="right"></td><td class="right">650</td><td class="right">1.38</td><td class="right">2.63</td><td>4<span class="hs">&hearts;</span> E 5</td><td>2-Christie-Vulcan vs 9-Davis-Lee</td></tr>
-<tr><td class="right"></td><td class="right">660</td><td class="right">0.13</td><td class="right">3.88</td><td>4N E 5</td><td>10-Cline-Stevens vs 8-Gong-Gong</td></tr>
+<tr><td class="right"></td><td class="right">620</td><td class="right">4.00</td><td class="right">0.00</td><td>4<span class="hs">&hearts;</span> E 4</td><td>12-Cowles-Laughary vs 3-Christensen-Wright</td></tr>
+<tr><td class="right"></td><td class="right">630</td><td class="right">3.00</td><td class="right">1.00</td><td>3N E 4</td><td>11-Romeo-Gulley vs 5-Miller-Mohrman</td></tr>
+<tr><td class="right"></td><td class="right">650</td><td class="right">2.00</td><td class="right">2.00</td><td>4<span class="hs">&hearts;</span> E 5</td><td>2-Christie-Vulcan vs 9-Davis-Lee</td></tr>
+<tr><td class="right"></td><td class="right">660</td><td class="right">1.00</td><td class="right">3.00</td><td>4N E 5</td><td>10-Cline-Stevens vs 8-Gong-Gong</td></tr>
+<tr><td class="right"></td><td class="right">690</td><td class="right">0.00</td><td class="right">4.00</td><td>3N W 6</td><td>1-Taylor-Anderson vs 6-Herman-Phu</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -1357,7 +1362,7 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;2&clubs;&nbsp;<span class="ddfail"> &diams;3 &hearts;4 &spades;5/4 NT4/3</span></td></tr>
+        <tr><td>NS:&nbsp;2&clubs;&nbsp;<span class="ddfail"> &diams;3 &hearts;4 &spades;4/5 NT3/4</span></td></tr>
         <tr><td>EW:&nbsp;3<span class="hs">&diams;</span>&nbsp;3<span class="hs">&hearts;</span>&nbsp;2&spades;&nbsp;<span class="ddfail"> &clubs;4 NT5</span></td></tr>
       </table>
     </td>
@@ -1374,10 +1379,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 8</td></tr>
     </thead>
     <tbody>
-<tr><td class="right"></td><td class="right">100</td><td class="right">3.88</td><td class="right">0.13</td><td>4&clubs; S -2</td><td>2-Christie-Vulcan vs 9-Davis-Lee</td></tr>
-<tr><td class="right"></td><td class="right">130</td><td class="right">2.63</td><td class="right">1.38</td><td>3<span class="ds">&diams;</span> W 4</td><td>11-Romeo-Gulley vs 5-Miller-Mohrman</td></tr>
-<tr><td class="right"></td><td class="right">150</td><td class="right">1.38</td><td class="right">2.63</td><td>3<span class="ds">&diams;</span> W 5</td><td>12-Cowles-Laughary vs 3-Christensen-Wright</td></tr>
-<tr><td class="right"></td><td class="right">570</td><td class="right">0.13</td><td class="right">3.88</td><td>3<span class="ds">&diams;</span>* W 4</td><td>10-Cline-Stevens vs 8-Gong-Gong</td></tr>
+<tr><td class="right">100</td><td class="right"></td><td class="right">4.00</td><td class="right">0.00</td><td>4<span class="hs">&hearts;</span> E -2</td><td>1-Taylor-Anderson vs 6-Herman-Phu</td></tr>
+<tr><td class="right"></td><td class="right">100</td><td class="right">3.00</td><td class="right">1.00</td><td>4&clubs; S -2</td><td>2-Christie-Vulcan vs 9-Davis-Lee</td></tr>
+<tr><td class="right"></td><td class="right">130</td><td class="right">2.00</td><td class="right">2.00</td><td>3<span class="ds">&diams;</span> W 4</td><td>11-Romeo-Gulley vs 5-Miller-Mohrman</td></tr>
+<tr><td class="right"></td><td class="right">150</td><td class="right">1.00</td><td class="right">3.00</td><td>3<span class="ds">&diams;</span> W 5</td><td>12-Cowles-Laughary vs 3-Christensen-Wright</td></tr>
+<tr><td class="right"></td><td class="right">570</td><td class="right">0.00</td><td class="right">4.00</td><td>3<span class="ds">&diams;</span>* W 4</td><td>10-Cline-Stevens vs 8-Gong-Gong</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -1451,10 +1457,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 9</td></tr>
     </thead>
     <tbody>
-<tr><td class="right"></td><td class="right">150</td><td class="right">3.88</td><td class="right">0.13</td><td>1N E 3</td><td>2-Christie-Vulcan vs 9-Davis-Lee</td></tr>
-<tr><td class="right"></td><td class="right">180</td><td class="right">2.00</td><td class="right">2.00</td><td>2N E 4</td><td>11-Romeo-Gulley vs 5-Miller-Mohrman</td></tr>
-<tr><td class="right"></td><td class="right">180</td><td class="right">2.00</td><td class="right">2.00</td><td>2N E 4</td><td>12-Cowles-Laughary vs 3-Christensen-Wright</td></tr>
-<tr><td class="right"></td><td class="right">600</td><td class="right">0.13</td><td class="right">3.88</td><td>3N W 3</td><td>10-Cline-Stevens vs 8-Gong-Gong</td></tr>
+<tr><td class="right"></td><td class="right">120</td><td class="right">4.00</td><td class="right">0.00</td><td>2N W 2</td><td>1-Taylor-Anderson vs 6-Herman-Phu</td></tr>
+<tr><td class="right"></td><td class="right">150</td><td class="right">3.00</td><td class="right">1.00</td><td>1N E 3</td><td>2-Christie-Vulcan vs 9-Davis-Lee</td></tr>
+<tr><td class="right"></td><td class="right">180</td><td class="right">1.50</td><td class="right">2.50</td><td>2N E 4</td><td>11-Romeo-Gulley vs 5-Miller-Mohrman</td></tr>
+<tr><td class="right"></td><td class="right">180</td><td class="right">1.50</td><td class="right">2.50</td><td>2N E 4</td><td>12-Cowles-Laughary vs 3-Christensen-Wright</td></tr>
+<tr><td class="right"></td><td class="right">600</td><td class="right">0.00</td><td class="right">4.00</td><td>3N W 3</td><td>10-Cline-Stevens vs 8-Gong-Gong</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -1511,7 +1518,7 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;5&clubs;&nbsp;3/4<span class="hs">&hearts;</span>&nbsp;4&spades;&nbsp;-/4NT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="ddfail"> &diams;4 NT6/10</span></td></tr>
+        <tr><td>NS:&nbsp;5&clubs;&nbsp;4/3<span class="hs">&hearts;</span>&nbsp;4&spades;&nbsp;4/-NT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="ddfail"> &diams;4 NT10/6</span></td></tr>
         <tr><td>EW:&nbsp;2/3<span class="hs">&diams;</span>&nbsp;<span class="ddfail"> &clubs;1 &hearts;3 &spades;3 NT2</span></td></tr>
       </table>
     </td>
@@ -1528,10 +1535,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 10</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">690</td><td class="right"></td><td class="right">3.88</td><td class="right">0.13</td><td>3N S 6</td><td>3-Christensen-Wright vs 1-Taylor-Anderson</td></tr>
-<tr><td class="right">600</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>5&clubs; N 5</td><td>12-Cowles-Laughary vs 4-Tipton-Hesson</td></tr>
-<tr><td class="right">500</td><td class="right"></td><td class="right">1.38</td><td class="right">2.63</td><td>5<span class="ds">&diams;</span>* W -2</td><td>11-Romeo-Gulley vs 6-Herman-Phu</td></tr>
-<tr><td class="right">200</td><td class="right"></td><td class="right">0.13</td><td class="right">3.88</td><td>3<span class="ds">&diams;</span>* W -1</td><td>10-Cline-Stevens vs 9-Davis-Lee</td></tr>
+<tr><td class="right">690</td><td class="right"></td><td class="right">4.00</td><td class="right">0.00</td><td>3N S 6</td><td>3-Christensen-Wright vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right">630</td><td class="right"></td><td class="right">3.00</td><td class="right">1.00</td><td>3N S 4</td><td>8-Gong-Gong vs 5-Miller-Mohrman</td></tr>
+<tr><td class="right">600</td><td class="right"></td><td class="right">2.00</td><td class="right">2.00</td><td>5&clubs; N 5</td><td>12-Cowles-Laughary vs 4-Tipton-Hesson</td></tr>
+<tr><td class="right">500</td><td class="right"></td><td class="right">1.00</td><td class="right">3.00</td><td>5<span class="ds">&diams;</span>* W -2</td><td>11-Romeo-Gulley vs 6-Herman-Phu</td></tr>
+<tr><td class="right">200</td><td class="right"></td><td class="right">0.00</td><td class="right">4.00</td><td>3<span class="ds">&diams;</span>* W -1</td><td>10-Cline-Stevens vs 9-Davis-Lee</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -1605,10 +1613,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 11</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">110</td><td class="right"></td><td class="right">3.88</td><td class="right">0.13</td><td>2&spades; S 2</td><td>3-Christensen-Wright vs 1-Taylor-Anderson</td></tr>
-<tr><td class="right"></td><td class="right">50</td><td class="right">2.63</td><td class="right">1.38</td><td>2&spades; S -1</td><td>10-Cline-Stevens vs 9-Davis-Lee</td></tr>
-<tr><td class="right"></td><td class="right">100</td><td class="right">1.38</td><td class="right">2.63</td><td>3&spades; S -2</td><td>11-Romeo-Gulley vs 6-Herman-Phu</td></tr>
-<tr><td class="right"></td><td class="right">130</td><td class="right">0.13</td><td class="right">3.88</td><td>2&clubs; W 4</td><td>12-Cowles-Laughary vs 4-Tipton-Hesson</td></tr>
+<tr><td class="right">110</td><td class="right"></td><td class="right">4.00</td><td class="right">0.00</td><td>2&spades; S 2</td><td>3-Christensen-Wright vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right"></td><td class="right">50</td><td class="right">3.00</td><td class="right">1.00</td><td>2&spades; S -1</td><td>10-Cline-Stevens vs 9-Davis-Lee</td></tr>
+<tr><td class="right"></td><td class="right">100</td><td class="right">2.00</td><td class="right">2.00</td><td>3&spades; S -2</td><td>11-Romeo-Gulley vs 6-Herman-Phu</td></tr>
+<tr><td class="right"></td><td class="right">130</td><td class="right">1.00</td><td class="right">3.00</td><td>2&clubs; W 4</td><td>12-Cowles-Laughary vs 4-Tipton-Hesson</td></tr>
+<tr><td class="right"></td><td class="right">140</td><td class="right">0.00</td><td class="right">4.00</td><td>2<span class="hs">&hearts;</span> E 3</td><td>8-Gong-Gong vs 5-Miller-Mohrman</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -1682,10 +1691,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 12</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">120</td><td class="right"></td><td class="right">3.88</td><td class="right">0.13</td><td>1N N 2</td><td>12-Cowles-Laughary vs 4-Tipton-Hesson</td></tr>
-<tr><td class="right">90</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>2&clubs; N 2</td><td>11-Romeo-Gulley vs 6-Herman-Phu</td></tr>
-<tr><td class="right">50</td><td class="right"></td><td class="right">1.38</td><td class="right">2.63</td><td>2&spades; W -1</td><td>10-Cline-Stevens vs 9-Davis-Lee</td></tr>
-<tr><td class="right"></td><td class="right">100</td><td class="right">0.13</td><td class="right">3.88</td><td>2N N -1</td><td>3-Christensen-Wright vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right">120</td><td class="right"></td><td class="right">4.00</td><td class="right">0.00</td><td>1N N 2</td><td>12-Cowles-Laughary vs 4-Tipton-Hesson</td></tr>
+<tr><td class="right">90</td><td class="right"></td><td class="right">3.00</td><td class="right">1.00</td><td>2&clubs; N 2</td><td>11-Romeo-Gulley vs 6-Herman-Phu</td></tr>
+<tr><td class="right">50</td><td class="right"></td><td class="right">2.00</td><td class="right">2.00</td><td>2&spades; W -1</td><td>10-Cline-Stevens vs 9-Davis-Lee</td></tr>
+<tr><td class="right"></td><td class="right">100</td><td class="right">0.50</td><td class="right">3.50</td><td>2N N -1</td><td>3-Christensen-Wright vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right"></td><td class="right">100</td><td class="right">0.50</td><td class="right">3.50</td><td>2N N -1</td><td>8-Gong-Gong vs 5-Miller-Mohrman</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -1759,10 +1769,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 13</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">200</td><td class="right"></td><td class="right">3.88</td><td class="right">0.13</td><td>6N E -2</td><td>12-Cowles-Laughary vs 5-Miller-Mohrman</td></tr>
-<tr><td class="right">100</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>4N W -1</td><td>3-Christensen-Wright vs 8-Gong-Gong</td></tr>
-<tr><td class="right"></td><td class="right">660</td><td class="right">1.38</td><td class="right">2.63</td><td>3N E 5</td><td>1-Taylor-Anderson vs 10-Cline-Stevens</td></tr>
-<tr><td class="right"></td><td class="right">690</td><td class="right">0.13</td><td class="right">3.88</td><td>3N W 6</td><td>9-Davis-Lee vs 6-Herman-Phu</td></tr>
+<tr><td class="right">200</td><td class="right"></td><td class="right">4.00</td><td class="right">0.00</td><td>6N E -2</td><td>12-Cowles-Laughary vs 5-Miller-Mohrman</td></tr>
+<tr><td class="right">100</td><td class="right"></td><td class="right">3.00</td><td class="right">1.00</td><td>4N W -1</td><td>3-Christensen-Wright vs 8-Gong-Gong</td></tr>
+<tr><td class="right"></td><td class="right">660</td><td class="right">1.50</td><td class="right">2.50</td><td>4N E 5</td><td>4-Tipton-Hesson vs 2-Christie-Vulcan</td></tr>
+<tr><td class="right"></td><td class="right">660</td><td class="right">1.50</td><td class="right">2.50</td><td>3N E 5</td><td>1-Taylor-Anderson vs 10-Cline-Stevens</td></tr>
+<tr><td class="right"></td><td class="right">690</td><td class="right">0.00</td><td class="right">4.00</td><td>3N W 6</td><td>9-Davis-Lee vs 6-Herman-Phu</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -1836,10 +1847,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 14</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">50</td><td class="right"></td><td class="right">3.88</td><td class="right">0.13</td><td>3N W -1</td><td>1-Taylor-Anderson vs 10-Cline-Stevens</td></tr>
-<tr><td class="right"></td><td class="right">400</td><td class="right">2.63</td><td class="right">1.38</td><td>5<span class="ds">&diams;</span> E 5</td><td>3-Christensen-Wright vs 8-Gong-Gong</td></tr>
-<tr><td class="right"></td><td class="right">430</td><td class="right">0.75</td><td class="right">3.25</td><td>3N W 4</td><td>9-Davis-Lee vs 6-Herman-Phu</td></tr>
-<tr><td class="right"></td><td class="right">430</td><td class="right">0.75</td><td class="right">3.25</td><td>3N W 4</td><td>12-Cowles-Laughary vs 5-Miller-Mohrman</td></tr>
+<tr><td class="right">50</td><td class="right"></td><td class="right">4.00</td><td class="right">0.00</td><td>3N W -1</td><td>1-Taylor-Anderson vs 10-Cline-Stevens</td></tr>
+<tr><td class="right"></td><td class="right">400</td><td class="right">3.00</td><td class="right">1.00</td><td>5<span class="ds">&diams;</span> E 5</td><td>3-Christensen-Wright vs 8-Gong-Gong</td></tr>
+<tr><td class="right"></td><td class="right">430</td><td class="right">1.50</td><td class="right">2.50</td><td>3N W 4</td><td>9-Davis-Lee vs 6-Herman-Phu</td></tr>
+<tr><td class="right"></td><td class="right">430</td><td class="right">1.50</td><td class="right">2.50</td><td>3N W 4</td><td>12-Cowles-Laughary vs 5-Miller-Mohrman</td></tr>
+<tr><td class="right"></td><td class="right">500</td><td class="right">0.00</td><td class="right">4.00</td><td>3&clubs;* S -3</td><td>4-Tipton-Hesson vs 2-Christie-Vulcan</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -1913,10 +1925,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 15</td></tr>
     </thead>
     <tbody>
-<tr><td class="right"></td><td class="right">170</td><td class="right">3.25</td><td class="right">0.75</td><td>3<span class="hs">&hearts;</span> W 4</td><td>12-Cowles-Laughary vs 5-Miller-Mohrman</td></tr>
-<tr><td class="right"></td><td class="right">170</td><td class="right">3.25</td><td class="right">0.75</td><td>2<span class="hs">&hearts;</span> W 4</td><td>9-Davis-Lee vs 6-Herman-Phu</td></tr>
-<tr><td class="right"></td><td class="right">420</td><td class="right">0.75</td><td class="right">3.25</td><td>4<span class="hs">&hearts;</span> W 4</td><td>3-Christensen-Wright vs 8-Gong-Gong</td></tr>
-<tr><td class="right"></td><td class="right">420</td><td class="right">0.75</td><td class="right">3.25</td><td>4<span class="hs">&hearts;</span> E 4</td><td>1-Taylor-Anderson vs 10-Cline-Stevens</td></tr>
+<tr><td class="right"></td><td class="right">170</td><td class="right">3.50</td><td class="right">0.50</td><td>3<span class="hs">&hearts;</span> W 4</td><td>12-Cowles-Laughary vs 5-Miller-Mohrman</td></tr>
+<tr><td class="right"></td><td class="right">170</td><td class="right">3.50</td><td class="right">0.50</td><td>2<span class="hs">&hearts;</span> W 4</td><td>9-Davis-Lee vs 6-Herman-Phu</td></tr>
+<tr><td class="right"></td><td class="right">420</td><td class="right">1.00</td><td class="right">3.00</td><td>4<span class="hs">&hearts;</span> W 4</td><td>3-Christensen-Wright vs 8-Gong-Gong</td></tr>
+<tr><td class="right"></td><td class="right">420</td><td class="right">1.00</td><td class="right">3.00</td><td>4<span class="hs">&hearts;</span> E 4</td><td>1-Taylor-Anderson vs 10-Cline-Stevens</td></tr>
+<tr><td class="right"></td><td class="right">420</td><td class="right">1.00</td><td class="right">3.00</td><td>4<span class="hs">&hearts;</span> E 4</td><td>4-Tipton-Hesson vs 2-Christie-Vulcan</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -2207,7 +2220,7 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="ddfail"> &clubs;5/6 &diams;4/5 &hearts;5/6 &spades;4/5 NT5/6</span></td></tr>
+        <tr><td>NS:<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="ddfail"> &clubs;6/5 &diams;5/4 &hearts;6/5 &spades;5/4 NT6/5</span></td></tr>
         <tr><td>EW:&nbsp;1&clubs;&nbsp;2<span class="hs">&diams;</span>&nbsp;-/1<span class="hs">&hearts;</span>&nbsp;2&spades;&nbsp;1/2NT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="ddfail"> &hearts;6/7</span></td></tr>
       </table>
     </td>
@@ -2363,7 +2376,7 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;6 &diams;4 &hearts;5/4 &spades;6 NT5</span></td></tr>
+        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;6 &diams;4 &hearts;4/5 &spades;6 NT5</span></td></tr>
         <tr><td>EW:&nbsp;1&clubs;&nbsp;3<span class="hs">&diams;</span>&nbsp;2<span class="hs">&hearts;</span>&nbsp;1&spades;&nbsp;2NT</td></tr>
       </table>
     </td>
@@ -2519,7 +2532,7 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;5 &diams;4/3 &hearts;4 &spades;5 NT4</span></td></tr>
+        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;5 &diams;3/4 &hearts;4 &spades;5 NT4</span></td></tr>
         <tr><td>EW:&nbsp;2&clubs;&nbsp;3<span class="hs">&diams;</span>&nbsp;2<span class="hs">&hearts;</span>&nbsp;1&spades;&nbsp;3NT</td></tr>
       </table>
     </td>
@@ -2675,13 +2688,13 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;5&clubs;&nbsp;2<span class="hs">&diams;</span>&nbsp;4/3<span class="hs">&hearts;</span>&nbsp;<span class="ddfail"> &spades;5 NT6</span></td></tr>
+        <tr><td>NS:&nbsp;5&clubs;&nbsp;2<span class="hs">&diams;</span>&nbsp;3/4<span class="hs">&hearts;</span>&nbsp;<span class="ddfail"> &spades;5 NT6</span></td></tr>
         <tr><td>EW:&nbsp;1&spades;&nbsp;<span class="ddfail"> &clubs;2 &diams;4 &hearts;3 NT4</span></td></tr>
       </table>
     </td>
   </tr></table>
   <table class="lott_par_copyaids"><tr>
-    <td>LoTT: 18 - 18 = 0<br>Par: +420 4<span class="hs">&hearts;</span>-N</td>
+    <td>LoTT: 18 - 18 = 0<br>Par: +420 4<span class="hs">&hearts;</span>-S</td>
 <p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sJhK5dAQ654cAQ753&s=sQ32hQJ864d8cKJ84&e=sA98654hA3dT72c96&w=sKT7hT972dKJ93cT2&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('25','KT7.T972.KJ93.T2','J.K5.AQ654.AQ753','A98654.A3.T72.96','Q32.QJ864.8.KJ84')"></td>
   </tr></table>
 </td>
@@ -2692,10 +2705,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 25</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">1100</td><td class="right"></td><td class="right">3.88</td><td class="right">0.13</td><td>4&spades;* E -4</td><td>8-Gong-Gong vs 6-Herman-Phu</td></tr>
-<tr><td class="right">420</td><td class="right"></td><td class="right">2.00</td><td class="right">2.00</td><td>5&clubs; N 6</td><td>2-Christie-Vulcan vs 11-Romeo-Gulley</td></tr>
-<tr><td class="right">420</td><td class="right"></td><td class="right">2.00</td><td class="right">2.00</td><td>5&clubs; N 6</td><td>5-Miller-Mohrman vs 10-Cline-Stevens</td></tr>
-<tr><td class="right">150</td><td class="right"></td><td class="right">0.13</td><td class="right">3.88</td><td>3&clubs; S 5</td><td>4-Tipton-Hesson vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right">1100</td><td class="right"></td><td class="right">4.00</td><td class="right">0.00</td><td>4&spades;* E -4</td><td>8-Gong-Gong vs 6-Herman-Phu</td></tr>
+<tr><td class="right">420</td><td class="right"></td><td class="right">2.50</td><td class="right">1.50</td><td>5&clubs; N 6</td><td>2-Christie-Vulcan vs 11-Romeo-Gulley</td></tr>
+<tr><td class="right">420</td><td class="right"></td><td class="right">2.50</td><td class="right">1.50</td><td>5&clubs; N 6</td><td>5-Miller-Mohrman vs 10-Cline-Stevens</td></tr>
+<tr><td class="right">170</td><td class="right"></td><td class="right">1.00</td><td class="right">3.00</td><td>3&clubs; N 6</td><td>12-Cowles-Laughary vs 9-Davis-Lee</td></tr>
+<tr><td class="right">150</td><td class="right"></td><td class="right">0.00</td><td class="right">4.00</td><td>3&clubs; S 5</td><td>4-Tipton-Hesson vs 1-Taylor-Anderson</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -2752,7 +2766,7 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;3&clubs;&nbsp;4<span class="hs">&diams;</span>&nbsp;5<span class="hs">&hearts;</span>&nbsp;6&spades;&nbsp;4/3NT</td></tr>
+        <tr><td>NS:&nbsp;3&clubs;&nbsp;4<span class="hs">&diams;</span>&nbsp;5<span class="hs">&hearts;</span>&nbsp;6&spades;&nbsp;3/4NT</td></tr>
         <tr><td>EW:&nbsp;<span class="ddfail"> &clubs;4 &diams;3 &hearts;2 &spades;1 NT3</span></td></tr>
       </table>
     </td>
@@ -2769,10 +2783,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 26</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">1400</td><td class="right"></td><td class="right">3.88</td><td class="right">0.13</td><td>3&clubs;* W -5</td><td>5-Miller-Mohrman vs 10-Cline-Stevens</td></tr>
-<tr><td class="right">1100</td><td class="right"></td><td class="right">2.00</td><td class="right">2.00</td><td>3&clubs;* W -4</td><td>2-Christie-Vulcan vs 11-Romeo-Gulley</td></tr>
-<tr><td class="right">1100</td><td class="right"></td><td class="right">2.00</td><td class="right">2.00</td><td>3&clubs;* W -4</td><td>8-Gong-Gong vs 6-Herman-Phu</td></tr>
-<tr><td class="right">630</td><td class="right"></td><td class="right">0.13</td><td class="right">3.88</td><td>3N N 4</td><td>4-Tipton-Hesson vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right">1400</td><td class="right"></td><td class="right">4.00</td><td class="right">0.00</td><td>3&clubs;* W -5</td><td>5-Miller-Mohrman vs 10-Cline-Stevens</td></tr>
+<tr><td class="right">1100</td><td class="right"></td><td class="right">2.50</td><td class="right">1.50</td><td>3&clubs;* W -4</td><td>2-Christie-Vulcan vs 11-Romeo-Gulley</td></tr>
+<tr><td class="right">1100</td><td class="right"></td><td class="right">2.50</td><td class="right">1.50</td><td>3&clubs;* W -4</td><td>8-Gong-Gong vs 6-Herman-Phu</td></tr>
+<tr><td class="right">630</td><td class="right"></td><td class="right">0.50</td><td class="right">3.50</td><td>3N N 4</td><td>4-Tipton-Hesson vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right">630</td><td class="right"></td><td class="right">0.50</td><td class="right">3.50</td><td>3N N 4</td><td>12-Cowles-Laughary vs 9-Davis-Lee</td></tr>
 	  </tbody>
   </table>
 </td></tr>
@@ -2829,7 +2844,7 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
     <td>
       <table class="DDmakes">
         <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
-        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;6 &diams;5 &hearts;3 &spades;3/4 NT3</span></td></tr>
+        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;6 &diams;5 &hearts;3 &spades;4/3 NT3</span></td></tr>
         <tr><td>EW:&nbsp;1&clubs;&nbsp;2<span class="hs">&diams;</span>&nbsp;4/3<span class="hs">&hearts;</span>&nbsp;3/2&spades;&nbsp;3NT</td></tr>
       </table>
     </td>
@@ -2846,10 +2861,11 @@ No Name                   Name                   |F| A | B | C | Score | Pct  |A
       <tr><td class="center">N-S</td><td class="center">E-W</td><td class="center">N-S</td><td class="center">E-W</td><td class="left">Contract</td><td class="bn">Board 27</td></tr>
     </thead>
     <tbody>
-<tr><td class="right">50</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>4<span class="hs">&hearts;</span> W -1</td><td>2-Christie-Vulcan vs 11-Romeo-Gulley</td></tr>
-<tr><td class="right">50</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>4<span class="hs">&hearts;</span> W -1</td><td>4-Tipton-Hesson vs 1-Taylor-Anderson</td></tr>
-<tr><td class="right">50</td><td class="right"></td><td class="right">2.63</td><td class="right">1.38</td><td>4<span class="hs">&hearts;</span> W -1</td><td>5-Miller-Mohrman vs 10-Cline-Stevens</td></tr>
-<tr><td class="right"></td><td class="right">420</td><td class="right">0.13</td><td class="right">3.88</td><td>4<span class="hs">&hearts;</span> W 4</td><td>8-Gong-Gong vs 6-Herman-Phu</td></tr>
+<tr><td class="right">50</td><td class="right"></td><td class="right">3.00</td><td class="right">1.00</td><td>4<span class="hs">&hearts;</span> W -1</td><td>2-Christie-Vulcan vs 11-Romeo-Gulley</td></tr>
+<tr><td class="right">50</td><td class="right"></td><td class="right">3.00</td><td class="right">1.00</td><td>4<span class="hs">&hearts;</span> W -1</td><td>4-Tipton-Hesson vs 1-Taylor-Anderson</td></tr>
+<tr><td class="right">50</td><td class="right"></td><td class="right">3.00</td><td class="right">1.00</td><td>4<span class="hs">&hearts;</span> W -1</td><td>5-Miller-Mohrman vs 10-Cline-Stevens</td></tr>
+<tr><td class="right"></td><td class="right">420</td><td class="right">0.50</td><td class="right">3.50</td><td>4<span class="hs">&hearts;</span> W 4</td><td>8-Gong-Gong vs 6-Herman-Phu</td></tr>
+<tr><td class="right"></td><td class="right">420</td><td class="right">0.50</td><td class="right">3.50</td><td>4<span class="hs">&hearts;</span> W 4</td><td>12-Cowles-Laughary vs 9-Davis-Lee</td></tr>
 	  </tbody>
   </table>
 </td></tr>
