@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 14, 2021  |CLUB NO.>158048    | 12/14/2021 22:16
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=4/C=2                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Galen Hesson           Nick Tipton              A   .     .     .   |   .     .     .     46.00  42.59          
+
+ 2 David Roselle          Paul Martin              A   .     .     .   |   .     .     .     50.00  46.30          
+
+ 3 Clay Laughary          Pete Cowles              C   .     .     .   |   .     .     .     47.50  43.98          
+
+ 4 Bryan Delfs            Sue Anderson             A   .     .     .   |   .     .     .     49.00  45.37          
+
+ 5 David Wright           Aaron Mohrman            B   .     .     .   |   .     .     .     54.00  50.00          
+
+ 6 Mike Christensen       Mike Ring                A   3     .     .   |   3     .     .     60.00  55.56  1.23(OA)
+
+ 7 Arthur Gong            Rui Gong                 C   2     .     .   |   2     1     .     60.50  56.02  1.64(OA)
+
+ 8 Kevin Cline            Jeffrey Ford             A   .     .     .   |   .     .     .     44.00  40.74          
+
+ 9 Hugh Hendrickson       Nelson Davis             B   4     .     .   |   4     2     .     57.00  52.78  0.92(OA)
+
+10 Eric Sieg              Kim Eng                  A   1     .     .   |   1     .     .     72.00  66.67  2.19(OA)
+
+
+                                          Totals                                            540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   4.00 1-Hesson-Tipton vs 4-Delfs-Anderson
+        100    2.00   2.00 2-Roselle-Martin vs 9-Hendrickson-Davis
+        120    1.00   3.00 3-Laughary-Cowles vs 7-Gong-Gong
+   50          3.00   1.00 5-Wright-Mohrman vs 6-Christensen-Ring
+  570          4.00   0.00 10-Sieg-Eng vs 8-Cline-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   1.50 1-Hesson-Tipton vs 4-Delfs-Anderson
+        200    0.00   4.00 2-Roselle-Martin vs 9-Hendrickson-Davis
+        140    1.00   3.00 3-Laughary-Cowles vs 7-Gong-Gong
+        100    2.50   1.50 5-Wright-Mohrman vs 6-Christensen-Ring
+  110          4.00   0.00 10-Sieg-Eng vs 8-Cline-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   4.00 1-Hesson-Tipton vs 4-Delfs-Anderson
+  140          1.50   2.50 2-Roselle-Martin vs 9-Hendrickson-Davis
+  400          3.50   0.50 3-Laughary-Cowles vs 7-Gong-Gong
+  140          1.50   2.50 5-Wright-Mohrman vs 6-Christensen-Ring
+  400          3.50   0.50 10-Sieg-Eng vs 8-Cline-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   3.00 2-Roselle-Martin vs 5-Wright-Mohrman
+  100          0.00   4.00 3-Laughary-Cowles vs 1-Hesson-Tipton
+  140          3.00   1.00 4-Delfs-Anderson vs 8-Cline-Ford
+  140          3.00   1.00 6-Christensen-Ring vs 7-Gong-Gong
+  140          3.00   1.00 10-Sieg-Eng vs 9-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.00   2.00 2-Roselle-Martin vs 5-Wright-Mohrman
+        100    3.50   0.50 3-Laughary-Cowles vs 1-Hesson-Tipton
+        140    1.00   3.00 4-Delfs-Anderson vs 8-Cline-Ford
+        150    0.00   4.00 6-Christensen-Ring vs 7-Gong-Gong
+        100    3.50   0.50 10-Sieg-Eng vs 9-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.50   2.50 2-Roselle-Martin vs 5-Wright-Mohrman
+  100          3.50   0.50 3-Laughary-Cowles vs 1-Hesson-Tipton
+  100          3.50   0.50 4-Delfs-Anderson vs 8-Cline-Ford
+        600    1.50   2.50 6-Christensen-Ring vs 7-Gong-Gong
+        620    0.00   4.00 10-Sieg-Eng vs 9-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   2.00 3-Laughary-Cowles vs 6-Christensen-Ring
+        650    2.00   2.00 4-Delfs-Anderson vs 2-Roselle-Martin
+       1100    0.00   4.00 5-Wright-Mohrman vs 9-Hendrickson-Davis
+        650    2.00   2.00 7-Gong-Gong vs 8-Cline-Ford
+        620    4.00   0.00 10-Sieg-Eng vs 1-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.00   4.00 3-Laughary-Cowles vs 6-Christensen-Ring
+        140    2.00   2.00 4-Delfs-Anderson vs 2-Roselle-Martin
+        130    3.00   1.00 5-Wright-Mohrman vs 9-Hendrickson-Davis
+        300    1.00   3.00 7-Gong-Gong vs 8-Cline-Ford
+  140          4.00   0.00 10-Sieg-Eng vs 1-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.00   3.00 3-Laughary-Cowles vs 6-Christensen-Ring
+  460          2.50   1.50 4-Delfs-Anderson vs 2-Roselle-Martin
+  460          2.50   1.50 5-Wright-Mohrman vs 9-Hendrickson-Davis
+  420          0.00   4.00 7-Gong-Gong vs 8-Cline-Ford
+  500          4.00   0.00 10-Sieg-Eng vs 1-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   4.00 4-Delfs-Anderson vs 7-Gong-Gong
+  170          3.00   1.00 5-Wright-Mohrman vs 3-Laughary-Cowles
+        100    1.00   3.00 6-Christensen-Ring vs 1-Hesson-Tipton
+  200          4.00   0.00 8-Cline-Ford vs 9-Hendrickson-Davis
+  140          2.00   2.00 10-Sieg-Eng vs 2-Roselle-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          0.00   4.00 4-Delfs-Anderson vs 7-Gong-Gong
+  140          1.50   2.50 5-Wright-Mohrman vs 3-Laughary-Cowles
+  150          3.00   1.00 6-Christensen-Ring vs 1-Hesson-Tipton
+  140          1.50   2.50 8-Cline-Ford vs 9-Hendrickson-Davis
+  170          4.00   0.00 10-Sieg-Eng vs 2-Roselle-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.50   2.50 4-Delfs-Anderson vs 7-Gong-Gong
+   50          4.00   0.00 5-Wright-Mohrman vs 3-Laughary-Cowles
+        150    1.50   2.50 6-Christensen-Ring vs 1-Hesson-Tipton
+        150    1.50   2.50 8-Cline-Ford vs 9-Hendrickson-Davis
+        150    1.50   2.50 10-Sieg-Eng vs 2-Roselle-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          0.50   3.50 5-Wright-Mohrman vs 8-Cline-Ford
+  170          0.50   3.50 6-Christensen-Ring vs 4-Delfs-Anderson
+  650          4.00   0.00 7-Gong-Gong vs 2-Roselle-Martin
+  180          2.00   2.00 9-Hendrickson-Davis vs 1-Hesson-Tipton
+  200          3.00   1.00 10-Sieg-Eng vs 3-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   1.50 5-Wright-Mohrman vs 8-Cline-Ford
+        170    2.50   1.50 6-Christensen-Ring vs 4-Delfs-Anderson
+        420    1.00   3.00 7-Gong-Gong vs 2-Roselle-Martin
+        650    0.00   4.00 9-Hendrickson-Davis vs 1-Hesson-Tipton
+        120    4.00   0.00 10-Sieg-Eng vs 3-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   1.00 5-Wright-Mohrman vs 8-Cline-Ford
+  710          4.00   0.00 6-Christensen-Ring vs 4-Delfs-Anderson
+        100    2.00   2.00 7-Gong-Gong vs 2-Roselle-Martin
+        200    0.00   4.00 9-Hendrickson-Davis vs 1-Hesson-Tipton
+        140    1.00   3.00 10-Sieg-Eng vs 3-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   1.00 1-Hesson-Tipton vs 2-Roselle-Martin
+        170    0.00   4.00 6-Christensen-Ring vs 9-Hendrickson-Davis
+  100          1.00   3.00 7-Gong-Gong vs 5-Wright-Mohrman
+  110          2.00   2.00 8-Cline-Ford vs 3-Laughary-Cowles
+  500          4.00   0.00 10-Sieg-Eng vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   2.00 1-Hesson-Tipton vs 2-Roselle-Martin
+   50          2.00   2.00 6-Christensen-Ring vs 9-Hendrickson-Davis
+   50          2.00   2.00 7-Gong-Gong vs 5-Wright-Mohrman
+   50          2.00   2.00 8-Cline-Ford vs 3-Laughary-Cowles
+   50          2.00   2.00 10-Sieg-Eng vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   4.00 1-Hesson-Tipton vs 2-Roselle-Martin
+  130          3.00   1.00 6-Christensen-Ring vs 9-Hendrickson-Davis
+  130          3.00   1.00 7-Gong-Gong vs 5-Wright-Mohrman
+  130          3.00   1.00 8-Cline-Ford vs 3-Laughary-Cowles
+        100    1.00   3.00 10-Sieg-Eng vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   2.50 2-Roselle-Martin vs 3-Laughary-Cowles
+        620    1.50   2.50 7-Gong-Gong vs 1-Hesson-Tipton
+        930    0.00   4.00 8-Cline-Ford vs 6-Christensen-Ring
+  100          4.00   0.00 9-Hendrickson-Davis vs 4-Delfs-Anderson
+        170    3.00   1.00 10-Sieg-Eng vs 5-Wright-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   3.00 2-Roselle-Martin vs 3-Laughary-Cowles
+  200          4.00   0.00 7-Gong-Gong vs 1-Hesson-Tipton
+        210    0.00   4.00 8-Cline-Ford vs 6-Christensen-Ring
+        130    2.00   2.00 9-Hendrickson-Davis vs 4-Delfs-Anderson
+        110    3.00   1.00 10-Sieg-Eng vs 5-Wright-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   2.00 2-Roselle-Martin vs 3-Laughary-Cowles
+        170    2.00   2.00 7-Gong-Gong vs 1-Hesson-Tipton
+        420    0.00   4.00 8-Cline-Ford vs 6-Christensen-Ring
+        170    2.00   2.00 9-Hendrickson-Davis vs 4-Delfs-Anderson
+        140    4.00   0.00 10-Sieg-Eng vs 5-Wright-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          0.00   4.00 1-Hesson-Tipton vs 5-Wright-Mohrman
+  430          3.00   1.00 3-Laughary-Cowles vs 4-Delfs-Anderson
+  420          1.50   2.50 8-Cline-Ford vs 2-Roselle-Martin
+  450          4.00   0.00 9-Hendrickson-Davis vs 7-Gong-Gong
+  420          1.50   2.50 10-Sieg-Eng vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       3.50   0.50 1-Hesson-Tipton vs 5-Wright-Mohrman
+    PASS       3.50   0.50 3-Laughary-Cowles vs 4-Delfs-Anderson
+        200    1.00   3.00 8-Cline-Ford vs 2-Roselle-Martin
+        100    2.00   2.00 9-Hendrickson-Davis vs 7-Gong-Gong
+        300    0.00   4.00 10-Sieg-Eng vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    3.50   0.50 1-Hesson-Tipton vs 5-Wright-Mohrman
+        500    1.00   3.00 3-Laughary-Cowles vs 4-Delfs-Anderson
+        500    1.00   3.00 8-Cline-Ford vs 2-Roselle-Martin
+        500    1.00   3.00 9-Hendrickson-Davis vs 7-Gong-Gong
+        460    3.50   0.50 10-Sieg-Eng vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 1-Hesson-Tipton vs 8-Cline-Ford
+        100    2.50   1.50 2-Roselle-Martin vs 6-Christensen-Ring
+        170    1.00   3.00 4-Delfs-Anderson vs 5-Wright-Mohrman
+        100    2.50   1.50 9-Hendrickson-Davis vs 3-Laughary-Cowles
+        500    0.00   4.00 10-Sieg-Eng vs 7-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   2.50 1-Hesson-Tipton vs 8-Cline-Ford
+        620    1.50   2.50 2-Roselle-Martin vs 6-Christensen-Ring
+        620    1.50   2.50 4-Delfs-Anderson vs 5-Wright-Mohrman
+        170    4.00   0.00 9-Hendrickson-Davis vs 3-Laughary-Cowles
+        620    1.50   2.50 10-Sieg-Eng vs 7-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    0.00   4.00 1-Hesson-Tipton vs 8-Cline-Ford
+        430    3.00   1.00 2-Roselle-Martin vs 6-Christensen-Ring
+        430    3.00   1.00 4-Delfs-Anderson vs 5-Wright-Mohrman
+        460    1.00   3.00 9-Hendrickson-Davis vs 3-Laughary-Cowles
+        430    3.00   1.00 10-Sieg-Eng vs 7-Gong-Gong
+----------------------------------------------------------------------
