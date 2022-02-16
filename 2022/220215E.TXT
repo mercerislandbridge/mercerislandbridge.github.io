@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 15, 2022  |CLUB NO.>158048    | 02/15/2022 22:31
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=9/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Clay Laughary          Pete Cowles              C    .     .     .     59.00  49.17          
+
+ 2 Mike Ring              Shawn Abernethy          B    .     .     .     49.00  40.83          
+
+ 3 Bryan Delfs            Nick Tipton              B    5     4     .     62.50  52.08  0.26(A) 
+
+ 4 Chris Pesce            David Taylor             B   3/4   2/3    .     65.00  54.17  0.56(A) 
+
+ 5 Ann Romeo              Jane Friedman            B   3/4   2/3    .     65.00  54.17  0.56(A) 
+
+ 6 Gregory Herman         Eric Sieg                B    .     .     .     62.00  51.67          
+
+ 7 Jeffrey Ford           Kevin Bolan              A    .     .     .     50.50  42.08          
+
+ 8 Nelson Davis           Grace Shen               C    .     .     .     54.50  45.42          
+
+ 9 Adam Ruprecht          Christopher Jarvis       C    1     1     1     74.50  62.08  1.30(A) 
+
+10 Bogdan Vulcan          Stanford Christie        A    .     .     .     56.00  46.67          
+
+11 David Roselle          Sue Anderson             B    .     .     .     46.00  38.33          
+
+12 Mike Christensen       Becky Stevens            A    .     .     .     62.00  51.67          
+
+
+
+14 Ray Miller             Chris Moore              A    2     .     .     74.00  61.67  0.91(A) 
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   3.50 1-Laughary-Cowles vs 3-Delfs-Tipton
+  100          4.50   0.50 2-Ring-Abernethy vs 6-Herman-Sieg
+   50          1.50   3.50 4-Pesce-Taylor vs 9-Ruprecht-Jarvis
+   50          1.50   3.50 5-Romeo-Friedman vs 12-Christensen-Stevens
+   50          1.50   3.50 7-Ford-Bolan vs 8-Davis-Shen
+  100          4.50   0.50 14-Miller-Moore vs 11-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   2.50 1-Laughary-Cowles vs 3-Delfs-Tipton
+        100    0.50   4.50 2-Ring-Abernethy vs 6-Herman-Sieg
+  100          2.50   2.50 4-Pesce-Taylor vs 9-Ruprecht-Jarvis
+  130          4.50   0.50 5-Romeo-Friedman vs 12-Christensen-Stevens
+        100    0.50   4.50 7-Ford-Bolan vs 8-Davis-Shen
+  130          4.50   0.50 14-Miller-Moore vs 11-Roselle-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   3.00 1-Laughary-Cowles vs 11-Roselle-Anderson
+  200          4.50   0.50 2-Ring-Abernethy vs 4-Pesce-Taylor
+  100          2.00   3.00 3-Delfs-Tipton vs 7-Ford-Bolan
+  200          4.50   0.50 5-Romeo-Friedman vs 10-Vulcan-Christie
+        120    0.00   5.00 8-Davis-Shen vs 9-Ruprecht-Jarvis
+  100          2.00   3.00 14-Miller-Moore vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   3.50 1-Laughary-Cowles vs 11-Roselle-Anderson
+   90          0.00   5.00 2-Ring-Abernethy vs 4-Pesce-Taylor
+  130          4.50   0.50 3-Delfs-Tipton vs 7-Ford-Bolan
+  110          1.50   3.50 5-Romeo-Friedman vs 10-Vulcan-Christie
+  130          4.50   0.50 8-Davis-Shen vs 9-Ruprecht-Jarvis
+  120          3.00   2.00 14-Miller-Moore vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        470    0.00   5.00 2-Ring-Abernethy vs 12-Christensen-Stevens
+        100    2.50   2.50 3-Delfs-Tipton vs 5-Romeo-Friedman
+        200    1.00   4.00 4-Pesce-Taylor vs 8-Davis-Shen
+  110          5.00   0.00 6-Herman-Sieg vs 11-Roselle-Anderson
+        100    2.50   2.50 7-Ford-Bolan vs 1-Laughary-Cowles
+  100          4.00   1.00 9-Ruprecht-Jarvis vs 10-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 2-Ring-Abernethy vs 12-Christensen-Stevens
+  450          3.50   1.50 3-Delfs-Tipton vs 5-Romeo-Friedman
+  480          5.00   0.00 4-Pesce-Taylor vs 8-Davis-Shen
+        100    0.50   4.50 6-Herman-Sieg vs 11-Roselle-Anderson
+         50    2.00   3.00 7-Ford-Bolan vs 1-Laughary-Cowles
+  450          3.50   1.50 9-Ruprecht-Jarvis vs 10-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.50   1.50 4-Pesce-Taylor vs 6-Herman-Sieg
+        110    3.50   1.50 5-Romeo-Friedman vs 9-Ruprecht-Jarvis
+        110    3.50   1.50 7-Ford-Bolan vs 12-Christensen-Stevens
+        110    3.50   1.50 8-Davis-Shen vs 2-Ring-Abernethy
+        800    0.00   5.00 10-Vulcan-Christie vs 11-Roselle-Anderson
+        500    1.00   4.00 14-Miller-Moore vs 1-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.00   2.00 4-Pesce-Taylor vs 6-Herman-Sieg
+        450    1.50   3.50 5-Romeo-Friedman vs 9-Ruprecht-Jarvis
+        650    0.00   5.00 7-Ford-Bolan vs 12-Christensen-Stevens
+        450    1.50   3.50 8-Davis-Shen vs 2-Ring-Abernethy
+  650          5.00   0.00 10-Vulcan-Christie vs 11-Roselle-Anderson
+        100    4.00   1.00 14-Miller-Moore vs 1-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   1.00 4-Pesce-Taylor vs 1-Laughary-Cowles
+  110          4.00   1.00 5-Romeo-Friedman vs 7-Ford-Bolan
+        110    1.00   4.00 6-Herman-Sieg vs 10-Vulcan-Christie
+  110          4.00   1.00 9-Ruprecht-Jarvis vs 3-Delfs-Tipton
+        110    1.00   4.00 11-Roselle-Anderson vs 12-Christensen-Stevens
+        110    1.00   4.00 14-Miller-Moore vs 2-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 4-Pesce-Taylor vs 1-Laughary-Cowles
+  680          4.00   1.00 5-Romeo-Friedman vs 7-Ford-Bolan
+  680          4.00   1.00 6-Herman-Sieg vs 10-Vulcan-Christie
+  620          2.00   3.00 9-Ruprecht-Jarvis vs 3-Delfs-Tipton
+        100    1.00   4.00 11-Roselle-Anderson vs 12-Christensen-Stevens
+  680          4.00   1.00 14-Miller-Moore vs 2-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   5.00 5-Romeo-Friedman vs 2-Ring-Abernethy
+  150          4.00   1.00 6-Herman-Sieg vs 8-Davis-Shen
+  120          2.50   2.50 7-Ford-Bolan vs 11-Roselle-Anderson
+         50    1.00   4.00 9-Ruprecht-Jarvis vs 1-Laughary-Cowles
+  120          2.50   2.50 10-Vulcan-Christie vs 4-Pesce-Taylor
+  180          5.00   0.00 14-Miller-Moore vs 3-Delfs-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   2.00 5-Romeo-Friedman vs 2-Ring-Abernethy
+   50          0.50   4.50 6-Herman-Sieg vs 8-Davis-Shen
+   50          0.50   4.50 7-Ford-Bolan vs 11-Roselle-Anderson
+  170          4.50   0.50 9-Ruprecht-Jarvis vs 1-Laughary-Cowles
+  100          2.00   3.00 10-Vulcan-Christie vs 4-Pesce-Taylor
+  170          4.50   0.50 14-Miller-Moore vs 3-Delfs-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   3.00 6-Herman-Sieg vs 3-Delfs-Tipton
+  620          5.00   0.00 7-Ford-Bolan vs 9-Ruprecht-Jarvis
+        100    2.00   3.00 8-Davis-Shen vs 12-Christensen-Stevens
+        100    2.00   3.00 10-Vulcan-Christie vs 2-Ring-Abernethy
+        100    2.00   3.00 11-Roselle-Anderson vs 5-Romeo-Friedman
+        100    2.00   3.00 14-Miller-Moore vs 4-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.50   1.50 6-Herman-Sieg vs 3-Delfs-Tipton
+        430    3.50   1.50 7-Ford-Bolan vs 9-Ruprecht-Jarvis
+        460    1.50   3.50 8-Davis-Shen vs 12-Christensen-Stevens
+        460    1.50   3.50 10-Vulcan-Christie vs 2-Ring-Abernethy
+        650    0.00   5.00 11-Roselle-Anderson vs 5-Romeo-Friedman
+        100    5.00   0.00 14-Miller-Moore vs 4-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   1.00 1-Laughary-Cowles vs 2-Ring-Abernethy
+        150    3.00   2.00 7-Ford-Bolan vs 4-Pesce-Taylor
+        630    0.00   5.00 8-Davis-Shen vs 10-Vulcan-Christie
+        170    1.50   3.50 11-Roselle-Anderson vs 3-Delfs-Tipton
+        170    1.50   3.50 12-Christensen-Stevens vs 6-Herman-Sieg
+  100          5.00   0.00 14-Miller-Moore vs 5-Romeo-Friedman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 1-Laughary-Cowles vs 2-Ring-Abernethy
+       1330    0.00   5.00 7-Ford-Bolan vs 4-Pesce-Taylor
+        500    3.00   2.00 8-Davis-Shen vs 10-Vulcan-Christie
+        170    4.00   1.00 11-Roselle-Anderson vs 3-Delfs-Tipton
+        620    1.50   3.50 12-Christensen-Stevens vs 6-Herman-Sieg
+        620    1.50   3.50 14-Miller-Moore vs 5-Romeo-Friedman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    4.00   1.00 2-Ring-Abernethy vs 3-Delfs-Tipton
+        460    2.00   3.00 8-Davis-Shen vs 5-Romeo-Friedman
+   50          5.00   0.00 9-Ruprecht-Jarvis vs 11-Roselle-Anderson
+        460    2.00   3.00 10-Vulcan-Christie vs 1-Laughary-Cowles
+        920    0.00   5.00 12-Christensen-Stevens vs 4-Pesce-Taylor
+        460    2.00   3.00 14-Miller-Moore vs 6-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.00   5.00 2-Ring-Abernethy vs 3-Delfs-Tipton
+   50          1.00   4.00 8-Davis-Shen vs 5-Romeo-Friedman
+  150          5.00   0.00 9-Ruprecht-Jarvis vs 11-Roselle-Anderson
+  100          3.00   2.00 10-Vulcan-Christie vs 1-Laughary-Cowles
+  100          3.00   2.00 12-Christensen-Stevens vs 4-Pesce-Taylor
+  100          3.00   2.00 14-Miller-Moore vs 6-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.00   2.00 1-Laughary-Cowles vs 8-Davis-Shen
+        620    3.00   2.00 3-Delfs-Tipton vs 4-Pesce-Taylor
+        650    0.00   5.00 9-Ruprecht-Jarvis vs 6-Herman-Sieg
+        620    3.00   2.00 10-Vulcan-Christie vs 12-Christensen-Stevens
+        620    3.00   2.00 11-Roselle-Anderson vs 2-Ring-Abernethy
+        620    3.00   2.00 14-Miller-Moore vs 7-Ford-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.50   4.50 1-Laughary-Cowles vs 8-Davis-Shen
+        130    3.50   1.50 3-Delfs-Tipton vs 4-Pesce-Taylor
+        130    3.50   1.50 9-Ruprecht-Jarvis vs 6-Herman-Sieg
+        150    2.00   3.00 10-Vulcan-Christie vs 12-Christensen-Stevens
+  200          5.00   0.00 11-Roselle-Anderson vs 2-Ring-Abernethy
+        600    0.50   4.50 14-Miller-Moore vs 7-Ford-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   1.00 1-Laughary-Cowles vs 6-Herman-Sieg
+        200    0.50   4.50 2-Ring-Abernethy vs 9-Ruprecht-Jarvis
+        200    0.50   4.50 4-Pesce-Taylor vs 5-Romeo-Friedman
+        100    2.50   2.50 10-Vulcan-Christie vs 7-Ford-Bolan
+        100    2.50   2.50 12-Christensen-Stevens vs 3-Delfs-Tipton
+  300          5.00   0.00 14-Miller-Moore vs 8-Davis-Shen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 1-Laughary-Cowles vs 6-Herman-Sieg
+         50    1.50   3.50 2-Ring-Abernethy vs 9-Ruprecht-Jarvis
+  140          3.00   2.00 4-Pesce-Taylor vs 5-Romeo-Friedman
+  450          5.00   0.00 10-Vulcan-Christie vs 7-Ford-Bolan
+         50    1.50   3.50 12-Christensen-Stevens vs 3-Delfs-Tipton
+  170          4.00   1.00 14-Miller-Moore vs 8-Davis-Shen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          3.50   1.50 2-Ring-Abernethy vs 7-Ford-Bolan
+  630          3.50   1.50 3-Delfs-Tipton vs 10-Vulcan-Christie
+  630          3.50   1.50 5-Romeo-Friedman vs 6-Herman-Sieg
+  600          1.00   4.00 11-Roselle-Anderson vs 8-Davis-Shen
+  630          3.50   1.50 12-Christensen-Stevens vs 1-Laughary-Cowles
+        100    0.00   5.00 14-Miller-Moore vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   2.00 2-Ring-Abernethy vs 7-Ford-Bolan
+  450          3.00   2.00 3-Delfs-Tipton vs 10-Vulcan-Christie
+  420          0.00   5.00 5-Romeo-Friedman vs 6-Herman-Sieg
+  450          3.00   2.00 11-Roselle-Anderson vs 8-Davis-Shen
+  450          3.00   2.00 12-Christensen-Stevens vs 1-Laughary-Cowles
+  450          3.00   2.00 14-Miller-Moore vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   3.00 1-Laughary-Cowles vs 5-Romeo-Friedman
+  110          4.50   0.50 3-Delfs-Tipton vs 8-Davis-Shen
+  110          4.50   0.50 4-Pesce-Taylor vs 11-Roselle-Anderson
+        120    1.00   4.00 6-Herman-Sieg vs 7-Ford-Bolan
+        150    0.00   5.00 12-Christensen-Stevens vs 9-Ruprecht-Jarvis
+  100          3.00   2.00 14-Miller-Moore vs 10-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.50   1.50 1-Laughary-Cowles vs 5-Romeo-Friedman
+        620    1.00   4.00 3-Delfs-Tipton vs 8-Davis-Shen
+  170          5.00   0.00 4-Pesce-Taylor vs 11-Roselle-Anderson
+        620    1.00   4.00 6-Herman-Sieg vs 7-Ford-Bolan
+        620    1.00   4.00 12-Christensen-Stevens vs 9-Ruprecht-Jarvis
+        170    3.50   1.50 14-Miller-Moore vs 10-Vulcan-Christie
+----------------------------------------------------------------------
