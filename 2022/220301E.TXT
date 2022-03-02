@@ -1,0 +1,305 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>March 1, 2022      |CLUB NO.>158048    | 03/01/2022 22:19
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff            |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   36.0 |TOP>   3 |MP LIMITS>None/2500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 Ann Romeo              Jane Friedman            C    4     1     1     38.50  53.47  0.40(B) 
+
+ 3 Kim Eng                Chris Moore              A    3     .     .     40.00  55.56  0.45(A) 
+
+ 4 Bryan Delfs            Mike Christensen         A    .     .     .     37.50  52.08          
+
+ 5 Beau Hovda             Bogdan Vulcan            B    .     .     .     35.00  48.61          
+
+ 6 Ray Miller             Jeffrey Ford             A    2     .     .     41.50  57.64  0.63(A) 
+
+ 7 Douglas Kuschner       Stanford Christie        A    1     .     .     45.00  62.50  0.90(A) 
+
+ 8 Adam Ruprecht          Christopher Jarvis       C    .     2     .     36.50  50.69  0.28(B) 
+
+ 9 Galen Hesson           Nick Tipton              B    .     .     .     24.00  33.33          
+
+10 Grace Shen             Nelson Davis             C    .     .     .     26.00  36.11          
+
+
+                                          Totals                         324.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   1.50 2-Romeo-Friedman vs 9-Hesson-Tipton
+        140    1.50   1.50 3-Eng-Moore vs 7-Kuschner-Christie
+        100    3.00   0.00 5-Hovda-Vulcan vs 6-Miller-Ford
+        420    0.00   3.00 10-Shen-Davis vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.00   0.00 2-Romeo-Friedman vs 9-Hesson-Tipton
+   50          1.00   2.00 3-Eng-Moore vs 7-Kuschner-Christie
+   50          1.00   2.00 5-Hovda-Vulcan vs 6-Miller-Ford
+   50          1.00   2.00 10-Shen-Davis vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   0.00 2-Romeo-Friedman vs 9-Hesson-Tipton
+        620    1.50   1.50 3-Eng-Moore vs 7-Kuschner-Christie
+        620    1.50   1.50 5-Hovda-Vulcan vs 6-Miller-Ford
+        650    0.00   3.00 10-Shen-Davis vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   3.00 2-Romeo-Friedman vs 5-Hovda-Vulcan
+   90          3.00   0.00 4-Delfs-Christensen vs 8-Ruprecht-Jarvis
+        110    1.00   2.00 6-Miller-Ford vs 7-Kuschner-Christie
+        100    2.00   1.00 10-Shen-Davis vs 9-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    0.00   3.00 2-Romeo-Friedman vs 5-Hovda-Vulcan
+   50          3.00   0.00 4-Delfs-Christensen vs 8-Ruprecht-Jarvis
+        460    1.00   2.00 6-Miller-Ford vs 7-Kuschner-Christie
+        430    2.00   1.00 10-Shen-Davis vs 9-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.00   1.00 2-Romeo-Friedman vs 5-Hovda-Vulcan
+        660    0.00   3.00 4-Delfs-Christensen vs 8-Ruprecht-Jarvis
+        630    2.00   1.00 6-Miller-Ford vs 7-Kuschner-Christie
+        630    2.00   1.00 10-Shen-Davis vs 9-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          0.00   3.00 3-Eng-Moore vs 6-Miller-Ford
+  600          1.50   1.50 4-Delfs-Christensen vs 2-Romeo-Friedman
+  630          3.00   0.00 5-Hovda-Vulcan vs 9-Hesson-Tipton
+  600          1.50   1.50 7-Kuschner-Christie vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   1.00 3-Eng-Moore vs 6-Miller-Ford
+         50    2.00   1.00 4-Delfs-Christensen vs 2-Romeo-Friedman
+        200    0.00   3.00 5-Hovda-Vulcan vs 9-Hesson-Tipton
+         50    2.00   1.00 7-Kuschner-Christie vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.00   2.00 3-Eng-Moore vs 6-Miller-Ford
+  200          2.00   1.00 4-Delfs-Christensen vs 2-Romeo-Friedman
+  100          0.00   3.00 5-Hovda-Vulcan vs 9-Hesson-Tipton
+  420          3.00   0.00 7-Kuschner-Christie vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.50   2.50 4-Delfs-Christensen vs 7-Kuschner-Christie
+  650          2.50   0.50 5-Hovda-Vulcan vs 3-Eng-Moore
+  200          0.50   2.50 8-Ruprecht-Jarvis vs 9-Hesson-Tipton
+  650          2.50   0.50 10-Shen-Davis vs 2-Romeo-Friedman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   1.50 4-Delfs-Christensen vs 7-Kuschner-Christie
+   90          0.00   3.00 5-Hovda-Vulcan vs 3-Eng-Moore
+  110          3.00   0.00 8-Ruprecht-Jarvis vs 9-Hesson-Tipton
+  100          1.50   1.50 10-Shen-Davis vs 2-Romeo-Friedman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   2.00 4-Delfs-Christensen vs 7-Kuschner-Christie
+  100          2.50   0.50 5-Hovda-Vulcan vs 3-Eng-Moore
+  100          2.50   0.50 8-Ruprecht-Jarvis vs 9-Hesson-Tipton
+       1010    0.00   3.00 10-Shen-Davis vs 2-Romeo-Friedman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   2.00 5-Hovda-Vulcan vs 8-Ruprecht-Jarvis
+        620    1.00   2.00 6-Miller-Ford vs 4-Delfs-Christensen
+  100          3.00   0.00 7-Kuschner-Christie vs 2-Romeo-Friedman
+        620    1.00   2.00 10-Shen-Davis vs 3-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   3.00 5-Hovda-Vulcan vs 8-Ruprecht-Jarvis
+        130    1.50   1.50 6-Miller-Ford vs 4-Delfs-Christensen
+        130    1.50   1.50 7-Kuschner-Christie vs 2-Romeo-Friedman
+   50          3.00   0.00 10-Shen-Davis vs 3-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.50   2.50 5-Hovda-Vulcan vs 8-Ruprecht-Jarvis
+        100    2.00   1.00 6-Miller-Ford vs 4-Delfs-Christensen
+  110          3.00   0.00 7-Kuschner-Christie vs 2-Romeo-Friedman
+        110    0.50   2.50 10-Shen-Davis vs 3-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   0.00 6-Miller-Ford vs 9-Hesson-Tipton
+         50    2.00   1.00 7-Kuschner-Christie vs 5-Hovda-Vulcan
+        100    1.00   2.00 8-Ruprecht-Jarvis vs 3-Eng-Moore
+        140    0.00   3.00 10-Shen-Davis vs 4-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.00   0.00 6-Miller-Ford vs 9-Hesson-Tipton
+  100          1.00   2.00 7-Kuschner-Christie vs 5-Hovda-Vulcan
+  140          2.00   1.00 8-Ruprecht-Jarvis vs 3-Eng-Moore
+         50    0.00   3.00 10-Shen-Davis vs 4-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   0.00 6-Miller-Ford vs 9-Hesson-Tipton
+  130          1.50   1.50 7-Kuschner-Christie vs 5-Hovda-Vulcan
+        170    0.00   3.00 8-Ruprecht-Jarvis vs 3-Eng-Moore
+  130          1.50   1.50 10-Shen-Davis vs 4-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   1.50 2-Romeo-Friedman vs 3-Eng-Moore
+        600    3.00   0.00 8-Ruprecht-Jarvis vs 6-Miller-Ford
+        660    0.00   3.00 9-Hesson-Tipton vs 4-Delfs-Christensen
+        650    1.50   1.50 10-Shen-Davis vs 5-Hovda-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.50   0.50 2-Romeo-Friedman vs 3-Eng-Moore
+  140          0.50   2.50 8-Ruprecht-Jarvis vs 6-Miller-Ford
+  600          2.50   0.50 9-Hesson-Tipton vs 4-Delfs-Christensen
+  140          0.50   2.50 10-Shen-Davis vs 5-Hovda-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   0.50 2-Romeo-Friedman vs 3-Eng-Moore
+        300    0.00   3.00 8-Ruprecht-Jarvis vs 6-Miller-Ford
+        100    2.50   0.50 9-Hesson-Tipton vs 4-Delfs-Christensen
+        200    1.00   2.00 10-Shen-Davis vs 5-Hovda-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   0.00 3-Eng-Moore vs 4-Delfs-Christensen
+  110          1.50   1.50 8-Ruprecht-Jarvis vs 2-Romeo-Friedman
+  110          1.50   1.50 9-Hesson-Tipton vs 7-Kuschner-Christie
+        500    0.00   3.00 10-Shen-Davis vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.50   0.50 3-Eng-Moore vs 4-Delfs-Christensen
+        620    0.50   2.50 8-Ruprecht-Jarvis vs 2-Romeo-Friedman
+        620    0.50   2.50 9-Hesson-Tipton vs 7-Kuschner-Christie
+        600    2.50   0.50 10-Shen-Davis vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  590          3.00   0.00 3-Eng-Moore vs 4-Delfs-Christensen
+        120    1.00   2.00 8-Ruprecht-Jarvis vs 2-Romeo-Friedman
+   50          2.00   1.00 9-Hesson-Tipton vs 7-Kuschner-Christie
+        500    0.00   3.00 10-Shen-Davis vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   1.00 2-Romeo-Friedman vs 6-Miller-Ford
+  100          2.00   1.00 4-Delfs-Christensen vs 5-Hovda-Vulcan
+        140    0.00   3.00 9-Hesson-Tipton vs 3-Eng-Moore
+  100          2.00   1.00 10-Shen-Davis vs 7-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   0.00 2-Romeo-Friedman vs 6-Miller-Ford
+        100    1.50   1.50 4-Delfs-Christensen vs 5-Hovda-Vulcan
+        300    0.00   3.00 9-Hesson-Tipton vs 3-Eng-Moore
+        100    1.50   1.50 10-Shen-Davis vs 7-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          1.50   1.50 2-Romeo-Friedman vs 6-Miller-Ford
+  490          3.00   0.00 4-Delfs-Christensen vs 5-Hovda-Vulcan
+  460          1.50   1.50 9-Hesson-Tipton vs 3-Eng-Moore
+  400          0.00   3.00 10-Shen-Davis vs 7-Kuschner-Christie
+----------------------------------------------------------------------
