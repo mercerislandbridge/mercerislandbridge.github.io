@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>March 22, 2022     |CLUB NO.>158048    | 03/22/2022 22:24
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=8/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 Jane Friedman          Ann Romeo                B    .     .     .     52.50  43.75          
+
+ 3 David Taylor           Jim Rasmussen            A    5     .     .     66.00  55.00  0.26(A) 
+
+ 4 Nick Tipton            Galen Hesson             B    .     .     .     55.50  46.25          
+
+ 5 Nelson Davis           Hugh Hendrickson         B    .     3     .     58.00  48.33  0.32(B) 
+
+ 6 Lisa Brock             Craig Mills              C    .     .     .     32.50  27.08          
+
+ 7 Ray Miller             Bryan Delfs              A    .     .     .     59.50  49.58          
+
+ 8 Kim Eng                Jeffrey Ford             A    1     .     .     79.00  65.83  1.30(A) 
+
+ 9 Pete Cowles            Clay Laughary            C    .     .     .     56.50  47.08          
+
+10 Mike Ring              Brian Zaugg              B    2     1     .     77.00  64.17  0.91(A) 
+
+11 Dong Yan               Herman Xiao              B    .     .     .     55.00  45.83          
+
+12 Bogdan Vulcan          Stanford Christie        A    .     .     .     55.00  45.83          
+
+13 Gregory Herman         Eric Sieg                B    4     2     .     66.50  55.42  0.46(A) 
+
+14 David Wright           Mike Christensen         A    3     .     .     67.00  55.83  0.65(A) 
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   0.00 2-Friedman-Romeo vs 6-Brock-Mills
+  140          3.50   1.50 4-Tipton-Hesson vs 9-Cowles-Laughary
+  110          1.50   3.50 5-Davis-Hendrickson vs 12-Vulcan-Christie
+         90    0.00   5.00 7-Miller-Delfs vs 8-Eng-Ford
+  110          1.50   3.50 13-Herman-Sieg vs 10-Ring-Zaugg
+  140          3.50   1.50 14-Wright-Christensen vs 11-Yan-Xiao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   3.00 2-Friedman-Romeo vs 6-Brock-Mills
+  600          5.00   0.00 4-Tipton-Hesson vs 9-Cowles-Laughary
+  300          4.00   1.00 5-Davis-Hendrickson vs 12-Vulcan-Christie
+        100    0.50   4.50 7-Miller-Delfs vs 8-Eng-Ford
+        100    0.50   4.50 13-Herman-Sieg vs 10-Ring-Zaugg
+  170          3.00   2.00 14-Wright-Christensen vs 11-Yan-Xiao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   4.00 2-Friedman-Romeo vs 4-Tipton-Hesson
+  400          3.50   1.50 3-Taylor-Rasmussen vs 7-Miller-Delfs
+         50    1.00   4.00 5-Davis-Hendrickson vs 10-Ring-Zaugg
+         50    1.00   4.00 6-Brock-Mills vs 13-Herman-Sieg
+  800          5.00   0.00 8-Eng-Ford vs 9-Cowles-Laughary
+  400          3.50   1.50 14-Wright-Christensen vs 12-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          2.50   2.50 2-Friedman-Romeo vs 4-Tipton-Hesson
+  720          4.50   0.50 3-Taylor-Rasmussen vs 7-Miller-Delfs
+  690          2.50   2.50 5-Davis-Hendrickson vs 10-Ring-Zaugg
+  620          0.00   5.00 6-Brock-Mills vs 13-Herman-Sieg
+  640          1.00   4.00 8-Eng-Ford vs 9-Cowles-Laughary
+  720          4.50   0.50 14-Wright-Christensen vs 12-Vulcan-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          3.50   1.50 2-Friedman-Romeo vs 12-Vulcan-Christie
+  630          5.00   0.00 3-Taylor-Rasmussen vs 5-Davis-Hendrickson
+  130          0.00   5.00 4-Tipton-Hesson vs 8-Eng-Ford
+  200          2.00   3.00 6-Brock-Mills vs 11-Yan-Xiao
+  180          1.00   4.00 9-Cowles-Laughary vs 10-Ring-Zaugg
+  600          3.50   1.50 14-Wright-Christensen vs 13-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   2.00 2-Friedman-Romeo vs 12-Vulcan-Christie
+  100          4.00   1.00 3-Taylor-Rasmussen vs 5-Davis-Hendrickson
+        140    0.50   4.50 4-Tipton-Hesson vs 8-Eng-Ford
+        130    2.00   3.00 6-Brock-Mills vs 11-Yan-Xiao
+  200          5.00   0.00 9-Cowles-Laughary vs 10-Ring-Zaugg
+        140    0.50   4.50 14-Wright-Christensen vs 13-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   2.00 3-Taylor-Rasmussen vs 13-Herman-Sieg
+        100    4.00   1.00 4-Tipton-Hesson vs 6-Brock-Mills
+        170    1.50   3.50 5-Davis-Hendrickson vs 9-Cowles-Laughary
+        170    1.50   3.50 7-Miller-Delfs vs 12-Vulcan-Christie
+  120          5.00   0.00 8-Eng-Ford vs 2-Friedman-Romeo
+        300    0.00   5.00 10-Ring-Zaugg vs 11-Yan-Xiao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    0.00   5.00 3-Taylor-Rasmussen vs 13-Herman-Sieg
+        420    5.00   0.00 4-Tipton-Hesson vs 6-Brock-Mills
+        430    3.50   1.50 5-Davis-Hendrickson vs 9-Cowles-Laughary
+        450    1.50   3.50 7-Miller-Delfs vs 12-Vulcan-Christie
+        430    3.50   1.50 8-Eng-Ford vs 2-Friedman-Romeo
+        450    1.50   3.50 10-Ring-Zaugg vs 11-Yan-Xiao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   3.00 5-Davis-Hendrickson vs 7-Miller-Delfs
+         50    0.00   5.00 6-Brock-Mills vs 10-Ring-Zaugg
+  150          2.00   3.00 8-Eng-Ford vs 13-Herman-Sieg
+  150          2.00   3.00 9-Cowles-Laughary vs 3-Taylor-Rasmussen
+  170          4.00   1.00 11-Yan-Xiao vs 12-Vulcan-Christie
+  460          5.00   0.00 14-Wright-Christensen vs 2-Friedman-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.50   3.50 5-Davis-Hendrickson vs 7-Miller-Delfs
+        630    0.00   5.00 6-Brock-Mills vs 10-Ring-Zaugg
+        150    3.00   2.00 8-Eng-Ford vs 13-Herman-Sieg
+        600    1.50   3.50 9-Cowles-Laughary vs 3-Taylor-Rasmussen
+        130    4.00   1.00 11-Yan-Xiao vs 12-Vulcan-Christie
+  100          5.00   0.00 14-Wright-Christensen vs 2-Friedman-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   4.50 5-Davis-Hendrickson vs 2-Friedman-Romeo
+        140    0.50   4.50 6-Brock-Mills vs 8-Eng-Ford
+         50    3.00   2.00 7-Miller-Delfs vs 11-Yan-Xiao
+         50    3.00   2.00 10-Ring-Zaugg vs 4-Tipton-Hesson
+  100          5.00   0.00 12-Vulcan-Christie vs 13-Herman-Sieg
+         50    3.00   2.00 14-Wright-Christensen vs 3-Taylor-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   1.50 5-Davis-Hendrickson vs 2-Friedman-Romeo
+        430    0.50   4.50 6-Brock-Mills vs 8-Eng-Ford
+   50          2.00   3.00 7-Miller-Delfs vs 11-Yan-Xiao
+  150          5.00   0.00 10-Ring-Zaugg vs 4-Tipton-Hesson
+        430    0.50   4.50 12-Vulcan-Christie vs 13-Herman-Sieg
+  100          3.50   1.50 14-Wright-Christensen vs 3-Taylor-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   5.00 6-Brock-Mills vs 3-Taylor-Rasmussen
+  200          3.50   1.50 7-Miller-Delfs vs 9-Cowles-Laughary
+  200          3.50   1.50 8-Eng-Ford vs 12-Vulcan-Christie
+  800          5.00   0.00 10-Ring-Zaugg vs 2-Friedman-Romeo
+  100          1.50   3.50 11-Yan-Xiao vs 5-Davis-Hendrickson
+  100          1.50   3.50 14-Wright-Christensen vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.50   3.50 6-Brock-Mills vs 3-Taylor-Rasmussen
+        420    3.00   2.00 7-Miller-Delfs vs 9-Cowles-Laughary
+        450    1.50   3.50 8-Eng-Ford vs 12-Vulcan-Christie
+        100    4.50   0.50 10-Ring-Zaugg vs 2-Friedman-Romeo
+        800    0.00   5.00 11-Yan-Xiao vs 5-Davis-Hendrickson
+        100    4.50   0.50 14-Wright-Christensen vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    0.00   5.00 7-Miller-Delfs vs 4-Tipton-Hesson
+   50          1.50   3.50 8-Eng-Ford vs 10-Ring-Zaugg
+  170          4.50   0.50 9-Cowles-Laughary vs 13-Herman-Sieg
+   50          1.50   3.50 11-Yan-Xiao vs 3-Taylor-Rasmussen
+  170          4.50   0.50 12-Vulcan-Christie vs 6-Brock-Mills
+  110          3.00   2.00 14-Wright-Christensen vs 5-Davis-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          5.00   0.00 7-Miller-Delfs vs 4-Tipton-Hesson
+         50    1.50   3.50 8-Eng-Ford vs 10-Ring-Zaugg
+  110          3.50   1.50 9-Cowles-Laughary vs 13-Herman-Sieg
+  110          3.50   1.50 11-Yan-Xiao vs 3-Taylor-Rasmussen
+        100    0.00   5.00 12-Vulcan-Christie vs 6-Brock-Mills
+         50    1.50   3.50 14-Wright-Christensen vs 5-Davis-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.50   3.50 2-Friedman-Romeo vs 3-Taylor-Rasmussen
+  480          4.50   0.50 8-Eng-Ford vs 5-Davis-Hendrickson
+  450          1.50   3.50 9-Cowles-Laughary vs 11-Yan-Xiao
+  480          4.50   0.50 12-Vulcan-Christie vs 4-Tipton-Hesson
+  450          1.50   3.50 13-Herman-Sieg vs 7-Miller-Delfs
+  450          1.50   3.50 14-Wright-Christensen vs 6-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   0.00 2-Friedman-Romeo vs 3-Taylor-Rasmussen
+        140    2.50   2.50 8-Eng-Ford vs 5-Davis-Hendrickson
+   50          4.00   1.00 9-Cowles-Laughary vs 11-Yan-Xiao
+        300    1.00   4.00 12-Vulcan-Christie vs 4-Tipton-Hesson
+        140    2.50   2.50 13-Herman-Sieg vs 7-Miller-Delfs
+        420    0.00   5.00 14-Wright-Christensen vs 6-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          3.00   2.00 3-Taylor-Rasmussen vs 4-Tipton-Hesson
+  130          4.50   0.50 9-Cowles-Laughary vs 6-Brock-Mills
+  100          1.00   4.00 10-Ring-Zaugg vs 12-Vulcan-Christie
+  110          2.00   3.00 11-Yan-Xiao vs 2-Friedman-Romeo
+  130          4.50   0.50 13-Herman-Sieg vs 5-Davis-Hendrickson
+   90          0.00   5.00 14-Wright-Christensen vs 7-Miller-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   3.50 3-Taylor-Rasmussen vs 4-Tipton-Hesson
+        170    4.00   1.00 9-Cowles-Laughary vs 6-Brock-Mills
+        170    4.00   1.00 10-Ring-Zaugg vs 12-Vulcan-Christie
+        200    1.50   3.50 11-Yan-Xiao vs 2-Friedman-Romeo
+        620    0.00   5.00 13-Herman-Sieg vs 5-Davis-Hendrickson
+        170    4.00   1.00 14-Wright-Christensen vs 7-Miller-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.50   2.50 2-Friedman-Romeo vs 9-Cowles-Laughary
+  630          2.50   2.50 4-Tipton-Hesson vs 5-Davis-Hendrickson
+  630          2.50   2.50 10-Ring-Zaugg vs 7-Miller-Delfs
+  630          2.50   2.50 11-Yan-Xiao vs 13-Herman-Sieg
+  630          2.50   2.50 12-Vulcan-Christie vs 3-Taylor-Rasmussen
+  630          2.50   2.50 14-Wright-Christensen vs 8-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 2-Friedman-Romeo vs 9-Cowles-Laughary
+  130          1.50   3.50 4-Tipton-Hesson vs 5-Davis-Hendrickson
+  140          3.50   1.50 10-Ring-Zaugg vs 7-Miller-Delfs
+  100          0.00   5.00 11-Yan-Xiao vs 13-Herman-Sieg
+  130          1.50   3.50 12-Vulcan-Christie vs 3-Taylor-Rasmussen
+  140          3.50   1.50 14-Wright-Christensen vs 8-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.50   2.50 2-Friedman-Romeo vs 7-Miller-Delfs
+        620    1.00   4.00 3-Taylor-Rasmussen vs 10-Ring-Zaugg
+        110    4.50   0.50 5-Davis-Hendrickson vs 6-Brock-Mills
+        630    0.00   5.00 11-Yan-Xiao vs 8-Eng-Ford
+        110    4.50   0.50 13-Herman-Sieg vs 4-Tipton-Hesson
+        600    2.50   2.50 14-Wright-Christensen vs 9-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   5.00 2-Friedman-Romeo vs 7-Miller-Delfs
+  130          2.50   2.50 3-Taylor-Rasmussen vs 10-Ring-Zaugg
+  130          2.50   2.50 5-Davis-Hendrickson vs 6-Brock-Mills
+  130          2.50   2.50 11-Yan-Xiao vs 8-Eng-Ford
+  430          5.00   0.00 13-Herman-Sieg vs 4-Tipton-Hesson
+  130          2.50   2.50 14-Wright-Christensen vs 9-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 3-Taylor-Rasmussen vs 8-Eng-Ford
+        650    4.00   1.00 4-Tipton-Hesson vs 11-Yan-Xiao
+       1460    1.00   4.00 6-Brock-Mills vs 7-Miller-Delfs
+        710    2.50   2.50 12-Vulcan-Christie vs 9-Cowles-Laughary
+        710    2.50   2.50 13-Herman-Sieg vs 2-Friedman-Romeo
+       2210    0.00   5.00 14-Wright-Christensen vs 10-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.00   5.00 3-Taylor-Rasmussen vs 8-Eng-Ford
+        140    1.50   3.50 4-Tipton-Hesson vs 11-Yan-Xiao
+        140    1.50   3.50 6-Brock-Mills vs 7-Miller-Delfs
+        100    4.00   1.00 12-Vulcan-Christie vs 9-Cowles-Laughary
+        110    3.00   2.00 13-Herman-Sieg vs 2-Friedman-Romeo
+         90    5.00   0.00 14-Wright-Christensen vs 10-Ring-Zaugg
+----------------------------------------------------------------------
