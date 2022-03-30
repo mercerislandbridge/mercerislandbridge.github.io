@@ -1,0 +1,355 @@
+
+EVENT>Event Name               |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>March 29, 2022     |CLUB NO.>158048    | 03/29/2022 22:13
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=8/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Howard Epley           Karen Epley              A    .     .     .     46.00  38.33          
+
+ 2 Mike Ring              Shawn Abernethy          B    .     .     .     60.00  50.00          
+
+ 3 Bryan Delfs            Mike Christensen         A    2     .     .     70.00  58.33  0.91(A) 
+
+ 4 Kim Eng                Adam Ruprecht            B    5     3     .     62.00  51.67  0.32(B) 
+
+ 5 Muhunthan Sivapragasam Peiyush Jain             C    .     .     .     56.00  46.67          
+
+ 6 Douglas Kuschner       Stanford Christie        A    .     .     .     61.00  50.83          
+
+ 7 Lisa Brock             Craig Mills              C    .     .     1     61.00  50.83  0.24(C) 
+
+ 8 Jeffrey Ford           David Taylor             A    4     .     .     62.50  52.08  0.46(A) 
+
+ 9 Chris Moore            Brian Zaugg              A    .     .     .     61.00  50.83          
+
+
+
+11 Nick Tipton            Galen Hesson             B    .     .     .     53.50  44.58          
+
+12 Pete Cowles            Clay Laughary            C    .     .     .     47.50  39.58          
+
+13 Aaron Mohrman          Kevin Cline              B    3     2     .     69.00  57.50  0.65(A) 
+
+14 Beau Hovda             Sue Anderson             B    1     1     .     70.50  58.75  1.30(A) 
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   3.00 1-Epley-Epley vs 3-Delfs-Christensen
+   50          1.00   4.00 2-Ring-Abernethy vs 6-Kuschner-Christie
+        100    0.00   5.00 4-Eng-Ruprecht vs 9-Moore-Zaugg
+  170          3.50   1.50 5-Sivapragasam-Jain vs 12-Cowles-Laughary
+  170          3.50   1.50 7-Brock-Mills vs 8-Ford-Taylor
+  200          5.00   0.00 14-Hovda-Anderson vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   2.00 1-Epley-Epley vs 3-Delfs-Christensen
+        800    0.00   5.00 2-Ring-Abernethy vs 6-Kuschner-Christie
+        430    1.00   4.00 4-Eng-Ruprecht vs 9-Moore-Zaugg
+        110    4.00   1.00 5-Sivapragasam-Jain vs 12-Cowles-Laughary
+   50          5.00   0.00 7-Brock-Mills vs 8-Ford-Taylor
+        150    2.00   3.00 14-Hovda-Anderson vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   3.00 1-Epley-Epley vs 11-Tipton-Hesson
+        140    2.00   3.00 2-Ring-Abernethy vs 4-Eng-Ruprecht
+  100          5.00   0.00 3-Delfs-Christensen vs 7-Brock-Mills
+        300    0.00   5.00 6-Kuschner-Christie vs 13-Mohrman-Cline
+        110    4.00   1.00 8-Ford-Taylor vs 9-Moore-Zaugg
+        140    2.00   3.00 14-Hovda-Anderson vs 12-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 1-Epley-Epley vs 11-Tipton-Hesson
+        100    0.50   4.50 2-Ring-Abernethy vs 4-Eng-Ruprecht
+  200          4.00   1.00 3-Delfs-Christensen vs 7-Brock-Mills
+  620          5.00   0.00 6-Kuschner-Christie vs 13-Mohrman-Cline
+  180          2.50   2.50 8-Ford-Taylor vs 9-Moore-Zaugg
+  180          2.50   2.50 14-Hovda-Anderson vs 12-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          3.00   2.00 2-Ring-Abernethy vs 12-Cowles-Laughary
+  110          0.00   5.00 3-Delfs-Christensen vs 5-Sivapragasam-Jain
+  600          3.00   2.00 4-Eng-Ruprecht vs 8-Ford-Taylor
+  600          3.00   2.00 6-Kuschner-Christie vs 11-Tipton-Hesson
+  600          3.00   2.00 7-Brock-Mills vs 1-Epley-Epley
+  600          3.00   2.00 14-Hovda-Anderson vs 13-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 2-Ring-Abernethy vs 12-Cowles-Laughary
+        600    4.00   1.00 3-Delfs-Christensen vs 5-Sivapragasam-Jain
+        630    2.00   3.00 4-Eng-Ruprecht vs 8-Ford-Taylor
+        800    0.00   5.00 6-Kuschner-Christie vs 11-Tipton-Hesson
+        630    2.00   3.00 7-Brock-Mills vs 1-Epley-Epley
+        630    2.00   3.00 14-Hovda-Anderson vs 13-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.50   1.50 3-Delfs-Christensen vs 13-Mohrman-Cline
+        650    0.00   5.00 4-Eng-Ruprecht vs 6-Kuschner-Christie
+        170    5.00   0.00 5-Sivapragasam-Jain vs 9-Moore-Zaugg
+        200    3.50   1.50 7-Brock-Mills vs 12-Cowles-Laughary
+        620    1.50   3.50 8-Ford-Taylor vs 2-Ring-Abernethy
+        620    1.50   3.50 14-Hovda-Anderson vs 1-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   5.00 3-Delfs-Christensen vs 13-Mohrman-Cline
+  120          3.00   2.00 4-Eng-Ruprecht vs 6-Kuschner-Christie
+  110          2.00   3.00 5-Sivapragasam-Jain vs 9-Moore-Zaugg
+   80          1.00   4.00 7-Brock-Mills vs 12-Cowles-Laughary
+  400          5.00   0.00 8-Ford-Taylor vs 2-Ring-Abernethy
+  150          4.00   1.00 14-Hovda-Anderson vs 1-Epley-Epley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   1.00 4-Eng-Ruprecht vs 1-Epley-Epley
+    PASS       3.00   2.00 5-Sivapragasam-Jain vs 7-Brock-Mills
+        140    1.50   3.50 8-Ford-Taylor vs 13-Mohrman-Cline
+        300    0.00   5.00 9-Moore-Zaugg vs 3-Delfs-Christensen
+  200          5.00   0.00 11-Tipton-Hesson vs 12-Cowles-Laughary
+        140    1.50   3.50 14-Hovda-Anderson vs 2-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   0.50 4-Eng-Ruprecht vs 1-Epley-Epley
+  100          4.50   0.50 5-Sivapragasam-Jain vs 7-Brock-Mills
+        140    2.50   2.50 8-Ford-Taylor vs 13-Mohrman-Cline
+        500    0.00   5.00 9-Moore-Zaugg vs 3-Delfs-Christensen
+        140    2.50   2.50 11-Tipton-Hesson vs 12-Cowles-Laughary
+        150    1.00   4.00 14-Hovda-Anderson vs 2-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   5.00 5-Sivapragasam-Jain vs 2-Ring-Abernethy
+         50    2.00   3.00 6-Kuschner-Christie vs 8-Ford-Taylor
+  150          4.00   1.00 7-Brock-Mills vs 11-Tipton-Hesson
+  460          5.00   0.00 9-Moore-Zaugg vs 1-Epley-Epley
+         50    2.00   3.00 12-Cowles-Laughary vs 13-Mohrman-Cline
+         50    2.00   3.00 14-Hovda-Anderson vs 3-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.00   2.00 5-Sivapragasam-Jain vs 2-Ring-Abernethy
+  110          0.00   5.00 6-Kuschner-Christie vs 8-Ford-Taylor
+  690          5.00   0.00 7-Brock-Mills vs 11-Tipton-Hesson
+  650          1.00   4.00 9-Moore-Zaugg vs 1-Epley-Epley
+  660          3.00   2.00 12-Cowles-Laughary vs 13-Mohrman-Cline
+  660          3.00   2.00 14-Hovda-Anderson vs 3-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   3.50 6-Kuschner-Christie vs 3-Delfs-Christensen
+        150    0.00   5.00 7-Brock-Mills vs 9-Moore-Zaugg
+  200          5.00   0.00 8-Ford-Taylor vs 12-Cowles-Laughary
+  110          4.00   1.00 11-Tipton-Hesson vs 5-Sivapragasam-Jain
+        110    1.50   3.50 13-Mohrman-Cline vs 1-Epley-Epley
+         90    3.00   2.00 14-Hovda-Anderson vs 4-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.00   1.00 6-Kuschner-Christie vs 3-Delfs-Christensen
+   50          2.50   2.50 7-Brock-Mills vs 9-Moore-Zaugg
+        100    0.00   5.00 8-Ford-Taylor vs 12-Cowles-Laughary
+         50    1.00   4.00 11-Tipton-Hesson vs 5-Sivapragasam-Jain
+  430          5.00   0.00 13-Mohrman-Cline vs 1-Epley-Epley
+   50          2.50   2.50 14-Hovda-Anderson vs 4-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.50   1.50 1-Epley-Epley vs 2-Ring-Abernethy
+  150          1.00   4.00 7-Brock-Mills vs 4-Eng-Ruprecht
+        100    0.00   5.00 9-Moore-Zaugg vs 13-Mohrman-Cline
+  620          3.50   1.50 11-Tipton-Hesson vs 3-Delfs-Christensen
+  170          2.00   3.00 12-Cowles-Laughary vs 6-Kuschner-Christie
+  650          5.00   0.00 14-Hovda-Anderson vs 5-Sivapragasam-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 1-Epley-Epley vs 2-Ring-Abernethy
+  140          4.50   0.50 7-Brock-Mills vs 4-Eng-Ruprecht
+        110    0.00   5.00 9-Moore-Zaugg vs 13-Mohrman-Cline
+         50    2.00   3.00 11-Tipton-Hesson vs 3-Delfs-Christensen
+   90          3.00   2.00 12-Cowles-Laughary vs 6-Kuschner-Christie
+  140          4.50   0.50 14-Hovda-Anderson vs 5-Sivapragasam-Jain
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          2.50   2.50 2-Ring-Abernethy vs 3-Delfs-Christensen
+  460          2.50   2.50 8-Ford-Taylor vs 5-Sivapragasam-Jain
+  460          2.50   2.50 9-Moore-Zaugg vs 11-Tipton-Hesson
+  460          2.50   2.50 12-Cowles-Laughary vs 4-Eng-Ruprecht
+  430          0.00   5.00 13-Mohrman-Cline vs 7-Brock-Mills
+  490          5.00   0.00 14-Hovda-Anderson vs 6-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          3.00   2.00 2-Ring-Abernethy vs 3-Delfs-Christensen
+  600          3.00   2.00 8-Ford-Taylor vs 5-Sivapragasam-Jain
+  600          3.00   2.00 9-Moore-Zaugg vs 11-Tipton-Hesson
+        100    0.00   5.00 12-Cowles-Laughary vs 4-Eng-Ruprecht
+  600          3.00   2.00 13-Mohrman-Cline vs 7-Brock-Mills
+  600          3.00   2.00 14-Hovda-Anderson vs 6-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          2.50   2.50 1-Epley-Epley vs 8-Ford-Taylor
+  990          2.50   2.50 3-Delfs-Christensen vs 4-Eng-Ruprecht
+  990          2.50   2.50 9-Moore-Zaugg vs 6-Kuschner-Christie
+  490          0.00   5.00 11-Tipton-Hesson vs 2-Ring-Abernethy
+  990          2.50   2.50 13-Mohrman-Cline vs 5-Sivapragasam-Jain
+ 1020          5.00   0.00 14-Hovda-Anderson vs 7-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   4.00 1-Epley-Epley vs 8-Ford-Taylor
+  200          4.00   1.00 3-Delfs-Christensen vs 4-Eng-Ruprecht
+  200          4.00   1.00 9-Moore-Zaugg vs 6-Kuschner-Christie
+  100          1.00   4.00 11-Tipton-Hesson vs 2-Ring-Abernethy
+  200          4.00   1.00 13-Mohrman-Cline vs 5-Sivapragasam-Jain
+  100          1.00   4.00 14-Hovda-Anderson vs 7-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   3.00 1-Epley-Epley vs 6-Kuschner-Christie
+  600          2.00   3.00 2-Ring-Abernethy vs 9-Moore-Zaugg
+  630          4.50   0.50 4-Eng-Ruprecht vs 5-Sivapragasam-Jain
+  630          4.50   0.50 11-Tipton-Hesson vs 13-Mohrman-Cline
+        200    0.00   5.00 12-Cowles-Laughary vs 3-Delfs-Christensen
+  600          2.00   3.00 14-Hovda-Anderson vs 8-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   1.00 1-Epley-Epley vs 6-Kuschner-Christie
+        790    0.00   5.00 2-Ring-Abernethy vs 9-Moore-Zaugg
+         50    2.00   3.00 4-Eng-Ruprecht vs 5-Sivapragasam-Jain
+         50    2.00   3.00 11-Tipton-Hesson vs 13-Mohrman-Cline
+  450          5.00   0.00 12-Cowles-Laughary vs 3-Delfs-Christensen
+         50    2.00   3.00 14-Hovda-Anderson vs 8-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   4.50 2-Ring-Abernethy vs 7-Brock-Mills
+        200    0.50   4.50 5-Sivapragasam-Jain vs 6-Kuschner-Christie
+        100    3.00   2.00 11-Tipton-Hesson vs 8-Ford-Taylor
+        100    3.00   2.00 12-Cowles-Laughary vs 1-Epley-Epley
+  600          5.00   0.00 13-Mohrman-Cline vs 4-Eng-Ruprecht
+        100    3.00   2.00 14-Hovda-Anderson vs 9-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        280    2.00   3.00 2-Ring-Abernethy vs 7-Brock-Mills
+        400    0.50   4.50 5-Sivapragasam-Jain vs 6-Kuschner-Christie
+        400    0.50   4.50 11-Tipton-Hesson vs 8-Ford-Taylor
+   50          4.00   1.00 12-Cowles-Laughary vs 1-Epley-Epley
+        120    3.00   2.00 13-Mohrman-Cline vs 4-Eng-Ruprecht
+  100          5.00   0.00 14-Hovda-Anderson vs 9-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   3.00 1-Epley-Epley vs 5-Sivapragasam-Jain
+  170          4.00   1.00 3-Delfs-Christensen vs 8-Ford-Taylor
+  170          4.00   1.00 4-Eng-Ruprecht vs 11-Tipton-Hesson
+  170          4.00   1.00 6-Kuschner-Christie vs 7-Brock-Mills
+         90    0.00   5.00 12-Cowles-Laughary vs 9-Moore-Zaugg
+         50    1.00   4.00 13-Mohrman-Cline vs 2-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   4.00 1-Epley-Epley vs 5-Sivapragasam-Jain
+  200          4.50   0.50 3-Delfs-Christensen vs 8-Ford-Taylor
+  200          4.50   0.50 4-Eng-Ruprecht vs 11-Tipton-Hesson
+        620    2.00   3.00 6-Kuschner-Christie vs 7-Brock-Mills
+        680    0.00   5.00 12-Cowles-Laughary vs 9-Moore-Zaugg
+  100          3.00   2.00 13-Mohrman-Cline vs 2-Ring-Abernethy
+----------------------------------------------------------------------
