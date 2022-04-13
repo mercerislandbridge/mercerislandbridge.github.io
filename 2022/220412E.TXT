@@ -1,0 +1,305 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>April 12, 2022     |CLUB NO.>158048    | 04/12/2022 22:26
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   36.0 |TOP>   3 |MP LIMITS>None/3500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Lisa Brock             Craig Mills              C    .     .     .     26.00  36.11          
+
+ 2 Kim Eng                Eric Sieg                A    1     .     .     49.00  68.06  0.90(A) 
+
+ 3 Pete Cowles            Ann Romeo                C    .     .     1     29.50  40.97  0.24(C) 
+
+ 4 Mike Ring              Mike Christensen         A    .     .     .     37.50  52.08          
+
+ 5 Douglas Kuschner       Stanford Christie        A    4     .     .     38.50  53.47  0.32(A) 
+
+ 6 Ray Miller             Aaron Mohrman            A    2     .     .     42.50  59.03  0.63(A) 
+
+ 7 Nick Tipton            Galen Hesson             C    .     .     .     28.00  38.89          
+
+
+
+ 9 Bryan Delfs            Sue Anderson             B    .     2     .     31.50  43.75  0.28(B) 
+
+10 Brian Zaugg            Shawn Abernethy          B    3     1     .     41.50  57.64  0.45(A) 
+
+
+                                          Totals                         324.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   3.00 1-Brock-Mills vs 4-Ring-Christensen
+  400          2.50   0.50 2-Eng-Sieg vs 9-Delfs-Anderson
+  400          2.50   0.50 3-Cowles-Romeo vs 7-Tipton-Hesson
+  300          1.00   2.00 5-Kuschner-Christie vs 6-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   2.00 1-Brock-Mills vs 4-Ring-Christensen
+        100    1.00   2.00 2-Eng-Sieg vs 9-Delfs-Anderson
+  100          3.00   0.00 3-Cowles-Romeo vs 7-Tipton-Hesson
+        100    1.00   2.00 5-Kuschner-Christie vs 6-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   2.00 1-Brock-Mills vs 4-Ring-Christensen
+  420          3.00   0.00 2-Eng-Sieg vs 9-Delfs-Anderson
+  110          2.00   1.00 3-Cowles-Romeo vs 7-Tipton-Hesson
+        300    0.00   3.00 5-Kuschner-Christie vs 6-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   2.00 2-Eng-Sieg vs 5-Kuschner-Christie
+  200          3.00   0.00 3-Cowles-Romeo vs 1-Brock-Mills
+         90    1.00   2.00 6-Miller-Mohrman vs 7-Tipton-Hesson
+         90    1.00   2.00 10-Zaugg-Abernethy vs 9-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00   2.00 2-Eng-Sieg vs 5-Kuschner-Christie
+        460    1.00   2.00 3-Cowles-Romeo vs 1-Brock-Mills
+        400    3.00   0.00 6-Miller-Mohrman vs 7-Tipton-Hesson
+        460    1.00   2.00 10-Zaugg-Abernethy vs 9-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   0.00 2-Eng-Sieg vs 5-Kuschner-Christie
+        150    1.00   2.00 3-Cowles-Romeo vs 1-Brock-Mills
+        150    1.00   2.00 6-Miller-Mohrman vs 7-Tipton-Hesson
+        150    1.00   2.00 10-Zaugg-Abernethy vs 9-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   2.00 3-Cowles-Romeo vs 6-Miller-Mohrman
+  300          3.00   0.00 4-Ring-Christensen vs 2-Eng-Sieg
+  100          0.00   3.00 5-Kuschner-Christie vs 9-Delfs-Anderson
+  200          2.00   1.00 10-Zaugg-Abernethy vs 1-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.00   3.00 3-Cowles-Romeo vs 6-Miller-Mohrman
+  150          3.00   0.00 4-Ring-Christensen vs 2-Eng-Sieg
+         50    2.00   1.00 5-Kuschner-Christie vs 9-Delfs-Anderson
+        230    1.00   2.00 10-Zaugg-Abernethy vs 1-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   3.00 3-Cowles-Romeo vs 6-Miller-Mohrman
+  130          1.00   2.00 4-Ring-Christensen vs 2-Eng-Sieg
+  430          2.00   1.00 5-Kuschner-Christie vs 9-Delfs-Anderson
+  460          3.00   0.00 10-Zaugg-Abernethy vs 1-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   1.50 4-Ring-Christensen vs 7-Tipton-Hesson
+        140    1.50   1.50 5-Kuschner-Christie vs 3-Cowles-Romeo
+  100          3.00   0.00 6-Miller-Mohrman vs 1-Brock-Mills
+        620    0.00   3.00 10-Zaugg-Abernethy vs 2-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   2.00 4-Ring-Christensen vs 7-Tipton-Hesson
+   50          2.50   0.50 5-Kuschner-Christie vs 3-Cowles-Romeo
+   50          2.50   0.50 6-Miller-Mohrman vs 1-Brock-Mills
+        450    0.00   3.00 10-Zaugg-Abernethy vs 2-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          3.00   0.00 4-Ring-Christensen vs 7-Tipton-Hesson
+  100          2.00   1.00 5-Kuschner-Christie vs 3-Cowles-Romeo
+        500    0.00   3.00 6-Miller-Mohrman vs 1-Brock-Mills
+        110    1.00   2.00 10-Zaugg-Abernethy vs 2-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          3.00   0.00 6-Miller-Mohrman vs 4-Ring-Christensen
+  100          0.00   3.00 7-Tipton-Hesson vs 2-Eng-Sieg
+  300          1.00   2.00 9-Delfs-Anderson vs 1-Brock-Mills
+  600          2.00   1.00 10-Zaugg-Abernethy vs 3-Cowles-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   0.00 6-Miller-Mohrman vs 4-Ring-Christensen
+   50          0.50   2.50 7-Tipton-Hesson vs 2-Eng-Sieg
+   50          0.50   2.50 9-Delfs-Anderson vs 1-Brock-Mills
+  100          2.00   1.00 10-Zaugg-Abernethy vs 3-Cowles-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   1.00 6-Miller-Mohrman vs 4-Ring-Christensen
+        430    0.00   3.00 7-Tipton-Hesson vs 2-Eng-Sieg
+        140    1.00   2.00 9-Delfs-Anderson vs 1-Brock-Mills
+  100          3.00   0.00 10-Zaugg-Abernethy vs 3-Cowles-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   1.50 1-Brock-Mills vs 2-Eng-Sieg
+  100          1.50   1.50 6-Miller-Mohrman vs 9-Delfs-Anderson
+  100          1.50   1.50 7-Tipton-Hesson vs 5-Kuschner-Christie
+  100          1.50   1.50 10-Zaugg-Abernethy vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          0.00   3.00 1-Brock-Mills vs 2-Eng-Sieg
+  430          2.00   1.00 6-Miller-Mohrman vs 9-Delfs-Anderson
+  430          2.00   1.00 7-Tipton-Hesson vs 5-Kuschner-Christie
+  430          2.00   1.00 10-Zaugg-Abernethy vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   3.00 1-Brock-Mills vs 2-Eng-Sieg
+  150          1.50   1.50 6-Miller-Mohrman vs 9-Delfs-Anderson
+  150          1.50   1.50 7-Tipton-Hesson vs 5-Kuschner-Christie
+  600          3.00   0.00 10-Zaugg-Abernethy vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.50   2.50 2-Eng-Sieg vs 3-Cowles-Romeo
+        650    2.00   1.00 7-Tipton-Hesson vs 1-Brock-Mills
+        680    0.50   2.50 9-Delfs-Anderson vs 4-Ring-Christensen
+  100          3.00   0.00 10-Zaugg-Abernethy vs 5-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   0.00 2-Eng-Sieg vs 3-Cowles-Romeo
+        620    2.00   1.00 7-Tipton-Hesson vs 1-Brock-Mills
+        650    0.50   2.50 9-Delfs-Anderson vs 4-Ring-Christensen
+        650    0.50   2.50 10-Zaugg-Abernethy vs 5-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.00   0.00 2-Eng-Sieg vs 3-Cowles-Romeo
+  600          0.50   2.50 7-Tipton-Hesson vs 1-Brock-Mills
+  630          2.00   1.00 9-Delfs-Anderson vs 4-Ring-Christensen
+  600          0.50   2.50 10-Zaugg-Abernethy vs 5-Kuschner-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   3.00 1-Brock-Mills vs 5-Kuschner-Christie
+  200          2.00   1.00 3-Cowles-Romeo vs 4-Ring-Christensen
+  110          1.00   2.00 9-Delfs-Anderson vs 7-Tipton-Hesson
+  400          3.00   0.00 10-Zaugg-Abernethy vs 6-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   3.00 1-Brock-Mills vs 5-Kuschner-Christie
+        100    1.00   2.00 3-Cowles-Romeo vs 4-Ring-Christensen
+  170          2.00   1.00 9-Delfs-Anderson vs 7-Tipton-Hesson
+  620          3.00   0.00 10-Zaugg-Abernethy vs 6-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.00   2.00 1-Brock-Mills vs 5-Kuschner-Christie
+        400    1.00   2.00 3-Cowles-Romeo vs 4-Ring-Christensen
+        400    1.00   2.00 9-Delfs-Anderson vs 7-Tipton-Hesson
+        140    3.00   0.00 10-Zaugg-Abernethy vs 6-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.00   0.00 2-Eng-Sieg vs 6-Miller-Mohrman
+         50    0.50   2.50 4-Ring-Christensen vs 5-Kuschner-Christie
+         50    0.50   2.50 9-Delfs-Anderson vs 3-Cowles-Romeo
+  400          2.00   1.00 10-Zaugg-Abernethy vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        730    1.00   2.00 2-Eng-Sieg vs 6-Miller-Mohrman
+        930    0.00   3.00 4-Ring-Christensen vs 5-Kuschner-Christie
+  110          3.00   0.00 9-Delfs-Anderson vs 3-Cowles-Romeo
+        140    2.00   1.00 10-Zaugg-Abernethy vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   2.00 2-Eng-Sieg vs 6-Miller-Mohrman
+  140          3.00   0.00 4-Ring-Christensen vs 5-Kuschner-Christie
+         50    1.00   2.00 9-Delfs-Anderson vs 3-Cowles-Romeo
+         50    1.00   2.00 10-Zaugg-Abernethy vs 7-Tipton-Hesson
+----------------------------------------------------------------------
