@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>April 26, 2022     |CLUB NO.>158048    | 04/26/2022 22:18
+DATE>April 26, 2022     |CLUB NO.>158048    | 04/29/2022 23:28
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,32 +11,32 @@ PAIRS IN STRAT A=11/B=7/C=1                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Bryan Delfs            Sue Anderson             B    2     2     .     65.50  60.65  0.77(A) 
+ 1 Bryan Delfs            Sue Anderson             B    1     1     .     66.00  61.11  1.10(A) 
 
 
 
- 3 Mike Ring              Brian Zaugg              B    .     .     .     49.50  45.83          
+ 3 Mike Ring              Brian Zaugg              B    .     .     .     53.00  49.07          
 
- 4 Nick Tipton            Galen Hesson             B    .     .     .     53.44  49.48          
+ 4 Nick Tipton            Galen Hesson             B    .     .     .     54.56  50.52          
 
- 5 Ray Miller             Bogdan Vulcan            A    .     .     .     45.00  41.67          
+ 5 Ray Miller             Bogdan Vulcan            A    .     .     .     46.13  42.71          
 
  6 Kevin Cline            Becky Stevens            B    4     3     .     59.06  54.69  0.39(A) 
 
- 7 Gregory Herman         Thang Phu                C    .     .     .     36.00  33.33          
+ 7 Gregory Herman         Thang Phu                C    .     .     .     34.88  32.30          
 
- 8 Kim Eng                Jeffrey Ford             A    3     .     .     64.13  59.38  0.55(A) 
+ 8 Kim Eng                Jeffrey Ford             A    2     .     .     65.25  60.42  0.77(A) 
 
- 9 Adam Ruprecht          Christopher Jarvis       B    1     1     .     67.50  62.50  1.10(A) 
+ 9 Adam Ruprecht          Christopher Jarvis       B    3     2     .     63.56  58.85  0.55(A) 
 
-10 Eric Sieg              Chris Moore              A    .     .     .     57.94  53.65          
+10 Eric Sieg              Chris Moore              A    .     .     .     56.81  52.60          
 
-11 Ann Romeo              Hugh Hendrickson         B    .     .     .     47.25  43.75          
+11 Ann Romeo              Hugh Hendrickson         B    .     .     .     46.69  43.23          
 
-12 David Wright           Mike Christensen         A    .     .     .     47.81  44.27          
+12 David Wright           Mike Christensen         A    .     .     .     46.69  43.23          
 
 
-                                          Totals                         593.13       
+                                          Totals                         592.63       
 
  RESULTS OF BOARD 1
 
@@ -284,11 +284,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        200    0.00   4.00 3-Ring-Zaugg vs 9-Ruprecht-Jarvis
-  140          2.00   2.00 7-Herman-Phu vs 5-Miller-Vulcan
-        100    1.00   3.00 10-Sieg-Moore vs 4-Tipton-Hesson
-  200          4.00   0.00 11-Romeo-Hendrickson vs 1-Delfs-Anderson
-  180          3.00   1.00 12-Wright-Christensen vs 8-Eng-Ford
+  200          3.50   0.50 3-Ring-Zaugg vs 9-Ruprecht-Jarvis
+  140          1.00   3.00 7-Herman-Phu vs 5-Miller-Vulcan
+        100    0.00   4.00 10-Sieg-Moore vs 4-Tipton-Hesson
+  200          3.50   0.50 11-Romeo-Hendrickson vs 1-Delfs-Anderson
+  180          2.00   2.00 12-Wright-Christensen vs 8-Eng-Ford
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 24
