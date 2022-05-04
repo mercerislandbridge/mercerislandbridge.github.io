@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 3, 2022        |CLUB NO.>158048    | 05/03/2022 22:14
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=2                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Adam Ruprecht          Christopher Jarvis       B   .     .     .   |   .     .     .     41.00  37.96          
+
+ 2 Mike Christensen       Becky Stevens            A   2     .     .   |   2     .     .     62.00  57.41  1.64(OA)
+
+ 3 Aaron Mohrman          Sue Anderson             B   .     1     .   |   .     1     .     57.00  52.78  1.33(OB)
+
+ 4 Ann Romeo              Stanford Christie        A   1     .     .   |   1     .     .     65.50  60.65  2.19(OA)
+
+ 5 Brian Zaugg            David Wright             B   .     .     .   |   .     .     .     48.00  44.44          
+
+ 6 Ray Miller             Jeffrey Ford             A   4     .     .   |   4     .     .     58.00  53.70  0.92(OA)
+
+ 7 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     51.00  47.22          
+
+ 8 Lisa Brock             Craig Mills              C   .     2     .   |   .     2     .     52.00  48.15  1.00(OB)
+
+ 9 Pete Cowles            Clay Laughary            C   .     .     .   |   .     .     .     47.00  43.52          
+
+10 Chris Moore            Kim Eng                  A   3     .     .   |   3     .     .     58.50  54.17  1.23(OA)
+
+
+                                          Totals                                            540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   3.00 1-Ruprecht-Jarvis vs 4-Romeo-Christie
+        140    4.00   0.00 2-Christensen-Stevens vs 9-Cowles-Laughary
+        300    3.00   1.00 3-Mohrman-Anderson vs 7-Tipton-Hesson
+        450    1.00   3.00 5-Zaugg-Wright vs 6-Miller-Ford
+        450    1.00   3.00 10-Moore-Eng vs 8-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   3.00 1-Ruprecht-Jarvis vs 4-Romeo-Christie
+        140    4.00   0.00 2-Christensen-Stevens vs 9-Cowles-Laughary
+        300    2.00   2.00 3-Mohrman-Anderson vs 7-Tipton-Hesson
+        590    0.00   4.00 5-Zaugg-Wright vs 6-Miller-Ford
+        200    3.00   1.00 10-Moore-Eng vs 8-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   4.00 1-Ruprecht-Jarvis vs 4-Romeo-Christie
+  100          3.00   1.00 2-Christensen-Stevens vs 9-Cowles-Laughary
+        110    1.00   3.00 3-Mohrman-Anderson vs 7-Tipton-Hesson
+  300          4.00   0.00 5-Zaugg-Wright vs 6-Miller-Ford
+        100    2.00   2.00 10-Moore-Eng vs 8-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   3.00 2-Christensen-Stevens vs 5-Zaugg-Wright
+        100    2.50   1.50 3-Mohrman-Anderson vs 1-Ruprecht-Jarvis
+  620          4.00   0.00 4-Romeo-Christie vs 8-Brock-Mills
+        100    2.50   1.50 6-Miller-Ford vs 7-Tipton-Hesson
+        850    0.00   4.00 10-Moore-Eng vs 9-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.00   2.00 2-Christensen-Stevens vs 5-Zaugg-Wright
+        420    2.00   2.00 3-Mohrman-Anderson vs 1-Ruprecht-Jarvis
+        420    2.00   2.00 4-Romeo-Christie vs 8-Brock-Mills
+        420    2.00   2.00 6-Miller-Ford vs 7-Tipton-Hesson
+        420    2.00   2.00 10-Moore-Eng vs 9-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.50   2.50 2-Christensen-Stevens vs 5-Zaugg-Wright
+  430          1.50   2.50 3-Mohrman-Anderson vs 1-Ruprecht-Jarvis
+  460          3.00   1.00 4-Romeo-Christie vs 8-Brock-Mills
+        100    0.00   4.00 6-Miller-Ford vs 7-Tipton-Hesson
+  500          4.00   0.00 10-Moore-Eng vs 9-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.50   0.50 3-Mohrman-Anderson vs 6-Miller-Ford
+        100    1.00   3.00 4-Romeo-Christie vs 2-Christensen-Stevens
+        200    0.00   4.00 5-Zaugg-Wright vs 9-Cowles-Laughary
+  140          2.00   2.00 7-Tipton-Hesson vs 8-Brock-Mills
+  170          3.50   0.50 10-Moore-Eng vs 1-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   1.00 3-Mohrman-Anderson vs 6-Miller-Ford
+         50    1.00   3.00 4-Romeo-Christie vs 2-Christensen-Stevens
+   50          3.00   1.00 5-Zaugg-Wright vs 9-Cowles-Laughary
+        150    0.00   4.00 7-Tipton-Hesson vs 8-Brock-Mills
+   50          3.00   1.00 10-Moore-Eng vs 1-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.50   0.50 3-Mohrman-Anderson vs 6-Miller-Ford
+  150          3.50   0.50 4-Romeo-Christie vs 2-Christensen-Stevens
+  110          1.00   3.00 5-Zaugg-Wright vs 9-Cowles-Laughary
+  110          1.00   3.00 7-Tipton-Hesson vs 8-Brock-Mills
+  110          1.00   3.00 10-Moore-Eng vs 1-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   1.00 4-Romeo-Christie vs 7-Tipton-Hesson
+  130          4.00   0.00 5-Zaugg-Wright vs 3-Mohrman-Anderson
+        300    0.50   3.50 6-Miller-Ford vs 1-Ruprecht-Jarvis
+        140    2.00   2.00 8-Brock-Mills vs 9-Cowles-Laughary
+        300    0.50   3.50 10-Moore-Eng vs 2-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  550          3.50   0.50 4-Romeo-Christie vs 7-Tipton-Hesson
+  550          3.50   0.50 5-Zaugg-Wright vs 3-Mohrman-Anderson
+        420    0.50   3.50 6-Miller-Ford vs 1-Ruprecht-Jarvis
+        420    0.50   3.50 8-Brock-Mills vs 9-Cowles-Laughary
+  250          2.00   2.00 10-Moore-Eng vs 2-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          1.50   2.50 4-Romeo-Christie vs 7-Tipton-Hesson
+  660          0.00   4.00 5-Zaugg-Wright vs 3-Mohrman-Anderson
+  690          3.50   0.50 6-Miller-Ford vs 1-Ruprecht-Jarvis
+  690          3.50   0.50 8-Brock-Mills vs 9-Cowles-Laughary
+  680          1.50   2.50 10-Moore-Eng vs 2-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   1.00 5-Zaugg-Wright vs 8-Brock-Mills
+        140    0.50   3.50 6-Miller-Ford vs 4-Romeo-Christie
+        140    0.50   3.50 7-Tipton-Hesson vs 2-Christensen-Stevens
+        110    3.00   1.00 9-Cowles-Laughary vs 1-Ruprecht-Jarvis
+        110    3.00   1.00 10-Moore-Eng vs 3-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 5-Zaugg-Wright vs 8-Brock-Mills
+   50          2.00   2.00 6-Miller-Ford vs 4-Romeo-Christie
+        150    0.00   4.00 7-Tipton-Hesson vs 2-Christensen-Stevens
+  140          3.00   1.00 9-Cowles-Laughary vs 1-Ruprecht-Jarvis
+  150          4.00   0.00 10-Moore-Eng vs 3-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.00   1.00 5-Zaugg-Wright vs 8-Brock-Mills
+        180    1.00   3.00 6-Miller-Ford vs 4-Romeo-Christie
+        170    2.00   2.00 7-Tipton-Hesson vs 2-Christensen-Stevens
+        110    4.00   0.00 9-Cowles-Laughary vs 1-Ruprecht-Jarvis
+        300    0.00   4.00 10-Moore-Eng vs 3-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          0.00   4.00 1-Ruprecht-Jarvis vs 2-Christensen-Stevens
+  170          1.50   2.50 6-Miller-Ford vs 9-Cowles-Laughary
+  500          4.00   0.00 7-Tipton-Hesson vs 5-Zaugg-Wright
+  200          3.00   1.00 8-Brock-Mills vs 3-Mohrman-Anderson
+  170          1.50   2.50 10-Moore-Eng vs 4-Romeo-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   2.00 1-Ruprecht-Jarvis vs 2-Christensen-Stevens
+  510          4.00   0.00 6-Miller-Ford vs 9-Cowles-Laughary
+  300          0.50   3.50 7-Tipton-Hesson vs 5-Zaugg-Wright
+  300          0.50   3.50 8-Brock-Mills vs 3-Mohrman-Anderson
+  480          3.00   1.00 10-Moore-Eng vs 4-Romeo-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.50   3.50 1-Ruprecht-Jarvis vs 2-Christensen-Stevens
+   50          2.50   1.50 6-Miller-Ford vs 9-Cowles-Laughary
+        400    0.50   3.50 7-Tipton-Hesson vs 5-Zaugg-Wright
+  100          4.00   0.00 8-Brock-Mills vs 3-Mohrman-Anderson
+   50          2.50   1.50 10-Moore-Eng vs 4-Romeo-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.00   3.00 2-Christensen-Stevens vs 3-Mohrman-Anderson
+        200    3.50   0.50 7-Tipton-Hesson vs 1-Ruprecht-Jarvis
+        680    1.00   3.00 8-Brock-Mills vs 6-Miller-Ford
+        200    3.50   0.50 9-Cowles-Laughary vs 4-Romeo-Christie
+        680    1.00   3.00 10-Moore-Eng vs 5-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   1.00 2-Christensen-Stevens vs 3-Mohrman-Anderson
+  100          3.00   1.00 7-Tipton-Hesson vs 1-Ruprecht-Jarvis
+       1470    0.00   4.00 8-Brock-Mills vs 6-Miller-Ford
+       1460    1.00   3.00 9-Cowles-Laughary vs 4-Romeo-Christie
+  100          3.00   1.00 10-Moore-Eng vs 5-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   1.00 2-Christensen-Stevens vs 3-Mohrman-Anderson
+  200          1.50   2.50 7-Tipton-Hesson vs 1-Ruprecht-Jarvis
+        170    0.00   4.00 8-Brock-Mills vs 6-Miller-Ford
+  200          1.50   2.50 9-Cowles-Laughary vs 4-Romeo-Christie
+  990          4.00   0.00 10-Moore-Eng vs 5-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          4.00   0.00 1-Ruprecht-Jarvis vs 5-Zaugg-Wright
+  230          2.00   2.00 3-Mohrman-Anderson vs 4-Romeo-Christie
+  430          3.00   1.00 8-Brock-Mills vs 2-Christensen-Stevens
+  120          1.00   3.00 9-Cowles-Laughary vs 7-Tipton-Hesson
+         50    0.00   4.00 10-Moore-Eng vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.00   3.00 1-Ruprecht-Jarvis vs 5-Zaugg-Wright
+  210          3.00   1.00 3-Mohrman-Anderson vs 4-Romeo-Christie
+  200          2.00   2.00 8-Brock-Mills vs 2-Christensen-Stevens
+  150          0.00   4.00 9-Cowles-Laughary vs 7-Tipton-Hesson
+  620          4.00   0.00 10-Moore-Eng vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.50   1.50 1-Ruprecht-Jarvis vs 5-Zaugg-Wright
+  490          4.00   0.00 3-Mohrman-Anderson vs 4-Romeo-Christie
+  430          2.50   1.50 8-Brock-Mills vs 2-Christensen-Stevens
+        100    0.00   4.00 9-Cowles-Laughary vs 7-Tipton-Hesson
+  400          1.00   3.00 10-Moore-Eng vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   0.50 1-Ruprecht-Jarvis vs 8-Brock-Mills
+        130    0.00   4.00 2-Christensen-Stevens vs 6-Miller-Ford
+  100          3.50   0.50 4-Romeo-Christie vs 5-Zaugg-Wright
+   90          2.00   2.00 9-Cowles-Laughary vs 3-Mohrman-Anderson
+         50    1.00   3.00 10-Moore-Eng vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.50   2.50 1-Ruprecht-Jarvis vs 8-Brock-Mills
+  500          0.00   4.00 2-Christensen-Stevens vs 6-Miller-Ford
+  850          4.00   0.00 4-Romeo-Christie vs 5-Zaugg-Wright
+  650          1.50   2.50 9-Cowles-Laughary vs 3-Mohrman-Anderson
+  800          3.00   1.00 10-Moore-Eng vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   4.00 1-Ruprecht-Jarvis vs 8-Brock-Mills
+  110          1.50   2.50 2-Christensen-Stevens vs 6-Miller-Ford
+  120          3.00   1.00 4-Romeo-Christie vs 5-Zaugg-Wright
+  110          1.50   2.50 9-Cowles-Laughary vs 3-Mohrman-Anderson
+  180          4.00   0.00 10-Moore-Eng vs 7-Tipton-Hesson
+----------------------------------------------------------------------
