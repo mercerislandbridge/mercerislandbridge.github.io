@@ -1,0 +1,336 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 24, 2022       |CLUB NO.>158048    | 05/24/2022 22:12
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=6/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Moore            Eric Sieg                A    4     .     .     55.50  51.39  0.39(A) 
+
+
+
+ 3 Mike Christensen       David Wright             A    1     .     .     72.50  67.13  1.10(A) 
+
+ 4 Nick Tipton            Galen Hesson             B    .    2/3    .     54.00  50.00  0.29(B) 
+
+ 5 Ray Miller             Aaron Mohrman            A    .     .     .     47.25  43.75          
+
+ 6 Hugh Hendrickson       Nelson Davis             B    .     .     .     46.13  42.71          
+
+ 7 Adam Ruprecht          Christopher Jarvis       C    3     1     1     60.75  56.25  0.55(A) 
+
+ 8 Kevin Cline            Pete Cowles              C    .     .     .     50.06  46.35          
+
+ 9 Lisa Brock             Craig Mills              C    .     .     .     32.63  30.21          
+
+10 Kim Eng                Jeffrey Ford             A    .     .     .     52.88  48.96          
+
+11 Ann Romeo              Sue Anderson             B    .    2/3    .     54.00  50.00  0.29(B) 
+
+12 Shawn Abernethy        Brian Zaugg              A    2     .     .     65.81  60.94  0.77(A) 
+
+
+                                          Totals                         591.51       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   1.50 3-Christensen-Wright vs 11-Romeo-Anderson
+   70          4.00   0.00 6-Hendrickson-Davis vs 10-Eng-Ford
+        110    0.00   4.00 8-Cline-Cowles vs 4-Tipton-Hesson
+        100    1.00   3.00 9-Brock-Mills vs 7-Ruprecht-Jarvis
+         50    2.50   1.50 12-Abernethy-Zaugg vs 1-Moore-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.00   0.00 3-Christensen-Wright vs 11-Romeo-Anderson
+  660          3.00   1.00 6-Hendrickson-Davis vs 10-Eng-Ford
+  650          1.50   2.50 8-Cline-Cowles vs 4-Tipton-Hesson
+  650          1.50   2.50 9-Brock-Mills vs 7-Ruprecht-Jarvis
+  620          0.00   4.00 12-Abernethy-Zaugg vs 1-Moore-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   0.50 3-Christensen-Wright vs 11-Romeo-Anderson
+        140    0.50   3.50 6-Hendrickson-Davis vs 10-Eng-Ford
+         50    2.00   2.00 8-Cline-Cowles vs 4-Tipton-Hesson
+        140    0.50   3.50 9-Brock-Mills vs 7-Ruprecht-Jarvis
+  100          3.50   0.50 12-Abernethy-Zaugg vs 1-Moore-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        870    0.00   4.00 1-Moore-Sieg vs 8-Cline-Cowles
+        500    1.00   3.00 6-Hendrickson-Davis vs 3-Christensen-Wright
+  500          4.00   0.00 7-Ruprecht-Jarvis vs 10-Eng-Ford
+        130    3.00   1.00 9-Brock-Mills vs 5-Miller-Mohrman
+        140    2.00   2.00 11-Romeo-Anderson vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   1.50 1-Moore-Sieg vs 8-Cline-Cowles
+        600    0.00   4.00 6-Hendrickson-Davis vs 3-Christensen-Wright
+        100    2.50   1.50 7-Ruprecht-Jarvis vs 10-Eng-Ford
+        100    2.50   1.50 9-Brock-Mills vs 5-Miller-Mohrman
+        100    2.50   1.50 11-Romeo-Anderson vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.00   3.00 1-Moore-Sieg vs 8-Cline-Cowles
+  450          3.00   1.00 6-Hendrickson-Davis vs 3-Christensen-Wright
+  450          3.00   1.00 7-Ruprecht-Jarvis vs 10-Eng-Ford
+         50    0.00   4.00 9-Brock-Mills vs 5-Miller-Mohrman
+  450          3.00   1.00 11-Romeo-Anderson vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.00   0.00 1-Moore-Sieg vs 6-Hendrickson-Davis
+  650          3.00   1.00 7-Ruprecht-Jarvis vs 4-Tipton-Hesson
+        100    0.50   3.50 10-Eng-Ford vs 8-Cline-Cowles
+  620          2.00   2.00 11-Romeo-Anderson vs 5-Miller-Mohrman
+        100    0.50   3.50 12-Abernethy-Zaugg vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   2.50 1-Moore-Sieg vs 6-Hendrickson-Davis
+         50    1.50   2.50 7-Ruprecht-Jarvis vs 4-Tipton-Hesson
+  430          4.00   0.00 10-Eng-Ford vs 8-Cline-Cowles
+         50    1.50   2.50 11-Romeo-Anderson vs 5-Miller-Mohrman
+         50    1.50   2.50 12-Abernethy-Zaugg vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   2.00 1-Moore-Sieg vs 6-Hendrickson-Davis
+  430          4.00   0.00 7-Ruprecht-Jarvis vs 4-Tipton-Hesson
+  420          2.00   2.00 10-Eng-Ford vs 8-Cline-Cowles
+  420          2.00   2.00 11-Romeo-Anderson vs 5-Miller-Mohrman
+         50    0.00   4.00 12-Abernethy-Zaugg vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.50   2.50 3-Christensen-Wright vs 1-Moore-Sieg
+        180    0.00   4.00 8-Cline-Cowles vs 5-Miller-Mohrman
+        150    1.50   2.50 10-Eng-Ford vs 9-Brock-Mills
+        130    3.00   1.00 11-Romeo-Anderson vs 6-Hendrickson-Davis
+        120    4.00   0.00 12-Abernethy-Zaugg vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   3.00 3-Christensen-Wright vs 1-Moore-Sieg
+  150          4.00   0.00 8-Cline-Cowles vs 5-Miller-Mohrman
+  130          2.50   1.50 10-Eng-Ford vs 9-Brock-Mills
+         50    0.00   4.00 11-Romeo-Anderson vs 6-Hendrickson-Davis
+  130          2.50   1.50 12-Abernethy-Zaugg vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   4.00 3-Christensen-Wright vs 1-Moore-Sieg
+   90          2.50   1.50 8-Cline-Cowles vs 5-Miller-Mohrman
+   90          2.50   1.50 10-Eng-Ford vs 9-Brock-Mills
+   90          2.50   1.50 11-Romeo-Anderson vs 6-Hendrickson-Davis
+   90          2.50   1.50 12-Abernethy-Zaugg vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   4.00 1-Moore-Sieg vs 10-Eng-Ford
+        620    3.00   1.00 3-Christensen-Wright vs 8-Cline-Cowles
+        620    3.00   1.00 7-Ruprecht-Jarvis vs 11-Romeo-Anderson
+        650    1.00   3.00 9-Brock-Mills vs 6-Hendrickson-Davis
+        620    3.00   1.00 12-Abernethy-Zaugg vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   3.00 1-Moore-Sieg vs 10-Eng-Ford
+  110          3.50   0.50 3-Christensen-Wright vs 8-Cline-Cowles
+        150    0.00   4.00 7-Ruprecht-Jarvis vs 11-Romeo-Anderson
+   50          2.00   2.00 9-Brock-Mills vs 6-Hendrickson-Davis
+  110          3.50   0.50 12-Abernethy-Zaugg vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   2.00 1-Moore-Sieg vs 10-Eng-Ford
+  100          3.00   1.00 3-Christensen-Wright vs 8-Cline-Cowles
+        100    1.00   3.00 7-Ruprecht-Jarvis vs 11-Romeo-Anderson
+        140    0.00   4.00 9-Brock-Mills vs 6-Hendrickson-Davis
+  130          4.00   0.00 12-Abernethy-Zaugg vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   2.00 1-Moore-Sieg vs 7-Ruprecht-Jarvis
+  420          4.00   0.00 4-Tipton-Hesson vs 9-Brock-Mills
+        650    0.50   3.50 5-Miller-Mohrman vs 3-Christensen-Wright
+        650    0.50   3.50 8-Cline-Cowles vs 11-Romeo-Anderson
+  100          3.00   1.00 12-Abernethy-Zaugg vs 6-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   3.50 1-Moore-Sieg vs 7-Ruprecht-Jarvis
+  140          4.00   0.00 4-Tipton-Hesson vs 9-Brock-Mills
+  120          3.00   1.00 5-Miller-Mohrman vs 3-Christensen-Wright
+         50    0.50   3.50 8-Cline-Cowles vs 11-Romeo-Anderson
+  110          2.00   2.00 12-Abernethy-Zaugg vs 6-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   3.00 1-Moore-Sieg vs 7-Ruprecht-Jarvis
+        140    2.00   2.00 4-Tipton-Hesson vs 9-Brock-Mills
+        170    0.00   4.00 5-Miller-Mohrman vs 3-Christensen-Wright
+        130    3.00   1.00 8-Cline-Cowles vs 11-Romeo-Anderson
+  100          4.00   0.00 12-Abernethy-Zaugg vs 6-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.50   0.50 5-Miller-Mohrman vs 1-Moore-Sieg
+  430          3.50   0.50 6-Hendrickson-Davis vs 4-Tipton-Hesson
+  200          1.00   3.00 10-Eng-Ford vs 3-Christensen-Wright
+  130          0.00   4.00 11-Romeo-Anderson vs 9-Brock-Mills
+  400          2.00   2.00 12-Abernethy-Zaugg vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   2.00 5-Miller-Mohrman vs 1-Moore-Sieg
+        200    0.50   3.50 6-Hendrickson-Davis vs 4-Tipton-Hesson
+  100          3.00   1.00 10-Eng-Ford vs 3-Christensen-Wright
+  120          4.00   0.00 11-Romeo-Anderson vs 9-Brock-Mills
+        200    0.50   3.50 12-Abernethy-Zaugg vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   3.00 5-Miller-Mohrman vs 1-Moore-Sieg
+        110    0.00   4.00 6-Hendrickson-Davis vs 4-Tipton-Hesson
+  140          3.00   1.00 10-Eng-Ford vs 3-Christensen-Wright
+  170          4.00   0.00 11-Romeo-Anderson vs 9-Brock-Mills
+  120          2.00   2.00 12-Abernethy-Zaugg vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        710    3.00   1.00 3-Christensen-Wright vs 9-Brock-Mills
+        710    3.00   1.00 7-Ruprecht-Jarvis vs 5-Miller-Mohrman
+       1390    1.00   3.00 10-Eng-Ford vs 4-Tipton-Hesson
+       2140    0.00   4.00 11-Romeo-Anderson vs 1-Moore-Sieg
+        710    3.00   1.00 12-Abernethy-Zaugg vs 8-Cline-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   3.00 3-Christensen-Wright vs 9-Brock-Mills
+        200    0.00   4.00 7-Ruprecht-Jarvis vs 5-Miller-Mohrman
+  710          4.00   0.00 10-Eng-Ford vs 4-Tipton-Hesson
+  130          2.00   2.00 11-Romeo-Anderson vs 1-Moore-Sieg
+  600          3.00   1.00 12-Abernethy-Zaugg vs 8-Cline-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          4.00   0.00 3-Christensen-Wright vs 9-Brock-Mills
+  140          3.00   1.00 7-Ruprecht-Jarvis vs 5-Miller-Mohrman
+         50    0.00   4.00 10-Eng-Ford vs 4-Tipton-Hesson
+  100          1.50   2.50 11-Romeo-Anderson vs 1-Moore-Sieg
+  100          1.50   2.50 12-Abernethy-Zaugg vs 8-Cline-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          1.50   2.50 4-Tipton-Hesson vs 1-Moore-Sieg
+  460          1.50   2.50 5-Miller-Mohrman vs 10-Eng-Ford
+        100    0.00   4.00 7-Ruprecht-Jarvis vs 3-Christensen-Wright
+  490          3.50   0.50 8-Cline-Cowles vs 6-Hendrickson-Davis
+  490          3.50   0.50 12-Abernethy-Zaugg vs 9-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.00   3.00 4-Tipton-Hesson vs 1-Moore-Sieg
+  620          3.50   0.50 5-Miller-Mohrman vs 10-Eng-Ford
+  110          0.00   4.00 7-Ruprecht-Jarvis vs 3-Christensen-Wright
+  600          2.00   2.00 8-Cline-Cowles vs 6-Hendrickson-Davis
+  620          3.50   0.50 12-Abernethy-Zaugg vs 9-Brock-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   3.00 4-Tipton-Hesson vs 1-Moore-Sieg
+        420    1.00   3.00 5-Miller-Mohrman vs 10-Eng-Ford
+        420    1.00   3.00 7-Ruprecht-Jarvis vs 3-Christensen-Wright
+   50          4.00   0.00 8-Cline-Cowles vs 6-Hendrickson-Davis
+        170    3.00   1.00 12-Abernethy-Zaugg vs 9-Brock-Mills
+----------------------------------------------------------------------
