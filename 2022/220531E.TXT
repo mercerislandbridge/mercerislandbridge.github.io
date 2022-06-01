@@ -1,0 +1,305 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 31, 2022       |CLUB NO.>158048    | 05/31/2022 22:26
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   36.0 |TOP>   3 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Wright           Sue Anderson             B   3/4   1/2    .     39.00  54.17  0.39(A) 
+
+ 2 Jeffrey Ford           David Taylor             A    .     .     .     29.00  40.28          
+
+ 3 Hugh Hendrickson       Nelson Davis             B   3/4   1/2    .     39.00  54.17  0.39(A) 
+
+ 4 Mike Christensen       Becky Stevens            A    2     .     .     40.50  56.25  0.63(A) 
+
+ 5 Lisa Brock             Craig Mills              C    .     .     .     32.00  44.44          
+
+ 6 Ray Miller             Ann Romeo                A    .     .     .     38.50  53.47          
+
+ 7 Nick Tipton            Galen Hesson             B    .     .     .     29.50  40.97          
+
+ 8 Gregory Herman         Thang Phu                C    .     .     .     33.00  45.83          
+
+ 9 Brian Zaugg            Chris Moore              A    1     .     .     43.50  60.42  0.90(A) 
+
+
+
+
+                                          Totals                         324.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          2.50   0.50 1-Wright-Anderson vs 4-Christensen-Stevens
+  990          2.50   0.50 2-Ford-Taylor vs 9-Zaugg-Moore
+  520          1.00   2.00 3-Hendrickson-Davis vs 7-Tipton-Hesson
+  490          0.00   3.00 5-Brock-Mills vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   2.00 1-Wright-Anderson vs 4-Christensen-Stevens
+        200    0.00   3.00 2-Ford-Taylor vs 9-Zaugg-Moore
+  100          2.00   1.00 3-Hendrickson-Davis vs 7-Tipton-Hesson
+  150          3.00   0.00 5-Brock-Mills vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   1.00 1-Wright-Anderson vs 4-Christensen-Stevens
+        600    0.50   2.50 2-Ford-Taylor vs 9-Zaugg-Moore
+  200          3.00   0.00 3-Hendrickson-Davis vs 7-Tipton-Hesson
+        600    0.50   2.50 5-Brock-Mills vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   3.00 2-Ford-Taylor vs 5-Brock-Mills
+        100    1.00   2.00 3-Hendrickson-Davis vs 1-Wright-Anderson
+  200          2.00   1.00 4-Christensen-Stevens vs 8-Herman-Phu
+  650          3.00   0.00 6-Miller-Romeo vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          2.00   1.00 2-Ford-Taylor vs 5-Brock-Mills
+  660          2.00   1.00 3-Hendrickson-Davis vs 1-Wright-Anderson
+        200    0.00   3.00 4-Christensen-Stevens vs 8-Herman-Phu
+  660          2.00   1.00 6-Miller-Romeo vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          1.50   1.50 2-Ford-Taylor vs 5-Brock-Mills
+  460          0.00   3.00 3-Hendrickson-Davis vs 1-Wright-Anderson
+  490          1.50   1.50 4-Christensen-Stevens vs 8-Herman-Phu
+  920          3.00   0.00 6-Miller-Romeo vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   1.00 3-Hendrickson-Davis vs 6-Miller-Romeo
+   90          3.00   0.00 4-Christensen-Stevens vs 2-Ford-Taylor
+        140    0.50   2.50 5-Brock-Mills vs 9-Zaugg-Moore
+        140    0.50   2.50 7-Tipton-Hesson vs 8-Herman-Phu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   2.50 3-Hendrickson-Davis vs 6-Miller-Romeo
+  450          3.00   0.00 4-Christensen-Stevens vs 2-Ford-Taylor
+  140          2.00   1.00 5-Brock-Mills vs 9-Zaugg-Moore
+         50    0.50   2.50 7-Tipton-Hesson vs 8-Herman-Phu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   0.00 3-Hendrickson-Davis vs 6-Miller-Romeo
+        110    1.00   2.00 4-Christensen-Stevens vs 2-Ford-Taylor
+        120    0.00   3.00 5-Brock-Mills vs 9-Zaugg-Moore
+         50    2.00   1.00 7-Tipton-Hesson vs 8-Herman-Phu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.50   0.50 4-Christensen-Stevens vs 7-Tipton-Hesson
+        140    1.00   2.00 5-Brock-Mills vs 3-Hendrickson-Davis
+  200          2.50   0.50 6-Miller-Romeo vs 1-Wright-Anderson
+        620    0.00   3.00 8-Herman-Phu vs 9-Zaugg-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   1.00 4-Christensen-Stevens vs 7-Tipton-Hesson
+   50          3.00   0.00 5-Brock-Mills vs 3-Hendrickson-Davis
+        150    1.00   2.00 6-Miller-Romeo vs 1-Wright-Anderson
+        500    0.00   3.00 8-Herman-Phu vs 9-Zaugg-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   2.00 4-Christensen-Stevens vs 7-Tipton-Hesson
+        130    1.00   2.00 5-Brock-Mills vs 3-Hendrickson-Davis
+        130    1.00   2.00 6-Miller-Romeo vs 1-Wright-Anderson
+   50          3.00   0.00 8-Herman-Phu vs 9-Zaugg-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.00   2.00 5-Brock-Mills vs 8-Herman-Phu
+  620          1.00   2.00 6-Miller-Romeo vs 4-Christensen-Stevens
+  620          1.00   2.00 7-Tipton-Hesson vs 2-Ford-Taylor
+ 1370          3.00   0.00 9-Zaugg-Moore vs 1-Wright-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          0.50   2.50 5-Brock-Mills vs 8-Herman-Phu
+  120          2.00   1.00 6-Miller-Romeo vs 4-Christensen-Stevens
+   90          0.50   2.50 7-Tipton-Hesson vs 2-Ford-Taylor
+  400          3.00   0.00 9-Zaugg-Moore vs 1-Wright-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          1.00   2.00 5-Brock-Mills vs 8-Herman-Phu
+  690          2.00   1.00 6-Miller-Romeo vs 4-Christensen-Stevens
+  720          3.00   0.00 7-Tipton-Hesson vs 2-Ford-Taylor
+        100    0.00   3.00 9-Zaugg-Moore vs 1-Wright-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          1.50   1.50 1-Wright-Anderson vs 2-Ford-Taylor
+  480          1.50   1.50 6-Miller-Romeo vs 9-Zaugg-Moore
+  480          1.50   1.50 7-Tipton-Hesson vs 5-Brock-Mills
+  480          1.50   1.50 8-Herman-Phu vs 3-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   0.50 1-Wright-Anderson vs 2-Ford-Taylor
+        170    1.00   2.00 6-Miller-Romeo vs 9-Zaugg-Moore
+  100          2.50   0.50 7-Tipton-Hesson vs 5-Brock-Mills
+        590    0.00   3.00 8-Herman-Phu vs 3-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   0.50 1-Wright-Anderson vs 2-Ford-Taylor
+  110          0.50   2.50 6-Miller-Romeo vs 9-Zaugg-Moore
+  170          2.50   0.50 7-Tipton-Hesson vs 5-Brock-Mills
+  110          0.50   2.50 8-Herman-Phu vs 3-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   3.00 2-Ford-Taylor vs 3-Hendrickson-Davis
+        600    1.50   1.50 7-Tipton-Hesson vs 1-Wright-Anderson
+  100          3.00   0.00 8-Herman-Phu vs 6-Miller-Romeo
+        600    1.50   1.50 9-Zaugg-Moore vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.50   1.50 2-Ford-Taylor vs 3-Hendrickson-Davis
+        630    3.00   0.00 7-Tipton-Hesson vs 1-Wright-Anderson
+        690    0.00   3.00 8-Herman-Phu vs 6-Miller-Romeo
+        660    1.50   1.50 9-Zaugg-Moore vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.50   0.50 2-Ford-Taylor vs 3-Hendrickson-Davis
+  620          2.50   0.50 7-Tipton-Hesson vs 1-Wright-Anderson
+        100    0.50   2.50 8-Herman-Phu vs 6-Miller-Romeo
+        100    0.50   2.50 9-Zaugg-Moore vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.00   3.00 1-Wright-Anderson vs 5-Brock-Mills
+        110    1.00   2.00 3-Hendrickson-Davis vs 4-Christensen-Stevens
+        100    2.00   1.00 8-Herman-Phu vs 2-Ford-Taylor
+   90          3.00   0.00 9-Zaugg-Moore vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   2.00 1-Wright-Anderson vs 5-Brock-Mills
+        230    0.00   3.00 3-Hendrickson-Davis vs 4-Christensen-Stevens
+        170    2.00   1.00 8-Herman-Phu vs 2-Ford-Taylor
+  100          3.00   0.00 9-Zaugg-Moore vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          3.00   0.00 1-Wright-Anderson vs 5-Brock-Mills
+  170          0.00   3.00 3-Hendrickson-Davis vs 4-Christensen-Stevens
+  200          1.00   2.00 8-Herman-Phu vs 2-Ford-Taylor
+  570          2.00   1.00 9-Zaugg-Moore vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   0.00 1-Wright-Anderson vs 8-Herman-Phu
+        630    0.00   3.00 2-Ford-Taylor vs 6-Miller-Romeo
+         50    2.00   1.00 4-Christensen-Stevens vs 5-Brock-Mills
+        180    1.00   2.00 9-Zaugg-Moore vs 3-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   1.00 1-Wright-Anderson vs 8-Herman-Phu
+  650          3.00   0.00 2-Ford-Taylor vs 6-Miller-Romeo
+  110          1.00   2.00 4-Christensen-Stevens vs 5-Brock-Mills
+        100    0.00   3.00 9-Zaugg-Moore vs 3-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    2.50   0.50 1-Wright-Anderson vs 8-Herman-Phu
+        980    2.50   0.50 2-Ford-Taylor vs 6-Miller-Romeo
+        990    0.50   2.50 4-Christensen-Stevens vs 5-Brock-Mills
+        990    0.50   2.50 9-Zaugg-Moore vs 3-Hendrickson-Davis
+----------------------------------------------------------------------
