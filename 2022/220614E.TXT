@@ -1,0 +1,311 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 14, 2022      |CLUB NO.>158048    | 06/14/2022 22:33
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   42.0 |TOP>   3 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=4/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B    .     .     .     37.00  44.05          
+
+ 2 Eric Sieg              Kim Eng                  A    1     .     .     50.50  60.12  0.80(A) 
+
+ 3 Stanford Christie      David Wright             A   2/3    .     .     44.50  52.98  0.48(A) 
+
+ 4 Jeffrey Ford           Sue Anderson             A    .     .     .     42.00  50.00          
+
+ 5 Farley Mawyer          Jill Marshall            A   2/3    .     .     44.50  52.98  0.48(A) 
+
+ 6 Dion Sorenson          Matt Gaffney             C    .    1/2    .     42.00  50.00  0.27(B) 
+
+ 7 Roz Werner             Sheldon Werner           B    .    1/2    .     42.00  50.00  0.27(B) 
+
+ 8 Lisa Brock             Craig Mills              C    .     .     .     33.50  39.88          
+
+
+                                          Totals                         336.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   2.00 2-Sieg-Eng vs 4-Ford-Anderson
+   50          2.50   0.50 3-Christie-Wright vs 7-Werner-Werner
+        120    0.00   3.00 5-Mawyer-Marshall vs 6-Sorenson-Gaffney
+   50          2.50   0.50 8-Brock-Mills vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.50   2.50 2-Sieg-Eng vs 4-Ford-Anderson
+        400    2.00   1.00 3-Christie-Wright vs 7-Werner-Werner
+  150          3.00   0.00 5-Mawyer-Marshall vs 6-Sorenson-Gaffney
+        430    0.50   2.50 8-Brock-Mills vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   1.50 2-Sieg-Eng vs 4-Ford-Anderson
+         50    1.50   1.50 3-Christie-Wright vs 7-Werner-Werner
+        100    0.00   3.00 5-Mawyer-Marshall vs 6-Sorenson-Gaffney
+  140          3.00   0.00 8-Brock-Mills vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   0.00 2-Sieg-Eng vs 4-Ford-Anderson
+        200    0.50   2.50 3-Christie-Wright vs 7-Werner-Werner
+        100    2.00   1.00 5-Mawyer-Marshall vs 6-Sorenson-Gaffney
+        200    0.50   2.50 8-Brock-Mills vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   2.00 3-Christie-Wright vs 5-Mawyer-Marshall
+  100          3.00   0.00 4-Ford-Anderson vs 1-Tipton-Hesson
+         90    2.00   1.00 6-Sorenson-Gaffney vs 7-Werner-Werner
+        140    0.00   3.00 8-Brock-Mills vs 2-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   3.00 3-Christie-Wright vs 5-Mawyer-Marshall
+         90    1.00   2.00 4-Ford-Anderson vs 1-Tipton-Hesson
+  100          3.00   0.00 6-Sorenson-Gaffney vs 7-Werner-Werner
+         50    2.00   1.00 8-Brock-Mills vs 2-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   0.00 3-Christie-Wright vs 5-Mawyer-Marshall
+        100    1.00   2.00 4-Ford-Anderson vs 1-Tipton-Hesson
+        100    1.00   2.00 6-Sorenson-Gaffney vs 7-Werner-Werner
+        100    1.00   2.00 8-Brock-Mills vs 2-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    1.50   1.50 3-Christie-Wright vs 5-Mawyer-Marshall
+        480    1.50   1.50 4-Ford-Anderson vs 1-Tipton-Hesson
+        480    1.50   1.50 6-Sorenson-Gaffney vs 7-Werner-Werner
+        480    1.50   1.50 8-Brock-Mills vs 2-Sieg-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   0.00 4-Ford-Anderson vs 6-Sorenson-Gaffney
+        130    0.50   2.50 5-Mawyer-Marshall vs 2-Sieg-Eng
+  130          2.00   1.00 7-Werner-Werner vs 1-Tipton-Hesson
+        130    0.50   2.50 8-Brock-Mills vs 3-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.50   1.50 4-Ford-Anderson vs 6-Sorenson-Gaffney
+       1430    0.00   3.00 5-Mawyer-Marshall vs 2-Sieg-Eng
+        650    3.00   0.00 7-Werner-Werner vs 1-Tipton-Hesson
+        680    1.50   1.50 8-Brock-Mills vs 3-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          2.50   0.50 4-Ford-Anderson vs 6-Sorenson-Gaffney
+         50    0.00   3.00 5-Mawyer-Marshall vs 2-Sieg-Eng
+  980          2.50   0.50 7-Werner-Werner vs 1-Tipton-Hesson
+  490          1.00   2.00 8-Brock-Mills vs 3-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   1.50 4-Ford-Anderson vs 6-Sorenson-Gaffney
+  130          3.00   0.00 5-Mawyer-Marshall vs 2-Sieg-Eng
+        200    0.00   3.00 7-Werner-Werner vs 1-Tipton-Hesson
+  110          1.50   1.50 8-Brock-Mills vs 3-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   1.00 1-Tipton-Hesson vs 2-Sieg-Eng
+  630          3.00   0.00 5-Mawyer-Marshall vs 7-Werner-Werner
+        200    1.00   2.00 6-Sorenson-Gaffney vs 3-Christie-Wright
+        620    0.00   3.00 8-Brock-Mills vs 4-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   2.00 1-Tipton-Hesson vs 2-Sieg-Eng
+  140          2.00   1.00 5-Mawyer-Marshall vs 7-Werner-Werner
+  150          3.00   0.00 6-Sorenson-Gaffney vs 3-Christie-Wright
+   50          0.00   3.00 8-Brock-Mills vs 4-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   2.50 1-Tipton-Hesson vs 2-Sieg-Eng
+  170          2.00   1.00 5-Mawyer-Marshall vs 7-Werner-Werner
+        200    0.50   2.50 6-Sorenson-Gaffney vs 3-Christie-Wright
+  230          3.00   0.00 8-Brock-Mills vs 4-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   2.00 1-Tipton-Hesson vs 2-Sieg-Eng
+        650    1.00   2.00 5-Mawyer-Marshall vs 7-Werner-Werner
+        200    3.00   0.00 6-Sorenson-Gaffney vs 3-Christie-Wright
+        650    1.00   2.00 8-Brock-Mills vs 4-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   0.50 2-Sieg-Eng vs 3-Christie-Wright
+        420    0.00   3.00 6-Sorenson-Gaffney vs 1-Tipton-Hesson
+        140    2.50   0.50 7-Werner-Werner vs 4-Ford-Anderson
+        170    1.00   2.00 8-Brock-Mills vs 5-Mawyer-Marshall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   3.00 2-Sieg-Eng vs 3-Christie-Wright
+  110          3.00   0.00 6-Sorenson-Gaffney vs 1-Tipton-Hesson
+  100          2.00   1.00 7-Werner-Werner vs 4-Ford-Anderson
+         90    1.00   2.00 8-Brock-Mills vs 5-Mawyer-Marshall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.00   0.00 2-Sieg-Eng vs 3-Christie-Wright
+  420          0.50   2.50 6-Sorenson-Gaffney vs 1-Tipton-Hesson
+  450          2.00   1.00 7-Werner-Werner vs 4-Ford-Anderson
+  420          0.50   2.50 8-Brock-Mills vs 5-Mawyer-Marshall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   1.50 2-Sieg-Eng vs 3-Christie-Wright
+        650    1.50   1.50 6-Sorenson-Gaffney vs 1-Tipton-Hesson
+  100          3.00   0.00 7-Werner-Werner vs 4-Ford-Anderson
+       1430    0.00   3.00 8-Brock-Mills vs 5-Mawyer-Marshall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.00   0.00 1-Tipton-Hesson vs 5-Mawyer-Marshall
+   50          2.00   1.00 3-Christie-Wright vs 4-Ford-Anderson
+        170    0.50   2.50 7-Werner-Werner vs 2-Sieg-Eng
+        170    0.50   2.50 8-Brock-Mills vs 6-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          2.00   1.00 1-Tipton-Hesson vs 5-Mawyer-Marshall
+  440          0.00   3.00 3-Christie-Wright vs 4-Ford-Anderson
+  490          2.00   1.00 7-Werner-Werner vs 2-Sieg-Eng
+  490          2.00   1.00 8-Brock-Mills vs 6-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.50   1.50 1-Tipton-Hesson vs 5-Mawyer-Marshall
+  400          3.00   0.00 3-Christie-Wright vs 4-Ford-Anderson
+        130    1.50   1.50 7-Werner-Werner vs 2-Sieg-Eng
+        150    0.00   3.00 8-Brock-Mills vs 6-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.00   3.00 1-Tipton-Hesson vs 5-Mawyer-Marshall
+        400    2.00   1.00 3-Christie-Wright vs 4-Ford-Anderson
+        400    2.00   1.00 7-Werner-Werner vs 2-Sieg-Eng
+        400    2.00   1.00 8-Brock-Mills vs 6-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.00   2.00 1-Tipton-Hesson vs 3-Christie-Wright
+        300    2.00   1.00 2-Sieg-Eng vs 6-Sorenson-Gaffney
+  200          3.00   0.00 4-Ford-Anderson vs 5-Mawyer-Marshall
+        620    0.00   3.00 8-Brock-Mills vs 7-Werner-Werner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   3.00 1-Tipton-Hesson vs 3-Christie-Wright
+        170    2.00   1.00 2-Sieg-Eng vs 6-Sorenson-Gaffney
+        170    2.00   1.00 4-Ford-Anderson vs 5-Mawyer-Marshall
+        170    2.00   1.00 8-Brock-Mills vs 7-Werner-Werner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.50   2.50 1-Tipton-Hesson vs 3-Christie-Wright
+        420    2.00   1.00 2-Sieg-Eng vs 6-Sorenson-Gaffney
+        450    0.50   2.50 4-Ford-Anderson vs 5-Mawyer-Marshall
+   50          3.00   0.00 8-Brock-Mills vs 7-Werner-Werner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   1.00 1-Tipton-Hesson vs 3-Christie-Wright
+        450    2.00   1.00 2-Sieg-Eng vs 6-Sorenson-Gaffney
+        980    0.00   3.00 4-Ford-Anderson vs 5-Mawyer-Marshall
+        450    2.00   1.00 8-Brock-Mills vs 7-Werner-Werner
+----------------------------------------------------------------------
