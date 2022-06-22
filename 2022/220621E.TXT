@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 21, 2022      |CLUB NO.>158048    | 06/21/2022 22:31
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=7/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Matt Gaffney           Dion Sorenson            C    .     .     .     30.50  25.42          
+
+ 2 Adam Ruprecht          Christopher Jarvis       C    .     2     .     62.50  52.08  0.39(B) 
+
+ 3 Bryan Delfs            Sue Anderson             B    .     .     .     56.00  46.67          
+
+ 4 Rajendra Gokhale       Stanford Christie        A    5     .     .     64.00  53.33  0.26(A) 
+
+ 5 David Taylor           Aaron Mohrman            B    .     .     .     57.00  47.50          
+
+ 6 Ray Miller             Ann Romeo                A    4     .     .     65.00  54.17  0.46(A) 
+
+ 7 Herman Xiao            Dong Yan                 B    .     .     .     56.50  47.08          
+
+ 8 Kim Eng                Jeffrey Ford             A    3     .     .     65.50  54.58  0.65(A) 
+
+ 9 Mike Ring              Shawn Abernethy          B    .     3     .     58.50  48.75  0.28(B) 
+
+10 Brian Zaugg            Chris Moore              A    1     .     .     78.00  65.00  1.30(A) 
+
+11 Nick Tipton            Galen Hesson             B    2     1     .     67.00  55.83  0.91(A) 
+
+12 Mike Christensen       Becky Stevens            A    .     .     .     57.00  47.50          
+
+13 Eric Sieg              Jim Rasmussen            A    .     .     .     62.50  52.08          
+
+
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   0.00 1-Gaffney-Sorenson vs 3-Delfs-Anderson
+        230    3.00   2.00 2-Ruprecht-Jarvis vs 6-Miller-Romeo
+        150    4.00   1.00 4-Gokhale-Christie vs 9-Ring-Abernethy
+        500    0.50   4.50 5-Taylor-Mohrman vs 12-Christensen-Stevens
+        500    0.50   4.50 7-Xiao-Yan vs 8-Eng-Ford
+        300    2.00   3.00 13-Sieg-Rasmussen vs 10-Zaugg-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.50   3.50 1-Gaffney-Sorenson vs 3-Delfs-Anderson
+        200    0.00   5.00 2-Ruprecht-Jarvis vs 6-Miller-Romeo
+  140          3.50   1.50 4-Gokhale-Christie vs 9-Ring-Abernethy
+        130    1.50   3.50 5-Taylor-Mohrman vs 12-Christensen-Stevens
+  730          5.00   0.00 7-Xiao-Yan vs 8-Eng-Ford
+  140          3.50   1.50 13-Sieg-Rasmussen vs 10-Zaugg-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   5.00 1-Gaffney-Sorenson vs 11-Tipton-Hesson
+  140          3.00   2.00 2-Ruprecht-Jarvis vs 4-Gokhale-Christie
+  140          3.00   2.00 3-Delfs-Anderson vs 7-Xiao-Yan
+  140          3.00   2.00 5-Taylor-Mohrman vs 10-Zaugg-Moore
+  200          5.00   0.00 6-Miller-Romeo vs 13-Sieg-Rasmussen
+  110          1.00   4.00 8-Eng-Ford vs 9-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          0.00   5.00 1-Gaffney-Sorenson vs 11-Tipton-Hesson
+  660          4.00   1.00 2-Ruprecht-Jarvis vs 4-Gokhale-Christie
+  630          1.50   3.50 3-Delfs-Anderson vs 7-Xiao-Yan
+  630          1.50   3.50 5-Taylor-Mohrman vs 10-Zaugg-Moore
+  660          4.00   1.00 6-Miller-Romeo vs 13-Sieg-Rasmussen
+  660          4.00   1.00 8-Eng-Ford vs 9-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.50   3.50 2-Ruprecht-Jarvis vs 12-Christensen-Stevens
+  650          1.50   3.50 3-Delfs-Anderson vs 5-Taylor-Mohrman
+  650          1.50   3.50 4-Gokhale-Christie vs 8-Eng-Ford
+  650          1.50   3.50 6-Miller-Romeo vs 11-Tipton-Hesson
+  680          4.00   1.00 7-Xiao-Yan vs 1-Gaffney-Sorenson
+ 1430          5.00   0.00 9-Ring-Abernethy vs 10-Zaugg-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   1.50 2-Ruprecht-Jarvis vs 12-Christensen-Stevens
+        150    1.50   3.50 3-Delfs-Anderson vs 5-Taylor-Mohrman
+         50    3.50   1.50 4-Gokhale-Christie vs 8-Eng-Ford
+        150    1.50   3.50 6-Miller-Romeo vs 11-Tipton-Hesson
+  110          5.00   0.00 7-Xiao-Yan vs 1-Gaffney-Sorenson
+       1640    0.00   5.00 9-Ring-Abernethy vs 10-Zaugg-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   3.50 3-Delfs-Anderson vs 13-Sieg-Rasmussen
+        200    1.50   3.50 4-Gokhale-Christie vs 6-Miller-Romeo
+        200    1.50   3.50 5-Taylor-Mohrman vs 9-Ring-Abernethy
+        110    4.50   0.50 7-Xiao-Yan vs 12-Christensen-Stevens
+        200    1.50   3.50 8-Eng-Ford vs 2-Ruprecht-Jarvis
+        110    4.50   0.50 10-Zaugg-Moore vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   1.00 3-Delfs-Anderson vs 13-Sieg-Rasmussen
+         90    0.00   5.00 4-Gokhale-Christie vs 6-Miller-Romeo
+   90          2.50   2.50 5-Taylor-Mohrman vs 9-Ring-Abernethy
+         50    1.00   4.00 7-Xiao-Yan vs 12-Christensen-Stevens
+   90          2.50   2.50 8-Eng-Ford vs 2-Ruprecht-Jarvis
+  300          5.00   0.00 10-Zaugg-Moore vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 4-Gokhale-Christie vs 1-Gaffney-Sorenson
+  100          4.00   1.00 5-Taylor-Mohrman vs 7-Xiao-Yan
+        600    1.00   4.00 6-Miller-Romeo vs 10-Zaugg-Moore
+        690    0.00   5.00 8-Eng-Ford vs 13-Sieg-Rasmussen
+  100          4.00   1.00 9-Ring-Abernethy vs 3-Delfs-Anderson
+        120    2.00   3.00 11-Tipton-Hesson vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.00   5.00 4-Gokhale-Christie vs 1-Gaffney-Sorenson
+        600    5.00   0.00 5-Taylor-Mohrman vs 7-Xiao-Yan
+        650    1.50   3.50 6-Miller-Romeo vs 10-Zaugg-Moore
+        620    3.50   1.50 8-Eng-Ford vs 13-Sieg-Rasmussen
+        650    1.50   3.50 9-Ring-Abernethy vs 3-Delfs-Anderson
+        620    3.50   1.50 11-Tipton-Hesson vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   3.00 5-Taylor-Mohrman vs 2-Ruprecht-Jarvis
+        300    0.00   5.00 6-Miller-Romeo vs 8-Eng-Ford
+  110          4.00   1.00 7-Xiao-Yan vs 11-Tipton-Hesson
+  110          4.00   1.00 9-Ring-Abernethy vs 1-Gaffney-Sorenson
+  110          4.00   1.00 10-Zaugg-Moore vs 4-Gokhale-Christie
+        130    1.00   4.00 12-Christensen-Stevens vs 13-Sieg-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          2.50   2.50 5-Taylor-Mohrman vs 2-Ruprecht-Jarvis
+  660          2.50   2.50 6-Miller-Romeo vs 8-Eng-Ford
+  660          2.50   2.50 7-Xiao-Yan vs 11-Tipton-Hesson
+  660          2.50   2.50 9-Ring-Abernethy vs 1-Gaffney-Sorenson
+  660          2.50   2.50 10-Zaugg-Moore vs 4-Gokhale-Christie
+  660          2.50   2.50 12-Christensen-Stevens vs 13-Sieg-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          0.50   4.50 6-Miller-Romeo vs 3-Delfs-Anderson
+  630          0.50   4.50 7-Xiao-Yan vs 9-Ring-Abernethy
+  660          2.50   2.50 8-Eng-Ford vs 12-Christensen-Stevens
+  660          2.50   2.50 10-Zaugg-Moore vs 2-Ruprecht-Jarvis
+  690          4.50   0.50 11-Tipton-Hesson vs 5-Taylor-Mohrman
+  690          4.50   0.50 13-Sieg-Rasmussen vs 1-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 6-Miller-Romeo vs 3-Delfs-Anderson
+         50    3.00   2.00 7-Xiao-Yan vs 9-Ring-Abernethy
+  510          5.00   0.00 8-Eng-Ford vs 12-Christensen-Stevens
+        170    1.00   4.00 10-Zaugg-Moore vs 2-Ruprecht-Jarvis
+        130    2.00   3.00 11-Tipton-Hesson vs 5-Taylor-Mohrman
+  130          4.00   1.00 13-Sieg-Rasmussen vs 1-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    4.00   1.00 1-Gaffney-Sorenson vs 2-Ruprecht-Jarvis
+         90    4.00   1.00 7-Xiao-Yan vs 4-Gokhale-Christie
+        150    0.50   4.50 8-Eng-Ford vs 10-Zaugg-Moore
+        150    0.50   4.50 9-Ring-Abernethy vs 13-Sieg-Rasmussen
+         90    4.00   1.00 11-Tipton-Hesson vs 3-Delfs-Anderson
+        100    2.00   3.00 12-Christensen-Stevens vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   4.00 1-Gaffney-Sorenson vs 2-Ruprecht-Jarvis
+        680    0.00   5.00 7-Xiao-Yan vs 4-Gokhale-Christie
+        150    5.00   0.00 8-Eng-Ford vs 10-Zaugg-Moore
+        200    3.00   2.00 9-Ring-Abernethy vs 13-Sieg-Rasmussen
+        200    3.00   2.00 11-Tipton-Hesson vs 3-Delfs-Anderson
+        200    3.00   2.00 12-Christensen-Stevens vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.00   3.00 2-Ruprecht-Jarvis vs 3-Delfs-Anderson
+        430    2.00   3.00 8-Eng-Ford vs 5-Taylor-Mohrman
+        400    4.00   1.00 9-Ring-Abernethy vs 11-Tipton-Hesson
+        200    5.00   0.00 10-Zaugg-Moore vs 1-Gaffney-Sorenson
+        460    0.00   5.00 12-Christensen-Stevens vs 4-Gokhale-Christie
+        430    2.00   3.00 13-Sieg-Rasmussen vs 7-Xiao-Yan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    2.00   3.00 2-Ruprecht-Jarvis vs 3-Delfs-Anderson
+        510    2.00   3.00 8-Eng-Ford vs 5-Taylor-Mohrman
+        510    2.00   3.00 9-Ring-Abernethy vs 11-Tipton-Hesson
+        420    5.00   0.00 10-Zaugg-Moore vs 1-Gaffney-Sorenson
+        510    2.00   3.00 12-Christensen-Stevens vs 4-Gokhale-Christie
+        510    2.00   3.00 13-Sieg-Rasmussen vs 7-Xiao-Yan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   5.00 1-Gaffney-Sorenson vs 8-Eng-Ford
+  420          2.00   3.00 3-Delfs-Anderson vs 4-Gokhale-Christie
+  420          2.00   3.00 9-Ring-Abernethy vs 6-Miller-Romeo
+  450          4.50   0.50 10-Zaugg-Moore vs 12-Christensen-Stevens
+  450          4.50   0.50 11-Tipton-Hesson vs 2-Ruprecht-Jarvis
+  420          2.00   3.00 13-Sieg-Rasmussen vs 5-Taylor-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 1-Gaffney-Sorenson vs 8-Eng-Ford
+        100    0.50   4.50 3-Delfs-Anderson vs 4-Gokhale-Christie
+  630          3.00   2.00 9-Ring-Abernethy vs 6-Miller-Romeo
+  630          3.00   2.00 10-Zaugg-Moore vs 12-Christensen-Stevens
+  630          3.00   2.00 11-Tipton-Hesson vs 2-Ruprecht-Jarvis
+  660          5.00   0.00 13-Sieg-Rasmussen vs 5-Taylor-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   2.50 1-Gaffney-Sorenson vs 6-Miller-Romeo
+        400    1.00   4.00 2-Ruprecht-Jarvis vs 9-Ring-Abernethy
+  100          4.50   0.50 4-Gokhale-Christie vs 5-Taylor-Mohrman
+  100          4.50   0.50 10-Zaugg-Moore vs 7-Xiao-Yan
+       1000    0.00   5.00 11-Tipton-Hesson vs 13-Sieg-Rasmussen
+   50          2.50   2.50 12-Christensen-Stevens vs 3-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   5.00 1-Gaffney-Sorenson vs 6-Miller-Romeo
+  450          5.00   0.00 2-Ruprecht-Jarvis vs 9-Ring-Abernethy
+  170          2.50   2.50 4-Gokhale-Christie vs 5-Taylor-Mohrman
+  170          2.50   2.50 10-Zaugg-Moore vs 7-Xiao-Yan
+  420          4.00   1.00 11-Tipton-Hesson vs 13-Sieg-Rasmussen
+  100          1.00   4.00 12-Christensen-Stevens vs 3-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   5.00 2-Ruprecht-Jarvis vs 7-Xiao-Yan
+        130    2.00   3.00 3-Delfs-Anderson vs 10-Zaugg-Moore
+        180    1.00   4.00 5-Taylor-Mohrman vs 6-Miller-Romeo
+  100          3.50   1.50 11-Tipton-Hesson vs 8-Eng-Ford
+  200          5.00   0.00 12-Christensen-Stevens vs 1-Gaffney-Sorenson
+  100          3.50   1.50 13-Sieg-Rasmussen vs 4-Gokhale-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   0.00 2-Ruprecht-Jarvis vs 7-Xiao-Yan
+        150    1.00   4.00 3-Delfs-Anderson vs 10-Zaugg-Moore
+        120    2.50   2.50 5-Taylor-Mohrman vs 6-Miller-Romeo
+        120    2.50   2.50 11-Tipton-Hesson vs 8-Eng-Ford
+         90    4.00   1.00 12-Christensen-Stevens vs 1-Gaffney-Sorenson
+        400    0.00   5.00 13-Sieg-Rasmussen vs 4-Gokhale-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 1-Gaffney-Sorenson vs 5-Taylor-Mohrman
+   90          1.50   3.50 3-Delfs-Anderson vs 8-Eng-Ford
+   90          1.50   3.50 4-Gokhale-Christie vs 11-Tipton-Hesson
+  120          5.00   0.00 6-Miller-Romeo vs 7-Xiao-Yan
+  110          4.00   1.00 12-Christensen-Stevens vs 9-Ring-Abernethy
+         50    0.00   5.00 13-Sieg-Rasmussen vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 1-Gaffney-Sorenson vs 5-Taylor-Mohrman
+  660          3.00   2.00 3-Delfs-Anderson vs 8-Eng-Ford
+  660          3.00   2.00 4-Gokhale-Christie vs 11-Tipton-Hesson
+  660          3.00   2.00 6-Miller-Romeo vs 7-Xiao-Yan
+  660          3.00   2.00 12-Christensen-Stevens vs 9-Ring-Abernethy
+  660          3.00   2.00 13-Sieg-Rasmussen vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
