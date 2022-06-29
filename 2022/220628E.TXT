@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 28, 2022      |CLUB NO.>158048    | 06/28/2022 22:10
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Upgraded Club Championship   |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=5/C=1                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Hugh Hendrickson       Nelson Davis             B   4     2     .   |   4     2     .     57.00  52.78  1.37(OB)
+
+ 2 Ray Miller             Arthur Gong              A   .     .     .   |   .     .     .     56.50  52.31          
+
+ 3 David Taylor           Jim Rasmussen            A   .     .     .   |   .     .     .     55.50  51.39          
+
+ 4 Bryan Delfs            Dave Grubbs              A   .     .     .   |   .     .     .     48.00  44.44          
+
+ 5 David Wright           Mike Christensen         A   3     .     .   |   3     .     .     58.00  53.70  1.58(OA)
+
+ 6 Shawn Abernethy        Sue Anderson             B   .     .     .   |   .     .     .     53.00  49.07          
+
+ 7 Christopher Jarvis     Adam Ruprecht            C   1     1     .   |   1     1     .     62.50  57.87  2.81(OA)
+
+ 8 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     45.00  41.67          
+
+ 9 Mike Ring              Brian Zaugg              A   2     .     .   |   2     .     .     58.50  54.17  2.11(OA)
+
+10 Curt Peterson          Ann Romeo                B   .     .     .   |   .     .     .     46.00  42.59          
+
+
+                                          Totals                                            540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   1.00 1-Hendrickson-Davis vs 4-Delfs-Grubbs
+  110          2.00   2.00 2-Miller-Gong vs 9-Ring-Zaugg
+  100          0.50   3.50 3-Taylor-Rasmussen vs 7-Jarvis-Ruprecht
+  100          0.50   3.50 5-Wright-Christensen vs 6-Abernethy-Anderson
+  170          4.00   0.00 10-Peterson-Romeo vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          3.00   1.00 1-Hendrickson-Davis vs 4-Delfs-Grubbs
+  500          3.00   1.00 2-Miller-Gong vs 9-Ring-Zaugg
+  500          3.00   1.00 3-Taylor-Rasmussen vs 7-Jarvis-Ruprecht
+        200    1.00   3.00 5-Wright-Christensen vs 6-Abernethy-Anderson
+        300    0.00   4.00 10-Peterson-Romeo vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          2.00   2.00 1-Hendrickson-Davis vs 4-Delfs-Grubbs
+  480          1.00   3.00 2-Miller-Gong vs 9-Ring-Zaugg
+ 1010          3.00   1.00 3-Taylor-Rasmussen vs 7-Jarvis-Ruprecht
+ 1210          4.00   0.00 5-Wright-Christensen vs 6-Abernethy-Anderson
+       1540    0.00   4.00 10-Peterson-Romeo vs 8-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   1.00 2-Miller-Gong vs 5-Wright-Christensen
+  600          4.00   0.00 3-Taylor-Rasmussen vs 1-Hendrickson-Davis
+  150          1.50   2.50 4-Delfs-Grubbs vs 8-Tipton-Hesson
+  150          1.50   2.50 6-Abernethy-Anderson vs 7-Jarvis-Ruprecht
+  100          0.00   4.00 10-Peterson-Romeo vs 9-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.00   1.00 2-Miller-Gong vs 5-Wright-Christensen
+  660          3.00   1.00 3-Taylor-Rasmussen vs 1-Hendrickson-Davis
+  660          3.00   1.00 4-Delfs-Grubbs vs 8-Tipton-Hesson
+  500          0.00   4.00 6-Abernethy-Anderson vs 7-Jarvis-Ruprecht
+  630          1.00   3.00 10-Peterson-Romeo vs 9-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.50   2.50 2-Miller-Gong vs 5-Wright-Christensen
+        120    0.00   4.00 3-Taylor-Rasmussen vs 1-Hendrickson-Davis
+  300          3.50   0.50 4-Delfs-Grubbs vs 8-Tipton-Hesson
+  200          1.50   2.50 6-Abernethy-Anderson vs 7-Jarvis-Ruprecht
+  300          3.50   0.50 10-Peterson-Romeo vs 9-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.50   3.50 3-Taylor-Rasmussen vs 6-Abernethy-Anderson
+        650    0.50   3.50 4-Delfs-Grubbs vs 2-Miller-Gong
+        620    3.00   1.00 5-Wright-Christensen vs 9-Ring-Zaugg
+        620    3.00   1.00 7-Jarvis-Ruprecht vs 8-Tipton-Hesson
+        620    3.00   1.00 10-Peterson-Romeo vs 1-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    1.50   2.50 3-Taylor-Rasmussen vs 6-Abernethy-Anderson
+        520    0.00   4.00 4-Delfs-Grubbs vs 2-Miller-Gong
+        490    1.50   2.50 5-Wright-Christensen vs 9-Ring-Zaugg
+  100          4.00   0.00 7-Jarvis-Ruprecht vs 8-Tipton-Hesson
+        150    3.00   1.00 10-Peterson-Romeo vs 1-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   1.50 3-Taylor-Rasmussen vs 6-Abernethy-Anderson
+  450          2.50   1.50 4-Delfs-Grubbs vs 2-Miller-Gong
+  450          2.50   1.50 5-Wright-Christensen vs 9-Ring-Zaugg
+  450          2.50   1.50 7-Jarvis-Ruprecht vs 8-Tipton-Hesson
+  420          0.00   4.00 10-Peterson-Romeo vs 1-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.00   3.00 4-Delfs-Grubbs vs 7-Jarvis-Ruprecht
+  650          3.50   0.50 5-Wright-Christensen vs 3-Taylor-Rasmussen
+  620          1.00   3.00 6-Abernethy-Anderson vs 1-Hendrickson-Davis
+  620          1.00   3.00 8-Tipton-Hesson vs 9-Ring-Zaugg
+  650          3.50   0.50 10-Peterson-Romeo vs 2-Miller-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 4-Delfs-Grubbs vs 7-Jarvis-Ruprecht
+  110          3.50   0.50 5-Wright-Christensen vs 3-Taylor-Rasmussen
+  110          3.50   0.50 6-Abernethy-Anderson vs 1-Hendrickson-Davis
+         50    1.00   3.00 8-Tipton-Hesson vs 9-Ring-Zaugg
+         50    1.00   3.00 10-Peterson-Romeo vs 2-Miller-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   1.50 4-Delfs-Grubbs vs 7-Jarvis-Ruprecht
+        500    0.00   4.00 5-Wright-Christensen vs 3-Taylor-Rasmussen
+        450    2.50   1.50 6-Abernethy-Anderson vs 1-Hendrickson-Davis
+        450    2.50   1.50 8-Tipton-Hesson vs 9-Ring-Zaugg
+        450    2.50   1.50 10-Peterson-Romeo vs 2-Miller-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   2.50 5-Wright-Christensen vs 8-Tipton-Hesson
+  110          3.50   0.50 6-Abernethy-Anderson vs 4-Delfs-Grubbs
+  110          3.50   0.50 7-Jarvis-Ruprecht vs 2-Miller-Gong
+        100    1.50   2.50 9-Ring-Zaugg vs 1-Hendrickson-Davis
+        800    0.00   4.00 10-Peterson-Romeo vs 3-Taylor-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.00   2.00 5-Wright-Christensen vs 8-Tipton-Hesson
+        460    0.00   4.00 6-Abernethy-Anderson vs 4-Delfs-Grubbs
+   50          3.00   1.00 7-Jarvis-Ruprecht vs 2-Miller-Gong
+  530          4.00   0.00 9-Ring-Zaugg vs 1-Hendrickson-Davis
+        400    1.00   3.00 10-Peterson-Romeo vs 3-Taylor-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   1.50 5-Wright-Christensen vs 8-Tipton-Hesson
+        140    1.00   3.00 6-Abernethy-Anderson vs 4-Delfs-Grubbs
+        150    0.00   4.00 7-Jarvis-Ruprecht vs 2-Miller-Gong
+        110    2.50   1.50 9-Ring-Zaugg vs 1-Hendrickson-Davis
+        100    4.00   0.00 10-Peterson-Romeo vs 3-Taylor-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 1-Hendrickson-Davis vs 2-Miller-Gong
+  110          3.50   0.50 6-Abernethy-Anderson vs 9-Ring-Zaugg
+         50    1.00   3.00 7-Jarvis-Ruprecht vs 5-Wright-Christensen
+         50    1.00   3.00 8-Tipton-Hesson vs 3-Taylor-Rasmussen
+  110          3.50   0.50 10-Peterson-Romeo vs 4-Delfs-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   1.50 1-Hendrickson-Davis vs 2-Miller-Gong
+  450          2.50   1.50 6-Abernethy-Anderson vs 9-Ring-Zaugg
+  430          0.00   4.00 7-Jarvis-Ruprecht vs 5-Wright-Christensen
+  450          2.50   1.50 8-Tipton-Hesson vs 3-Taylor-Rasmussen
+  450          2.50   1.50 10-Peterson-Romeo vs 4-Delfs-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   0.00 1-Hendrickson-Davis vs 2-Miller-Gong
+        450    1.50   2.50 6-Abernethy-Anderson vs 9-Ring-Zaugg
+        450    1.50   2.50 7-Jarvis-Ruprecht vs 5-Wright-Christensen
+        450    1.50   2.50 8-Tipton-Hesson vs 3-Taylor-Rasmussen
+        450    1.50   2.50 10-Peterson-Romeo vs 4-Delfs-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   2.50 2-Miller-Gong vs 3-Taylor-Rasmussen
+        630    3.00   1.00 7-Jarvis-Ruprecht vs 1-Hendrickson-Davis
+        200    4.00   0.00 8-Tipton-Hesson vs 6-Abernethy-Anderson
+        650    1.50   2.50 9-Ring-Zaugg vs 4-Delfs-Grubbs
+        800    0.00   4.00 10-Peterson-Romeo vs 5-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   3.50 2-Miller-Gong vs 3-Taylor-Rasmussen
+        100    0.50   3.50 7-Jarvis-Ruprecht vs 1-Hendrickson-Davis
+  110          3.50   0.50 8-Tipton-Hesson vs 6-Abernethy-Anderson
+  100          2.00   2.00 9-Ring-Zaugg vs 4-Delfs-Grubbs
+  110          3.50   0.50 10-Peterson-Romeo vs 5-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   1.50 2-Miller-Gong vs 3-Taylor-Rasmussen
+  710          4.00   0.00 7-Jarvis-Ruprecht vs 1-Hendrickson-Davis
+   50          0.50   3.50 8-Tipton-Hesson vs 6-Abernethy-Anderson
+  100          2.50   1.50 9-Ring-Zaugg vs 4-Delfs-Grubbs
+   50          0.50   3.50 10-Peterson-Romeo vs 5-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.50   0.50 1-Hendrickson-Davis vs 5-Wright-Christensen
+        140    0.50   3.50 3-Taylor-Rasmussen vs 4-Delfs-Grubbs
+        140    0.50   3.50 8-Tipton-Hesson vs 2-Miller-Gong
+  130          3.50   0.50 9-Ring-Zaugg vs 7-Jarvis-Ruprecht
+  110          2.00   2.00 10-Peterson-Romeo vs 6-Abernethy-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.00   1.00 1-Hendrickson-Davis vs 5-Wright-Christensen
+        120    4.00   0.00 3-Taylor-Rasmussen vs 4-Delfs-Grubbs
+        600    1.00   3.00 8-Tipton-Hesson vs 2-Miller-Gong
+        600    1.00   3.00 9-Ring-Zaugg vs 7-Jarvis-Ruprecht
+        600    1.00   3.00 10-Peterson-Romeo vs 6-Abernethy-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.00   2.00 1-Hendrickson-Davis vs 5-Wright-Christensen
+        420    2.00   2.00 3-Taylor-Rasmussen vs 4-Delfs-Grubbs
+        420    2.00   2.00 8-Tipton-Hesson vs 2-Miller-Gong
+        420    2.00   2.00 9-Ring-Zaugg vs 7-Jarvis-Ruprecht
+        420    2.00   2.00 10-Peterson-Romeo vs 6-Abernethy-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   0.50 1-Hendrickson-Davis vs 8-Tipton-Hesson
+  110          2.00   2.00 2-Miller-Gong vs 6-Abernethy-Anderson
+        150    0.00   4.00 4-Delfs-Grubbs vs 5-Wright-Christensen
+  140          3.50   0.50 9-Ring-Zaugg vs 3-Taylor-Rasmussen
+         50    1.00   3.00 10-Peterson-Romeo vs 7-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   2.00 1-Hendrickson-Davis vs 8-Tipton-Hesson
+        110    0.00   4.00 2-Miller-Gong vs 6-Abernethy-Anderson
+  140          4.00   0.00 4-Delfs-Grubbs vs 5-Wright-Christensen
+        100    2.00   2.00 9-Ring-Zaugg vs 3-Taylor-Rasmussen
+        100    2.00   2.00 10-Peterson-Romeo vs 7-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   1.00 1-Hendrickson-Davis vs 8-Tipton-Hesson
+  460          4.00   0.00 2-Miller-Gong vs 6-Abernethy-Anderson
+  400          1.00   3.00 4-Delfs-Grubbs vs 5-Wright-Christensen
+  420          2.00   2.00 9-Ring-Zaugg vs 3-Taylor-Rasmussen
+         50    0.00   4.00 10-Peterson-Romeo vs 7-Jarvis-Ruprecht
+----------------------------------------------------------------------
