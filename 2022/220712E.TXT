@@ -1,0 +1,621 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 12, 2022      |CLUB NO.>158048    | 07/12/2022 22:13
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   42.0 |TOP>   3 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=3/C=0                       ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Becky Stevens          Stanford Christie        A   Q            3     .     .   |   3     .     .     47.50  56.55  0.74Red 
+                                                                                                                        0.74Blk 
+ 2 Aaron Mohrman           Melike                  B       Q        .     .     .   |   .     1     .     39.00  46.43  0.43Red 
+                                                                                                                        0.42Blk 
+ 3 Shawn Abernethy        Brian Zaugg              A                .     .     .   |   .     .     .     41.50  49.40          
+
+ 4 Bryan Delfs            Sue Anderson             A   Q            2     .     .   |   2     .     .     48.50  57.74  0.99Red 
+                                                                                                                        0.98Blk 
+ 5 Curt Peterson          Ann Romeo                B       Q        .     .     .   |   .     .     .     36.50  43.45          
+
+ 6 Mike Christensen       Mike Ring                A   Q            1     .     .   |   1     .     .     50.00  59.52  1.32Red 
+                                                                                                                        1.31Blk 
+ 7 Nick Tipton            Galen Hesson             A   Q            .     .     .   |   .     .     .     42.00  50.00          
+
+ 8 Lisa Brock             Craig Mills              B       Q        .     .     .   |   .     .     .     31.00  36.90          
+
+
+                                          Totals                                                         336.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1010    1.00   2.00 4-Delfs-Anderson vs 2-Mohrman-Melike
+        980    2.00   1.00 6-Christensen-Ring vs 5-Peterson-Romeo
+       1510    0.00   3.00 7-Tipton-Hesson vs 3-Abernethy-Zaugg
+        510    3.00   0.00 8-Brock-Mills vs 1-Stevens-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    0.00   3.00 4-Delfs-Anderson vs 2-Mohrman-Melike
+  150          2.50   0.50 6-Christensen-Ring vs 5-Peterson-Romeo
+   50          1.00   2.00 7-Tipton-Hesson vs 3-Abernethy-Zaugg
+  150          2.50   0.50 8-Brock-Mills vs 1-Stevens-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   1.00 4-Delfs-Anderson vs 2-Mohrman-Melike
+  100          3.00   0.00 6-Christensen-Ring vs 5-Peterson-Romeo
+        620    0.50   2.50 7-Tipton-Hesson vs 3-Abernethy-Zaugg
+        620    0.50   2.50 8-Brock-Mills vs 1-Stevens-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   1.50 4-Delfs-Anderson vs 2-Mohrman-Melike
+        600    0.00   3.00 6-Christensen-Ring vs 5-Peterson-Romeo
+  200          3.00   0.00 7-Tipton-Hesson vs 3-Abernethy-Zaugg
+        100    1.50   1.50 8-Brock-Mills vs 1-Stevens-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   2.00 1-Stevens-Christie vs 4-Delfs-Anderson
+        450    1.00   2.00 5-Peterson-Romeo vs 3-Abernethy-Zaugg
+        450    1.00   2.00 7-Tipton-Hesson vs 6-Christensen-Ring
+        170    3.00   0.00 8-Brock-Mills vs 2-Mohrman-Melike
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.00   0.00 1-Stevens-Christie vs 4-Delfs-Anderson
+        650    1.00   2.00 5-Peterson-Romeo vs 3-Abernethy-Zaugg
+        650    1.00   2.00 7-Tipton-Hesson vs 6-Christensen-Ring
+        650    1.00   2.00 8-Brock-Mills vs 2-Mohrman-Melike
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          3.00   0.00 1-Stevens-Christie vs 4-Delfs-Anderson
+        100    1.50   1.50 5-Peterson-Romeo vs 3-Abernethy-Zaugg
+        100    1.50   1.50 7-Tipton-Hesson vs 6-Christensen-Ring
+        200    0.00   3.00 8-Brock-Mills vs 2-Mohrman-Melike
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1020    0.50   2.50 1-Stevens-Christie vs 4-Delfs-Anderson
+       1010    2.00   1.00 5-Peterson-Romeo vs 3-Abernethy-Zaugg
+        940    3.00   0.00 7-Tipton-Hesson vs 6-Christensen-Ring
+       1020    0.50   2.50 8-Brock-Mills vs 2-Mohrman-Melike
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    3.00   0.00 1-Stevens-Christie vs 7-Tipton-Hesson
+        690    1.00   2.00 2-Mohrman-Melike vs 5-Peterson-Romeo
+        690    1.00   2.00 6-Christensen-Ring vs 4-Delfs-Anderson
+        690    1.00   2.00 8-Brock-Mills vs 3-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.50   1.50 1-Stevens-Christie vs 7-Tipton-Hesson
+  650          1.50   1.50 2-Mohrman-Melike vs 5-Peterson-Romeo
+  650          1.50   1.50 6-Christensen-Ring vs 4-Delfs-Anderson
+  650          1.50   1.50 8-Brock-Mills vs 3-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   0.00 1-Stevens-Christie vs 7-Tipton-Hesson
+        150    2.00   1.00 2-Mohrman-Melike vs 5-Peterson-Romeo
+        170    1.00   2.00 6-Christensen-Ring vs 4-Delfs-Anderson
+        420    0.00   3.00 8-Brock-Mills vs 3-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        230    3.00   0.00 1-Stevens-Christie vs 7-Tipton-Hesson
+        480    1.00   2.00 2-Mohrman-Melike vs 5-Peterson-Romeo
+        480    1.00   2.00 6-Christensen-Ring vs 4-Delfs-Anderson
+        480    1.00   2.00 8-Brock-Mills vs 3-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          1.00   2.00 2-Mohrman-Melike vs 1-Stevens-Christie
+ 1430          3.00   0.00 3-Abernethy-Zaugg vs 6-Christensen-Ring
+  680          1.00   2.00 7-Tipton-Hesson vs 5-Peterson-Romeo
+  680          1.00   2.00 8-Brock-Mills vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.50   1.50 2-Mohrman-Melike vs 1-Stevens-Christie
+        460    1.50   1.50 3-Abernethy-Zaugg vs 6-Christensen-Ring
+        460    1.50   1.50 7-Tipton-Hesson vs 5-Peterson-Romeo
+        460    1.50   1.50 8-Brock-Mills vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   0.50 2-Mohrman-Melike vs 1-Stevens-Christie
+        420    0.50   2.50 3-Abernethy-Zaugg vs 6-Christensen-Ring
+        170    2.50   0.50 7-Tipton-Hesson vs 5-Peterson-Romeo
+        420    0.50   2.50 8-Brock-Mills vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.50   0.50 2-Mohrman-Melike vs 1-Stevens-Christie
+         50    0.00   3.00 3-Abernethy-Zaugg vs 6-Christensen-Ring
+  420          2.50   0.50 7-Tipton-Hesson vs 5-Peterson-Romeo
+  140          1.00   2.00 8-Brock-Mills vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   1.00 1-Stevens-Christie vs 6-Christensen-Ring
+  550          3.00   0.00 3-Abernethy-Zaugg vs 2-Mohrman-Melike
+  130          0.50   2.50 4-Delfs-Anderson vs 7-Tipton-Hesson
+  130          0.50   2.50 8-Brock-Mills vs 5-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.00   1.00 1-Stevens-Christie vs 6-Christensen-Ring
+  660          1.00   2.00 3-Abernethy-Zaugg vs 2-Mohrman-Melike
+  620          0.00   3.00 4-Delfs-Anderson vs 7-Tipton-Hesson
+ 1430          3.00   0.00 8-Brock-Mills vs 5-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   1.50 1-Stevens-Christie vs 6-Christensen-Ring
+        650    1.50   1.50 3-Abernethy-Zaugg vs 2-Mohrman-Melike
+        650    1.50   1.50 4-Delfs-Anderson vs 7-Tipton-Hesson
+        650    1.50   1.50 8-Brock-Mills vs 5-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   0.00 1-Stevens-Christie vs 6-Christensen-Ring
+  170          2.00   1.00 3-Abernethy-Zaugg vs 2-Mohrman-Melike
+  110          1.00   2.00 4-Delfs-Anderson vs 7-Tipton-Hesson
+  100          0.00   3.00 8-Brock-Mills vs 5-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          0.50   2.50 2-Mohrman-Melike vs 7-Tipton-Hesson
+  620          3.00   0.00 4-Delfs-Anderson vs 3-Abernethy-Zaugg
+  200          2.00   1.00 5-Peterson-Romeo vs 1-Stevens-Christie
+  170          0.50   2.50 8-Brock-Mills vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   1.00 2-Mohrman-Melike vs 7-Tipton-Hesson
+  490          3.00   0.00 4-Delfs-Anderson vs 3-Abernethy-Zaugg
+  170          0.50   2.50 5-Peterson-Romeo vs 1-Stevens-Christie
+  170          0.50   2.50 8-Brock-Mills vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   1.00 2-Mohrman-Melike vs 7-Tipton-Hesson
+        170    2.00   1.00 4-Delfs-Anderson vs 3-Abernethy-Zaugg
+        170    2.00   1.00 5-Peterson-Romeo vs 1-Stevens-Christie
+        620    0.00   3.00 8-Brock-Mills vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    1.00   2.00 2-Mohrman-Melike vs 7-Tipton-Hesson
+        130    3.00   0.00 4-Delfs-Anderson vs 3-Abernethy-Zaugg
+        150    2.00   1.00 5-Peterson-Romeo vs 1-Stevens-Christie
+        400    0.00   3.00 8-Brock-Mills vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   1.00 3-Abernethy-Zaugg vs 1-Stevens-Christie
+  420          1.00   2.00 5-Peterson-Romeo vs 4-Delfs-Anderson
+  480          3.00   0.00 6-Christensen-Ring vs 2-Mohrman-Melike
+  200          0.00   3.00 8-Brock-Mills vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          1.50   1.50 3-Abernethy-Zaugg vs 1-Stevens-Christie
+  660          0.00   3.00 5-Peterson-Romeo vs 4-Delfs-Anderson
+  720          3.00   0.00 6-Christensen-Ring vs 2-Mohrman-Melike
+  690          1.50   1.50 8-Brock-Mills vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   1.00 3-Abernethy-Zaugg vs 1-Stevens-Christie
+  170          0.00   3.00 5-Peterson-Romeo vs 4-Delfs-Anderson
+  420          2.00   1.00 6-Christensen-Ring vs 2-Mohrman-Melike
+  420          2.00   1.00 8-Brock-Mills vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    0.00   3.00 3-Abernethy-Zaugg vs 1-Stevens-Christie
+        100    1.00   2.00 5-Peterson-Romeo vs 4-Delfs-Anderson
+  120          3.00   0.00 6-Christensen-Ring vs 2-Mohrman-Melike
+   50          2.00   1.00 8-Brock-Mills vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 12, 2022      |CLUB NO.>158048    | 07/12/2022 22:13
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   42.0 |TOP>   3 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=3/C=0                       ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Becky Stevens          Stanford Christie        A   Q            3     .     .   |   3     .     .     47.50  56.55  0.74Red 
+                                                                                                                        0.74Blk 
+ 2 Aaron Mohrman           Melike                  B       Q        .     .     .   |   .     1     .     39.00  46.43  0.43Red 
+                                                                                                                        0.42Blk 
+ 3 Shawn Abernethy        Brian Zaugg              A                .     .     .   |   .     .     .     41.50  49.40          
+
+ 4 Bryan Delfs            Sue Anderson             A   Q            2     .     .   |   2     .     .     48.50  57.74  0.99Red 
+                                                                                                                        0.98Blk 
+ 5 Curt Peterson          Ann Romeo                B       Q        .     .     .   |   .     .     .     36.50  43.45          
+
+ 6 Mike Christensen       Mike Ring                A   Q            1     .     .   |   1     .     .     50.00  59.52  1.32Red 
+                                                                                                                        1.31Blk 
+ 7 Nick Tipton            Galen Hesson             A   Q            .     .     .   |   .     .     .     42.00  50.00          
+
+ 8 Lisa Brock             Craig Mills              B       Q        .     .     .   |   .     .     .     31.00  36.90          
+
+
+                                          Totals                                                         336.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1010    1.00   2.00 4-Delfs-Anderson vs 2-Mohrman-Melike
+        980    2.00   1.00 6-Christensen-Ring vs 5-Peterson-Romeo
+       1510    0.00   3.00 7-Tipton-Hesson vs 3-Abernethy-Zaugg
+        510    3.00   0.00 8-Brock-Mills vs 1-Stevens-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    0.00   3.00 4-Delfs-Anderson vs 2-Mohrman-Melike
+  150          2.50   0.50 6-Christensen-Ring vs 5-Peterson-Romeo
+   50          1.00   2.00 7-Tipton-Hesson vs 3-Abernethy-Zaugg
+  150          2.50   0.50 8-Brock-Mills vs 1-Stevens-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   1.00 4-Delfs-Anderson vs 2-Mohrman-Melike
+  100          3.00   0.00 6-Christensen-Ring vs 5-Peterson-Romeo
+        620    0.50   2.50 7-Tipton-Hesson vs 3-Abernethy-Zaugg
+        620    0.50   2.50 8-Brock-Mills vs 1-Stevens-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   1.50 4-Delfs-Anderson vs 2-Mohrman-Melike
+        600    0.00   3.00 6-Christensen-Ring vs 5-Peterson-Romeo
+  200          3.00   0.00 7-Tipton-Hesson vs 3-Abernethy-Zaugg
+        100    1.50   1.50 8-Brock-Mills vs 1-Stevens-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   2.00 1-Stevens-Christie vs 4-Delfs-Anderson
+        450    1.00   2.00 5-Peterson-Romeo vs 3-Abernethy-Zaugg
+        450    1.00   2.00 7-Tipton-Hesson vs 6-Christensen-Ring
+        170    3.00   0.00 8-Brock-Mills vs 2-Mohrman-Melike
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.00   0.00 1-Stevens-Christie vs 4-Delfs-Anderson
+        650    1.00   2.00 5-Peterson-Romeo vs 3-Abernethy-Zaugg
+        650    1.00   2.00 7-Tipton-Hesson vs 6-Christensen-Ring
+        650    1.00   2.00 8-Brock-Mills vs 2-Mohrman-Melike
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          3.00   0.00 1-Stevens-Christie vs 4-Delfs-Anderson
+        100    1.50   1.50 5-Peterson-Romeo vs 3-Abernethy-Zaugg
+        100    1.50   1.50 7-Tipton-Hesson vs 6-Christensen-Ring
+        200    0.00   3.00 8-Brock-Mills vs 2-Mohrman-Melike
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1020    0.50   2.50 1-Stevens-Christie vs 4-Delfs-Anderson
+       1010    2.00   1.00 5-Peterson-Romeo vs 3-Abernethy-Zaugg
+        940    3.00   0.00 7-Tipton-Hesson vs 6-Christensen-Ring
+       1020    0.50   2.50 8-Brock-Mills vs 2-Mohrman-Melike
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    3.00   0.00 1-Stevens-Christie vs 7-Tipton-Hesson
+        690    1.00   2.00 2-Mohrman-Melike vs 5-Peterson-Romeo
+        690    1.00   2.00 6-Christensen-Ring vs 4-Delfs-Anderson
+        690    1.00   2.00 8-Brock-Mills vs 3-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.50   1.50 1-Stevens-Christie vs 7-Tipton-Hesson
+  650          1.50   1.50 2-Mohrman-Melike vs 5-Peterson-Romeo
+  650          1.50   1.50 6-Christensen-Ring vs 4-Delfs-Anderson
+  650          1.50   1.50 8-Brock-Mills vs 3-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   0.00 1-Stevens-Christie vs 7-Tipton-Hesson
+        150    2.00   1.00 2-Mohrman-Melike vs 5-Peterson-Romeo
+        170    1.00   2.00 6-Christensen-Ring vs 4-Delfs-Anderson
+        420    0.00   3.00 8-Brock-Mills vs 3-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        230    3.00   0.00 1-Stevens-Christie vs 7-Tipton-Hesson
+        480    1.00   2.00 2-Mohrman-Melike vs 5-Peterson-Romeo
+        480    1.00   2.00 6-Christensen-Ring vs 4-Delfs-Anderson
+        480    1.00   2.00 8-Brock-Mills vs 3-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          1.00   2.00 2-Mohrman-Melike vs 1-Stevens-Christie
+ 1430          3.00   0.00 3-Abernethy-Zaugg vs 6-Christensen-Ring
+  680          1.00   2.00 7-Tipton-Hesson vs 5-Peterson-Romeo
+  680          1.00   2.00 8-Brock-Mills vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.50   1.50 2-Mohrman-Melike vs 1-Stevens-Christie
+        460    1.50   1.50 3-Abernethy-Zaugg vs 6-Christensen-Ring
+        460    1.50   1.50 7-Tipton-Hesson vs 5-Peterson-Romeo
+        460    1.50   1.50 8-Brock-Mills vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   0.50 2-Mohrman-Melike vs 1-Stevens-Christie
+        420    0.50   2.50 3-Abernethy-Zaugg vs 6-Christensen-Ring
+        170    2.50   0.50 7-Tipton-Hesson vs 5-Peterson-Romeo
+        420    0.50   2.50 8-Brock-Mills vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.50   0.50 2-Mohrman-Melike vs 1-Stevens-Christie
+         50    0.00   3.00 3-Abernethy-Zaugg vs 6-Christensen-Ring
+  420          2.50   0.50 7-Tipton-Hesson vs 5-Peterson-Romeo
+  140          1.00   2.00 8-Brock-Mills vs 4-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   1.00 1-Stevens-Christie vs 6-Christensen-Ring
+  550          3.00   0.00 3-Abernethy-Zaugg vs 2-Mohrman-Melike
+  130          0.50   2.50 4-Delfs-Anderson vs 7-Tipton-Hesson
+  130          0.50   2.50 8-Brock-Mills vs 5-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.00   1.00 1-Stevens-Christie vs 6-Christensen-Ring
+  660          1.00   2.00 3-Abernethy-Zaugg vs 2-Mohrman-Melike
+  620          0.00   3.00 4-Delfs-Anderson vs 7-Tipton-Hesson
+ 1430          3.00   0.00 8-Brock-Mills vs 5-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   1.50 1-Stevens-Christie vs 6-Christensen-Ring
+        650    1.50   1.50 3-Abernethy-Zaugg vs 2-Mohrman-Melike
+        650    1.50   1.50 4-Delfs-Anderson vs 7-Tipton-Hesson
+        650    1.50   1.50 8-Brock-Mills vs 5-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   0.00 1-Stevens-Christie vs 6-Christensen-Ring
+  170          2.00   1.00 3-Abernethy-Zaugg vs 2-Mohrman-Melike
+  110          1.00   2.00 4-Delfs-Anderson vs 7-Tipton-Hesson
+  100          0.00   3.00 8-Brock-Mills vs 5-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          0.50   2.50 2-Mohrman-Melike vs 7-Tipton-Hesson
+  620          3.00   0.00 4-Delfs-Anderson vs 3-Abernethy-Zaugg
+  200          2.00   1.00 5-Peterson-Romeo vs 1-Stevens-Christie
+  170          0.50   2.50 8-Brock-Mills vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   1.00 2-Mohrman-Melike vs 7-Tipton-Hesson
+  490          3.00   0.00 4-Delfs-Anderson vs 3-Abernethy-Zaugg
+  170          0.50   2.50 5-Peterson-Romeo vs 1-Stevens-Christie
+  170          0.50   2.50 8-Brock-Mills vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   1.00 2-Mohrman-Melike vs 7-Tipton-Hesson
+        170    2.00   1.00 4-Delfs-Anderson vs 3-Abernethy-Zaugg
+        170    2.00   1.00 5-Peterson-Romeo vs 1-Stevens-Christie
+        620    0.00   3.00 8-Brock-Mills vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    1.00   2.00 2-Mohrman-Melike vs 7-Tipton-Hesson
+        130    3.00   0.00 4-Delfs-Anderson vs 3-Abernethy-Zaugg
+        150    2.00   1.00 5-Peterson-Romeo vs 1-Stevens-Christie
+        400    0.00   3.00 8-Brock-Mills vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   1.00 3-Abernethy-Zaugg vs 1-Stevens-Christie
+  420          1.00   2.00 5-Peterson-Romeo vs 4-Delfs-Anderson
+  480          3.00   0.00 6-Christensen-Ring vs 2-Mohrman-Melike
+  200          0.00   3.00 8-Brock-Mills vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          1.50   1.50 3-Abernethy-Zaugg vs 1-Stevens-Christie
+  660          0.00   3.00 5-Peterson-Romeo vs 4-Delfs-Anderson
+  720          3.00   0.00 6-Christensen-Ring vs 2-Mohrman-Melike
+  690          1.50   1.50 8-Brock-Mills vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   1.00 3-Abernethy-Zaugg vs 1-Stevens-Christie
+  170          0.00   3.00 5-Peterson-Romeo vs 4-Delfs-Anderson
+  420          2.00   1.00 6-Christensen-Ring vs 2-Mohrman-Melike
+  420          2.00   1.00 8-Brock-Mills vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    0.00   3.00 3-Abernethy-Zaugg vs 1-Stevens-Christie
+        100    1.00   2.00 5-Peterson-Romeo vs 4-Delfs-Anderson
+  120          3.00   0.00 6-Christensen-Ring vs 2-Mohrman-Melike
+   50          2.00   1.00 8-Brock-Mills vs 7-Tipton-Hesson
+----------------------------------------------------------------------
