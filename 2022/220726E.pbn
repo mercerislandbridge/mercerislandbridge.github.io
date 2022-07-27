@@ -18,13 +18,13 @@ S  S  7
 W  S  6
 N  S  7
 E  H  8
-S  H  5
+S  H  4
 W  H  8
-N  H  4
+N  H  5
 E  D  4
-S  D  9
+S  D  8
 W  D  4
-N  D  8
+N  D  9
 E  C  7
 S  C  6
 W  C  7
@@ -48,9 +48,9 @@ S  S  6
 W  S  7
 N  S  6
 E  H  7
-S  H  6
+S  H  5
 W  H  7
-N  H  5
+N  H  6
 E  D  8
 S  D  5
 W  D  7
@@ -370,9 +370,9 @@ N  C 10
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  4
-S NT  7
+S NT  8
 W NT  4
-N NT  8
+N NT  7
 E  S 10
 S  S  3
 W  S 10
@@ -464,9 +464,9 @@ S NT  3
 W NT  9
 N NT  3
 E  S 10
-S  S  2
+S  S  3
 W  S 10
-N  S  3
+N  S  2
 E  H  7
 S  H  5
 W  H  7
@@ -618,9 +618,9 @@ S  S  8
 W  S  4
 N  S  8
 E  H  7
-S  H  6
+S  H  5
 W  H  7
-N  H  5
+N  H  6
 E  D 10
 S  D  3
 W  D 10
@@ -862,9 +862,9 @@ S  H  8
 W  H  4
 N  H  8
 E  D  5
-S  D  7
+S  D  8
 W  D  5
-N  D  8
+N  D  7
 E  C  5
 S  C  8
 W  C  5
@@ -910,9 +910,9 @@ N  C  6
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  8
-S NT  4
+S NT  5
 W NT  8
-N NT  5
+N NT  4
 E  S  7
 S  S  6
 W  S  7
@@ -922,9 +922,9 @@ S  H  3
 W  H 10
 N  H  3
 E  D  8
-S  D  3
+S  D  5
 W  D  8
-N  D  5
+N  D  3
 E  C  6
 S  C  7
 W  C  6
@@ -1008,9 +1008,9 @@ S  S  8
 W  S  5
 N  S  8
 E  H  9
-S  H  4
+S  H  3
 W  H  9
-N  H  3
+N  H  4
 E  D  9
 S  D  4
 W  D  9
