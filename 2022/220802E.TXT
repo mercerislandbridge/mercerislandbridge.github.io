@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 2, 2022     |CLUB NO.>158048    | 08/02/2022 22:40
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Greg       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B    .     .     .     44.50  41.20          
+
+ 2 Adam Ruprecht          Christopher Jarvis       C    .     .     .     44.50  41.20          
+
+ 3 Douglas Kuschner       Benjamin Kuschner        C    4     2     1     56.00  51.85  0.35(A) 
+
+ 4 Bryan Delfs            Mike Christensen         A    3     .     .     59.00  54.63  0.50(A) 
+
+ 5 Thang Phu              Gregory Herman           C    .     .    2/3    50.50  46.76  0.19(C) 
+
+ 6 Ray Miller             Jeffrey Ford             A    .     .     .     53.50  49.54          
+
+ 7 Kevin Cline            Becky Stevens            B    1     1     .     67.50  62.50  1.00(A) 
+
+ 8 Eric Sieg              James Holzhauer          A    2     .     .     60.00  55.56  0.70(A) 
+
+ 9 Arthur Gong            Nathan Gong              C    .     .    2/3    50.50  46.76  0.19(C) 
+
+10 Chris Moore            Kim Eng                  A    .     .     .     54.00  50.00          
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   0.00 1-Tipton-Hesson vs 4-Delfs-Christensen
+        650    0.00   4.00 2-Ruprecht-Jarvis vs 9-Gong-Gong
+        150    3.00   1.00 3-Kuschner-Kuschner vs 7-Cline-Stevens
+        300    2.00   2.00 5-Phu-Herman vs 6-Miller-Ford
+        500    1.00   3.00 10-Moore-Eng vs 8-Sieg-Holzhauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.50   2.50 1-Tipton-Hesson vs 4-Delfs-Christensen
+        150    1.50   2.50 2-Ruprecht-Jarvis vs 9-Gong-Gong
+        150    1.50   2.50 3-Kuschner-Kuschner vs 7-Cline-Stevens
+        120    4.00   0.00 5-Phu-Herman vs 6-Miller-Ford
+        150    1.50   2.50 10-Moore-Eng vs 8-Sieg-Holzhauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   4.00 1-Tipton-Hesson vs 4-Delfs-Christensen
+  120          1.50   2.50 2-Ruprecht-Jarvis vs 9-Gong-Gong
+  150          3.50   0.50 3-Kuschner-Kuschner vs 7-Cline-Stevens
+  120          1.50   2.50 5-Phu-Herman vs 6-Miller-Ford
+  150          3.50   0.50 10-Moore-Eng vs 8-Sieg-Holzhauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   3.00 2-Ruprecht-Jarvis vs 5-Phu-Herman
+  400          3.00   1.00 3-Kuschner-Kuschner vs 1-Tipton-Hesson
+  500          4.00   0.00 4-Delfs-Christensen vs 8-Sieg-Holzhauer
+        100    0.00   4.00 6-Miller-Ford vs 7-Cline-Stevens
+  120          2.00   2.00 10-Moore-Eng vs 9-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   3.50 2-Ruprecht-Jarvis vs 5-Phu-Herman
+  140          3.50   0.50 3-Kuschner-Kuschner vs 1-Tipton-Hesson
+  140          3.50   0.50 4-Delfs-Christensen vs 8-Sieg-Holzhauer
+        100    0.50   3.50 6-Miller-Ford vs 7-Cline-Stevens
+   50          2.00   2.00 10-Moore-Eng vs 9-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          1.50   2.50 2-Ruprecht-Jarvis vs 5-Phu-Herman
+  480          1.50   2.50 3-Kuschner-Kuschner vs 1-Tipton-Hesson
+  480          1.50   2.50 4-Delfs-Christensen vs 8-Sieg-Holzhauer
+  480          1.50   2.50 6-Miller-Ford vs 7-Cline-Stevens
+  980          4.00   0.00 10-Moore-Eng vs 9-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   1.00 3-Kuschner-Kuschner vs 6-Miller-Ford
+        200    1.50   2.50 4-Delfs-Christensen vs 2-Ruprecht-Jarvis
+        800    0.00   4.00 5-Phu-Herman vs 9-Gong-Gong
+        200    1.50   2.50 7-Cline-Stevens vs 8-Sieg-Holzhauer
+        100    4.00   0.00 10-Moore-Eng vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    0.00   4.00 3-Kuschner-Kuschner vs 6-Miller-Ford
+        450    2.50   1.50 4-Delfs-Christensen vs 2-Ruprecht-Jarvis
+        450    2.50   1.50 5-Phu-Herman vs 9-Gong-Gong
+        450    2.50   1.50 7-Cline-Stevens vs 8-Sieg-Holzhauer
+        450    2.50   1.50 10-Moore-Eng vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   2.00 3-Kuschner-Kuschner vs 6-Miller-Ford
+        800    0.00   4.00 4-Delfs-Christensen vs 2-Ruprecht-Jarvis
+        650    2.00   2.00 5-Phu-Herman vs 9-Gong-Gong
+        650    2.00   2.00 7-Cline-Stevens vs 8-Sieg-Holzhauer
+  100          4.00   0.00 10-Moore-Eng vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   4.00 4-Delfs-Christensen vs 7-Cline-Stevens
+  140          2.50   1.50 5-Phu-Herman vs 3-Kuschner-Kuschner
+  140          2.50   1.50 6-Miller-Ford vs 1-Tipton-Hesson
+  140          2.50   1.50 8-Sieg-Holzhauer vs 9-Gong-Gong
+  140          2.50   1.50 10-Moore-Eng vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   4.00 4-Delfs-Christensen vs 7-Cline-Stevens
+  100          3.00   1.00 5-Phu-Herman vs 3-Kuschner-Kuschner
+         50    2.00   2.00 6-Miller-Ford vs 1-Tipton-Hesson
+  500          4.00   0.00 8-Sieg-Holzhauer vs 9-Gong-Gong
+        110    1.00   3.00 10-Moore-Eng vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   4.00 4-Delfs-Christensen vs 7-Cline-Stevens
+        210    2.00   2.00 5-Phu-Herman vs 3-Kuschner-Kuschner
+        120    4.00   0.00 6-Miller-Ford vs 1-Tipton-Hesson
+        420    1.00   3.00 8-Sieg-Holzhauer vs 9-Gong-Gong
+        170    3.00   1.00 10-Moore-Eng vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.50   3.50 5-Phu-Herman vs 8-Sieg-Holzhauer
+  500          3.00   1.00 6-Miller-Ford vs 4-Delfs-Christensen
+  400          2.00   2.00 7-Cline-Stevens vs 2-Ruprecht-Jarvis
+  650          4.00   0.00 9-Gong-Gong vs 1-Tipton-Hesson
+  200          0.50   3.50 10-Moore-Eng vs 3-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   2.00 5-Phu-Herman vs 8-Sieg-Holzhauer
+        420    0.00   4.00 6-Miller-Ford vs 4-Delfs-Christensen
+        170    2.00   2.00 7-Cline-Stevens vs 2-Ruprecht-Jarvis
+        170    2.00   2.00 9-Gong-Gong vs 1-Tipton-Hesson
+        150    4.00   0.00 10-Moore-Eng vs 3-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.50   1.50 5-Phu-Herman vs 8-Sieg-Holzhauer
+        460    1.00   3.00 6-Miller-Ford vs 4-Delfs-Christensen
+        210    4.00   0.00 7-Cline-Stevens vs 2-Ruprecht-Jarvis
+        800    0.00   4.00 9-Gong-Gong vs 1-Tipton-Hesson
+        430    2.50   1.50 10-Moore-Eng vs 3-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        730    0.00   4.00 1-Tipton-Hesson vs 2-Ruprecht-Jarvis
+         50    3.00   1.00 6-Miller-Ford vs 9-Gong-Gong
+        100    1.00   3.00 7-Cline-Stevens vs 5-Phu-Herman
+         50    3.00   1.00 8-Sieg-Holzhauer vs 3-Kuschner-Kuschner
+         50    3.00   1.00 10-Moore-Eng vs 4-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 1-Tipton-Hesson vs 2-Ruprecht-Jarvis
+         50    1.00   3.00 6-Miller-Ford vs 9-Gong-Gong
+  140          3.50   0.50 7-Cline-Stevens vs 5-Phu-Herman
+  140          3.50   0.50 8-Sieg-Holzhauer vs 3-Kuschner-Kuschner
+         50    1.00   3.00 10-Moore-Eng vs 4-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.00   1.00 1-Tipton-Hesson vs 2-Ruprecht-Jarvis
+        450    3.00   1.00 6-Miller-Ford vs 9-Gong-Gong
+        480    0.50   3.50 7-Cline-Stevens vs 5-Phu-Herman
+        450    3.00   1.00 8-Sieg-Holzhauer vs 3-Kuschner-Kuschner
+        480    0.50   3.50 10-Moore-Eng vs 4-Delfs-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   2.00 2-Ruprecht-Jarvis vs 3-Kuschner-Kuschner
+        180    1.00   3.00 7-Cline-Stevens vs 1-Tipton-Hesson
+         50    3.00   1.00 8-Sieg-Holzhauer vs 6-Miller-Ford
+        620    0.00   4.00 9-Gong-Gong vs 4-Delfs-Christensen
+   90          4.00   0.00 10-Moore-Eng vs 5-Phu-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.50   3.50 2-Ruprecht-Jarvis vs 3-Kuschner-Kuschner
+  200          4.00   0.00 7-Cline-Stevens vs 1-Tipton-Hesson
+        660    2.50   1.50 8-Sieg-Holzhauer vs 6-Miller-Ford
+        690    0.50   3.50 9-Gong-Gong vs 4-Delfs-Christensen
+        660    2.50   1.50 10-Moore-Eng vs 5-Phu-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        990    0.00   4.00 2-Ruprecht-Jarvis vs 3-Kuschner-Kuschner
+        480    3.00   1.00 7-Cline-Stevens vs 1-Tipton-Hesson
+        480    3.00   1.00 8-Sieg-Holzhauer vs 6-Miller-Ford
+        480    3.00   1.00 9-Gong-Gong vs 4-Delfs-Christensen
+        490    1.00   3.00 10-Moore-Eng vs 5-Phu-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.50   0.50 1-Tipton-Hesson vs 5-Phu-Herman
+  110          3.50   0.50 3-Kuschner-Kuschner vs 4-Delfs-Christensen
+        100    1.00   3.00 8-Sieg-Holzhauer vs 2-Ruprecht-Jarvis
+  100          2.00   2.00 9-Gong-Gong vs 7-Cline-Stevens
+        670    0.00   4.00 10-Moore-Eng vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.50   1.50 1-Tipton-Hesson vs 5-Phu-Herman
+  620          2.50   1.50 3-Kuschner-Kuschner vs 4-Delfs-Christensen
+  620          2.50   1.50 8-Sieg-Holzhauer vs 2-Ruprecht-Jarvis
+  620          2.50   1.50 9-Gong-Gong vs 7-Cline-Stevens
+        100    0.00   4.00 10-Moore-Eng vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          3.00   1.00 1-Tipton-Hesson vs 5-Phu-Herman
+        140    0.00   4.00 3-Kuschner-Kuschner vs 4-Delfs-Christensen
+  430          4.00   0.00 8-Sieg-Holzhauer vs 2-Ruprecht-Jarvis
+         50    2.00   2.00 9-Gong-Gong vs 7-Cline-Stevens
+        100    1.00   3.00 10-Moore-Eng vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   0.50 1-Tipton-Hesson vs 8-Sieg-Holzhauer
+  110          2.00   2.00 2-Ruprecht-Jarvis vs 6-Miller-Ford
+  140          3.50   0.50 4-Delfs-Christensen vs 5-Phu-Herman
+        100    0.50   3.50 9-Gong-Gong vs 3-Kuschner-Kuschner
+        100    0.50   3.50 10-Moore-Eng vs 7-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.50   1.50 1-Tipton-Hesson vs 8-Sieg-Holzhauer
+        630    1.00   3.00 2-Ruprecht-Jarvis vs 6-Miller-Ford
+        130    4.00   0.00 4-Delfs-Christensen vs 5-Phu-Herman
+        690    0.00   4.00 9-Gong-Gong vs 3-Kuschner-Kuschner
+        600    2.50   1.50 10-Moore-Eng vs 7-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   3.00 1-Tipton-Hesson vs 8-Sieg-Holzhauer
+  430          3.00   1.00 2-Ruprecht-Jarvis vs 6-Miller-Ford
+  170          2.00   2.00 4-Delfs-Christensen vs 5-Phu-Herman
+  460          4.00   0.00 9-Gong-Gong vs 3-Kuschner-Kuschner
+         50    0.00   4.00 10-Moore-Eng vs 7-Cline-Stevens
+----------------------------------------------------------------------
