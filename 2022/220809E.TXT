@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 9, 2022     |CLUB NO.>158048    | 08/09/2022 22:35
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=9/C=2                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Douglas Kuschner       Benjamin Kuschner        B   .     3     .   |   6     3     .     81.00  51.92  0.92(OB)
+
+ 2 Mike Ring              Mike Christensen         A   .     .     .   |   .     .     .     72.00  46.15          
+
+ 3 Jeremy Gulley          Sue Anderson             B   .     .     .   |   .     .     .     70.00  44.87          
+
+ 4 Brian Zaugg            Shawn Abernethy          B   .     .     .   |   .     .     .     72.50  46.47          
+
+ 5 Pete Cowles            Clay Laughary            C   5     2     .   |   5     2     .     83.50  53.53  1.23(OB)
+
+ 6 Paul Schwaighart       Sharon Miller            A   .     .     .   |   .     .     .     61.50  39.42          
+
+ 7 Ray Miller             Arthur Gong              A   2     .     .   |   2     .     .     91.00  58.33  1.86(OA)
+
+ 8 Jeffrey Ford           Chris Moore              A   3     .     .   |   3     .     .     89.00  57.05  1.40(OA)
+
+ 9 Aaron Mohrman          Becky Stevens            B   .     .     .   |   .     .     .     75.00  48.08          
+
+10 Nick Tipton            Galen Hesson             B   .     4     .   |   .     4     .     77.50  49.68  0.69(OB)
+
+11 Ann Romeo              Nathan Gong              B   .     .     .   |   .     .     .     69.50  44.55          
+
+12 Moises Saul            Irving Sonkin            C   .     .     .   |   .     .     .     63.50  40.71          
+
+13 Kim Eng                Eric Sieg                A   4     .     .   |   4     .     .     86.00  55.13  1.05(OA)
+
+14 Dong Yan               Herman Xiao              B   1     1     .   |   1     1     .    100.00  64.10  2.48(OA)
+
+
+                                          Totals                                           1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   3.00 1-Kuschner-Kuschner vs 3-Gulley-Anderson
+  420          3.00   3.00 2-Ring-Christensen vs 6-Schwaighart-Miller
+  420          3.00   3.00 4-Zaugg-Abernethy vs 9-Mohrman-Stevens
+  420          3.00   3.00 5-Cowles-Laughary vs 12-Saul-Sonkin
+  500          6.00   0.00 7-Miller-Gong vs 8-Ford-Moore
+  420          3.00   3.00 13-Eng-Sieg vs 10-Tipton-Hesson
+  170          0.00   6.00 14-Yan-Xiao vs 11-Romeo-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   5.50 1-Kuschner-Kuschner vs 3-Gulley-Anderson
+   90          4.00   2.00 2-Ring-Christensen vs 6-Schwaighart-Miller
+    PASS       2.00   4.00 4-Zaugg-Abernethy vs 9-Mohrman-Stevens
+  100          5.00   1.00 5-Cowles-Laughary vs 12-Saul-Sonkin
+  120          6.00   0.00 7-Miller-Gong vs 8-Ford-Moore
+        100    0.50   5.50 13-Eng-Sieg vs 10-Tipton-Hesson
+   50          3.00   3.00 14-Yan-Xiao vs 11-Romeo-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          6.00   0.00 1-Kuschner-Kuschner vs 11-Romeo-Gong
+  300          5.00   1.00 2-Ring-Christensen vs 4-Zaugg-Abernethy
+         50    2.50   3.50 3-Gulley-Anderson vs 7-Miller-Gong
+        100    0.00   6.00 5-Cowles-Laughary vs 10-Tipton-Hesson
+         90    1.00   5.00 6-Schwaighart-Miller vs 13-Eng-Sieg
+         50    2.50   3.50 8-Ford-Moore vs 9-Mohrman-Stevens
+  200          4.00   2.00 14-Yan-Xiao vs 12-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   5.00 1-Kuschner-Kuschner vs 11-Romeo-Gong
+       1130    0.00   6.00 2-Ring-Christensen vs 4-Zaugg-Abernethy
+        170    2.50   3.50 3-Gulley-Anderson vs 7-Miller-Gong
+  150          6.00   0.00 5-Cowles-Laughary vs 10-Tipton-Hesson
+        170    2.50   3.50 6-Schwaighart-Miller vs 13-Eng-Sieg
+        140    4.00   2.00 8-Ford-Moore vs 9-Mohrman-Stevens
+  130          5.00   1.00 14-Yan-Xiao vs 12-Saul-Sonkin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.50   2.50 2-Ring-Christensen vs 12-Saul-Sonkin
+        200    0.50   5.50 3-Gulley-Anderson vs 5-Cowles-Laughary
+  140          5.50   0.50 4-Zaugg-Abernethy vs 8-Ford-Moore
+  140          5.50   0.50 6-Schwaighart-Miller vs 11-Romeo-Gong
+        200    0.50   5.50 7-Miller-Gong vs 1-Kuschner-Kuschner
+  110          3.50   2.50 9-Mohrman-Stevens vs 10-Tipton-Hesson
+        100    2.00   4.00 14-Yan-Xiao vs 13-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          6.00   0.00 2-Ring-Christensen vs 12-Saul-Sonkin
+        100    0.00   6.00 3-Gulley-Anderson vs 5-Cowles-Laughary
+   90          1.00   5.00 4-Zaugg-Abernethy vs 8-Ford-Moore
+  110          3.00   3.00 6-Schwaighart-Miller vs 11-Romeo-Gong
+  110          3.00   3.00 7-Miller-Gong vs 1-Kuschner-Kuschner
+  110          3.00   3.00 9-Mohrman-Stevens vs 10-Tipton-Hesson
+  400          5.00   1.00 14-Yan-Xiao vs 13-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.50   5.50 3-Gulley-Anderson vs 13-Eng-Sieg
+  100          4.50   1.50 4-Zaugg-Abernethy vs 6-Schwaighart-Miller
+        100    2.50   3.50 5-Cowles-Laughary vs 9-Mohrman-Stevens
+  100          4.50   1.50 7-Miller-Gong vs 12-Saul-Sonkin
+  140          6.00   0.00 8-Ford-Moore vs 2-Ring-Christensen
+        110    0.50   5.50 10-Tipton-Hesson vs 11-Romeo-Gong
+        100    2.50   3.50 14-Yan-Xiao vs 1-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    4.50   1.50 3-Gulley-Anderson vs 13-Eng-Sieg
+        480    2.50   3.50 4-Zaugg-Abernethy vs 6-Schwaighart-Miller
+        490    1.00   5.00 5-Cowles-Laughary vs 9-Mohrman-Stevens
+        480    2.50   3.50 7-Miller-Gong vs 12-Saul-Sonkin
+        260    6.00   0.00 8-Ford-Moore vs 2-Ring-Christensen
+       1010    0.00   6.00 10-Tipton-Hesson vs 11-Romeo-Gong
+        430    4.50   1.50 14-Yan-Xiao vs 1-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    3.00   3.00 4-Zaugg-Abernethy vs 1-Kuschner-Kuschner
+        630    0.00   6.00 5-Cowles-Laughary vs 7-Miller-Gong
+        150    5.00   1.00 6-Schwaighart-Miller vs 10-Tipton-Hesson
+        600    3.00   3.00 8-Ford-Moore vs 13-Eng-Sieg
+        600    3.00   3.00 9-Mohrman-Stevens vs 3-Gulley-Anderson
+        620    1.00   5.00 11-Romeo-Gong vs 12-Saul-Sonkin
+  100          6.00   0.00 14-Yan-Xiao vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   6.00 4-Zaugg-Abernethy vs 1-Kuschner-Kuschner
+        200    2.00   4.00 5-Cowles-Laughary vs 7-Miller-Gong
+        200    2.00   4.00 6-Schwaighart-Miller vs 10-Tipton-Hesson
+        200    2.00   4.00 8-Ford-Moore vs 13-Eng-Sieg
+        100    4.00   2.00 9-Mohrman-Stevens vs 3-Gulley-Anderson
+   90          5.00   1.00 11-Romeo-Gong vs 12-Saul-Sonkin
+  140          6.00   0.00 14-Yan-Xiao vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   3.50 5-Cowles-Laughary vs 2-Ring-Christensen
+         50    0.00   6.00 6-Schwaighart-Miller vs 8-Ford-Moore
+   50          2.50   3.50 7-Miller-Gong vs 11-Romeo-Gong
+   50          2.50   3.50 9-Mohrman-Stevens vs 1-Kuschner-Kuschner
+   50          2.50   3.50 10-Tipton-Hesson vs 4-Zaugg-Abernethy
+  100          5.00   1.00 12-Saul-Sonkin vs 13-Eng-Sieg
+  300          6.00   0.00 14-Yan-Xiao vs 3-Gulley-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   4.00 5-Cowles-Laughary vs 2-Ring-Christensen
+  130          0.00   6.00 6-Schwaighart-Miller vs 8-Ford-Moore
+  600          5.00   1.00 7-Miller-Gong vs 11-Romeo-Gong
+  150          2.00   4.00 9-Mohrman-Stevens vs 1-Kuschner-Kuschner
+  600          5.00   1.00 10-Tipton-Hesson vs 4-Zaugg-Abernethy
+  150          2.00   4.00 12-Saul-Sonkin vs 13-Eng-Sieg
+  600          5.00   1.00 14-Yan-Xiao vs 3-Gulley-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   3.50 6-Schwaighart-Miller vs 3-Gulley-Anderson
+  620          5.50   0.50 7-Miller-Gong vs 9-Mohrman-Stevens
+  170          2.50   3.50 8-Ford-Moore vs 12-Saul-Sonkin
+  620          5.50   0.50 10-Tipton-Hesson vs 2-Ring-Christensen
+        100    0.00   6.00 11-Romeo-Gong vs 5-Cowles-Laughary
+  170          2.50   3.50 13-Eng-Sieg vs 1-Kuschner-Kuschner
+  170          2.50   3.50 14-Yan-Xiao vs 4-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  520          0.50   5.50 6-Schwaighart-Miller vs 3-Gulley-Anderson
+ 1020          3.50   2.50 7-Miller-Gong vs 9-Mohrman-Stevens
+ 1440          5.50   0.50 8-Ford-Moore vs 12-Saul-Sonkin
+ 1010          2.00   4.00 10-Tipton-Hesson vs 2-Ring-Christensen
+  520          0.50   5.50 11-Romeo-Gong vs 5-Cowles-Laughary
+ 1020          3.50   2.50 13-Eng-Sieg vs 1-Kuschner-Kuschner
+ 1440          5.50   0.50 14-Yan-Xiao vs 4-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    1.00   5.00 1-Kuschner-Kuschner vs 2-Ring-Christensen
+        480    1.00   5.00 7-Miller-Gong vs 4-Zaugg-Abernethy
+        200    6.00   0.00 8-Ford-Moore vs 10-Tipton-Hesson
+        480    1.00   5.00 9-Mohrman-Stevens vs 13-Eng-Sieg
+        450    4.00   2.00 11-Romeo-Gong vs 3-Gulley-Anderson
+        450    4.00   2.00 12-Saul-Sonkin vs 6-Schwaighart-Miller
+        450    4.00   2.00 14-Yan-Xiao vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   4.00 1-Kuschner-Kuschner vs 2-Ring-Christensen
+        600    4.50   1.50 7-Miller-Gong vs 4-Zaugg-Abernethy
+  200          6.00   0.00 8-Ford-Moore vs 10-Tipton-Hesson
+        640    0.00   6.00 9-Mohrman-Stevens vs 13-Eng-Sieg
+        620    2.00   4.00 11-Romeo-Gong vs 3-Gulley-Anderson
+        620    2.00   4.00 12-Saul-Sonkin vs 6-Schwaighart-Miller
+        600    4.50   1.50 14-Yan-Xiao vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.00   4.00 2-Ring-Christensen vs 3-Gulley-Anderson
+        120    2.00   4.00 8-Ford-Moore vs 5-Cowles-Laughary
+  100          6.00   0.00 9-Mohrman-Stevens vs 11-Romeo-Gong
+   50          4.50   1.50 10-Tipton-Hesson vs 1-Kuschner-Kuschner
+        150    0.00   6.00 12-Saul-Sonkin vs 4-Zaugg-Abernethy
+   50          4.50   1.50 13-Eng-Sieg vs 7-Miller-Gong
+        120    2.00   4.00 14-Yan-Xiao vs 6-Schwaighart-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.50   5.50 2-Ring-Christensen vs 3-Gulley-Anderson
+        170    0.50   5.50 8-Ford-Moore vs 5-Cowles-Laughary
+        100    5.00   1.00 9-Mohrman-Stevens vs 11-Romeo-Gong
+        140    2.50   3.50 10-Tipton-Hesson vs 1-Kuschner-Kuschner
+        110    4.00   2.00 12-Saul-Sonkin vs 4-Zaugg-Abernethy
+        140    2.50   3.50 13-Eng-Sieg vs 7-Miller-Gong
+  100          6.00   0.00 14-Yan-Xiao vs 6-Schwaighart-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          5.00   1.00 1-Kuschner-Kuschner vs 8-Ford-Moore
+  110          2.00   4.00 3-Gulley-Anderson vs 4-Zaugg-Abernethy
+  120          5.00   1.00 9-Mohrman-Stevens vs 6-Schwaighart-Miller
+  110          2.00   4.00 10-Tipton-Hesson vs 12-Saul-Sonkin
+         50    0.00   6.00 11-Romeo-Gong vs 2-Ring-Christensen
+  110          2.00   4.00 13-Eng-Sieg vs 5-Cowles-Laughary
+  120          5.00   1.00 14-Yan-Xiao vs 7-Miller-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   4.50 1-Kuschner-Kuschner vs 8-Ford-Moore
+  500          5.50   0.50 3-Gulley-Anderson vs 4-Zaugg-Abernethy
+        140    3.00   3.00 9-Mohrman-Stevens vs 6-Schwaighart-Miller
+  500          5.50   0.50 10-Tipton-Hesson vs 12-Saul-Sonkin
+        100    4.00   2.00 11-Romeo-Gong vs 2-Ring-Christensen
+        730    0.00   6.00 13-Eng-Sieg vs 5-Cowles-Laughary
+        200    1.50   4.50 14-Yan-Xiao vs 7-Miller-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.00   3.00 1-Kuschner-Kuschner vs 6-Schwaighart-Miller
+  620          3.00   3.00 2-Ring-Christensen vs 9-Mohrman-Stevens
+  650          6.00   0.00 4-Zaugg-Abernethy vs 5-Cowles-Laughary
+  620          3.00   3.00 10-Tipton-Hesson vs 7-Miller-Gong
+  170          0.00   6.00 11-Romeo-Gong vs 13-Eng-Sieg
+  620          3.00   3.00 12-Saul-Sonkin vs 3-Gulley-Anderson
+  620          3.00   3.00 14-Yan-Xiao vs 8-Ford-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   1.50 1-Kuschner-Kuschner vs 6-Schwaighart-Miller
+  200          4.50   1.50 2-Ring-Christensen vs 9-Mohrman-Stevens
+  100          1.00   5.00 4-Zaugg-Abernethy vs 5-Cowles-Laughary
+  200          4.50   1.50 10-Tipton-Hesson vs 7-Miller-Gong
+  200          4.50   1.50 11-Romeo-Gong vs 13-Eng-Sieg
+  100          1.00   5.00 12-Saul-Sonkin vs 3-Gulley-Anderson
+  100          1.00   5.00 14-Yan-Xiao vs 8-Ford-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   3.50 2-Ring-Christensen vs 7-Miller-Gong
+        100    0.50   5.50 3-Gulley-Anderson vs 10-Tipton-Hesson
+        100    0.50   5.50 5-Cowles-Laughary vs 6-Schwaighart-Miller
+  150          4.00   2.00 11-Romeo-Gong vs 8-Ford-Moore
+  300          5.50   0.50 12-Saul-Sonkin vs 1-Kuschner-Kuschner
+  110          2.50   3.50 13-Eng-Sieg vs 4-Zaugg-Abernethy
+  300          5.50   0.50 14-Yan-Xiao vs 9-Mohrman-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   1.00 2-Ring-Christensen vs 7-Miller-Gong
+        110    0.50   5.50 3-Gulley-Anderson vs 10-Tipton-Hesson
+         50    2.50   3.50 5-Cowles-Laughary vs 6-Schwaighart-Miller
+   50          4.00   2.00 11-Romeo-Gong vs 8-Ford-Moore
+        110    0.50   5.50 12-Saul-Sonkin vs 1-Kuschner-Kuschner
+  140          6.00   0.00 13-Eng-Sieg vs 4-Zaugg-Abernethy
+         50    2.50   3.50 14-Yan-Xiao vs 9-Mohrman-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   1.00 1-Kuschner-Kuschner vs 5-Cowles-Laughary
+         50    0.50   5.50 3-Gulley-Anderson vs 8-Ford-Moore
+  500          6.00   0.00 4-Zaugg-Abernethy vs 11-Romeo-Gong
+         50    0.50   5.50 6-Schwaighart-Miller vs 7-Miller-Gong
+  140          4.00   2.00 12-Saul-Sonkin vs 9-Mohrman-Stevens
+  110          2.50   3.50 13-Eng-Sieg vs 2-Ring-Christensen
+  110          2.50   3.50 14-Yan-Xiao vs 10-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   4.50 1-Kuschner-Kuschner vs 5-Cowles-Laughary
+  100          3.50   2.50 3-Gulley-Anderson vs 8-Ford-Moore
+        620    0.00   6.00 4-Zaugg-Abernethy vs 11-Romeo-Gong
+        140    1.50   4.50 6-Schwaighart-Miller vs 7-Miller-Gong
+  100          3.50   2.50 12-Saul-Sonkin vs 9-Mohrman-Stevens
+  130          5.50   0.50 13-Eng-Sieg vs 2-Ring-Christensen
+  130          5.50   0.50 14-Yan-Xiao vs 10-Tipton-Hesson
+----------------------------------------------------------------------
