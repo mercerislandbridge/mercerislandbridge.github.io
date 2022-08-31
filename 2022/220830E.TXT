@@ -1,0 +1,397 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>August 30, 2022    |CLUB NO.>158048    | 08/30/2022 22:00
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=4/C=0                       ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 David Wright           Shawn Abernethy          B       Q        .     2     .   |   .     2     .     82.00  48.81  0.64Red 
+                                                                                                                        0.64Blk 
+ 2 Pete Cowles            Clay Laughary            B   Q   Q        3     1     .   |   1     1     .     95.50  56.85  0.95Red 
+                                                                                                                        0.95Blk 
+ 3 Curt Peterson          Ann Romeo                B                .     .     .   |   .     .     .     68.50  40.77          
+
+ 4 Kim Eng                Adam Ruprecht            A   Q            4     .     .   |   2     .     .     95.00  56.55  0.72Red 
+                                                                                                                        0.71Blk 
+ 5 Dong Yan               Herman Xiao              A   Q            5     .     .   |   3     .     .     92.50  55.06  0.54Red 
+                                                                                                                        0.53Blk 
+ 6 Tom Carmichael         Ann Terry                A                .     .     .   |   .     .     .     78.00  46.43          
+
+ 7 Nathan Gong            Rui Gong                 B                .     .     .   |   .     .     .     73.50  43.75          
+
+ 8 Ray Miller             Aaron Mohrman            A   Q            .     .     .   |   .     .     .     87.00  51.79          
+
+
+                                          Totals                                                         672.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>August 30, 2022    |CLUB NO.>158048    | 08/30/2022 22:00
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club - North American Pairs  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=2/C=1                       ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Moore            Brian Zaugg              A                .     .     .   |   .     .     .     81.50  48.51          
+
+ 2 David Taylor           Jeffrey Ford             A   Q            .     .     .   |   3     .     .     87.00  51.79  0.43Red 
+                                                                                                                        0.42Blk 
+ 3 Nick Tipton            Galen Hesson             A                .     .     .   |   .     .     .     78.00  46.43          
+
+ 4 Eric Sieg              Gregory Herman           A   Q            1     .     .   |   1     .     .    104.50  62.20  1.69Red 
+                                                                                                                        1.69Blk 
+ 5 Dong Wei               Yong Cao                 C       Q   Q    .     .     .   |   .     1     .     73.50  43.75  0.40Red 
+                                                                                                                        0.39Blk 
+ 6 Jenni Carmichael       Arthur Gong              A   Q            2     .     .   |   2     .     .    100.00  59.52  1.27Red 
+                                                                                                                        1.27Blk 
+ 7 Douglas Kuschner       Benjamin Kuschner        B                .     .     .   |   .     .     .     65.00  38.69          
+
+ 8 Mike Christensen       Becky Stevens            A   Q            .     .     .   |   .     .     .     82.50  49.11          
+
+
+                                          Totals                                                         672.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   2.00 1-Wright-Abernethy vs 1-Moore-Zaugg
+  140          7.00   0.00 2-Cowles-Laughary vs 3-Tipton-Hesson
+         90    2.50   4.50 3-Peterson-Romeo vs 5-Wei-Cao
+         90    2.50   4.50 4-Eng-Ruprecht vs 7-Kuschner-Kuschner
+        120    0.50   6.50 5-Yan-Xiao vs 2-Taylor-Ford
+   50          5.00   2.00 6-Carmichael-Terry vs 4-Sieg-Herman
+        120    0.50   6.50 7-Gong-Gong vs 6-Carmichael-Gong
+   50          5.00   2.00 8-Miller-Mohrman vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    4.50   2.50 1-Wright-Abernethy vs 1-Moore-Zaugg
+        420    4.50   2.50 2-Cowles-Laughary vs 3-Tipton-Hesson
+        420    4.50   2.50 3-Peterson-Romeo vs 5-Wei-Cao
+        420    4.50   2.50 4-Eng-Ruprecht vs 7-Kuschner-Kuschner
+        420    4.50   2.50 5-Yan-Xiao vs 2-Taylor-Ford
+        450    0.50   6.50 6-Carmichael-Terry vs 4-Sieg-Herman
+        420    4.50   2.50 7-Gong-Gong vs 6-Carmichael-Gong
+        450    0.50   6.50 8-Miller-Mohrman vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   5.00 1-Wright-Abernethy vs 1-Moore-Zaugg
+         50    2.00   5.00 2-Cowles-Laughary vs 3-Tipton-Hesson
+  130          5.00   2.00 3-Peterson-Romeo vs 5-Wei-Cao
+  460          7.00   0.00 4-Eng-Ruprecht vs 7-Kuschner-Kuschner
+         50    2.00   5.00 5-Yan-Xiao vs 2-Taylor-Ford
+         50    2.00   5.00 6-Carmichael-Terry vs 4-Sieg-Herman
+         50    2.00   5.00 7-Gong-Gong vs 6-Carmichael-Gong
+  400          6.00   1.00 8-Miller-Mohrman vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   4.50 1-Wright-Abernethy vs 8-Christensen-Stevens
+  200          6.00   1.00 2-Cowles-Laughary vs 2-Taylor-Ford
+  100          2.50   4.50 3-Peterson-Romeo vs 4-Sieg-Herman
+  100          2.50   4.50 4-Eng-Ruprecht vs 6-Carmichael-Gong
+  200          6.00   1.00 5-Yan-Xiao vs 1-Moore-Zaugg
+  100          2.50   4.50 6-Carmichael-Terry vs 3-Tipton-Hesson
+        110    0.00   7.00 7-Gong-Gong vs 5-Wei-Cao
+  200          6.00   1.00 8-Miller-Mohrman vs 7-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   80          5.50   1.50 1-Wright-Abernethy vs 8-Christensen-Stevens
+        500    0.00   7.00 2-Cowles-Laughary vs 2-Taylor-Ford
+   80          5.50   1.50 3-Peterson-Romeo vs 4-Sieg-Herman
+   80          5.50   1.50 4-Eng-Ruprecht vs 6-Carmichael-Gong
+        100    3.00   4.00 5-Yan-Xiao vs 1-Moore-Zaugg
+        300    1.00   6.00 6-Carmichael-Terry vs 3-Tipton-Hesson
+        200    2.00   5.00 7-Gong-Gong vs 5-Wei-Cao
+   80          5.50   1.50 8-Miller-Mohrman vs 7-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   6.50 1-Wright-Abernethy vs 8-Christensen-Stevens
+         50    2.50   4.50 2-Cowles-Laughary vs 2-Taylor-Ford
+        100    0.50   6.50 3-Peterson-Romeo vs 4-Sieg-Herman
+         50    2.50   4.50 4-Eng-Ruprecht vs 6-Carmichael-Gong
+  140          5.00   2.00 5-Yan-Xiao vs 1-Moore-Zaugg
+  400          7.00   0.00 6-Carmichael-Terry vs 3-Tipton-Hesson
+   90          4.00   3.00 7-Gong-Gong vs 5-Wei-Cao
+  150          6.00   1.00 8-Miller-Mohrman vs 7-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   2.00 1-Wright-Abernethy vs 7-Kuschner-Kuschner
+  200          7.00   0.00 2-Cowles-Laughary vs 1-Moore-Zaugg
+        600    0.00   7.00 3-Peterson-Romeo vs 3-Tipton-Hesson
+  100          5.00   2.00 4-Eng-Ruprecht vs 5-Wei-Cao
+        150    2.00   5.00 5-Yan-Xiao vs 8-Christensen-Stevens
+        120    3.00   4.00 6-Carmichael-Terry vs 2-Taylor-Ford
+        500    1.00   6.00 7-Gong-Gong vs 4-Sieg-Herman
+  100          5.00   2.00 8-Miller-Mohrman vs 6-Carmichael-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1100          7.00   0.00 1-Wright-Abernethy vs 7-Kuschner-Kuschner
+         50    0.50   6.50 2-Cowles-Laughary vs 1-Moore-Zaugg
+  420          3.50   3.50 3-Peterson-Romeo vs 3-Tipton-Hesson
+  420          3.50   3.50 4-Eng-Ruprecht vs 5-Wei-Cao
+  430          6.00   1.00 5-Yan-Xiao vs 8-Christensen-Stevens
+  420          3.50   3.50 6-Carmichael-Terry vs 2-Taylor-Ford
+         50    0.50   6.50 7-Gong-Gong vs 4-Sieg-Herman
+  420          3.50   3.50 8-Miller-Mohrman vs 6-Carmichael-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   2.00 1-Wright-Abernethy vs 7-Kuschner-Kuschner
+  200          5.00   2.00 2-Cowles-Laughary vs 1-Moore-Zaugg
+  100          3.00   4.00 3-Peterson-Romeo vs 3-Tipton-Hesson
+  200          5.00   2.00 4-Eng-Ruprecht vs 5-Wei-Cao
+  470          7.00   0.00 5-Yan-Xiao vs 8-Christensen-Stevens
+        620    1.00   6.00 6-Carmichael-Terry vs 2-Taylor-Ford
+        630    0.00   7.00 7-Gong-Gong vs 4-Sieg-Herman
+        300    2.00   5.00 8-Miller-Mohrman vs 6-Carmichael-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.00   6.00 1-Wright-Abernethy vs 6-Carmichael-Gong
+        200    6.50   0.50 2-Cowles-Laughary vs 8-Christensen-Stevens
+        200    6.50   0.50 3-Peterson-Romeo vs 2-Taylor-Ford
+        650    3.00   4.00 4-Eng-Ruprecht vs 4-Sieg-Herman
+        650    3.00   4.00 5-Yan-Xiao vs 7-Kuschner-Kuschner
+        650    3.00   4.00 6-Carmichael-Terry vs 1-Moore-Zaugg
+        800    0.00   7.00 7-Gong-Gong vs 3-Tipton-Hesson
+        230    5.00   2.00 8-Miller-Mohrman vs 5-Wei-Cao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   2.00 1-Wright-Abernethy vs 6-Carmichael-Gong
+        130    2.00   5.00 2-Cowles-Laughary vs 8-Christensen-Stevens
+   50          5.00   2.00 3-Peterson-Romeo vs 2-Taylor-Ford
+   50          5.00   2.00 4-Eng-Ruprecht vs 4-Sieg-Herman
+        130    2.00   5.00 5-Yan-Xiao vs 7-Kuschner-Kuschner
+        150    0.00   7.00 6-Carmichael-Terry vs 1-Moore-Zaugg
+  530          7.00   0.00 7-Gong-Gong vs 3-Tipton-Hesson
+        130    2.00   5.00 8-Miller-Mohrman vs 5-Wei-Cao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   2.00 1-Wright-Abernethy vs 6-Carmichael-Gong
+  150          3.50   3.50 2-Cowles-Laughary vs 8-Christensen-Stevens
+        200    0.00   7.00 3-Peterson-Romeo vs 2-Taylor-Ford
+        100    1.00   6.00 4-Eng-Ruprecht vs 4-Sieg-Herman
+  600          6.50   0.50 5-Yan-Xiao vs 7-Kuschner-Kuschner
+  110          2.00   5.00 6-Carmichael-Terry vs 1-Moore-Zaugg
+  600          6.50   0.50 7-Gong-Gong vs 3-Tipton-Hesson
+  150          3.50   3.50 8-Miller-Mohrman vs 5-Wei-Cao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.00   4.00 1-Wright-Abernethy vs 5-Wei-Cao
+   80          4.50   2.50 2-Cowles-Laughary vs 7-Kuschner-Kuschner
+        600    1.00   6.00 3-Peterson-Romeo vs 1-Moore-Zaugg
+   80          4.50   2.50 4-Eng-Ruprecht vs 3-Tipton-Hesson
+        630    0.00   7.00 5-Yan-Xiao vs 6-Carmichael-Gong
+  100          6.00   1.00 6-Carmichael-Terry vs 8-Christensen-Stevens
+  110          7.00   0.00 7-Gong-Gong vs 2-Taylor-Ford
+        200    2.00   5.00 8-Miller-Mohrman vs 4-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   2.00 1-Wright-Abernethy vs 5-Wei-Cao
+  150          5.00   2.00 2-Cowles-Laughary vs 7-Kuschner-Kuschner
+  100          2.00   5.00 3-Peterson-Romeo vs 1-Moore-Zaugg
+  150          5.00   2.00 4-Eng-Ruprecht vs 3-Tipton-Hesson
+   50          0.50   6.50 5-Yan-Xiao vs 6-Carmichael-Gong
+   50          0.50   6.50 6-Carmichael-Terry vs 8-Christensen-Stevens
+  400          7.00   0.00 7-Gong-Gong vs 2-Taylor-Ford
+  130          3.00   4.00 8-Miller-Mohrman vs 4-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   2.50 1-Wright-Abernethy vs 5-Wei-Cao
+        100    4.50   2.50 2-Cowles-Laughary vs 7-Kuschner-Kuschner
+        100    4.50   2.50 3-Peterson-Romeo vs 1-Moore-Zaugg
+        100    4.50   2.50 4-Eng-Ruprecht vs 3-Tipton-Hesson
+        100    4.50   2.50 5-Yan-Xiao vs 6-Carmichael-Gong
+        100    4.50   2.50 6-Carmichael-Terry vs 8-Christensen-Stevens
+        200    0.50   6.50 7-Gong-Gong vs 2-Taylor-Ford
+        200    0.50   6.50 8-Miller-Mohrman vs 4-Sieg-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   7.00 1-Wright-Abernethy vs 4-Sieg-Herman
+  200          5.50   1.50 2-Cowles-Laughary vs 6-Carmichael-Gong
+  100          2.00   5.00 3-Peterson-Romeo vs 8-Christensen-Stevens
+  100          2.00   5.00 4-Eng-Ruprecht vs 2-Taylor-Ford
+  130          4.00   3.00 5-Yan-Xiao vs 5-Wei-Cao
+  100          2.00   5.00 6-Carmichael-Terry vs 7-Kuschner-Kuschner
+  300          7.00   0.00 7-Gong-Gong vs 1-Moore-Zaugg
+  200          5.50   1.50 8-Miller-Mohrman vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          4.00   3.00 1-Wright-Abernethy vs 4-Sieg-Herman
+  100          1.00   6.00 2-Cowles-Laughary vs 6-Carmichael-Gong
+  400          4.00   3.00 3-Peterson-Romeo vs 8-Christensen-Stevens
+         50    0.00   7.00 4-Eng-Ruprecht vs 2-Taylor-Ford
+  400          4.00   3.00 5-Yan-Xiao vs 5-Wei-Cao
+  430          7.00   0.00 6-Carmichael-Terry vs 7-Kuschner-Kuschner
+  400          4.00   3.00 7-Gong-Gong vs 1-Moore-Zaugg
+  400          4.00   3.00 8-Miller-Mohrman vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        550    0.00   7.00 1-Wright-Abernethy vs 4-Sieg-Herman
+  140          5.00   2.00 2-Cowles-Laughary vs 6-Carmichael-Gong
+        100    3.00   4.00 3-Peterson-Romeo vs 8-Christensen-Stevens
+  170          6.50   0.50 4-Eng-Ruprecht vs 2-Taylor-Ford
+  100          4.00   3.00 5-Yan-Xiao vs 5-Wei-Cao
+        150    1.00   6.00 6-Carmichael-Terry vs 7-Kuschner-Kuschner
+  170          6.50   0.50 7-Gong-Gong vs 1-Moore-Zaugg
+        110    2.00   5.00 8-Miller-Mohrman vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.00   6.00 1-Wright-Abernethy vs 3-Tipton-Hesson
+  980          6.00   1.00 2-Cowles-Laughary vs 5-Wei-Cao
+  480          3.00   4.00 3-Peterson-Romeo vs 7-Kuschner-Kuschner
+  480          3.00   4.00 4-Eng-Ruprecht vs 1-Moore-Zaugg
+  980          6.00   1.00 5-Yan-Xiao vs 4-Sieg-Herman
+  480          3.00   4.00 6-Carmichael-Terry vs 6-Carmichael-Gong
+         50    0.00   7.00 7-Gong-Gong vs 8-Christensen-Stevens
+  980          6.00   1.00 8-Miller-Mohrman vs 2-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        730    0.00   7.00 1-Wright-Abernethy vs 3-Tipton-Hesson
+        170    2.50   4.50 2-Cowles-Laughary vs 5-Wei-Cao
+        110    5.00   2.00 3-Peterson-Romeo vs 7-Kuschner-Kuschner
+  200          6.50   0.50 4-Eng-Ruprecht vs 1-Moore-Zaugg
+  200          6.50   0.50 5-Yan-Xiao vs 4-Sieg-Herman
+        140    4.00   3.00 6-Carmichael-Terry vs 6-Carmichael-Gong
+        170    2.50   4.50 7-Gong-Gong vs 8-Christensen-Stevens
+        200    1.00   6.00 8-Miller-Mohrman vs 2-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    6.50   0.50 1-Wright-Abernethy vs 3-Tipton-Hesson
+        450    2.50   4.50 2-Cowles-Laughary vs 5-Wei-Cao
+        450    2.50   4.50 3-Peterson-Romeo vs 7-Kuschner-Kuschner
+        450    2.50   4.50 4-Eng-Ruprecht vs 1-Moore-Zaugg
+        450    2.50   4.50 5-Yan-Xiao vs 4-Sieg-Herman
+        450    2.50   4.50 6-Carmichael-Terry vs 6-Carmichael-Gong
+        450    2.50   4.50 7-Gong-Gong vs 8-Christensen-Stevens
+        200    6.50   0.50 8-Miller-Mohrman vs 2-Taylor-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   1.00 1-Wright-Abernethy vs 2-Taylor-Ford
+         50    3.50   3.50 2-Cowles-Laughary vs 4-Sieg-Herman
+        100    1.50   5.50 3-Peterson-Romeo vs 6-Carmichael-Gong
+  150          5.00   2.00 4-Eng-Ruprecht vs 8-Christensen-Stevens
+        100    1.50   5.50 5-Yan-Xiao vs 3-Tipton-Hesson
+  500          7.00   0.00 6-Carmichael-Terry vs 5-Wei-Cao
+        150    0.00   7.00 7-Gong-Gong vs 7-Kuschner-Kuschner
+         50    3.50   3.50 8-Miller-Mohrman vs 1-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    4.00   3.00 1-Wright-Abernethy vs 2-Taylor-Ford
+        170    6.00   1.00 2-Cowles-Laughary vs 4-Sieg-Herman
+        760    0.00   7.00 3-Peterson-Romeo vs 6-Carmichael-Gong
+        620    4.00   3.00 4-Eng-Ruprecht vs 8-Christensen-Stevens
+        140    7.00   0.00 5-Yan-Xiao vs 3-Tipton-Hesson
+        620    4.00   3.00 6-Carmichael-Terry vs 5-Wei-Cao
+        650    1.50   5.50 7-Gong-Gong vs 7-Kuschner-Kuschner
+        650    1.50   5.50 8-Miller-Mohrman vs 1-Moore-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   7.00 1-Wright-Abernethy vs 2-Taylor-Ford
+  100          3.00   4.00 2-Cowles-Laughary vs 4-Sieg-Herman
+   50          1.50   5.50 3-Peterson-Romeo vs 6-Carmichael-Gong
+  110          4.50   2.50 4-Eng-Ruprecht vs 8-Christensen-Stevens
+  110          4.50   2.50 5-Yan-Xiao vs 3-Tipton-Hesson
+  140          6.00   1.00 6-Carmichael-Terry vs 5-Wei-Cao
+  170          7.00   0.00 7-Gong-Gong vs 7-Kuschner-Kuschner
+   50          1.50   5.50 8-Miller-Mohrman vs 1-Moore-Zaugg
+----------------------------------------------------------------------
