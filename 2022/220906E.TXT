@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 6, 2022  |CLUB NO.>158048    | 09/06/2022 22:29
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim/Brian       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Pete Cowles            Clay Laughary            C    .     .     .     48.00  44.44          
+
+ 2 Curt Peterson          Ann Romeo                C    .     .     .     43.50  40.28          
+
+ 3 Adam Ruprecht          Christopher Jarvis       C   4/5   1/2   1/2    55.50  51.39  0.41(B) 
+
+ 4 Mike Christensen       Mike Ring                A    3     .     .     59.00  54.63  0.50(A) 
+
+ 5 Nick Tipton            Galen Hesson             B    .     .     .     34.50  31.94          
+
+ 6 Brian Zaugg            Bogdan Vulcan            A    2     .     .     67.50  62.50  0.70(A) 
+
+ 7 Jeffrey Ford           David Wright             A    .     .     .     50.00  46.30          
+
+ 8 Douglas Kuschner       Benjamin Kuschner        C   4/5   1/2   1/2    55.50  51.39  0.41(B) 
+
+ 9 Kevin Cline            Aaron Mohrman            B    .     .     .     50.50  46.76          
+
+10 Kim Eng                Eric Sieg                A    1     .     .     76.00  70.37  1.00(A) 
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.50   2.50 1-Cowles-Laughary vs 4-Christensen-Ring
+  420          1.50   2.50 2-Peterson-Romeo vs 9-Cline-Mohrman
+  420          1.50   2.50 3-Ruprecht-Jarvis vs 7-Ford-Wright
+  420          1.50   2.50 5-Tipton-Hesson vs 6-Zaugg-Vulcan
+  430          4.00   0.00 10-Eng-Sieg vs 8-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   2.00 1-Cowles-Laughary vs 4-Christensen-Ring
+        100    1.00   3.00 2-Peterson-Romeo vs 9-Cline-Mohrman
+  130          3.00   1.00 3-Ruprecht-Jarvis vs 7-Ford-Wright
+        200    0.00   4.00 5-Tipton-Hesson vs 6-Zaugg-Vulcan
+  730          4.00   0.00 10-Eng-Sieg vs 8-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   4.00 1-Cowles-Laughary vs 4-Christensen-Ring
+        130    1.50   2.50 2-Peterson-Romeo vs 9-Cline-Mohrman
+  500          3.50   0.50 3-Ruprecht-Jarvis vs 7-Ford-Wright
+        130    1.50   2.50 5-Tipton-Hesson vs 6-Zaugg-Vulcan
+  500          3.50   0.50 10-Eng-Sieg vs 8-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          0.00   4.00 2-Peterson-Romeo vs 5-Tipton-Hesson
+  710          2.50   1.50 3-Ruprecht-Jarvis vs 1-Cowles-Laughary
+  710          2.50   1.50 4-Christensen-Ring vs 8-Kuschner-Kuschner
+  710          2.50   1.50 6-Zaugg-Vulcan vs 7-Ford-Wright
+  710          2.50   1.50 10-Eng-Sieg vs 9-Cline-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.50   1.50 2-Peterson-Romeo vs 5-Tipton-Hesson
+        100    0.00   4.00 3-Ruprecht-Jarvis vs 1-Cowles-Laughary
+  630          2.50   1.50 4-Christensen-Ring vs 8-Kuschner-Kuschner
+  630          2.50   1.50 6-Zaugg-Vulcan vs 7-Ford-Wright
+  630          2.50   1.50 10-Eng-Sieg vs 9-Cline-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   4.00 2-Peterson-Romeo vs 5-Tipton-Hesson
+  180          1.50   2.50 3-Ruprecht-Jarvis vs 1-Cowles-Laughary
+  180          1.50   2.50 4-Christensen-Ring vs 8-Kuschner-Kuschner
+  400          3.00   1.00 6-Zaugg-Vulcan vs 7-Ford-Wright
+  500          4.00   0.00 10-Eng-Sieg vs 9-Cline-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.50   0.50 3-Ruprecht-Jarvis vs 6-Zaugg-Vulcan
+  650          3.50   0.50 4-Christensen-Ring vs 2-Peterson-Romeo
+  170          0.00   4.00 5-Tipton-Hesson vs 9-Cline-Mohrman
+  620          2.00   2.00 7-Ford-Wright vs 8-Kuschner-Kuschner
+  200          1.00   3.00 10-Eng-Sieg vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   2.50 3-Ruprecht-Jarvis vs 6-Zaugg-Vulcan
+        590    0.00   4.00 4-Christensen-Ring vs 2-Peterson-Romeo
+  100          1.50   2.50 5-Tipton-Hesson vs 9-Cline-Mohrman
+  420          3.00   1.00 7-Ford-Wright vs 8-Kuschner-Kuschner
+  650          4.00   0.00 10-Eng-Sieg vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   1.50 3-Ruprecht-Jarvis vs 6-Zaugg-Vulcan
+  140          2.50   1.50 4-Christensen-Ring vs 2-Peterson-Romeo
+  100          1.00   3.00 5-Tipton-Hesson vs 9-Cline-Mohrman
+         50    0.00   4.00 7-Ford-Wright vs 8-Kuschner-Kuschner
+  420          4.00   0.00 10-Eng-Sieg vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.00   3.00 4-Christensen-Ring vs 7-Ford-Wright
+        170    1.00   3.00 5-Tipton-Hesson vs 3-Ruprecht-Jarvis
+        100    3.00   1.00 6-Zaugg-Vulcan vs 1-Cowles-Laughary
+        170    1.00   3.00 8-Kuschner-Kuschner vs 9-Cline-Mohrman
+  100          4.00   0.00 10-Eng-Sieg vs 2-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   1.50 4-Christensen-Ring vs 7-Ford-Wright
+  140          0.50   3.50 5-Tipton-Hesson vs 3-Ruprecht-Jarvis
+  140          0.50   3.50 6-Zaugg-Vulcan vs 1-Cowles-Laughary
+  420          4.00   0.00 8-Kuschner-Kuschner vs 9-Cline-Mohrman
+  170          2.50   1.50 10-Eng-Sieg vs 2-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   1.50 4-Christensen-Ring vs 7-Ford-Wright
+   50          2.50   1.50 5-Tipton-Hesson vs 3-Ruprecht-Jarvis
+   50          2.50   1.50 6-Zaugg-Vulcan vs 1-Cowles-Laughary
+   50          2.50   1.50 8-Kuschner-Kuschner vs 9-Cline-Mohrman
+        120    0.00   4.00 10-Eng-Sieg vs 2-Peterson-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   4.00 5-Tipton-Hesson vs 8-Kuschner-Kuschner
+  500          4.00   0.00 6-Zaugg-Vulcan vs 4-Christensen-Ring
+  140          1.50   2.50 7-Ford-Wright vs 2-Peterson-Romeo
+  140          1.50   2.50 9-Cline-Mohrman vs 1-Cowles-Laughary
+  170          3.00   1.00 10-Eng-Sieg vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.00   4.00 5-Tipton-Hesson vs 8-Kuschner-Kuschner
+   50          4.00   0.00 6-Zaugg-Vulcan vs 4-Christensen-Ring
+        140    2.00   2.00 7-Ford-Wright vs 2-Peterson-Romeo
+        140    2.00   2.00 9-Cline-Mohrman vs 1-Cowles-Laughary
+        140    2.00   2.00 10-Eng-Sieg vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    0.00   4.00 5-Tipton-Hesson vs 8-Kuschner-Kuschner
+        460    3.00   1.00 6-Zaugg-Vulcan vs 4-Christensen-Ring
+        460    3.00   1.00 7-Ford-Wright vs 2-Peterson-Romeo
+        460    3.00   1.00 9-Cline-Mohrman vs 1-Cowles-Laughary
+        490    1.00   3.00 10-Eng-Sieg vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.00   2.00 1-Cowles-Laughary vs 2-Peterson-Romeo
+         50    1.00   3.00 6-Zaugg-Vulcan vs 9-Cline-Mohrman
+  140          3.00   1.00 7-Ford-Wright vs 5-Tipton-Hesson
+        120    0.00   4.00 8-Kuschner-Kuschner vs 3-Ruprecht-Jarvis
+  200          4.00   0.00 10-Eng-Sieg vs 4-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          1.00   3.00 1-Cowles-Laughary vs 2-Peterson-Romeo
+  400          2.50   1.50 6-Zaugg-Vulcan vs 9-Cline-Mohrman
+ 1100          4.00   0.00 7-Ford-Wright vs 5-Tipton-Hesson
+        100    0.00   4.00 8-Kuschner-Kuschner vs 3-Ruprecht-Jarvis
+  400          2.50   1.50 10-Eng-Sieg vs 4-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          0.50   3.50 1-Cowles-Laughary vs 2-Peterson-Romeo
+  620          2.00   2.00 6-Zaugg-Vulcan vs 9-Cline-Mohrman
+  600          0.50   3.50 7-Ford-Wright vs 5-Tipton-Hesson
+ 1100          4.00   0.00 8-Kuschner-Kuschner vs 3-Ruprecht-Jarvis
+  640          3.00   1.00 10-Eng-Sieg vs 4-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.50   1.50 2-Peterson-Romeo vs 3-Ruprecht-Jarvis
+  200          4.00   0.00 7-Ford-Wright vs 1-Cowles-Laughary
+         50    0.00   4.00 8-Kuschner-Kuschner vs 6-Zaugg-Vulcan
+   90          1.00   3.00 9-Cline-Mohrman vs 4-Christensen-Ring
+  130          2.50   1.50 10-Eng-Sieg vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.50   0.50 2-Peterson-Romeo vs 3-Ruprecht-Jarvis
+        930    0.00   4.00 7-Ford-Wright vs 1-Cowles-Laughary
+  650          3.50   0.50 8-Kuschner-Kuschner vs 6-Zaugg-Vulcan
+  200          1.00   3.00 9-Cline-Mohrman vs 4-Christensen-Ring
+  620          2.00   2.00 10-Eng-Sieg vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.00   3.00 2-Peterson-Romeo vs 3-Ruprecht-Jarvis
+ 1370          3.50   0.50 7-Ford-Wright vs 1-Cowles-Laughary
+  690          2.00   2.00 8-Kuschner-Kuschner vs 6-Zaugg-Vulcan
+  170          0.00   4.00 9-Cline-Mohrman vs 4-Christensen-Ring
+ 1370          3.50   0.50 10-Eng-Sieg vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   3.00 1-Cowles-Laughary vs 5-Tipton-Hesson
+        140    0.00   4.00 3-Ruprecht-Jarvis vs 4-Christensen-Ring
+  110          3.00   1.00 8-Kuschner-Kuschner vs 2-Peterson-Romeo
+  110          3.00   1.00 9-Cline-Mohrman vs 7-Ford-Wright
+  110          3.00   1.00 10-Eng-Sieg vs 6-Zaugg-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   1.00 1-Cowles-Laughary vs 5-Tipton-Hesson
+  620          1.50   2.50 3-Ruprecht-Jarvis vs 4-Christensen-Ring
+  620          1.50   2.50 8-Kuschner-Kuschner vs 2-Peterson-Romeo
+        100    0.00   4.00 9-Cline-Mohrman vs 7-Ford-Wright
+  680          4.00   0.00 10-Eng-Sieg vs 6-Zaugg-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          4.00   0.00 1-Cowles-Laughary vs 5-Tipton-Hesson
+        110    1.00   3.00 3-Ruprecht-Jarvis vs 4-Christensen-Ring
+   50          3.00   1.00 8-Kuschner-Kuschner vs 2-Peterson-Romeo
+         50    2.00   2.00 9-Cline-Mohrman vs 7-Ford-Wright
+        500    0.00   4.00 10-Eng-Sieg vs 6-Zaugg-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   1.50 1-Cowles-Laughary vs 8-Kuschner-Kuschner
+        600    0.00   4.00 2-Peterson-Romeo vs 6-Zaugg-Vulcan
+  100          2.50   1.50 4-Christensen-Ring vs 5-Tipton-Hesson
+        110    1.00   3.00 9-Cline-Mohrman vs 3-Ruprecht-Jarvis
+  200          4.00   0.00 10-Eng-Sieg vs 7-Ford-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    1.50   2.50 1-Cowles-Laughary vs 8-Kuschner-Kuschner
+        210    0.00   4.00 2-Peterson-Romeo vs 6-Zaugg-Vulcan
+        150    3.50   0.50 4-Christensen-Ring vs 5-Tipton-Hesson
+        150    3.50   0.50 9-Cline-Mohrman vs 3-Ruprecht-Jarvis
+        180    1.50   2.50 10-Eng-Sieg vs 7-Ford-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   2.00 1-Cowles-Laughary vs 8-Kuschner-Kuschner
+        430    0.00   4.00 2-Peterson-Romeo vs 6-Zaugg-Vulcan
+        120    3.00   1.00 4-Christensen-Ring vs 5-Tipton-Hesson
+        180    1.00   3.00 9-Cline-Mohrman vs 3-Ruprecht-Jarvis
+   50          4.00   0.00 10-Eng-Sieg vs 7-Ford-Wright
+----------------------------------------------------------------------
