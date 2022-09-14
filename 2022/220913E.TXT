@@ -1,0 +1,283 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 13, 2022 |CLUB NO.>158048    | 09/13/2022 22:21
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   24.0 |TOP>   2 |MP LIMITS>None/3000/2500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=7/B=5/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Douglas Kuschner       Benjamin Kuschner        C    3     1     1     27.00  56.25  0.40(B) 
+
+ 2 David Roselle          Paul Martin              B    .    2/3    .     24.00  50.00  0.24(B) 
+
+ 3 Pete Cowles            Clay Laughary            C    .     .     .     17.00  35.42          
+
+ 4 Bryan Delfs            Stanford Christie        A    1     .     .     30.00  62.50  0.70(A) 
+
+ 5 Bogdan Vulcan          Kevin Cline              B    .    2/3    .     24.00  50.00  0.24(B) 
+
+ 6 Nick Tipton            Galen Hesson             C    .     .     .     17.00  35.42          
+
+ 7 Mike Ring              Mike Christensen         A    2     .     .     29.00  60.42  0.49(A) 
+
+
+
+
+                                          Totals                         168.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.00   1.00 4-Delfs-Christie vs 2-Roselle-Martin
+        100    0.00   2.00 6-Tipton-Hesson vs 5-Vulcan-Cline
+  100          2.00   0.00 7-Ring-Christensen vs 3-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  670          2.00   0.00 4-Delfs-Christie vs 2-Roselle-Martin
+   50          1.00   1.00 6-Tipton-Hesson vs 5-Vulcan-Cline
+        100    0.00   2.00 7-Ring-Christensen vs 3-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.00   2.00 4-Delfs-Christie vs 2-Roselle-Martin
+        680    1.00   1.00 6-Tipton-Hesson vs 5-Vulcan-Cline
+  100          2.00   0.00 7-Ring-Christensen vs 3-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.00   2.00 4-Delfs-Christie vs 2-Roselle-Martin
+        170    1.00   1.00 6-Tipton-Hesson vs 5-Vulcan-Cline
+  140          2.00   0.00 7-Ring-Christensen vs 3-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   1.00 1-Kuschner-Kuschner vs 4-Delfs-Christie
+        200    1.00   1.00 5-Vulcan-Cline vs 3-Cowles-Laughary
+        200    1.00   1.00 7-Ring-Christensen vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   2.00 1-Kuschner-Kuschner vs 4-Delfs-Christie
+        110    1.00   1.00 5-Vulcan-Cline vs 3-Cowles-Laughary
+   90          2.00   0.00 7-Ring-Christensen vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   2.00 1-Kuschner-Kuschner vs 4-Delfs-Christie
+  600          1.00   1.00 5-Vulcan-Cline vs 3-Cowles-Laughary
+  620          2.00   0.00 7-Ring-Christensen vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   1.50 1-Kuschner-Kuschner vs 4-Delfs-Christie
+  980          2.00   0.00 5-Vulcan-Cline vs 3-Cowles-Laughary
+        100    0.50   1.50 7-Ring-Christensen vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   2.00 1-Kuschner-Kuschner vs 7-Ring-Christensen
+        200    1.00   1.00 2-Roselle-Martin vs 5-Vulcan-Cline
+        150    2.00   0.00 6-Tipton-Hesson vs 4-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.50   1.50 1-Kuschner-Kuschner vs 7-Ring-Christensen
+  300          2.00   0.00 2-Roselle-Martin vs 5-Vulcan-Cline
+        110    0.50   1.50 6-Tipton-Hesson vs 4-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   0.00 1-Kuschner-Kuschner vs 7-Ring-Christensen
+        130    1.00   1.00 2-Roselle-Martin vs 5-Vulcan-Cline
+        200    0.00   2.00 6-Tipton-Hesson vs 4-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   0.00 1-Kuschner-Kuschner vs 7-Ring-Christensen
+        140    0.00   2.00 2-Roselle-Martin vs 5-Vulcan-Cline
+        110    1.00   1.00 6-Tipton-Hesson vs 4-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   2.00 2-Roselle-Martin vs 1-Kuschner-Kuschner
+  400          2.00   0.00 3-Cowles-Laughary vs 6-Tipton-Hesson
+  130          1.00   1.00 7-Ring-Christensen vs 5-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.50   1.50 2-Roselle-Martin vs 1-Kuschner-Kuschner
+        450    0.50   1.50 3-Cowles-Laughary vs 6-Tipton-Hesson
+        420    2.00   0.00 7-Ring-Christensen vs 5-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   1.00 2-Roselle-Martin vs 1-Kuschner-Kuschner
+  500          2.00   0.00 3-Cowles-Laughary vs 6-Tipton-Hesson
+        300    0.00   2.00 7-Ring-Christensen vs 5-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.00   1.00 2-Roselle-Martin vs 1-Kuschner-Kuschner
+  420          1.00   1.00 3-Cowles-Laughary vs 6-Tipton-Hesson
+  420          1.00   1.00 7-Ring-Christensen vs 5-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          2.00   0.00 1-Kuschner-Kuschner vs 6-Tipton-Hesson
+  100          0.00   2.00 3-Cowles-Laughary vs 2-Roselle-Martin
+  110          1.00   1.00 4-Delfs-Christie vs 7-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   0.00 1-Kuschner-Kuschner vs 6-Tipton-Hesson
+        200    0.00   2.00 3-Cowles-Laughary vs 2-Roselle-Martin
+        140    1.00   1.00 4-Delfs-Christie vs 7-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   0.00 1-Kuschner-Kuschner vs 6-Tipton-Hesson
+        790    0.00   2.00 3-Cowles-Laughary vs 2-Roselle-Martin
+        300    1.00   1.00 4-Delfs-Christie vs 7-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         80    0.00   2.00 1-Kuschner-Kuschner vs 6-Tipton-Hesson
+  600          2.00   0.00 3-Cowles-Laughary vs 2-Roselle-Martin
+  110          1.00   1.00 4-Delfs-Christie vs 7-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          0.50   1.50 2-Roselle-Martin vs 7-Ring-Christensen
+  180          2.00   0.00 4-Delfs-Christie vs 3-Cowles-Laughary
+  150          0.50   1.50 5-Vulcan-Cline vs 1-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          0.00   2.00 2-Roselle-Martin vs 7-Ring-Christensen
+  420          2.00   0.00 4-Delfs-Christie vs 3-Cowles-Laughary
+  200          1.00   1.00 5-Vulcan-Cline vs 1-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.00   1.00 2-Roselle-Martin vs 7-Ring-Christensen
+ 2000          2.00   0.00 4-Delfs-Christie vs 3-Cowles-Laughary
+  500          0.00   2.00 5-Vulcan-Cline vs 1-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.50   1.50 2-Roselle-Martin vs 7-Ring-Christensen
+  100          2.00   0.00 4-Delfs-Christie vs 3-Cowles-Laughary
+        420    0.50   1.50 5-Vulcan-Cline vs 1-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.50   1.50 3-Cowles-Laughary vs 1-Kuschner-Kuschner
+        600    2.00   0.00 5-Vulcan-Cline vs 4-Delfs-Christie
+        650    0.50   1.50 6-Tipton-Hesson vs 2-Roselle-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          2.00   0.00 3-Cowles-Laughary vs 1-Kuschner-Kuschner
+  140          0.00   2.00 5-Vulcan-Cline vs 4-Delfs-Christie
+  200          1.00   1.00 6-Tipton-Hesson vs 2-Roselle-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.50   0.50 3-Cowles-Laughary vs 1-Kuschner-Kuschner
+        150    1.50   0.50 5-Vulcan-Cline vs 4-Delfs-Christie
+        200    0.00   2.00 6-Tipton-Hesson vs 2-Roselle-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  790          0.50   1.50 3-Cowles-Laughary vs 1-Kuschner-Kuschner
+  790          0.50   1.50 5-Vulcan-Cline vs 4-Delfs-Christie
+  930          2.00   0.00 6-Tipton-Hesson vs 2-Roselle-Martin
+----------------------------------------------------------------------
