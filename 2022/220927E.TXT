@@ -1,0 +1,311 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 27, 2022 |CLUB NO.>158048    | 09/27/2022 22:17
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   42.0 |TOP>   3 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=6/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Kevin Cline            Bogdan Vulcan            B    1     1     .     50.50  60.12  0.80(A) 
+
+ 2 Douglas Kuschner       Benjamin Kuschner        C    .     .     .     41.00  48.81          
+
+ 3 Kim Eng                Jeffrey Ford             A    2     .     .     48.50  57.74  0.56(A) 
+
+ 4 Mike Christensen       David Wright             A    .     .     .     38.00  45.24          
+
+ 5 Adam Ruprecht          Christopher Jarvis       C    3     2     1     46.00  54.76  0.40(A) 
+
+ 6 Nick Tipton            Galen Hesson             B    .     .     .     41.00  48.81          
+
+ 7 Mike Ring              Brian Zaugg              B    .     .     .     40.50  48.21          
+
+ 8 William Campbell       Grant Davis              C    .     .     .     30.50  36.31          
+
+
+                                          Totals                         336.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   1.00 4-Christensen-Wright vs 2-Kuschner-Kuschner
+  190          1.00   2.00 6-Tipton-Hesson vs 5-Ruprecht-Jarvis
+  940          3.00   0.00 7-Ring-Zaugg vs 3-Eng-Ford
+  170          0.00   3.00 8-Campbell-Davis vs 1-Cline-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.50   1.50 4-Christensen-Wright vs 2-Kuschner-Kuschner
+  680          3.00   0.00 6-Tipton-Hesson vs 5-Ruprecht-Jarvis
+  650          1.50   1.50 7-Ring-Zaugg vs 3-Eng-Ford
+  620          0.00   3.00 8-Campbell-Davis vs 1-Cline-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   2.00 4-Christensen-Wright vs 2-Kuschner-Kuschner
+  140          3.00   0.00 6-Tipton-Hesson vs 5-Ruprecht-Jarvis
+  110          2.00   1.00 7-Ring-Zaugg vs 3-Eng-Ford
+        110    0.00   3.00 8-Campbell-Davis vs 1-Cline-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   1.00 4-Christensen-Wright vs 2-Kuschner-Kuschner
+  100          3.00   0.00 6-Tipton-Hesson vs 5-Ruprecht-Jarvis
+        620    0.50   2.50 7-Ring-Zaugg vs 3-Eng-Ford
+        620    0.50   2.50 8-Campbell-Davis vs 1-Cline-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1020    0.50   2.50 1-Cline-Vulcan vs 4-Christensen-Wright
+        520    2.00   1.00 5-Ruprecht-Jarvis vs 3-Eng-Ford
+   50          3.00   0.00 7-Ring-Zaugg vs 6-Tipton-Hesson
+       1020    0.50   2.50 8-Campbell-Davis vs 2-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   1.50 1-Cline-Vulcan vs 4-Christensen-Wright
+        110    1.50   1.50 5-Ruprecht-Jarvis vs 3-Eng-Ford
+        140    0.00   3.00 7-Ring-Zaugg vs 6-Tipton-Hesson
+  100          3.00   0.00 8-Campbell-Davis vs 2-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.00   0.00 1-Cline-Vulcan vs 4-Christensen-Wright
+        650    1.00   2.00 5-Ruprecht-Jarvis vs 3-Eng-Ford
+        650    1.00   2.00 7-Ring-Zaugg vs 6-Tipton-Hesson
+        650    1.00   2.00 8-Campbell-Davis vs 2-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   0.00 1-Cline-Vulcan vs 4-Christensen-Wright
+        430    0.00   3.00 5-Ruprecht-Jarvis vs 3-Eng-Ford
+        130    1.50   1.50 7-Ring-Zaugg vs 6-Tipton-Hesson
+        130    1.50   1.50 8-Campbell-Davis vs 2-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    2.00   1.00 1-Cline-Vulcan vs 7-Ring-Zaugg
+  100          3.00   0.00 2-Kuschner-Kuschner vs 5-Ruprecht-Jarvis
+        600    0.00   3.00 6-Tipton-Hesson vs 4-Christensen-Wright
+        210    1.00   2.00 8-Campbell-Davis vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   0.00 1-Cline-Vulcan vs 7-Ring-Zaugg
+        110    0.00   3.00 2-Kuschner-Kuschner vs 5-Ruprecht-Jarvis
+  100          2.00   1.00 6-Tipton-Hesson vs 4-Christensen-Wright
+         90    1.00   2.00 8-Campbell-Davis vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.00   0.00 1-Cline-Vulcan vs 7-Ring-Zaugg
+        100    0.50   2.50 2-Kuschner-Kuschner vs 5-Ruprecht-Jarvis
+        100    0.50   2.50 6-Tipton-Hesson vs 4-Christensen-Wright
+         50    2.00   1.00 8-Campbell-Davis vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   0.50 1-Cline-Vulcan vs 7-Ring-Zaugg
+        500    0.00   3.00 2-Kuschner-Kuschner vs 5-Ruprecht-Jarvis
+        170    2.50   0.50 6-Tipton-Hesson vs 4-Christensen-Wright
+        200    1.00   2.00 8-Campbell-Davis vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   1.50 2-Kuschner-Kuschner vs 1-Cline-Vulcan
+  120          3.00   0.00 3-Eng-Ford vs 6-Tipton-Hesson
+  110          1.50   1.50 7-Ring-Zaugg vs 5-Ruprecht-Jarvis
+        110    0.00   3.00 8-Campbell-Davis vs 4-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          3.00   0.00 2-Kuschner-Kuschner vs 1-Cline-Vulcan
+  420          0.00   3.00 3-Eng-Ford vs 6-Tipton-Hesson
+  450          1.50   1.50 7-Ring-Zaugg vs 5-Ruprecht-Jarvis
+  450          1.50   1.50 8-Campbell-Davis vs 4-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.00   0.00 2-Kuschner-Kuschner vs 1-Cline-Vulcan
+  110          1.50   1.50 3-Eng-Ford vs 6-Tipton-Hesson
+  110          1.50   1.50 7-Ring-Zaugg vs 5-Ruprecht-Jarvis
+  100          0.00   3.00 8-Campbell-Davis vs 4-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   3.00 2-Kuschner-Kuschner vs 1-Cline-Vulcan
+  140          2.50   0.50 3-Eng-Ford vs 6-Tipton-Hesson
+         50    1.00   2.00 7-Ring-Zaugg vs 5-Ruprecht-Jarvis
+  140          2.50   0.50 8-Campbell-Davis vs 4-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.50   0.50 1-Cline-Vulcan vs 6-Tipton-Hesson
+  150          2.50   0.50 3-Eng-Ford vs 2-Kuschner-Kuschner
+        400    1.00   2.00 4-Christensen-Wright vs 7-Ring-Zaugg
+        430    0.00   3.00 8-Campbell-Davis vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    1.00   2.00 1-Cline-Vulcan vs 6-Tipton-Hesson
+        130    2.50   0.50 3-Eng-Ford vs 2-Kuschner-Kuschner
+        450    0.00   3.00 4-Christensen-Wright vs 7-Ring-Zaugg
+        130    2.50   0.50 8-Campbell-Davis vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.00   0.00 1-Cline-Vulcan vs 6-Tipton-Hesson
+  420          1.00   2.00 3-Eng-Ford vs 2-Kuschner-Kuschner
+  420          1.00   2.00 4-Christensen-Wright vs 7-Ring-Zaugg
+  420          1.00   2.00 8-Campbell-Davis vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   3.00 1-Cline-Vulcan vs 6-Tipton-Hesson
+  100          2.50   0.50 3-Eng-Ford vs 2-Kuschner-Kuschner
+  100          2.50   0.50 4-Christensen-Wright vs 7-Ring-Zaugg
+        100    1.00   2.00 8-Campbell-Davis vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    1.50   1.50 2-Kuschner-Kuschner vs 7-Ring-Zaugg
+        800    0.00   3.00 4-Christensen-Wright vs 3-Eng-Ford
+        500    1.50   1.50 5-Ruprecht-Jarvis vs 1-Cline-Vulcan
+        100    3.00   0.00 8-Campbell-Davis vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   2.50 2-Kuschner-Kuschner vs 7-Ring-Zaugg
+  100          3.00   0.00 4-Christensen-Wright vs 3-Eng-Ford
+        100    0.50   2.50 5-Ruprecht-Jarvis vs 1-Cline-Vulcan
+   90          2.00   1.00 8-Campbell-Davis vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.00   2.00 2-Kuschner-Kuschner vs 7-Ring-Zaugg
+        630    2.00   1.00 4-Christensen-Wright vs 3-Eng-Ford
+  100          3.00   0.00 5-Ruprecht-Jarvis vs 1-Cline-Vulcan
+        690    0.00   3.00 8-Campbell-Davis vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   0.50 2-Kuschner-Kuschner vs 7-Ring-Zaugg
+   50          0.50   2.50 4-Christensen-Wright vs 3-Eng-Ford
+  450          2.50   0.50 5-Ruprecht-Jarvis vs 1-Cline-Vulcan
+   50          0.50   2.50 8-Campbell-Davis vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   0.50 3-Eng-Ford vs 1-Cline-Vulcan
+        100    2.50   0.50 5-Ruprecht-Jarvis vs 4-Christensen-Wright
+        500    0.50   2.50 6-Tipton-Hesson vs 2-Kuschner-Kuschner
+        500    0.50   2.50 8-Campbell-Davis vs 7-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   3.00 3-Eng-Ford vs 1-Cline-Vulcan
+  100          3.00   0.00 5-Ruprecht-Jarvis vs 4-Christensen-Wright
+        100    2.00   1.00 6-Tipton-Hesson vs 2-Kuschner-Kuschner
+        130    1.00   2.00 8-Campbell-Davis vs 7-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   1.00 3-Eng-Ford vs 1-Cline-Vulcan
+        110    3.00   0.00 5-Ruprecht-Jarvis vs 4-Christensen-Wright
+        590    0.00   3.00 6-Tipton-Hesson vs 2-Kuschner-Kuschner
+        170    1.00   2.00 8-Campbell-Davis vs 7-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   0.50 3-Eng-Ford vs 1-Cline-Vulcan
+        140    1.00   2.00 5-Ruprecht-Jarvis vs 4-Christensen-Wright
+        170    0.00   3.00 6-Tipton-Hesson vs 2-Kuschner-Kuschner
+   50          2.50   0.50 8-Campbell-Davis vs 7-Ring-Zaugg
+----------------------------------------------------------------------
