@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 4, 2022    |CLUB NO.>158048    | 10/04/2022 22:12
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=1                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Chris Moore              A   1     .     .   |   1     .     .     69.00  63.89  2.19(OA)
+
+ 2 Shawn Abernethy        Brian Zaugg              B   .     .     .   |   .     .     .     51.50  47.69          
+
+ 3 Aaron Mohrman          Ann Romeo                B   .     .     .   |   .     .     .     48.00  44.44          
+
+ 4 Mike Christensen       Becky Stevens            A   .     .     .   |   .     .     .     49.00  45.37          
+
+ 5 Adam Ruprecht          Christopher Jarvis       B   4     2     .   |   4     2     .     55.00  50.93  1.15(OB)
+
+ 6 Ray Miller             Jeffrey Ford             A   2     .     .   |   2     .     .     61.00  56.48  1.64(OA)
+
+ 7 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     46.50  43.06          
+
+ 8 Gregory Herman         Eric Sieg                B   .     3     .   |   .     3     .     52.00  48.15  0.86(OB)
+
+ 9 Arthur Gong            Rui Gong                 C   .     .     .   |   .     .     .     47.50  43.98          
+
+10 Kevin Cline            Bogdan Vulcan            B   3     1     .   |   3     1     .     60.50  56.02  1.53(OB)
+
+
+                                          Totals                                            540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 1-Eng-Moore vs 4-Christensen-Stevens
+        400    2.50   1.50 2-Abernethy-Zaugg vs 9-Gong-Gong
+        430    0.50   3.50 3-Mohrman-Romeo vs 7-Tipton-Hesson
+        430    0.50   3.50 5-Ruprecht-Jarvis vs 6-Miller-Ford
+        400    2.50   1.50 10-Cline-Vulcan vs 8-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          1.50   2.50 1-Eng-Moore vs 4-Christensen-Stevens
+  690          3.50   0.50 2-Abernethy-Zaugg vs 9-Gong-Gong
+  660          1.50   2.50 3-Mohrman-Romeo vs 7-Tipton-Hesson
+  630          0.00   4.00 5-Ruprecht-Jarvis vs 6-Miller-Ford
+  690          3.50   0.50 10-Cline-Vulcan vs 8-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   2.50 1-Eng-Moore vs 4-Christensen-Stevens
+        800    0.00   4.00 2-Abernethy-Zaugg vs 9-Gong-Gong
+        200    3.00   1.00 3-Mohrman-Romeo vs 7-Tipton-Hesson
+        650    1.50   2.50 5-Ruprecht-Jarvis vs 6-Miller-Ford
+        170    4.00   0.00 10-Cline-Vulcan vs 8-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   1.50 2-Abernethy-Zaugg vs 5-Ruprecht-Jarvis
+        140    0.50   3.50 3-Mohrman-Romeo vs 1-Eng-Moore
+        140    0.50   3.50 4-Christensen-Stevens vs 8-Herman-Sieg
+        100    4.00   0.00 6-Miller-Ford vs 7-Tipton-Hesson
+        110    2.50   1.50 10-Cline-Vulcan vs 9-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   1.50 2-Abernethy-Zaugg vs 5-Ruprecht-Jarvis
+        140    0.00   4.00 3-Mohrman-Romeo vs 1-Eng-Moore
+   50          2.50   1.50 4-Christensen-Stevens vs 8-Herman-Sieg
+  100          4.00   0.00 6-Miller-Ford vs 7-Tipton-Hesson
+        110    1.00   3.00 10-Cline-Vulcan vs 9-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   1.50 2-Abernethy-Zaugg vs 5-Ruprecht-Jarvis
+         50    0.50   3.50 3-Mohrman-Romeo vs 1-Eng-Moore
+         50    0.50   3.50 4-Christensen-Stevens vs 8-Herman-Sieg
+  170          2.50   1.50 6-Miller-Ford vs 7-Tipton-Hesson
+  420          4.00   0.00 10-Cline-Vulcan vs 9-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.00   3.00 3-Mohrman-Romeo vs 6-Miller-Ford
+  140          1.00   3.00 4-Christensen-Stevens vs 2-Abernethy-Zaugg
+  200          3.00   1.00 5-Ruprecht-Jarvis vs 9-Gong-Gong
+  380          4.00   0.00 7-Tipton-Hesson vs 8-Herman-Sieg
+  140          1.00   3.00 10-Cline-Vulcan vs 1-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   0.00 3-Mohrman-Romeo vs 6-Miller-Ford
+        200    0.00   4.00 4-Christensen-Stevens vs 2-Abernethy-Zaugg
+   50          3.00   1.00 5-Ruprecht-Jarvis vs 9-Gong-Gong
+        100    1.00   3.00 7-Tipton-Hesson vs 8-Herman-Sieg
+         50    2.00   2.00 10-Cline-Vulcan vs 1-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   2.00 3-Mohrman-Romeo vs 6-Miller-Ford
+        650    2.00   2.00 4-Christensen-Stevens vs 2-Abernethy-Zaugg
+  100          4.00   0.00 5-Ruprecht-Jarvis vs 9-Gong-Gong
+        680    0.00   4.00 7-Tipton-Hesson vs 8-Herman-Sieg
+        650    2.00   2.00 10-Cline-Vulcan vs 1-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   3.00 4-Christensen-Stevens vs 7-Tipton-Hesson
+        110    0.00   4.00 5-Ruprecht-Jarvis vs 3-Mohrman-Romeo
+  100          2.00   2.00 6-Miller-Ford vs 1-Eng-Moore
+  200          3.50   0.50 8-Herman-Sieg vs 9-Gong-Gong
+  200          3.50   0.50 10-Cline-Vulcan vs 2-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   0.00 4-Christensen-Stevens vs 7-Tipton-Hesson
+        150    1.50   2.50 5-Ruprecht-Jarvis vs 3-Mohrman-Romeo
+        170    0.00   4.00 6-Miller-Ford vs 1-Eng-Moore
+        150    1.50   2.50 8-Herman-Sieg vs 9-Gong-Gong
+        100    3.00   1.00 10-Cline-Vulcan vs 2-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   4.00 4-Christensen-Stevens vs 7-Tipton-Hesson
+        140    1.50   2.50 5-Ruprecht-Jarvis vs 3-Mohrman-Romeo
+        100    3.00   1.00 6-Miller-Ford vs 1-Eng-Moore
+   50          4.00   0.00 8-Herman-Sieg vs 9-Gong-Gong
+        140    1.50   2.50 10-Cline-Vulcan vs 2-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  720          2.00   2.00 5-Ruprecht-Jarvis vs 8-Herman-Sieg
+  660          0.00   4.00 6-Miller-Ford vs 4-Christensen-Stevens
+  720          2.00   2.00 7-Tipton-Hesson vs 2-Abernethy-Zaugg
+  720          2.00   2.00 9-Gong-Gong vs 1-Eng-Moore
+ 1370          4.00   0.00 10-Cline-Vulcan vs 3-Mohrman-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   0.50 5-Ruprecht-Jarvis vs 8-Herman-Sieg
+        800    0.00   4.00 6-Miller-Ford vs 4-Christensen-Stevens
+   50          3.50   0.50 7-Tipton-Hesson vs 2-Abernethy-Zaugg
+        150    1.00   3.00 9-Gong-Gong vs 1-Eng-Moore
+         50    2.00   2.00 10-Cline-Vulcan vs 3-Mohrman-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.50   1.50 5-Ruprecht-Jarvis vs 8-Herman-Sieg
+        150    2.50   1.50 6-Miller-Ford vs 4-Christensen-Stevens
+        120    4.00   0.00 7-Tipton-Hesson vs 2-Abernethy-Zaugg
+        180    1.00   3.00 9-Gong-Gong vs 1-Eng-Moore
+        400    0.00   4.00 10-Cline-Vulcan vs 3-Mohrman-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.50   1.50 1-Eng-Moore vs 2-Abernethy-Zaugg
+  420          2.50   1.50 6-Miller-Ford vs 9-Gong-Gong
+         50    0.00   4.00 7-Tipton-Hesson vs 5-Ruprecht-Jarvis
+  420          2.50   1.50 8-Herman-Sieg vs 3-Mohrman-Romeo
+  420          2.50   1.50 10-Cline-Vulcan vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    2.00   2.00 1-Eng-Moore vs 2-Abernethy-Zaugg
+        990    0.00   4.00 6-Miller-Ford vs 9-Gong-Gong
+        490    2.00   2.00 7-Tipton-Hesson vs 5-Ruprecht-Jarvis
+        490    2.00   2.00 8-Herman-Sieg vs 3-Mohrman-Romeo
+        480    4.00   0.00 10-Cline-Vulcan vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.50   0.50 1-Eng-Moore vs 2-Abernethy-Zaugg
+  620          3.50   0.50 6-Miller-Ford vs 9-Gong-Gong
+        510    0.00   4.00 7-Tipton-Hesson vs 5-Ruprecht-Jarvis
+  300          2.00   2.00 8-Herman-Sieg vs 3-Mohrman-Romeo
+  170          1.00   3.00 10-Cline-Vulcan vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.50   0.50 2-Abernethy-Zaugg vs 3-Mohrman-Romeo
+  300          3.50   0.50 7-Tipton-Hesson vs 1-Eng-Moore
+  140          0.50   3.50 8-Herman-Sieg vs 6-Miller-Ford
+  170          2.00   2.00 9-Gong-Gong vs 4-Christensen-Stevens
+  140          0.50   3.50 10-Cline-Vulcan vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    2.00   2.00 2-Abernethy-Zaugg vs 3-Mohrman-Romeo
+        690    0.50   3.50 7-Tipton-Hesson vs 1-Eng-Moore
+        640    3.00   1.00 8-Herman-Sieg vs 6-Miller-Ford
+        170    4.00   0.00 9-Gong-Gong vs 4-Christensen-Stevens
+        690    0.50   3.50 10-Cline-Vulcan vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.50   1.50 2-Abernethy-Zaugg vs 3-Mohrman-Romeo
+        460    1.00   3.00 7-Tipton-Hesson vs 1-Eng-Moore
+        650    0.00   4.00 8-Herman-Sieg vs 6-Miller-Ford
+        200    4.00   0.00 9-Gong-Gong vs 4-Christensen-Stevens
+        430    2.50   1.50 10-Cline-Vulcan vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1100          4.00   0.00 1-Eng-Moore vs 5-Ruprecht-Jarvis
+  180          0.00   4.00 3-Mohrman-Romeo vs 4-Christensen-Stevens
+  460          2.00   2.00 8-Herman-Sieg vs 2-Abernethy-Zaugg
+  460          2.00   2.00 9-Gong-Gong vs 7-Tipton-Hesson
+  460          2.00   2.00 10-Cline-Vulcan vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   4.00 1-Eng-Moore vs 5-Ruprecht-Jarvis
+  300          1.00   3.00 3-Mohrman-Romeo vs 4-Christensen-Stevens
+  990          4.00   0.00 8-Herman-Sieg vs 2-Abernethy-Zaugg
+  650          2.00   2.00 9-Gong-Gong vs 7-Tipton-Hesson
+  800          3.00   1.00 10-Cline-Vulcan vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   0.50 1-Eng-Moore vs 5-Ruprecht-Jarvis
+         90    2.00   2.00 3-Mohrman-Romeo vs 4-Christensen-Stevens
+        800    0.00   4.00 8-Herman-Sieg vs 2-Abernethy-Zaugg
+   50          3.50   0.50 9-Gong-Gong vs 7-Tipton-Hesson
+        400    1.00   3.00 10-Cline-Vulcan vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   2.00 1-Eng-Moore vs 8-Herman-Sieg
+  420          2.00   2.00 4-Christensen-Stevens vs 5-Ruprecht-Jarvis
+  420          2.00   2.00 6-Miller-Ford vs 2-Abernethy-Zaugg
+  420          2.00   2.00 9-Gong-Gong vs 3-Mohrman-Romeo
+  420          2.00   2.00 10-Cline-Vulcan vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   2.50 1-Eng-Moore vs 8-Herman-Sieg
+        100    1.50   2.50 2-Abernethy-Zaugg vs 6-Miller-Ford
+        100    1.50   2.50 4-Christensen-Stevens vs 5-Ruprecht-Jarvis
+        100    1.50   2.50 9-Gong-Gong vs 3-Mohrman-Romeo
+  600          4.00   0.00 10-Cline-Vulcan vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          3.00   1.00 1-Eng-Moore vs 8-Herman-Sieg
+  420          1.00   3.00 2-Abernethy-Zaugg vs 6-Miller-Ford
+  520          4.00   0.00 4-Christensen-Stevens vs 5-Ruprecht-Jarvis
+  420          1.00   3.00 9-Gong-Gong vs 3-Mohrman-Romeo
+  420          1.00   3.00 10-Cline-Vulcan vs 7-Tipton-Hesson
+----------------------------------------------------------------------
