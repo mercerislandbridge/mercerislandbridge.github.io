@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>October 4, 2022    |CLUB NO.>158048    | 10/04/2022 22:12
+DATE>October 4, 2022    |CLUB NO.>158048    | 10/11/2022 22:24
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -13,23 +13,23 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
  1 Kim Eng                Chris Moore              A   1     .     .   |   1     .     .     69.00  63.89  2.19(OA)
 
- 2 Shawn Abernethy        Brian Zaugg              B   .     .     .   |   .     .     .     51.50  47.69          
+ 2 Shawn Abernethy        Brian Zaugg              B   .     .     .   |   .     .     .     52.00  48.15          
 
- 3 Aaron Mohrman          Ann Romeo                B   .     .     .   |   .     .     .     48.00  44.44          
+ 3 Aaron Mohrman          Ann Romeo                B   .     .     .   |   .     .     .     47.00  43.52          
 
  4 Mike Christensen       Becky Stevens            A   .     .     .   |   .     .     .     49.00  45.37          
 
- 5 Adam Ruprecht          Christopher Jarvis       B   4     2     .   |   4     2     .     55.00  50.93  1.15(OB)
+ 5 Adam Ruprecht          Christopher Jarvis       B   4     2     .   |   4     2     .     54.50  50.46  1.15(OB)
 
- 6 Ray Miller             Jeffrey Ford             A   2     .     .   |   2     .     .     61.00  56.48  1.64(OA)
+ 6 Ray Miller             Jeffrey Ford             A   3     .     .   |   3     .     .     61.00  56.48  1.23(OA)
 
- 7 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     46.50  43.06          
+ 7 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     46.00  42.59          
 
- 8 Gregory Herman         Eric Sieg                B   .     3     .   |   .     3     .     52.00  48.15  0.86(OB)
+ 8 Gregory Herman         Eric Sieg                B   .     3     .   |   .     3     .     52.50  48.61  0.86(OB)
 
  9 Arthur Gong            Rui Gong                 C   .     .     .   |   .     .     .     47.50  43.98          
 
-10 Kevin Cline            Bogdan Vulcan            B   3     1     .   |   3     1     .     60.50  56.02  1.53(OB)
+10 Kevin Cline            Bogdan Vulcan            B   2     1     .   |   2     1     .     61.50  56.94  1.64(OA)
 
 
                                           Totals                                            540.00       
@@ -181,11 +181,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   50          3.50   0.50 5-Ruprecht-Jarvis vs 8-Herman-Sieg
+   50          3.00   1.00 5-Ruprecht-Jarvis vs 8-Herman-Sieg
         800    0.00   4.00 6-Miller-Ford vs 4-Christensen-Stevens
-   50          3.50   0.50 7-Tipton-Hesson vs 2-Abernethy-Zaugg
+   50          3.00   1.00 7-Tipton-Hesson vs 2-Abernethy-Zaugg
         150    1.00   3.00 9-Gong-Gong vs 1-Eng-Moore
-         50    2.00   2.00 10-Cline-Vulcan vs 3-Mohrman-Romeo
+   50          3.00   1.00 10-Cline-Vulcan vs 3-Mohrman-Romeo
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 15
