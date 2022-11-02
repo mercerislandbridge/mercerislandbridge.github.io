@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 1, 2022   |CLUB NO.>158048    | 11/01/2022 22:05
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Upgraded Club Championship   |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=8/C=1                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     50.00  37.04          
+
+ 2 Pete Cowles            Clay Laughary            C   .     .     .   |   .     .     .     63.50  47.04          
+
+ 3 Bryan Delfs            Stanford Christie        A   .     .     .   |   .     .     .     69.50  51.48          
+
+ 4 David Taylor           Sue Anderson             B   4     2     .   |   4     2     .     74.50  55.19  1.48(OB)
+
+ 5 Ray Miller             Jeffrey Ford             A   .     .     .   |   .     .     .     68.00  50.37          
+
+ 6 Mike Ring              Mike Christensen         A   2     .     .   |   2     .     .     79.50  58.89  2.25(OA)
+
+ 7 Kim Eng                Victor Chubukov          A   1     .     .   |   1     .     .     82.50  61.11  3.00(OA)
+
+ 8 Kevin Cline            Bogdan Vulcan            B   .     .     .   |   .     .     .     71.00  52.59          
+
+ 9 Shawn Abernethy        Brian Zaugg              B   3     1     .   |   3     1     .     75.00  55.56  1.97(OB)
+
+10 Gregory Herman         Eric Sieg                B   .     3     .   |   5     3     .     72.00  53.33  1.11(OB)
+
+11 Oyvind Tafjord         Andrea James             B   .     .     .   |   .     .     .     61.00  45.19          
+
+12 Ann Romeo              Joseph Grill             B   .     .     .   |   .     .     .     43.50  32.22          
+
+
+                                          Totals                                            810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.50   1.50 3-Delfs-Christie vs 11-Tafjord-James
+        150    0.00   5.00 5-Miller-Ford vs 2-Cowles-Laughary
+  130          3.50   1.50 6-Ring-Christensen vs 10-Herman-Sieg
+  430          5.00   0.00 8-Cline-Vulcan vs 4-Taylor-Anderson
+         50    2.00   3.00 9-Abernethy-Zaugg vs 7-Eng-Chubukov
+        100    1.00   4.00 12-Romeo-Grill vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   2.00 3-Delfs-Christie vs 11-Tafjord-James
+  730          5.00   0.00 5-Miller-Ford vs 2-Cowles-Laughary
+        200    0.00   5.00 6-Ring-Christensen vs 10-Herman-Sieg
+        130    3.00   2.00 8-Cline-Vulcan vs 4-Taylor-Anderson
+        150    1.00   4.00 9-Abernethy-Zaugg vs 7-Eng-Chubukov
+        130    3.00   2.00 12-Romeo-Grill vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        640    0.50   4.50 3-Delfs-Christie vs 11-Tafjord-James
+        620    2.50   2.50 5-Miller-Ford vs 2-Cowles-Laughary
+        500    4.50   0.50 6-Ring-Christensen vs 10-Herman-Sieg
+        640    0.50   4.50 8-Cline-Vulcan vs 4-Taylor-Anderson
+        500    4.50   0.50 9-Abernethy-Zaugg vs 7-Eng-Chubukov
+        620    2.50   2.50 12-Romeo-Grill vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   4.00 1-Tipton-Hesson vs 8-Cline-Vulcan
+  100          5.00   0.00 6-Ring-Christensen vs 3-Delfs-Christie
+        130    1.00   4.00 7-Eng-Chubukov vs 10-Herman-Sieg
+        110    3.50   1.50 9-Abernethy-Zaugg vs 5-Miller-Ford
+        130    1.00   4.00 11-Tafjord-James vs 4-Taylor-Anderson
+        110    3.50   1.50 12-Romeo-Grill vs 2-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          0.00   5.00 1-Tipton-Hesson vs 8-Cline-Vulcan
+ 1430          3.50   1.50 6-Ring-Christensen vs 3-Delfs-Christie
+ 1460          5.00   0.00 7-Eng-Chubukov vs 10-Herman-Sieg
+  690          1.50   3.50 9-Abernethy-Zaugg vs 5-Miller-Ford
+ 1430          3.50   1.50 11-Tafjord-James vs 4-Taylor-Anderson
+  690          1.50   3.50 12-Romeo-Grill vs 2-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.50   1.50 1-Tipton-Hesson vs 8-Cline-Vulcan
+  150          3.50   1.50 6-Ring-Christensen vs 3-Delfs-Christie
+  500          5.00   0.00 7-Eng-Chubukov vs 10-Herman-Sieg
+  100          1.00   4.00 9-Abernethy-Zaugg vs 5-Miller-Ford
+         50    0.00   5.00 11-Tafjord-James vs 4-Taylor-Anderson
+  110          2.00   3.00 12-Romeo-Grill vs 2-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 1-Tipton-Hesson vs 6-Ring-Christensen
+        100    1.50   3.50 2-Cowles-Laughary vs 9-Abernethy-Zaugg
+        100    1.50   3.50 7-Eng-Chubukov vs 4-Taylor-Anderson
+  110          4.50   0.50 10-Herman-Sieg vs 8-Cline-Vulcan
+  110          4.50   0.50 11-Tafjord-James vs 5-Miller-Ford
+        200    0.00   5.00 12-Romeo-Grill vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    3.00   2.00 1-Tipton-Hesson vs 6-Ring-Christensen
+       1010    0.50   4.50 2-Cowles-Laughary vs 9-Abernethy-Zaugg
+        510    5.00   0.00 7-Eng-Chubukov vs 4-Taylor-Anderson
+        980    3.00   2.00 10-Herman-Sieg vs 8-Cline-Vulcan
+        980    3.00   2.00 11-Tafjord-James vs 5-Miller-Ford
+       1010    0.50   4.50 12-Romeo-Grill vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   2.00 1-Tipton-Hesson vs 6-Ring-Christensen
+        140    3.00   2.00 2-Cowles-Laughary vs 9-Abernethy-Zaugg
+        620    0.00   5.00 7-Eng-Chubukov vs 4-Taylor-Anderson
+  100          5.00   0.00 10-Herman-Sieg vs 8-Cline-Vulcan
+        140    3.00   2.00 11-Tafjord-James vs 5-Miller-Ford
+        170    1.00   4.00 12-Romeo-Grill vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.00   4.00 2-Cowles-Laughary vs 7-Eng-Chubukov
+  680          4.00   1.00 3-Delfs-Christie vs 1-Tipton-Hesson
+        100    0.00   5.00 8-Cline-Vulcan vs 5-Miller-Ford
+  710          5.00   0.00 10-Herman-Sieg vs 9-Abernethy-Zaugg
+  650          2.50   2.50 11-Tafjord-James vs 6-Ring-Christensen
+  650          2.50   2.50 12-Romeo-Grill vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1520    0.00   5.00 2-Cowles-Laughary vs 7-Eng-Chubukov
+        990    3.50   1.50 3-Delfs-Christie vs 1-Tipton-Hesson
+        510    5.00   0.00 8-Cline-Vulcan vs 5-Miller-Ford
+       1010    1.50   3.50 10-Herman-Sieg vs 9-Abernethy-Zaugg
+       1010    1.50   3.50 11-Tafjord-James vs 6-Ring-Christensen
+        990    3.50   1.50 12-Romeo-Grill vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          3.50   1.50 2-Cowles-Laughary vs 7-Eng-Chubukov
+  680          3.50   1.50 3-Delfs-Christie vs 1-Tipton-Hesson
+  630          1.00   4.00 8-Cline-Vulcan vs 5-Miller-Ford
+  680          3.50   1.50 10-Herman-Sieg vs 9-Abernethy-Zaugg
+        100    0.00   5.00 11-Tafjord-James vs 6-Ring-Christensen
+  680          3.50   1.50 12-Romeo-Grill vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.50   4.50 1-Tipton-Hesson vs 10-Herman-Sieg
+  140          2.50   2.50 3-Delfs-Christie vs 8-Cline-Vulcan
+  170          4.50   0.50 4-Taylor-Anderson vs 2-Cowles-Laughary
+  170          4.50   0.50 7-Eng-Chubukov vs 11-Tafjord-James
+  140          2.50   2.50 9-Abernethy-Zaugg vs 6-Ring-Christensen
+  100          0.50   4.50 12-Romeo-Grill vs 5-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   5.00 1-Tipton-Hesson vs 10-Herman-Sieg
+  120          4.00   1.00 3-Delfs-Christie vs 8-Cline-Vulcan
+  120          4.00   1.00 4-Taylor-Anderson vs 2-Cowles-Laughary
+  120          4.00   1.00 7-Eng-Chubukov vs 11-Tafjord-James
+  110          2.00   3.00 9-Abernethy-Zaugg vs 6-Ring-Christensen
+        100    1.00   4.00 12-Romeo-Grill vs 5-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  250          3.00   2.00 1-Tipton-Hesson vs 10-Herman-Sieg
+  180          1.50   3.50 3-Delfs-Christie vs 8-Cline-Vulcan
+  180          1.50   3.50 4-Taylor-Anderson vs 2-Cowles-Laughary
+  130          0.00   5.00 7-Eng-Chubukov vs 11-Tafjord-James
+  600          5.00   0.00 9-Abernethy-Zaugg vs 6-Ring-Christensen
+  500          4.00   1.00 12-Romeo-Grill vs 5-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   3.50 1-Tipton-Hesson vs 7-Eng-Chubukov
+  100          5.00   0.00 2-Cowles-Laughary vs 10-Herman-Sieg
+        620    3.00   2.00 4-Taylor-Anderson vs 9-Abernethy-Zaugg
+        650    1.50   3.50 5-Miller-Ford vs 3-Delfs-Christie
+        170    4.00   1.00 8-Cline-Vulcan vs 11-Tafjord-James
+        680    0.00   5.00 12-Romeo-Grill vs 6-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   2.00 1-Tipton-Hesson vs 7-Eng-Chubukov
+  450          3.00   2.00 2-Cowles-Laughary vs 10-Herman-Sieg
+  450          3.00   2.00 4-Taylor-Anderson vs 9-Abernethy-Zaugg
+  450          3.00   2.00 5-Miller-Ford vs 3-Delfs-Christie
+  450          3.00   2.00 8-Cline-Vulcan vs 11-Tafjord-James
+  420          0.00   5.00 12-Romeo-Grill vs 6-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   3.50 1-Tipton-Hesson vs 7-Eng-Chubukov
+  100          4.50   0.50 2-Cowles-Laughary vs 10-Herman-Sieg
+   50          1.50   3.50 4-Taylor-Anderson vs 9-Abernethy-Zaugg
+   50          1.50   3.50 5-Miller-Ford vs 3-Delfs-Christie
+   50          1.50   3.50 8-Cline-Vulcan vs 11-Tafjord-James
+  100          4.50   0.50 12-Romeo-Grill vs 6-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          4.00   1.00 2-Cowles-Laughary vs 8-Cline-Vulcan
+  430          5.00   0.00 5-Miller-Ford vs 1-Tipton-Hesson
+  140          2.00   3.00 6-Ring-Christensen vs 4-Taylor-Anderson
+  140          2.00   3.00 10-Herman-Sieg vs 3-Delfs-Christie
+  140          2.00   3.00 11-Tafjord-James vs 9-Abernethy-Zaugg
+         50    0.00   5.00 12-Romeo-Grill vs 7-Eng-Chubukov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.00   1.00 2-Cowles-Laughary vs 8-Cline-Vulcan
+  600          1.50   3.50 5-Miller-Ford vs 1-Tipton-Hesson
+  630          4.00   1.00 6-Ring-Christensen vs 4-Taylor-Anderson
+  630          4.00   1.00 10-Herman-Sieg vs 3-Delfs-Christie
+        100    0.00   5.00 11-Tafjord-James vs 9-Abernethy-Zaugg
+  600          1.50   3.50 12-Romeo-Grill vs 7-Eng-Chubukov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.00   5.00 2-Cowles-Laughary vs 8-Cline-Vulcan
+         90    4.00   1.00 5-Miller-Ford vs 1-Tipton-Hesson
+        180    1.00   4.00 6-Ring-Christensen vs 4-Taylor-Anderson
+   90          5.00   0.00 10-Herman-Sieg vs 3-Delfs-Christie
+        120    2.50   2.50 11-Tafjord-James vs 9-Abernethy-Zaugg
+        120    2.50   2.50 12-Romeo-Grill vs 7-Eng-Chubukov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   2.50 3-Delfs-Christie vs 9-Abernethy-Zaugg
+  300          5.00   0.00 6-Ring-Christensen vs 2-Cowles-Laughary
+  100          2.50   2.50 7-Eng-Chubukov vs 5-Miller-Ford
+  100          2.50   2.50 10-Herman-Sieg vs 4-Taylor-Anderson
+  100          2.50   2.50 11-Tafjord-James vs 1-Tipton-Hesson
+        170    0.00   5.00 12-Romeo-Grill vs 8-Cline-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.50   2.50 3-Delfs-Christie vs 9-Abernethy-Zaugg
+        100    1.00   4.00 6-Ring-Christensen vs 2-Cowles-Laughary
+  600          4.50   0.50 7-Eng-Chubukov vs 5-Miller-Ford
+  130          2.50   2.50 10-Herman-Sieg vs 4-Taylor-Anderson
+  600          4.50   0.50 11-Tafjord-James vs 1-Tipton-Hesson
+        930    0.00   5.00 12-Romeo-Grill vs 8-Cline-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    1.00   4.00 3-Delfs-Christie vs 9-Abernethy-Zaugg
+        450    4.50   0.50 6-Ring-Christensen vs 2-Cowles-Laughary
+        450    4.50   0.50 7-Eng-Chubukov vs 5-Miller-Ford
+        480    2.00   3.00 10-Herman-Sieg vs 4-Taylor-Anderson
+        460    3.00   2.00 11-Tafjord-James vs 1-Tipton-Hesson
+        980    0.00   5.00 12-Romeo-Grill vs 8-Cline-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          2.50   2.50 2-Cowles-Laughary vs 11-Tafjord-James
+  510          4.00   1.00 4-Taylor-Anderson vs 1-Tipton-Hesson
+  480          2.50   2.50 5-Miller-Ford vs 10-Herman-Sieg
+  460          1.00   4.00 7-Eng-Chubukov vs 3-Delfs-Christie
+  450          0.00   5.00 8-Cline-Vulcan vs 6-Ring-Christensen
+  520          5.00   0.00 12-Romeo-Grill vs 9-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.00   2.00 2-Cowles-Laughary vs 11-Tafjord-James
+  620          3.00   2.00 4-Taylor-Anderson vs 1-Tipton-Hesson
+  620          3.00   2.00 5-Miller-Ford vs 10-Herman-Sieg
+  620          3.00   2.00 7-Eng-Chubukov vs 3-Delfs-Christie
+  620          3.00   2.00 8-Cline-Vulcan vs 6-Ring-Christensen
+  170          0.00   5.00 12-Romeo-Grill vs 9-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.00   2.00 2-Cowles-Laughary vs 11-Tafjord-James
+  430          3.00   2.00 4-Taylor-Anderson vs 1-Tipton-Hesson
+  430          3.00   2.00 5-Miller-Ford vs 10-Herman-Sieg
+  430          3.00   2.00 7-Eng-Chubukov vs 3-Delfs-Christie
+  430          3.00   2.00 8-Cline-Vulcan vs 6-Ring-Christensen
+  400          0.00   5.00 12-Romeo-Grill vs 9-Abernethy-Zaugg
+----------------------------------------------------------------------
