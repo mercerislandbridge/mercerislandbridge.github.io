@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 8, 2022   |CLUB NO.>158048    | 11/08/2022 22:21
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Upgraded Club Championship   |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/5000/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=9/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Clay Laughary          Pete Cowles              C   .     .     .   |   .     .     1     51.00  47.22  0.79(SC)
+
+ 2 Greg Olmstead          Mark Varner              C   .     .     .   |   .     .     .     42.50  39.35          
+
+ 3 Jeffrey Ford           Sue Anderson             B  1/2   1/2    .   |  1/2   1/2    .     63.00  58.33  2.46(OA)
+
+ 4 Mike Christensen       Becky Stevens            B   .     .     .   |   .     .     .     59.50  55.09          
+
+ 5 Brian Zaugg            David Wright             B   4     4     .   |   4     4     .     60.50  56.02  1.19(OA)
+
+ 6 Ray Miller             Ann Romeo                A   .     .     .   |   .     .     .     52.00  48.15          
+
+ 7 Kim Eng                Eric Sieg                B   3     3     .   |   3     3     .     62.00  57.41  1.58(OA)
+
+ 8 Irving Sonkin          Moises Saul              C   .     .     .   |   .     .     .     34.50  31.94          
+
+ 9 Nick Tipton            Galen Hesson             B  1/2   1/2    .   |  1/2   1/2    .     63.00  58.33  2.46(OA)
+
+10 Oyvind Tafjord         Andrea James             B   .     .     .   |   .     .     .     52.00  48.15          
+
+
+                                          Totals                                            540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 1-Laughary-Cowles vs 4-Christensen-Stevens
+        100    0.00   4.00 2-Olmstead-Varner vs 9-Tipton-Hesson
+   50          2.00   2.00 3-Ford-Anderson vs 7-Eng-Sieg
+  100          3.00   1.00 5-Zaugg-Wright vs 6-Miller-Romeo
+  130          4.00   0.00 10-Tafjord-James vs 8-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.50   2.50 1-Laughary-Cowles vs 4-Christensen-Stevens
+        200    0.00   4.00 2-Olmstead-Varner vs 9-Tipton-Hesson
+  140          1.50   2.50 3-Ford-Anderson vs 7-Eng-Sieg
+  170          3.50   0.50 5-Zaugg-Wright vs 6-Miller-Romeo
+  170          3.50   0.50 10-Tafjord-James vs 8-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    1.00   3.00 1-Laughary-Cowles vs 4-Christensen-Stevens
+        620    0.00   4.00 2-Olmstead-Varner vs 9-Tipton-Hesson
+        150    3.00   1.00 3-Ford-Anderson vs 7-Eng-Sieg
+        150    3.00   1.00 5-Zaugg-Wright vs 6-Miller-Romeo
+        150    3.00   1.00 10-Tafjord-James vs 8-Sonkin-Saul
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.50   3.50 2-Olmstead-Varner vs 5-Zaugg-Wright
+        630    2.00   2.00 3-Ford-Anderson vs 1-Laughary-Cowles
+        150    4.00   0.00 4-Christensen-Stevens vs 8-Sonkin-Saul
+        660    0.50   3.50 6-Miller-Romeo vs 7-Eng-Sieg
+        210    3.00   1.00 10-Tafjord-James vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   3.00 2-Olmstead-Varner vs 5-Zaugg-Wright
+   90          3.00   1.00 3-Ford-Anderson vs 1-Laughary-Cowles
+  150          4.00   0.00 4-Christensen-Stevens vs 8-Sonkin-Saul
+        200    0.00   4.00 6-Miller-Romeo vs 7-Eng-Sieg
+        100    2.00   2.00 10-Tafjord-James vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 2-Olmstead-Varner vs 5-Zaugg-Wright
+        650    1.00   3.00 3-Ford-Anderson vs 1-Laughary-Cowles
+         50    3.00   1.00 4-Christensen-Stevens vs 8-Sonkin-Saul
+        500    2.00   2.00 6-Miller-Romeo vs 7-Eng-Sieg
+        990    0.00   4.00 10-Tafjord-James vs 9-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   0.00 3-Ford-Anderson vs 6-Miller-Romeo
+  100          3.00   1.00 4-Christensen-Stevens vs 2-Olmstead-Varner
+        100    0.50   3.50 5-Zaugg-Wright vs 9-Tipton-Hesson
+        100    0.50   3.50 7-Eng-Sieg vs 8-Sonkin-Saul
+         90    2.00   2.00 10-Tafjord-James vs 1-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   0.50 3-Ford-Anderson vs 6-Miller-Romeo
+        480    1.00   3.00 4-Christensen-Stevens vs 2-Olmstead-Varner
+        480    1.00   3.00 5-Zaugg-Wright vs 9-Tipton-Hesson
+        480    1.00   3.00 7-Eng-Sieg vs 8-Sonkin-Saul
+        100    3.50   0.50 10-Tafjord-James vs 1-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.50   3.50 3-Ford-Anderson vs 6-Miller-Romeo
+  450          2.00   2.00 4-Christensen-Stevens vs 2-Olmstead-Varner
+  480          3.50   0.50 5-Zaugg-Wright vs 9-Tipton-Hesson
+  480          3.50   0.50 7-Eng-Sieg vs 8-Sonkin-Saul
+  200          0.50   3.50 10-Tafjord-James vs 1-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          1.00   3.00 4-Christensen-Stevens vs 7-Eng-Sieg
+  120          1.00   3.00 5-Zaugg-Wright vs 3-Ford-Anderson
+  120          1.00   3.00 6-Miller-Romeo vs 1-Laughary-Cowles
+  150          3.50   0.50 8-Sonkin-Saul vs 9-Tipton-Hesson
+  150          3.50   0.50 10-Tafjord-James vs 2-Olmstead-Varner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   3.50 4-Christensen-Stevens vs 7-Eng-Sieg
+  420          3.00   1.00 5-Zaugg-Wright vs 3-Ford-Anderson
+         50    0.50   3.50 6-Miller-Romeo vs 1-Laughary-Cowles
+  420          3.00   1.00 8-Sonkin-Saul vs 9-Tipton-Hesson
+  420          3.00   1.00 10-Tafjord-James vs 2-Olmstead-Varner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   0.00 4-Christensen-Stevens vs 7-Eng-Sieg
+  140          3.00   1.00 5-Zaugg-Wright vs 3-Ford-Anderson
+        100    2.00   2.00 6-Miller-Romeo vs 1-Laughary-Cowles
+        200    0.50   3.50 8-Sonkin-Saul vs 9-Tipton-Hesson
+        200    0.50   3.50 10-Tafjord-James vs 2-Olmstead-Varner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   4.00 5-Zaugg-Wright vs 8-Sonkin-Saul
+        140    1.50   2.50 6-Miller-Romeo vs 4-Christensen-Stevens
+        120    3.50   0.50 7-Eng-Sieg vs 2-Olmstead-Varner
+        120    3.50   0.50 9-Tipton-Hesson vs 1-Laughary-Cowles
+        140    1.50   2.50 10-Tafjord-James vs 3-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.00   1.00 5-Zaugg-Wright vs 8-Sonkin-Saul
+        430    2.00   2.00 6-Miller-Romeo vs 4-Christensen-Stevens
+  100          4.00   0.00 7-Eng-Sieg vs 2-Olmstead-Varner
+        500    0.00   4.00 9-Tipton-Hesson vs 1-Laughary-Cowles
+        460    1.00   3.00 10-Tafjord-James vs 3-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.00   0.00 5-Zaugg-Wright vs 8-Sonkin-Saul
+  650          3.00   1.00 6-Miller-Romeo vs 4-Christensen-Stevens
+  230          1.00   3.00 7-Eng-Sieg vs 2-Olmstead-Varner
+  620          2.00   2.00 9-Tipton-Hesson vs 1-Laughary-Cowles
+        100    0.00   4.00 10-Tafjord-James vs 3-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.00   0.00 1-Laughary-Cowles vs 2-Olmstead-Varner
+        170    1.00   3.00 6-Miller-Romeo vs 9-Tipton-Hesson
+        100    3.00   1.00 7-Eng-Sieg vs 5-Zaugg-Wright
+        180    0.00   4.00 8-Sonkin-Saul vs 3-Ford-Anderson
+        140    2.00   2.00 10-Tafjord-James vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          2.00   2.00 1-Laughary-Cowles vs 2-Olmstead-Varner
+  480          2.00   2.00 6-Miller-Romeo vs 9-Tipton-Hesson
+  480          2.00   2.00 7-Eng-Sieg vs 5-Zaugg-Wright
+  480          2.00   2.00 8-Sonkin-Saul vs 3-Ford-Anderson
+  480          2.00   2.00 10-Tafjord-James vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   2.50 1-Laughary-Cowles vs 2-Olmstead-Varner
+  250          4.00   0.00 6-Miller-Romeo vs 9-Tipton-Hesson
+        130    3.00   1.00 7-Eng-Sieg vs 5-Zaugg-Wright
+        170    0.00   4.00 8-Sonkin-Saul vs 3-Ford-Anderson
+        140    1.50   2.50 10-Tafjord-James vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.00   2.00 2-Olmstead-Varner vs 3-Ford-Anderson
+  420          3.00   1.00 7-Eng-Sieg vs 1-Laughary-Cowles
+         90    0.00   4.00 8-Sonkin-Saul vs 6-Miller-Romeo
+  500          4.00   0.00 9-Tipton-Hesson vs 4-Christensen-Stevens
+  100          1.00   3.00 10-Tafjord-James vs 5-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   0.50 2-Olmstead-Varner vs 3-Ford-Anderson
+  140          3.50   0.50 7-Eng-Sieg vs 1-Laughary-Cowles
+        100    0.50   3.50 8-Sonkin-Saul vs 6-Miller-Romeo
+  100          2.00   2.00 9-Tipton-Hesson vs 4-Christensen-Stevens
+        100    0.50   3.50 10-Tafjord-James vs 5-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.50   1.50 2-Olmstead-Varner vs 3-Ford-Anderson
+  600          2.50   1.50 7-Eng-Sieg vs 1-Laughary-Cowles
+        100    0.50   3.50 8-Sonkin-Saul vs 6-Miller-Romeo
+        100    0.50   3.50 9-Tipton-Hesson vs 4-Christensen-Stevens
+  620          4.00   0.00 10-Tafjord-James vs 5-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.00   4.00 1-Laughary-Cowles vs 5-Zaugg-Wright
+  400          2.00   2.00 3-Ford-Anderson vs 4-Christensen-Stevens
+  420          3.00   1.00 8-Sonkin-Saul vs 2-Olmstead-Varner
+  940          4.00   0.00 9-Tipton-Hesson vs 7-Eng-Sieg
+        100    1.00   3.00 10-Tafjord-James vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   4.00 1-Laughary-Cowles vs 5-Zaugg-Wright
+  300          4.00   0.00 3-Ford-Anderson vs 4-Christensen-Stevens
+        100    1.00   3.00 8-Sonkin-Saul vs 2-Olmstead-Varner
+  100          3.00   1.00 9-Tipton-Hesson vs 7-Eng-Sieg
+   90          2.00   2.00 10-Tafjord-James vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   2.00 1-Laughary-Cowles vs 5-Zaugg-Wright
+        450    2.00   2.00 3-Ford-Anderson vs 4-Christensen-Stevens
+        450    2.00   2.00 8-Sonkin-Saul vs 2-Olmstead-Varner
+        450    2.00   2.00 9-Tipton-Hesson vs 7-Eng-Sieg
+        450    2.00   2.00 10-Tafjord-James vs 6-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.00   4.00 1-Laughary-Cowles vs 8-Sonkin-Saul
+         90    3.00   1.00 2-Olmstead-Varner vs 6-Miller-Romeo
+        100    1.00   3.00 4-Christensen-Stevens vs 5-Zaugg-Wright
+         90    3.00   1.00 9-Tipton-Hesson vs 3-Ford-Anderson
+         90    3.00   1.00 10-Tafjord-James vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    4.00   0.00 1-Laughary-Cowles vs 8-Sonkin-Saul
+        620    1.00   3.00 2-Olmstead-Varner vs 6-Miller-Romeo
+        200    3.00   1.00 4-Christensen-Stevens vs 5-Zaugg-Wright
+        620    1.00   3.00 9-Tipton-Hesson vs 3-Ford-Anderson
+        620    1.00   3.00 10-Tafjord-James vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   0.00 1-Laughary-Cowles vs 8-Sonkin-Saul
+        590    0.00   4.00 2-Olmstead-Varner vs 6-Miller-Romeo
+         50    3.00   1.00 4-Christensen-Stevens vs 5-Zaugg-Wright
+        170    2.00   2.00 9-Tipton-Hesson vs 3-Ford-Anderson
+        450    1.00   3.00 10-Tafjord-James vs 7-Eng-Sieg
+----------------------------------------------------------------------
