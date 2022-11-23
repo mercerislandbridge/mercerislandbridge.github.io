@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>November 15, 2022  |CLUB NO.>158048    | 11/15/2022 22:28
+DATE>November 15, 2022  |CLUB NO.>158048    | 11/22/2022 22:17
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,33 +11,33 @@ PAIRS IN STRAT A=14/B=9/C=1                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Eric Sieg              Gregory Herman           B    4     2     .     84.00  53.85  0.50(B) 
+ 1 Eric Sieg              Gregory Herman           B    4     3     .     85.00  54.49  0.49(A) 
 
- 2 Bogdan Vulcan          Kevin Cline              B    .     .     .     75.00  48.08          
+ 2 Bryan Delfs            Stanford Christie        A    .     .     .     74.00  47.44          
 
- 3 Tracey Bauer           Shawn Abernethy          A    .     .     .     70.50  45.19          
+ 3 Tracey Bauer           Shawn Abernethy          A    .     .     .     76.50  49.04          
 
- 4 Bryan Delfs            Stanford Christie        A    2     .     .     94.50  60.58  0.98(A) 
+ 4 Bogdan Vulcan          Kevin Cline              B    2     1     .     95.50  61.22  0.98(A) 
 
- 5 Mike Christensen       Becky Stevens            A    1     .     .     98.50  63.14  1.40(A) 
+ 5 Mike Christensen       Becky Stevens            A    1     .     .     97.50  62.50  1.40(A) 
 
- 6 Ann Romeo              Sue Anderson             B    .     .     .     72.00  46.15          
+ 6 Ann Romeo              Sue Anderson             B    .     .     .     73.00  46.79          
 
- 7 Ray Miller             Chris Moore              A    .     .     .     67.00  42.95          
+ 7 Ray Miller             Chris Moore              A    .     .     .     68.00  43.59          
 
- 8 Kim Eng                Jeffrey Ford             A    .     .     .     72.50  46.47          
+ 8 Kim Eng                Jeffrey Ford             A    .     .     .     73.50  47.12          
 
- 9 Oyvind Tafjord         Andrea James             B    3     1     .     86.00  55.13  0.72(B) 
+ 9 Oyvind Tafjord         Andrea James             B    3     2     .     87.00  55.77  0.70(A) 
 
-10 Bob Sievers            Mike Ring                B    .     .     .     76.50  49.04          
+10 Bob Sievers            Mike Ring                B    .     .     .     70.50  45.19          
 
-11 Nick Tipton            Galen Hesson             B    .     .     .     71.50  45.83          
+11 Nick Tipton            Galen Hesson             B    .     .     .     70.50  45.19          
 
-12 Clay Laughary          Pete Cowles              C    5     3     .     79.50  50.96  0.36(B) 
+12 Clay Laughary          Pete Cowles              C    5     4     .     78.50  50.32  0.28(A) 
 
-13 David Taylor           Aaron Mohrman            B    .     .     .     65.50  41.99          
+13 David Taylor           Aaron Mohrman            B    .     .     .     64.50  41.35          
 
-14 Adam Ruprecht          Christopher Jarvis       B    6     4     .     79.00  50.64  0.25(B) 
+14 Adam Ruprecht          Christopher Jarvis       B    6     .     .     78.00  50.00  0.23(A) 
 
 
                                           Totals                        1092.00       
@@ -47,8 +47,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         420    2.50   3.50 1-Sieg-Herman vs 3-Bauer-Abernethy
-       1400    0.00   6.00 2-Vulcan-Cline vs 6-Romeo-Anderson
-        420    2.50   3.50 4-Delfs-Christie vs 9-Tafjord-James
+       1400    0.00   6.00 2-Delfs-Christie vs 6-Romeo-Anderson
+        420    2.50   3.50 4-Vulcan-Cline vs 9-Tafjord-James
         170    6.00   0.00 5-Christensen-Stevens vs 12-Laughary-Cowles
         800    1.00   5.00 7-Miller-Moore vs 8-Eng-Ford
         200    4.50   1.50 13-Taylor-Mohrman vs 10-Sievers-Ring
@@ -60,8 +60,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   230          1.00   5.00 1-Sieg-Herman vs 3-Bauer-Abernethy
-  660          4.00   2.00 2-Vulcan-Cline vs 6-Romeo-Anderson
-  660          4.00   2.00 4-Delfs-Christie vs 9-Tafjord-James
+  660          4.00   2.00 2-Delfs-Christie vs 6-Romeo-Anderson
+  660          4.00   2.00 4-Vulcan-Cline vs 9-Tafjord-James
   660          4.00   2.00 5-Christensen-Stevens vs 12-Laughary-Cowles
   100          0.00   6.00 7-Miller-Moore vs 8-Eng-Ford
   660          4.00   2.00 13-Taylor-Mohrman vs 10-Sievers-Ring
@@ -73,7 +73,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   460          5.50   0.50 1-Sieg-Herman vs 11-Tipton-Hesson
-  420          0.50   5.50 2-Vulcan-Cline vs 4-Delfs-Christie
+  420          0.50   5.50 2-Delfs-Christie vs 4-Vulcan-Cline
   450          4.00   2.00 3-Bauer-Abernethy vs 7-Miller-Moore
   460          5.50   0.50 5-Christensen-Stevens vs 10-Sievers-Ring
   430          2.50   3.50 6-Romeo-Anderson vs 13-Taylor-Mohrman
@@ -86,7 +86,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   200          5.00   1.00 1-Sieg-Herman vs 11-Tipton-Hesson
-        630    1.50   4.50 2-Vulcan-Cline vs 4-Delfs-Christie
+        630    1.50   4.50 2-Delfs-Christie vs 4-Vulcan-Cline
   300          6.00   0.00 3-Bauer-Abernethy vs 7-Miller-Moore
   100          4.00   2.00 5-Christensen-Stevens vs 10-Sievers-Ring
          90    3.00   3.00 6-Romeo-Anderson vs 13-Taylor-Mohrman
@@ -98,9 +98,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  630          5.00   1.00 2-Vulcan-Cline vs 12-Laughary-Cowles
+  630          5.00   1.00 2-Delfs-Christie vs 12-Laughary-Cowles
         100    0.00   6.00 3-Bauer-Abernethy vs 5-Christensen-Stevens
-  650          6.00   0.00 4-Delfs-Christie vs 8-Eng-Ford
+  650          6.00   0.00 4-Vulcan-Cline vs 8-Eng-Ford
   620          2.50   3.50 6-Romeo-Anderson vs 11-Tipton-Hesson
   620          2.50   3.50 7-Miller-Moore vs 1-Sieg-Herman
   620          2.50   3.50 9-Tafjord-James vs 10-Sievers-Ring
@@ -111,9 +111,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        140    2.50   3.50 2-Vulcan-Cline vs 12-Laughary-Cowles
+        140    2.50   3.50 2-Delfs-Christie vs 12-Laughary-Cowles
         140    2.50   3.50 3-Bauer-Abernethy vs 5-Christensen-Stevens
-        140    2.50   3.50 4-Delfs-Christie vs 8-Eng-Ford
+        140    2.50   3.50 4-Vulcan-Cline vs 8-Eng-Ford
         140    2.50   3.50 6-Romeo-Anderson vs 11-Tipton-Hesson
         170    0.00   6.00 7-Miller-Moore vs 1-Sieg-Herman
   400          6.00   0.00 9-Tafjord-James vs 10-Sievers-Ring
@@ -125,10 +125,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   650          1.50   4.50 3-Bauer-Abernethy vs 13-Taylor-Mohrman
-  650          1.50   4.50 4-Delfs-Christie vs 6-Romeo-Anderson
+  650          1.50   4.50 4-Vulcan-Cline vs 6-Romeo-Anderson
   710          6.00   0.00 5-Christensen-Stevens vs 9-Tafjord-James
   650          1.50   4.50 7-Miller-Moore vs 12-Laughary-Cowles
-  650          1.50   4.50 8-Eng-Ford vs 2-Vulcan-Cline
+  650          1.50   4.50 8-Eng-Ford vs 2-Delfs-Christie
   680          4.50   1.50 10-Sievers-Ring vs 11-Tipton-Hesson
   680          4.50   1.50 14-Ruprecht-Jarvis vs 1-Sieg-Herman
 ----------------------------------------------------------------------
@@ -138,10 +138,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   180          6.00   0.00 3-Bauer-Abernethy vs 13-Taylor-Mohrman
-  140          5.00   1.00 4-Delfs-Christie vs 6-Romeo-Anderson
+  140          5.00   1.00 4-Vulcan-Cline vs 6-Romeo-Anderson
   110          1.50   4.50 5-Christensen-Stevens vs 9-Tafjord-James
   120          4.00   2.00 7-Miller-Moore vs 12-Laughary-Cowles
-  110          1.50   4.50 8-Eng-Ford vs 2-Vulcan-Cline
+  110          1.50   4.50 8-Eng-Ford vs 2-Delfs-Christie
   110          1.50   4.50 10-Sievers-Ring vs 11-Tipton-Hesson
   110          1.50   4.50 14-Ruprecht-Jarvis vs 1-Sieg-Herman
 ----------------------------------------------------------------------
@@ -150,37 +150,37 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  450          4.50   1.50 4-Delfs-Christie vs 1-Sieg-Herman
+  450          4.50   1.50 4-Vulcan-Cline vs 1-Sieg-Herman
   120          0.00   6.00 5-Christensen-Stevens vs 7-Miller-Moore
   480          6.00   0.00 6-Romeo-Anderson vs 10-Sievers-Ring
   450          4.50   1.50 8-Eng-Ford vs 13-Taylor-Mohrman
   420          2.50   3.50 9-Tafjord-James vs 3-Bauer-Abernethy
   400          1.00   5.00 11-Tipton-Hesson vs 12-Laughary-Cowles
-  420          2.50   3.50 14-Ruprecht-Jarvis vs 2-Vulcan-Cline
+  420          2.50   3.50 14-Ruprecht-Jarvis vs 2-Delfs-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 10
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  300          6.00   0.00 4-Delfs-Christie vs 1-Sieg-Herman
+  300          6.00   0.00 4-Vulcan-Cline vs 1-Sieg-Herman
   200          3.00   3.00 5-Christensen-Stevens vs 7-Miller-Moore
   200          3.00   3.00 6-Romeo-Anderson vs 10-Sievers-Ring
   200          3.00   3.00 8-Eng-Ford vs 13-Taylor-Mohrman
   200          3.00   3.00 9-Tafjord-James vs 3-Bauer-Abernethy
   140          0.00   6.00 11-Tipton-Hesson vs 12-Laughary-Cowles
-  200          3.00   3.00 14-Ruprecht-Jarvis vs 2-Vulcan-Cline
+  200          3.00   3.00 14-Ruprecht-Jarvis vs 2-Delfs-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 11
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  300          6.00   0.00 5-Christensen-Stevens vs 2-Vulcan-Cline
+  300          6.00   0.00 5-Christensen-Stevens vs 2-Delfs-Christie
    50          4.50   1.50 6-Romeo-Anderson vs 8-Eng-Ford
         400    2.00   4.00 7-Miller-Moore vs 11-Tipton-Hesson
    50          4.50   1.50 9-Tafjord-James vs 1-Sieg-Herman
-        490    0.50   5.50 10-Sievers-Ring vs 4-Delfs-Christie
+        490    0.50   5.50 10-Sievers-Ring vs 4-Vulcan-Cline
         490    0.50   5.50 12-Laughary-Cowles vs 13-Taylor-Mohrman
         300    3.00   3.00 14-Ruprecht-Jarvis vs 3-Bauer-Abernethy
 ----------------------------------------------------------------------
@@ -189,11 +189,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        130    2.00   4.00 5-Christensen-Stevens vs 2-Vulcan-Cline
+        130    2.00   4.00 5-Christensen-Stevens vs 2-Delfs-Christie
         130    2.00   4.00 6-Romeo-Anderson vs 8-Eng-Ford
         130    2.00   4.00 7-Miller-Moore vs 11-Tipton-Hesson
         130    2.00   4.00 9-Tafjord-James vs 1-Sieg-Herman
-   50          5.50   0.50 10-Sievers-Ring vs 4-Delfs-Christie
+   50          5.50   0.50 10-Sievers-Ring vs 4-Vulcan-Cline
         130    2.00   4.00 12-Laughary-Cowles vs 13-Taylor-Mohrman
    50          5.50   0.50 14-Ruprecht-Jarvis vs 3-Bauer-Abernethy
 ----------------------------------------------------------------------
@@ -205,10 +205,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
          80    0.00   6.00 6-Romeo-Anderson vs 3-Bauer-Abernethy
   800          6.00   0.00 7-Miller-Moore vs 9-Tafjord-James
   200          4.00   2.00 8-Eng-Ford vs 12-Laughary-Cowles
-  200          4.00   2.00 10-Sievers-Ring vs 2-Vulcan-Cline
+  200          4.00   2.00 10-Sievers-Ring vs 2-Delfs-Christie
   200          4.00   2.00 11-Tipton-Hesson vs 5-Christensen-Stevens
   100          1.50   4.50 13-Taylor-Mohrman vs 1-Sieg-Herman
-  100          1.50   4.50 14-Ruprecht-Jarvis vs 4-Delfs-Christie
+  100          1.50   4.50 14-Ruprecht-Jarvis vs 4-Vulcan-Cline
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 14
@@ -218,18 +218,18 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   980          2.50   3.50 6-Romeo-Anderson vs 3-Bauer-Abernethy
   480          0.00   6.00 7-Miller-Moore vs 9-Tafjord-James
   980          2.50   3.50 8-Eng-Ford vs 12-Laughary-Cowles
- 1010          5.50   0.50 10-Sievers-Ring vs 2-Vulcan-Cline
+ 1010          5.50   0.50 10-Sievers-Ring vs 2-Delfs-Christie
  1010          5.50   0.50 11-Tipton-Hesson vs 5-Christensen-Stevens
   980          2.50   3.50 13-Taylor-Mohrman vs 1-Sieg-Herman
-  980          2.50   3.50 14-Ruprecht-Jarvis vs 4-Delfs-Christie
+  980          2.50   3.50 14-Ruprecht-Jarvis vs 4-Vulcan-Cline
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 15
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  500          3.50   2.50 1-Sieg-Herman vs 2-Vulcan-Cline
-        200    0.00   6.00 7-Miller-Moore vs 4-Delfs-Christie
+  500          3.50   2.50 1-Sieg-Herman vs 2-Delfs-Christie
+        200    0.00   6.00 7-Miller-Moore vs 4-Vulcan-Cline
   140          2.00   4.00 8-Eng-Ford vs 10-Sievers-Ring
   620          5.00   1.00 9-Tafjord-James vs 13-Taylor-Mohrman
   800          6.00   0.00 11-Tipton-Hesson vs 3-Bauer-Abernethy
@@ -241,8 +241,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        140    3.50   2.50 1-Sieg-Herman vs 2-Vulcan-Cline
-  200          6.00   0.00 7-Miller-Moore vs 4-Delfs-Christie
+        140    3.50   2.50 1-Sieg-Herman vs 2-Delfs-Christie
+  200          6.00   0.00 7-Miller-Moore vs 4-Vulcan-Cline
         200    1.00   5.00 8-Eng-Ford vs 10-Sievers-Ring
         140    3.50   2.50 9-Tafjord-James vs 13-Taylor-Mohrman
         500    0.00   6.00 11-Tipton-Hesson vs 3-Bauer-Abernethy
@@ -254,11 +254,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   50          3.50   2.50 2-Vulcan-Cline vs 3-Bauer-Abernethy
+   50          3.50   2.50 2-Delfs-Christie vs 3-Bauer-Abernethy
    50          3.50   2.50 8-Eng-Ford vs 5-Christensen-Stevens
    50          3.50   2.50 9-Tafjord-James vs 11-Tipton-Hesson
    50          3.50   2.50 10-Sievers-Ring vs 1-Sieg-Herman
-   50          3.50   2.50 12-Laughary-Cowles vs 4-Delfs-Christie
+   50          3.50   2.50 12-Laughary-Cowles vs 4-Vulcan-Cline
         420    0.00   6.00 13-Taylor-Mohrman vs 7-Miller-Moore
    50          3.50   2.50 14-Ruprecht-Jarvis vs 6-Romeo-Anderson
 ----------------------------------------------------------------------
@@ -267,11 +267,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  790          5.00   1.00 2-Vulcan-Cline vs 3-Bauer-Abernethy
+  790          5.00   1.00 2-Delfs-Christie vs 3-Bauer-Abernethy
   100          3.00   3.00 8-Eng-Ford vs 5-Christensen-Stevens
    50          1.50   4.50 9-Tafjord-James vs 11-Tipton-Hesson
   620          4.00   2.00 10-Sievers-Ring vs 1-Sieg-Herman
-        200    0.00   6.00 12-Laughary-Cowles vs 4-Delfs-Christie
+        200    0.00   6.00 12-Laughary-Cowles vs 4-Vulcan-Cline
   930          6.00   0.00 13-Taylor-Mohrman vs 7-Miller-Moore
    50          1.50   4.50 14-Ruprecht-Jarvis vs 6-Romeo-Anderson
 ----------------------------------------------------------------------
@@ -281,10 +281,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   480          5.50   0.50 1-Sieg-Herman vs 8-Eng-Ford
-  450          2.00   4.00 3-Bauer-Abernethy vs 4-Delfs-Christie
+  450          2.00   4.00 3-Bauer-Abernethy vs 4-Vulcan-Cline
   450          2.00   4.00 9-Tafjord-James vs 6-Romeo-Anderson
   480          5.50   0.50 10-Sievers-Ring vs 12-Laughary-Cowles
-  450          2.00   4.00 11-Tipton-Hesson vs 2-Vulcan-Cline
+  450          2.00   4.00 11-Tipton-Hesson vs 2-Delfs-Christie
   450          2.00   4.00 13-Taylor-Mohrman vs 5-Christensen-Stevens
   450          2.00   4.00 14-Ruprecht-Jarvis vs 7-Miller-Moore
 ----------------------------------------------------------------------
@@ -294,10 +294,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         110    5.00   1.00 1-Sieg-Herman vs 8-Eng-Ford
-        200    3.50   2.50 3-Bauer-Abernethy vs 4-Delfs-Christie
+        200    3.50   2.50 3-Bauer-Abernethy vs 4-Vulcan-Cline
   100          6.00   0.00 9-Tafjord-James vs 6-Romeo-Anderson
         200    3.50   2.50 10-Sievers-Ring vs 12-Laughary-Cowles
-        670    0.00   6.00 11-Tipton-Hesson vs 2-Vulcan-Cline
+        670    0.00   6.00 11-Tipton-Hesson vs 2-Delfs-Christie
         500    1.00   5.00 13-Taylor-Mohrman vs 5-Christensen-Stevens
         300    2.00   4.00 14-Ruprecht-Jarvis vs 7-Miller-Moore
 ----------------------------------------------------------------------
@@ -307,8 +307,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   620          5.00   1.00 1-Sieg-Herman vs 6-Romeo-Anderson
-        200    0.00   6.00 2-Vulcan-Cline vs 9-Tafjord-James
-        100    1.00   5.00 4-Delfs-Christie vs 5-Christensen-Stevens
+        200    0.00   6.00 2-Delfs-Christie vs 9-Tafjord-James
+        100    1.00   5.00 4-Vulcan-Cline vs 5-Christensen-Stevens
   100          2.00   4.00 10-Sievers-Ring vs 7-Miller-Moore
   870          6.00   0.00 11-Tipton-Hesson vs 13-Taylor-Mohrman
   150          3.00   3.00 12-Laughary-Cowles vs 3-Bauer-Abernethy
@@ -320,8 +320,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   180          5.00   1.00 1-Sieg-Herman vs 6-Romeo-Anderson
-  150          3.50   2.50 2-Vulcan-Cline vs 9-Tafjord-James
-         50    1.50   4.50 4-Delfs-Christie vs 5-Christensen-Stevens
+  150          3.50   2.50 2-Delfs-Christie vs 9-Tafjord-James
+         50    1.50   4.50 4-Vulcan-Cline vs 5-Christensen-Stevens
   150          3.50   2.50 10-Sievers-Ring vs 7-Miller-Moore
         100    0.00   6.00 11-Tipton-Hesson vs 13-Taylor-Mohrman
   300          6.00   0.00 12-Laughary-Cowles vs 3-Bauer-Abernethy
@@ -332,25 +332,25 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        100    2.00   4.00 2-Vulcan-Cline vs 7-Miller-Moore
-        660    0.00   6.00 3-Bauer-Abernethy vs 10-Sievers-Ring
-  650          6.00   0.00 5-Christensen-Stevens vs 6-Romeo-Anderson
-        100    2.00   4.00 11-Tipton-Hesson vs 8-Eng-Ford
-  620          4.50   1.50 12-Laughary-Cowles vs 1-Sieg-Herman
-        100    2.00   4.00 13-Taylor-Mohrman vs 4-Delfs-Christie
-  620          4.50   1.50 14-Ruprecht-Jarvis vs 9-Tafjord-James
+        100    1.00   5.00 2-Delfs-Christie vs 7-Miller-Moore
+  660          6.00   0.00 3-Bauer-Abernethy vs 10-Sievers-Ring
+  650          5.00   1.00 5-Christensen-Stevens vs 6-Romeo-Anderson
+        100    1.00   5.00 11-Tipton-Hesson vs 8-Eng-Ford
+  620          3.50   2.50 12-Laughary-Cowles vs 1-Sieg-Herman
+        100    1.00   5.00 13-Taylor-Mohrman vs 4-Vulcan-Cline
+  620          3.50   2.50 14-Ruprecht-Jarvis vs 9-Tafjord-James
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 24
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        400    1.50   4.50 2-Vulcan-Cline vs 7-Miller-Moore
+        400    1.50   4.50 2-Delfs-Christie vs 7-Miller-Moore
         400    1.50   4.50 3-Bauer-Abernethy vs 10-Sievers-Ring
    50          5.00   1.00 5-Christensen-Stevens vs 6-Romeo-Anderson
    50          5.00   1.00 11-Tipton-Hesson vs 8-Eng-Ford
    50          5.00   1.00 12-Laughary-Cowles vs 1-Sieg-Herman
-        430    0.00   6.00 13-Taylor-Mohrman vs 4-Delfs-Christie
+        430    0.00   6.00 13-Taylor-Mohrman vs 4-Vulcan-Cline
         130    3.00   3.00 14-Ruprecht-Jarvis vs 9-Tafjord-James
 ----------------------------------------------------------------------
 
@@ -360,10 +360,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
        1430    0.00   6.00 1-Sieg-Herman vs 5-Christensen-Stevens
         680    1.50   4.50 3-Bauer-Abernethy vs 8-Eng-Ford
-        650    3.50   2.50 4-Delfs-Christie vs 11-Tipton-Hesson
+        650    3.50   2.50 4-Vulcan-Cline vs 11-Tipton-Hesson
         620    5.00   1.00 6-Romeo-Anderson vs 7-Miller-Moore
         650    3.50   2.50 12-Laughary-Cowles vs 9-Tafjord-James
-        680    1.50   4.50 13-Taylor-Mohrman vs 2-Vulcan-Cline
+        680    1.50   4.50 13-Taylor-Mohrman vs 2-Delfs-Christie
   100          6.00   0.00 14-Ruprecht-Jarvis vs 10-Sievers-Ring
 ----------------------------------------------------------------------
 
@@ -373,9 +373,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
         620    5.00   1.00 1-Sieg-Herman vs 5-Christensen-Stevens
         650    1.50   4.50 3-Bauer-Abernethy vs 8-Eng-Ford
-        650    1.50   4.50 4-Delfs-Christie vs 11-Tipton-Hesson
+        650    1.50   4.50 4-Vulcan-Cline vs 11-Tipton-Hesson
         620    5.00   1.00 6-Romeo-Anderson vs 7-Miller-Moore
         650    1.50   4.50 12-Laughary-Cowles vs 9-Tafjord-James
-        650    1.50   4.50 13-Taylor-Mohrman vs 2-Vulcan-Cline
+        650    1.50   4.50 13-Taylor-Mohrman vs 2-Delfs-Christie
         620    5.00   1.00 14-Ruprecht-Jarvis vs 10-Sievers-Ring
 ----------------------------------------------------------------------
