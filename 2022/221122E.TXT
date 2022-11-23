@@ -1,0 +1,311 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 22, 2022  |CLUB NO.>158048    | 11/22/2022 22:12
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   42.0 |TOP>   3 |MP LIMITS>None/2500/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=4/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Eric Sieg                A    3     .     .     45.00  53.57  0.40(A) 
+
+ 2 Mike Ring              Brian Zaugg              A    1     .     .     50.50  60.12  0.80(A) 
+
+ 3 Bogdan Vulcan          Kevin Cline              A    .     .     .     43.00  51.19          
+
+ 4 Jeremy Gulley          Shawn Abernethy          C    .     .     .     32.50  38.69          
+
+ 5 Jeffrey Ford           Sue Anderson             A    .     .     .     38.50  45.83          
+
+ 6 Adam Ruprecht          Christopher Jarvis       B    .     .     .     36.50  43.45          
+
+ 7 Nick Tipton            Galen Hesson             B    .     2     .     40.00  47.62  0.22(B) 
+
+ 8 Pete Cowles            Clay Laughary            C    2     1     .     50.00  59.52  0.56(A) 
+
+
+                                          Totals                         336.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   1.50 4-Gulley-Abernethy vs 2-Ring-Zaugg
+  300          3.00   0.00 6-Ruprecht-Jarvis vs 5-Ford-Anderson
+        110    0.00   3.00 7-Tipton-Hesson vs 3-Vulcan-Cline
+   50          1.50   1.50 8-Cowles-Laughary vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   3.00 4-Gulley-Abernethy vs 2-Ring-Zaugg
+   50          1.00   2.00 6-Ruprecht-Jarvis vs 5-Ford-Anderson
+  150          2.00   1.00 7-Tipton-Hesson vs 3-Vulcan-Cline
+  670          3.00   0.00 8-Cowles-Laughary vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.00   0.00 4-Gulley-Abernethy vs 2-Ring-Zaugg
+        150    0.00   3.00 6-Ruprecht-Jarvis vs 5-Ford-Anderson
+        100    2.00   1.00 7-Tipton-Hesson vs 3-Vulcan-Cline
+        140    1.00   2.00 8-Cowles-Laughary vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   2.00 4-Gulley-Abernethy vs 2-Ring-Zaugg
+        500    0.00   3.00 6-Ruprecht-Jarvis vs 5-Ford-Anderson
+  140          2.00   1.00 7-Tipton-Hesson vs 3-Vulcan-Cline
+  200          3.00   0.00 8-Cowles-Laughary vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   1.50 1-Eng-Sieg vs 4-Gulley-Abernethy
+        200    0.00   3.00 5-Ford-Anderson vs 3-Vulcan-Cline
+        100    1.50   1.50 7-Tipton-Hesson vs 6-Ruprecht-Jarvis
+  100          3.00   0.00 8-Cowles-Laughary vs 2-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.50   1.50 1-Eng-Sieg vs 4-Gulley-Abernethy
+  450          1.50   1.50 5-Ford-Anderson vs 3-Vulcan-Cline
+  450          1.50   1.50 7-Tipton-Hesson vs 6-Ruprecht-Jarvis
+  450          1.50   1.50 8-Cowles-Laughary vs 2-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.00   1.00 1-Eng-Sieg vs 4-Gulley-Abernethy
+  630          2.00   1.00 5-Ford-Anderson vs 3-Vulcan-Cline
+  600          0.00   3.00 7-Tipton-Hesson vs 6-Ruprecht-Jarvis
+  630          2.00   1.00 8-Cowles-Laughary vs 2-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   0.00 1-Eng-Sieg vs 4-Gulley-Abernethy
+        170    2.00   1.00 5-Ford-Anderson vs 3-Vulcan-Cline
+        420    0.50   2.50 7-Tipton-Hesson vs 6-Ruprecht-Jarvis
+        420    0.50   2.50 8-Cowles-Laughary vs 2-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1520          3.00   0.00 1-Eng-Sieg vs 7-Tipton-Hesson
+ 1510          2.00   1.00 2-Ring-Zaugg vs 5-Ford-Anderson
+ 1010          0.00   3.00 6-Ruprecht-Jarvis vs 4-Gulley-Abernethy
+ 1020          1.00   2.00 8-Cowles-Laughary vs 3-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.00   2.00 1-Eng-Sieg vs 7-Tipton-Hesson
+  170          3.00   0.00 2-Ring-Zaugg vs 5-Ford-Anderson
+  140          1.00   2.00 6-Ruprecht-Jarvis vs 4-Gulley-Abernethy
+  140          1.00   2.00 8-Cowles-Laughary vs 3-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          2.00   1.00 1-Eng-Sieg vs 7-Tipton-Hesson
+   50          0.00   3.00 2-Ring-Zaugg vs 5-Ford-Anderson
+  590          3.00   0.00 6-Ruprecht-Jarvis vs 4-Gulley-Abernethy
+  100          1.00   2.00 8-Cowles-Laughary vs 3-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          0.50   2.50 1-Eng-Sieg vs 7-Tipton-Hesson
+  660          2.50   0.50 2-Ring-Zaugg vs 5-Ford-Anderson
+  660          2.50   0.50 6-Ruprecht-Jarvis vs 4-Gulley-Abernethy
+  630          0.50   2.50 8-Cowles-Laughary vs 3-Vulcan-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   3.00 2-Ring-Zaugg vs 1-Eng-Sieg
+        500    1.00   2.00 3-Vulcan-Cline vs 6-Ruprecht-Jarvis
+        150    2.50   0.50 7-Tipton-Hesson vs 5-Ford-Anderson
+        150    2.50   0.50 8-Cowles-Laughary vs 4-Gulley-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   0.50 2-Ring-Zaugg vs 1-Eng-Sieg
+        480    0.50   2.50 3-Vulcan-Cline vs 6-Ruprecht-Jarvis
+        480    0.50   2.50 7-Tipton-Hesson vs 5-Ford-Anderson
+        450    2.50   0.50 8-Cowles-Laughary vs 4-Gulley-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    0.00   3.00 2-Ring-Zaugg vs 1-Eng-Sieg
+        460    2.00   1.00 3-Vulcan-Cline vs 6-Ruprecht-Jarvis
+        460    2.00   1.00 7-Tipton-Hesson vs 5-Ford-Anderson
+        460    2.00   1.00 8-Cowles-Laughary vs 4-Gulley-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          3.00   0.00 2-Ring-Zaugg vs 1-Eng-Sieg
+  450          0.50   2.50 3-Vulcan-Cline vs 6-Ruprecht-Jarvis
+  480          2.00   1.00 7-Tipton-Hesson vs 5-Ford-Anderson
+  450          0.50   2.50 8-Cowles-Laughary vs 4-Gulley-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.00   1.00 1-Eng-Sieg vs 6-Ruprecht-Jarvis
+        450    0.00   3.00 3-Vulcan-Cline vs 2-Ring-Zaugg
+        400    1.00   2.00 4-Gulley-Abernethy vs 7-Tipton-Hesson
+        100    3.00   0.00 8-Cowles-Laughary vs 5-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   0.00 1-Eng-Sieg vs 6-Ruprecht-Jarvis
+        100    1.50   1.50 3-Vulcan-Cline vs 2-Ring-Zaugg
+        200    0.00   3.00 4-Gulley-Abernethy vs 7-Tipton-Hesson
+        100    1.50   1.50 8-Cowles-Laughary vs 5-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.00   1.00 1-Eng-Sieg vs 6-Ruprecht-Jarvis
+  400          0.00   3.00 3-Vulcan-Cline vs 2-Ring-Zaugg
+  420          1.00   2.00 4-Gulley-Abernethy vs 7-Tipton-Hesson
+  460          3.00   0.00 8-Cowles-Laughary vs 5-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   0.00 1-Eng-Sieg vs 6-Ruprecht-Jarvis
+        650    1.00   2.00 3-Vulcan-Cline vs 2-Ring-Zaugg
+        650    1.00   2.00 4-Gulley-Abernethy vs 7-Tipton-Hesson
+        650    1.00   2.00 8-Cowles-Laughary vs 5-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   3.00 2-Ring-Zaugg vs 7-Tipton-Hesson
+        180    1.00   2.00 4-Gulley-Abernethy vs 3-Vulcan-Cline
+        150    2.00   1.00 5-Ford-Anderson vs 1-Eng-Sieg
+   50          3.00   0.00 8-Cowles-Laughary vs 6-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  590          3.00   0.00 2-Ring-Zaugg vs 7-Tipton-Hesson
+        200    0.00   3.00 4-Gulley-Abernethy vs 3-Vulcan-Cline
+         50    2.00   1.00 5-Ford-Anderson vs 1-Eng-Sieg
+        150    1.00   2.00 8-Cowles-Laughary vs 6-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   1.00 2-Ring-Zaugg vs 7-Tipton-Hesson
+  300          3.00   0.00 4-Gulley-Abernethy vs 3-Vulcan-Cline
+        380    0.00   3.00 5-Ford-Anderson vs 1-Eng-Sieg
+        110    1.00   2.00 8-Cowles-Laughary vs 6-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   1.00 2-Ring-Zaugg vs 7-Tipton-Hesson
+        130    0.00   3.00 4-Gulley-Abernethy vs 3-Vulcan-Cline
+         50    2.00   1.00 5-Ford-Anderson vs 1-Eng-Sieg
+         50    2.00   1.00 8-Cowles-Laughary vs 6-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   2.00 3-Vulcan-Cline vs 1-Eng-Sieg
+  100          3.00   0.00 5-Ford-Anderson vs 4-Gulley-Abernethy
+        620    1.00   2.00 6-Ruprecht-Jarvis vs 2-Ring-Zaugg
+        620    1.00   2.00 8-Cowles-Laughary vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   1.00 3-Vulcan-Cline vs 1-Eng-Sieg
+        100    2.00   1.00 5-Ford-Anderson vs 4-Gulley-Abernethy
+        200    0.00   3.00 6-Ruprecht-Jarvis vs 2-Ring-Zaugg
+        100    2.00   1.00 8-Cowles-Laughary vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   1.50 3-Vulcan-Cline vs 1-Eng-Sieg
+        450    0.00   3.00 5-Ford-Anderson vs 4-Gulley-Abernethy
+   50          1.50   1.50 6-Ruprecht-Jarvis vs 2-Ring-Zaugg
+  100          3.00   0.00 8-Cowles-Laughary vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   0.00 3-Vulcan-Cline vs 1-Eng-Sieg
+        300    1.00   2.00 5-Ford-Anderson vs 4-Gulley-Abernethy
+        420    0.00   3.00 6-Ruprecht-Jarvis vs 2-Ring-Zaugg
+        140    2.00   1.00 8-Cowles-Laughary vs 7-Tipton-Hesson
+----------------------------------------------------------------------
