@@ -1,0 +1,252 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 6, 2022   |CLUB NO.>158048    | 12/06/2022 21:37
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   25.0 |TOP>   2 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=6/B=4/C=1                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Pete Cowles            Clay Laughary            B    .     .     .     18.50  37.00          
+
+ 2 Aaron Mohrman           Jennifer                C    .     .     .     18.50  37.00          
+
+ 3 Eric Sieg              Jeffrey Ford             A    2     .     .     30.00  60.00  0.42(A) 
+
+ 4 Nick Tipton            Galen Hesson             B    .     2     .     25.00  50.00  0.22(B) 
+
+ 5 Mike Christensen       Mike Ring                A    .     .     .     27.50  55.00          
+
+ 6 Adam Ruprecht          Christopher Jarvis       B    1     1     .     30.50  61.00  0.60(A) 
+
+
+                                          Totals                         150.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   0.00 2-Mohrman-Jennifer vs 4-Tipton-Hesson
+   50          0.50   1.50 3-Sieg-Ford vs 5-Christensen-Ring
+   50          0.50   1.50 6-Ruprecht-Jarvis vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   1.50 2-Mohrman-Jennifer vs 4-Tipton-Hesson
+        100    0.50   1.50 3-Sieg-Ford vs 5-Christensen-Ring
+  120          2.00   0.00 6-Ruprecht-Jarvis vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   0.50 2-Mohrman-Jennifer vs 4-Tipton-Hesson
+        300    0.00   2.00 3-Sieg-Ford vs 5-Christensen-Ring
+  100          1.50   0.50 6-Ruprecht-Jarvis vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.00   2.00 2-Mohrman-Jennifer vs 4-Tipton-Hesson
+  660          1.50   0.50 3-Sieg-Ford vs 5-Christensen-Ring
+  660          1.50   0.50 6-Ruprecht-Jarvis vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   0.00 2-Mohrman-Jennifer vs 4-Tipton-Hesson
+  120          1.00   1.00 3-Sieg-Ford vs 5-Christensen-Ring
+        100    0.00   2.00 6-Ruprecht-Jarvis vs 1-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   2.00 3-Sieg-Ford vs 4-Tipton-Hesson
+         90    1.00   1.00 5-Christensen-Ring vs 1-Cowles-Laughary
+  120          2.00   0.00 6-Ruprecht-Jarvis vs 2-Mohrman-Jennifer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.00   2.00 3-Sieg-Ford vs 4-Tipton-Hesson
+        600    1.00   1.00 5-Christensen-Ring vs 1-Cowles-Laughary
+        150    2.00   0.00 6-Ruprecht-Jarvis vs 2-Mohrman-Jennifer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   0.00 3-Sieg-Ford vs 4-Tipton-Hesson
+        140    0.00   2.00 5-Christensen-Ring vs 1-Cowles-Laughary
+         50    1.00   1.00 6-Ruprecht-Jarvis vs 2-Mohrman-Jennifer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.50   1.50 3-Sieg-Ford vs 4-Tipton-Hesson
+        650    0.50   1.50 5-Christensen-Ring vs 1-Cowles-Laughary
+        170    2.00   0.00 6-Ruprecht-Jarvis vs 2-Mohrman-Jennifer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          2.00   0.00 3-Sieg-Ford vs 4-Tipton-Hesson
+  660          0.50   1.50 5-Christensen-Ring vs 1-Cowles-Laughary
+  660          0.50   1.50 6-Ruprecht-Jarvis vs 2-Mohrman-Jennifer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          0.50   1.50 1-Cowles-Laughary vs 2-Mohrman-Jennifer
+  100          2.00   0.00 4-Tipton-Hesson vs 5-Christensen-Ring
+   50          0.50   1.50 6-Ruprecht-Jarvis vs 3-Sieg-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          1.00   1.00 1-Cowles-Laughary vs 2-Mohrman-Jennifer
+  660          1.00   1.00 4-Tipton-Hesson vs 5-Christensen-Ring
+  660          1.00   1.00 6-Ruprecht-Jarvis vs 3-Sieg-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.00   1.00 1-Cowles-Laughary vs 2-Mohrman-Jennifer
+        850    0.00   2.00 4-Tipton-Hesson vs 5-Christensen-Ring
+  600          2.00   0.00 6-Ruprecht-Jarvis vs 3-Sieg-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.50   1.50 1-Cowles-Laughary vs 2-Mohrman-Jennifer
+        430    0.50   1.50 4-Tipton-Hesson vs 5-Christensen-Ring
+        400    2.00   0.00 6-Ruprecht-Jarvis vs 3-Sieg-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   0.50 1-Cowles-Laughary vs 2-Mohrman-Jennifer
+  110          1.50   0.50 4-Tipton-Hesson vs 5-Christensen-Ring
+  100          0.00   2.00 6-Ruprecht-Jarvis vs 3-Sieg-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.00   2.00 1-Cowles-Laughary vs 3-Sieg-Ford
+  110          2.00   0.00 5-Christensen-Ring vs 2-Mohrman-Jennifer
+        170    1.00   1.00 6-Ruprecht-Jarvis vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.00   2.00 1-Cowles-Laughary vs 3-Sieg-Ford
+        200    2.00   0.00 5-Christensen-Ring vs 2-Mohrman-Jennifer
+        420    1.00   1.00 6-Ruprecht-Jarvis vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.00   2.00 1-Cowles-Laughary vs 3-Sieg-Ford
+        420    1.50   0.50 5-Christensen-Ring vs 2-Mohrman-Jennifer
+        420    1.50   0.50 6-Ruprecht-Jarvis vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   2.00 1-Cowles-Laughary vs 3-Sieg-Ford
+  140          1.50   0.50 5-Christensen-Ring vs 2-Mohrman-Jennifer
+  140          1.50   0.50 6-Ruprecht-Jarvis vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  230          0.00   2.00 1-Cowles-Laughary vs 3-Sieg-Ford
+  620          1.00   1.00 5-Christensen-Ring vs 2-Mohrman-Jennifer
+  680          2.00   0.00 6-Ruprecht-Jarvis vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          0.00   2.00 2-Mohrman-Jennifer vs 3-Sieg-Ford
+  100          1.50   0.50 4-Tipton-Hesson vs 1-Cowles-Laughary
+  100          1.50   0.50 6-Ruprecht-Jarvis vs 5-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.50   1.50 2-Mohrman-Jennifer vs 3-Sieg-Ford
+        100    2.00   0.00 4-Tipton-Hesson vs 1-Cowles-Laughary
+        150    0.50   1.50 6-Ruprecht-Jarvis vs 5-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.50   1.50 2-Mohrman-Jennifer vs 3-Sieg-Ford
+  110          2.00   0.00 4-Tipton-Hesson vs 1-Cowles-Laughary
+        120    0.50   1.50 6-Ruprecht-Jarvis vs 5-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   2.00 2-Mohrman-Jennifer vs 3-Sieg-Ford
+  110          2.00   0.00 4-Tipton-Hesson vs 1-Cowles-Laughary
+   50          1.00   1.00 6-Ruprecht-Jarvis vs 5-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.50   0.50 2-Mohrman-Jennifer vs 3-Sieg-Ford
+       1430    0.00   2.00 4-Tipton-Hesson vs 1-Cowles-Laughary
+        680    1.50   0.50 6-Ruprecht-Jarvis vs 5-Christensen-Ring
+----------------------------------------------------------------------
