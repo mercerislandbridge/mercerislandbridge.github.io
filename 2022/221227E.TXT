@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 27, 2022  |CLUB NO.>158048    | 12/27/2022 22:33
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club ACBL Membership         |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/5000/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=10/C=6                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Sarah Weinberg         John Weinberg            C   .     .     .   |   .     .     .     48.50  35.93          
+
+ 2 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     60.00  44.44          
+
+ 3 Mike Christensen       David Wright             B   3     2     .   |   3     2     .     76.00  56.30  1.79(OB)
+
+ 4 Chris Pesce            Matteo Pesce             C   .     .     .   |   .     .     .     66.00  48.89          
+
+ 5 Ray Miller             Aaron Mohrman            A   .     .     .   |   .     .     .     63.00  46.67          
+
+ 6 Brian Zaugg            Mike Ring                B   .    4/5    .   |  5/6   4/5    .     70.50  52.22  0.89(OB)
+
+ 7 Kim Eng                Jeffrey Ford             A  1/2    .     .   |  1/2    .     .     80.00  59.26  2.63(OA)
+
+ 8 Susan Waggoner         Brad Rind                C  1/2    1     1   |  1/2    1     1     80.00  59.26  2.63(OA)
+
+ 9 Shawn Abernethy        Sue Anderson             C   .     .     .   |   .     .     .     66.50  49.26          
+
+10 Irving Sonkin          Moises Saul              C   .     .     .   |   .     .     .     56.00  41.48          
+
+11 Adam Ruprecht          Christopher Jarvis       C   .    4/5    2   |  5/6   4/5    2     70.50  52.22  1.19(OC)
+
+12 William Campbell       Ann Romeo                B   4     3     .   |   4     3     .     73.00  54.07  1.34(OB)
+
+
+                                          Totals                                            810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   2.00 3-Christensen-Wright vs 11-Ruprecht-Jarvis
+        110    1.50   3.50 5-Miller-Mohrman vs 2-Tipton-Hesson
+   50          4.50   0.50 6-Zaugg-Ring vs 10-Sonkin-Saul
+        140    0.00   5.00 8-Waggoner-Rind vs 4-Pesce-Pesce
+        110    1.50   3.50 9-Abernethy-Anderson vs 7-Eng-Ford
+   50          4.50   0.50 12-Campbell-Romeo vs 1-Weinberg-Weinberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    2.00   3.00 3-Christensen-Wright vs 11-Ruprecht-Jarvis
+        920    2.00   3.00 5-Miller-Mohrman vs 2-Tipton-Hesson
+        510    5.00   0.00 6-Zaugg-Ring vs 10-Sonkin-Saul
+        920    2.00   3.00 8-Waggoner-Rind vs 4-Pesce-Pesce
+        940    0.00   5.00 9-Abernethy-Anderson vs 7-Eng-Ford
+        520    4.00   1.00 12-Campbell-Romeo vs 1-Weinberg-Weinberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.50   0.50 3-Christensen-Wright vs 11-Ruprecht-Jarvis
+  200          2.50   2.50 5-Miller-Mohrman vs 2-Tipton-Hesson
+  300          4.50   0.50 6-Zaugg-Ring vs 10-Sonkin-Saul
+  200          2.50   2.50 8-Waggoner-Rind vs 4-Pesce-Pesce
+        110    0.00   5.00 9-Abernethy-Anderson vs 7-Eng-Ford
+  100          1.00   4.00 12-Campbell-Romeo vs 1-Weinberg-Weinberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          0.00   5.00 1-Weinberg-Weinberg vs 8-Waggoner-Rind
+  690          2.50   2.50 6-Zaugg-Ring vs 3-Christensen-Wright
+  690          2.50   2.50 7-Eng-Ford vs 10-Sonkin-Saul
+  690          2.50   2.50 9-Abernethy-Anderson vs 5-Miller-Mohrman
+ 1370          5.00   0.00 11-Ruprecht-Jarvis vs 4-Pesce-Pesce
+  690          2.50   2.50 12-Campbell-Romeo vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  230          0.00   5.00 1-Weinberg-Weinberg vs 8-Waggoner-Rind
+  620          1.00   4.00 6-Zaugg-Ring vs 3-Christensen-Wright
+  680          4.50   0.50 7-Eng-Ford vs 10-Sonkin-Saul
+  680          4.50   0.50 9-Abernethy-Anderson vs 5-Miller-Mohrman
+  650          2.50   2.50 11-Ruprecht-Jarvis vs 4-Pesce-Pesce
+  650          2.50   2.50 12-Campbell-Romeo vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   1.00 1-Weinberg-Weinberg vs 8-Waggoner-Rind
+        150    0.00   5.00 6-Zaugg-Ring vs 3-Christensen-Wright
+        100    2.00   3.00 7-Eng-Ford vs 10-Sonkin-Saul
+        100    2.00   3.00 9-Abernethy-Anderson vs 5-Miller-Mohrman
+        100    2.00   3.00 11-Ruprecht-Jarvis vs 4-Pesce-Pesce
+  400          5.00   0.00 12-Campbell-Romeo vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1460    0.00   5.00 1-Weinberg-Weinberg vs 6-Zaugg-Ring
+        680    5.00   0.00 2-Tipton-Hesson vs 9-Abernethy-Anderson
+        710    3.00   2.00 7-Eng-Ford vs 4-Pesce-Pesce
+       1430    1.00   4.00 10-Sonkin-Saul vs 8-Waggoner-Rind
+        710    3.00   2.00 11-Ruprecht-Jarvis vs 5-Miller-Mohrman
+        710    3.00   2.00 12-Campbell-Romeo vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.50   4.50 1-Weinberg-Weinberg vs 6-Zaugg-Ring
+        450    3.00   2.00 2-Tipton-Hesson vs 9-Abernethy-Anderson
+        460    0.50   4.50 7-Eng-Ford vs 4-Pesce-Pesce
+        450    3.00   2.00 10-Sonkin-Saul vs 8-Waggoner-Rind
+        450    3.00   2.00 11-Ruprecht-Jarvis vs 5-Miller-Mohrman
+   50          5.00   0.00 12-Campbell-Romeo vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.50   3.50 1-Weinberg-Weinberg vs 6-Zaugg-Ring
+        100    0.00   5.00 2-Tipton-Hesson vs 9-Abernethy-Anderson
+  450          4.50   0.50 7-Eng-Ford vs 4-Pesce-Pesce
+  420          3.00   2.00 10-Sonkin-Saul vs 8-Waggoner-Rind
+  200          1.50   3.50 11-Ruprecht-Jarvis vs 5-Miller-Mohrman
+  450          4.50   0.50 12-Campbell-Romeo vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 2-Tipton-Hesson vs 7-Eng-Ford
+  630          4.00   1.00 3-Christensen-Wright vs 1-Weinberg-Weinberg
+  170          2.00   3.00 8-Waggoner-Rind vs 5-Miller-Mohrman
+  630          4.00   1.00 10-Sonkin-Saul vs 9-Abernethy-Anderson
+  130          1.00   4.00 11-Ruprecht-Jarvis vs 6-Zaugg-Ring
+  630          4.00   1.00 12-Campbell-Romeo vs 4-Pesce-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    5.00   0.00 2-Tipton-Hesson vs 7-Eng-Ford
+        450    1.00   4.00 3-Christensen-Wright vs 1-Weinberg-Weinberg
+        450    1.00   4.00 8-Waggoner-Rind vs 5-Miller-Mohrman
+        420    3.50   1.50 10-Sonkin-Saul vs 9-Abernethy-Anderson
+        420    3.50   1.50 11-Ruprecht-Jarvis vs 6-Zaugg-Ring
+        450    1.00   4.00 12-Campbell-Romeo vs 4-Pesce-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   3.50 2-Tipton-Hesson vs 7-Eng-Ford
+  150          3.00   2.00 3-Christensen-Wright vs 1-Weinberg-Weinberg
+  600          5.00   0.00 8-Waggoner-Rind vs 5-Miller-Mohrman
+        100    1.50   3.50 10-Sonkin-Saul vs 9-Abernethy-Anderson
+  300          4.00   1.00 11-Ruprecht-Jarvis vs 6-Zaugg-Ring
+        300    0.00   5.00 12-Campbell-Romeo vs 4-Pesce-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.00   5.00 1-Weinberg-Weinberg vs 10-Sonkin-Saul
+  750          5.00   0.00 3-Christensen-Wright vs 8-Waggoner-Rind
+  600          4.00   1.00 4-Pesce-Pesce vs 2-Tipton-Hesson
+  200          2.00   3.00 7-Eng-Ford vs 11-Ruprecht-Jarvis
+  300          3.00   2.00 9-Abernethy-Anderson vs 6-Zaugg-Ring
+        200    1.00   4.00 12-Campbell-Romeo vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 1-Weinberg-Weinberg vs 10-Sonkin-Saul
+        500    0.00   5.00 3-Christensen-Wright vs 8-Waggoner-Rind
+        460    1.00   4.00 4-Pesce-Pesce vs 2-Tipton-Hesson
+        450    2.50   2.50 7-Eng-Ford vs 11-Ruprecht-Jarvis
+        450    2.50   2.50 9-Abernethy-Anderson vs 6-Zaugg-Ring
+   50          4.00   1.00 12-Campbell-Romeo vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.50   3.50 1-Weinberg-Weinberg vs 10-Sonkin-Saul
+  500          4.00   1.00 3-Christensen-Wright vs 8-Waggoner-Rind
+  170          1.50   3.50 4-Pesce-Pesce vs 2-Tipton-Hesson
+  170          1.50   3.50 7-Eng-Ford vs 11-Ruprecht-Jarvis
+  620          5.00   0.00 9-Abernethy-Anderson vs 6-Zaugg-Ring
+  170          1.50   3.50 12-Campbell-Romeo vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 1-Weinberg-Weinberg vs 7-Eng-Ford
+        120    2.00   3.00 2-Tipton-Hesson vs 10-Sonkin-Saul
+        180    1.00   4.00 4-Pesce-Pesce vs 9-Abernethy-Anderson
+         90    4.00   1.00 5-Miller-Mohrman vs 3-Christensen-Wright
+  200          5.00   0.00 8-Waggoner-Rind vs 11-Ruprecht-Jarvis
+        100    3.00   2.00 12-Campbell-Romeo vs 6-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   2.50 1-Weinberg-Weinberg vs 7-Eng-Ford
+   50          2.50   2.50 2-Tipton-Hesson vs 10-Sonkin-Saul
+        400    0.50   4.50 4-Pesce-Pesce vs 9-Abernethy-Anderson
+        400    0.50   4.50 5-Miller-Mohrman vs 3-Christensen-Wright
+  100          4.50   0.50 8-Waggoner-Rind vs 11-Ruprecht-Jarvis
+  100          4.50   0.50 12-Campbell-Romeo vs 6-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   3.00 1-Weinberg-Weinberg vs 7-Eng-Ford
+  140          4.00   1.00 2-Tipton-Hesson vs 10-Sonkin-Saul
+  140          4.00   1.00 4-Pesce-Pesce vs 9-Abernethy-Anderson
+        100    0.00   5.00 5-Miller-Mohrman vs 3-Christensen-Wright
+   90          1.00   4.00 8-Waggoner-Rind vs 11-Ruprecht-Jarvis
+  140          4.00   1.00 12-Campbell-Romeo vs 6-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   3.00 2-Tipton-Hesson vs 8-Waggoner-Rind
+        140    2.00   3.00 5-Miller-Mohrman vs 1-Weinberg-Weinberg
+        140    2.00   3.00 6-Zaugg-Ring vs 4-Pesce-Pesce
+        140    2.00   3.00 10-Sonkin-Saul vs 3-Christensen-Wright
+        140    2.00   3.00 11-Ruprecht-Jarvis vs 9-Abernethy-Anderson
+        100    5.00   0.00 12-Campbell-Romeo vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 2-Tipton-Hesson vs 8-Waggoner-Rind
+  110          4.50   0.50 5-Miller-Mohrman vs 1-Weinberg-Weinberg
+  110          4.50   0.50 6-Zaugg-Ring vs 4-Pesce-Pesce
+         90    2.00   3.00 10-Sonkin-Saul vs 3-Christensen-Wright
+        100    0.50   4.50 11-Ruprecht-Jarvis vs 9-Abernethy-Anderson
+  100          3.00   2.00 12-Campbell-Romeo vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.50   1.50 2-Tipton-Hesson vs 8-Waggoner-Rind
+        420    3.50   1.50 5-Miller-Mohrman vs 1-Weinberg-Weinberg
+        420    3.50   1.50 6-Zaugg-Ring vs 4-Pesce-Pesce
+        450    0.00   5.00 10-Sonkin-Saul vs 3-Christensen-Wright
+        420    3.50   1.50 11-Ruprecht-Jarvis vs 9-Abernethy-Anderson
+        430    1.00   4.00 12-Campbell-Romeo vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.00   3.00 3-Christensen-Wright vs 9-Abernethy-Anderson
+        600    2.00   3.00 6-Zaugg-Ring vs 2-Tipton-Hesson
+        600    2.00   3.00 7-Eng-Ford vs 5-Miller-Mohrman
+        130    4.00   1.00 10-Sonkin-Saul vs 4-Pesce-Pesce
+        100    5.00   0.00 11-Ruprecht-Jarvis vs 1-Weinberg-Weinberg
+        630    0.00   5.00 12-Campbell-Romeo vs 8-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.50   1.50 3-Christensen-Wright vs 9-Abernethy-Anderson
+  170          3.50   1.50 6-Zaugg-Ring vs 2-Tipton-Hesson
+  500          5.00   0.00 7-Eng-Ford vs 5-Miller-Mohrman
+  140          2.00   3.00 10-Sonkin-Saul vs 4-Pesce-Pesce
+        100    0.50   4.50 11-Ruprecht-Jarvis vs 1-Weinberg-Weinberg
+        100    0.50   4.50 12-Campbell-Romeo vs 8-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   1.50 3-Christensen-Wright vs 9-Abernethy-Anderson
+  400          5.00   0.00 6-Zaugg-Ring vs 2-Tipton-Hesson
+         50    1.50   3.50 7-Eng-Ford vs 5-Miller-Mohrman
+        200    0.00   5.00 10-Sonkin-Saul vs 4-Pesce-Pesce
+  140          3.50   1.50 11-Ruprecht-Jarvis vs 1-Weinberg-Weinberg
+         50    1.50   3.50 12-Campbell-Romeo vs 8-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 2-Tipton-Hesson vs 11-Ruprecht-Jarvis
+  150          3.00   2.00 4-Pesce-Pesce vs 1-Weinberg-Weinberg
+  150          3.00   2.00 5-Miller-Mohrman vs 10-Sonkin-Saul
+  150          3.00   2.00 7-Eng-Ford vs 3-Christensen-Wright
+  150          3.00   2.00 8-Waggoner-Rind vs 6-Zaugg-Ring
+  150          3.00   2.00 12-Campbell-Romeo vs 9-Abernethy-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          2.00   3.00 2-Tipton-Hesson vs 11-Ruprecht-Jarvis
+  690          2.00   3.00 4-Pesce-Pesce vs 1-Weinberg-Weinberg
+  690          2.00   3.00 5-Miller-Mohrman vs 10-Sonkin-Saul
+ 1370          5.00   0.00 7-Eng-Ford vs 3-Christensen-Wright
+  690          2.00   3.00 8-Waggoner-Rind vs 6-Zaugg-Ring
+  690          2.00   3.00 12-Campbell-Romeo vs 9-Abernethy-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   3.00 2-Tipton-Hesson vs 11-Ruprecht-Jarvis
+        450    2.00   3.00 4-Pesce-Pesce vs 1-Weinberg-Weinberg
+        450    2.00   3.00 5-Miller-Mohrman vs 10-Sonkin-Saul
+        450    2.00   3.00 7-Eng-Ford vs 3-Christensen-Wright
+   50          5.00   0.00 8-Waggoner-Rind vs 6-Zaugg-Ring
+        450    2.00   3.00 12-Campbell-Romeo vs 9-Abernethy-Anderson
+----------------------------------------------------------------------
