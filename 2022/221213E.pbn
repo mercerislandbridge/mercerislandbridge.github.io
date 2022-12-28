@@ -352,9 +352,9 @@ S  H  6
 W  H  6
 N  H  6
 E  D  4
-S  D  8
+S  D  9
 W  D  4
-N  D  9
+N  D  8
 E  C  4
 S  C  9
 W  C  4
@@ -760,9 +760,9 @@ N  C  2
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  9
-S NT  4
+S NT  3
 W NT  9
-N NT  3
+N NT  4
 E  S  5
 S  S  7
 W  S  5
@@ -794,13 +794,13 @@ S NT  9
 W NT  4
 N NT  9
 E  S  3
-S  S  9
+S  S 10
 W  S  3
-N  S 10
+N  S  9
 E  H  4
-S  H  7
+S  H  8
 W  H  4
-N  H  8
+N  H  7
 E  D  6
 S  D  7
 W  D  6
@@ -884,13 +884,13 @@ S NT  2
 W NT  7
 N NT  2
 E  S 10
-S  S  2
+S  S  3
 W  S 10
-N  S  3
+N  S  2
 E  H  4
-S  H  8
+S  H  9
 W  H  4
-N  H  9
+N  H  8
 E  D 11
 S  D  2
 W  D 11
