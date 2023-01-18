@@ -1,0 +1,509 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B
+------------------------,------ ------------,-------- --------------------------
+DATE>January 17, 2023   |CLUB NO.>158048    | 01/17/2023 21:06
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff            |RATING>Club Masterpoint (50%, 50%, 30% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   15.0 |TOP>   3 |MP LIMITS>100/20/5       |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=8/C=8                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Matteo Pesce           Aidan Michaelis          C    .     .     .     18.10  60.33          
+
+ 2 Gina Zhang             Lydia Zhang              C    .     .     .     11.94  39.80          
+
+ 3 Ella Su                Maiya Clouse             C    .     .     .      7.68  25.60          
+
+ 4 Huan Zou               Derek Deschenes          C    .     .     .     15.57  51.90          
+
+ 5 Rusty Deschenes        Hong Gao                 C    3     3     3     18.33  61.10  0.20(A) 
+
+ 6 Avery Liang            Alexandra Deschenes      C    1     1     1     19.82  66.07  0.40(A) 
+
+ 7 Yanchun Gu             Qian Liang               C    2     2     2     19.23  64.10  0.28(A) 
+
+ 8 Nemo Li                Christopher Dickman      C    .     .     .     14.13  47.10          
+
+
+                                          Totals                         124.80       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   2.00 4-Zou-Deschenes vs 2-Zhang-Zhang
+  110          2.00   1.00 6-Liang-Deschenes vs 5-Deschenes-Gao
+  430          3.00   0.00 7-Gu-Liang vs 3-Su-Clouse
+        100    0.00   3.00 8-Li-Dickman vs 1-Pesce-Michaelis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   0.00 4-Zou-Deschenes vs 2-Zhang-Zhang
+  620          0.50   2.50 6-Liang-Deschenes vs 5-Deschenes-Gao
+  630          2.00   1.00 7-Gu-Liang vs 3-Su-Clouse
+  620          0.50   2.50 8-Li-Dickman vs 1-Pesce-Michaelis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   1.50 5-Deschenes-Gao vs 3-Su-Clouse
+        600    0.17   2.83 7-Gu-Liang vs 6-Liang-Deschenes
+  420          2.83   0.17 8-Li-Dickman vs 2-Zhang-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          2.83   0.17 5-Deschenes-Gao vs 3-Su-Clouse
+        630    1.50   1.50 7-Gu-Liang vs 6-Liang-Deschenes
+        950    0.17   2.83 8-Li-Dickman vs 2-Zhang-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.17   2.83 1-Pesce-Michaelis vs 7-Gu-Liang
+  300          2.83   0.17 6-Liang-Deschenes vs 4-Zou-Deschenes
+        200    1.50   1.50 8-Li-Dickman vs 3-Su-Clouse
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.17   2.83 1-Pesce-Michaelis vs 7-Gu-Liang
+        100    1.50   1.50 6-Liang-Deschenes vs 4-Zou-Deschenes
+  400          2.83   0.17 8-Li-Dickman vs 3-Su-Clouse
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   1.50 2-Zhang-Zhang vs 1-Pesce-Michaelis
+  300          2.83   0.17 3-Su-Clouse vs 6-Liang-Deschenes
+        200    0.17   2.83 8-Li-Dickman vs 4-Zou-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.50   1.50 2-Zhang-Zhang vs 1-Pesce-Michaelis
+  210          0.17   2.83 3-Su-Clouse vs 6-Liang-Deschenes
+  460          2.83   0.17 8-Li-Dickman vs 4-Zou-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.95   1.65 4-Zou-Deschenes vs 7-Gu-Liang
+         50    1.65   1.95 8-Li-Dickman vs 5-Deschenes-Gao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.95   1.65 4-Zou-Deschenes vs 7-Gu-Liang
+        200    1.65   1.95 8-Li-Dickman vs 5-Deschenes-Gao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.65   1.95 2-Zhang-Zhang vs 7-Gu-Liang
+  100          1.95   1.65 5-Deschenes-Gao vs 1-Pesce-Michaelis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.95   1.65 2-Zhang-Zhang vs 7-Gu-Liang
+        430    1.65   1.95 5-Deschenes-Gao vs 1-Pesce-Michaelis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    0.17   2.83 3-Su-Clouse vs 1-Pesce-Michaelis
+        170    1.50   1.50 5-Deschenes-Gao vs 4-Zou-Deschenes
+        130    2.83   0.17 6-Liang-Deschenes vs 2-Zhang-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.17   2.83 3-Su-Clouse vs 1-Pesce-Michaelis
+   50          1.50   1.50 5-Deschenes-Gao vs 4-Zou-Deschenes
+  480          2.83   0.17 6-Liang-Deschenes vs 2-Zhang-Zhang
+----------------------------------------------------------------------
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>January 17, 2023   |CLUB NO.>158048    | 01/17/2023 22:24
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=8/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 Ray Miller             Chris Moore              A    .     .     .     61.00  50.83          
+
+ 3 David Taylor           Sue Anderson             B    1     1     .     77.00  64.17  1.30(A) 
+
+ 4 Howard Epley           Barbara Nist             A    .     .     .     44.50  37.08          
+
+ 5 Pete Cowles            Clay Laughary            C    5     .     .     61.50  51.25  0.26(A) 
+
+ 6 Mike Christensen       Becky Stevens            A    .     .     .     60.50  50.42          
+
+ 7 Kevin Cline            Bogdan Vulcan            A    .     .     .     60.50  50.42          
+
+ 8 Shawn Abernethy        Oyvind Tafjord           B    .     .     .     57.50  47.92          
+
+ 9 Gregory Herman         Eric Sieg                B    3     3     .     64.50  53.75  0.65(A) 
+
+10 Brian Zaugg            David Wright             B    .     .     .     59.50  49.58          
+
+11 Nick Tipton            Galen Hesson             B    .     .     .     54.50  45.42          
+
+12 Brad Rind              Susan Waggoner           C    2     2     .     66.00  55.00  0.91(A) 
+
+13 Kim Eng                Jeffrey Ford             A    4     .     .     62.00  51.67  0.46(A) 
+
+14 William Campbell       Ann Romeo                B    .     .     .     51.00  42.50          
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   4.50 2-Miller-Moore vs 6-Christensen-Stevens
+  400          3.50   1.50 4-Epley-Nist vs 9-Herman-Sieg
+  400          3.50   1.50 5-Cowles-Laughary vs 12-Rind-Waggoner
+         50    0.50   4.50 7-Cline-Vulcan vs 8-Abernethy-Tafjord
+  400          3.50   1.50 13-Eng-Ford vs 10-Zaugg-Wright
+  400          3.50   1.50 14-Campbell-Romeo vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   2.00 2-Miller-Moore vs 6-Christensen-Stevens
+  650          3.00   2.00 4-Epley-Nist vs 9-Herman-Sieg
+  650          3.00   2.00 5-Cowles-Laughary vs 12-Rind-Waggoner
+  650          3.00   2.00 7-Cline-Vulcan vs 8-Abernethy-Tafjord
+  650          3.00   2.00 13-Eng-Ford vs 10-Zaugg-Wright
+  620          0.00   5.00 14-Campbell-Romeo vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    5.00   0.00 2-Miller-Moore vs 4-Epley-Nist
+        620    3.00   2.00 3-Taylor-Anderson vs 7-Cline-Vulcan
+        620    3.00   2.00 5-Cowles-Laughary vs 10-Zaugg-Wright
+        950    0.50   4.50 6-Christensen-Stevens vs 13-Eng-Ford
+        950    0.50   4.50 8-Abernethy-Tafjord vs 9-Herman-Sieg
+        620    3.00   2.00 14-Campbell-Romeo vs 12-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    2.50   2.50 2-Miller-Moore vs 4-Epley-Nist
+        660    4.00   1.00 3-Taylor-Anderson vs 7-Cline-Vulcan
+        690    2.50   2.50 5-Cowles-Laughary vs 10-Zaugg-Wright
+       1440    0.00   5.00 6-Christensen-Stevens vs 13-Eng-Ford
+       1370    1.00   4.00 8-Abernethy-Tafjord vs 9-Herman-Sieg
+        630    5.00   0.00 14-Campbell-Romeo vs 12-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.00   5.00 2-Miller-Moore vs 12-Rind-Waggoner
+        400    1.50   3.50 3-Taylor-Anderson vs 5-Cowles-Laughary
+        300    3.00   2.00 4-Epley-Nist vs 8-Abernethy-Tafjord
+        200    4.00   1.00 6-Christensen-Stevens vs 11-Tipton-Hesson
+  100          5.00   0.00 9-Herman-Sieg vs 10-Zaugg-Wright
+        400    1.50   3.50 14-Campbell-Romeo vs 13-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.00   4.00 2-Miller-Moore vs 12-Rind-Waggoner
+  570          5.00   0.00 3-Taylor-Anderson vs 5-Cowles-Laughary
+  150          4.00   1.00 4-Epley-Nist vs 8-Abernethy-Tafjord
+  130          3.00   2.00 6-Christensen-Stevens vs 11-Tipton-Hesson
+        150    2.00   3.00 9-Herman-Sieg vs 10-Zaugg-Wright
+        630    0.00   5.00 14-Campbell-Romeo vs 13-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 3-Taylor-Anderson vs 13-Eng-Ford
+        100    1.00   4.00 4-Epley-Nist vs 6-Christensen-Stevens
+  140          4.00   1.00 5-Cowles-Laughary vs 9-Herman-Sieg
+        100    1.00   4.00 7-Cline-Vulcan vs 12-Rind-Waggoner
+  100          3.00   2.00 8-Abernethy-Tafjord vs 2-Miller-Moore
+        100    1.00   4.00 10-Zaugg-Wright vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          5.00   0.00 3-Taylor-Anderson vs 13-Eng-Ford
+  460          2.00   3.00 4-Epley-Nist vs 6-Christensen-Stevens
+  460          2.00   3.00 5-Cowles-Laughary vs 9-Herman-Sieg
+  460          2.00   3.00 7-Cline-Vulcan vs 12-Rind-Waggoner
+  460          2.00   3.00 8-Abernethy-Tafjord vs 2-Miller-Moore
+  460          2.00   3.00 10-Zaugg-Wright vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   5.00 5-Cowles-Laughary vs 7-Cline-Vulcan
+  470          5.00   0.00 6-Christensen-Stevens vs 10-Zaugg-Wright
+        100    2.00   3.00 8-Abernethy-Tafjord vs 13-Eng-Ford
+         50    3.50   1.50 9-Herman-Sieg vs 3-Taylor-Anderson
+         50    3.50   1.50 11-Tipton-Hesson vs 12-Rind-Waggoner
+        130    1.00   4.00 14-Campbell-Romeo vs 2-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.50   0.50 5-Cowles-Laughary vs 7-Cline-Vulcan
+  110          4.50   0.50 6-Christensen-Stevens vs 10-Zaugg-Wright
+        100    2.00   3.00 8-Abernethy-Tafjord vs 13-Eng-Ford
+        300    0.00   5.00 9-Herman-Sieg vs 3-Taylor-Anderson
+        200    1.00   4.00 11-Tipton-Hesson vs 12-Rind-Waggoner
+  100          3.00   2.00 14-Campbell-Romeo vs 2-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   3.50 5-Cowles-Laughary vs 2-Miller-Moore
+        110    1.50   3.50 6-Christensen-Stevens vs 8-Abernethy-Tafjord
+   50          4.00   1.00 7-Cline-Vulcan vs 11-Tipton-Hesson
+   50          4.00   1.00 10-Zaugg-Wright vs 4-Epley-Nist
+        420    0.00   5.00 12-Rind-Waggoner vs 13-Eng-Ford
+   50          4.00   1.00 14-Campbell-Romeo vs 3-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.00   5.00 5-Cowles-Laughary vs 2-Miller-Moore
+        430    1.00   4.00 6-Christensen-Stevens vs 8-Abernethy-Tafjord
+  100          4.00   1.00 7-Cline-Vulcan vs 11-Tipton-Hesson
+  100          4.00   1.00 10-Zaugg-Wright vs 4-Epley-Nist
+  100          4.00   1.00 12-Rind-Waggoner vs 13-Eng-Ford
+   50          2.00   3.00 14-Campbell-Romeo vs 3-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.00   4.00 6-Christensen-Stevens vs 3-Taylor-Anderson
+        500    2.50   2.50 7-Cline-Vulcan vs 9-Herman-Sieg
+  100          5.00   0.00 8-Abernethy-Tafjord vs 12-Rind-Waggoner
+        200    4.00   1.00 10-Zaugg-Wright vs 2-Miller-Moore
+        630    0.00   5.00 11-Tipton-Hesson vs 5-Cowles-Laughary
+        500    2.50   2.50 14-Campbell-Romeo vs 4-Epley-Nist
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.00   2.00 6-Christensen-Stevens vs 3-Taylor-Anderson
+  100          2.00   3.00 7-Cline-Vulcan vs 9-Herman-Sieg
+        550    0.00   5.00 8-Abernethy-Tafjord vs 12-Rind-Waggoner
+ 1210          5.00   0.00 10-Zaugg-Wright vs 2-Miller-Moore
+  750          4.00   1.00 11-Tipton-Hesson vs 5-Cowles-Laughary
+        420    1.00   4.00 14-Campbell-Romeo vs 4-Epley-Nist
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   3.00 7-Cline-Vulcan vs 4-Epley-Nist
+   50          2.00   3.00 8-Abernethy-Tafjord vs 10-Zaugg-Wright
+        100    0.00   5.00 9-Herman-Sieg vs 13-Eng-Ford
+  180          4.00   1.00 11-Tipton-Hesson vs 3-Taylor-Anderson
+  210          5.00   0.00 12-Rind-Waggoner vs 6-Christensen-Stevens
+   50          2.00   3.00 14-Campbell-Romeo vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          4.50   0.50 7-Cline-Vulcan vs 4-Epley-Nist
+        100    0.00   5.00 8-Abernethy-Tafjord vs 10-Zaugg-Wright
+   90          4.50   0.50 9-Herman-Sieg vs 13-Eng-Ford
+         50    2.00   3.00 11-Tipton-Hesson vs 3-Taylor-Anderson
+         50    2.00   3.00 12-Rind-Waggoner vs 6-Christensen-Stevens
+         50    2.00   3.00 14-Campbell-Romeo vs 5-Cowles-Laughary
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   5.00 2-Miller-Moore vs 3-Taylor-Anderson
+  530          5.00   0.00 8-Abernethy-Tafjord vs 5-Cowles-Laughary
+         50    2.00   3.00 9-Herman-Sieg vs 11-Tipton-Hesson
+   50          3.50   1.50 12-Rind-Waggoner vs 4-Epley-Nist
+   50          3.50   1.50 13-Eng-Ford vs 7-Cline-Vulcan
+        250    1.00   4.00 14-Campbell-Romeo vs 6-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.00   2.00 2-Miller-Moore vs 3-Taylor-Anderson
+        430    3.00   2.00 8-Abernethy-Tafjord vs 5-Cowles-Laughary
+        430    3.00   2.00 9-Herman-Sieg vs 11-Tipton-Hesson
+        150    5.00   0.00 12-Rind-Waggoner vs 4-Epley-Nist
+        460    1.00   4.00 13-Eng-Ford vs 7-Cline-Vulcan
+        490    0.00   5.00 14-Campbell-Romeo vs 6-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   1.00 3-Taylor-Anderson vs 4-Epley-Nist
+  420          4.00   1.00 9-Herman-Sieg vs 6-Christensen-Stevens
+  420          4.00   1.00 10-Zaugg-Wright vs 12-Rind-Waggoner
+  170          1.00   4.00 11-Tipton-Hesson vs 2-Miller-Moore
+  170          1.00   4.00 13-Eng-Ford vs 5-Cowles-Laughary
+  170          1.00   4.00 14-Campbell-Romeo vs 7-Cline-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   0.00 3-Taylor-Anderson vs 4-Epley-Nist
+        600    2.50   2.50 9-Herman-Sieg vs 6-Christensen-Stevens
+        600    2.50   2.50 10-Zaugg-Wright vs 12-Rind-Waggoner
+        680    0.00   5.00 11-Tipton-Hesson vs 2-Miller-Moore
+        620    1.00   4.00 13-Eng-Ford vs 5-Cowles-Laughary
+  100          4.00   1.00 14-Campbell-Romeo vs 7-Cline-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          2.00   3.00 2-Miller-Moore vs 9-Herman-Sieg
+  650          2.00   3.00 4-Epley-Nist vs 5-Cowles-Laughary
+  650          2.00   3.00 10-Zaugg-Wright vs 7-Cline-Vulcan
+  650          2.00   3.00 11-Tipton-Hesson vs 13-Eng-Ford
+  650          2.00   3.00 12-Rind-Waggoner vs 3-Taylor-Anderson
+  680          5.00   0.00 14-Campbell-Romeo vs 8-Abernethy-Tafjord
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   2.50 2-Miller-Moore vs 9-Herman-Sieg
+   90          1.00   4.00 4-Epley-Nist vs 5-Cowles-Laughary
+  200          4.50   0.50 10-Zaugg-Wright vs 7-Cline-Vulcan
+  200          4.50   0.50 11-Tipton-Hesson vs 13-Eng-Ford
+  100          2.50   2.50 12-Rind-Waggoner vs 3-Taylor-Anderson
+        600    0.00   5.00 14-Campbell-Romeo vs 8-Abernethy-Tafjord
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   1.50 2-Miller-Moore vs 7-Cline-Vulcan
+  200          5.00   0.00 3-Taylor-Anderson vs 10-Zaugg-Wright
+        650    0.00   5.00 5-Cowles-Laughary vs 6-Christensen-Stevens
+        620    1.50   3.50 11-Tipton-Hesson vs 8-Abernethy-Tafjord
+  100          3.50   1.50 13-Eng-Ford vs 4-Epley-Nist
+        620    1.50   3.50 14-Campbell-Romeo vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.00   4.00 2-Miller-Moore vs 7-Cline-Vulcan
+  400          1.00   4.00 3-Taylor-Anderson vs 10-Zaugg-Wright
+  500          5.00   0.00 5-Cowles-Laughary vs 6-Christensen-Stevens
+  430          3.00   2.00 11-Tipton-Hesson vs 8-Abernethy-Tafjord
+  460          4.00   1.00 13-Eng-Ford vs 4-Epley-Nist
+  400          1.00   4.00 14-Campbell-Romeo vs 9-Herman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    4.50   0.50 3-Taylor-Anderson vs 8-Abernethy-Tafjord
+        180    0.50   4.50 4-Epley-Nist vs 11-Tipton-Hesson
+        180    0.50   4.50 6-Christensen-Stevens vs 7-Cline-Vulcan
+        150    2.50   2.50 12-Rind-Waggoner vs 9-Herman-Sieg
+        150    2.50   2.50 13-Eng-Ford vs 2-Miller-Moore
+        120    4.50   0.50 14-Campbell-Romeo vs 10-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   4.00 3-Taylor-Anderson vs 8-Abernethy-Tafjord
+  690          5.00   0.00 4-Epley-Nist vs 11-Tipton-Hesson
+  600          2.50   2.50 6-Christensen-Stevens vs 7-Cline-Vulcan
+  660          4.00   1.00 12-Rind-Waggoner vs 9-Herman-Sieg
+        730    0.00   5.00 13-Eng-Ford vs 2-Miller-Moore
+  600          2.50   2.50 14-Campbell-Romeo vs 10-Zaugg-Wright
+----------------------------------------------------------------------
