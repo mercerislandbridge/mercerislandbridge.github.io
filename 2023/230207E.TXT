@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 7, 2023   |CLUB NO.>158048    | 02/07/2023 22:18
+DATE>February 7, 2023   |CLUB NO.>158048    | 02/11/2023 15:41
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -27,13 +27,13 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  8 Ray Miller             Jeffrey Ford             A    2     .     .    104.50  55.29  0.63(A) 
 
- 9 Aaron Mohrman                                   B    3     2     .    100.50  53.17  0.45(A) 
+ 9 Aaron Mohrman          Donald Z                 B    3     2     .    100.50  53.17  0.45(A) 
 
 
                                           Totals                         756.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 7, 2023   |CLUB NO.>158048    | 02/07/2023 22:18
+DATE>February 7, 2023   |CLUB NO.>158048    | 02/11/2023 15:41
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -49,7 +49,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  3 Brian Zaugg            Shawn Abernethy          B    2     2     .    109.69  58.04  0.63(A) 
 
- 4 Muhunthan Sivapragasam                          C    4     .     2    100.13  52.98  0.32(A) 
+ 4 Muhunthan Sivapragasam Sohail Agha              C    4     .     2    100.13  52.98  0.32(A) 
 
  5 Nick Tipton            Galen Hesson             B    .     .     .     67.50  35.71          
 
@@ -73,9 +73,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   100          6.00   1.00 3-Roselle-Romeo vs 5-Tipton-Hesson
   180          7.00   0.00 5-Sonkin-Saul vs 9-Moore-Eng
    50          5.00   2.00 6-Tu-Chen vs 2-Rind-Waggoner
-        170    1.00   6.00 7-Ring-Christensen vs 4-Sivapragasam-
+        170    1.00   6.00 7-Ring-Christensen vs 4-Sivapragasam-Agha
         140    3.50   3.50 8-Miller-Ford vs 6-Ruprecht-Sieg
-        170    1.00   6.00 9-Mohrman- vs 8-Delfs-Christie
+        170    1.00   6.00 9-Mohrman-Z vs 8-Delfs-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 2
@@ -87,9 +87,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   170          4.00   3.00 3-Roselle-Romeo vs 5-Tipton-Hesson
   930          7.00   0.00 5-Sonkin-Saul vs 9-Moore-Eng
   620          5.50   1.50 6-Tu-Chen vs 2-Rind-Waggoner
-  620          5.50   1.50 7-Ring-Christensen vs 4-Sivapragasam-
+  620          5.50   1.50 7-Ring-Christensen vs 4-Sivapragasam-Agha
   100          3.00   4.00 8-Miller-Ford vs 6-Ruprecht-Sieg
-        110    1.00   6.00 9-Mohrman- vs 8-Delfs-Christie
+        110    1.00   6.00 9-Mohrman-Z vs 8-Delfs-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 3
@@ -101,9 +101,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   100          7.00   0.00 3-Roselle-Romeo vs 5-Tipton-Hesson
         620    5.00   2.00 5-Sonkin-Saul vs 9-Moore-Eng
         620    5.00   2.00 6-Tu-Chen vs 2-Rind-Waggoner
-        650    1.50   5.50 7-Ring-Christensen vs 4-Sivapragasam-
+        650    1.50   5.50 7-Ring-Christensen vs 4-Sivapragasam-Agha
         620    5.00   2.00 8-Miller-Ford vs 6-Ruprecht-Sieg
-        650    1.50   5.50 9-Mohrman- vs 8-Delfs-Christie
+        650    1.50   5.50 9-Mohrman-Z vs 8-Delfs-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 4
@@ -112,12 +112,12 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
   170          1.50   5.50 1-Herman-Phu vs 9-Moore-Eng
   170          1.50   5.50 2-Cowles-Laughary vs 2-Rind-Waggoner
-  650          6.50   0.50 3-Roselle-Romeo vs 4-Sivapragasam-
+  650          6.50   0.50 3-Roselle-Romeo vs 4-Sivapragasam-Agha
   170          1.50   5.50 5-Sonkin-Saul vs 8-Delfs-Christie
   650          6.50   0.50 6-Tu-Chen vs 1-Mills-Brock
   200          4.00   3.00 7-Ring-Christensen vs 3-Zaugg-Abernethy
   620          5.00   2.00 8-Miller-Ford vs 5-Tipton-Hesson
-  170          1.50   5.50 9-Mohrman- vs 7-Lanchew-Thai-May
+  170          1.50   5.50 9-Mohrman-Z vs 7-Lanchew-Thai-May
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 5
@@ -126,12 +126,12 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
   300          6.00   1.00 1-Herman-Phu vs 9-Moore-Eng
   140          3.50   3.50 2-Cowles-Laughary vs 2-Rind-Waggoner
-        100    1.00   6.00 3-Roselle-Romeo vs 4-Sivapragasam-
+        100    1.00   6.00 3-Roselle-Romeo vs 4-Sivapragasam-Agha
   300          6.00   1.00 5-Sonkin-Saul vs 8-Delfs-Christie
         100    1.00   6.00 6-Tu-Chen vs 1-Mills-Brock
   140          3.50   3.50 7-Ring-Christensen vs 3-Zaugg-Abernethy
         100    1.00   6.00 8-Miller-Ford vs 5-Tipton-Hesson
-  300          6.00   1.00 9-Mohrman- vs 7-Lanchew-Thai-May
+  300          6.00   1.00 9-Mohrman-Z vs 7-Lanchew-Thai-May
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 6
@@ -140,12 +140,12 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
   430          5.00   2.00 1-Herman-Phu vs 9-Moore-Eng
   130          2.00   5.00 2-Cowles-Laughary vs 2-Rind-Waggoner
-  130          2.00   5.00 3-Roselle-Romeo vs 4-Sivapragasam-
+  130          2.00   5.00 3-Roselle-Romeo vs 4-Sivapragasam-Agha
   430          5.00   2.00 5-Sonkin-Saul vs 8-Delfs-Christie
   500          7.00   0.00 6-Tu-Chen vs 1-Mills-Brock
   110          0.00   7.00 7-Ring-Christensen vs 3-Zaugg-Abernethy
   430          5.00   2.00 8-Miller-Ford vs 5-Tipton-Hesson
-  130          2.00   5.00 9-Mohrman- vs 7-Lanchew-Thai-May
+  130          2.00   5.00 9-Mohrman-Z vs 7-Lanchew-Thai-May
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 7
@@ -158,8 +158,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         620    4.50   2.50 5-Sonkin-Saul vs 7-Lanchew-Thai-May
        1370    0.50   6.50 6-Tu-Chen vs 9-Moore-Eng
         620    4.50   2.50 7-Ring-Christensen vs 2-Rind-Waggoner
-        660    2.50   4.50 8-Miller-Ford vs 4-Sivapragasam-
-       1370    0.50   6.50 9-Mohrman- vs 6-Ruprecht-Sieg
+        660    2.50   4.50 8-Miller-Ford vs 4-Sivapragasam-Agha
+       1370    0.50   6.50 9-Mohrman-Z vs 6-Ruprecht-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 8
@@ -172,8 +172,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         120    3.00   4.00 5-Sonkin-Saul vs 7-Lanchew-Thai-May
   650          7.00   0.00 6-Tu-Chen vs 9-Moore-Eng
         150    2.00   5.00 7-Ring-Christensen vs 2-Rind-Waggoner
-        100    4.00   3.00 8-Miller-Ford vs 4-Sivapragasam-
-        800    0.00   7.00 9-Mohrman- vs 6-Ruprecht-Sieg
+        100    4.00   3.00 8-Miller-Ford vs 4-Sivapragasam-Agha
+        800    0.00   7.00 9-Mohrman-Z vs 6-Ruprecht-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 9
@@ -186,8 +186,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   460          6.00   1.00 5-Sonkin-Saul vs 7-Lanchew-Thai-May
   430          3.00   4.00 6-Tu-Chen vs 9-Moore-Eng
   400          1.00   6.00 7-Ring-Christensen vs 2-Rind-Waggoner
-  460          6.00   1.00 8-Miller-Ford vs 4-Sivapragasam-
-  460          6.00   1.00 9-Mohrman- vs 6-Ruprecht-Sieg
+  460          6.00   1.00 8-Miller-Ford vs 4-Sivapragasam-Agha
+  460          6.00   1.00 9-Mohrman-Z vs 6-Ruprecht-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 10
@@ -201,7 +201,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         200    1.00   6.00 6-Tu-Chen vs 8-Delfs-Christie
   140          6.00   1.00 7-Ring-Christensen vs 1-Mills-Brock
         100    5.00   2.00 8-Miller-Ford vs 3-Zaugg-Abernethy
-        110    4.00   3.00 9-Mohrman- vs 5-Tipton-Hesson
+        110    4.00   3.00 9-Mohrman-Z vs 5-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 11
@@ -215,7 +215,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   100          0.00   7.00 6-Tu-Chen vs 8-Delfs-Christie
   510          7.00   0.00 7-Ring-Christensen vs 1-Mills-Brock
   450          4.50   2.50 8-Miller-Ford vs 3-Zaugg-Abernethy
-  450          4.50   2.50 9-Mohrman- vs 5-Tipton-Hesson
+  450          4.50   2.50 9-Mohrman-Z vs 5-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 12
@@ -229,7 +229,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         480    0.00   7.00 6-Tu-Chen vs 8-Delfs-Christie
    50          5.50   1.50 7-Ring-Christensen vs 1-Mills-Brock
         450    1.50   5.50 8-Miller-Ford vs 3-Zaugg-Abernethy
-  100          7.00   0.00 9-Mohrman- vs 5-Tipton-Hesson
+  100          7.00   0.00 9-Mohrman-Z vs 5-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 13
@@ -243,7 +243,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   170          5.00   2.00 6-Tu-Chen vs 7-Lanchew-Thai-May
         600    1.00   6.00 7-Ring-Christensen vs 9-Moore-Eng
         660    0.00   7.00 8-Miller-Ford vs 2-Rind-Waggoner
-  620          6.50   0.50 9-Mohrman- vs 4-Sivapragasam-
+  620          6.50   0.50 9-Mohrman-Z vs 4-Sivapragasam-Agha
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 14
@@ -257,7 +257,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         100    4.00   3.00 6-Tu-Chen vs 7-Lanchew-Thai-May
         100    4.00   3.00 7-Ring-Christensen vs 9-Moore-Eng
         100    4.00   3.00 8-Miller-Ford vs 2-Rind-Waggoner
-  110          7.00   0.00 9-Mohrman- vs 4-Sivapragasam-
+  110          7.00   0.00 9-Mohrman-Z vs 4-Sivapragasam-Agha
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 15
@@ -271,7 +271,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         420    3.50   3.50 6-Tu-Chen vs 7-Lanchew-Thai-May
         420    3.50   3.50 7-Ring-Christensen vs 9-Moore-Eng
         500    0.00   7.00 8-Miller-Ford vs 2-Rind-Waggoner
-        420    3.50   3.50 9-Mohrman- vs 4-Sivapragasam-
+        420    3.50   3.50 9-Mohrman-Z vs 4-Sivapragasam-Agha
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 16
@@ -281,11 +281,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   500          6.00   1.00 1-Herman-Phu vs 5-Tipton-Hesson
   430          4.50   2.50 2-Cowles-Laughary vs 7-Lanchew-Thai-May
          50    1.00   6.00 3-Roselle-Romeo vs 9-Moore-Eng
-        100    0.00   7.00 5-Sonkin-Saul vs 4-Sivapragasam-
+        100    0.00   7.00 5-Sonkin-Saul vs 4-Sivapragasam-Agha
  1100          7.00   0.00 6-Tu-Chen vs 6-Ruprecht-Sieg
   430          4.50   2.50 7-Ring-Christensen vs 8-Delfs-Christie
   400          3.00   4.00 8-Miller-Ford vs 1-Mills-Brock
-  300          2.00   5.00 9-Mohrman- vs 3-Zaugg-Abernethy
+  300          2.00   5.00 9-Mohrman-Z vs 3-Zaugg-Abernethy
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 17
@@ -295,11 +295,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    50          4.50   2.50 1-Herman-Phu vs 5-Tipton-Hesson
         110    1.00   6.00 2-Cowles-Laughary vs 7-Lanchew-Thai-May
   100          6.00   1.00 3-Roselle-Romeo vs 9-Moore-Eng
-        300    0.00   7.00 5-Sonkin-Saul vs 4-Sivapragasam-
+        300    0.00   7.00 5-Sonkin-Saul vs 4-Sivapragasam-Agha
          50    2.50   4.50 6-Tu-Chen vs 6-Ruprecht-Sieg
    50          4.50   2.50 7-Ring-Christensen vs 8-Delfs-Christie
   110          7.00   0.00 8-Miller-Ford vs 1-Mills-Brock
-         50    2.50   4.50 9-Mohrman- vs 3-Zaugg-Abernethy
+         50    2.50   4.50 9-Mohrman-Z vs 3-Zaugg-Abernethy
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 18
@@ -309,53 +309,53 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   120          4.50   2.50 1-Herman-Phu vs 5-Tipton-Hesson
   120          4.50   2.50 2-Cowles-Laughary vs 7-Lanchew-Thai-May
   120          4.50   2.50 3-Roselle-Romeo vs 9-Moore-Eng
-  100          1.50   5.50 5-Sonkin-Saul vs 4-Sivapragasam-
+  100          1.50   5.50 5-Sonkin-Saul vs 4-Sivapragasam-Agha
         100    0.00   7.00 6-Tu-Chen vs 6-Ruprecht-Sieg
   120          4.50   2.50 7-Ring-Christensen vs 8-Delfs-Christie
   150          7.00   0.00 8-Miller-Ford vs 1-Mills-Brock
-  100          1.50   5.50 9-Mohrman- vs 3-Zaugg-Abernethy
+  100          1.50   5.50 9-Mohrman-Z vs 3-Zaugg-Abernethy
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 19
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   90          6.00   1.00 1-Herman-Phu vs 4-Sivapragasam-
+   90          6.00   1.00 1-Herman-Phu vs 4-Sivapragasam-Agha
         100    0.00   7.00 2-Cowles-Laughary vs 6-Ruprecht-Sieg
   100          7.00   0.00 3-Roselle-Romeo vs 8-Delfs-Christie
          50    3.00   4.00 5-Sonkin-Saul vs 3-Zaugg-Abernethy
          50    3.00   4.00 6-Tu-Chen vs 5-Tipton-Hesson
          50    3.00   4.00 7-Ring-Christensen vs 7-Lanchew-Thai-May
          50    3.00   4.00 8-Miller-Ford vs 9-Moore-Eng
-         50    3.00   4.00 9-Mohrman- vs 2-Rind-Waggoner
+         50    3.00   4.00 9-Mohrman-Z vs 2-Rind-Waggoner
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 20
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        600    2.50   4.50 1-Herman-Phu vs 4-Sivapragasam-
+        600    2.50   4.50 1-Herman-Phu vs 4-Sivapragasam-Agha
         630    0.00   7.00 2-Cowles-Laughary vs 6-Ruprecht-Sieg
   100          6.00   1.00 3-Roselle-Romeo vs 8-Delfs-Christie
         600    2.50   4.50 5-Sonkin-Saul vs 3-Zaugg-Abernethy
         600    2.50   4.50 6-Tu-Chen vs 5-Tipton-Hesson
         600    2.50   4.50 7-Ring-Christensen vs 7-Lanchew-Thai-May
   100          6.00   1.00 8-Miller-Ford vs 9-Moore-Eng
-  100          6.00   1.00 9-Mohrman- vs 2-Rind-Waggoner
+  100          6.00   1.00 9-Mohrman-Z vs 2-Rind-Waggoner
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 21
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  150          3.50   3.50 1-Herman-Phu vs 4-Sivapragasam-
+  150          3.50   3.50 1-Herman-Phu vs 4-Sivapragasam-Agha
    50          1.00   6.00 2-Cowles-Laughary vs 6-Ruprecht-Sieg
         200    0.00   7.00 3-Roselle-Romeo vs 8-Delfs-Christie
   110          2.00   5.00 5-Sonkin-Saul vs 3-Zaugg-Abernethy
   600          6.00   1.00 6-Tu-Chen vs 5-Tipton-Hesson
   150          3.50   3.50 7-Ring-Christensen vs 7-Lanchew-Thai-May
   600          6.00   1.00 8-Miller-Ford vs 9-Moore-Eng
-  600          6.00   1.00 9-Mohrman- vs 2-Rind-Waggoner
+  600          6.00   1.00 9-Mohrman-Z vs 2-Rind-Waggoner
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 22
@@ -366,10 +366,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   420          4.00   3.00 2-Cowles-Laughary vs 5-Tipton-Hesson
          50    0.00   7.00 3-Roselle-Romeo vs 7-Lanchew-Thai-May
   420          4.00   3.00 5-Sonkin-Saul vs 2-Rind-Waggoner
-  200          1.50   5.50 6-Tu-Chen vs 4-Sivapragasam-
+  200          1.50   5.50 6-Tu-Chen vs 4-Sivapragasam-Agha
   450          6.00   1.00 7-Ring-Christensen vs 6-Ruprecht-Sieg
   800          7.00   0.00 8-Miller-Ford vs 8-Delfs-Christie
-  200          1.50   5.50 9-Mohrman- vs 1-Mills-Brock
+  200          1.50   5.50 9-Mohrman-Z vs 1-Mills-Brock
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 23
@@ -380,10 +380,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         680    4.00   3.00 2-Cowles-Laughary vs 5-Tipton-Hesson
        1470    0.00   7.00 3-Roselle-Romeo vs 7-Lanchew-Thai-May
         680    4.00   3.00 5-Sonkin-Saul vs 2-Rind-Waggoner
-        650    6.00   1.00 6-Tu-Chen vs 4-Sivapragasam-
+        650    6.00   1.00 6-Tu-Chen vs 4-Sivapragasam-Agha
         710    1.50   5.50 7-Ring-Christensen vs 6-Ruprecht-Sieg
         710    1.50   5.50 8-Miller-Ford vs 8-Delfs-Christie
-  100          7.00   0.00 9-Mohrman- vs 1-Mills-Brock
+  100          7.00   0.00 9-Mohrman-Z vs 1-Mills-Brock
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 24
@@ -394,10 +394,10 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
          50    5.50   1.50 2-Cowles-Laughary vs 5-Tipton-Hesson
         140    1.00   6.00 3-Roselle-Romeo vs 7-Lanchew-Thai-May
         140    1.00   6.00 5-Sonkin-Saul vs 2-Rind-Waggoner
-        100    3.00   4.00 6-Tu-Chen vs 4-Sivapragasam-
+        100    3.00   4.00 6-Tu-Chen vs 4-Sivapragasam-Agha
         140    1.00   6.00 7-Ring-Christensen vs 6-Ruprecht-Sieg
          50    5.50   1.50 8-Miller-Ford vs 8-Delfs-Christie
-         50    5.50   1.50 9-Mohrman- vs 1-Mills-Brock
+         50    5.50   1.50 9-Mohrman-Z vs 1-Mills-Brock
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 25
@@ -405,13 +405,13 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         110    5.00   2.00 1-Herman-Phu vs 2-Rind-Waggoner
-        660    0.00   7.00 2-Cowles-Laughary vs 4-Sivapragasam-
+        660    0.00   7.00 2-Cowles-Laughary vs 4-Sivapragasam-Agha
         210    1.00   6.00 3-Roselle-Romeo vs 6-Ruprecht-Sieg
         150    3.00   4.00 5-Sonkin-Saul vs 1-Mills-Brock
         140    4.00   3.00 6-Tu-Chen vs 3-Zaugg-Abernethy
          50    6.00   1.00 7-Ring-Christensen vs 5-Tipton-Hesson
         180    2.00   5.00 8-Miller-Ford vs 7-Lanchew-Thai-May
-  100          7.00   0.00 9-Mohrman- vs 9-Moore-Eng
+  100          7.00   0.00 9-Mohrman-Z vs 9-Moore-Eng
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 26
@@ -419,13 +419,13 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         300    1.50   5.50 1-Herman-Phu vs 2-Rind-Waggoner
-   90          6.00   1.00 2-Cowles-Laughary vs 4-Sivapragasam-
+   90          6.00   1.00 2-Cowles-Laughary vs 4-Sivapragasam-Agha
         200    3.00   4.00 3-Roselle-Romeo vs 6-Ruprecht-Sieg
   110          7.00   0.00 5-Sonkin-Saul vs 1-Mills-Brock
         380    0.00   7.00 6-Tu-Chen vs 3-Zaugg-Abernethy
         300    1.50   5.50 7-Ring-Christensen vs 5-Tipton-Hesson
         100    4.50   2.50 8-Miller-Ford vs 7-Lanchew-Thai-May
-        100    4.50   2.50 9-Mohrman- vs 9-Moore-Eng
+        100    4.50   2.50 9-Mohrman-Z vs 9-Moore-Eng
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 27
@@ -433,11 +433,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   400          6.00   1.00 1-Herman-Phu vs 2-Rind-Waggoner
-  120          2.00   5.00 2-Cowles-Laughary vs 4-Sivapragasam-
+  120          2.00   5.00 2-Cowles-Laughary vs 4-Sivapragasam-Agha
          50    0.00   7.00 3-Roselle-Romeo vs 6-Ruprecht-Sieg
   150          4.00   3.00 5-Sonkin-Saul vs 1-Mills-Brock
   400          6.00   1.00 6-Tu-Chen vs 3-Zaugg-Abernethy
   400          6.00   1.00 7-Ring-Christensen vs 5-Tipton-Hesson
   120          2.00   5.00 8-Miller-Ford vs 7-Lanchew-Thai-May
-  120          2.00   5.00 9-Mohrman- vs 9-Moore-Eng
+  120          2.00   5.00 9-Mohrman-Z vs 9-Moore-Eng
 ----------------------------------------------------------------------
