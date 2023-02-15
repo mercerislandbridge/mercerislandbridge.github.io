@@ -1,0 +1,135 @@
+
+EVENT>Tuesday Evening Pairs B4Y|SESSION>Tuesday Eve  |SECTION> B
+------------------------,------ ------------,-------- --------------------------
+DATE>February 14, 2023  |CLUB NO.>158048    | 02/14/2023 22:46
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff            |RATING>Club Masterpoint (60% Open)  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   12.0 |TOP>   2 |MP LIMITS>500            |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS>  6                                        ,------------,------,------,
+-------------------------------------------------|   Section  |      |Sect. |
+No Name                   Name                   | Rank|Score | Pct  |Awards|
+------------------------------------------------- ----- ------ ------ ------ 
+ 1 Yanchun Gu             Rui Gong                 1     15.00  62.50  0.36 
+
+ 2 Maiya Clouse           Ella Su                         8.00  33.33       
+
+ 3 Sylvia Bailey          Huan Zou                2/3    13.50  56.25  0.22 
+
+ 4 Matteo Pesce           Aidan Michaelis                10.50  43.75       
+
+ 5 Lydia Zhang            Gina Zhang                     11.50  47.92       
+
+ 6 Christopher Dickman    Nathan Gong             2/3    13.50  56.25  0.22 
+
+
+                                          Totals         72.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    0.00   2.00 2-Clouse-Su vs 4-Pesce-Michaelis
+   50          1.50   0.50 3-Bailey-Zou vs 5-Zhang-Zhang
+   50          1.50   0.50 6-Dickman-Gong vs 1-Gu-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   2.00 2-Clouse-Su vs 4-Pesce-Michaelis
+   70          1.00   1.00 3-Bailey-Zou vs 5-Zhang-Zhang
+  110          2.00   0.00 6-Dickman-Gong vs 1-Gu-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  240          0.00   2.00 2-Clouse-Su vs 4-Pesce-Michaelis
+  520          2.00   0.00 3-Bailey-Zou vs 5-Zhang-Zhang
+  490          1.00   1.00 6-Dickman-Gong vs 1-Gu-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   0.00 3-Bailey-Zou vs 4-Pesce-Michaelis
+        600    0.00   2.00 5-Zhang-Zhang vs 1-Gu-Gong
+  170          1.00   1.00 6-Dickman-Gong vs 2-Clouse-Su
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.00   0.00 3-Bailey-Zou vs 4-Pesce-Michaelis
+   50          0.00   2.00 5-Zhang-Zhang vs 1-Gu-Gong
+  150          1.00   1.00 6-Dickman-Gong vs 2-Clouse-Su
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          2.00   0.00 3-Bailey-Zou vs 4-Pesce-Michaelis
+         50    0.50   1.50 5-Zhang-Zhang vs 1-Gu-Gong
+         50    0.50   1.50 6-Dickman-Gong vs 2-Clouse-Su
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    1.00   1.00 1-Gu-Gong vs 2-Clouse-Su
+        630    0.00   2.00 4-Pesce-Michaelis vs 5-Zhang-Zhang
+   90          2.00   0.00 6-Dickman-Gong vs 3-Bailey-Zou
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.00   1.00 1-Gu-Gong vs 2-Clouse-Su
+  110          0.00   2.00 4-Pesce-Michaelis vs 5-Zhang-Zhang
+  470          2.00   0.00 6-Dickman-Gong vs 3-Bailey-Zou
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   0.00 1-Gu-Gong vs 2-Clouse-Su
+        200    0.00   2.00 4-Pesce-Michaelis vs 5-Zhang-Zhang
+        170    1.00   1.00 6-Dickman-Gong vs 3-Bailey-Zou
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          0.00   2.00 1-Gu-Gong vs 3-Bailey-Zou
+  300          1.50   0.50 5-Zhang-Zhang vs 2-Clouse-Su
+  300          1.50   0.50 6-Dickman-Gong vs 4-Pesce-Michaelis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          2.00   0.00 1-Gu-Gong vs 3-Bailey-Zou
+   90          1.00   1.00 5-Zhang-Zhang vs 2-Clouse-Su
+        100    0.00   2.00 6-Dickman-Gong vs 4-Pesce-Michaelis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    2.00   0.00 1-Gu-Gong vs 3-Bailey-Zou
+        400    1.00   1.00 5-Zhang-Zhang vs 2-Clouse-Su
+        500    0.00   2.00 6-Dickman-Gong vs 4-Pesce-Michaelis
+----------------------------------------------------------------------
