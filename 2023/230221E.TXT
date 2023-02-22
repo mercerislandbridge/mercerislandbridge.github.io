@@ -7,7 +7,7 @@ DIR> Aaron/Kim       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE
 ------------,-------- ,-------------------------,--------- ---------------------
 AVE>   54.0 |TOP>   4 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=11/B=6/C=2                      ,---,-------------------------,------,---------,
+PAIRS IN STRAT A=11/B=6/C=3                      ,---,-------------------------,------,---------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
@@ -31,7 +31,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
 10 Pete Cowles            Clay Laughary            C    .     .     .     50.06  46.35          
 
-11 Aaron Mohrman                                   B    .     .     .     49.50  45.83          
+11 Aaron Mohrman          Melike Sumbul            C    .     .     .     49.50  45.83          
 
 12 Hugh Hendrickson       Nelson Davis             B    1     1     .     68.06  63.02  1.10(A) 
 
@@ -42,7 +42,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        200    1.00   3.00 3-Tipton-Hesson vs 11-Mohrman-
+        200    1.00   3.00 3-Tipton-Hesson vs 11-Mohrman-Sumbul
         420    0.00   4.00 5-Ring-Abernethy vs 2-Christensen-Stevens
   100          3.00   1.00 6-Cline-Anderson vs 10-Cowles-Laughary
   100          3.00   1.00 8-Schwaighart-Rind vs 4-Thai-May-Lanchew
@@ -53,7 +53,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        200    2.50   1.50 3-Tipton-Hesson vs 11-Mohrman-
+        200    2.50   1.50 3-Tipton-Hesson vs 11-Mohrman-Sumbul
         300    0.50   3.50 5-Ring-Abernethy vs 2-Christensen-Stevens
         300    0.50   3.50 6-Cline-Anderson vs 10-Cowles-Laughary
         200    2.50   1.50 8-Schwaighart-Rind vs 4-Thai-May-Lanchew
@@ -64,7 +64,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        100    0.00   4.00 3-Tipton-Hesson vs 11-Mohrman-
+        100    0.00   4.00 3-Tipton-Hesson vs 11-Mohrman-Sumbul
   130          3.00   1.00 5-Ring-Abernethy vs 2-Christensen-Stevens
   150          4.00   0.00 6-Cline-Anderson vs 10-Cowles-Laughary
   100          1.00   3.00 8-Schwaighart-Rind vs 4-Thai-May-Lanchew
@@ -78,7 +78,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         660    0.00   4.00 1-Zaugg-Moore vs 8-Schwaighart-Rind
   100          4.00   0.00 6-Cline-Anderson vs 3-Tipton-Hesson
         600    3.00   1.00 9-Eng-Ford vs 5-Ring-Abernethy
-        630    1.50   2.50 11-Mohrman- vs 4-Thai-May-Lanchew
+        630    1.50   2.50 11-Mohrman-Sumbul vs 4-Thai-May-Lanchew
         630    1.50   2.50 12-Hendrickson-Davis vs 2-Christensen-Stevens
 ----------------------------------------------------------------------
 
@@ -89,7 +89,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         300    0.00   4.00 1-Zaugg-Moore vs 8-Schwaighart-Rind
   130          3.50   0.50 6-Cline-Anderson vs 3-Tipton-Hesson
   130          3.50   0.50 9-Eng-Ford vs 5-Ring-Abernethy
-   50          1.00   3.00 11-Mohrman- vs 4-Thai-May-Lanchew
+   50          1.00   3.00 11-Mohrman-Sumbul vs 4-Thai-May-Lanchew
   110          2.00   2.00 12-Hendrickson-Davis vs 2-Christensen-Stevens
 ----------------------------------------------------------------------
 
@@ -100,7 +100,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   420          4.00   0.00 1-Zaugg-Moore vs 8-Schwaighart-Rind
   100          2.50   1.50 6-Cline-Anderson vs 3-Tipton-Hesson
   100          2.50   1.50 9-Eng-Ford vs 5-Ring-Abernethy
-        730    0.00   4.00 11-Mohrman- vs 4-Thai-May-Lanchew
+        730    0.00   4.00 11-Mohrman-Sumbul vs 4-Thai-May-Lanchew
         170    1.00   3.00 12-Hendrickson-Davis vs 2-Christensen-Stevens
 ----------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   620          1.00   3.00 1-Zaugg-Moore vs 6-Cline-Anderson
   660          2.50   1.50 2-Christensen-Stevens vs 9-Eng-Ford
   600          0.00   4.00 10-Cowles-Laughary vs 8-Schwaighart-Rind
-  680          4.00   0.00 11-Mohrman- vs 5-Ring-Abernethy
+  680          4.00   0.00 11-Mohrman-Sumbul vs 5-Ring-Abernethy
   660          2.50   1.50 12-Hendrickson-Davis vs 3-Tipton-Hesson
 ----------------------------------------------------------------------
 
@@ -122,7 +122,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         170    0.00   4.00 1-Zaugg-Moore vs 6-Cline-Anderson
         100    1.00   3.00 2-Christensen-Stevens vs 9-Eng-Ford
   100          3.00   1.00 10-Cowles-Laughary vs 8-Schwaighart-Rind
-  150          4.00   0.00 11-Mohrman- vs 5-Ring-Abernethy
+  150          4.00   0.00 11-Mohrman-Sumbul vs 5-Ring-Abernethy
          50    2.00   2.00 12-Hendrickson-Davis vs 3-Tipton-Hesson
 ----------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         600    2.00   2.00 1-Zaugg-Moore vs 6-Cline-Anderson
         600    2.00   2.00 2-Christensen-Stevens vs 9-Eng-Ford
         630    0.00   4.00 10-Cowles-Laughary vs 8-Schwaighart-Rind
-        600    2.00   2.00 11-Mohrman- vs 5-Ring-Abernethy
+        600    2.00   2.00 11-Mohrman-Sumbul vs 5-Ring-Abernethy
   100          4.00   0.00 12-Hendrickson-Davis vs 3-Tipton-Hesson
 ----------------------------------------------------------------------
 
@@ -144,7 +144,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   170          2.00   2.00 3-Tipton-Hesson vs 1-Zaugg-Moore
   620          4.00   0.00 8-Schwaighart-Rind vs 5-Ring-Abernethy
   170          2.00   2.00 10-Cowles-Laughary vs 9-Eng-Ford
-   90          0.00   4.00 11-Mohrman- vs 6-Cline-Anderson
+   90          0.00   4.00 11-Mohrman-Sumbul vs 6-Cline-Anderson
   170          2.00   2.00 12-Hendrickson-Davis vs 4-Thai-May-Lanchew
 ----------------------------------------------------------------------
 
@@ -155,7 +155,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         400    3.00   1.00 3-Tipton-Hesson vs 1-Zaugg-Moore
         420    2.00   2.00 8-Schwaighart-Rind vs 5-Ring-Abernethy
         460    0.50   3.50 10-Cowles-Laughary vs 9-Eng-Ford
-   50          4.00   0.00 11-Mohrman- vs 6-Cline-Anderson
+   50          4.00   0.00 11-Mohrman-Sumbul vs 6-Cline-Anderson
         460    0.50   3.50 12-Hendrickson-Davis vs 4-Thai-May-Lanchew
 ----------------------------------------------------------------------
 
@@ -166,7 +166,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   140          2.50   1.50 3-Tipton-Hesson vs 1-Zaugg-Moore
         100    0.00   4.00 8-Schwaighart-Rind vs 5-Ring-Abernethy
   140          2.50   1.50 10-Cowles-Laughary vs 9-Eng-Ford
-  100          1.00   3.00 11-Mohrman- vs 6-Cline-Anderson
+  100          1.00   3.00 11-Mohrman-Sumbul vs 6-Cline-Anderson
   620          4.00   0.00 12-Hendrickson-Davis vs 4-Thai-May-Lanchew
 ----------------------------------------------------------------------
 
@@ -210,7 +210,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   170          3.00   1.00 2-Christensen-Stevens vs 10-Cowles-Laughary
         150    0.00   4.00 4-Thai-May-Lanchew vs 9-Eng-Ford
   110          1.00   3.00 5-Ring-Abernethy vs 3-Tipton-Hesson
-  170          3.00   1.00 8-Schwaighart-Rind vs 11-Mohrman-
+  170          3.00   1.00 8-Schwaighart-Rind vs 11-Mohrman-Sumbul
   170          3.00   1.00 12-Hendrickson-Davis vs 6-Cline-Anderson
 ----------------------------------------------------------------------
 
@@ -221,7 +221,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   110          3.00   1.00 2-Christensen-Stevens vs 10-Cowles-Laughary
         100    0.50   3.50 4-Thai-May-Lanchew vs 9-Eng-Ford
          50    2.00   2.00 5-Ring-Abernethy vs 3-Tipton-Hesson
-        100    0.50   3.50 8-Schwaighart-Rind vs 11-Mohrman-
+        100    0.50   3.50 8-Schwaighart-Rind vs 11-Mohrman-Sumbul
   120          4.00   0.00 12-Hendrickson-Davis vs 6-Cline-Anderson
 ----------------------------------------------------------------------
 
@@ -232,7 +232,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         420    2.00   2.00 2-Christensen-Stevens vs 10-Cowles-Laughary
         420    2.00   2.00 4-Thai-May-Lanchew vs 9-Eng-Ford
         420    2.00   2.00 5-Ring-Abernethy vs 3-Tipton-Hesson
-        420    2.00   2.00 8-Schwaighart-Rind vs 11-Mohrman-
+        420    2.00   2.00 8-Schwaighart-Rind vs 11-Mohrman-Sumbul
         420    2.00   2.00 12-Hendrickson-Davis vs 6-Cline-Anderson
 ----------------------------------------------------------------------
 
@@ -244,7 +244,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         600    0.00   4.00 5-Ring-Abernethy vs 1-Zaugg-Moore
         110    4.00   0.00 6-Cline-Anderson vs 4-Thai-May-Lanchew
         130    3.00   1.00 10-Cowles-Laughary vs 3-Tipton-Hesson
-        180    1.00   3.00 11-Mohrman- vs 9-Eng-Ford
+        180    1.00   3.00 11-Mohrman-Sumbul vs 9-Eng-Ford
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 20
@@ -255,7 +255,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   660          3.50   0.50 5-Ring-Abernethy vs 1-Zaugg-Moore
   660          3.50   0.50 6-Cline-Anderson vs 4-Thai-May-Lanchew
   630          1.50   2.50 10-Cowles-Laughary vs 3-Tipton-Hesson
-  630          1.50   2.50 11-Mohrman- vs 9-Eng-Ford
+  630          1.50   2.50 11-Mohrman-Sumbul vs 9-Eng-Ford
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 21
@@ -266,7 +266,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         100    1.50   2.50 5-Ring-Abernethy vs 1-Zaugg-Moore
   600          4.00   0.00 6-Cline-Anderson vs 4-Thai-May-Lanchew
         200    0.00   4.00 10-Cowles-Laughary vs 3-Tipton-Hesson
-        100    1.50   2.50 11-Mohrman- vs 9-Eng-Ford
+        100    1.50   2.50 11-Mohrman-Sumbul vs 9-Eng-Ford
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 22
@@ -276,7 +276,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         650    1.00   3.00 3-Tipton-Hesson vs 9-Eng-Ford
         650    1.00   3.00 6-Cline-Anderson vs 2-Christensen-Stevens
   300          4.00   0.00 10-Cowles-Laughary vs 4-Thai-May-Lanchew
-        650    1.00   3.00 11-Mohrman- vs 1-Zaugg-Moore
+        650    1.00   3.00 11-Mohrman-Sumbul vs 1-Zaugg-Moore
         620    3.00   1.00 12-Hendrickson-Davis vs 8-Schwaighart-Rind
 ----------------------------------------------------------------------
 
@@ -287,7 +287,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         100    0.00   4.00 3-Tipton-Hesson vs 9-Eng-Ford
   120          1.00   3.00 6-Cline-Anderson vs 2-Christensen-Stevens
   620          4.00   0.00 10-Cowles-Laughary vs 4-Thai-May-Lanchew
-  150          2.00   2.00 11-Mohrman- vs 1-Zaugg-Moore
+  150          2.00   2.00 11-Mohrman-Sumbul vs 1-Zaugg-Moore
   600          3.00   1.00 12-Hendrickson-Davis vs 8-Schwaighart-Rind
 ----------------------------------------------------------------------
 
@@ -298,7 +298,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         140    0.00   4.00 3-Tipton-Hesson vs 9-Eng-Ford
    50          1.00   3.00 6-Cline-Anderson vs 2-Christensen-Stevens
   140          3.50   0.50 10-Cowles-Laughary vs 4-Thai-May-Lanchew
-  100          2.00   2.00 11-Mohrman- vs 1-Zaugg-Moore
+  100          2.00   2.00 11-Mohrman-Sumbul vs 1-Zaugg-Moore
   140          3.50   0.50 12-Hendrickson-Davis vs 8-Schwaighart-Rind
 ----------------------------------------------------------------------
 
@@ -309,7 +309,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         300    0.00   4.00 4-Thai-May-Lanchew vs 1-Zaugg-Moore
         110    2.50   1.50 5-Ring-Abernethy vs 10-Cowles-Laughary
         110    2.50   1.50 8-Schwaighart-Rind vs 6-Cline-Anderson
-        140    1.00   3.00 11-Mohrman- vs 2-Christensen-Stevens
+        140    1.00   3.00 11-Mohrman-Sumbul vs 2-Christensen-Stevens
         100    4.00   0.00 12-Hendrickson-Davis vs 9-Eng-Ford
 ----------------------------------------------------------------------
 
@@ -320,7 +320,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         170    3.50   0.50 4-Thai-May-Lanchew vs 1-Zaugg-Moore
         200    1.00   3.00 5-Ring-Abernethy vs 10-Cowles-Laughary
         170    3.50   0.50 8-Schwaighart-Rind vs 6-Cline-Anderson
-        200    1.00   3.00 11-Mohrman- vs 2-Christensen-Stevens
+        200    1.00   3.00 11-Mohrman-Sumbul vs 2-Christensen-Stevens
         200    1.00   3.00 12-Hendrickson-Davis vs 9-Eng-Ford
 ----------------------------------------------------------------------
 
@@ -331,6 +331,6 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   150          4.00   0.00 4-Thai-May-Lanchew vs 1-Zaugg-Moore
   110          3.00   1.00 5-Ring-Abernethy vs 10-Cowles-Laughary
         100    0.50   3.50 8-Schwaighart-Rind vs 6-Cline-Anderson
-        100    0.50   3.50 11-Mohrman- vs 2-Christensen-Stevens
+        100    0.50   3.50 11-Mohrman-Sumbul vs 2-Christensen-Stevens
          50    2.00   2.00 12-Hendrickson-Davis vs 9-Eng-Ford
 ----------------------------------------------------------------------
