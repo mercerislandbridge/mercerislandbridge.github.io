@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 28, 2023  |CLUB NO.>158048    | 02/28/2023 22:28
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=12/C=3                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Changtiaorap Lanchew   Genie Thai-May           C    .     .     .     72.42  46.42          
+
+ 2 Arthur Gong            Kevin Cline              B    5     4     .     82.92  53.15  0.34(B) 
+
+ 3 Nick Tipton            Galen Hesson             B    .     .     .     72.58  46.53          
+
+ 4 Kim Eng                Jeffrey Ford             A    4     .     .     85.25  54.65  0.49(A) 
+
+ 5 Nathan Gong            Aaron Mohrman            B    6     5     .     80.00  51.28  0.23(A) 
+
+ 6 Ray Miller             Gregory Herman           A    .     .     .     75.75  48.56          
+
+ 7 Mike Ring              Brian Zaugg              B    .     .     .     76.00  48.72          
+
+ 8 Sue Anderson           Becky Stevens            B    2     2     .     87.50  56.09  0.98(A) 
+
+ 9 Oyvind Tafjord         Shawn Abernethy          B    .     .     .     63.10  40.45          
+
+10 Adam Ruprecht          Christopher Jarvis       B    .     .     .     68.58  43.96          
+
+11 Music Li               ZH Sun                   C    1     1     1     98.90  63.40  1.40(A) 
+
+12 Clay Laughary          Pete Cowles              C    .     .     .     67.75  43.43          
+
+13 Mike Christensen       David Wright             B    3     3     .     85.50  54.81  0.70(A) 
+
+14 Nelson Davis           Hugh Hendrickson         B    .     .     .     75.75  48.56          
+
+
+                                          Totals                        1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   6.00 1-Lanchew-Thai-May vs 3-Tipton-Hesson
+  150          4.00   2.00 2-Gong-Cline vs 6-Miller-Herman
+  400          6.00   0.00 4-Eng-Ford vs 9-Tafjord-Abernethy
+  170          5.00   1.00 5-Gong-Mohrman vs 12-Laughary-Cowles
+  110          2.00   4.00 7-Ring-Zaugg vs 8-Anderson-Stevens
+  110          2.00   4.00 13-Christensen-Wright vs 10-Ruprecht-Jarvis
+  110          2.00   4.00 14-Davis-Hendrickson vs 11-Li-Sun
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   1.50 1-Lanchew-Thai-May vs 3-Tipton-Hesson
+   50          4.50   1.50 2-Gong-Cline vs 6-Miller-Herman
+        200    1.00   5.00 4-Eng-Ford vs 9-Tafjord-Abernethy
+  130          6.00   0.00 5-Gong-Mohrman vs 12-Laughary-Cowles
+        420    0.00   6.00 7-Ring-Zaugg vs 8-Anderson-Stevens
+        170    2.50   3.50 13-Christensen-Wright vs 10-Ruprecht-Jarvis
+        170    2.50   3.50 14-Davis-Hendrickson vs 11-Li-Sun
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   3.50 1-Lanchew-Thai-May vs 11-Li-Sun
+        140    2.50   3.50 2-Gong-Cline vs 4-Eng-Ford
+        140    2.50   3.50 3-Tipton-Hesson vs 7-Ring-Zaugg
+        140    2.50   3.50 5-Gong-Mohrman vs 10-Ruprecht-Jarvis
+        140    2.50   3.50 6-Miller-Herman vs 13-Christensen-Wright
+        140    2.50   3.50 8-Anderson-Stevens vs 9-Tafjord-Abernethy
+  420          6.00   0.00 14-Davis-Hendrickson vs 12-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   5.00 1-Lanchew-Thai-May vs 11-Li-Sun
+        120    1.00   5.00 2-Gong-Cline vs 4-Eng-Ford
+  100          4.00   2.00 3-Tipton-Hesson vs 7-Ring-Zaugg
+  200          6.00   0.00 5-Gong-Mohrman vs 10-Ruprecht-Jarvis
+        120    1.00   5.00 6-Miller-Herman vs 13-Christensen-Wright
+  100          4.00   2.00 8-Anderson-Stevens vs 9-Tafjord-Abernethy
+  100          4.00   2.00 14-Davis-Hendrickson vs 12-Laughary-Cowles
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          5.00   1.00 2-Gong-Cline vs 12-Laughary-Cowles
+  120          5.00   1.00 3-Tipton-Hesson vs 5-Gong-Mohrman
+   90          1.00   5.00 4-Eng-Ford vs 8-Anderson-Stevens
+   90          1.00   5.00 6-Miller-Herman vs 11-Li-Sun
+   90          1.00   5.00 7-Ring-Zaugg vs 1-Lanchew-Thai-May
+  120          5.00   1.00 9-Tafjord-Abernethy vs 10-Ruprecht-Jarvis
+  110          3.00   3.00 14-Davis-Hendrickson vs 13-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  550          4.50   1.50 2-Gong-Cline vs 12-Laughary-Cowles
+  150          0.50   5.50 3-Tipton-Hesson vs 5-Gong-Mohrman
+  400          2.50   3.50 4-Eng-Ford vs 8-Anderson-Stevens
+  550          4.50   1.50 6-Miller-Herman vs 11-Li-Sun
+  800          6.00   0.00 7-Ring-Zaugg vs 1-Lanchew-Thai-May
+  400          2.50   3.50 9-Tafjord-Abernethy vs 10-Ruprecht-Jarvis
+  150          0.50   5.50 14-Davis-Hendrickson vs 13-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   0.50 3-Tipton-Hesson vs 13-Christensen-Wright
+        630    1.00   5.00 4-Eng-Ford vs 6-Miller-Herman
+        600    3.00   3.00 5-Gong-Mohrman vs 9-Tafjord-Abernethy
+        630    1.00   5.00 7-Ring-Zaugg vs 12-Laughary-Cowles
+  100          5.50   0.50 8-Anderson-Stevens vs 2-Gong-Cline
+        630    1.00   5.00 10-Ruprecht-Jarvis vs 11-Li-Sun
+         80    4.00   2.00 14-Davis-Hendrickson vs 1-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    3.00   3.00 3-Tipton-Hesson vs 13-Christensen-Wright
+        460    5.00   1.00 4-Eng-Ford vs 6-Miller-Herman
+        480    3.00   3.00 5-Gong-Mohrman vs 9-Tafjord-Abernethy
+        300    6.00   0.00 7-Ring-Zaugg vs 12-Laughary-Cowles
+        480    3.00   3.00 8-Anderson-Stevens vs 2-Gong-Cline
+        980    0.50   5.50 10-Ruprecht-Jarvis vs 11-Li-Sun
+        980    0.50   5.50 14-Davis-Hendrickson vs 1-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   0.50 4-Eng-Ford vs 1-Lanchew-Thai-May
+        300    1.50   4.50 5-Gong-Mohrman vs 7-Ring-Zaugg
+  100          5.50   0.50 6-Miller-Herman vs 10-Ruprecht-Jarvis
+        300    1.50   4.50 8-Anderson-Stevens vs 13-Christensen-Wright
+        300    1.50   4.50 9-Tafjord-Abernethy vs 3-Tipton-Hesson
+        100    4.00   2.00 11-Li-Sun vs 12-Laughary-Cowles
+        300    1.50   4.50 14-Davis-Hendrickson vs 2-Gong-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    6.00   0.00 4-Eng-Ford vs 1-Lanchew-Thai-May
+        180    0.00   6.00 5-Gong-Mohrman vs 7-Ring-Zaugg
+        150    2.00   4.00 6-Miller-Herman vs 10-Ruprecht-Jarvis
+        150    2.00   4.00 8-Anderson-Stevens vs 13-Christensen-Wright
+        140    4.00   2.00 9-Tafjord-Abernethy vs 3-Tipton-Hesson
+        150    2.00   4.00 11-Li-Sun vs 12-Laughary-Cowles
+        120    5.00   1.00 14-Davis-Hendrickson vs 2-Gong-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          5.00   1.00 5-Gong-Mohrman vs 2-Gong-Cline
+  150          3.00   3.00 6-Miller-Herman vs 8-Anderson-Stevens
+  100          0.00   6.00 7-Ring-Zaugg vs 11-Li-Sun
+  200          6.00   0.00 9-Tafjord-Abernethy vs 1-Lanchew-Thai-May
+  150          3.00   3.00 10-Ruprecht-Jarvis vs 4-Eng-Ford
+  150          3.00   3.00 12-Laughary-Cowles vs 13-Christensen-Wright
+  130          1.00   5.00 14-Davis-Hendrickson vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          5.00   1.00 5-Gong-Mohrman vs 2-Gong-Cline
+  680          2.50   3.50 6-Miller-Herman vs 8-Anderson-Stevens
+  680          2.50   3.50 7-Ring-Zaugg vs 11-Li-Sun
+        300    0.00   6.00 9-Tafjord-Abernethy vs 1-Lanchew-Thai-May
+  680          2.50   3.50 10-Ruprecht-Jarvis vs 4-Eng-Ford
+ 1430          6.00   0.00 12-Laughary-Cowles vs 13-Christensen-Wright
+  680          2.50   3.50 14-Davis-Hendrickson vs 3-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   5.00 6-Miller-Herman vs 3-Tipton-Hesson
+  210          6.00   0.00 7-Ring-Zaugg vs 9-Tafjord-Abernethy
+  100          3.00   3.00 8-Anderson-Stevens vs 12-Laughary-Cowles
+   90          2.00   4.00 10-Ruprecht-Jarvis vs 2-Gong-Cline
+  180          5.00   1.00 11-Li-Sun vs 5-Gong-Mohrman
+        110    0.00   6.00 13-Christensen-Wright vs 1-Lanchew-Thai-May
+  110          4.00   2.00 14-Davis-Hendrickson vs 4-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   3.00 6-Miller-Herman vs 3-Tipton-Hesson
+  450          4.50   1.50 7-Ring-Zaugg vs 9-Tafjord-Abernethy
+  450          4.50   1.50 8-Anderson-Stevens vs 12-Laughary-Cowles
+         50    2.00   4.00 10-Ruprecht-Jarvis vs 2-Gong-Cline
+        100    0.50   5.50 11-Li-Sun vs 5-Gong-Mohrman
+  800          6.00   0.00 13-Christensen-Wright vs 1-Lanchew-Thai-May
+        100    0.50   5.50 14-Davis-Hendrickson vs 4-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   4.00 1-Lanchew-Thai-May vs 2-Gong-Cline
+        110    0.50   5.50 7-Ring-Zaugg vs 4-Eng-Ford
+   50          4.50   1.50 8-Anderson-Stevens vs 10-Ruprecht-Jarvis
+        110    0.50   5.50 9-Tafjord-Abernethy vs 13-Christensen-Wright
+   50          4.50   1.50 11-Li-Sun vs 3-Tipton-Hesson
+   50          4.50   1.50 12-Laughary-Cowles vs 6-Miller-Herman
+   50          4.50   1.50 14-Davis-Hendrickson vs 5-Gong-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.50   3.50 1-Lanchew-Thai-May vs 2-Gong-Cline
+        650    2.50   3.50 7-Ring-Zaugg vs 4-Eng-Ford
+        650    2.50   3.50 8-Anderson-Stevens vs 10-Ruprecht-Jarvis
+        650    2.50   3.50 9-Tafjord-Abernethy vs 13-Christensen-Wright
+  100          6.00   0.00 11-Li-Sun vs 3-Tipton-Hesson
+        650    2.50   3.50 12-Laughary-Cowles vs 6-Miller-Herman
+        650    2.50   3.50 14-Davis-Hendrickson vs 5-Gong-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.50   0.50 2-Gong-Cline vs 3-Tipton-Hesson
+         90    3.00   3.00 8-Anderson-Stevens vs 5-Gong-Mohrman
+        100    2.00   4.00 9-Tafjord-Abernethy vs 11-Li-Sun
+        150    1.00   5.00 10-Ruprecht-Jarvis vs 1-Lanchew-Thai-May
+        180    0.00   6.00 12-Laughary-Cowles vs 4-Eng-Ford
+         50    4.00   2.00 13-Christensen-Wright vs 7-Ring-Zaugg
+  110          5.50   0.50 14-Davis-Hendrickson vs 6-Miller-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          5.92   0.08 2-Gong-Cline vs 3-Tipton-Hesson
+  150          3.00   3.00 8-Anderson-Stevens vs 5-Gong-Mohrman
+  AVE+  AVE-   3.60   2.40 9-Tafjord-Abernethy vs 11-Li-Sun
+        200    0.08   5.92 10-Ruprecht-Jarvis vs 1-Lanchew-Thai-May
+  300          4.75   1.25 12-Laughary-Cowles vs 4-Eng-Ford
+  150          3.00   3.00 13-Christensen-Wright vs 7-Ring-Zaugg
+        110    1.25   4.75 14-Davis-Hendrickson vs 6-Miller-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   4.00 1-Lanchew-Thai-May vs 8-Anderson-Stevens
+  120          3.50   2.50 3-Tipton-Hesson vs 4-Eng-Ford
+        180    0.00   6.00 9-Tafjord-Abernethy vs 6-Miller-Herman
+  140          5.50   0.50 10-Ruprecht-Jarvis vs 12-Laughary-Cowles
+  140          5.50   0.50 11-Li-Sun vs 2-Gong-Cline
+        100    1.00   5.00 13-Christensen-Wright vs 5-Gong-Mohrman
+  120          3.50   2.50 14-Davis-Hendrickson vs 7-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.50   4.50 1-Lanchew-Thai-May vs 8-Anderson-Stevens
+  100          6.00   0.00 3-Tipton-Hesson vs 4-Eng-Ford
+        130    4.00   2.00 9-Tafjord-Abernethy vs 6-Miller-Herman
+        150    1.50   4.50 10-Ruprecht-Jarvis vs 12-Laughary-Cowles
+        150    1.50   4.50 11-Li-Sun vs 2-Gong-Cline
+        110    5.00   1.00 13-Christensen-Wright vs 5-Gong-Mohrman
+        150    1.50   4.50 14-Davis-Hendrickson vs 7-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   4.00 1-Lanchew-Thai-May vs 6-Miller-Herman
+        140    2.00   4.00 2-Gong-Cline vs 9-Tafjord-Abernethy
+   50          5.50   0.50 4-Eng-Ford vs 5-Gong-Mohrman
+        150    0.00   6.00 10-Ruprecht-Jarvis vs 7-Ring-Zaugg
+        110    4.00   2.00 11-Li-Sun vs 13-Christensen-Wright
+   50          5.50   0.50 12-Laughary-Cowles vs 3-Tipton-Hesson
+        140    2.00   4.00 14-Davis-Hendrickson vs 8-Anderson-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   0.50 1-Lanchew-Thai-May vs 6-Miller-Herman
+  100          3.50   2.50 2-Gong-Cline vs 9-Tafjord-Abernethy
+         50    1.50   4.50 4-Eng-Ford vs 5-Gong-Mohrman
+  100          3.50   2.50 10-Ruprecht-Jarvis vs 7-Ring-Zaugg
+        300    0.00   6.00 11-Li-Sun vs 13-Christensen-Wright
+         50    1.50   4.50 12-Laughary-Cowles vs 3-Tipton-Hesson
+  200          5.50   0.50 14-Davis-Hendrickson vs 8-Anderson-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  720          6.00   0.00 2-Gong-Cline vs 7-Ring-Zaugg
+  170          0.00   6.00 3-Tipton-Hesson vs 10-Ruprecht-Jarvis
+  630          2.00   4.00 5-Gong-Mohrman vs 6-Miller-Herman
+  660          4.00   2.00 11-Li-Sun vs 8-Anderson-Stevens
+  630          2.00   4.00 12-Laughary-Cowles vs 1-Lanchew-Thai-May
+  630          2.00   4.00 13-Christensen-Wright vs 4-Eng-Ford
+  690          5.00   1.00 14-Davis-Hendrickson vs 9-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.50   4.50 2-Gong-Cline vs 7-Ring-Zaugg
+         50    0.00   6.00 3-Tipton-Hesson vs 10-Ruprecht-Jarvis
+  430          1.50   4.50 5-Gong-Mohrman vs 6-Miller-Herman
+  460          4.50   1.50 11-Li-Sun vs 8-Anderson-Stevens
+  460          4.50   1.50 12-Laughary-Cowles vs 1-Lanchew-Thai-May
+  460          4.50   1.50 13-Christensen-Wright vs 4-Eng-Ford
+  460          4.50   1.50 14-Davis-Hendrickson vs 9-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   3.00 1-Lanchew-Thai-May vs 5-Gong-Mohrman
+        620    0.50   5.50 3-Tipton-Hesson vs 8-Anderson-Stevens
+        140    3.00   3.00 4-Eng-Ford vs 11-Li-Sun
+        140    3.00   3.00 6-Miller-Herman vs 7-Ring-Zaugg
+        120    5.00   1.00 12-Laughary-Cowles vs 9-Tafjord-Abernethy
+        100    6.00   0.00 13-Christensen-Wright vs 2-Gong-Cline
+        620    0.50   5.50 14-Davis-Hendrickson vs 10-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    4.50   1.50 1-Lanchew-Thai-May vs 5-Gong-Mohrman
+        150    4.50   1.50 3-Tipton-Hesson vs 8-Anderson-Stevens
+        630    0.50   5.50 4-Eng-Ford vs 11-Li-Sun
+  200          6.00   0.00 6-Miller-Herman vs 7-Ring-Zaugg
+        170    2.50   3.50 12-Laughary-Cowles vs 9-Tafjord-Abernethy
+        630    0.50   5.50 13-Christensen-Wright vs 2-Gong-Cline
+        170    2.50   3.50 14-Davis-Hendrickson vs 10-Ruprecht-Jarvis
+----------------------------------------------------------------------
