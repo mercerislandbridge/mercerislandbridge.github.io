@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>March 28, 2023     |CLUB NO.>158048    | 03/28/2023 22:27
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=9/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Michele Herman         William Herman           C    .     .     .     56.00  35.90          
+
+ 2 Kim Eng                Jeffrey Ford             A    5     .     .     89.50  57.37  0.28(A) 
+
+ 3 Bryan Delfs            Sue Anderson             B    .     4     .     79.00  50.64  0.25(B) 
+
+ 4 Music Li               Yiyang Zhao              C    .     .     .     58.00  37.18          
+
+ 5 Ann Romeo              Andrea James             B    .     .     .     76.00  48.72          
+
+ 6 Mike Christensen       David Wright             A    2     .     .     95.50  61.22  0.98(A) 
+
+ 7 Ray Miller             Aaron Mohrman            A    4     .     .     93.50  59.94  0.49(A) 
+
+ 8                                                 A    .     .     .     64.50  41.35          
+
+ 9 Oyvind Tafjord         Shawn Abernethy          B    .     .     .     69.50  44.55          
+
+10 Brian Zaugg            Mike Ring                B    1     1     .    106.00  67.95  1.40(A) 
+
+11 Christopher Jarvis     Adam Ruprecht            B    3     2     .     94.50  60.58  0.70(A) 
+
+12 Nick Tipton            Galen Hesson             B    .     .     .     52.50  33.65          
+
+13                                                 A    .     .     .     74.00  47.44          
+
+14 Gregory Herman         Eric Sieg                B    6     3     .     83.50  53.53  0.36(B) 
+
+
+                                          Totals                        1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   6.00 1-Herman-Herman vs 3-Delfs-Anderson
+        480    2.00   4.00 2-Eng-Ford vs 6-Christensen-Wright
+        450    4.00   2.00 4-Li-Zhao vs 9-Tafjord-Abernethy
+        430    5.00   1.00 5-Romeo-James vs 12-Tipton-Hesson
+   50          6.00   0.00 7-Miller-Mohrman vs 8--
+        480    2.00   4.00 13-- vs 10-Zaugg-Ring
+        480    2.00   4.00 14-Herman-Sieg vs 11-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    4.00   2.00 1-Herman-Herman vs 3-Delfs-Anderson
+        130    5.00   1.00 2-Eng-Ford vs 6-Christensen-Wright
+        430    2.00   4.00 4-Li-Zhao vs 9-Tafjord-Abernethy
+   50          6.00   0.00 5-Romeo-James vs 12-Tipton-Hesson
+        460    0.00   6.00 7-Miller-Mohrman vs 8--
+        430    2.00   4.00 13-- vs 10-Zaugg-Ring
+        430    2.00   4.00 14-Herman-Sieg vs 11-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   4.00 1-Herman-Herman vs 11-Jarvis-Ruprecht
+  110          6.00   0.00 2-Eng-Ford vs 4-Li-Zhao
+        100    2.00   4.00 3-Delfs-Anderson vs 7-Miller-Mohrman
+        100    2.00   4.00 5-Romeo-James vs 10-Zaugg-Ring
+         50    4.50   1.50 6-Christensen-Wright vs 13--
+        150    0.00   6.00 8-- vs 9-Tafjord-Abernethy
+         50    4.50   1.50 14-Herman-Sieg vs 12-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          0.00   6.00 1-Herman-Herman vs 11-Jarvis-Ruprecht
+  630          2.00   4.00 2-Eng-Ford vs 4-Li-Zhao
+  660          5.00   1.00 3-Delfs-Anderson vs 7-Miller-Mohrman
+  630          2.00   4.00 5-Romeo-James vs 10-Zaugg-Ring
+  660          5.00   1.00 6-Christensen-Wright vs 13--
+  660          5.00   1.00 8-- vs 9-Tafjord-Abernethy
+  630          2.00   4.00 14-Herman-Sieg vs 12-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   4.00 2-Eng-Ford vs 12-Tipton-Hesson
+  150          2.00   4.00 3-Delfs-Anderson vs 5-Romeo-James
+  150          2.00   4.00 4-Li-Zhao vs 8--
+  180          4.00   2.00 6-Christensen-Wright vs 11-Jarvis-Ruprecht
+  600          6.00   0.00 7-Miller-Mohrman vs 1-Herman-Herman
+  110          0.00   6.00 9-Tafjord-Abernethy vs 10-Zaugg-Ring
+  300          5.00   1.00 14-Herman-Sieg vs 13--
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    5.50   0.50 2-Eng-Ford vs 12-Tipton-Hesson
+        650    2.00   4.00 3-Delfs-Anderson vs 5-Romeo-James
+        650    2.00   4.00 4-Li-Zhao vs 8--
+        650    2.00   4.00 6-Christensen-Wright vs 11-Jarvis-Ruprecht
+        200    5.50   0.50 7-Miller-Mohrman vs 1-Herman-Herman
+        650    2.00   4.00 9-Tafjord-Abernethy vs 10-Zaugg-Ring
+        650    2.00   4.00 14-Herman-Sieg vs 13--
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    5.00   1.00 3-Delfs-Anderson vs 13--
+        620    2.50   3.50 4-Li-Zhao vs 6-Christensen-Wright
+        620    2.50   3.50 5-Romeo-James vs 9-Tafjord-Abernethy
+        620    2.50   3.50 7-Miller-Mohrman vs 12-Tipton-Hesson
+        620    2.50   3.50 8-- vs 2-Eng-Ford
+  100          6.00   0.00 10-Zaugg-Ring vs 11-Jarvis-Ruprecht
+        930    0.00   6.00 14-Herman-Sieg vs 1-Herman-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   4.00 3-Delfs-Anderson vs 13--
+        420    1.00   5.00 4-Li-Zhao vs 6-Christensen-Wright
+  100          3.50   2.50 5-Romeo-James vs 9-Tafjord-Abernethy
+  100          3.50   2.50 7-Miller-Mohrman vs 12-Tipton-Hesson
+        590    0.00   6.00 8-- vs 2-Eng-Ford
+  150          5.00   1.00 10-Zaugg-Ring vs 11-Jarvis-Ruprecht
+  300          6.00   0.00 14-Herman-Sieg vs 1-Herman-Herman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   3.00 4-Li-Zhao vs 1-Herman-Herman
+        650    3.00   3.00 5-Romeo-James vs 7-Miller-Mohrman
+        660    0.50   5.50 6-Christensen-Wright vs 10-Zaugg-Ring
+        650    3.00   3.00 8-- vs 13--
+        620    5.00   1.00 9-Tafjord-Abernethy vs 3-Delfs-Anderson
+  450          6.00   0.00 11-Jarvis-Ruprecht vs 12-Tipton-Hesson
+        660    0.50   5.50 14-Herman-Sieg vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   3.00 4-Li-Zhao vs 1-Herman-Herman
+        180    1.00   5.00 5-Romeo-James vs 7-Miller-Mohrman
+        120    3.00   3.00 6-Christensen-Wright vs 10-Zaugg-Ring
+        200    0.00   6.00 8-- vs 13--
+        120    3.00   3.00 9-Tafjord-Abernethy vs 3-Delfs-Anderson
+         90    6.00   0.00 11-Jarvis-Ruprecht vs 12-Tipton-Hesson
+        100    5.00   1.00 14-Herman-Sieg vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   6.00 5-Romeo-James vs 2-Eng-Ford
+         50    2.00   4.00 6-Christensen-Wright vs 8--
+         50    2.00   4.00 7-Miller-Mohrman vs 11-Jarvis-Ruprecht
+   90          4.00   2.00 9-Tafjord-Abernethy vs 1-Herman-Herman
+  100          5.50   0.50 10-Zaugg-Ring vs 4-Li-Zhao
+  100          5.50   0.50 12-Tipton-Hesson vs 13--
+         50    2.00   4.00 14-Herman-Sieg vs 3-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   3.00 5-Romeo-James vs 2-Eng-Ford
+ 2200          6.00   0.00 6-Christensen-Wright vs 8--
+  650          3.00   3.00 7-Miller-Mohrman vs 11-Jarvis-Ruprecht
+  620          1.00   5.00 9-Tafjord-Abernethy vs 1-Herman-Herman
+  650          3.00   3.00 10-Zaugg-Ring vs 4-Li-Zhao
+  140          0.00   6.00 12-Tipton-Hesson vs 13--
+ 1430          5.00   1.00 14-Herman-Sieg vs 3-Delfs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   5.50 6-Christensen-Wright vs 3-Delfs-Anderson
+  620          4.00   2.00 7-Miller-Mohrman vs 9-Tafjord-Abernethy
+  620          4.00   2.00 8-- vs 12-Tipton-Hesson
+  620          4.00   2.00 10-Zaugg-Ring vs 2-Eng-Ford
+        200    0.50   5.50 11-Jarvis-Ruprecht vs 5-Romeo-James
+  620          4.00   2.00 13-- vs 1-Herman-Herman
+  620          4.00   2.00 14-Herman-Sieg vs 4-Li-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.00   1.00 6-Christensen-Wright vs 3-Delfs-Anderson
+  420          5.00   1.00 7-Miller-Mohrman vs 9-Tafjord-Abernethy
+         50    0.00   6.00 8-- vs 12-Tipton-Hesson
+  420          5.00   1.00 10-Zaugg-Ring vs 2-Eng-Ford
+  170          3.00   3.00 11-Jarvis-Ruprecht vs 5-Romeo-James
+   50          1.00   5.00 13-- vs 1-Herman-Herman
+  100          2.00   4.00 14-Herman-Sieg vs 4-Li-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   5.50 1-Herman-Herman vs 2-Eng-Ford
+   50          4.50   1.50 7-Miller-Mohrman vs 4-Li-Zhao
+        110    2.50   3.50 8-- vs 10-Zaugg-Ring
+        110    2.50   3.50 9-Tafjord-Abernethy vs 13--
+  100          6.00   0.00 11-Jarvis-Ruprecht vs 3-Delfs-Anderson
+        140    0.50   5.50 12-Tipton-Hesson vs 6-Christensen-Wright
+   50          4.50   1.50 14-Herman-Sieg vs 5-Romeo-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   1.00 1-Herman-Herman vs 2-Eng-Ford
+  140          5.00   1.00 7-Miller-Mohrman vs 4-Li-Zhao
+        150    0.00   6.00 8-- vs 10-Zaugg-Ring
+         50    1.00   5.00 9-Tafjord-Abernethy vs 13--
+  100          2.50   3.50 11-Jarvis-Ruprecht vs 3-Delfs-Anderson
+  100          2.50   3.50 12-Tipton-Hesson vs 6-Christensen-Wright
+  140          5.00   1.00 14-Herman-Sieg vs 5-Romeo-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    4.00   2.00 2-Eng-Ford vs 3-Delfs-Anderson
+        980    2.00   4.00 8-- vs 5-Romeo-James
+  990          6.00   0.00 9-Tafjord-Abernethy vs 11-Jarvis-Ruprecht
+        980    2.00   4.00 10-Zaugg-Ring vs 1-Herman-Herman
+  100          5.00   1.00 12-Tipton-Hesson vs 4-Li-Zhao
+        980    2.00   4.00 13-- vs 7-Miller-Mohrman
+       1020    0.00   6.00 14-Herman-Sieg vs 6-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.50   3.50 2-Eng-Ford vs 3-Delfs-Anderson
+        420    2.50   3.50 8-- vs 5-Romeo-James
+  200          6.00   0.00 9-Tafjord-Abernethy vs 11-Jarvis-Ruprecht
+        170    5.00   1.00 10-Zaugg-Ring vs 1-Herman-Herman
+        500    0.00   6.00 12-Tipton-Hesson vs 4-Li-Zhao
+        420    2.50   3.50 13-- vs 7-Miller-Mohrman
+        420    2.50   3.50 14-Herman-Sieg vs 6-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   6.00 1-Herman-Herman vs 8--
+   90          2.00   4.00 3-Delfs-Anderson vs 4-Li-Zhao
+  120          5.00   1.00 9-Tafjord-Abernethy vs 6-Christensen-Wright
+  140          6.00   0.00 10-Zaugg-Ring vs 12-Tipton-Hesson
+   90          2.00   4.00 11-Jarvis-Ruprecht vs 2-Eng-Ford
+  110          4.00   2.00 13-- vs 5-Romeo-James
+   90          2.00   4.00 14-Herman-Sieg vs 7-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.00   6.00 1-Herman-Herman vs 8--
+  170          4.50   1.50 3-Delfs-Anderson vs 4-Li-Zhao
+  110          2.00   4.00 9-Tafjord-Abernethy vs 6-Christensen-Wright
+  140          3.00   3.00 10-Zaugg-Ring vs 12-Tipton-Hesson
+  170          4.50   1.50 11-Jarvis-Ruprecht vs 2-Eng-Ford
+  650          6.00   0.00 13-- vs 5-Romeo-James
+        100    1.00   5.00 14-Herman-Sieg vs 7-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   5.00 1-Herman-Herman vs 6-Christensen-Wright
+        100    5.00   1.00 2-Eng-Ford vs 9-Tafjord-Abernethy
+        100    5.00   1.00 4-Li-Zhao vs 5-Romeo-James
+        140    2.50   3.50 10-Zaugg-Ring vs 7-Miller-Mohrman
+        100    5.00   1.00 11-Jarvis-Ruprecht vs 13--
+        500    0.00   6.00 12-Tipton-Hesson vs 3-Delfs-Anderson
+        140    2.50   3.50 14-Herman-Sieg vs 8--
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   3.50 1-Herman-Herman vs 6-Christensen-Wright
+  200          5.00   1.00 2-Eng-Ford vs 9-Tafjord-Abernethy
+        110    0.50   5.50 4-Li-Zhao vs 5-Romeo-James
+  100          4.00   2.00 10-Zaugg-Ring vs 7-Miller-Mohrman
+  420          6.00   0.00 11-Jarvis-Ruprecht vs 13--
+        110    0.50   5.50 12-Tipton-Hesson vs 3-Delfs-Anderson
+        100    2.50   3.50 14-Herman-Sieg vs 8--
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   4.50 2-Eng-Ford vs 7-Miller-Mohrman
+        200    0.00   6.00 3-Delfs-Anderson vs 10-Zaugg-Ring
+        100    1.50   4.50 5-Romeo-James vs 6-Christensen-Wright
+  150          4.00   2.00 11-Jarvis-Ruprecht vs 8--
+  130          3.00   3.00 12-Tipton-Hesson vs 1-Herman-Herman
+  950          6.00   0.00 13-- vs 4-Li-Zhao
+  600          5.00   1.00 14-Herman-Sieg vs 9-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   4.00 2-Eng-Ford vs 7-Miller-Mohrman
+  420          2.00   4.00 3-Delfs-Anderson vs 10-Zaugg-Ring
+  420          2.00   4.00 5-Romeo-James vs 6-Christensen-Wright
+  450          5.50   0.50 11-Jarvis-Ruprecht vs 8--
+  420          2.00   4.00 12-Tipton-Hesson vs 1-Herman-Herman
+  420          2.00   4.00 13-- vs 4-Li-Zhao
+  450          5.50   0.50 14-Herman-Sieg vs 9-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   4.00 1-Herman-Herman vs 5-Romeo-James
+  200          6.00   0.00 3-Delfs-Anderson vs 8--
+       1100    0.00   6.00 4-Li-Zhao vs 11-Jarvis-Ruprecht
+         50    4.00   2.00 6-Christensen-Wright vs 7-Miller-Mohrman
+        100    3.00   3.00 12-Tipton-Hesson vs 9-Tafjord-Abernethy
+        200    1.00   5.00 13-- vs 2-Eng-Ford
+  100          5.00   1.00 14-Herman-Sieg vs 10-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.50   5.50 1-Herman-Herman vs 5-Romeo-James
+        650    2.50   3.50 3-Delfs-Anderson vs 8--
+        680    0.50   5.50 4-Li-Zhao vs 11-Jarvis-Ruprecht
+        500    5.00   1.00 6-Christensen-Wright vs 7-Miller-Mohrman
+        650    2.50   3.50 12-Tipton-Hesson vs 9-Tafjord-Abernethy
+        620    4.00   2.00 13-- vs 2-Eng-Ford
+        200    6.00   0.00 14-Herman-Sieg vs 10-Zaugg-Ring
+----------------------------------------------------------------------
