@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>April 4, 2023      |CLUB NO.>158048    | 04/04/2023 22:21
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=3/C=0                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             A    .     .     .     46.00  42.59          
+
+ 2 David Taylor           Sue Anderson             A    .     .     .     49.00  45.37          
+
+ 3 Oyvind Tafjord         Andrea James             B    .     1     .     54.50  50.46  0.88(B) 
+
+ 4 Bryan Delfs            Stanford Christie        A    1     .     .     65.00  60.19  1.50(A) 
+
+ 5 Arvind Ranasaria       Valliappa Lakshmanan     B    .     .     .     50.50  46.76          
+
+ 6 Ray Miller             Jeffrey Ford             A    4     .     .     55.00  50.93  0.63(A) 
+
+ 7 Kim Eng                Eric Sieg                A    3     .     .     57.00  52.78  0.84(A) 
+
+ 8 Shawn Abernethy        Brian Zaugg              A    .     .     .     52.50  48.61          
+
+ 9 Mike Ring              Mike Christensen         A    2     .     .     63.00  58.33  1.13(A) 
+
+10 Nelson Davis           Hugh Hendrickson         B    .     .     .     47.50  43.98          
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   1.50 1-Tipton-Hesson vs 4-Delfs-Christie
+        170    0.50   3.50 2-Taylor-Anderson vs 9-Ring-Christensen
+        140    2.50   1.50 3-Tafjord-James vs 7-Eng-Sieg
+        170    0.50   3.50 5-Ranasaria-Lakshmanan vs 6-Miller-Ford
+        100    4.00   0.00 10-Davis-Hendrickson vs 8-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   4.00 1-Tipton-Hesson vs 4-Delfs-Christie
+        420    1.50   2.50 2-Taylor-Anderson vs 9-Ring-Christensen
+        140    3.50   0.50 3-Tafjord-James vs 7-Eng-Sieg
+        140    3.50   0.50 5-Ranasaria-Lakshmanan vs 6-Miller-Ford
+        420    1.50   2.50 10-Davis-Hendrickson vs 8-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    2.00   2.00 1-Tipton-Hesson vs 4-Delfs-Christie
+        680    2.00   2.00 2-Taylor-Anderson vs 9-Ring-Christensen
+        680    2.00   2.00 3-Tafjord-James vs 7-Eng-Sieg
+        680    2.00   2.00 5-Ranasaria-Lakshmanan vs 6-Miller-Ford
+        680    2.00   2.00 10-Davis-Hendrickson vs 8-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.50   2.50 2-Taylor-Anderson vs 5-Ranasaria-Lakshmanan
+  200          1.50   2.50 3-Tafjord-James vs 1-Tipton-Hesson
+  300          3.50   0.50 4-Delfs-Christie vs 8-Abernethy-Zaugg
+        180    0.00   4.00 6-Miller-Ford vs 7-Eng-Sieg
+  300          3.50   0.50 10-Davis-Hendrickson vs 9-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   2.00 2-Taylor-Anderson vs 5-Ranasaria-Lakshmanan
+        100    2.00   2.00 3-Tafjord-James vs 1-Tipton-Hesson
+  630          4.00   0.00 4-Delfs-Christie vs 8-Abernethy-Zaugg
+        100    2.00   2.00 6-Miller-Ford vs 7-Eng-Sieg
+        200    0.00   4.00 10-Davis-Hendrickson vs 9-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.50   2.50 2-Taylor-Anderson vs 5-Ranasaria-Lakshmanan
+        600    1.50   2.50 3-Tafjord-James vs 1-Tipton-Hesson
+        150    3.00   1.00 4-Delfs-Christie vs 8-Abernethy-Zaugg
+  100          4.00   0.00 6-Miller-Ford vs 7-Eng-Sieg
+        630    0.00   4.00 10-Davis-Hendrickson vs 9-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.00   2.00 3-Tafjord-James vs 6-Miller-Ford
+  620          2.00   2.00 4-Delfs-Christie vs 2-Taylor-Anderson
+  620          2.00   2.00 5-Ranasaria-Lakshmanan vs 9-Ring-Christensen
+  620          2.00   2.00 7-Eng-Sieg vs 8-Abernethy-Zaugg
+  620          2.00   2.00 10-Davis-Hendrickson vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   2.50 3-Tafjord-James vs 6-Miller-Ford
+         50    1.50   2.50 4-Delfs-Christie vs 2-Taylor-Anderson
+         50    1.50   2.50 5-Ranasaria-Lakshmanan vs 9-Ring-Christensen
+         50    1.50   2.50 7-Eng-Sieg vs 8-Abernethy-Zaugg
+  110          4.00   0.00 10-Davis-Hendrickson vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.50   3.50 3-Tafjord-James vs 6-Miller-Ford
+        630    2.00   2.00 4-Delfs-Christie vs 2-Taylor-Anderson
+        660    0.50   3.50 5-Ranasaria-Lakshmanan vs 9-Ring-Christensen
+        210    3.50   0.50 7-Eng-Sieg vs 8-Abernethy-Zaugg
+        210    3.50   0.50 10-Davis-Hendrickson vs 1-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          3.00   1.00 4-Delfs-Christie vs 7-Eng-Sieg
+  650          4.00   0.00 5-Ranasaria-Lakshmanan vs 3-Tafjord-James
+        100    1.00   3.00 6-Miller-Ford vs 1-Tipton-Hesson
+        100    1.00   3.00 8-Abernethy-Zaugg vs 9-Ring-Christensen
+        100    1.00   3.00 10-Davis-Hendrickson vs 2-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.50   0.50 4-Delfs-Christie vs 7-Eng-Sieg
+         50    0.00   4.00 5-Ranasaria-Lakshmanan vs 3-Tafjord-James
+  180          2.00   2.00 6-Miller-Ford vs 1-Tipton-Hesson
+  400          3.50   0.50 8-Abernethy-Zaugg vs 9-Ring-Christensen
+  120          1.00   3.00 10-Davis-Hendrickson vs 2-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   2.00 4-Delfs-Christie vs 7-Eng-Sieg
+  630          4.00   0.00 5-Ranasaria-Lakshmanan vs 3-Tafjord-James
+  600          2.00   2.00 6-Miller-Ford vs 1-Tipton-Hesson
+        100    0.00   4.00 8-Abernethy-Zaugg vs 9-Ring-Christensen
+  600          2.00   2.00 10-Davis-Hendrickson vs 2-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          1.50   2.50 5-Ranasaria-Lakshmanan vs 8-Abernethy-Zaugg
+  690          3.50   0.50 6-Miller-Ford vs 4-Delfs-Christie
+        100    0.00   4.00 7-Eng-Sieg vs 2-Taylor-Anderson
+  690          3.50   0.50 9-Ring-Christensen vs 1-Tipton-Hesson
+  630          1.50   2.50 10-Davis-Hendrickson vs 3-Tafjord-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   4.00 5-Ranasaria-Lakshmanan vs 8-Abernethy-Zaugg
+         50    1.50   2.50 6-Miller-Ford vs 4-Delfs-Christie
+  150          3.00   1.00 7-Eng-Sieg vs 2-Taylor-Anderson
+  430          4.00   0.00 9-Ring-Christensen vs 1-Tipton-Hesson
+         50    1.50   2.50 10-Davis-Hendrickson vs 3-Tafjord-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.50   2.50 5-Ranasaria-Lakshmanan vs 8-Abernethy-Zaugg
+        150    3.00   1.00 6-Miller-Ford vs 4-Delfs-Christie
+        140    4.00   0.00 7-Eng-Sieg vs 2-Taylor-Anderson
+        170    1.50   2.50 9-Ring-Christensen vs 1-Tipton-Hesson
+        500    0.00   4.00 10-Davis-Hendrickson vs 3-Tafjord-James
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   0.00 1-Tipton-Hesson vs 2-Taylor-Anderson
+   80          1.00   3.00 6-Miller-Ford vs 9-Ring-Christensen
+  170          3.00   1.00 7-Eng-Sieg vs 5-Ranasaria-Lakshmanan
+         90    0.00   4.00 8-Abernethy-Zaugg vs 3-Tafjord-James
+  100          2.00   2.00 10-Davis-Hendrickson vs 4-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 1-Tipton-Hesson vs 2-Taylor-Anderson
+         50    1.00   3.00 6-Miller-Ford vs 9-Ring-Christensen
+         50    1.00   3.00 7-Eng-Sieg vs 5-Ranasaria-Lakshmanan
+  420          3.50   0.50 8-Abernethy-Zaugg vs 3-Tafjord-James
+  420          3.50   0.50 10-Davis-Hendrickson vs 4-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   0.50 1-Tipton-Hesson vs 2-Taylor-Anderson
+  100          3.50   0.50 6-Miller-Ford vs 9-Ring-Christensen
+        130    2.00   2.00 7-Eng-Sieg vs 5-Ranasaria-Lakshmanan
+        420    0.50   3.50 8-Abernethy-Zaugg vs 3-Tafjord-James
+        420    0.50   3.50 10-Davis-Hendrickson vs 4-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   3.50 2-Taylor-Anderson vs 3-Tafjord-James
+  400          3.00   1.00 7-Eng-Sieg vs 1-Tipton-Hesson
+  400          3.00   1.00 8-Abernethy-Zaugg vs 6-Miller-Ford
+  400          3.00   1.00 9-Ring-Christensen vs 4-Delfs-Christie
+         50    0.50   3.50 10-Davis-Hendrickson vs 5-Ranasaria-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   1.00 2-Taylor-Anderson vs 3-Tafjord-James
+        170    3.00   1.00 7-Eng-Sieg vs 1-Tipton-Hesson
+        170    3.00   1.00 8-Abernethy-Zaugg vs 6-Miller-Ford
+        620    0.50   3.50 9-Ring-Christensen vs 4-Delfs-Christie
+        620    0.50   3.50 10-Davis-Hendrickson vs 5-Ranasaria-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.50   2.50 2-Taylor-Anderson vs 3-Tafjord-James
+ 1440          4.00   0.00 7-Eng-Sieg vs 1-Tipton-Hesson
+  650          1.50   2.50 8-Abernethy-Zaugg vs 6-Miller-Ford
+        100    0.00   4.00 9-Ring-Christensen vs 4-Delfs-Christie
+  690          3.00   1.00 10-Davis-Hendrickson vs 5-Ranasaria-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   1.00 1-Tipton-Hesson vs 5-Ranasaria-Lakshmanan
+        130    0.50   3.50 3-Tafjord-James vs 4-Delfs-Christie
+         50    3.00   1.00 8-Abernethy-Zaugg vs 2-Taylor-Anderson
+         50    3.00   1.00 9-Ring-Christensen vs 7-Eng-Sieg
+        130    0.50   3.50 10-Davis-Hendrickson vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   2.50 1-Tipton-Hesson vs 5-Ranasaria-Lakshmanan
+        100    1.50   2.50 3-Tafjord-James vs 4-Delfs-Christie
+  600          4.00   0.00 8-Abernethy-Zaugg vs 2-Taylor-Anderson
+        100    1.50   2.50 9-Ring-Christensen vs 7-Eng-Sieg
+        100    1.50   2.50 10-Davis-Hendrickson vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   0.00 1-Tipton-Hesson vs 5-Ranasaria-Lakshmanan
+        120    2.50   1.50 3-Tafjord-James vs 4-Delfs-Christie
+        150    0.50   3.50 8-Abernethy-Zaugg vs 2-Taylor-Anderson
+        150    0.50   3.50 9-Ring-Christensen vs 7-Eng-Sieg
+        120    2.50   1.50 10-Davis-Hendrickson vs 6-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.50   3.50 1-Tipton-Hesson vs 8-Abernethy-Zaugg
+        110    2.00   2.00 2-Taylor-Anderson vs 6-Miller-Ford
+        120    0.50   3.50 4-Delfs-Christie vs 5-Ranasaria-Lakshmanan
+   90          3.00   1.00 9-Ring-Christensen vs 3-Tafjord-James
+  100          4.00   0.00 10-Davis-Hendrickson vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.50   3.50 1-Tipton-Hesson vs 8-Abernethy-Zaugg
+        100    2.00   2.00 2-Taylor-Anderson vs 6-Miller-Ford
+  100          3.00   1.00 4-Delfs-Christie vs 5-Ranasaria-Lakshmanan
+  620          4.00   0.00 9-Ring-Christensen vs 3-Tafjord-James
+        130    0.50   3.50 10-Davis-Hendrickson vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.00   2.00 1-Tipton-Hesson vs 8-Abernethy-Zaugg
+  420          3.50   0.50 2-Taylor-Anderson vs 6-Miller-Ford
+  420          3.50   0.50 4-Delfs-Christie vs 5-Ranasaria-Lakshmanan
+        140    0.00   4.00 9-Ring-Christensen vs 3-Tafjord-James
+         50    1.00   3.00 10-Davis-Hendrickson vs 7-Eng-Sieg
+----------------------------------------------------------------------
