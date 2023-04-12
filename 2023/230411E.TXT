@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>April 11, 2023     |CLUB NO.>158048    | 04/11/2023 22:30
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=9/C=6                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Stanford Christie        A    2     .     .     87.75  56.25  1.05(A) 
+
+ 2 David Binney           Sue Anderson             A    .     .     .     76.50  49.04          
+
+ 3 Aaron Mohrman          Donald Kossmann          C    .     .     .     73.13  46.88          
+
+ 4 Nelson Davis           Hugh Hendrickson         B    .     .     .     70.42  45.14          
+
+ 5 Susan Waggoner         Brad Rind                C   3/4    2     2     83.96  53.82  0.64(A) 
+
+ 6 Nick Tipton            Galen Hesson             B    .     3     .     77.46  49.65  0.36(B) 
+
+ 7 Bryan Delfs            Jeffrey Ford             A    6     .     .     80.71  51.74  0.25(A) 
+
+ 8 Mike Christensen       Mike Ring                A    .     .     .     79.08  50.69          
+
+ 9 Changtiaorap Lanchew   Genie Thai-May           C    .     .     .     73.50  47.12          
+
+10 Music Li               Zhenghong Sun            C    .     4     .     73.67  47.22  0.25(B) 
+
+11 Kim Eng                Eric Sieg                A    5     .     .     82.33  52.78  0.30(A) 
+
+
+
+13 Christopher Jarvis     Valliappa Lakshmanan     C    1     1     1     91.00  58.33  1.50(A) 
+
+14 Ray Miller             Ann Romeo                A   3/4    .     .     83.96  53.82  0.64(A) 
+
+15 David Wright           Shawn Abernethy          B    .     .     .     68.79  44.10          
+
+16 Dion Sorenson          Matt Gaffney             C    .     .     .     68.25  43.75          
+
+
+                                          Totals                        1170.51       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   3.50 4-Davis-Hendrickson vs 14-Miller-Romeo
+        110    2.50   3.50 6-Tipton-Hesson vs 5-Waggoner-Rind
+        170    0.00   6.00 9-Lanchew-Thai-May vs 11-Eng-Sieg
+        110    2.50   3.50 10-Li-Sun vs 2-Binney-Anderson
+        110    2.50   3.50 13-Jarvis-Lakshmanan vs 7-Delfs-Ford
+         50    6.00   0.00 15-Wright-Abernethy vs 3-Mohrman-Kossmann
+        100    5.00   1.00 16-Sorenson-Gaffney vs 1-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.50   0.50 4-Davis-Hendrickson vs 14-Miller-Romeo
+  170          3.00   3.00 6-Tipton-Hesson vs 5-Waggoner-Rind
+  120          0.00   6.00 9-Lanchew-Thai-May vs 11-Eng-Sieg
+  170          3.00   3.00 10-Li-Sun vs 2-Binney-Anderson
+  620          5.50   0.50 13-Jarvis-Lakshmanan vs 7-Delfs-Ford
+  170          3.00   3.00 15-Wright-Abernethy vs 3-Mohrman-Kossmann
+  140          1.00   5.00 16-Sorenson-Gaffney vs 1-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   2.50 1-Zaugg-Christie vs 8-Christensen-Ring
+  140          3.50   2.50 4-Davis-Hendrickson vs 15-Wright-Abernethy
+         50    0.00   6.00 5-Waggoner-Rind vs 14-Miller-Romeo
+  140          3.50   2.50 7-Delfs-Ford vs 6-Tipton-Hesson
+  420          6.00   0.00 9-Lanchew-Thai-May vs 13-Jarvis-Lakshmanan
+  140          3.50   2.50 11-Eng-Sieg vs 3-Mohrman-Kossmann
+  110          1.00   5.00 16-Sorenson-Gaffney vs 2-Binney-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   4.50 1-Zaugg-Christie vs 8-Christensen-Ring
+  100          1.50   4.50 4-Davis-Hendrickson vs 15-Wright-Abernethy
+  200          4.00   2.00 5-Waggoner-Rind vs 14-Miller-Romeo
+        600    0.00   6.00 7-Delfs-Ford vs 6-Tipton-Hesson
+  200          4.00   2.00 9-Lanchew-Thai-May vs 13-Jarvis-Lakshmanan
+  200          4.00   2.00 11-Eng-Sieg vs 3-Mohrman-Kossmann
+  300          6.00   0.00 16-Sorenson-Gaffney vs 2-Binney-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.00   3.00 2-Binney-Anderson vs 9-Lanchew-Thai-May
+        420    3.00   3.00 5-Waggoner-Rind vs 15-Wright-Abernethy
+        420    3.00   3.00 6-Tipton-Hesson vs 14-Miller-Romeo
+        420    3.00   3.00 8-Christensen-Ring vs 7-Delfs-Ford
+        420    3.00   3.00 10-Li-Sun vs 1-Zaugg-Christie
+        420    3.00   3.00 11-Eng-Sieg vs 13-Jarvis-Lakshmanan
+        420    3.00   3.00 16-Sorenson-Gaffney vs 3-Mohrman-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   3.00 2-Binney-Anderson vs 9-Lanchew-Thai-May
+        150    1.00   5.00 5-Waggoner-Rind vs 15-Wright-Abernethy
+         50    5.00   1.00 6-Tipton-Hesson vs 14-Miller-Romeo
+        100    3.00   3.00 8-Christensen-Ring vs 7-Delfs-Ford
+        710    0.00   6.00 10-Li-Sun vs 1-Zaugg-Christie
+  100          6.00   0.00 11-Eng-Sieg vs 13-Jarvis-Lakshmanan
+        100    3.00   3.00 16-Sorenson-Gaffney vs 3-Mohrman-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.50   2.50 3-Mohrman-Kossmann vs 10-Li-Sun
+  150          5.00   1.00 6-Tipton-Hesson vs 15-Wright-Abernethy
+        100    1.50   4.50 9-Lanchew-Thai-May vs 8-Christensen-Ring
+        170    0.00   6.00 11-Eng-Sieg vs 2-Binney-Anderson
+  130          3.50   2.50 13-Jarvis-Lakshmanan vs 5-Waggoner-Rind
+  600          6.00   0.00 14-Miller-Romeo vs 7-Delfs-Ford
+        100    1.50   4.50 16-Sorenson-Gaffney vs 4-Davis-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   5.50 3-Mohrman-Kossmann vs 10-Li-Sun
+  420          4.50   1.50 6-Tipton-Hesson vs 15-Wright-Abernethy
+  130          2.00   4.00 9-Lanchew-Thai-May vs 8-Christensen-Ring
+         50    0.50   5.50 11-Eng-Sieg vs 2-Binney-Anderson
+  420          4.50   1.50 13-Jarvis-Lakshmanan vs 5-Waggoner-Rind
+  420          4.50   1.50 14-Miller-Romeo vs 7-Delfs-Ford
+  420          4.50   1.50 16-Sorenson-Gaffney vs 4-Davis-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    4.50   1.50 1-Zaugg-Christie vs 6-Tipton-Hesson
+        120    4.50   1.50 4-Davis-Hendrickson vs 11-Eng-Sieg
+        150    2.00   4.00 7-Delfs-Ford vs 15-Wright-Abernethy
+        130    3.00   3.00 10-Li-Sun vs 9-Lanchew-Thai-May
+        180    1.00   5.00 13-Jarvis-Lakshmanan vs 2-Binney-Anderson
+  100          6.00   0.00 14-Miller-Romeo vs 8-Christensen-Ring
+        500    0.00   6.00 16-Sorenson-Gaffney vs 5-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.50   0.50 1-Zaugg-Christie vs 6-Tipton-Hesson
+        200    0.50   5.50 4-Davis-Hendrickson vs 11-Eng-Sieg
+  650          5.50   0.50 7-Delfs-Ford vs 15-Wright-Abernethy
+        200    0.50   5.50 10-Li-Sun vs 9-Lanchew-Thai-May
+  620          3.50   2.50 13-Jarvis-Lakshmanan vs 2-Binney-Anderson
+  620          3.50   2.50 14-Miller-Romeo vs 8-Christensen-Ring
+  110          2.00   4.00 16-Sorenson-Gaffney vs 5-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.50   2.50 1-Zaugg-Christie vs 3-Mohrman-Kossmann
+        460    1.00   5.00 2-Binney-Anderson vs 7-Delfs-Ford
+        430    3.50   2.50 8-Christensen-Ring vs 15-Wright-Abernethy
+        460    1.00   5.00 11-Eng-Sieg vs 10-Li-Sun
+        460    1.00   5.00 13-Jarvis-Lakshmanan vs 4-Davis-Hendrickson
+        400    5.50   0.50 14-Miller-Romeo vs 9-Lanchew-Thai-May
+        400    5.50   0.50 16-Sorenson-Gaffney vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   5.00 1-Zaugg-Christie vs 3-Mohrman-Kossmann
+        130    0.00   6.00 2-Binney-Anderson vs 7-Delfs-Ford
+         90    3.50   2.50 8-Christensen-Ring vs 15-Wright-Abernethy
+         90    3.50   2.50 11-Eng-Sieg vs 10-Li-Sun
+   50          5.50   0.50 13-Jarvis-Lakshmanan vs 4-Davis-Hendrickson
+        100    2.00   4.00 14-Miller-Romeo vs 9-Lanchew-Thai-May
+   50          5.50   0.50 16-Sorenson-Gaffney vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   4.00 1-Zaugg-Christie vs 5-Waggoner-Rind
+        100    3.00   3.00 2-Binney-Anderson vs 4-Davis-Hendrickson
+        790    0.50   5.50 3-Mohrman-Kossmann vs 8-Christensen-Ring
+  130          4.50   1.50 6-Tipton-Hesson vs 13-Jarvis-Lakshmanan
+  790          6.00   0.00 9-Lanchew-Thai-May vs 15-Wright-Abernethy
+  130          4.50   1.50 14-Miller-Romeo vs 10-Li-Sun
+        790    0.50   5.50 16-Sorenson-Gaffney vs 7-Delfs-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   2.00 1-Zaugg-Christie vs 5-Waggoner-Rind
+  170          6.00   0.00 2-Binney-Anderson vs 4-Davis-Hendrickson
+  140          4.00   2.00 3-Mohrman-Kossmann vs 8-Christensen-Ring
+         50    0.50   5.50 6-Tipton-Hesson vs 13-Jarvis-Lakshmanan
+  140          4.00   2.00 9-Lanchew-Thai-May vs 15-Wright-Abernethy
+  120          2.00   4.00 14-Miller-Romeo vs 10-Li-Sun
+         50    0.50   5.50 16-Sorenson-Gaffney vs 7-Delfs-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.00   4.00 2-Binney-Anderson vs 6-Tipton-Hesson
+  100          5.50   0.50 3-Mohrman-Kossmann vs 5-Waggoner-Rind
+  100          5.50   0.50 4-Davis-Hendrickson vs 9-Lanchew-Thai-May
+        300    0.00   6.00 7-Delfs-Ford vs 1-Zaugg-Christie
+        140    1.00   5.00 10-Li-Sun vs 15-Wright-Abernethy
+   50          4.00   2.00 14-Miller-Romeo vs 11-Eng-Sieg
+        100    3.00   3.00 16-Sorenson-Gaffney vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.00   6.00 2-Binney-Anderson vs 6-Tipton-Hesson
+        650    2.00   4.00 3-Mohrman-Kossmann vs 5-Waggoner-Rind
+        680    1.00   5.00 4-Davis-Hendrickson vs 9-Lanchew-Thai-May
+        500    3.00   3.00 7-Delfs-Ford vs 1-Zaugg-Christie
+        300    4.50   1.50 10-Li-Sun vs 15-Wright-Abernethy
+  100          6.00   0.00 14-Miller-Romeo vs 11-Eng-Sieg
+        300    4.50   1.50 16-Sorenson-Gaffney vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   5.00 1-Zaugg-Christie vs 13-Jarvis-Lakshmanan
+         90    3.00   3.00 3-Mohrman-Kossmann vs 7-Delfs-Ford
+  100          5.00   1.00 4-Davis-Hendrickson vs 6-Tipton-Hesson
+  100          5.00   1.00 5-Waggoner-Rind vs 10-Li-Sun
+        100    1.00   5.00 8-Christensen-Ring vs 2-Binney-Anderson
+        100    1.00   5.00 15-Wright-Abernethy vs 11-Eng-Sieg
+  100          5.00   1.00 16-Sorenson-Gaffney vs 9-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   2.00 1-Zaugg-Christie vs 13-Jarvis-Lakshmanan
+        120    1.00   5.00 3-Mohrman-Kossmann vs 7-Delfs-Ford
+   50          2.50   3.50 4-Davis-Hendrickson vs 6-Tipton-Hesson
+  150          5.50   0.50 5-Waggoner-Rind vs 10-Li-Sun
+  150          5.50   0.50 8-Christensen-Ring vs 2-Binney-Anderson
+        140    0.00   6.00 15-Wright-Abernethy vs 11-Eng-Sieg
+   50          2.50   3.50 16-Sorenson-Gaffney vs 9-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   2.00 2-Binney-Anderson vs 1-Zaugg-Christie
+        130    1.00   5.00 4-Davis-Hendrickson vs 8-Christensen-Ring
+  300          6.00   0.00 5-Waggoner-Rind vs 7-Delfs-Ford
+  200          4.00   2.00 6-Tipton-Hesson vs 11-Eng-Sieg
+  200          4.00   2.00 9-Lanchew-Thai-May vs 3-Mohrman-Kossmann
+         50    2.00   4.00 14-Miller-Romeo vs 13-Jarvis-Lakshmanan
+        300    0.00   6.00 16-Sorenson-Gaffney vs 10-Li-Sun
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   3.00 2-Binney-Anderson vs 1-Zaugg-Christie
+        650    3.00   3.00 4-Davis-Hendrickson vs 8-Christensen-Ring
+        650    3.00   3.00 5-Waggoner-Rind vs 7-Delfs-Ford
+        650    3.00   3.00 6-Tipton-Hesson vs 11-Eng-Sieg
+        650    3.00   3.00 9-Lanchew-Thai-May vs 3-Mohrman-Kossmann
+        650    3.00   3.00 14-Miller-Romeo vs 13-Jarvis-Lakshmanan
+        650    3.00   3.00 16-Sorenson-Gaffney vs 10-Li-Sun
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    5.50   0.50 1-Zaugg-Christie vs 14-Miller-Romeo
+        170    5.50   0.50 3-Mohrman-Kossmann vs 2-Binney-Anderson
+        420    2.00   4.00 5-Waggoner-Rind vs 9-Lanchew-Thai-May
+        420    2.00   4.00 6-Tipton-Hesson vs 8-Christensen-Ring
+        420    2.00   4.00 10-Li-Sun vs 4-Davis-Hendrickson
+        420    2.00   4.00 15-Wright-Abernethy vs 13-Jarvis-Lakshmanan
+        420    2.00   4.00 16-Sorenson-Gaffney vs 11-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    4.00   2.00 1-Zaugg-Christie vs 14-Miller-Romeo
+        620    1.50   4.50 3-Mohrman-Kossmann vs 2-Binney-Anderson
+  200          6.00   0.00 5-Waggoner-Rind vs 9-Lanchew-Thai-May
+        620    1.50   4.50 6-Tipton-Hesson vs 8-Christensen-Ring
+  100          5.00   1.00 10-Li-Sun vs 4-Davis-Hendrickson
+        650    0.00   6.00 15-Wright-Abernethy vs 13-Jarvis-Lakshmanan
+        600    3.00   3.00 16-Sorenson-Gaffney vs 11-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   4.00 2-Binney-Anderson vs 14-Miller-Romeo
+        100    2.00   4.00 4-Davis-Hendrickson vs 3-Mohrman-Kossmann
+  100          5.00   1.00 6-Tipton-Hesson vs 10-Li-Sun
+  100          5.00   1.00 7-Delfs-Ford vs 9-Lanchew-Thai-May
+        200    0.00   6.00 8-Christensen-Ring vs 13-Jarvis-Lakshmanan
+        100    2.00   4.00 11-Eng-Sieg vs 5-Waggoner-Rind
+  100          5.00   1.00 15-Wright-Abernethy vs 1-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    5.50   0.50 2-Binney-Anderson vs 14-Miller-Romeo
+        420    2.00   4.00 4-Davis-Hendrickson vs 3-Mohrman-Kossmann
+        420    2.00   4.00 6-Tipton-Hesson vs 10-Li-Sun
+        420    2.00   4.00 7-Delfs-Ford vs 9-Lanchew-Thai-May
+        420    2.00   4.00 8-Christensen-Ring vs 13-Jarvis-Lakshmanan
+        170    5.50   0.50 11-Eng-Sieg vs 5-Waggoner-Rind
+        420    2.00   4.00 15-Wright-Abernethy vs 1-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   4.00 3-Mohrman-Kossmann vs 14-Miller-Romeo
+         50    4.50   1.50 5-Waggoner-Rind vs 4-Davis-Hendrickson
+         50    4.50   1.50 7-Delfs-Ford vs 11-Eng-Sieg
+         50    4.50   1.50 8-Christensen-Ring vs 10-Li-Sun
+        150    0.50   5.50 9-Lanchew-Thai-May vs 1-Zaugg-Christie
+         50    4.50   1.50 15-Wright-Abernethy vs 2-Binney-Anderson
+        150    0.50   5.50 16-Sorenson-Gaffney vs 13-Jarvis-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   1.50 3-Mohrman-Kossmann vs 14-Miller-Romeo
+  200          2.00   4.00 5-Waggoner-Rind vs 4-Davis-Hendrickson
+  620          4.50   1.50 7-Delfs-Ford vs 11-Eng-Sieg
+        100    0.50   5.50 8-Christensen-Ring vs 10-Li-Sun
+  620          4.50   1.50 9-Lanchew-Thai-May vs 1-Zaugg-Christie
+  620          4.50   1.50 15-Wright-Abernethy vs 2-Binney-Anderson
+        100    0.50   5.50 16-Sorenson-Gaffney vs 13-Jarvis-Lakshmanan
+----------------------------------------------------------------------
