@@ -14,17 +14,17 @@ S NT  2
 W NT  8
 N NT  2
 E  S  4
-S  S  7
+S  S  8
 W  S  4
-N  S  8
+N  S  7
 E  H  5
 S  H  8
 W  H  5
 N  H  8
 E  D  6
-S  D  3
+S  D  4
 W  D  6
-N  D  4
+N  D  3
 E  C 11
 S  C  2
 W  C 11
@@ -130,9 +130,9 @@ N  C  6
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT 12
-S NT  1
+S NT  0
 W NT 12
-N NT  0
+N NT  1
 E  S  7
 S  S  6
 W  S  7
@@ -206,9 +206,9 @@ S  D  9
 W  D  3
 N  D  9
 E  C  3
-S  C 10
+S  C  9
 W  C  3
-N  C  9
+N  C 10
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -254,21 +254,21 @@ S NT  7
 W NT  6
 N NT  7
 E  S  4
-S  S  8
+S  S  9
 W  S  4
-N  S  9
+N  S  8
 E  H  8
-S  H  4
+S  H  5
 W  H  8
-N  H  5
+N  H  4
 E  D  8
 S  D  4
 W  D  8
 N  D  4
 E  C  4
-S  C  8
+S  C  9
 W  C  4
-N  C  9
+N  C  8
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -340,17 +340,17 @@ N  C  6
 [Scoring "MP"]
 [OptimumResultTable "Declarer;Denomination\2R;Result\2R"]
 E NT  5
-S NT  8
+S NT  6
 W NT  5
-N NT  6
+N NT  8
 E  S  4
 S  S  9
 W  S  4
 N  S  9
 E  H  6
-S  H  7
+S  H  6
 W  H  6
-N  H  6
+N  H  7
 E  D  5
 S  D  7
 W  D  5
@@ -734,9 +734,9 @@ S NT  8
 W NT  4
 N NT  8
 E  S  4
-S  S  9
+S  S  8
 W  S  4
-N  S  8
+N  S  9
 E  H 10
 S  H  3
 W  H 10
@@ -746,9 +746,9 @@ S  D  5
 W  D  8
 N  D  5
 E  C  9
-S  C  4
+S  C  3
 W  C  9
-N  C  3
+N  C  4
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -858,17 +858,17 @@ S  S 12
 W  S  1
 N  S 12
 E  H  4
-S  H  9
+S  H  8
 W  H  4
-N  H  8
+N  H  9
 E  D  2
-S  D 10
+S  D  9
 W  D  2
-N  D  9
+N  D 10
 E  C  2
-S  C 11
+S  C  9
 W  C  2
-N  C  9
+N  C 11
 
 [Event "Tuesday Evening Pairs"]
 [Site "Mercercrest"]
@@ -884,9 +884,9 @@ S NT  9
 W NT  4
 N NT  9
 E  S  6
-S  S  6
+S  S  7
 W  S  6
-N  S  7
+N  S  6
 E  H  2
 S  H 10
 W  H  2
@@ -918,9 +918,9 @@ S  S  7
 W  S  5
 N  S  7
 E  H  7
-S  H  6
+S  H  5
 W  H  7
-N  H  5
+N  H  6
 E  D  8
 S  D  5
 W  D  8
@@ -948,9 +948,9 @@ S  S  9
 W  S  3
 N  S  9
 E  H  6
-S  H  6
+S  H  5
 W  H  6
-N  H  5
+N  H  6
 E  D  6
 S  D  6
 W  D  6
@@ -1004,13 +1004,13 @@ S NT  8
 W NT  4
 N NT  8
 E  S  7
-S  S  6
+S  S  5
 W  S  7
-N  S  5
+N  S  6
 E  H  3
-S  H 10
+S  H  9
 W  H  3
-N  H  9
+N  H 10
 E  D  4
 S  D  8
 W  D  4
