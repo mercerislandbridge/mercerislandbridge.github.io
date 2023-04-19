@@ -1,0 +1,336 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>April 18, 2023     |CLUB NO.>158048    | 04/18/2023 22:08
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff            |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=10/C=4                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jeffrey Ford           Kim Eng                  A    4     .     .     59.63  55.21  0.67(A) 
+
+ 2 Music Li               Genie Thai-May           C    .     .     1     51.19  47.40  0.96(C) 
+
+ 3 Brad Rind              Susan Waggoner           C    .     .     .     41.63  38.55          
+
+ 4 Bryan Delfs            J.C. Chupack             B    .     .     .     51.75  47.92          
+
+ 5 Sue Anderson           Kevin Cline              B    .     .     .     55.13  51.05          
+
+ 6 Nick Tipton            Galen Hesson             B    3     3     .     60.00  55.56  0.84(A) 
+
+
+
+ 8 Grace Shen             Robert Munger            C    .     .     2     50.00  46.30  0.67(C) 
+
+ 9 Shawn Abernethy        Mike Ring                B    2     2     .     63.00  58.33  1.13(A) 
+
+10 David Wright           Brian Zaugg              B    1     1     .     65.81  60.94  1.50(A) 
+
+11 Aaron Mohrman          Donald Kossmann          C    .     .     .     36.56  33.85          
+
+12 Mike Christensen       Changtiaorap Lanchew     B    .     4     .     59.06  54.69  0.50(B) 
+
+
+                                          Totals                         593.76       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.50   2.50 3-Rind-Waggoner vs 11-Mohrman-Kossmann
+   50          4.00   0.00 5-Anderson-Cline vs 2-Li-Thai-May
+        130    1.50   2.50 6-Tipton-Hesson vs 10-Wright-Zaugg
+         50    3.00   1.00 8-Shen-Munger vs 4-Delfs-Chupack
+        400    0.00   4.00 12-Christensen-Lanchew vs 1-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   1.50 3-Rind-Waggoner vs 11-Mohrman-Kossmann
+        230    0.00   4.00 5-Anderson-Cline vs 2-Li-Thai-May
+   50          2.50   1.50 6-Tipton-Hesson vs 10-Wright-Zaugg
+  110          4.00   0.00 8-Shen-Munger vs 4-Delfs-Chupack
+        110    1.00   3.00 12-Christensen-Lanchew vs 1-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.00   3.00 3-Rind-Waggoner vs 11-Mohrman-Kossmann
+        150    3.00   1.00 5-Anderson-Cline vs 2-Li-Thai-May
+        300    1.00   3.00 6-Tipton-Hesson vs 10-Wright-Zaugg
+        300    1.00   3.00 8-Shen-Munger vs 4-Delfs-Chupack
+        100    4.00   0.00 12-Christensen-Lanchew vs 1-Ford-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   0.00 1-Ford-Eng vs 8-Shen-Munger
+  120          2.50   1.50 6-Tipton-Hesson vs 3-Rind-Waggoner
+   90          0.50   3.50 9-Abernethy-Ring vs 5-Anderson-Cline
+   90          0.50   3.50 11-Mohrman-Kossmann vs 4-Delfs-Chupack
+  120          2.50   1.50 12-Christensen-Lanchew vs 2-Li-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    4.00   0.00 1-Ford-Eng vs 8-Shen-Munger
+        190    3.00   1.00 6-Tipton-Hesson vs 3-Rind-Waggoner
+        420    2.00   2.00 9-Abernethy-Ring vs 5-Anderson-Cline
+        940    0.00   4.00 11-Mohrman-Kossmann vs 4-Delfs-Chupack
+        920    1.00   3.00 12-Christensen-Lanchew vs 2-Li-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   2.00 1-Ford-Eng vs 8-Shen-Munger
+  130          3.50   0.50 6-Tipton-Hesson vs 3-Rind-Waggoner
+        110    1.00   3.00 9-Abernethy-Ring vs 5-Anderson-Cline
+        140    0.00   4.00 11-Mohrman-Kossmann vs 4-Delfs-Chupack
+  130          3.50   0.50 12-Christensen-Lanchew vs 2-Li-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   3.00 1-Ford-Eng vs 6-Tipton-Hesson
+  630          2.00   2.00 2-Li-Thai-May vs 9-Abernethy-Ring
+  660          3.50   0.50 10-Wright-Zaugg vs 8-Shen-Munger
+  660          3.50   0.50 11-Mohrman-Kossmann vs 5-Anderson-Cline
+        200    0.00   4.00 12-Christensen-Lanchew vs 3-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.50   0.50 1-Ford-Eng vs 6-Tipton-Hesson
+        480    1.50   2.50 2-Li-Thai-May vs 9-Abernethy-Ring
+        450    3.50   0.50 10-Wright-Zaugg vs 8-Shen-Munger
+        510    0.00   4.00 11-Mohrman-Kossmann vs 5-Anderson-Cline
+        480    1.50   2.50 12-Christensen-Lanchew vs 3-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   1.00 1-Ford-Eng vs 6-Tipton-Hesson
+         50    0.50   3.50 2-Li-Thai-May vs 9-Abernethy-Ring
+         50    0.50   3.50 10-Wright-Zaugg vs 8-Shen-Munger
+  140          2.00   2.00 11-Mohrman-Kossmann vs 5-Anderson-Cline
+  530          4.00   0.00 12-Christensen-Lanchew vs 3-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   3.00 3-Rind-Waggoner vs 1-Ford-Eng
+  620          3.00   1.00 8-Shen-Munger vs 5-Anderson-Cline
+  600          2.00   2.00 10-Wright-Zaugg vs 9-Abernethy-Ring
+        300    0.00   4.00 11-Mohrman-Kossmann vs 6-Tipton-Hesson
+  690          4.00   0.00 12-Christensen-Lanchew vs 4-Delfs-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.50   0.50 3-Rind-Waggoner vs 1-Ford-Eng
+  450          3.50   0.50 8-Shen-Munger vs 5-Anderson-Cline
+  200          1.50   2.50 10-Wright-Zaugg vs 9-Abernethy-Ring
+  150          0.00   4.00 11-Mohrman-Kossmann vs 6-Tipton-Hesson
+  200          1.50   2.50 12-Christensen-Lanchew vs 4-Delfs-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   3.50 3-Rind-Waggoner vs 1-Ford-Eng
+        100    0.50   3.50 8-Shen-Munger vs 5-Anderson-Cline
+  620          4.00   0.00 10-Wright-Zaugg vs 9-Abernethy-Ring
+  140          2.00   2.00 11-Mohrman-Kossmann vs 6-Tipton-Hesson
+  180          3.00   1.00 12-Christensen-Lanchew vs 4-Delfs-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.50   1.50 1-Ford-Eng vs 10-Wright-Zaugg
+        650    2.50   1.50 3-Rind-Waggoner vs 8-Shen-Munger
+        650    2.50   1.50 4-Delfs-Chupack vs 2-Li-Thai-May
+        650    2.50   1.50 9-Abernethy-Ring vs 6-Tipton-Hesson
+        850    0.00   4.00 12-Christensen-Lanchew vs 5-Anderson-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   1.50 1-Ford-Eng vs 10-Wright-Zaugg
+        430    0.00   4.00 3-Rind-Waggoner vs 8-Shen-Munger
+        130    1.00   3.00 4-Delfs-Chupack vs 2-Li-Thai-May
+        100    2.50   1.50 9-Abernethy-Ring vs 6-Tipton-Hesson
+         50    4.00   0.00 12-Christensen-Lanchew vs 5-Anderson-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          0.00   4.00 1-Ford-Eng vs 10-Wright-Zaugg
+  690          3.50   0.50 3-Rind-Waggoner vs 8-Shen-Munger
+  660          1.50   2.50 4-Delfs-Chupack vs 2-Li-Thai-May
+  690          3.50   0.50 9-Abernethy-Ring vs 6-Tipton-Hesson
+  660          1.50   2.50 12-Christensen-Lanchew vs 5-Anderson-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   1.00 2-Li-Thai-May vs 10-Wright-Zaugg
+         50    0.50   3.50 4-Delfs-Chupack vs 9-Abernethy-Ring
+    PASS       2.00   2.00 5-Anderson-Cline vs 3-Rind-Waggoner
+  130          4.00   0.00 8-Shen-Munger vs 11-Mohrman-Kossmann
+         50    0.50   3.50 12-Christensen-Lanchew vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   3.50 2-Li-Thai-May vs 10-Wright-Zaugg
+        140    0.50   3.50 4-Delfs-Chupack vs 9-Abernethy-Ring
+         50    2.50   1.50 5-Anderson-Cline vs 3-Rind-Waggoner
+  110          4.00   0.00 8-Shen-Munger vs 11-Mohrman-Kossmann
+         50    2.50   1.50 12-Christensen-Lanchew vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   3.00 2-Li-Thai-May vs 10-Wright-Zaugg
+        200    1.00   3.00 4-Delfs-Chupack vs 9-Abernethy-Ring
+        100    3.00   1.00 5-Anderson-Cline vs 3-Rind-Waggoner
+        200    1.00   3.00 8-Shen-Munger vs 11-Mohrman-Kossmann
+  140          4.00   0.00 12-Christensen-Lanchew vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    4.00   0.00 2-Li-Thai-May vs 8-Shen-Munger
+        600    2.00   2.00 5-Anderson-Cline vs 1-Ford-Eng
+        600    2.00   2.00 6-Tipton-Hesson vs 4-Delfs-Chupack
+        600    2.00   2.00 10-Wright-Zaugg vs 3-Rind-Waggoner
+        620    0.00   4.00 11-Mohrman-Kossmann vs 9-Abernethy-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   2.00 2-Li-Thai-May vs 8-Shen-Munger
+        100    0.50   3.50 5-Anderson-Cline vs 1-Ford-Eng
+  630          3.50   0.50 6-Tipton-Hesson vs 4-Delfs-Chupack
+  630          3.50   0.50 10-Wright-Zaugg vs 3-Rind-Waggoner
+        100    0.50   3.50 11-Mohrman-Kossmann vs 9-Abernethy-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   2.50 2-Li-Thai-May vs 8-Shen-Munger
+        420    1.50   2.50 5-Anderson-Cline vs 1-Ford-Eng
+        420    1.50   2.50 6-Tipton-Hesson vs 4-Delfs-Chupack
+        170    4.00   0.00 10-Wright-Zaugg vs 3-Rind-Waggoner
+        420    1.50   2.50 11-Mohrman-Kossmann vs 9-Abernethy-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 3-Rind-Waggoner vs 9-Abernethy-Ring
+  200          4.00   0.00 6-Tipton-Hesson vs 2-Li-Thai-May
+        100    0.00   4.00 10-Wright-Zaugg vs 4-Delfs-Chupack
+  110          2.50   1.50 11-Mohrman-Kossmann vs 1-Ford-Eng
+  110          2.50   1.50 12-Christensen-Lanchew vs 8-Shen-Munger
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.00   1.00 3-Rind-Waggoner vs 9-Abernethy-Ring
+  100          1.00   3.00 6-Tipton-Hesson vs 2-Li-Thai-May
+  620          4.00   0.00 10-Wright-Zaugg vs 4-Delfs-Chupack
+  140          2.00   2.00 11-Mohrman-Kossmann vs 1-Ford-Eng
+        200    0.00   4.00 12-Christensen-Lanchew vs 8-Shen-Munger
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    0.50   3.50 3-Rind-Waggoner vs 9-Abernethy-Ring
+   90          2.00   2.00 6-Tipton-Hesson vs 2-Li-Thai-May
+         90    0.50   3.50 10-Wright-Zaugg vs 4-Delfs-Chupack
+  120          3.50   0.50 11-Mohrman-Kossmann vs 1-Ford-Eng
+  120          3.50   0.50 12-Christensen-Lanchew vs 8-Shen-Munger
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   0.00 2-Li-Thai-May vs 11-Mohrman-Kossmann
+  100          2.00   2.00 4-Delfs-Chupack vs 1-Ford-Eng
+  100          2.00   2.00 5-Anderson-Cline vs 10-Wright-Zaugg
+         50    0.00   4.00 8-Shen-Munger vs 6-Tipton-Hesson
+  100          2.00   2.00 12-Christensen-Lanchew vs 9-Abernethy-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          0.00   4.00 2-Li-Thai-May vs 11-Mohrman-Kossmann
+  170          2.00   2.00 4-Delfs-Chupack vs 1-Ford-Eng
+  170          2.00   2.00 5-Anderson-Cline vs 10-Wright-Zaugg
+  170          2.00   2.00 8-Shen-Munger vs 6-Tipton-Hesson
+  180          4.00   0.00 12-Christensen-Lanchew vs 9-Abernethy-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   0.50 2-Li-Thai-May vs 11-Mohrman-Kossmann
+         50    3.50   0.50 4-Delfs-Chupack vs 1-Ford-Eng
+        420    0.00   4.00 5-Anderson-Cline vs 10-Wright-Zaugg
+        150    1.00   3.00 8-Shen-Munger vs 6-Tipton-Hesson
+        100    2.00   2.00 12-Christensen-Lanchew vs 9-Abernethy-Ring
+----------------------------------------------------------------------
