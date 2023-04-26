@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>April 25, 2023     |CLUB NO.>158048    | 04/25/2023 22:21
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=10/C=7                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Eric Sieg                A    .     .     .     76.50  49.04          
+
+ 2 Oyvind Tafjord         Sue Anderson             C    3     2     1     85.00  54.49  0.70(A) 
+
+ 3 Kim Eng                Jeffrey Ford             A    .     .     .     79.50  50.96          
+
+ 4 Adam Ruprecht          Christopher Jarvis       C    .     .     .     71.50  45.83          
+
+ 5 Mike Christensen       David Wright             A    1     .     .     88.50  56.73  1.40(A) 
+
+ 6 Ray Miller             Aaron Mohrman            A    .     .     .     69.00  44.23          
+
+ 7 Jeremy Gulley          Donald Kossmann          C    .     .     .     72.00  46.15          
+
+ 8 Robert Munger          Grace Shen               C    5     4     3     82.00  52.56  0.28(A) 
+
+ 9 Nelson Davis           Hugh Hendrickson         B    2     1     .     87.00  55.77  0.98(A) 
+
+10 Jim Windus             Music Li                 C    4     3     2     82.50  52.88  0.49(A) 
+
+11 Changtiaorap Lanchew   Genie Thai-May           C    .     .     .     70.50  45.19          
+
+12 Nick Tipton            Galen Hesson             B    .     .     .     74.50  47.76          
+
+13 Craig Mills            Lisa Brock               C    6     .     .     81.50  52.24  0.23(A) 
+
+14 William Campbell       Ann Romeo                B    .     .     .     72.00  46.15          
+
+
+                                          Totals                        1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   4.00 1-Zaugg-Sieg vs 3-Eng-Ford
+  120          4.50   1.50 2-Tafjord-Anderson vs 6-Miller-Mohrman
+         50    2.00   4.00 4-Ruprecht-Jarvis vs 9-Davis-Hendrickson
+  180          6.00   0.00 5-Christensen-Wright vs 12-Tipton-Hesson
+        100    0.00   6.00 7-Gulley-Kossmann vs 8-Munger-Shen
+  120          4.50   1.50 13-Mills-Brock vs 10-Windus-Li
+         50    2.00   4.00 14-Campbell-Romeo vs 11-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   0.00 1-Zaugg-Sieg vs 3-Eng-Ford
+        110    4.50   1.50 2-Tafjord-Anderson vs 6-Miller-Mohrman
+        170    1.00   5.00 4-Ruprecht-Jarvis vs 9-Davis-Hendrickson
+        140    3.00   3.00 5-Christensen-Wright vs 12-Tipton-Hesson
+        170    1.00   5.00 7-Gulley-Kossmann vs 8-Munger-Shen
+        170    1.00   5.00 13-Mills-Brock vs 10-Windus-Li
+        110    4.50   1.50 14-Campbell-Romeo vs 11-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   6.00 1-Zaugg-Sieg vs 11-Lanchew-Thai-May
+         50    4.00   2.00 2-Tafjord-Anderson vs 4-Ruprecht-Jarvis
+  500          6.00   0.00 3-Eng-Ford vs 7-Gulley-Kossmann
+        100    2.00   4.00 5-Christensen-Wright vs 10-Windus-Li
+        100    2.00   4.00 6-Miller-Mohrman vs 13-Mills-Brock
+  110          5.00   1.00 8-Munger-Shen vs 9-Davis-Hendrickson
+        100    2.00   4.00 14-Campbell-Romeo vs 12-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          5.50   0.50 1-Zaugg-Sieg vs 11-Lanchew-Thai-May
+  300          4.00   2.00 2-Tafjord-Anderson vs 4-Ruprecht-Jarvis
+  500          5.50   0.50 3-Eng-Ford vs 7-Gulley-Kossmann
+        120    1.00   5.00 5-Christensen-Wright vs 10-Windus-Li
+  200          3.00   3.00 6-Miller-Mohrman vs 13-Mills-Brock
+        110    2.00   4.00 8-Munger-Shen vs 9-Davis-Hendrickson
+        140    0.00   6.00 14-Campbell-Romeo vs 12-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.50   0.50 2-Tafjord-Anderson vs 12-Tipton-Hesson
+        100    2.00   4.00 3-Eng-Ford vs 5-Christensen-Wright
+   50          3.50   2.50 4-Ruprecht-Jarvis vs 8-Munger-Shen
+  140          5.50   0.50 6-Miller-Mohrman vs 11-Lanchew-Thai-May
+   50          3.50   2.50 7-Gulley-Kossmann vs 1-Zaugg-Sieg
+        110    1.00   5.00 9-Davis-Hendrickson vs 10-Windus-Li
+        130    0.00   6.00 14-Campbell-Romeo vs 13-Mills-Brock
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   0.50 2-Tafjord-Anderson vs 12-Tipton-Hesson
+   90          2.50   3.50 3-Eng-Ford vs 5-Christensen-Wright
+  100          4.00   2.00 4-Ruprecht-Jarvis vs 8-Munger-Shen
+  200          5.50   0.50 6-Miller-Mohrman vs 11-Lanchew-Thai-May
+   90          2.50   3.50 7-Gulley-Kossmann vs 1-Zaugg-Sieg
+        150    0.00   6.00 9-Davis-Hendrickson vs 10-Windus-Li
+        100    1.00   5.00 14-Campbell-Romeo vs 13-Mills-Brock
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   4.50 3-Eng-Ford vs 13-Mills-Brock
+  200          5.50   0.50 4-Ruprecht-Jarvis vs 6-Miller-Mohrman
+        200    1.50   4.50 5-Christensen-Wright vs 9-Davis-Hendrickson
+        130    4.00   2.00 7-Gulley-Kossmann vs 12-Tipton-Hesson
+        150    3.00   3.00 8-Munger-Shen vs 2-Tafjord-Anderson
+        600    0.00   6.00 10-Windus-Li vs 11-Lanchew-Thai-May
+  200          5.50   0.50 14-Campbell-Romeo vs 1-Zaugg-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   2.50 3-Eng-Ford vs 13-Mills-Brock
+  100          0.00   6.00 4-Ruprecht-Jarvis vs 6-Miller-Mohrman
+  420          3.50   2.50 5-Christensen-Wright vs 9-Davis-Hendrickson
+  400          1.00   5.00 7-Gulley-Kossmann vs 12-Tipton-Hesson
+  460          6.00   0.00 8-Munger-Shen vs 2-Tafjord-Anderson
+  420          3.50   2.50 10-Windus-Li vs 11-Lanchew-Thai-May
+  420          3.50   2.50 14-Campbell-Romeo vs 1-Zaugg-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   5.50 4-Ruprecht-Jarvis vs 1-Zaugg-Sieg
+        100    0.50   5.50 5-Christensen-Wright vs 7-Gulley-Kossmann
+         50    2.50   3.50 6-Miller-Mohrman vs 10-Windus-Li
+         50    2.50   3.50 8-Munger-Shen vs 13-Mills-Brock
+  140          4.50   1.50 9-Davis-Hendrickson vs 3-Eng-Ford
+  140          4.50   1.50 11-Lanchew-Thai-May vs 12-Tipton-Hesson
+  420          6.00   0.00 14-Campbell-Romeo vs 2-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          0.00   6.00 4-Ruprecht-Jarvis vs 1-Zaugg-Sieg
+  620          5.00   1.00 5-Christensen-Wright vs 7-Gulley-Kossmann
+  600          2.00   4.00 6-Miller-Mohrman vs 10-Windus-Li
+  620          5.00   1.00 8-Munger-Shen vs 13-Mills-Brock
+  620          5.00   1.00 9-Davis-Hendrickson vs 3-Eng-Ford
+  600          2.00   4.00 11-Lanchew-Thai-May vs 12-Tipton-Hesson
+  600          2.00   4.00 14-Campbell-Romeo vs 2-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.50   2.50 5-Christensen-Wright vs 2-Tafjord-Anderson
+         50    0.00   6.00 6-Miller-Mohrman vs 8-Munger-Shen
+  450          3.50   2.50 7-Gulley-Kossmann vs 11-Lanchew-Thai-May
+  450          3.50   2.50 9-Davis-Hendrickson vs 1-Zaugg-Sieg
+  450          3.50   2.50 10-Windus-Li vs 4-Ruprecht-Jarvis
+  450          3.50   2.50 12-Tipton-Hesson vs 13-Mills-Brock
+  450          3.50   2.50 14-Campbell-Romeo vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   0.50 5-Christensen-Wright vs 2-Tafjord-Anderson
+   50          4.00   2.00 6-Miller-Mohrman vs 8-Munger-Shen
+  100          5.50   0.50 7-Gulley-Kossmann vs 11-Lanchew-Thai-May
+        200    1.50   4.50 9-Davis-Hendrickson vs 1-Zaugg-Sieg
+        500    0.00   6.00 10-Windus-Li vs 4-Ruprecht-Jarvis
+        200    1.50   4.50 12-Tipton-Hesson vs 13-Mills-Brock
+        150    3.00   3.00 14-Campbell-Romeo vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   4.50 6-Miller-Mohrman vs 3-Eng-Ford
+  200          6.00   0.00 7-Gulley-Kossmann vs 9-Davis-Hendrickson
+        600    3.00   3.00 8-Munger-Shen vs 12-Tipton-Hesson
+        620    1.50   4.50 10-Windus-Li vs 2-Tafjord-Anderson
+        660    0.00   6.00 11-Lanchew-Thai-May vs 5-Christensen-Wright
+  100          5.00   1.00 13-Mills-Brock vs 1-Zaugg-Sieg
+        300    4.00   2.00 14-Campbell-Romeo vs 4-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.00   4.00 6-Miller-Mohrman vs 3-Eng-Ford
+        100    3.50   2.50 7-Gulley-Kossmann vs 9-Davis-Hendrickson
+        100    3.50   2.50 8-Munger-Shen vs 12-Tipton-Hesson
+         50    5.00   1.00 10-Windus-Li vs 2-Tafjord-Anderson
+        150    0.50   5.50 11-Lanchew-Thai-May vs 5-Christensen-Wright
+   50          6.00   0.00 13-Mills-Brock vs 1-Zaugg-Sieg
+        150    0.50   5.50 14-Campbell-Romeo vs 4-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   5.00 1-Zaugg-Sieg vs 2-Tafjord-Anderson
+  100          1.00   5.00 7-Gulley-Kossmann vs 4-Ruprecht-Jarvis
+  100          1.00   5.00 8-Munger-Shen vs 10-Windus-Li
+  300          3.00   3.00 9-Davis-Hendrickson vs 13-Mills-Brock
+  500          4.00   2.00 11-Lanchew-Thai-May vs 3-Eng-Ford
+ 1400          5.00   1.00 12-Tipton-Hesson vs 6-Miller-Mohrman
+ 1700          6.00   0.00 14-Campbell-Romeo vs 5-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   1.50 1-Zaugg-Sieg vs 2-Tafjord-Anderson
+         50    4.50   1.50 7-Gulley-Kossmann vs 4-Ruprecht-Jarvis
+        100    2.50   3.50 8-Munger-Shen vs 10-Windus-Li
+        150    1.00   5.00 9-Davis-Hendrickson vs 13-Mills-Brock
+        100    2.50   3.50 11-Lanchew-Thai-May vs 3-Eng-Ford
+        870    0.00   6.00 12-Tipton-Hesson vs 6-Miller-Mohrman
+   90          6.00   0.00 14-Campbell-Romeo vs 5-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  280          6.00   0.00 2-Tafjord-Anderson vs 3-Eng-Ford
+        110    0.50   5.50 8-Munger-Shen vs 5-Christensen-Wright
+  150          4.50   1.50 9-Davis-Hendrickson vs 11-Lanchew-Thai-May
+  100          2.50   3.50 10-Windus-Li vs 1-Zaugg-Sieg
+  150          4.50   1.50 12-Tipton-Hesson vs 4-Ruprecht-Jarvis
+  100          2.50   3.50 13-Mills-Brock vs 7-Gulley-Kossmann
+        110    0.50   5.50 14-Campbell-Romeo vs 6-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 2-Tafjord-Anderson vs 3-Eng-Ford
+  620          2.00   4.00 8-Munger-Shen vs 5-Christensen-Wright
+  650          5.00   1.00 9-Davis-Hendrickson vs 11-Lanchew-Thai-May
+  650          5.00   1.00 10-Windus-Li vs 1-Zaugg-Sieg
+  620          2.00   4.00 12-Tipton-Hesson vs 4-Ruprecht-Jarvis
+  620          2.00   4.00 13-Mills-Brock vs 7-Gulley-Kossmann
+  650          5.00   1.00 14-Campbell-Romeo vs 6-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        730    0.50   5.50 1-Zaugg-Sieg vs 8-Munger-Shen
+        730    0.50   5.50 3-Eng-Ford vs 4-Ruprecht-Jarvis
+  150          5.50   0.50 9-Davis-Hendrickson vs 6-Miller-Mohrman
+  130          3.50   2.50 10-Windus-Li vs 12-Tipton-Hesson
+  150          5.50   0.50 11-Lanchew-Thai-May vs 2-Tafjord-Anderson
+  100          2.00   4.00 13-Mills-Brock vs 5-Christensen-Wright
+  130          3.50   2.50 14-Campbell-Romeo vs 7-Gulley-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.50   1.50 1-Zaugg-Sieg vs 8-Munger-Shen
+  150          4.50   1.50 3-Eng-Ford vs 4-Ruprecht-Jarvis
+  150          4.50   1.50 9-Davis-Hendrickson vs 6-Miller-Mohrman
+  130          2.00   4.00 10-Windus-Li vs 12-Tipton-Hesson
+        100    0.00   6.00 11-Lanchew-Thai-May vs 2-Tafjord-Anderson
+  120          1.00   5.00 13-Mills-Brock vs 5-Christensen-Wright
+  150          4.50   1.50 14-Campbell-Romeo vs 7-Gulley-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   5.50 1-Zaugg-Sieg vs 6-Miller-Mohrman
+   50          2.50   3.50 2-Tafjord-Anderson vs 9-Davis-Hendrickson
+  110          4.50   1.50 4-Ruprecht-Jarvis vs 5-Christensen-Wright
+        100    0.50   5.50 10-Windus-Li vs 7-Gulley-Kossmann
+  110          4.50   1.50 11-Lanchew-Thai-May vs 13-Mills-Brock
+  120          6.00   0.00 12-Tipton-Hesson vs 3-Eng-Ford
+   50          2.50   3.50 14-Campbell-Romeo vs 8-Munger-Shen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          6.00   0.00 1-Zaugg-Sieg vs 6-Miller-Mohrman
+        120    3.50   2.50 2-Tafjord-Anderson vs 9-Davis-Hendrickson
+        150    1.00   5.00 4-Ruprecht-Jarvis vs 5-Christensen-Wright
+        150    1.00   5.00 10-Windus-Li vs 7-Gulley-Kossmann
+         90    5.00   1.00 11-Lanchew-Thai-May vs 13-Mills-Brock
+        120    3.50   2.50 12-Tipton-Hesson vs 3-Eng-Ford
+        150    1.00   5.00 14-Campbell-Romeo vs 8-Munger-Shen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          5.50   0.50 2-Tafjord-Anderson vs 7-Gulley-Kossmann
+  800          5.50   0.50 3-Eng-Ford vs 10-Windus-Li
+  500          3.50   2.50 5-Christensen-Wright vs 6-Miller-Mohrman
+        100    0.00   6.00 11-Lanchew-Thai-May vs 8-Munger-Shen
+  500          3.50   2.50 12-Tipton-Hesson vs 1-Zaugg-Sieg
+  400          2.00   4.00 13-Mills-Brock vs 4-Ruprecht-Jarvis
+  300          1.00   5.00 14-Campbell-Romeo vs 9-Davis-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.50   0.50 2-Tafjord-Anderson vs 7-Gulley-Kossmann
+  100          2.00   4.00 3-Eng-Ford vs 10-Windus-Li
+  150          4.00   2.00 5-Christensen-Wright vs 6-Miller-Mohrman
+  300          5.50   0.50 11-Lanchew-Thai-May vs 8-Munger-Shen
+  100          2.00   4.00 12-Tipton-Hesson vs 1-Zaugg-Sieg
+  100          2.00   4.00 13-Mills-Brock vs 4-Ruprecht-Jarvis
+        300    0.00   6.00 14-Campbell-Romeo vs 9-Davis-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   4.00 1-Zaugg-Sieg vs 5-Christensen-Wright
+  430          5.50   0.50 3-Eng-Ford vs 8-Munger-Shen
+  420          2.00   4.00 4-Ruprecht-Jarvis vs 11-Lanchew-Thai-May
+  430          5.50   0.50 6-Miller-Mohrman vs 7-Gulley-Kossmann
+  420          2.00   4.00 12-Tipton-Hesson vs 9-Davis-Hendrickson
+  420          2.00   4.00 13-Mills-Brock vs 2-Tafjord-Anderson
+  420          2.00   4.00 14-Campbell-Romeo vs 10-Windus-Li
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   1.50 1-Zaugg-Sieg vs 5-Christensen-Wright
+  170          6.00   0.00 3-Eng-Ford vs 8-Munger-Shen
+         90    0.50   5.50 4-Ruprecht-Jarvis vs 11-Lanchew-Thai-May
+         90    0.50   5.50 6-Miller-Mohrman vs 7-Gulley-Kossmann
+  100          2.50   3.50 12-Tipton-Hesson vs 9-Davis-Hendrickson
+  140          4.50   1.50 13-Mills-Brock vs 2-Tafjord-Anderson
+  100          2.50   3.50 14-Campbell-Romeo vs 10-Windus-Li
+----------------------------------------------------------------------
