@@ -1,0 +1,165 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>May 2, 2023        |CLUB NO.>158048    | 05/02/2023 21:23
+---------------------,-- ------------------- -------------,---------------------
+DIR> Mike            |RATING>Club Masterpoint (60% Open)  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   18.0 |TOP>   3 |MP LIMITS>500            |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS>  4                                        ,------------,------,------,
+-------------------------------------------------|   Section  |      |Sect. |
+No Name                   Name                   | Rank|Score | Pct  |Awards|
+------------------------------------------------- ----- ------ ------ ------ 
+ 1 Jason Yao              Ella Su                  1     21.00  58.33  0.24 
+
+ 2 Avery Liang            Alexandra Deschenes            17.50  48.61       
+
+ 3 Rui Gong               Hong Gao                       15.50  43.06       
+
+ 4 Lydia Zhang            Maiya Clouse             2     18.00  50.00  0.17 
+
+
+                                          Totals         72.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>May 2, 2023        |CLUB NO.>158048    | 05/02/2023 21:23
+---------------------,-- ------------------- -------------,---------------------
+DIR> Mike            |RATING>Club Masterpoint (60% Open)  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   18.0 |TOP>   3 |MP LIMITS>500            |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS>  4                                        ,------------,------,------,
+-------------------------------------------------|   Section  |      |Sect. |
+No Name                   Name                   | Rank|Score | Pct  |Awards|
+------------------------------------------------- ----- ------ ------ ------ 
+ 1 Yanchun Gu             Huan Zou                       15.50  43.06       
+
+ 2 Will Fox               Lanhao Zhao                    13.00  36.11       
+
+ 3 Sylvia Bailey          Trevor Fox               2     16.00  44.44  0.17 
+
+ 4 Qian Liang             Gina Zhang               1     27.50  76.39  0.24 
+
+
+                                          Totals         72.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.00   0.00 1-Yao-Su vs 1-Gu-Zou
+        450    1.50   1.50 2-Liang-Deschenes vs 3-Bailey-Fox
+        450    1.50   1.50 3-Gong-Gao vs 2-Fox-Zhao
+        480    0.00   3.00 4-Zhang-Clouse vs 4-Liang-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.00   0.00 1-Yao-Su vs 1-Gu-Zou
+        480    0.50   2.50 2-Liang-Deschenes vs 3-Bailey-Fox
+        430    2.00   1.00 3-Gong-Gao vs 2-Fox-Zhao
+        480    0.50   2.50 4-Zhang-Clouse vs 4-Liang-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   3.00 1-Yao-Su vs 1-Gu-Zou
+        150    1.00   2.00 2-Liang-Deschenes vs 3-Bailey-Fox
+         50    3.00   0.00 3-Gong-Gao vs 2-Fox-Zhao
+         90    2.00   1.00 4-Zhang-Clouse vs 4-Liang-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   3.00 1-Yao-Su vs 4-Liang-Zhang
+        180    1.50   1.50 2-Liang-Deschenes vs 2-Fox-Zhao
+        180    1.50   1.50 3-Gong-Gao vs 1-Gu-Zou
+  200          3.00   0.00 4-Zhang-Clouse vs 3-Bailey-Fox
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   3.00 1-Yao-Su vs 4-Liang-Zhang
+  140          2.00   1.00 2-Liang-Deschenes vs 2-Fox-Zhao
+        100    1.00   2.00 3-Gong-Gao vs 1-Gu-Zou
+  600          3.00   0.00 4-Zhang-Clouse vs 3-Bailey-Fox
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.00   3.00 1-Yao-Su vs 4-Liang-Zhang
+  100          2.50   0.50 2-Liang-Deschenes vs 2-Fox-Zhao
+  100          2.50   0.50 3-Gong-Gao vs 1-Gu-Zou
+        150    1.00   2.00 4-Zhang-Clouse vs 3-Bailey-Fox
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.50   0.50 1-Yao-Su vs 3-Bailey-Fox
+        130    2.50   0.50 2-Liang-Deschenes vs 1-Gu-Zou
+        630    0.00   3.00 3-Gong-Gao vs 4-Liang-Zhang
+        180    1.00   2.00 4-Zhang-Clouse vs 2-Fox-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.00   0.00 1-Yao-Su vs 3-Bailey-Fox
+        140    1.00   2.00 2-Liang-Deschenes vs 1-Gu-Zou
+  100          2.00   1.00 3-Gong-Gao vs 4-Liang-Zhang
+        420    0.00   3.00 4-Zhang-Clouse vs 2-Fox-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.50   0.50 1-Yao-Su vs 3-Bailey-Fox
+        600    1.00   2.00 2-Liang-Deschenes vs 1-Gu-Zou
+        620    0.00   3.00 3-Gong-Gao vs 4-Liang-Zhang
+  200          2.50   0.50 4-Zhang-Clouse vs 2-Fox-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.00   2.00 1-Yao-Su vs 2-Fox-Zhao
+  300          2.50   0.50 2-Liang-Deschenes vs 4-Liang-Zhang
+        100    0.00   3.00 3-Gong-Gao vs 3-Bailey-Fox
+  300          2.50   0.50 4-Zhang-Clouse vs 1-Gu-Zou
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   0.00 1-Yao-Su vs 2-Fox-Zhao
+        420    0.50   2.50 2-Liang-Deschenes vs 4-Liang-Zhang
+        170    2.00   1.00 3-Gong-Gao vs 3-Bailey-Fox
+        420    0.50   2.50 4-Zhang-Clouse vs 1-Gu-Zou
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          3.00   0.00 1-Yao-Su vs 2-Fox-Zhao
+   50          1.00   2.00 2-Liang-Deschenes vs 4-Liang-Zhang
+        100    0.00   3.00 3-Gong-Gao vs 3-Bailey-Fox
+  100          2.00   1.00 4-Zhang-Clouse vs 1-Gu-Zou
+----------------------------------------------------------------------
