@@ -1,0 +1,135 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B
+------------------------,------ ------------,-------- --------------------------
+DATE>May 16, 2023       |CLUB NO.>158048    | 05/16/2023 21:29
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff            |RATING>Club Masterpoint (60% Open)  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   12.0 |TOP>   2 |MP LIMITS>None           |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS>  6                                        ,------------,------,------,
+-------------------------------------------------|   Section  |      |Sect. |
+No Name                   Name                   | Rank|Score | Pct  |Awards|
+------------------------------------------------- ----- ------ ------ ------ 
+ 1 Will Fox               Hong Gao                 1     18.00  75.00  0.36 
+
+ 2 Alexandra Deschenes    Avery Liang             2/3    13.00  54.17  0.22 
+
+ 3 Qian Liang             Yanchun Gu                     12.00  50.00       
+
+ 4 Jason Yao              Ella Su                 2/3    13.00  54.17  0.22 
+
+ 5 Lydia Zhang            Gina Zhang                      7.50  31.25       
+
+ 6 Derek Deschenes        Trevor Fox                      8.50  35.42       
+
+
+                                          Totals         72.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   1.00 2-Deschenes-Liang vs 3-Liang-Gu
+  110          1.00   1.00 4-Yao-Su vs 5-Zhang-Zhang
+  110          1.00   1.00 6-Deschenes-Fox vs 1-Fox-Gao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       2.00   0.00 2-Deschenes-Liang vs 3-Liang-Gu
+         90    1.00   1.00 4-Yao-Su vs 5-Zhang-Zhang
+        100    0.00   2.00 6-Deschenes-Fox vs 1-Fox-Gao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   0.50 2-Deschenes-Liang vs 3-Liang-Gu
+        140    1.50   0.50 4-Yao-Su vs 5-Zhang-Zhang
+        170    0.00   2.00 6-Deschenes-Fox vs 1-Fox-Gao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          2.00   0.00 1-Fox-Gao vs 5-Zhang-Zhang
+  620          1.00   1.00 3-Liang-Gu vs 4-Yao-Su
+  110          0.00   2.00 6-Deschenes-Fox vs 2-Deschenes-Liang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   0.00 1-Fox-Gao vs 5-Zhang-Zhang
+  150          0.50   1.50 3-Liang-Gu vs 4-Yao-Su
+  150          0.50   1.50 6-Deschenes-Fox vs 2-Deschenes-Liang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   2.00 1-Fox-Gao vs 5-Zhang-Zhang
+  100          2.00   0.00 3-Liang-Gu vs 4-Yao-Su
+        100    1.00   1.00 6-Deschenes-Fox vs 2-Deschenes-Liang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          1.00   1.00 4-Yao-Su vs 1-Fox-Gao
+        100    0.00   2.00 5-Zhang-Zhang vs 2-Deschenes-Liang
+  140          2.00   0.00 6-Deschenes-Fox vs 3-Liang-Gu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   1.50 4-Yao-Su vs 1-Fox-Gao
+  100          2.00   0.00 5-Zhang-Zhang vs 2-Deschenes-Liang
+        140    0.50   1.50 6-Deschenes-Fox vs 3-Liang-Gu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    1.50   0.50 4-Yao-Su vs 1-Fox-Gao
+       1100    0.00   2.00 5-Zhang-Zhang vs 2-Deschenes-Liang
+        630    1.50   0.50 6-Deschenes-Fox vs 3-Liang-Gu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   0.00 1-Fox-Gao vs 2-Deschenes-Liang
+        620    0.00   2.00 5-Zhang-Zhang vs 3-Liang-Gu
+        230    1.00   1.00 6-Deschenes-Fox vs 4-Yao-Su
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   0.00 1-Fox-Gao vs 2-Deschenes-Liang
+  100          1.00   1.00 5-Zhang-Zhang vs 3-Liang-Gu
+         50    0.00   2.00 6-Deschenes-Fox vs 4-Yao-Su
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         80    2.00   0.00 1-Fox-Gao vs 2-Deschenes-Liang
+        110    0.00   2.00 5-Zhang-Zhang vs 3-Liang-Gu
+        100    1.00   1.00 6-Deschenes-Fox vs 4-Yao-Su
+----------------------------------------------------------------------
