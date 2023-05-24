@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 23, 2023       |CLUB NO.>158048    | 05/23/2023 22:23
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff            |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=4/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Stanford Christie        A    1     .     .     71.50  66.20  1.00(A) 
+
+ 2 Arthur Gong            Rui Gong                 C    .     2     .     53.00  49.07  0.22(B) 
+
+ 3 Adam Ruprecht          Christopher Jarvis       C    2     1     .     65.50  60.65  0.70(A) 
+
+ 4 Nick Tipton            Galen Hesson             A    .     .     .     44.50  41.20          
+
+ 5 Brad Rind              Karen Hudesman           B    .     .     .     45.00  41.67          
+
+ 6 Mike Ring              Brian Zaugg              A    3     .     .     65.00  60.19  0.50(A) 
+
+ 7 Mike Christensen       Becky Stevens            A    .     .     .     49.00  45.37          
+
+ 8 David Taylor           Sue Anderson             A    .     .     .     48.00  44.44          
+
+ 9 Eric Sieg              Nathan Gong              B    .     .     .     44.00  40.74          
+
+10 Kim Eng                Jeffrey Ford             A    4     .     .     54.50  50.46  0.35(A) 
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        230    4.00   0.00 1-Delfs-Christie vs 4-Tipton-Hesson
+        450    2.00   2.00 2-Gong-Gong vs 9-Sieg-Gong
+        450    2.00   2.00 3-Ruprecht-Jarvis vs 7-Christensen-Stevens
+        480    0.00   4.00 5-Rind-Hudesman vs 6-Ring-Zaugg
+        450    2.00   2.00 10-Eng-Ford vs 8-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.50   3.50 1-Delfs-Christie vs 4-Tipton-Hesson
+        460    0.50   3.50 2-Gong-Gong vs 9-Sieg-Gong
+  100          4.00   0.00 3-Ruprecht-Jarvis vs 7-Christensen-Stevens
+        430    2.50   1.50 5-Rind-Hudesman vs 6-Ring-Zaugg
+        430    2.50   1.50 10-Eng-Ford vs 8-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.50   2.50 1-Delfs-Christie vs 4-Tipton-Hesson
+  480          3.00   1.00 2-Gong-Gong vs 9-Sieg-Gong
+  450          1.50   2.50 3-Ruprecht-Jarvis vs 7-Christensen-Stevens
+  200          0.00   4.00 5-Rind-Hudesman vs 6-Ring-Zaugg
+  510          4.00   0.00 10-Eng-Ford vs 8-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.50   1.50 2-Gong-Gong vs 5-Rind-Hudesman
+   90          2.50   1.50 3-Ruprecht-Jarvis vs 1-Delfs-Christie
+        100    1.00   3.00 4-Tipton-Hesson vs 8-Taylor-Anderson
+  130          4.00   0.00 6-Ring-Zaugg vs 7-Christensen-Stevens
+        200    0.00   4.00 10-Eng-Ford vs 9-Sieg-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          1.00   3.00 2-Gong-Gong vs 5-Rind-Hudesman
+        100    0.00   4.00 3-Ruprecht-Jarvis vs 1-Delfs-Christie
+  630          4.00   0.00 4-Tipton-Hesson vs 8-Taylor-Anderson
+  500          2.00   2.00 6-Ring-Zaugg vs 7-Christensen-Stevens
+  600          3.00   1.00 10-Eng-Ford vs 9-Sieg-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   0.00 2-Gong-Gong vs 5-Rind-Hudesman
+        500    0.00   4.00 3-Ruprecht-Jarvis vs 1-Delfs-Christie
+  110          2.50   1.50 4-Tipton-Hesson vs 8-Taylor-Anderson
+  100          1.00   3.00 6-Ring-Zaugg vs 7-Christensen-Stevens
+  110          2.50   1.50 10-Eng-Ford vs 9-Sieg-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          3.50   0.50 3-Ruprecht-Jarvis vs 6-Ring-Zaugg
+  650          1.00   3.00 4-Tipton-Hesson vs 2-Gong-Gong
+ 1430          3.50   0.50 5-Rind-Hudesman vs 9-Sieg-Gong
+  660          2.00   2.00 7-Christensen-Stevens vs 8-Taylor-Anderson
+        100    0.00   4.00 10-Eng-Ford vs 1-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   1.50 3-Ruprecht-Jarvis vs 6-Ring-Zaugg
+        110    2.50   1.50 4-Tipton-Hesson vs 2-Gong-Gong
+        110    2.50   1.50 5-Rind-Hudesman vs 9-Sieg-Gong
+        110    2.50   1.50 7-Christensen-Stevens vs 8-Taylor-Anderson
+        470    0.00   4.00 10-Eng-Ford vs 1-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.00   3.00 3-Ruprecht-Jarvis vs 6-Ring-Zaugg
+  450          3.00   1.00 4-Tipton-Hesson vs 2-Gong-Gong
+         50    0.00   4.00 5-Rind-Hudesman vs 9-Sieg-Gong
+  450          3.00   1.00 7-Christensen-Stevens vs 8-Taylor-Anderson
+  450          3.00   1.00 10-Eng-Ford vs 1-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   2.50 4-Tipton-Hesson vs 7-Christensen-Stevens
+        620    1.50   2.50 5-Rind-Hudesman vs 3-Ruprecht-Jarvis
+        620    1.50   2.50 6-Ring-Zaugg vs 1-Delfs-Christie
+        200    4.00   0.00 8-Taylor-Anderson vs 9-Sieg-Gong
+        620    1.50   2.50 10-Eng-Ford vs 2-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   3.00 4-Tipton-Hesson vs 7-Christensen-Stevens
+        100    0.00   4.00 5-Rind-Hudesman vs 3-Ruprecht-Jarvis
+  110          4.00   0.00 6-Ring-Zaugg vs 1-Delfs-Christie
+   50          3.00   1.00 8-Taylor-Anderson vs 9-Sieg-Gong
+         50    2.00   2.00 10-Eng-Ford vs 2-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.00   1.00 4-Tipton-Hesson vs 7-Christensen-Stevens
+        400    4.00   0.00 5-Rind-Hudesman vs 3-Ruprecht-Jarvis
+        490    0.00   4.00 6-Ring-Zaugg vs 1-Delfs-Christie
+        480    1.00   3.00 8-Taylor-Anderson vs 9-Sieg-Gong
+        460    2.00   2.00 10-Eng-Ford vs 2-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.50   1.50 5-Rind-Hudesman vs 8-Taylor-Anderson
+  100          4.00   0.00 6-Ring-Zaugg vs 4-Tipton-Hesson
+        150    2.50   1.50 7-Christensen-Stevens vs 2-Gong-Gong
+        630    0.00   4.00 9-Sieg-Gong vs 1-Delfs-Christie
+        600    1.00   3.00 10-Eng-Ford vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   2.00 5-Rind-Hudesman vs 8-Taylor-Anderson
+   50          4.00   0.00 6-Ring-Zaugg vs 4-Tipton-Hesson
+        170    0.50   3.50 7-Christensen-Stevens vs 2-Gong-Gong
+        170    0.50   3.50 9-Sieg-Gong vs 1-Delfs-Christie
+         50    3.00   1.00 10-Eng-Ford vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          2.00   2.00 5-Rind-Hudesman vs 8-Taylor-Anderson
+ 1470          4.00   0.00 6-Ring-Zaugg vs 4-Tipton-Hesson
+  680          0.50   3.50 7-Christensen-Stevens vs 2-Gong-Gong
+ 1460          3.00   1.00 9-Sieg-Gong vs 1-Delfs-Christie
+  680          0.50   3.50 10-Eng-Ford vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   2.00 1-Delfs-Christie vs 2-Gong-Gong
+  420          4.00   0.00 6-Ring-Zaugg vs 9-Sieg-Gong
+        100    0.50   3.50 7-Christensen-Stevens vs 5-Rind-Hudesman
+  200          3.00   1.00 8-Taylor-Anderson vs 3-Ruprecht-Jarvis
+        100    0.50   3.50 10-Eng-Ford vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   1.00 1-Delfs-Christie vs 2-Gong-Gong
+        100    1.00   3.00 6-Ring-Zaugg vs 9-Sieg-Gong
+         50    2.00   2.00 7-Christensen-Stevens vs 5-Rind-Hudesman
+        170    0.00   4.00 8-Taylor-Anderson vs 3-Ruprecht-Jarvis
+  420          4.00   0.00 10-Eng-Ford vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.50   1.50 1-Delfs-Christie vs 2-Gong-Gong
+  600          2.50   1.50 6-Ring-Zaugg vs 9-Sieg-Gong
+  170          1.00   3.00 7-Christensen-Stevens vs 5-Rind-Hudesman
+  150          0.00   4.00 8-Taylor-Anderson vs 3-Ruprecht-Jarvis
+  650          4.00   0.00 10-Eng-Ford vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   2.50 2-Gong-Gong vs 3-Ruprecht-Jarvis
+        110    0.00   4.00 7-Christensen-Stevens vs 1-Delfs-Christie
+  200          4.00   0.00 8-Taylor-Anderson vs 6-Ring-Zaugg
+  140          3.00   1.00 9-Sieg-Gong vs 4-Tipton-Hesson
+  110          1.50   2.50 10-Eng-Ford vs 5-Rind-Hudesman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        720    1.00   3.00 2-Gong-Gong vs 3-Ruprecht-Jarvis
+        680    3.50   0.50 7-Christensen-Stevens vs 1-Delfs-Christie
+       1430    0.00   4.00 8-Taylor-Anderson vs 6-Ring-Zaugg
+        690    2.00   2.00 9-Sieg-Gong vs 4-Tipton-Hesson
+        680    3.50   0.50 10-Eng-Ford vs 5-Rind-Hudesman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.00   4.00 2-Gong-Gong vs 3-Ruprecht-Jarvis
+        110    1.00   3.00 7-Christensen-Stevens vs 1-Delfs-Christie
+   50          2.00   2.00 8-Taylor-Anderson vs 6-Ring-Zaugg
+  100          3.00   1.00 9-Sieg-Gong vs 4-Tipton-Hesson
+  300          4.00   0.00 10-Eng-Ford vs 5-Rind-Hudesman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   0.00 1-Delfs-Christie vs 5-Rind-Hudesman
+        630    1.00   3.00 3-Ruprecht-Jarvis vs 4-Tipton-Hesson
+        600    3.00   1.00 8-Taylor-Anderson vs 2-Gong-Gong
+        630    1.00   3.00 9-Sieg-Gong vs 7-Christensen-Stevens
+        630    1.00   3.00 10-Eng-Ford vs 6-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   0.00 1-Delfs-Christie vs 5-Rind-Hudesman
+   90          3.00   1.00 3-Ruprecht-Jarvis vs 4-Tipton-Hesson
+        200    1.00   3.00 8-Taylor-Anderson vs 2-Gong-Gong
+        130    2.00   2.00 9-Sieg-Gong vs 7-Christensen-Stevens
+        600    0.00   4.00 10-Eng-Ford vs 6-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   2.00 1-Delfs-Christie vs 5-Rind-Hudesman
+  450          2.00   2.00 3-Ruprecht-Jarvis vs 4-Tipton-Hesson
+ 1100          4.00   0.00 8-Taylor-Anderson vs 2-Gong-Gong
+        100    0.00   4.00 9-Sieg-Gong vs 7-Christensen-Stevens
+  450          2.00   2.00 10-Eng-Ford vs 6-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   1.50 1-Delfs-Christie vs 8-Taylor-Anderson
+  450          2.50   1.50 2-Gong-Gong vs 6-Ring-Zaugg
+  450          2.50   1.50 4-Tipton-Hesson vs 5-Rind-Hudesman
+         50    0.00   4.00 9-Sieg-Gong vs 3-Ruprecht-Jarvis
+  450          2.50   1.50 10-Eng-Ford vs 7-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.50   1.50 1-Delfs-Christie vs 8-Taylor-Anderson
+ 1460          4.00   0.00 2-Gong-Gong vs 6-Ring-Zaugg
+        200    1.00   3.00 4-Tipton-Hesson vs 5-Rind-Hudesman
+        300    0.00   4.00 9-Sieg-Gong vs 3-Ruprecht-Jarvis
+  620          2.50   1.50 10-Eng-Ford vs 7-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          2.00   2.00 1-Delfs-Christie vs 8-Taylor-Anderson
+  490          2.00   2.00 2-Gong-Gong vs 6-Ring-Zaugg
+  490          2.00   2.00 4-Tipton-Hesson vs 5-Rind-Hudesman
+  490          2.00   2.00 9-Sieg-Gong vs 3-Ruprecht-Jarvis
+  490          2.00   2.00 10-Eng-Ford vs 7-Christensen-Stevens
+----------------------------------------------------------------------
