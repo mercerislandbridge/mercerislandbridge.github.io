@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> X
+------------------------,------ ------------,-------- --------------------------
+DATE>June 6, 2023       |CLUB NO.>158048    | 06/06/2023 22:15
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=7/C=2                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Arthur Gong            Nathan Gong              B   Q   Q        .     3     .   |   .     3     .     57.00  47.50  0.52Red 
+                                                                                                                        0.52Blk 
+ 2 Adam Ruprecht          Christopher Jarvis       B   Q   Q        4     2     .   |   4     2     .     65.50  54.58  0.69Red 
+                                                                                                                        0.69Blk 
+ 3 John Krah              Stanford Christie        A   Q            3     .     .   |   3     .     .     71.00  59.17  0.90Red 
+                                                                                                                        0.89Blk 
+ 4 Jim Windus             Music Li                 C           Q    .     .     .   |   .     .     .     54.50  45.42          
+
+ 5 Genie Thai-May         Yonjia Zhang             C           Q    .     .     .   |   .     .     .     50.50  42.08          
+
+ 6 Rui Gong               Zheng Zhong Guo          B                .     .     .   |   .     .     .     53.00  44.17          
+
+ 7 Ray Miller             Jeffrey Ford             A                .     .     .   |   .     .     .     55.00  45.83          
+
+ 8 Kim Eng                Chris Moore              A   Q           1/2    .     .   |  1/2    .     .     72.00  60.00  1.40Red 
+                                                                                                                        1.39Blk 
+ 9 Shawn Abernethy        Brian Zaugg              A   Q            5     .     .   |   5     .     .     63.00  52.50  0.51Red 
+                                                                                                                        0.50Blk 
+10 Mike Christensen       Becky Stevens            A   Q            .     .     .   |   .     .     .     61.50  51.25          
+
+11 Nick Tipton            Galen Hesson             A                .     .     .   |   .     .     .     48.50  40.42          
+
+12 Beau Hovda             Sue Anderson             B       Q        .     .     .   |   .     .     .     56.50  47.08          
+
+
+
+14 William Campbell       Ann Romeo                B   Q   Q       1/2    1     .   |  1/2    1     .     72.00  60.00  1.40Red 
+                                                                                                                        1.39Blk 
+
+                                          Totals                                                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 1-Gong-Gong vs 3-Krah-Christie
+  150          4.50   0.50 2-Ruprecht-Jarvis vs 6-Gong-Guo
+        140    1.50   3.50 4-Windus-Li vs 9-Abernethy-Zaugg
+   90          3.00   2.00 5-Thai-May-Zhang vs 12-Hovda-Anderson
+        140    1.50   3.50 7-Miller-Ford vs 8-Eng-Moore
+  150          4.50   0.50 14-Campbell-Romeo vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        990    1.00   4.00 1-Gong-Gong vs 3-Krah-Christie
+        920    3.00   2.00 2-Ruprecht-Jarvis vs 6-Gong-Guo
+        520    4.00   1.00 4-Windus-Li vs 9-Abernethy-Zaugg
+        990    1.00   4.00 5-Thai-May-Zhang vs 12-Hovda-Anderson
+   50          5.00   0.00 7-Miller-Ford vs 8-Eng-Moore
+        990    1.00   4.00 14-Campbell-Romeo vs 11-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.50   0.50 1-Gong-Gong vs 11-Tipton-Hesson
+  140          2.50   2.50 2-Ruprecht-Jarvis vs 4-Windus-Li
+         50    0.00   5.00 3-Krah-Christie vs 7-Miller-Ford
+  140          2.50   2.50 5-Thai-May-Zhang vs 10-Christensen-Stevens
+  100          1.00   4.00 8-Eng-Moore vs 9-Abernethy-Zaugg
+  420          4.50   0.50 14-Campbell-Romeo vs 12-Hovda-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    5.00   0.00 1-Gong-Gong vs 11-Tipton-Hesson
+        620    3.50   1.50 2-Ruprecht-Jarvis vs 4-Windus-Li
+        650    1.50   3.50 3-Krah-Christie vs 7-Miller-Ford
+        680    0.00   5.00 5-Thai-May-Zhang vs 10-Christensen-Stevens
+        620    3.50   1.50 8-Eng-Moore vs 9-Abernethy-Zaugg
+        650    1.50   3.50 14-Campbell-Romeo vs 12-Hovda-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   1.00 2-Ruprecht-Jarvis vs 12-Hovda-Anderson
+  100          2.00   3.00 3-Krah-Christie vs 5-Thai-May-Zhang
+        100    1.00   4.00 4-Windus-Li vs 8-Eng-Moore
+  140          4.00   1.00 6-Gong-Guo vs 11-Tipton-Hesson
+        200    0.00   5.00 7-Miller-Ford vs 1-Gong-Gong
+  140          4.00   1.00 9-Abernethy-Zaugg vs 10-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   3.50 2-Ruprecht-Jarvis vs 12-Hovda-Anderson
+  800          5.00   0.00 3-Krah-Christie vs 5-Thai-May-Zhang
+  470          4.00   1.00 4-Windus-Li vs 8-Eng-Moore
+  110          1.50   3.50 6-Gong-Guo vs 11-Tipton-Hesson
+        100    0.00   5.00 7-Miller-Ford vs 1-Gong-Gong
+  140          3.00   2.00 9-Abernethy-Zaugg vs 10-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.00   4.00 4-Windus-Li vs 6-Gong-Guo
+  680          2.50   2.50 5-Thai-May-Zhang vs 9-Abernethy-Zaugg
+  680          2.50   2.50 7-Miller-Ford vs 12-Hovda-Anderson
+ 1460          5.00   0.00 8-Eng-Moore vs 2-Ruprecht-Jarvis
+  710          4.00   1.00 10-Christensen-Stevens vs 11-Tipton-Hesson
+        100    0.00   5.00 14-Campbell-Romeo vs 1-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.50   0.50 4-Windus-Li vs 6-Gong-Guo
+        300    0.00   5.00 5-Thai-May-Zhang vs 9-Abernethy-Zaugg
+  130          2.00   3.00 7-Miller-Ford vs 12-Hovda-Anderson
+  130          2.00   3.00 8-Eng-Moore vs 2-Ruprecht-Jarvis
+  130          2.00   3.00 10-Christensen-Stevens vs 11-Tipton-Hesson
+  150          4.50   0.50 14-Campbell-Romeo vs 1-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 4-Windus-Li vs 1-Gong-Gong
+        630    0.00   5.00 5-Thai-May-Zhang vs 7-Miller-Ford
+        620    1.50   3.50 6-Gong-Guo vs 10-Christensen-Stevens
+        620    1.50   3.50 9-Abernethy-Zaugg vs 3-Krah-Christie
+  100          4.00   1.00 11-Tipton-Hesson vs 12-Hovda-Anderson
+  100          4.00   1.00 14-Campbell-Romeo vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.50   2.50 4-Windus-Li vs 1-Gong-Gong
+        660    0.50   4.50 5-Thai-May-Zhang vs 7-Miller-Ford
+        600    4.00   1.00 6-Gong-Guo vs 10-Christensen-Stevens
+  200          5.00   0.00 9-Abernethy-Zaugg vs 3-Krah-Christie
+        660    0.50   4.50 11-Tipton-Hesson vs 12-Hovda-Anderson
+        630    2.50   2.50 14-Campbell-Romeo vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.50   1.50 5-Thai-May-Zhang vs 2-Ruprecht-Jarvis
+        420    3.50   1.50 6-Gong-Guo vs 8-Eng-Moore
+        420    3.50   1.50 7-Miller-Ford vs 11-Tipton-Hesson
+        420    3.50   1.50 9-Abernethy-Zaugg vs 1-Gong-Gong
+        450    0.50   4.50 10-Christensen-Stevens vs 4-Windus-Li
+        450    0.50   4.50 14-Campbell-Romeo vs 3-Krah-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.50   2.50 5-Thai-May-Zhang vs 2-Ruprecht-Jarvis
+        170    1.00   4.00 6-Gong-Guo vs 8-Eng-Moore
+        210    0.00   5.00 7-Miller-Ford vs 11-Tipton-Hesson
+        150    2.50   2.50 9-Abernethy-Zaugg vs 1-Gong-Gong
+        120    4.50   0.50 10-Christensen-Stevens vs 4-Windus-Li
+        120    4.50   0.50 14-Campbell-Romeo vs 3-Krah-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   1.50 6-Gong-Guo vs 3-Krah-Christie
+        140    1.00   4.00 7-Miller-Ford vs 9-Abernethy-Zaugg
+  100          3.50   1.50 8-Eng-Moore vs 12-Hovda-Anderson
+        140    1.00   4.00 10-Christensen-Stevens vs 2-Ruprecht-Jarvis
+        140    1.00   4.00 11-Tipton-Hesson vs 5-Thai-May-Zhang
+  200          5.00   0.00 14-Campbell-Romeo vs 4-Windus-Li
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 6-Gong-Guo vs 3-Krah-Christie
+  450          3.00   2.00 7-Miller-Ford vs 9-Abernethy-Zaugg
+  480          5.00   0.00 8-Eng-Moore vs 12-Hovda-Anderson
+  450          3.00   2.00 10-Christensen-Stevens vs 2-Ruprecht-Jarvis
+  450          3.00   2.00 11-Tipton-Hesson vs 5-Thai-May-Zhang
+  200          1.00   4.00 14-Campbell-Romeo vs 4-Windus-Li
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.50   2.50 1-Gong-Gong vs 2-Ruprecht-Jarvis
+  630          5.00   0.00 7-Miller-Ford vs 4-Windus-Li
+        500    0.00   5.00 8-Eng-Moore vs 10-Christensen-Stevens
+  110          1.00   4.00 11-Tipton-Hesson vs 3-Krah-Christie
+  180          4.00   1.00 12-Hovda-Anderson vs 6-Gong-Guo
+  150          2.50   2.50 14-Campbell-Romeo vs 5-Thai-May-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.00   5.00 1-Gong-Gong vs 2-Ruprecht-Jarvis
+        150    3.00   2.00 7-Miller-Ford vs 4-Windus-Li
+        600    1.50   3.50 8-Eng-Moore vs 10-Christensen-Stevens
+        600    1.50   3.50 11-Tipton-Hesson vs 3-Krah-Christie
+  100          5.00   0.00 12-Hovda-Anderson vs 6-Gong-Guo
+        110    4.00   1.00 14-Campbell-Romeo vs 5-Thai-May-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   4.50 2-Ruprecht-Jarvis vs 3-Krah-Christie
+  120          5.00   0.00 8-Eng-Moore vs 5-Thai-May-Zhang
+         50    0.50   4.50 9-Abernethy-Zaugg vs 11-Tipton-Hesson
+  110          4.00   1.00 10-Christensen-Stevens vs 1-Gong-Gong
+   50          2.50   2.50 12-Hovda-Anderson vs 4-Windus-Li
+   50          2.50   2.50 14-Campbell-Romeo vs 6-Gong-Guo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    2.50   2.50 2-Ruprecht-Jarvis vs 3-Krah-Christie
+        460    2.50   2.50 8-Eng-Moore vs 5-Thai-May-Zhang
+        460    2.50   2.50 9-Abernethy-Zaugg vs 11-Tipton-Hesson
+        460    2.50   2.50 10-Christensen-Stevens vs 1-Gong-Gong
+        460    2.50   2.50 12-Hovda-Anderson vs 4-Windus-Li
+        460    2.50   2.50 14-Campbell-Romeo vs 6-Gong-Guo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   4.00 1-Gong-Gong vs 8-Eng-Moore
+  490          4.50   0.50 3-Krah-Christie vs 4-Windus-Li
+         50    1.00   4.00 9-Abernethy-Zaugg vs 6-Gong-Guo
+         50    1.00   4.00 10-Christensen-Stevens vs 12-Hovda-Anderson
+  420          3.00   2.00 11-Tipton-Hesson vs 2-Ruprecht-Jarvis
+  490          4.50   0.50 14-Campbell-Romeo vs 7-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          1.00   4.00 1-Gong-Gong vs 8-Eng-Moore
+  150          3.00   2.00 3-Krah-Christie vs 4-Windus-Li
+  690          5.00   0.00 9-Abernethy-Zaugg vs 6-Gong-Guo
+  130          1.00   4.00 10-Christensen-Stevens vs 12-Hovda-Anderson
+  130          1.00   4.00 11-Tipton-Hesson vs 2-Ruprecht-Jarvis
+  600          4.00   1.00 14-Campbell-Romeo vs 7-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          3.50   1.50 1-Gong-Gong vs 6-Gong-Guo
+  630          3.50   1.50 2-Ruprecht-Jarvis vs 9-Abernethy-Zaugg
+  600          2.00   3.00 4-Windus-Li vs 5-Thai-May-Zhang
+  660          5.00   0.00 10-Christensen-Stevens vs 7-Miller-Ford
+  150          1.00   4.00 12-Hovda-Anderson vs 3-Krah-Christie
+        140    0.00   5.00 14-Campbell-Romeo vs 8-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    3.00   2.00 1-Gong-Gong vs 6-Gong-Guo
+  200          5.00   0.00 2-Ruprecht-Jarvis vs 9-Abernethy-Zaugg
+       1440    1.00   4.00 4-Windus-Li vs 5-Thai-May-Zhang
+        690    2.00   3.00 10-Christensen-Stevens vs 7-Miller-Ford
+       1470    0.00   5.00 12-Hovda-Anderson vs 3-Krah-Christie
+  100          4.00   1.00 14-Campbell-Romeo vs 8-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.00   5.00 2-Ruprecht-Jarvis vs 7-Miller-Ford
+        630    3.00   2.00 3-Krah-Christie vs 10-Christensen-Stevens
+        630    3.00   2.00 5-Thai-May-Zhang vs 6-Gong-Guo
+        630    3.00   2.00 11-Tipton-Hesson vs 8-Eng-Moore
+        660    1.00   4.00 12-Hovda-Anderson vs 1-Gong-Gong
+        130    5.00   0.00 14-Campbell-Romeo vs 9-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 2-Ruprecht-Jarvis vs 7-Miller-Ford
+   50          2.50   2.50 3-Krah-Christie vs 10-Christensen-Stevens
+   50          2.50   2.50 5-Thai-May-Zhang vs 6-Gong-Guo
+        150    0.00   5.00 11-Tipton-Hesson vs 8-Eng-Moore
+   50          2.50   2.50 12-Hovda-Anderson vs 1-Gong-Gong
+   50          2.50   2.50 14-Campbell-Romeo vs 9-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   3.50 1-Gong-Gong vs 5-Thai-May-Zhang
+        200    0.00   5.00 3-Krah-Christie vs 8-Eng-Moore
+         50    1.50   3.50 4-Windus-Li vs 11-Tipton-Hesson
+  200          5.00   0.00 6-Gong-Guo vs 7-Miller-Ford
+   90          3.00   2.00 12-Hovda-Anderson vs 9-Abernethy-Zaugg
+  110          4.00   1.00 14-Campbell-Romeo vs 10-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.00   4.00 1-Gong-Gong vs 5-Thai-May-Zhang
+        170    2.00   3.00 3-Krah-Christie vs 8-Eng-Moore
+  200          5.00   0.00 4-Windus-Li vs 11-Tipton-Hesson
+  100          4.00   1.00 6-Gong-Guo vs 7-Miller-Ford
+        660    0.00   5.00 12-Hovda-Anderson vs 9-Abernethy-Zaugg
+        150    3.00   2.00 14-Campbell-Romeo vs 10-Christensen-Stevens
+----------------------------------------------------------------------
