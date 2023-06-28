@@ -1,0 +1,135 @@
+
+EVENT>Kids Game                |SESSION>Tuesday Eve  |SECTION> B
+------------------------,------ ------------,-------- --------------------------
+DATE>June 20, 2023      |CLUB NO.>158048    | 06/27/2023 18:31
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian Zaugg     |RATING>Club Masterpoint (50%, 40%, 30% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   12.0 |TOP>   2 |MP LIMITS>20/10/5        |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=6/B=5/C=5                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Arthur Gong            Lanhao Zhao              A    NE    .     .     11.50  47.92          
+
+ 2 Lydia Zhang            Maiya Clouse             C    2     2     2     13.50  56.25  0.21(A) 
+
+ 3 Ada Wang               Huan Zou                 C    .     .     .     13.00  54.17          
+
+ 4 Jason Yao              Gina Zhang               C    .     .     .      8.00  33.33          
+
+ 5 Avery Liang            Qian Liang               C    1     1     1     14.50  60.42  0.30(A) 
+
+ 6 Christopher Dickman    Ryan Moy                 C    .     .     .     11.50  47.92          
+
+
+                                          Totals                          72.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.00   2.00 2-Zhang-Clouse vs 3-Wang-Zou
+        180    1.00   1.00 4-Yao-Zhang vs 5-Liang-Liang
+        150    2.00   0.00 6-Dickman-Moy vs 1-Gong-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.50   0.50 2-Zhang-Clouse vs 3-Wang-Zou
+  150          1.50   0.50 4-Yao-Zhang vs 5-Liang-Liang
+  120          0.00   2.00 6-Dickman-Moy vs 1-Gong-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        210    1.00   1.00 2-Zhang-Clouse vs 3-Wang-Zou
+        620    0.00   2.00 4-Yao-Zhang vs 5-Liang-Liang
+  100          2.00   0.00 6-Dickman-Moy vs 1-Gong-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   1.00 1-Gong-Zhao vs 5-Liang-Liang
+  100          2.00   0.00 3-Wang-Zou vs 4-Yao-Zhang
+        100    0.00   2.00 6-Dickman-Moy vs 2-Zhang-Clouse
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.00   1.00 1-Gong-Zhao vs 5-Liang-Liang
+  680          2.00   0.00 3-Wang-Zou vs 4-Yao-Zhang
+  170          0.00   2.00 6-Dickman-Moy vs 2-Zhang-Clouse
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          2.00   0.00 1-Gong-Zhao vs 5-Liang-Liang
+        140    0.00   2.00 3-Wang-Zou vs 4-Yao-Zhang
+        110    1.00   1.00 6-Dickman-Moy vs 2-Zhang-Clouse
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.50   1.50 4-Yao-Zhang vs 1-Gong-Zhao
+        120    2.00   0.00 5-Liang-Liang vs 2-Zhang-Clouse
+        600    0.50   1.50 6-Dickman-Moy vs 3-Wang-Zou
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   2.00 4-Yao-Zhang vs 1-Gong-Zhao
+  110          1.00   1.00 5-Liang-Liang vs 2-Zhang-Clouse
+  420          2.00   0.00 6-Dickman-Moy vs 3-Wang-Zou
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   1.00 4-Yao-Zhang vs 1-Gong-Zhao
+        170    2.00   0.00 5-Liang-Liang vs 2-Zhang-Clouse
+        630    0.00   2.00 6-Dickman-Moy vs 3-Wang-Zou
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          0.00   2.00 1-Gong-Zhao vs 2-Zhang-Clouse
+  600          1.00   1.00 5-Liang-Liang vs 3-Wang-Zou
+  630          2.00   0.00 6-Dickman-Moy vs 4-Yao-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   1.00 1-Gong-Zhao vs 2-Zhang-Clouse
+  150          2.00   0.00 5-Liang-Liang vs 3-Wang-Zou
+        110    0.00   2.00 6-Dickman-Moy vs 4-Yao-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   2.00 1-Gong-Zhao vs 2-Zhang-Clouse
+        150    1.00   1.00 5-Liang-Liang vs 3-Wang-Zou
+   50          2.00   0.00 6-Dickman-Moy vs 4-Yao-Zhang
+----------------------------------------------------------------------
