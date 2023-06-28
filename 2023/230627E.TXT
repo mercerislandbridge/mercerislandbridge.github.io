@@ -1,0 +1,336 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 27, 2023      |CLUB NO.>158048    | 06/27/2023 22:25
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=8/C=5                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Stanford Christie        A   4     .     .   |   4     .     .     57.38  53.13  1.17(OA)
+
+ 2 Aaron Mohrman          Donald Kossmann          C   .     .     .   |   .     .     .     51.75  47.92          
+
+ 3 David Taylor           Sue Anderson             B   .     3     .   |   .     3     .     54.56  50.52  1.05(OB)
+
+ 4 Jeffrey Ford           Kevin Bolan              A   2     .     .   |   2     .     .     64.13  59.38  2.08(OA)
+
+ 5 Dex Stuberg            Cliff Marx               C   .     2     1   |   .     2     1     55.13  51.05  1.40(OB)
+
+ 6 Christopher Jarvis     Adam Ruprecht            C   .     .     .   |   .     .     .     35.50  32.87          
+
+
+
+ 8 Galen Hesson           Nick Tipton              B   .     .     .   |   .     .     .     46.00  42.59          
+
+ 9 William Campbell       Ted Bartunek             C   .     .     .   |   .     .     .     47.25  43.75          
+
+10 Mike Ring              Brian Zaugg              B   1     1     .   |   1     1     .     75.38  69.80  2.77(OA)
+
+11 Oyvind Tafjord         Shawn Abernethy          C   .     .     2   |   .     .     2     52.31  48.44  1.05(OC)
+
+12 Mike Christensen       David Wright             A   3     .     .   |   3     .     .     57.94  53.65  1.56(OA)
+
+
+                                          Totals                                            597.33       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.00   0.00 3-Taylor-Anderson vs 11-Tafjord-Abernethy
+        150    3.00   1.00 5-Stuberg-Marx vs 2-Mohrman-Kossmann
+        500    0.00   4.00 6-Jarvis-Ruprecht vs 10-Ring-Zaugg
+        420    1.00   3.00 8-Hesson-Tipton vs 4-Ford-Bolan
+        300    2.00   2.00 12-Christensen-Wright vs 1-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          2.50   1.50 3-Taylor-Anderson vs 11-Tafjord-Abernethy
+  120          2.50   1.50 5-Stuberg-Marx vs 2-Mohrman-Kossmann
+   90          1.00   3.00 6-Jarvis-Ruprecht vs 10-Ring-Zaugg
+   50          0.00   4.00 8-Hesson-Tipton vs 4-Ford-Bolan
+  300          4.00   0.00 12-Christensen-Wright vs 1-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   1.00 3-Taylor-Anderson vs 11-Tafjord-Abernethy
+  200          4.00   0.00 5-Stuberg-Marx vs 2-Mohrman-Kossmann
+  100          1.50   2.50 6-Jarvis-Ruprecht vs 10-Ring-Zaugg
+  100          1.50   2.50 8-Hesson-Tipton vs 4-Ford-Bolan
+        100    0.00   4.00 12-Christensen-Wright vs 1-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   2.00 1-Delfs-Christie vs 8-Hesson-Tipton
+        110    0.00   4.00 6-Jarvis-Ruprecht vs 3-Taylor-Anderson
+  110          3.00   1.00 9-Campbell-Bartunek vs 5-Stuberg-Marx
+   90          1.00   3.00 11-Tafjord-Abernethy vs 4-Ford-Bolan
+  200          4.00   0.00 12-Christensen-Wright vs 2-Mohrman-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          1.00   3.00 1-Delfs-Christie vs 8-Hesson-Tipton
+  600          1.00   3.00 6-Jarvis-Ruprecht vs 3-Taylor-Anderson
+  600          1.00   3.00 9-Campbell-Bartunek vs 5-Stuberg-Marx
+  630          3.50   0.50 11-Tafjord-Abernethy vs 4-Ford-Bolan
+  630          3.50   0.50 12-Christensen-Wright vs 2-Mohrman-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   1.00 1-Delfs-Christie vs 8-Hesson-Tipton
+  100          3.00   1.00 6-Jarvis-Ruprecht vs 3-Taylor-Anderson
+        620    0.00   4.00 9-Campbell-Bartunek vs 5-Stuberg-Marx
+  100          3.00   1.00 11-Tafjord-Abernethy vs 4-Ford-Bolan
+        600    1.00   3.00 12-Christensen-Wright vs 2-Mohrman-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   0.50 1-Delfs-Christie vs 6-Jarvis-Ruprecht
+        100    0.50   3.50 2-Mohrman-Kossmann vs 9-Campbell-Bartunek
+        100    0.50   3.50 10-Ring-Zaugg vs 8-Hesson-Tipton
+  110          2.00   2.00 11-Tafjord-Abernethy vs 5-Stuberg-Marx
+  140          3.50   0.50 12-Christensen-Wright vs 3-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   4.00 1-Delfs-Christie vs 6-Jarvis-Ruprecht
+        110    2.00   2.00 2-Mohrman-Kossmann vs 9-Campbell-Bartunek
+  180          4.00   0.00 10-Ring-Zaugg vs 8-Hesson-Tipton
+         50    3.00   1.00 11-Tafjord-Abernethy vs 5-Stuberg-Marx
+        120    1.00   3.00 12-Christensen-Wright vs 3-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   2.00 1-Delfs-Christie vs 6-Jarvis-Ruprecht
+  420          4.00   0.00 2-Mohrman-Kossmann vs 9-Campbell-Bartunek
+  140          2.00   2.00 10-Ring-Zaugg vs 8-Hesson-Tipton
+  110          0.00   4.00 11-Tafjord-Abernethy vs 5-Stuberg-Marx
+  140          2.00   2.00 12-Christensen-Wright vs 3-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          4.00   0.00 3-Taylor-Anderson vs 1-Delfs-Christie
+        650    2.50   1.50 8-Hesson-Tipton vs 5-Stuberg-Marx
+       1050    0.00   4.00 10-Ring-Zaugg vs 9-Campbell-Bartunek
+        650    2.50   1.50 11-Tafjord-Abernethy vs 6-Jarvis-Ruprecht
+        850    1.00   3.00 12-Christensen-Wright vs 4-Ford-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   2.00 3-Taylor-Anderson vs 1-Delfs-Christie
+  450          2.00   2.00 8-Hesson-Tipton vs 5-Stuberg-Marx
+  450          2.00   2.00 10-Ring-Zaugg vs 9-Campbell-Bartunek
+  450          2.00   2.00 11-Tafjord-Abernethy vs 6-Jarvis-Ruprecht
+  450          2.00   2.00 12-Christensen-Wright vs 4-Ford-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   4.00 3-Taylor-Anderson vs 1-Delfs-Christie
+        100    2.00   2.00 8-Hesson-Tipton vs 5-Stuberg-Marx
+        100    2.00   2.00 10-Ring-Zaugg vs 9-Campbell-Bartunek
+  680          4.00   0.00 11-Tafjord-Abernethy vs 6-Jarvis-Ruprecht
+        100    2.00   2.00 12-Christensen-Wright vs 4-Ford-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   1.50 1-Delfs-Christie vs 10-Ring-Zaugg
+  100          2.50   1.50 3-Taylor-Anderson vs 8-Hesson-Tipton
+  100          2.50   1.50 4-Ford-Bolan vs 2-Mohrman-Kossmann
+  100          2.50   1.50 9-Campbell-Bartunek vs 6-Jarvis-Ruprecht
+        140    0.00   4.00 12-Christensen-Wright vs 5-Stuberg-Marx
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   2.00 1-Delfs-Christie vs 10-Ring-Zaugg
+        450    2.00   2.00 3-Taylor-Anderson vs 8-Hesson-Tipton
+        450    2.00   2.00 4-Ford-Bolan vs 2-Mohrman-Kossmann
+        450    2.00   2.00 9-Campbell-Bartunek vs 6-Jarvis-Ruprecht
+        450    2.00   2.00 12-Christensen-Wright vs 5-Stuberg-Marx
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   2.00 1-Delfs-Christie vs 10-Ring-Zaugg
+        140    2.00   2.00 3-Taylor-Anderson vs 8-Hesson-Tipton
+        140    2.00   2.00 4-Ford-Bolan vs 2-Mohrman-Kossmann
+        140    2.00   2.00 9-Campbell-Bartunek vs 6-Jarvis-Ruprecht
+        140    2.00   2.00 12-Christensen-Wright vs 5-Stuberg-Marx
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 2-Mohrman-Kossmann vs 10-Ring-Zaugg
+  140          2.50   1.50 4-Ford-Bolan vs 9-Campbell-Bartunek
+  570          4.00   0.00 5-Stuberg-Marx vs 3-Taylor-Anderson
+        100    0.00   4.00 8-Hesson-Tipton vs 11-Tafjord-Abernethy
+  140          2.50   1.50 12-Christensen-Wright vs 6-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   3.00 2-Mohrman-Kossmann vs 10-Ring-Zaugg
+        400    2.50   1.50 4-Ford-Bolan vs 9-Campbell-Bartunek
+        400    2.50   1.50 5-Stuberg-Marx vs 3-Taylor-Anderson
+        430    0.00   4.00 8-Hesson-Tipton vs 11-Tafjord-Abernethy
+   50          4.00   0.00 12-Christensen-Wright vs 6-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.50   3.50 2-Mohrman-Kossmann vs 10-Ring-Zaugg
+  170          3.00   1.00 4-Ford-Bolan vs 9-Campbell-Bartunek
+  100          0.50   3.50 5-Stuberg-Marx vs 3-Taylor-Anderson
+  170          3.00   1.00 8-Hesson-Tipton vs 11-Tafjord-Abernethy
+  170          3.00   1.00 12-Christensen-Wright vs 6-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   1.00 2-Mohrman-Kossmann vs 8-Hesson-Tipton
+        200    1.50   2.50 5-Stuberg-Marx vs 1-Delfs-Christie
+        620    0.00   4.00 6-Jarvis-Ruprecht vs 4-Ford-Bolan
+  100          4.00   0.00 10-Ring-Zaugg vs 3-Taylor-Anderson
+        200    1.50   2.50 11-Tafjord-Abernethy vs 9-Campbell-Bartunek
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   0.50 2-Mohrman-Kossmann vs 8-Hesson-Tipton
+        600    1.00   3.00 5-Stuberg-Marx vs 1-Delfs-Christie
+        630    0.00   4.00 6-Jarvis-Ruprecht vs 4-Ford-Bolan
+  100          3.50   0.50 10-Ring-Zaugg vs 3-Taylor-Anderson
+        180    2.00   2.00 11-Tafjord-Abernethy vs 9-Campbell-Bartunek
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.00   2.00 2-Mohrman-Kossmann vs 8-Hesson-Tipton
+  120          1.00   3.00 5-Stuberg-Marx vs 1-Delfs-Christie
+        100    0.00   4.00 6-Jarvis-Ruprecht vs 4-Ford-Bolan
+  630          4.00   0.00 10-Ring-Zaugg vs 3-Taylor-Anderson
+  600          3.00   1.00 11-Tafjord-Abernethy vs 9-Campbell-Bartunek
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   4.00 3-Taylor-Anderson vs 9-Campbell-Bartunek
+  100          3.00   1.00 6-Jarvis-Ruprecht vs 2-Mohrman-Kossmann
+  110          4.00   0.00 10-Ring-Zaugg vs 4-Ford-Bolan
+        100    1.00   3.00 11-Tafjord-Abernethy vs 1-Delfs-Christie
+         50    2.00   2.00 12-Christensen-Wright vs 8-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          3.50   0.50 3-Taylor-Anderson vs 9-Campbell-Bartunek
+  200          0.00   4.00 6-Jarvis-Ruprecht vs 2-Mohrman-Kossmann
+  680          3.50   0.50 10-Ring-Zaugg vs 4-Ford-Bolan
+  230          1.00   3.00 11-Tafjord-Abernethy vs 1-Delfs-Christie
+  620          2.00   2.00 12-Christensen-Wright vs 8-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   0.00 3-Taylor-Anderson vs 9-Campbell-Bartunek
+        500    1.50   2.50 6-Jarvis-Ruprecht vs 2-Mohrman-Kossmann
+        500    1.50   2.50 10-Ring-Zaugg vs 4-Ford-Bolan
+        450    3.00   1.00 11-Tafjord-Abernethy vs 1-Delfs-Christie
+        600    0.00   4.00 12-Christensen-Wright vs 8-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    4.00   0.00 2-Mohrman-Kossmann vs 11-Tafjord-Abernethy
+        630    2.00   2.00 4-Ford-Bolan vs 1-Delfs-Christie
+       1370    0.00   4.00 5-Stuberg-Marx vs 10-Ring-Zaugg
+        630    2.00   2.00 8-Hesson-Tipton vs 6-Jarvis-Ruprecht
+        630    2.00   2.00 12-Christensen-Wright vs 9-Campbell-Bartunek
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   1.00 2-Mohrman-Kossmann vs 11-Tafjord-Abernethy
+        110    4.00   0.00 4-Ford-Bolan vs 1-Delfs-Christie
+        170    0.00   4.00 5-Stuberg-Marx vs 10-Ring-Zaugg
+        150    1.00   3.00 8-Hesson-Tipton vs 6-Jarvis-Ruprecht
+        140    2.00   2.00 12-Christensen-Wright vs 9-Campbell-Bartunek
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   1.50 2-Mohrman-Kossmann vs 11-Tafjord-Abernethy
+        130    0.50   3.50 4-Ford-Bolan vs 1-Delfs-Christie
+        130    0.50   3.50 5-Stuberg-Marx vs 10-Ring-Zaugg
+        100    2.50   1.50 8-Hesson-Tipton vs 6-Jarvis-Ruprecht
+         50    4.00   0.00 12-Christensen-Wright vs 9-Campbell-Bartunek
+----------------------------------------------------------------------
