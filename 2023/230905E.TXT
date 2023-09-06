@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 5, 2023  |CLUB NO.>158048    | 09/05/2023 21:47
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=6/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Moore            Kim Eng                  A    4     .     .     75.00  55.56  0.42(A) 
+
+ 2 Oyvind Tafjord         Sue Anderson             C    .     2     1     70.50  52.22  0.34(B) 
+
+ 3 Kevin Cline            Becky Stevens            B   2/3    1     .     77.50  57.41  0.72(A) 
+
+ 4 Mike Ring              Mike Christensen         A   2/3    .     .     77.50  57.41  0.72(A) 
+
+ 5 Karen Hudesman         Thomas Brown             C    .     .     .     66.00  48.89          
+
+ 6 Paul Martin            David Roselle            A    .     .     .     71.00  52.59          
+
+ 7 David Taylor           Eric Sieg                A    5     .     .     72.50  53.70  0.24(A) 
+
+ 8 Stanford Christie      David Wright             A    .     .     .     56.00  41.48          
+
+ 9 Adam Ruprecht          Christopher Jarvis       C    .     .     .     51.00  37.78          
+
+10 Ray Miller             Jeffrey Ford             A    1     .     .     78.00  57.78  1.20(A) 
+
+11 Shawn Abernethy        Brian Zaugg              B    .     .     .     58.50  43.33          
+
+12 William Campbell       Ann Romeo                B    .     .     .     56.50  41.85          
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1510          5.00   0.00 3-Cline-Stevens vs 11-Abernethy-Zaugg
+  480          2.00   3.00 5-Hudesman-Brown vs 2-Tafjord-Anderson
+  480          2.00   3.00 6-Martin-Roselle vs 10-Miller-Ford
+  980          4.00   1.00 8-Christie-Wright vs 4-Ring-Christensen
+  480          2.00   3.00 9-Ruprecht-Jarvis vs 7-Taylor-Sieg
+  450          0.00   5.00 12-Campbell-Romeo vs 1-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    4.50   0.50 3-Cline-Stevens vs 11-Abernethy-Zaugg
+        420    2.00   3.00 5-Hudesman-Brown vs 2-Tafjord-Anderson
+        200    4.50   0.50 6-Martin-Roselle vs 10-Miller-Ford
+        420    2.00   3.00 8-Christie-Wright vs 4-Ring-Christensen
+        480    0.00   5.00 9-Ruprecht-Jarvis vs 7-Taylor-Sieg
+        420    2.00   3.00 12-Campbell-Romeo vs 1-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   1.00 3-Cline-Stevens vs 11-Abernethy-Zaugg
+         50    1.50   3.50 5-Hudesman-Brown vs 2-Tafjord-Anderson
+  400          5.00   0.00 6-Martin-Roselle vs 10-Miller-Ford
+         50    1.50   3.50 8-Christie-Wright vs 4-Ring-Christensen
+         50    1.50   3.50 9-Ruprecht-Jarvis vs 7-Taylor-Sieg
+         50    1.50   3.50 12-Campbell-Romeo vs 1-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          5.00   0.00 1-Moore-Eng vs 8-Christie-Wright
+  650          2.00   3.00 6-Martin-Roselle vs 3-Cline-Stevens
+  660          4.00   1.00 7-Taylor-Sieg vs 10-Miller-Ford
+  650          2.00   3.00 9-Ruprecht-Jarvis vs 5-Hudesman-Brown
+  650          2.00   3.00 11-Abernethy-Zaugg vs 4-Ring-Christensen
+  620          0.00   5.00 12-Campbell-Romeo vs 2-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          5.00   0.00 1-Moore-Eng vs 8-Christie-Wright
+        100    2.00   3.00 6-Martin-Roselle vs 3-Cline-Stevens
+        200    0.00   5.00 7-Taylor-Sieg vs 10-Miller-Ford
+        100    2.00   3.00 9-Ruprecht-Jarvis vs 5-Hudesman-Brown
+  150          4.00   1.00 11-Abernethy-Zaugg vs 4-Ring-Christensen
+        100    2.00   3.00 12-Campbell-Romeo vs 2-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   3.00 1-Moore-Eng vs 8-Christie-Wright
+  800          5.00   0.00 6-Martin-Roselle vs 3-Cline-Stevens
+  120          3.00   2.00 7-Taylor-Sieg vs 10-Miller-Ford
+         50    1.00   4.00 9-Ruprecht-Jarvis vs 5-Hudesman-Brown
+        150    0.00   5.00 11-Abernethy-Zaugg vs 4-Ring-Christensen
+  130          4.00   1.00 12-Campbell-Romeo vs 2-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   2.50 1-Moore-Eng vs 6-Martin-Roselle
+        170    2.50   2.50 2-Tafjord-Anderson vs 9-Ruprecht-Jarvis
+        170    2.50   2.50 7-Taylor-Sieg vs 4-Ring-Christensen
+        170    2.50   2.50 10-Miller-Ford vs 8-Christie-Wright
+        170    2.50   2.50 11-Abernethy-Zaugg vs 5-Hudesman-Brown
+        170    2.50   2.50 12-Campbell-Romeo vs 3-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   3.00 1-Moore-Eng vs 6-Martin-Roselle
+   50          1.00   4.00 2-Tafjord-Anderson vs 9-Ruprecht-Jarvis
+  300          5.00   0.00 7-Taylor-Sieg vs 4-Ring-Christensen
+  200          4.00   1.00 10-Miller-Ford vs 8-Christie-Wright
+         50    0.00   5.00 11-Abernethy-Zaugg vs 5-Hudesman-Brown
+  150          3.00   2.00 12-Campbell-Romeo vs 3-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   2.00 1-Moore-Eng vs 6-Martin-Roselle
+         50    4.00   1.00 2-Tafjord-Anderson vs 9-Ruprecht-Jarvis
+        150    0.50   4.50 7-Taylor-Sieg vs 4-Ring-Christensen
+  100          5.00   0.00 10-Miller-Ford vs 8-Christie-Wright
+        140    2.00   3.00 11-Abernethy-Zaugg vs 5-Hudesman-Brown
+        150    0.50   4.50 12-Campbell-Romeo vs 3-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   3.00 2-Tafjord-Anderson vs 7-Taylor-Sieg
+        620    2.00   3.00 3-Cline-Stevens vs 1-Moore-Eng
+        170    4.50   0.50 8-Christie-Wright vs 5-Hudesman-Brown
+        620    2.00   3.00 10-Miller-Ford vs 9-Ruprecht-Jarvis
+        170    4.50   0.50 11-Abernethy-Zaugg vs 6-Martin-Roselle
+        650    0.00   5.00 12-Campbell-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   2.50 2-Tafjord-Anderson vs 7-Taylor-Sieg
+        450    0.00   5.00 3-Cline-Stevens vs 1-Moore-Eng
+         50    4.00   1.00 8-Christie-Wright vs 5-Hudesman-Brown
+  180          5.00   0.00 10-Miller-Ford vs 9-Ruprecht-Jarvis
+        140    2.50   2.50 11-Abernethy-Zaugg vs 6-Martin-Roselle
+        170    1.00   4.00 12-Campbell-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   3.00 2-Tafjord-Anderson vs 7-Taylor-Sieg
+        180    0.00   5.00 3-Cline-Stevens vs 1-Moore-Eng
+        140    2.00   3.00 8-Christie-Wright vs 5-Hudesman-Brown
+   50          5.00   0.00 10-Miller-Ford vs 9-Ruprecht-Jarvis
+        100    4.00   1.00 11-Abernethy-Zaugg vs 6-Martin-Roselle
+        140    2.00   3.00 12-Campbell-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.00   5.00 1-Moore-Eng vs 10-Miller-Ford
+  100          4.00   1.00 3-Cline-Stevens vs 8-Christie-Wright
+  100          4.00   1.00 4-Ring-Christensen vs 2-Tafjord-Anderson
+        230    2.00   3.00 7-Taylor-Sieg vs 11-Abernethy-Zaugg
+        620    1.00   4.00 9-Ruprecht-Jarvis vs 6-Martin-Roselle
+  100          4.00   1.00 12-Campbell-Romeo vs 5-Hudesman-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.50   3.50 1-Moore-Eng vs 10-Miller-Ford
+  500          4.00   1.00 3-Cline-Stevens vs 8-Christie-Wright
+  200          1.50   3.50 4-Ring-Christensen vs 2-Tafjord-Anderson
+  420          3.00   2.00 7-Taylor-Sieg vs 11-Abernethy-Zaugg
+  800          5.00   0.00 9-Ruprecht-Jarvis vs 6-Martin-Roselle
+  100          0.00   5.00 12-Campbell-Romeo vs 5-Hudesman-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.50   3.50 1-Moore-Eng vs 10-Miller-Ford
+  650          4.50   0.50 3-Cline-Stevens vs 8-Christie-Wright
+  650          4.50   0.50 4-Ring-Christensen vs 2-Tafjord-Anderson
+  620          1.50   3.50 7-Taylor-Sieg vs 11-Abernethy-Zaugg
+  620          1.50   3.50 9-Ruprecht-Jarvis vs 6-Martin-Roselle
+  620          1.50   3.50 12-Campbell-Romeo vs 5-Hudesman-Brown
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        790    0.00   5.00 1-Moore-Eng vs 7-Taylor-Sieg
+  200          4.00   1.00 2-Tafjord-Anderson vs 10-Miller-Ford
+  100          2.00   3.00 4-Ring-Christensen vs 9-Ruprecht-Jarvis
+  510          5.00   0.00 5-Hudesman-Brown vs 3-Cline-Stevens
+  100          2.00   3.00 8-Christie-Wright vs 11-Abernethy-Zaugg
+  100          2.00   3.00 12-Campbell-Romeo vs 6-Martin-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   4.00 1-Moore-Eng vs 7-Taylor-Sieg
+         50    1.00   4.00 2-Tafjord-Anderson vs 10-Miller-Ford
+  110          4.00   1.00 4-Ring-Christensen vs 9-Ruprecht-Jarvis
+         50    1.00   4.00 5-Hudesman-Brown vs 3-Cline-Stevens
+  110          4.00   1.00 8-Christie-Wright vs 11-Abernethy-Zaugg
+  110          4.00   1.00 12-Campbell-Romeo vs 6-Martin-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          5.00   0.00 1-Moore-Eng vs 7-Taylor-Sieg
+        100    1.50   3.50 2-Tafjord-Anderson vs 10-Miller-Ford
+  150          3.00   2.00 4-Ring-Christensen vs 9-Ruprecht-Jarvis
+        100    1.50   3.50 5-Hudesman-Brown vs 3-Cline-Stevens
+  170          4.00   1.00 8-Christie-Wright vs 11-Abernethy-Zaugg
+        200    0.00   5.00 12-Campbell-Romeo vs 6-Martin-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.50   1.50 2-Tafjord-Anderson vs 8-Christie-Wright
+  400          1.00   4.00 5-Hudesman-Brown vs 1-Moore-Eng
+  430          3.50   1.50 6-Martin-Roselle vs 4-Ring-Christensen
+         50    0.00   5.00 10-Miller-Ford vs 3-Cline-Stevens
+  430          3.50   1.50 11-Abernethy-Zaugg vs 9-Ruprecht-Jarvis
+  430          3.50   1.50 12-Campbell-Romeo vs 7-Taylor-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   3.50 2-Tafjord-Anderson vs 8-Christie-Wright
+  100          1.50   3.50 5-Hudesman-Brown vs 1-Moore-Eng
+  300          5.00   0.00 6-Martin-Roselle vs 4-Ring-Christensen
+        200    0.00   5.00 10-Miller-Ford vs 3-Cline-Stevens
+  200          3.50   1.50 11-Abernethy-Zaugg vs 9-Ruprecht-Jarvis
+  200          3.50   1.50 12-Campbell-Romeo vs 7-Taylor-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    1.00   4.00 2-Tafjord-Anderson vs 8-Christie-Wright
+        480    4.00   1.00 5-Hudesman-Brown vs 1-Moore-Eng
+        980    1.00   4.00 6-Martin-Roselle vs 4-Ring-Christensen
+        450    5.00   0.00 10-Miller-Ford vs 3-Cline-Stevens
+        510    3.00   2.00 11-Abernethy-Zaugg vs 9-Ruprecht-Jarvis
+        980    1.00   4.00 12-Campbell-Romeo vs 7-Taylor-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          2.50   2.50 3-Cline-Stevens vs 9-Ruprecht-Jarvis
+         50    0.00   5.00 6-Martin-Roselle vs 2-Tafjord-Anderson
+  200          1.00   4.00 7-Taylor-Sieg vs 5-Hudesman-Brown
+  420          4.50   0.50 10-Miller-Ford vs 4-Ring-Christensen
+  300          2.50   2.50 11-Abernethy-Zaugg vs 1-Moore-Eng
+  420          4.50   0.50 12-Campbell-Romeo vs 8-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.50   2.50 3-Cline-Stevens vs 9-Ruprecht-Jarvis
+  600          2.50   2.50 6-Martin-Roselle vs 2-Tafjord-Anderson
+  600          2.50   2.50 7-Taylor-Sieg vs 5-Hudesman-Brown
+  600          2.50   2.50 10-Miller-Ford vs 4-Ring-Christensen
+  600          2.50   2.50 11-Abernethy-Zaugg vs 1-Moore-Eng
+  600          2.50   2.50 12-Campbell-Romeo vs 8-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   1.50 3-Cline-Stevens vs 9-Ruprecht-Jarvis
+        920    1.00   4.00 6-Martin-Roselle vs 2-Tafjord-Anderson
+  100          5.00   0.00 7-Taylor-Sieg vs 5-Hudesman-Brown
+        920    1.00   4.00 10-Miller-Ford vs 4-Ring-Christensen
+        920    1.00   4.00 11-Abernethy-Zaugg vs 1-Moore-Eng
+   50          3.50   1.50 12-Campbell-Romeo vs 8-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   2.50 2-Tafjord-Anderson vs 11-Abernethy-Zaugg
+   90          5.00   0.00 4-Ring-Christensen vs 1-Moore-Eng
+        620    0.00   5.00 5-Hudesman-Brown vs 10-Miller-Ford
+        170    2.50   2.50 7-Taylor-Sieg vs 3-Cline-Stevens
+        170    2.50   2.50 8-Christie-Wright vs 6-Martin-Roselle
+        170    2.50   2.50 12-Campbell-Romeo vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1470    1.50   3.50 2-Tafjord-Anderson vs 11-Abernethy-Zaugg
+       1460    4.00   1.00 4-Ring-Christensen vs 1-Moore-Eng
+       1460    4.00   1.00 5-Hudesman-Brown vs 10-Miller-Ford
+       2210    0.00   5.00 7-Taylor-Sieg vs 3-Cline-Stevens
+       1470    1.50   3.50 8-Christie-Wright vs 6-Martin-Roselle
+       1460    4.00   1.00 12-Campbell-Romeo vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 2-Tafjord-Anderson vs 11-Abernethy-Zaugg
+        140    1.50   3.50 4-Ring-Christensen vs 1-Moore-Eng
+        140    1.50   3.50 5-Hudesman-Brown vs 10-Miller-Ford
+   50          4.00   1.00 7-Taylor-Sieg vs 3-Cline-Stevens
+        140    1.50   3.50 8-Christie-Wright vs 6-Martin-Roselle
+        140    1.50   3.50 12-Campbell-Romeo vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
