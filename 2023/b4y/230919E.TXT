@@ -1,0 +1,163 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>September 19, 2023 |CLUB NO.>158048    | 09/19/2023 21:08
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (60%, 50%, 50% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   18.0 |TOP>   3 |MP LIMITS>200/100/50     |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=4/B=4/C=4                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Ella Su                Jason Yao                C    2     2     2     23.64  65.67  0.17(A) 
+
+ 2 Ada Wang               Maiya Clouse             C    .     .     .     14.84  41.22          
+
+ 3 Andrew Ma              Lei Chen                 C    .     .     .      6.19  17.19          
+
+ 4 Huan Zou               Raul Clouse              C    1     1     1     26.84  74.56  0.24(A) 
+
+
+                                          Totals                          71.51       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>September 19, 2023 |CLUB NO.>158048    | 09/19/2023 21:08
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (60%, 50%, 50% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   18.0 |TOP>   3 |MP LIMITS>200/100/50     |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=4/B=3/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Derek Deschenes        Rusty Deschenes          C    .     .     .     16.66  46.28          
+
+ 2 Muyi Chen              Leidan Clouse            C    2     .     .     17.40  48.33  0.17(A) 
+
+ 3 Arthur Gong            Qian Liang               A    NE    .     .     19.66  54.61          
+
+ 4 Alexandra Deschenes    Avery Liang              C    1     1     1     18.16  50.44  0.24(A) 
+
+
+                                          Totals                          71.88       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.50   1.50 1-Su-Yao vs 1-Deschenes-Deschenes
+  400          1.50   1.50 2-Wang-Clouse vs 3-Gong-Liang
+  120          0.00   3.00 3-Ma-Chen vs 2-Chen-Clouse
+  430          3.00   0.00 4-Zou-Clouse vs 4-Deschenes-Liang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       2.00   1.00 1-Su-Yao vs 1-Deschenes-Deschenes
+    PASS       2.00   1.00 2-Wang-Clouse vs 3-Gong-Liang
+        140    0.00   3.00 3-Ma-Chen vs 2-Chen-Clouse
+    PASS       2.00   1.00 4-Zou-Clouse vs 4-Deschenes-Liang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.17   0.83 1-Su-Yao vs 1-Deschenes-Deschenes
+         50    0.17   2.83 2-Wang-Clouse vs 3-Gong-Liang
+  140          2.17   0.83 4-Zou-Clouse vs 4-Deschenes-Liang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.00   1.00 1-Su-Yao vs 4-Deschenes-Liang
+        150    0.00   3.00 2-Wang-Clouse vs 2-Chen-Clouse
+        110    3.00   0.00 3-Ma-Chen vs 1-Deschenes-Deschenes
+        140    1.00   2.00 4-Zou-Clouse vs 3-Gong-Liang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   1.50 1-Su-Yao vs 4-Deschenes-Liang
+  140          3.00   0.00 2-Wang-Clouse vs 2-Chen-Clouse
+        130    0.00   3.00 3-Ma-Chen vs 1-Deschenes-Deschenes
+  100          1.50   1.50 4-Zou-Clouse vs 3-Gong-Liang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   1.50 1-Su-Yao vs 4-Deschenes-Liang
+         50    1.50   1.50 2-Wang-Clouse vs 2-Chen-Clouse
+        630    0.00   3.00 3-Ma-Chen vs 1-Deschenes-Deschenes
+  200          3.00   0.00 4-Zou-Clouse vs 3-Gong-Liang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          3.00   0.00 1-Su-Yao vs 3-Gong-Liang
+  180          0.00   3.00 2-Wang-Clouse vs 1-Deschenes-Deschenes
+  620          1.50   1.50 3-Ma-Chen vs 4-Deschenes-Liang
+  620          1.50   1.50 4-Zou-Clouse vs 2-Chen-Clouse
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.50   2.50 1-Su-Yao vs 3-Gong-Liang
+        150    2.00   1.00 2-Wang-Clouse vs 1-Deschenes-Deschenes
+        170    0.50   2.50 3-Ma-Chen vs 4-Deschenes-Liang
+   80          3.00   0.00 4-Zou-Clouse vs 2-Chen-Clouse
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          3.00   0.00 1-Su-Yao vs 3-Gong-Liang
+         50    1.00   2.00 2-Wang-Clouse vs 1-Deschenes-Deschenes
+        120    0.00   3.00 3-Ma-Chen vs 4-Deschenes-Liang
+  110          2.00   1.00 4-Zou-Clouse vs 2-Chen-Clouse
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   0.50 1-Su-Yao vs 2-Chen-Clouse
+        170    1.00   2.00 2-Wang-Clouse vs 4-Deschenes-Liang
+        650    0.00   3.00 3-Ma-Chen vs 3-Gong-Liang
+        110    2.50   0.50 4-Zou-Clouse vs 1-Deschenes-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   1.00 1-Su-Yao vs 2-Chen-Clouse
+        180    0.50   2.50 2-Wang-Clouse vs 4-Deschenes-Liang
+        180    0.50   2.50 3-Ma-Chen vs 3-Gong-Liang
+        100    3.00   0.00 4-Zou-Clouse vs 1-Deschenes-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.17   0.83 2-Wang-Clouse vs 4-Deschenes-Liang
+        140    0.17   2.83 3-Ma-Chen vs 3-Gong-Liang
+        110    2.17   0.83 4-Zou-Clouse vs 1-Deschenes-Deschenes
+----------------------------------------------------------------------

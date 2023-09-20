@@ -1,0 +1,1623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Created by ACBLmerge 1.3.5 (Matthew Kidd, San Diego, CA) -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<title>Sep 19, 2023 Game Result</title>
+  
+<style type="text/css">
+#topinfo { font-family: verdana, sans-serif; font-size: 11pt; }
+a.diminishedLink:link { color: #c0c0c0; }
+.nolinkunderline { text-decoration: none; }
+
+.hoverlink { text-decoration: none; color: black }
+.hoverlink:hover { text-decoration: underline; color: blue; }
+.hoverlink:active { text-decoration: underline; color: red; }
+
+.help {
+  color: white; background-color: #07B107;
+  padding-left: 0.4em; padding-right: 0.4em;
+  border: 1px solid #666; 
+}
+
+#fsbar { border: none; border-collapse: collapse; margin-top: 1ex; margin-bottom: 1ex; }
+#fsbar .topbot td { padding-top: 10px; }
+#fsbar .middle td { padding-top: 20px; }
+#fsbar td { border: none; padding-left: 5px; }
+
+#tooltip {
+  font-family: verdana, sans-serif;
+  font-size: 80%;
+  position:absolute; display:block; padding: 5px 5px 5px 5px; background:#44d; color:#FFF;
+  -moz-border-radius: 7px; -webkit-border-radius: 7px;
+  -moz-border-radius-bottomleft: 0px; -webkit-border-bottom-left-radius: 0px;
+}
+
+.ul { text-decoration: underline; }
+.ds, .hs { color: red; }
+.opplead { background-color: #FFFF80; }
+.badlead { background-color: #FFC0C0; }
+.stars { color: gold; }
+
+table { border: none; }
+table#main_table > tbody > tr > td {
+  vertical-align: top;
+  padding-bottom: 1em;
+}
+td.center {	text-align: center; }
+td.right { text-align: right; }
+.winnersCaption { caption-side: top; font-weight: bold; font-size: 14pt; margin-bottom: 1ex; }
+.winnersNotFinal, .multiSessionFinal {
+  font-style: italic; width: 47em; margin-left: auto; margin-right: auto;
+}
+.mssurl1 { font-family: verdana, sans-serif; font-size: 12pt; margin-left: 10.5em; margin-top: 0; margin-bottom: 2em; }
+.mssurl2 { font-family: verdana, sans-serif; font-size: 11pt; margin-left: 1.7em; margin-top: 0; margin-bottom: 0; }
+table.winnersWrapper {
+  font-family: Helvetica, Arial, sans-serif;
+  margin-top: 1em; margin-bottom: 2em;
+}
+table.winnersWrapper td { vertical-align: top; }
+table.winners {
+  font-family: Helvetica, Arial, sans-serif;
+  border-spacing: 1em 0em;
+}
+table.winners1col{ font-size: 12pt; margin-left: 10em; margin-top: 1em; margin-bottom: 2em; }
+table.winners2col{ font-size: 10pt; }
+table.winners thead { font-weight: bold; }
+td.results {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 11pt;
+}
+table.results_iphone {
+  border-spacing: 1.5ex 0em;
+  font-family: Helvetica, sans-serif;
+  font-size: 10pt;
+}
+table.results_iphone > tbody > tr > td {
+  padding: 0px;
+  margin: 0px;
+}
+table.results_iphone .bn { color: blue; }
+table.board { border: none; }
+td.board_top, table.board_middle, table.board_bottom {
+  border: none;
+}
+td.north, td.south, td.west, td.east {
+  border: none;
+  width: 14ex;
+  margin-left: 0px;
+  padding-left: 0px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12pt;
+  font-weight: bold;
+  text-align: left;
+}
+td.west { width: 15ex; }
+td.east { padding-left: 1ex; }
+td.south { padding-left: 7ex; }
+td.boardnum {
+  border: none;
+  width: 3.5ex;
+  padding-right: 0px;
+  min-width: 3.5ex;
+  max-width: 3.5ex;
+  margin-right: 0px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 24pt;
+  font-weight: bold;
+  vertical-align: top;
+  text-align: left;
+}
+td.dlrvul {
+  font-size: 11pt;
+  vertical-align: top;
+  text-align: left;
+}
+table.HCP {
+  font-size: 9pt;
+  text-align: center;
+  border: none;
+}
+table.DDmakes {
+  font-size: 11pt;
+  text-align: left;
+  margin-left: 1ex;
+}
+.ddfail {
+  font-size: small;
+  color: #5050ff;
+}
+table.lott_par_copyaids {
+  font-size: 11pt;
+}
+table.lott_par_copyaids td {
+  padding-right: 1em;
+}
+table.lott_par_copyaids td {
+  padding-right: 1em;
+}
+.eastwrapper {
+  position: relative;
+  z-index: -1;
+}
+.tablecloth {
+  /* Absolutely positioned relative to eastwrapper */
+  position: absolute;
+  width: 1.8em;
+  height: 1.8em;
+  left: -2.8em;
+  top: 1.1em;
+  background-color: green;
+}
+</style>
+
+<script type="text/javascript">window.name = window.location.origin + window.location.pathname;</script>
+
+<script type="text/javascript">
+function options() {
+  return { americanstyle: 1 };
+}
+</script>
+
+<script type="text/javascript">
+if ((navigator.userAgent.indexOf('iPhone') != -1) ||  
+    (navigator.userAgent.indexOf('iPod') != -1)) {  
+  document.location = "230919E_iPhone.htm";  
+}
+</script>
+
+<script type="text/javascript">
+function c1(hnum, west, north, east, south) {
+  w = window.open('', '', 'width=480,height=720,scrollbars=yes');
+  if (w.focus) { w.focus(); }
+  d = w.document;
+
+  title = 'Board ' + hnum + ' Cut-and-Paste Aid';
+  css = '<style type="text/css">\n<!' + '--\n' +
+    'body, h1 {\n' +
+    '  font-family: Arial, Helvetica, sans-serif;\n' +
+    '  font-size: 11pt;\n' +
+    '  margin-top:    0.6em;\n' +
+    '  margin-bottom: 0.4em;\n' +
+    '}\n' +
+    '--' + '>\n<\/style>\n';
+  d.write('<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">\n');
+  d.write('<html><head>\n');
+  d.write('<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">\n');
+  d.write('<title>' + title +'<\/title>\n' + css + '<\/head>\n<body>\n\n');
+
+  d.write('<h1>Horizontal North and South hands with and without suit symbols<\/h1>\n');
+  d.write(dumphand(north,1,0) + '<br>' + dumphand(south,1,0) + '<br><br>');
+  d.write(dumphand(north,0,0) + '<br>' + dumphand(south,0,0) + '<br>\n\n');
+
+  d.write('<h1>Horizontal East and West hands with and without suit symbols<\/h1>\n');
+  d.write(dumphand(east,1,0) + '<br>' + dumphand(west,1,0) + '<br><br>');
+  d.write(dumphand(east,0,0) + '<br>' + dumphand(west,0,0) + '<br>\n\n');
+
+  d.write('<h1>Bridgify ready format (West, North, East, South)<\/h1>\n');
+  d.write(west + '<br>\n' + north + '<br>\n' + east + '<br>\n' + south + '<br>\n\n');
+  
+  d.write('<h1>Deal in 3x3 HTML table<\/h1>\n');
+  d.write('<table><tr><td><\/td><td>' + dumphand(north,1,1) +
+	  '<\/td><td><\/td><\/tr>');
+  d.write('<tr><td>' + dumphand(west,1,1) + '<\/td><td><\/td><td>' +
+	  dumphand(east,1,1) + '<\/td><\/tr>');
+  d.write('<tr><td><\/td><td>' + dumphand(south,1,1) +
+	  '<\/td><td><\/td><\/tr><\/table>\n\n');
+
+  d.write('<h1>Compact preformatted deal without initial space<\/h1>\n');
+  leftpad   = '            ';
+  centerpad = '    ';
+  d.write('<pre>\n');
+  d.write(leftpad + dumphand(north,1,0) + '\n\n');
+  d.write(dumphand(west,1,0) + centerpad + dumphand(east,1,0) + '\n\n');
+  d.write(leftpad + dumphand(south,1,0) +'\n');
+  d.write('<\/pre>\n\n');
+
+  d.write('<h1>Compact preformatted deal with initial space<\/h1>\n');
+  d.write('<pre>\n');
+  marginpad = '    ';
+  leftpad  = marginpad + leftpad;
+  d.write(leftpad + dumphand(north,1,0) + '\n\n');
+  d.write(marginpad + dumphand(west,1,0) + centerpad +
+	  dumphand(east,1,0) + '\n\n');
+  d.write(leftpad + dumphand(south,1,0) +'\n');
+  d.write('<\/pre>\n\n');
+
+  d.write('<h1>Vertical West and East hands in 3x1 HTML table<\/h1>\n');
+  d.write('<table><tr><td>' + dumphand(west,1,1) +
+	  '<\/td><td width="40"><\/td><td>' +
+	  dumphand(east,1,1) + '<\/td><\/tr><\/table>\n\n');
+
+  d.write('<h1>Vertical North and South hands in 3x1 HTML table<\/h1>\n');
+  d.write('<table><tr><td>' + dumphand(north,1,1) +
+	  '<\/td><td width="40"><\/td><td>' +
+	  dumphand(south,1,1) + '<\/td><\/tr><\/table>\n\n');
+
+  d.write('<\/body><\/html>');
+
+  d.close();
+}
+
+function dumphand(hand,showsymb,vert) {
+  var suitHTML = new Array('&spades;', '<font color="red">&hearts;<\/font>',
+		'<font color="red">&diams;<\/font>', '&clubs;');
+  var suits = hand.split('.');
+  for (i=0; i<4; i++) {
+    if (showsymb) {
+      if (suits[i].length === 0) { suits[i] = '-'; }
+      suits[i] = suitHTML[i] + suits[i];
+    }
+  }
+  if (vert) { ss = suits.join('<br>'); } else { ss = suits.join(' '); }
+  return ss;
+}
+
+function recap(pair_id) {
+  var p = pairdata();
+  var data = boarddata();
+  var top = data[0]; var handix = data[1];
+  var hasContracts = data[3]; var hasLeads = data[4]; var b = data[5];
+
+  var tmp = b[0][2].charCodeAt(0);
+  var oneSection = (tmp >= 48 && tmp < 59);
+  if (!oneSection) { section = b[0][2].charAt(0); }
+
+  tmp = pair_id.charAt(pair_id.length-1);
+  var isHowell = (tmp != 'N' && tmp != 'E');
+  if (!isHowell) { dir = tmp; } else { dir = ''; }
+
+  var pair_num = pair_id.substring(oneSection ? 0 : 1,
+    isHowell ? pair_id.length : pair_id.length - 1);
+
+  var title = 'Recap for pair ' + pair_num;
+  if (!isHowell) { title += (dir == 'N' ? ' North-South' : ' East-West'); }
+  if (!oneSection) { title += ' (Section ' + section + ')'; }
+
+  var pairnames = pairnameLookup(p, pair_id);
+
+  var winwidth = 600;
+  if (hasContracts) { winwidth += 80; }
+  if (hasLeads) { winwidth += 30; }
+  var w = window.open('', '', 'width=' + winwidth + ',height=720,scrollbars=yes');
+  if (w.focus) { w.focus(); }
+  var d = w.document;
+  
+  var css = '<style type="text/css">\n<!' + '--\n' +
+    'body, h1 {\n' +
+    '  font-size: 11pt;\n' +
+    '  margin-top:    0.6em;\n' +
+    '  margin-bottom: 0.4em;\n' +
+    '}\n' +
+    '.ds, .hs { color: red; }\n' +
+    '.results { border-spacing: 1em 0em; }\n' +
+    '.results thead { font-weight: bold }\n' +
+    '.top    { background-color: #80FF80; }\n' +
+    '.top30  { background-color: #C0FFC0; }\n' +
+    '.middle { background-color: white; }\n' +
+    '.bottom { background-color: #FF8080; }\n' +
+    '.bot30  { background-color: #FFC0C0; }\n' +
+    '.opplead { background-color: #FFFFAA; border: solid #606060 1px; padding-left: 1px; padding-right: 1px; }\n' +
+    '.badlead { background-color: #FFC0C0; border: solid #606060 1px; padding-left: 1px; padding-right: 1px; }\n' +
+    '--' + '>\n<\/style>\n';
+
+  d.write('<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">\n');
+  d.write('<html><head>\n');
+  d.write('<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">\n');
+  d.write('<meta http-equiv="Content-Style-Type" content="text/css">\n');
+  d.write('<meta http-equiv="Content-Script-Type" content="text/javascript">\n');  
+  d.write('<title>' + title +'<\/title>\n' + css + '<\/head>\n<body>\n\n');
+
+  d.write('<center>');
+  d.write('<h1>' + title + '<br>' + pairnames[0] + ' &amp; ' + pairnames[1] + '<\/h1>');
+  d.write('<\/center>\n\n');
+  
+  /* Generate results for each board */
+  d.write('<table class="results">\n');
+  d.write('<thead><tr><td>Board<\/td><td align="right">Plus<\/td><td align="right">Minus<\/td><td align="right">Pts<\/td><td align="right">Pct<\/td>');
+  if (hasContracts) { d.write('<td>Contract<\/td>'); }
+  if (hasLeads) { d.write('<td>Ld<\/td>'); }
+  d.write('<td>Opponents<\/td><\/tr><\/thead>\n');
+  d.write('<tbody>\n');
+
+  var bnum; var pscore; var nscore; var pct; var cname;
+  var psum = 0; var nboards = 0; var npos = 0; var nneg = 0;
+  var pair_id_nodir = pair_id; var suit; var suitHTML; var leadFlag; var leadClass;
+  if (!isHowell)  { pair_id_nodir = pair_id_nodir.substr(0,pair_id_nodir.length-1); }
+  if (oneSection) { pair_id_nodir = pair_id_nodir.substr(1,pair_id_nodir.length-1); }
+  
+  for (var i=0; i < handix.length; i++) {
+    bnum = handix[i];
+    var rs = scoreLookup(b[i], top, pair_id_nodir, dir, hasContracts, hasLeads);
+    if (rs[0] === -1) { continue; }
+    
+    if (typeof rs[0] == 'number') {
+      if (rs[0] >= 0) { pscore = rs[0]; nscore = ''; npos++; }
+      else { nscore = -rs[0]; pscore = ''; nneg++; }
+    }
+    else {
+      if (rs[0] == "AVE-") { pscore = ''; nscore = rs[0]; nneg++; }
+      else if (rs[0] == "AVE+") { pscore = rs[0]; nscore = ''; npos++; }
+      else { pscore = rs[0]; nscore = rs[0]; }
+    }
+
+    pct = (undefined != top) ? 100 * rs[1] / top : undefined;
+    psum += pct; nboards++;
+    if (oneSection) { pairnames = pairnameLookup(p, pair_id.substr(0,1) + rs[2]); }
+    else { pairnames = pairnameLookup(p, rs[2]); }
+
+    if (pct >= 99) { cname = 'top'; }
+    else if (pct >= 70.0) { cname = 'top30'; }
+    else if (pct <= 1.0) { cname = 'bottom'; }
+    else if (pct <= 30.0) { cname = 'bot30'; }
+    else { cname = 'middle'; }
+    
+    d.write('<tr><td>' + bnum + '<\/td><td align="right">' + pscore + '<\/td><td align="right">' + nscore + '<\/td><td align="right">' + rs[1].toFixed(2) + '<\/td><td align="right" class="' + cname + '">' + ((pct == undefined) ? '' : pct.toFixed(2)) + '<\/td>');
+
+    if (hasContracts) {
+      if (rs[3] === 'PASS') { d.write('<td>' + 'Pass Out' + '<\/td>'); }
+      else if (rs[3] === '') { d.write('<td>' + 'Missing' + '<\/td>'); }
+      else {
+        suit = rs[3].substr(1,1);
+        if (suit === 'N') { suitHTML = 'N'; }
+        else if (suit === 'S') { suitHTML = '&spades;'; }
+        else if (suit === 'H') { suitHTML = '<span class="hs">&hearts;</span>'; }
+        else if (suit === 'D') { suitHTML = '<span class="ds">&diams;</span>'; }
+        else if (suit === 'C') { suitHTML = '&clubs;'; }
+        d.write('<td>' + rs[3].substr(0,1) + suitHTML + rs[3].substr(2,rs[3].length-2) + '<\/td>');
+      }
+    }
+
+    if (hasLeads) {
+      if (rs[3+hasContracts].length === 0) { d.write('<td><\/td>'); }
+      else { 
+        suit = rs[3+hasContracts].substr(0,1);
+        if (suit === 'S') { suitHTML = '&spades;'; }
+        else if (suit === 'H') { suitHTML = '<span class="hs">&hearts;</span>'; }
+        else if (suit === 'D') { suitHTML = '<span class="ds">&diams;</span>'; }
+        else if (suit === 'C') { suitHTML = '&clubs;'; }
+        if (rs[3+hasContracts].length === 2) {
+          d.write('<td>' + suitHTML + rs[3+hasContracts].substr(1,1) + '<\/td>');
+        }
+        else {
+          leadFlag = rs[3+hasContracts].substr(2,1);
+          if (leadFlag === '=') { leadClass = 'opplead'; }
+          else if (leadFlag === '?') { leadClass = 'badlead'; }
+          d.write('<td><span class="' + leadClass + '">' + suitHTML + 
+            rs[3+hasContracts].substr(1,1) + '<\/span><\/td>');        
+        }
+      }
+    }
+    d.write('<td>' + pairnames[0] + ' - ' + pairnames[1] + '<\/td><\/tr>\n');
+  }
+  
+  d.write('<\/tbody>\n');
+  d.write('<\/table>\n\n');
+  
+  var evtpct = psum / nboards;
+  d.write('<p>Session: ' + evtpct.toFixed(2) + '%&nbsp;&nbsp;&nbsp;Plus Scores: ' + npos  +
+    '&nbsp;&nbsp;&nbsp;Minus Scores: ' + nneg + '</p>\n');
+
+  d.write('<\/body><\/html>');
+
+  d.close();
+}
+
+function pairnameLookup(p, pair_id) {
+  var i;
+  for (i=0; i < p.length; i+= 3) {
+    if (p[i] == pair_id) { return [p[i+1], p[i+2]]; }
+  }
+  return ['', ''];
+}
+
+function scoreLookup(bb, mptop, pair_id_nodir, dir, hasContracts, hasLeads) {
+  var i;
+  var ndataPerResult = 4 + hasContracts + hasLeads;
+  if (dir == 'N') {
+    for (i=2; i < bb.length; i+= ndataPerResult) {
+      if (bb[i] == pair_id_nodir) { return [bb[i-2], bb[i-1], bb[i+1] + 'E', bb[i+2], bb[i+3]]; }
+    }
+    return [-1];
+  }
+  else if (dir == 'E') {
+    for (i=3; i < bb.length; i+= ndataPerResult) {
+      if (bb[i] == pair_id_nodir) {
+        if (typeof(bb[i-3]) == 'number') {
+          return [-bb[i-3], (mptop == undefined) ? -bb[i-2] : mptop - bb[i-2], bb[i-1] + 'N', bb[i+1], bb[i+2]];    
+        }
+        else {
+          return [flipSpecialScore(bb[i-3]), mptop - bb[i-2], bb[i-1] + 'N', bb[i+1], bb[i+2]];
+        }
+      }
+    }
+    return [-1];
+  }
+  else {
+    /* For Howell movement need to check both directions for pair number. */
+    for (i=2; i < bb.length; i+= ndataPerResult) {
+      if (bb[i] == pair_id_nodir) { return [bb[i-2], bb[i-1], bb[i+1], bb[i+2], bb[i+3]]; }
+      if (bb[i+1] == pair_id_nodir) {
+        if (typeof(bb[i-2]) == 'number') {
+          return [-bb[i-2], (mptop == undefined) ? - bb[i-1] : mptop - bb[i-1], bb[i], bb[i+2], bb[i+3]];
+        }
+        else { return [flipSpecialScore(bb[i-2]), mptop - bb[i-1], bb[i], bb[i+2], bb[i+3]]; }
+      }      
+    }
+    return [-1];
+  }
+}
+
+function flipSpecialScore(str) {
+  if (str == 'AVE+') { return 'AVE-'; }
+  if (str == 'AVE-') { return 'AVE+'; }
+  var ix = str.indexOf('|');
+  if (ix == -1) { return str; }
+  return str.substr(ix+1,str.length-ix-1) + '|' + str.substr(0,ix);
+}
+
+function showhideClass(checkboxid, cname) {
+  // Show or hide elements with specified class name based on checkbox state.
+  // IE8 does not support getElementsByClassName(). However this function is
+  // only used for the iPhone specific format.
+  var cb = document.getElementById(checkboxid);
+  var disp = cb.checked ? '' : 'none';
+
+  document.getElementById("ACBLmerge").getElementsByClassName(cname);
+  
+  var ids = document.getElementById("ACBLmerge").getElementsByClassName(cname);
+  
+  for(i = 0; i < ids.length; i++) {
+    ids[i].style.display = disp;
+  }
+}
+
+var xmlhttp = null;
+
+var tooltip = function() {
+  var id = 'tooltip';
+  var top = 3; var left = 3; var maxw = 300;
+  var speed = 10; var timer = 20;
+  var endalpha = 95; var alpha = 0;
+  var tt,img,spn,h;
+  var ie = document.all ? true : false;
+  var FACEJSON = '/cgi-bin/facejson.pl';
+  var faceCB; var faceOption; var faceShow; var facedir; var faceids;
+  var jsonfailed;
+
+  return {
+    show:function(pnum,pname,str,width) {
+      if (faceOption == undefined) {
+        faceCB = document.getElementById('showfacesCB');
+        faceOption = (faceCB != undefined);
+      }
+      faceShow = faceOption && faceCB.checked && !jsonfailed && pnum;
+      if (faceShow && facedir == undefined) {
+        // Get face directory and list of player numbers for players
+        // who have a face images on the server.
+        // console.log('Retrieving face data (as JSON) from ' + FACEJSON);
+        xmlhttp = CreateXmlHttpReq(resultHandler);
+        if (xmlhttp) {
+          XmlHttpGET(xmlhttp, FACEJSON);
+          var response = xmlhttp.responseText;
+          // Sanitization (See http://tools.ietf.org/html/rfc4627)
+          var data = !(/[^,:{}\[\]0-9.\-+Eaeflnr-u \n\r\t]/.test(
+             response.replace(/"(\\.|[^"\\])*"/g, ''))) && eval('(' + response + ')');
+          facedir = data[0];
+          faceids = data[1];
+        }
+        else { jsonfailed = 1; faceShow = 0; }
+      }
+      if (faceShow) { faceShow = binaryIsIn(faceids, pnum); }
+    
+      if (tt == undefined) {
+        tt = document.createElement('div');
+        tt.setAttribute('id',id);
+        document.body.appendChild(tt);
+        tt.style.opacity = 0;
+        tt.style.filter = 'alpha(opacity=0)';
+        document.onmousemove = this.pos;
+        spn = document.createElement('span');
+        tt.appendChild(spn);
+      }
+      if (!faceShow && !str) { tt.style.display = 'none'; return; }
+      
+      if (faceShow) {
+        if (!img) { img = tt.insertBefore(document.createElement('img'), spn); }
+        img.src = facedir + '/' + pnum + '.jpg';
+        if (str) {
+          tt.style.textAlign = 'left';
+          img.align = 'left';
+          img.style.marginRight = '0.6em';
+          spn.innerHTML = pname + '<br><br>' + str;
+        }
+        else {
+          tt.style.textAlign = 'center';
+          img.align = 'center';
+          spn.innerHTML = '<br clear=all>' + pname;
+        }             
+      }
+      else {
+        if (img) { tt.removeChild(img); img = undefined; }
+        spn.innerHTML = str;
+      }
+
+      tt.style.display = 'block';
+      tt.style.width = width ? width + 'px' : 'auto';
+      if (!width && ie) { tt.style.width = tt.offsetWidth; }
+      if (tt.offsetWidth > maxw) {tt.style.width = maxw + 'px';}
+      h = parseInt(tt.offsetHeight,10) + top;
+
+      clearInterval(tt.timer);
+      tt.timer = setInterval(function(){tooltip.fade(1);}, timer);
+    },
+
+    pos:function(e) {
+      if (tt.style.display === 'none') { return; }
+      var u = ie ? event.clientY + document.documentElement.scrollTop : e.pageY;
+      var l = ie ? event.clientX + document.documentElement.scrollLeft : e.pageX;
+      tt.style.top = (u - h) + 'px';
+      tt.style.left = (l + left) + 'px';
+    },
+
+    fade:function(d) {
+      var a = alpha;
+      if ((a != endalpha && d == 1) || (a !== 0 && d == -1)) {
+        var i = speed;
+        if (endalpha - a < speed && d == 1) { i = endalpha - a; }
+        else if(alpha < speed && d == -1) { i = a; }
+        alpha = a + (i * d);
+        tt.style.opacity = alpha * 0.01;
+        tt.style.filter = 'alpha(opacity=' + alpha + ')';
+      }
+      else {
+        clearInterval(tt.timer);
+        if (d == -1) {tt.style.display = 'none';}
+      }
+    },
+
+    hide:function() {
+      clearInterval(tt.timer);
+      tt.timer = setInterval(function(){tooltip.fade(-1);}, timer);
+    }
+  };
+}();
+
+function CreateXmlHttpReq(handler) {
+  var xmlhttp = null;
+
+  if (window.XMLHttpRequest) { xmlhttp = new XMLHttpRequest(); }
+  else if (window.ActiveXObject) {
+    // Fallback to Active-X but catch users with Active-X turned off
+    try {
+      xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (e) {}
+  }
+
+  if (xmlhttp) xmlhttp.onreadystatechange = handler;
+  return xmlhttp;
+}
+
+function XmlHttpGET(xmlhttp, url) {
+  try {
+    xmlhttp.open("GET", url, false);
+    xmlhttp.send(null);
+  } catch (e) {}
+}
+
+function resultHandler () {
+  // request is 'ready'
+  if (xmlhttp.readyState == 4) {
+    if (xmlhttp.status != 200 && typeof console && typeof console.log) {
+        console.log("Problem retrieving the data:\n" + xmlhttp.statusText);
+    }
+  }
+}
+
+function binaryIsIn(v, num) {
+  if (typeof(v) === 'undefined' || !v.length) { return 0; }
+
+  var high = v.length - 1; var low = 0; var mid; var element;
+
+  while (low <= high) {
+    mid = parseInt((low + high) / 2, 10);
+    element = v[mid];
+    if (element > num) { high = mid - 1; }
+    else if (element < num) { low = mid + 1; }
+    else { return 1; }
+  }
+  return 0;
+}
+</script>
+
+<script type="text/javascript">
+function pairdata() {
+  p = ["B1E","Derek Deschenes","Rusty Deschenes","B1N","Ella Su","Jason Yao","B2E","Muyi Chen","Leidan Clouse","B2N","Ada Wang","Maiya Clouse","B3E","Arthur Gong","Qian Liang","B3N","Andrew Ma","Lei Chen","B4E","Alexandra Deschenes","Avery Liang","B4N","Huan Zou","Raul Clouse"];
+  return p;
+}
+
+function boarddata() {
+  var hasContracts=1;
+  var hasLeads=0;
+  var top=3;
+  var handix=[1,2,3,4,5,6,7,8,9,10,11,12];
+  var times_played=[4,4,3,4,4,4,4,4,4,4,4,3];
+  var b=[
+[400,1.50,"1","1","3N N",400,1.50,"2","3","3N N",120,0.00,"3","2","2N N",430,3.00,"4","4","3N N +1"],
+["PASS",2.00,"1","1","PASS","PASS",2.00,"2","3","PASS",-140,0.00,"3","2","2S E +1","PASS",2.00,"4","4","PASS"],
+[140,2.17,"1","1","2H S +1",-50,0.17,"2","3","2N N -1",140,2.17,"4","4","2H S +1"],
+[-120,2.00,"1","4","1N E +1",-150,0.00,"2","2","1N W +2",-110,3.00,"3","1","2S E",-140,1.00,"4","3","1S E +2"],
+[100,1.50,"1","4","3C E -2",140,3.00,"2","2","2S S +1",-130,0.00,"3","1","4C W",100,1.50,"4","3","3C E -2"],
+[-50,1.50,"1","4","4H S -1",-50,1.50,"2","2","2H N -1",-630,0.00,"3","1","3N W +1",200,3.00,"4","3","5D W -2"],
+[630,3.00,"1","3","3N S +1",180,0.00,"2","1","1N S +3",620,1.50,"3","4","4H N",620,1.50,"4","2","4H N"],
+[-170,0.50,"1","3","3S W +1",-150,2.00,"2","1","2N E +1",-170,0.50,"3","4","2S W +2",80,3.00,"4","2","1H N"],
+[690,3.00,"1","3","4H* S +1",-50,1.00,"2","1","4H S -1",-120,0.00,"3","4","1N W +1",110,2.00,"4","2","2H S"],
+[-110,2.50,"1","2","2H E",-170,1.00,"2","4","3S E +1",-650,0.00,"3","3","4H E +1",-110,2.50,"4","1","2H E"],
+[-110,2.00,"1","2","3C E",-180,0.50,"2","4","2N E +2",-180,0.50,"3","3","1N E +3",-100,3.00,"4","1","2S N -2"],
+[-110,2.17,"2","4","1H E +1",-140,0.17,"3","3","1H E +2",-110,2.17,"4","1","1H E +1"]
+];
+  return [top, handix, times_played, hasContracts, hasLeads, b];
+}
+</script>
+
+</head>
+
+<body>
+<div id="ACBLmerge">
+<div id="topinfo">
+<a class="nolinkunderline" href="http://lajollabridge.com/Software/ACBLmerge/ACBLmergeReport.htm"><span class="help"><strong>?</strong></span></a>&nbsp;<a href="http://lajollabridge.com/Software/ACBLmerge/ACBLmergeReport.htm">Explanation of report features</a>&nbsp;&nbsp;
+<a class="diminishedLink" href="230919E.txt">View original ACBLscore output</a><br>
+Download hands in <a href="230919E.pbn">PBN</a> or <a href="230919E.gib">GIB</a> or <a href="230919E.pdf">PDF</a> format (Right click and choose &ldquo;Save Link As...&rdquo; in Firefox or &ldquo;Save Target As...&rdquo; in IE)<br>
+Jump directly to board
+ <a href="#board_results1">1</a>
+ <a href="#board_results2">2</a>
+ <a href="#board_results3">3</a>
+ <a href="#board_results4">4</a>
+ <a href="#board_results5">5</a>
+ <a href="#board_results6">6</a>
+ <a href="#board_results7">7</a>
+ <a href="#board_results8">8</a>
+ <a href="#board_results9">9</a>
+ <a href="#board_results10">10</a>
+ <a href="#board_results11">11</a>
+ <a href="#board_results12">12</a>
+</div>
+
+<table class="winners winners1col">
+<caption class="winnersCaption"><span class="stars">&#9733; &#9733; &#9733;&nbsp;&nbsp;</span>Masterpoint Winners&nbsp;&nbsp;<span class="stars">&#9733; &#9733; &#9733;</span></caption>
+  <thead><tr> <td>Partnership</td> <td class="center">Pct</td> <td class="right">Rank</td> <td class="center">MP</td> </tr></thead>
+  <tbody>
+  <tr> <td>Huan Zou - Raul Clouse</td> <td class="right">74.56</td> <td class="right">1st A</td> <td>0.24</td> </tr>
+  <tr> <td>Ella Su - Jason Yao</td> <td class="right">65.67</td> <td class="right">2nd A</td> <td>0.17</td> </tr>
+  <tr> <td>Alexandra Deschenes - Avery Liang</td> <td class="right">50.44</td> <td class="right">1st A</td> <td>0.24</td> </tr>
+  <tr> <td>Leidan Clouse - Muyi Chen</td> <td class="right">48.33</td> <td class="right">2nd A</td> <td>0.17</td> </tr>
+  </tbody>
+</table>
+
+<pre>
+EVENT&gt;Tuesday Evening Pairs    |SESSION&gt;Tuesday Eve  |SECTION&gt; B N-S
+------------------------,------ ------------,-------- --------------------------
+DATE&gt;September 19, 2023 |CLUB NO.&gt;158048    | 09/19/2023 21:08
+---------------------,-- ------------------- -------------,---------------------
+DIR&gt; Jeff/Aaron      |RATING&gt;Club Masterpoint (60%, 50%, 50% Open)|MOVEMENT&gt;MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE&gt;   18.0 |TOP&gt;   3 |MP LIMITS&gt;200/100/50     |CLUB&gt;Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=4/B=4/C=4                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ <a href="javascript:recap('B1N')">1</a> Ella Su                Jason Yao                C    2     2     2     23.64  65.67  0.17(A) 
+ <a href="javascript:recap('B2N')">2</a> Ada Wang               Maiya Clouse             C    .     .     .     14.84  41.22          
+ <a href="javascript:recap('B3N')">3</a> Andrew Ma              Lei Chen                 C    .     .     .      6.19  17.19          
+ <a href="javascript:recap('B4N')">4</a> Huan Zou               Raul Clouse              C    1     1     1     26.84  74.56  0.24(A) 
+                                          Totals                          71.51       
+
+EVENT&gt;Tuesday Evening Pairs    |SESSION&gt;Tuesday Eve  |SECTION&gt; B E-W
+------------------------,------ ------------,-------- --------------------------
+AVE&gt;   18.0 |TOP&gt;   3 |MP LIMITS&gt;200/100/50     |CLUB&gt;Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=4/B=3/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ <a href="javascript:recap('B1E')">1</a> Derek Deschenes        Rusty Deschenes          C    .     .     .     16.66  46.28          
+ <a href="javascript:recap('B2E')">2</a> Muyi Chen              Leidan Clouse            C    2     .     .     17.40  48.33  0.17(A) 
+ <a href="javascript:recap('B3E')">3</a> Arthur Gong            Qian Liang               A    NE    .     .     19.66  54.61          
+ <a href="javascript:recap('B4E')">4</a> Alexandra Deschenes    Avery Liang              C    1     1     1     18.16  50.44  0.24(A) 
+                                          Totals                          71.88       
+
+</pre>
+<table id="main_table">
+<caption style="display: none">Hands and Results</caption>
+<tr>
+<td class="board_analysis" id="board_results1">
+  <table class="board" id="board1">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">1</td>
+      <td class="north">
+      &spades;A2<br>
+      <span class="hs">&hearts;</span>AK<br>
+      <span class="ds">&diams;</span>AK82<br>
+      &clubs;AKT97<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: North</span><br><span class="nowrap">Vul: None</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;KQ84<br>
+      <span class="hs">&hearts;</span>T643<br>
+      <span class="ds">&diams;</span>QJ7<br>
+      &clubs;Q4<br>
+      </td>
+      <td class="east">
+      &spades;JT3<br>
+      <span class="hs">&hearts;</span>J97<br>
+      <span class="ds">&diams;</span>T96<br>
+      &clubs;J853<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;9765<br>
+      <span class="hs">&hearts;</span>Q852<br>
+      <span class="ds">&diams;</span>543<br>
+      &clubs;62<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>25</td><td></td></tr>
+         <tr><td>10</td><td></td><td>3</td></tr>
+         <tr><td></td><td>2</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;4&clubs;&nbsp;4<span class="hs">&diams;</span>&nbsp;2<span class="hs">&hearts;</span>&nbsp;3&spades;&nbsp;3NT</td></tr>
+        <tr><td>EW:&nbsp;<span class="ddfail"> &clubs;3 &diams;3 &hearts;4 &spades;4 NT4</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 14 - 14 = 0<br>Par: +400 3NT-NS</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sA2hAKdAK82cAKT97&s=s9765hQ852d543c62&e=sJT3hJ97dT96cJ853&w=sKQ84hT643dQJ7cQ4&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('1','KQ84.T643.QJ7.Q4','A2.AK.AK82.AKT97','JT3.J97.T96.J853','9765.Q852.543.62')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results1">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+  430          3.00   0.00  3N N 4    4-Zou-Clouse vs 4-Deschenes-Liang
+  400          1.50   1.50  3N N 3    1-Su-Yao vs 1-Deschenes-Deschenes
+  400          1.50   1.50  3N N 3    2-Wang-Clouse vs 3-Gong-Liang
+  120          0.00   3.00  2N N 2    3-Ma-Chen vs 2-Chen-Clouse
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results2">
+  <table class="board" id="board2">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">2</td>
+      <td class="north">
+      &spades;852<br>
+      <span class="hs">&hearts;</span>KJT4<br>
+      <span class="ds">&diams;</span>76<br>
+      &clubs;KQT2<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: East</span><br><span class="nowrap">Vul: N-S</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;Q74<br>
+      <span class="hs">&hearts;</span>A832<br>
+      <span class="ds">&diams;</span>AT432<br>
+      &clubs;9<br>
+      </td>
+      <td class="east">
+      &spades;AJ93<br>
+      <span class="hs">&hearts;</span>Q65<br>
+      <span class="ds">&diams;</span>Q85<br>
+      &clubs;J65<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;KT6<br>
+      <span class="hs">&hearts;</span>97<br>
+      <span class="ds">&diams;</span>KJ9<br>
+      &clubs;A8743<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>9</td><td></td></tr>
+         <tr><td>10</td><td></td><td>10</td></tr>
+         <tr><td></td><td>11</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;3&clubs;&nbsp;1NT&nbsp;<span class="ddfail"> &diams;4 &hearts;5 &spades;5</span></td></tr>
+        <tr><td>EW:&nbsp;2/3<span class="hs">&diams;</span>&nbsp;1<span class="hs">&hearts;</span>&nbsp;1/2&spades;&nbsp;<span class="ddfail"> &clubs;4 NT6</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 18 - 17 = +1<br>Par: -110 3<span class="ds">&diams;</span>-W</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s852hKJT4d76cKQT2&s=sKT6h97dKJ9cA8743&e=sAJ93hQ65dQ85cJ65&w=sQ74hA832dAT432c9&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('2','Q74.A832.AT432.9','852.KJT4.76.KQT2','AJ93.Q65.Q85.J65','KT6.97.KJ9.A8743')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results2">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+    PASS       2.00   1.00  Pass Out  1-Su-Yao vs 1-Deschenes-Deschenes
+    PASS       2.00   1.00  Pass Out  2-Wang-Clouse vs 3-Gong-Liang
+    PASS       2.00   1.00  Pass Out  4-Zou-Clouse vs 4-Deschenes-Liang
+        140    0.00   3.00  2&spades; E 3    3-Ma-Chen vs 2-Chen-Clouse
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results3">
+  <table class="board" id="board3">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">3</td>
+      <td class="north">
+      &spades;KJ63<br>
+      <span class="hs">&hearts;</span>T8<br>
+      <span class="ds">&diams;</span>Q965<br>
+      &clubs;Q62<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: South</span><br><span class="nowrap">Vul: E-W</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;T82<br>
+      <span class="hs">&hearts;</span>AJ3<br>
+      <span class="ds">&diams;</span>K87<br>
+      &clubs;T853<br>
+      </td>
+      <td class="east">
+      &spades;A97<br>
+      <span class="hs">&hearts;</span>62<br>
+      <span class="ds">&diams;</span>AJT4<br>
+      &clubs;J974<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;Q54<br>
+      <span class="hs">&hearts;</span>KQ9754<br>
+      <span class="ds">&diams;</span>32<br>
+      &clubs;AK<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>8</td><td></td></tr>
+         <tr><td>8</td><td></td><td>10</td></tr>
+         <tr><td></td><td>14</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;2<span class="hs">&hearts;</span>&nbsp;1&spades;&nbsp;<span class="ddfail"> &clubs;5 &diams;6 NT6</span></td></tr>
+        <tr><td>EW:&nbsp;1&clubs;&nbsp;1<span class="hs">&diams;</span>&nbsp;1NT&nbsp;<span class="ddfail"> &hearts;5 &spades;6</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 15 - 16 = -1<br>Par: +110 2<span class="hs">&hearts;</span>-NS</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJ63hT8dQ965cQ62&s=sQ54hKQ9754d32cAK&e=sA97h62dAJT4cJ974&w=sT82hAJ3dK87cT853&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('3','T82.AJ3.K87.T853','KJ63.T8.Q965.Q62','A97.62.AJT4.J974','Q54.KQ9754.32.AK')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results3">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+  140          2.17   0.83  2<span class="hs">&hearts;</span> S 3    1-Su-Yao vs 1-Deschenes-Deschenes
+  140          2.17   0.83  2<span class="hs">&hearts;</span> S 3    4-Zou-Clouse vs 4-Deschenes-Liang
+         50    0.17   2.83  2N N -1   2-Wang-Clouse vs 3-Gong-Liang
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results4">
+  <table class="board" id="board4">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">4</td>
+      <td class="north">
+      &spades;43<br>
+      <span class="hs">&hearts;</span>J64<br>
+      <span class="ds">&diams;</span>AK8<br>
+      &clubs;QT984<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: West</span><br><span class="nowrap">Vul: Both</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;AQ<br>
+      <span class="hs">&hearts;</span>72<br>
+      <span class="ds">&diams;</span>97532<br>
+      &clubs;J532<br>
+      </td>
+      <td class="east">
+      &spades;JT972<br>
+      <span class="hs">&hearts;</span>AKT5<br>
+      <span class="ds">&diams;</span>T<br>
+      &clubs;AK7<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;K865<br>
+      <span class="hs">&hearts;</span>Q983<br>
+      <span class="ds">&diams;</span>QJ64<br>
+      &clubs;6<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>10</td><td></td></tr>
+         <tr><td>7</td><td></td><td>15</td></tr>
+         <tr><td></td><td>8</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;4 &diams;5 &hearts;6 &spades;4 NT5</span></td></tr>
+        <tr><td>EW:&nbsp;2&clubs;&nbsp;1<span class="hs">&diams;</span>&nbsp;1<span class="hs">&hearts;</span>&nbsp;2/3&spades;&nbsp;2NT</td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 15 - 14 = +1<br>Par: -140 3&spades;-W</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s43hJ64dAK8cQT984&s=sK865hQ983dQJ64c6&e=sJT972hAKT5dTcAK7&w=sAQh72d97532cJ532&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('4','AQ.72.97532.J532','43.J64.AK8.QT984','JT972.AKT5.T.AK7','K865.Q983.QJ64.6')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results4">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+        110    3.00   0.00  2&spades; E 2    3-Ma-Chen vs 1-Deschenes-Deschenes
+        120    2.00   1.00  1N E 2    1-Su-Yao vs 4-Deschenes-Liang
+        140    1.00   2.00  1&spades; E 3    4-Zou-Clouse vs 3-Gong-Liang
+        150    0.00   3.00  1N W 3    2-Wang-Clouse vs 2-Chen-Clouse
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results5">
+  <table class="board" id="board5">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">5</td>
+      <td class="north">
+      &spades;A<br>
+      <span class="hs">&hearts;</span>96543<br>
+      <span class="ds">&diams;</span>JT974<br>
+      &clubs;A8<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: North</span><br><span class="nowrap">Vul: N-S</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;K75<br>
+      <span class="hs">&hearts;</span>AKQ7<br>
+      <span class="ds">&diams;</span>865<br>
+      &clubs;943<br>
+      </td>
+      <td class="east">
+      &spades;T94<br>
+      <span class="hs">&hearts;</span>J2<br>
+      <span class="ds">&diams;</span>K2<br>
+      &clubs;KQJ652<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;QJ8632<br>
+      <span class="hs">&hearts;</span>T8<br>
+      <span class="ds">&diams;</span>AQ3<br>
+      &clubs;T7<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>9</td><td></td></tr>
+         <tr><td>12</td><td></td><td>10</td></tr>
+         <tr><td></td><td>9</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;2<span class="hs">&diams;</span>&nbsp;2<span class="hs">&hearts;</span>&nbsp;2&spades;&nbsp;1NT&nbsp;<span class="ddfail"> &clubs;5</span></td></tr>
+        <tr><td>EW:&nbsp;1&clubs;&nbsp;<span class="ddfail"> &diams;2 &hearts;5 &spades;3 NT5</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 15 - 17 = -2<br>Par: +110 2&spades;-NS/2<span class="hs">&hearts;</span>-NS</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sAh96543dJT974cA8&s=sQJ8632hT8dAQ3cT7&e=sT94hJ2dK2cKQJ652&w=sK75hAKQ7d865c943&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('5','K75.AKQ7.865.943','A.96543.JT974.A8','T94.J2.K2.KQJ652','QJ8632.T8.AQ3.T7')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results5">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+  140          3.00   0.00  2&spades; S 3    2-Wang-Clouse vs 2-Chen-Clouse
+  100          1.50   1.50  3&clubs; E -2   1-Su-Yao vs 4-Deschenes-Liang
+  100          1.50   1.50  3&clubs; E -2   4-Zou-Clouse vs 3-Gong-Liang
+        130    0.00   3.00  4&clubs; W 4    3-Ma-Chen vs 1-Deschenes-Deschenes
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results6">
+  <table class="board" id="board6">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">6</td>
+      <td class="north">
+      &spades;KT973<br>
+      <span class="hs">&hearts;</span>AJT54<br>
+      <span class="ds">&diams;</span>Q3<br>
+      &clubs;9<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: East</span><br><span class="nowrap">Vul: E-W</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;AJ5<br>
+      <span class="hs">&hearts;</span>K7<br>
+      <span class="ds">&diams;</span>AJ76<br>
+      &clubs;AJ53<br>
+      </td>
+      <td class="east">
+      &spades;84<br>
+      <span class="hs">&hearts;</span>Q9<br>
+      <span class="ds">&diams;</span>KT842<br>
+      &clubs;T872<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;Q62<br>
+      <span class="hs">&hearts;</span>8632<br>
+      <span class="ds">&diams;</span>95<br>
+      &clubs;KQ64<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>10</td><td></td></tr>
+         <tr><td>18</td><td></td><td>5</td></tr>
+         <tr><td></td><td>7</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;2<span class="hs">&hearts;</span>&nbsp;2&spades;&nbsp;<span class="ddfail"> &clubs;3 &diams;3 NT4</span></td></tr>
+        <tr><td>EW:&nbsp;4&clubs;&nbsp;4<span class="hs">&diams;</span>&nbsp;2NT&nbsp;<span class="ddfail"> &hearts;5 &spades;5</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 18 - 18 = 0<br>Par: -130 4<span class="ds">&diams;</span>-EW/4&clubs;-EW</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT973hAJT54dQ3c9&s=sQ62h8632d95cKQ64&e=s84hQ9dKT842cT872&w=sAJ5hK7dAJ76cAJ53&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('6','AJ5.K7.AJ76.AJ53','KT973.AJT54.Q3.9','84.Q9.KT842.T872','Q62.8632.95.KQ64')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results6">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+  200          3.00   0.00  5<span class="ds">&diams;</span> W -2   4-Zou-Clouse vs 3-Gong-Liang
+         50    1.50   1.50  4<span class="hs">&hearts;</span> S -1   1-Su-Yao vs 4-Deschenes-Liang
+         50    1.50   1.50  2<span class="hs">&hearts;</span> N -1   2-Wang-Clouse vs 2-Chen-Clouse
+        630    0.00   3.00  3N W 4    3-Ma-Chen vs 1-Deschenes-Deschenes
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results7">
+  <table class="board" id="board7">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">7</td>
+      <td class="north">
+      &spades;Q9<br>
+      <span class="hs">&hearts;</span>A98652<br>
+      <span class="ds">&diams;</span>4<br>
+      &clubs;Q743<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: South</span><br><span class="nowrap">Vul: Both</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;T754<br>
+      <span class="hs">&hearts;</span>QT7<br>
+      <span class="ds">&diams;</span>952<br>
+      &clubs;986<br>
+      </td>
+      <td class="east">
+      &spades;J862<br>
+      <span class="hs">&hearts;</span>KJ<br>
+      <span class="ds">&diams;</span>Q873<br>
+      &clubs;AJ2<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;AK3<br>
+      <span class="hs">&hearts;</span>43<br>
+      <span class="ds">&diams;</span>AKJT6<br>
+      &clubs;KT5<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>8</td><td></td></tr>
+         <tr><td>2</td><td></td><td>12</td></tr>
+         <tr><td></td><td>18</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;5&clubs;&nbsp;4<span class="hs">&diams;</span>&nbsp;4<span class="hs">&hearts;</span>&nbsp;3&spades;&nbsp;4NT</td></tr>
+        <tr><td>EW:&nbsp;<span class="ddfail"> &clubs;2 &diams;3/2 &hearts;3 &spades;4 NT3</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 14 - 16 = -2<br>Par: +630 4NT-NS</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ9hA98652d4cQ743&s=sAK3h43dAKJT6cKT5&e=sJ862hKJdQ873cAJ2&w=sT754hQT7d952c986&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('7','T754.QT7.952.986','Q9.A98652.4.Q743','J862.KJ.Q873.AJ2','AK3.43.AKJT6.KT5')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results7">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+  630          3.00   0.00  3N S 4    1-Su-Yao vs 3-Gong-Liang
+  620          1.50   1.50  4<span class="hs">&hearts;</span> N 4    3-Ma-Chen vs 4-Deschenes-Liang
+  620          1.50   1.50  4<span class="hs">&hearts;</span> N 4    4-Zou-Clouse vs 2-Chen-Clouse
+  180          0.00   3.00  1N S 4    2-Wang-Clouse vs 1-Deschenes-Deschenes
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results8">
+  <table class="board" id="board8">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">8</td>
+      <td class="north">
+      &spades;Q5<br>
+      <span class="hs">&hearts;</span>AKJT96<br>
+      <span class="ds">&diams;</span>A62<br>
+      &clubs;75<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: West</span><br><span class="nowrap">Vul: None</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;A7432<br>
+      <span class="hs">&hearts;</span>5<br>
+      <span class="ds">&diams;</span>94<br>
+      &clubs;AK862<br>
+      </td>
+      <td class="east">
+      &spades;K86<br>
+      <span class="hs">&hearts;</span>Q32<br>
+      <span class="ds">&diams;</span>KJ5<br>
+      &clubs;QT43<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;JT9<br>
+      <span class="hs">&hearts;</span>874<br>
+      <span class="ds">&diams;</span>QT873<br>
+      &clubs;J9<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>14</td><td></td></tr>
+         <tr><td>11</td><td></td><td>11</td></tr>
+         <tr><td></td><td>4</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;1<span class="hs">&diams;</span>&nbsp;1<span class="hs">&hearts;</span>&nbsp;<span class="ddfail"> &clubs;3 &spades;3 NT4</span></td></tr>
+        <tr><td>EW:&nbsp;4&clubs;&nbsp;4&spades;&nbsp;2NT&nbsp;<span class="ddfail"> &diams;6 &hearts;6</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 17 - 18 = -1<br>Par: -420 4&spades;-EW</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ5hAKJT96dA62c75&s=sJT9h874dQT873cJ9&e=sK86hQ32dKJ5cQT43&w=sA7432h5d94cAK862&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('8','A7432.5.94.AK862','Q5.AKJT96.A62.75','K86.Q32.KJ5.QT43','JT9.874.QT873.J9')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results8">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+   80          3.00   0.00  1<span class="hs">&hearts;</span> N 1    4-Zou-Clouse vs 2-Chen-Clouse
+        150    2.00   1.00  2N E 3    2-Wang-Clouse vs 1-Deschenes-Deschenes
+        170    0.50   2.50  3&spades; W 4    1-Su-Yao vs 3-Gong-Liang
+        170    0.50   2.50  2&spades; W 4    3-Ma-Chen vs 4-Deschenes-Liang
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results9">
+  <table class="board" id="board9">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">9</td>
+      <td class="north">
+      &spades;98543<br>
+      <span class="hs">&hearts;</span>T43<br>
+      <span class="ds">&diams;</span>J6<br>
+      &clubs;KQ7<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: North</span><br><span class="nowrap">Vul: E-W</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;QJ2<br>
+      <span class="hs">&hearts;</span>KQJ<br>
+      <span class="ds">&diams;</span>AQT92<br>
+      &clubs;96<br>
+      </td>
+      <td class="east">
+      &spades;76<br>
+      <span class="hs">&hearts;</span>87<br>
+      <span class="ds">&diams;</span>854<br>
+      &clubs;J85432<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;AKT<br>
+      <span class="hs">&hearts;</span>A9652<br>
+      <span class="ds">&diams;</span>K73<br>
+      &clubs;AT<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>6</td><td></td></tr>
+         <tr><td>15</td><td></td><td>1</td></tr>
+         <tr><td></td><td>18</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;3<span class="hs">&hearts;</span>&nbsp;2/3&spades;&nbsp;2NT&nbsp;<span class="ddfail"> &clubs;6 &diams;6</span></td></tr>
+        <tr><td>EW:&nbsp;1&clubs;&nbsp;1<span class="hs">&diams;</span>&nbsp;<span class="ddfail"> &hearts;4 &spades;4 NT4</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 16 - 16 = 0<br>Par: +140 3&spades;-S/3<span class="hs">&hearts;</span>-NS</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=s98543hT43dJ6cKQ7&s=sAKThA9652dK73cAT&e=s76h87d854cJ85432&w=sQJ2hKQJdAQT92c96&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('9','QJ2.KQJ.AQT92.96','98543.T43.J6.KQ7','76.87.854.J85432','AKT.A9652.K73.AT')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results9">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+  690          3.00   0.00  4<span class="hs">&hearts;</span>* S 5   1-Su-Yao vs 3-Gong-Liang
+  110          2.00   1.00  2<span class="hs">&hearts;</span> S 2    4-Zou-Clouse vs 2-Chen-Clouse
+         50    1.00   2.00  4<span class="hs">&hearts;</span> S -1   2-Wang-Clouse vs 1-Deschenes-Deschenes
+        120    0.00   3.00  1N W 2    3-Ma-Chen vs 4-Deschenes-Liang
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results10">
+  <table class="board" id="board10">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">10</td>
+      <td class="north">
+      &spades;Q432<br>
+      <span class="hs">&hearts;</span>85<br>
+      <span class="ds">&diams;</span>T7<br>
+      &clubs;AQT73<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: East</span><br><span class="nowrap">Vul: Both</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;AK95<br>
+      <span class="hs">&hearts;</span>A973<br>
+      <span class="ds">&diams;</span>KQ983<br>
+      &clubs;-<br>
+      </td>
+      <td class="east">
+      &spades;T876<br>
+      <span class="hs">&hearts;</span>QJT6<br>
+      <span class="ds">&diams;</span>6<br>
+      &clubs;KJ94<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;J<br>
+      <span class="hs">&hearts;</span>K42<br>
+      <span class="ds">&diams;</span>AJ542<br>
+      &clubs;8652<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>8</td><td></td></tr>
+         <tr><td>16</td><td></td><td>7</td></tr>
+         <tr><td></td><td>9</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;<span class="ddfail"> &clubs;6 &diams;5 &hearts;3 &spades;2/3 NT4</span></td></tr>
+        <tr><td>EW:&nbsp;1&clubs;&nbsp;2<span class="hs">&diams;</span>&nbsp;4<span class="hs">&hearts;</span>&nbsp;4&spades;&nbsp;3NT</td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 16 - 17 = -1<br>Par: -620 4&spades;-EW/4<span class="hs">&hearts;</span>-EW</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sQ432h85dT7cAQT73&s=sJhK42dAJ542c8652&e=sT876hQJT6d6cKJ94&w=sAK95hA973dKQ983&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('10','AK95.A973.KQ983.','Q432.85.T7.AQT73','T876.QJT6.6.KJ94','J.K42.AJ542.8652')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results10">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+        110    2.50   0.50  2<span class="hs">&hearts;</span> E 2    1-Su-Yao vs 2-Chen-Clouse
+        110    2.50   0.50  2<span class="hs">&hearts;</span> E 2    4-Zou-Clouse vs 1-Deschenes-Deschenes
+        170    1.00   2.00  3&spades; E 4    2-Wang-Clouse vs 4-Deschenes-Liang
+        650    0.00   3.00  4<span class="hs">&hearts;</span> E 5    3-Ma-Chen vs 3-Gong-Liang
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results11">
+  <table class="board" id="board11">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">11</td>
+      <td class="north">
+      &spades;KT765<br>
+      <span class="hs">&hearts;</span>65<br>
+      <span class="ds">&diams;</span>Q762<br>
+      &clubs;Q2<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: South</span><br><span class="nowrap">Vul: None</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;A843<br>
+      <span class="hs">&hearts;</span>3<br>
+      <span class="ds">&diams;</span>A95<br>
+      &clubs;A9543<br>
+      </td>
+      <td class="east">
+      &spades;J92<br>
+      <span class="hs">&hearts;</span>KQT9<br>
+      <span class="ds">&diams;</span>T8<br>
+      &clubs;KJT8<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;Q<br>
+      <span class="hs">&hearts;</span>AJ8742<br>
+      <span class="ds">&diams;</span>KJ43<br>
+      &clubs;76<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>7</td><td></td></tr>
+         <tr><td>12</td><td></td><td>10</td></tr>
+         <tr><td></td><td>11</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;1<span class="hs">&diams;</span>&nbsp;<span class="ddfail"> &clubs;2 &hearts;6 &spades;5 NT5</span></td></tr>
+        <tr><td>EW:&nbsp;4&clubs;&nbsp;1/-<span class="hs">&hearts;</span>&nbsp;1&spades;&nbsp;2NT<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="ddfail"> &diams;6/5 &hearts;7/6</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 17 - 17 = 0<br>Par: -130 4&clubs;-EW</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKT765h65dQ762cQ2&s=sQhAJ8742dKJ43c76&e=sJ92hKQT9dT8cKJT8&w=sA843h3dA95cA9543&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('11','A843.3.A95.A9543','KT765.65.Q762.Q2','J92.KQT9.T8.KJT8','Q.AJ8742.KJ43.76')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results11">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+        100    3.00   0.00  2&spades; N -2   4-Zou-Clouse vs 1-Deschenes-Deschenes
+        110    2.00   1.00  3&clubs; E 3    1-Su-Yao vs 2-Chen-Clouse
+        180    0.50   2.50  2N E 4    2-Wang-Clouse vs 4-Deschenes-Liang
+        180    0.50   2.50  1N E 4    3-Ma-Chen vs 3-Gong-Liang
+</pre>
+</td>
+</tr>
+
+<tr>
+<td class="board_analysis" id="board_results12">
+  <table class="board" id="board12">
+  <tr><td>
+    <table class="board_top"><tr>
+      <td class="boardnum">12</td>
+      <td class="north">
+      &spades;KJT2<br>
+      <span class="hs">&hearts;</span>A97<br>
+      <span class="ds">&diams;</span>KT83<br>
+      &clubs;52<br>
+      </td>
+      <td class="dlrvul"><span class="nowrap">Dlr: West</span><br><span class="nowrap">Vul: N-S</span></td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_middle"><tr>
+      <td class="west">
+      &spades;9643<br>
+      <span class="hs">&hearts;</span>32<br>
+      <span class="ds">&diams;</span>J762<br>
+      &clubs;QJ7<br>
+      </td>
+      <td class="east">
+      &spades;A75<br>
+      <span class="hs">&hearts;</span>KQJT4<br>
+      <span class="ds">&diams;</span>54<br>
+      &clubs;AK3<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  <tr><td>
+    <table class="board_bottom"><tr>
+      <td class="south">
+      &spades;Q8<br>
+      <span class="hs">&hearts;</span>865<br>
+      <span class="ds">&diams;</span>AQ9<br>
+      &clubs;T9864<br>
+      </td>
+    </tr></table>
+  </td></tr>
+  </table>
+  <table class="hcp_makeable"><tr>
+    <td>
+      <table class="HCP">
+         <tr><td></td><td>11</td><td></td></tr>
+         <tr><td>4</td><td></td><td>17</td></tr>
+         <tr><td></td><td>8</td><td></td></tr>
+      </table>
+    </td>
+    <td>
+      <table class="DDmakes">
+        <tr><td><span class="ul">Double Dummy Makes</span></td></tr>
+        <tr><td>NS:&nbsp;2<span class="hs">&diams;</span>&nbsp;<span class="ddfail"> &clubs;6 &hearts;5 &spades;6 NT5</span></td></tr>
+        <tr><td>EW:&nbsp;2<span class="hs">&hearts;</span>&nbsp;<span class="ddfail"> &clubs;5 &diams;4 &spades;5 NT5</span></td></tr>
+      </table>
+    </td>
+  </tr></table>
+  <table class="lott_par_copyaids"><tr>
+    <td>LoTT: 16 - 14 = +2<br>Par: -110 2<span class="hs">&hearts;</span>-EW</td>
+<p>Play hand:  N: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=n&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=n&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=n&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=n&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=n&a=1cppp'>&clubs;</a>  S: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=s&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=s&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=s&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=s&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=s&a=1cppp'>&clubs;</a>  E: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=e&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=e&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=e&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=e&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=e&a=1cppp'>&clubs;</a>  W: <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=w&a=1nppp'>NT</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=w&a=1sppp'>&spades;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=w&a=1hppp'>&hearts;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=w&a=1dppp'>&diams;</a> <a href='http://www.bridgebase.com/tools/handviewer.html?n=sKJT2hA97dKT83c52&s=sQ8h865dAQ9cT9864&e=sA75hKQJT4d54cAK3&w=s9643h32dJ762cQJ7&d=w&a=1cppp'>&clubs;</a>  </p>    <td><input type="button" value="C" onclick="javascript:c1('12','9643.32.J762.QJ7','KJT2.A97.KT83.52','A75.KQJT4.54.AK3','Q8.865.AQ9.T9864')"></td>
+  </tr></table>
+</td>
+<td class="results" id="results12">
+<pre>
+  N-S   E-W    N-S    E-W   Contract
+        110    2.17   0.83  1<span class="hs">&hearts;</span> E 2    2-Wang-Clouse vs 4-Deschenes-Liang
+        110    2.17   0.83  1<span class="hs">&hearts;</span> E 2    4-Zou-Clouse vs 1-Deschenes-Deschenes
+        140    0.17   2.83  1<span class="hs">&hearts;</span> E 3    3-Ma-Chen vs 3-Gong-Liang
+</pre>
+</td>
+</tr>
+
+</table>
+</div></body>
+</html>
