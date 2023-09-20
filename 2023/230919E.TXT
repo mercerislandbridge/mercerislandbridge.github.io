@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 19, 2023 |CLUB NO.>158048    | 09/19/2023 21:54
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aatron     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/5000/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=11/C=5                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 Dex Stuberg            Cliff Marx               C    .     .     .     53.50  44.58          
+
+ 3 Adam Ruprecht          Christopher Jarvis       C    1     1     1     73.00  60.83  1.30(A) 
+
+ 4 Galen Hesson           Nick Tipton              B    .     .     .     61.00  50.83          
+
+ 5 Mike Ring              Shawn Abernethy          B    2     2     .     71.00  59.17  0.91(A) 
+
+ 6 Brian Zaugg            David Wright             B    .     .     .     51.00  42.50          
+
+ 7 Aaron Mohrman          Stanford Christie        A    .     .     .     58.00  48.33          
+
+ 8 Genie Thai-May         Changtiaorap Lanchew     C    .     .     .     40.00  33.33          
+
+ 9 Mike Christensen       Becky Stevens            B    4     4     .     67.50  56.25  0.46(A) 
+
+10 Craig Mills            Lisa Brock               C    .     .     .     53.00  44.17          
+
+11 Kim Eng                Jeffrey Ford             A    5     .     .     66.00  55.00  0.26(A) 
+
+12 Gloria Gottesman       James Gottesman          C    .     .     2     56.00  46.67  0.28(C) 
+
+13 Chris Moore            Eric Sieg                B    3     3     .     69.50  57.92  0.65(A) 
+
+14 David Binney           Sue Anderson             B    .     .     .     60.50  50.42          
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          5.00   0.00 2-Stuberg-Marx vs 6-Zaugg-Wright
+        100    0.00   5.00 4-Hesson-Tipton vs 9-Christensen-Stevens
+  400          3.00   2.00 5-Ring-Abernethy vs 12-Gottesman-Gottesman
+  400          3.00   2.00 7-Mohrman-Christie vs 8-Thai-May-Lanchew
+  150          1.00   4.00 13-Moore-Sieg vs 10-Mills-Brock
+  400          3.00   2.00 14-Binney-Anderson vs 11-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.00   5.00 2-Stuberg-Marx vs 6-Zaugg-Wright
+   50          4.00   1.00 4-Hesson-Tipton vs 9-Christensen-Stevens
+   90          5.00   0.00 5-Ring-Abernethy vs 12-Gottesman-Gottesman
+         90    2.50   2.50 7-Mohrman-Christie vs 8-Thai-May-Lanchew
+         90    2.50   2.50 13-Moore-Sieg vs 10-Mills-Brock
+        100    1.00   4.00 14-Binney-Anderson vs 11-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   2.50 2-Stuberg-Marx vs 4-Hesson-Tipton
+  110          2.50   2.50 3-Ruprecht-Jarvis vs 7-Mohrman-Christie
+  150          4.00   1.00 5-Ring-Abernethy vs 10-Mills-Brock
+  200          5.00   0.00 6-Zaugg-Wright vs 13-Moore-Sieg
+         50    0.00   5.00 8-Thai-May-Lanchew vs 9-Christensen-Stevens
+    PASS       1.00   4.00 14-Binney-Anderson vs 12-Gottesman-Gottesman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   2.50 2-Stuberg-Marx vs 4-Hesson-Tipton
+        110    2.50   2.50 3-Ruprecht-Jarvis vs 7-Mohrman-Christie
+  100          4.50   0.50 5-Ring-Abernethy vs 10-Mills-Brock
+        800    0.00   5.00 6-Zaugg-Wright vs 13-Moore-Sieg
+        400    1.00   4.00 8-Thai-May-Lanchew vs 9-Christensen-Stevens
+  100          4.50   0.50 14-Binney-Anderson vs 12-Gottesman-Gottesman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   4.00 2-Stuberg-Marx vs 12-Gottesman-Gottesman
+   50          2.00   3.00 3-Ruprecht-Jarvis vs 5-Ring-Abernethy
+  150          4.50   0.50 4-Hesson-Tipton vs 8-Thai-May-Lanchew
+        150    0.00   5.00 6-Zaugg-Wright vs 11-Eng-Ford
+  150          4.50   0.50 9-Christensen-Stevens vs 10-Mills-Brock
+  100          3.00   2.00 14-Binney-Anderson vs 13-Moore-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   0.00 2-Stuberg-Marx vs 12-Gottesman-Gottesman
+  100          4.00   1.00 3-Ruprecht-Jarvis vs 5-Ring-Abernethy
+        110    2.50   2.50 4-Hesson-Tipton vs 8-Thai-May-Lanchew
+        110    2.50   2.50 6-Zaugg-Wright vs 11-Eng-Ford
+        130    0.50   4.50 9-Christensen-Stevens vs 10-Mills-Brock
+        130    0.50   4.50 14-Binney-Anderson vs 13-Moore-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.50   2.50 3-Ruprecht-Jarvis vs 13-Moore-Sieg
+  620          2.50   2.50 4-Hesson-Tipton vs 6-Zaugg-Wright
+  620          2.50   2.50 5-Ring-Abernethy vs 9-Christensen-Stevens
+  620          2.50   2.50 7-Mohrman-Christie vs 12-Gottesman-Gottesman
+  620          2.50   2.50 8-Thai-May-Lanchew vs 2-Stuberg-Marx
+  620          2.50   2.50 10-Mills-Brock vs 11-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.00   5.00 3-Ruprecht-Jarvis vs 13-Moore-Sieg
+   50          5.00   0.00 4-Hesson-Tipton vs 6-Zaugg-Wright
+        140    3.00   2.00 5-Ring-Abernethy vs 9-Christensen-Stevens
+        170    2.00   3.00 7-Mohrman-Christie vs 12-Gottesman-Gottesman
+         50    4.00   1.00 8-Thai-May-Lanchew vs 2-Stuberg-Marx
+        300    1.00   4.00 10-Mills-Brock vs 11-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   2.00 5-Ring-Abernethy vs 7-Mohrman-Christie
+         50    1.00   4.00 6-Zaugg-Wright vs 10-Mills-Brock
+        100    0.00   5.00 8-Thai-May-Lanchew vs 13-Moore-Sieg
+  170          5.00   0.00 9-Christensen-Stevens vs 3-Ruprecht-Jarvis
+  140          3.00   2.00 11-Eng-Ford vs 12-Gottesman-Gottesman
+  140          3.00   2.00 14-Binney-Anderson vs 2-Stuberg-Marx
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 5-Ring-Abernethy vs 7-Mohrman-Christie
+  100          4.00   1.00 6-Zaugg-Wright vs 10-Mills-Brock
+        620    0.50   4.50 8-Thai-May-Lanchew vs 13-Moore-Sieg
+        620    0.50   4.50 9-Christensen-Stevens vs 3-Ruprecht-Jarvis
+  100          4.00   1.00 11-Eng-Ford vs 12-Gottesman-Gottesman
+        170    2.00   3.00 14-Binney-Anderson vs 2-Stuberg-Marx
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   2.00 5-Ring-Abernethy vs 2-Stuberg-Marx
+  100          5.00   0.00 6-Zaugg-Wright vs 8-Thai-May-Lanchew
+        180    1.00   4.00 7-Mohrman-Christie vs 11-Eng-Ford
+        300    0.00   5.00 10-Mills-Brock vs 4-Hesson-Tipton
+   50          4.00   1.00 12-Gottesman-Gottesman vs 13-Moore-Sieg
+        150    2.00   3.00 14-Binney-Anderson vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          5.00   0.00 5-Ring-Abernethy vs 2-Stuberg-Marx
+  100          4.00   1.00 6-Zaugg-Wright vs 8-Thai-May-Lanchew
+        120    1.00   4.00 7-Mohrman-Christie vs 11-Eng-Ford
+        110    2.50   2.50 10-Mills-Brock vs 4-Hesson-Tipton
+        110    2.50   2.50 12-Gottesman-Gottesman vs 13-Moore-Sieg
+        140    0.00   5.00 14-Binney-Anderson vs 3-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   1.00 6-Zaugg-Wright vs 3-Ruprecht-Jarvis
+  170          4.00   1.00 7-Mohrman-Christie vs 9-Christensen-Stevens
+  140          1.00   4.00 8-Thai-May-Lanchew vs 12-Gottesman-Gottesman
+  140          1.00   4.00 10-Mills-Brock vs 2-Stuberg-Marx
+  170          4.00   1.00 11-Eng-Ford vs 5-Ring-Abernethy
+  140          1.00   4.00 14-Binney-Anderson vs 4-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 6-Zaugg-Wright vs 3-Ruprecht-Jarvis
+         50    2.50   2.50 7-Mohrman-Christie vs 9-Christensen-Stevens
+         50    2.50   2.50 8-Thai-May-Lanchew vs 12-Gottesman-Gottesman
+         50    2.50   2.50 10-Mills-Brock vs 2-Stuberg-Marx
+         50    2.50   2.50 11-Eng-Ford vs 5-Ring-Abernethy
+  140          5.00   0.00 14-Binney-Anderson vs 4-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   4.00 7-Mohrman-Christie vs 4-Hesson-Tipton
+        120    4.50   0.50 8-Thai-May-Lanchew vs 10-Mills-Brock
+        140    2.50   2.50 9-Christensen-Stevens vs 13-Moore-Sieg
+        170    0.00   5.00 11-Eng-Ford vs 3-Ruprecht-Jarvis
+        140    2.50   2.50 12-Gottesman-Gottesman vs 6-Zaugg-Wright
+        120    4.50   0.50 14-Binney-Anderson vs 5-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   1.00 7-Mohrman-Christie vs 4-Hesson-Tipton
+        150    0.00   5.00 8-Thai-May-Lanchew vs 10-Mills-Brock
+  420          4.00   1.00 9-Christensen-Stevens vs 13-Moore-Sieg
+         50    1.00   4.00 11-Eng-Ford vs 3-Ruprecht-Jarvis
+  420          4.00   1.00 12-Gottesman-Gottesman vs 6-Zaugg-Wright
+  140          2.00   3.00 14-Binney-Anderson vs 5-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          0.00   5.00 2-Stuberg-Marx vs 3-Ruprecht-Jarvis
+  460          3.50   1.50 8-Thai-May-Lanchew vs 5-Ring-Abernethy
+  460          3.50   1.50 9-Christensen-Stevens vs 11-Eng-Ford
+  420          1.00   4.00 12-Gottesman-Gottesman vs 4-Hesson-Tipton
+  460          3.50   1.50 13-Moore-Sieg vs 7-Mohrman-Christie
+  460          3.50   1.50 14-Binney-Anderson vs 6-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.50   1.50 2-Stuberg-Marx vs 3-Ruprecht-Jarvis
+        460    1.00   4.00 8-Thai-May-Lanchew vs 5-Ring-Abernethy
+        460    1.00   4.00 9-Christensen-Stevens vs 11-Eng-Ford
+        460    1.00   4.00 12-Gottesman-Gottesman vs 4-Hesson-Tipton
+        430    3.50   1.50 13-Moore-Sieg vs 7-Mohrman-Christie
+        400    5.00   0.00 14-Binney-Anderson vs 6-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          3.00   2.00 3-Ruprecht-Jarvis vs 4-Hesson-Tipton
+  510          3.00   2.00 9-Christensen-Stevens vs 6-Zaugg-Wright
+  510          3.00   2.00 10-Mills-Brock vs 12-Gottesman-Gottesman
+  510          3.00   2.00 11-Eng-Ford vs 2-Stuberg-Marx
+  480          0.00   5.00 13-Moore-Sieg vs 5-Ring-Abernethy
+  510          3.00   2.00 14-Binney-Anderson vs 7-Mohrman-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 3-Ruprecht-Jarvis vs 4-Hesson-Tipton
+   90          4.00   1.00 9-Christensen-Stevens vs 6-Zaugg-Wright
+         90    3.00   2.00 10-Mills-Brock vs 12-Gottesman-Gottesman
+        300    0.00   5.00 11-Eng-Ford vs 2-Stuberg-Marx
+        150    2.00   3.00 13-Moore-Sieg vs 5-Ring-Abernethy
+        200    1.00   4.00 14-Binney-Anderson vs 7-Mohrman-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   1.00 2-Stuberg-Marx vs 9-Christensen-Stevens
+        140    0.50   4.50 4-Hesson-Tipton vs 5-Ring-Abernethy
+   50          2.50   2.50 10-Mills-Brock vs 7-Mohrman-Christie
+        140    0.50   4.50 11-Eng-Ford vs 13-Moore-Sieg
+   50          2.50   2.50 12-Gottesman-Gottesman vs 3-Ruprecht-Jarvis
+  150          5.00   0.00 14-Binney-Anderson vs 8-Thai-May-Lanchew
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    0.00   5.00 2-Stuberg-Marx vs 9-Christensen-Stevens
+  100          5.00   0.00 4-Hesson-Tipton vs 5-Ring-Abernethy
+        150    2.00   3.00 10-Mills-Brock vs 7-Mohrman-Christie
+        150    2.00   3.00 11-Eng-Ford vs 13-Moore-Sieg
+        150    2.00   3.00 12-Gottesman-Gottesman vs 3-Ruprecht-Jarvis
+        120    4.00   1.00 14-Binney-Anderson vs 8-Thai-May-Lanchew
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   2.00 2-Stuberg-Marx vs 7-Mohrman-Christie
+        130    3.00   2.00 3-Ruprecht-Jarvis vs 10-Mills-Brock
+        660    0.00   5.00 5-Ring-Abernethy vs 6-Zaugg-Wright
+        130    3.00   2.00 11-Eng-Ford vs 8-Thai-May-Lanchew
+        110    5.00   0.00 13-Moore-Sieg vs 4-Hesson-Tipton
+        630    1.00   4.00 14-Binney-Anderson vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          0.00   5.00 2-Stuberg-Marx vs 7-Mohrman-Christie
+  450          4.00   1.00 3-Ruprecht-Jarvis vs 10-Mills-Brock
+  500          5.00   0.00 5-Ring-Abernethy vs 6-Zaugg-Wright
+  420          2.00   3.00 11-Eng-Ford vs 8-Thai-May-Lanchew
+  420          2.00   3.00 13-Moore-Sieg vs 4-Hesson-Tipton
+  420          2.00   3.00 14-Binney-Anderson vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          4.50   0.50 3-Ruprecht-Jarvis vs 8-Thai-May-Lanchew
+        100    0.00   5.00 4-Hesson-Tipton vs 11-Eng-Ford
+  430          4.50   0.50 6-Zaugg-Wright vs 7-Mohrman-Christie
+  200          2.00   3.00 12-Gottesman-Gottesman vs 9-Christensen-Stevens
+  400          3.00   2.00 13-Moore-Sieg vs 2-Stuberg-Marx
+         50    1.00   4.00 14-Binney-Anderson vs 10-Mills-Brock
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 3-Ruprecht-Jarvis vs 8-Thai-May-Lanchew
+   90          2.50   2.50 4-Hesson-Tipton vs 11-Eng-Ford
+        100    0.50   4.50 6-Zaugg-Wright vs 7-Mohrman-Christie
+  150          5.00   0.00 12-Gottesman-Gottesman vs 9-Christensen-Stevens
+  120          4.00   1.00 13-Moore-Sieg vs 2-Stuberg-Marx
+   90          2.50   2.50 14-Binney-Anderson vs 10-Mills-Brock
+----------------------------------------------------------------------
