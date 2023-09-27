@@ -1,19 +1,19 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 26, 2023 |CLUB NO.>158048    | 09/26/2023 21:55
+DATE>September 26, 2023 |CLUB NO.>158048    | 09/26/2023 21:57
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
 AVE>   60.0 |TOP>   5 |MP LIMITS>None/4000/2000 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=13/B=9/C=5                      ,---,-------------------------,------,---------,
+PAIRS IN STRAT A=13/B=10/C=6                     ,---,-------------------------,------,---------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1                                                 A    5     .     .     61.80  51.50  0.26(A) 
+ 1 Genie Thai-May         Changtiaorap Lanchew     C    5     3     2     61.80  51.50  0.40(B) 
 
- 2 Brad Rind              Susan Waggoner           C    .     4     .     57.70  48.08  0.25(B) 
+ 2 Brad Rind              Susan Waggoner           C    .     .     .     57.70  48.08          
 
  3 David Taylor           Sue Anderson             B    .     .     .     55.70  46.42          
 
@@ -21,7 +21,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  5 Kim Eng                Jeffrey Ford             A    4     .     .     68.10  56.75  0.46(A) 
 
- 6 Adam Ruprecht          Christopher Jarvis       C    .     3     2     58.60  48.83  0.36(B) 
+ 6 Adam Ruprecht          Christopher Jarvis       C    .     4     .     58.60  48.83  0.28(B) 
 
  7 Oyvind Tafjord         Shawn Abernethy          C    3     2     1     68.50  57.08  0.65(A) 
 
@@ -46,7 +46,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        170    4.90   0.10 1-- vs 3-Taylor-Anderson
+        170    4.90   0.10 1-Thai-May-Lanchew vs 3-Taylor-Anderson
         450    1.30   3.70 2-Rind-Waggoner vs 6-Ruprecht-Jarvis
         450    1.30   3.70 4-Romeo-Binney vs 9-Christensen-Wright
         200    3.70   1.30 5-Eng-Ford vs 12-Brown-Hudesman
@@ -58,7 +58,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        200    0.10   4.90 1-- vs 3-Taylor-Anderson
+        200    0.10   4.90 1-Thai-May-Lanchew vs 3-Taylor-Anderson
          90    1.30   3.70 2-Rind-Waggoner vs 6-Ruprecht-Jarvis
    50          2.50   2.50 4-Romeo-Binney vs 9-Christensen-Wright
   100          4.30   0.70 5-Eng-Ford vs 12-Brown-Hudesman
@@ -70,7 +70,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  480          2.00   3.00 1-- vs 11-Hendrickson-Davis
+  480          2.00   3.00 1-Thai-May-Lanchew vs 11-Hendrickson-Davis
   500          5.00   0.00 2-Rind-Waggoner vs 4-Romeo-Binney
   480          2.00   3.00 3-Taylor-Anderson vs 7-Tafjord-Abernethy
   480          2.00   3.00 5-Eng-Ford vs 10-Zaugg-Ring
@@ -82,7 +82,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        150    3.00   2.00 1-- vs 11-Hendrickson-Davis
+        150    3.00   2.00 1-Thai-May-Lanchew vs 11-Hendrickson-Davis
         600    1.50   3.50 2-Rind-Waggoner vs 4-Romeo-Binney
         630    0.00   5.00 3-Taylor-Anderson vs 7-Tafjord-Abernethy
   100          4.50   0.50 5-Eng-Ford vs 10-Zaugg-Ring
@@ -98,7 +98,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         400    0.50   4.50 3-Taylor-Anderson vs 5-Eng-Ford
         400    0.50   4.50 4-Romeo-Binney vs 8-Miller-Christie
   100          4.00   1.00 6-Ruprecht-Jarvis vs 11-Hendrickson-Davis
-  600          5.00   0.00 7-Tafjord-Abernethy vs 1--
+  600          5.00   0.00 7-Tafjord-Abernethy vs 1-Thai-May-Lanchew
         300    2.00   3.00 9-Christensen-Wright vs 10-Zaugg-Ring
 ----------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   100          1.00   4.00 3-Taylor-Anderson vs 5-Eng-Ford
   100          1.00   4.00 4-Romeo-Binney vs 8-Miller-Christie
   200          3.50   1.50 6-Ruprecht-Jarvis vs 11-Hendrickson-Davis
-  300          5.00   0.00 7-Tafjord-Abernethy vs 1--
+  300          5.00   0.00 7-Tafjord-Abernethy vs 1-Thai-May-Lanchew
   200          3.50   1.50 9-Christensen-Wright vs 10-Zaugg-Ring
 ----------------------------------------------------------------------
 
@@ -142,7 +142,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   90          0.00   5.00 4-Romeo-Binney vs 1--
+   90          0.00   5.00 4-Romeo-Binney vs 1-Thai-May-Lanchew
   200          5.00   0.00 5-Eng-Ford vs 7-Tafjord-Abernethy
   100          2.00   3.00 6-Ruprecht-Jarvis vs 10-Zaugg-Ring
   180          4.00   1.00 8-Miller-Christie vs 13-Tipton-Hesson
@@ -154,7 +154,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  140          3.00   2.00 4-Romeo-Binney vs 1--
+  140          3.00   2.00 4-Romeo-Binney vs 1-Thai-May-Lanchew
   200          4.50   0.50 5-Eng-Ford vs 7-Tafjord-Abernethy
         140    0.00   5.00 6-Ruprecht-Jarvis vs 10-Zaugg-Ring
   200          4.50   0.50 8-Miller-Christie vs 13-Tipton-Hesson
@@ -169,7 +169,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         110    1.30   3.70 5-Eng-Ford vs 2-Rind-Waggoner
         180    0.10   4.90 6-Ruprecht-Jarvis vs 8-Miller-Christie
   100          4.90   0.10 7-Tafjord-Abernethy vs 11-Hendrickson-Davis
-   50          3.70   1.30 9-Christensen-Wright vs 1--
+   50          3.70   1.30 9-Christensen-Wright vs 1-Thai-May-Lanchew
          50    2.50   2.50 10-Zaugg-Ring vs 4-Romeo-Binney
   AVE+  AVE-   3.00   2.00 12-Brown-Hudesman vs 13-Tipton-Hesson
 ----------------------------------------------------------------------
@@ -181,7 +181,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         100    1.30   3.70 5-Eng-Ford vs 2-Rind-Waggoner
    50          2.50   2.50 6-Ruprecht-Jarvis vs 8-Miller-Christie
         130    0.10   4.90 7-Tafjord-Abernethy vs 11-Hendrickson-Davis
-  110          3.70   1.30 9-Christensen-Wright vs 1--
+  110          3.70   1.30 9-Christensen-Wright vs 1-Thai-May-Lanchew
   150          4.90   0.10 10-Zaugg-Ring vs 4-Romeo-Binney
   AVE+  AVE-   3.00   2.00 12-Brown-Hudesman vs 13-Tipton-Hesson
 ----------------------------------------------------------------------
@@ -195,7 +195,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         200    2.50   2.50 8-Miller-Christie vs 12-Brown-Hudesman
         620    0.70   4.30 10-Zaugg-Ring vs 2-Rind-Waggoner
         620    0.70   4.30 11-Hendrickson-Davis vs 5-Eng-Ford
-  AVE-  AVE+   2.00   3.00 13-Tipton-Hesson vs 1--
+  AVE-  AVE+   2.00   3.00 13-Tipton-Hesson vs 1-Thai-May-Lanchew
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 14
@@ -207,14 +207,14 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    50          4.90   0.10 8-Miller-Christie vs 12-Brown-Hudesman
         170    2.50   2.50 10-Zaugg-Ring vs 2-Rind-Waggoner
         420    1.30   3.70 11-Hendrickson-Davis vs 5-Eng-Ford
-  AVE-  AVE+   2.00   3.00 13-Tipton-Hesson vs 1--
+  AVE-  AVE+   2.00   3.00 13-Tipton-Hesson vs 1-Thai-May-Lanchew
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 15
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  710          2.00   3.00 1-- vs 2-Rind-Waggoner
+  710          2.00   3.00 1-Thai-May-Lanchew vs 2-Rind-Waggoner
   720          4.00   1.00 7-Tafjord-Abernethy vs 4-Romeo-Binney
   720          4.00   1.00 8-Miller-Christie vs 10-Zaugg-Ring
   680          1.00   4.00 9-Christensen-Wright vs 13-Tipton-Hesson
@@ -226,7 +226,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  110          2.00   3.00 1-- vs 2-Rind-Waggoner
+  110          2.00   3.00 1-Thai-May-Lanchew vs 2-Rind-Waggoner
   110          2.00   3.00 7-Tafjord-Abernethy vs 4-Romeo-Binney
   110          2.00   3.00 8-Miller-Christie vs 10-Zaugg-Ring
   130          5.00   0.00 9-Christensen-Wright vs 13-Tipton-Hesson
@@ -241,7 +241,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         420    1.90   3.10 2-Rind-Waggoner vs 3-Taylor-Anderson
         450    0.10   4.90 8-Miller-Christie vs 5-Eng-Ford
         200    3.70   1.30 9-Christensen-Wright vs 11-Hendrickson-Davis
-        420    1.90   3.10 10-Zaugg-Ring vs 1--
+        420    1.90   3.10 10-Zaugg-Ring vs 1-Thai-May-Lanchew
         140    4.90   0.10 12-Brown-Hudesman vs 4-Romeo-Binney
   AVE-  AVE+   2.00   3.00 13-Tipton-Hesson vs 7-Tafjord-Abernethy
 ----------------------------------------------------------------------
@@ -253,7 +253,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         140    0.10   4.90 2-Rind-Waggoner vs 3-Taylor-Anderson
   180          4.90   0.10 8-Miller-Christie vs 5-Eng-Ford
    50          2.50   2.50 9-Christensen-Wright vs 11-Hendrickson-Davis
-  100          3.70   1.30 10-Zaugg-Ring vs 1--
+  100          3.70   1.30 10-Zaugg-Ring vs 1-Thai-May-Lanchew
          90    1.30   3.70 12-Brown-Hudesman vs 4-Romeo-Binney
   AVE-  AVE+   2.00   3.00 13-Tipton-Hesson vs 7-Tafjord-Abernethy
 ----------------------------------------------------------------------
@@ -262,7 +262,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-         50    1.30   3.70 1-- vs 8-Miller-Christie
+         50    1.30   3.70 1-Thai-May-Lanchew vs 8-Miller-Christie
    90          2.50   2.50 3-Taylor-Anderson vs 4-Romeo-Binney
   110          3.70   1.30 9-Christensen-Wright vs 6-Ruprecht-Jarvis
         100    0.10   4.90 10-Zaugg-Ring vs 12-Brown-Hudesman
@@ -274,7 +274,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        800    0.10   4.90 1-- vs 8-Miller-Christie
+        800    0.10   4.90 1-Thai-May-Lanchew vs 8-Miller-Christie
   200          4.90   0.10 3-Taylor-Anderson vs 4-Romeo-Binney
         200    3.70   1.30 9-Christensen-Wright vs 6-Ruprecht-Jarvis
         620    1.30   3.70 10-Zaugg-Ring vs 12-Brown-Hudesman
@@ -286,7 +286,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   50          3.70   1.30 1-- vs 6-Ruprecht-Jarvis
+   50          3.70   1.30 1-Thai-May-Lanchew vs 6-Ruprecht-Jarvis
         140    0.70   4.30 2-Rind-Waggoner vs 9-Christensen-Wright
    50          3.70   1.30 4-Romeo-Binney vs 5-Eng-Ford
         140    0.70   4.30 10-Zaugg-Ring vs 7-Tafjord-Abernethy
@@ -298,7 +298,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  430          4.90   0.10 1-- vs 6-Ruprecht-Jarvis
+  430          4.90   0.10 1-Thai-May-Lanchew vs 6-Ruprecht-Jarvis
   180          3.10   1.90 2-Rind-Waggoner vs 9-Christensen-Wright
   180          3.10   1.90 4-Romeo-Binney vs 5-Eng-Ford
   150          1.30   3.70 10-Zaugg-Ring vs 7-Tafjord-Abernethy
@@ -314,7 +314,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         140    3.70   1.30 3-Taylor-Anderson vs 10-Zaugg-Ring
         300    1.30   3.70 5-Eng-Ford vs 6-Ruprecht-Jarvis
         140    3.70   1.30 11-Hendrickson-Davis vs 8-Miller-Christie
-        500    0.10   4.90 12-Brown-Hudesman vs 1--
+        500    0.10   4.90 12-Brown-Hudesman vs 1-Thai-May-Lanchew
   AVE-  AVE+   2.00   3.00 13-Tipton-Hesson vs 4-Romeo-Binney
 ----------------------------------------------------------------------
 
@@ -326,7 +326,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   520          2.50   2.50 3-Taylor-Anderson vs 10-Zaugg-Ring
   920          3.70   1.30 5-Eng-Ford vs 6-Ruprecht-Jarvis
   980          4.90   0.10 11-Hendrickson-Davis vs 8-Miller-Christie
-  490          0.70   4.30 12-Brown-Hudesman vs 1--
+  490          0.70   4.30 12-Brown-Hudesman vs 1-Thai-May-Lanchew
   AVE-  AVE+   2.00   3.00 13-Tipton-Hesson vs 4-Romeo-Binney
 ----------------------------------------------------------------------
 
@@ -334,7 +334,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        170    4.90   0.10 1-- vs 5-Eng-Ford
+        170    4.90   0.10 1-Thai-May-Lanchew vs 5-Eng-Ford
         660    0.10   4.90 3-Taylor-Anderson vs 8-Miller-Christie
         620    3.10   1.90 4-Romeo-Binney vs 11-Hendrickson-Davis
         620    3.10   1.90 6-Ruprecht-Jarvis vs 7-Tafjord-Abernethy
@@ -346,7 +346,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        110    3.70   1.30 1-- vs 5-Eng-Ford
+        110    3.70   1.30 1-Thai-May-Lanchew vs 5-Eng-Ford
         380    0.70   4.30 3-Taylor-Anderson vs 8-Miller-Christie
         100    4.90   0.10 4-Romeo-Binney vs 11-Hendrickson-Davis
         120    2.50   2.50 6-Ruprecht-Jarvis vs 7-Tafjord-Abernethy
