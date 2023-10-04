@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 26, 2023 |CLUB NO.>158048    | 09/26/2023 21:57
+DATE>September 26, 2023 |CLUB NO.>158048    | 10/03/2023 21:58
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,29 +11,29 @@ PAIRS IN STRAT A=13/B=10/C=6                     ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Genie Thai-May         Changtiaorap Lanchew     C    5     3     2     61.80  51.50  0.40(B) 
+ 1 Genie Thai-May         Changtiaorap Lanchew     C    5     3     2     62.80  52.33  0.40(B) 
 
- 2 Brad Rind              Susan Waggoner           C    .     .     .     57.70  48.08          
+ 2 Brad Rind              Susan Waggoner           C    .     .     .     56.50  47.08          
 
- 3 David Taylor           Sue Anderson             B    .     .     .     55.70  46.42          
+ 3 David Taylor           Sue Anderson             B    .     .     .     52.10  43.42          
 
- 4 Ann Romeo              David Binney             A    .     .     .     50.00  41.67          
+ 4 Ann Romeo              David Binney             A    .     .     .     48.80  40.67          
 
- 5 Kim Eng                Jeffrey Ford             A    4     .     .     68.10  56.75  0.46(A) 
+ 5 Kim Eng                Jeffrey Ford             A    3     .     .     69.30  57.75  0.65(A) 
 
- 6 Adam Ruprecht          Christopher Jarvis       C    .     4     .     58.60  48.83  0.28(B) 
+ 6 Adam Ruprecht          Christopher Jarvis       C    .     4     .     59.60  49.67  0.28(B) 
 
- 7 Oyvind Tafjord         Shawn Abernethy          C    3     2     1     68.50  57.08  0.65(A) 
+ 7 Oyvind Tafjord         Shawn Abernethy          C    4     2     1     68.70  57.25  0.56(B) 
 
  8 Ray Miller             Stanford Christie        A    1     .     .     77.30  64.42  1.30(A) 
 
- 9 Mike Christensen       David Wright             B    2     1     .     71.00  59.17  0.91(A) 
+ 9 Mike Christensen       David Wright             B    2     1     .     72.20  60.17  0.91(A) 
 
-10 Brian Zaugg            Mike Ring                B    .     .     .     56.80  47.33          
+10 Brian Zaugg            Mike Ring                B    .     .     .     55.60  46.33          
 
-11 Hugh Hendrickson       Nelson Davis             C    .     .     .     53.90  44.92          
+11 Hugh Hendrickson       Nelson Davis             C    .     .     .     52.90  44.08          
 
-12 Thomas Brown           Karen Hudesman           C    .     .     .     52.60  43.83          
+12 Thomas Brown           Karen Hudesman           C    .     .     .     56.20  46.83          
 
 13 Nick Tipton            Galen Hesson             B    .     .     .     48.00  40.00          
 
@@ -97,8 +97,8 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         200    3.00   2.00 2-Rind-Waggoner vs 12-Brown-Hudesman
         400    0.50   4.50 3-Taylor-Anderson vs 5-Eng-Ford
         400    0.50   4.50 4-Romeo-Binney vs 8-Miller-Christie
-  100          4.00   1.00 6-Ruprecht-Jarvis vs 11-Hendrickson-Davis
-  600          5.00   0.00 7-Tafjord-Abernethy vs 1-Thai-May-Lanchew
+  100          5.00   0.00 6-Ruprecht-Jarvis vs 11-Hendrickson-Davis
+        100    4.00   1.00 7-Tafjord-Abernethy vs 1-Thai-May-Lanchew
         300    2.00   3.00 9-Christensen-Wright vs 10-Zaugg-Ring
 ----------------------------------------------------------------------
 
@@ -299,11 +299,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   430          4.90   0.10 1-Thai-May-Lanchew vs 6-Ruprecht-Jarvis
-  180          3.10   1.90 2-Rind-Waggoner vs 9-Christensen-Wright
-  180          3.10   1.90 4-Romeo-Binney vs 5-Eng-Ford
-  150          1.30   3.70 10-Zaugg-Ring vs 7-Tafjord-Abernethy
+  180          1.90   3.10 2-Rind-Waggoner vs 9-Christensen-Wright
+  180          1.90   3.10 4-Romeo-Binney vs 5-Eng-Ford
+  150          0.10   4.90 10-Zaugg-Ring vs 7-Tafjord-Abernethy
   AVE+  AVE-   3.00   2.00 11-Hendrickson-Davis vs 13-Tipton-Hesson
-        200    0.10   4.90 12-Brown-Hudesman vs 3-Taylor-Anderson
+  200          3.70   1.30 12-Brown-Hudesman vs 3-Taylor-Anderson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 23
