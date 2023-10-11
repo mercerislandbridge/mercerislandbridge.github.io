@@ -1,0 +1,336 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 10, 2023   |CLUB NO.>158048    | 10/10/2023 21:39
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=5/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Eric Sieg                A    2     .     .     62.44  57.81  0.77(A) 
+
+ 2 Aaron Mohrman          Kevin Cline              B    .     .     .     51.00  47.22          
+
+
+
+ 4 Nick Tipton            Galen Hesson             B    .     1     .     54.00  50.00  0.40(B) 
+
+ 5 Changtiaorap Lanchew   Genie Thai-May           C    .     .     .     48.94  45.31          
+
+ 6 Jeffrey Ford           Paul Martin              A    3     .     .     61.88  57.30  0.55(A) 
+
+ 7 Mike Christensen       Mike Ring                A    .     .     .     55.69  51.56          
+
+ 8 Brian Zaugg            Bogdan Vulcan            A    1     .     .     67.50  62.50  1.10(A) 
+
+ 9 Bryan Delfs            Stanford Christie        A    4     .     .     60.19  55.73  0.39(A) 
+
+10 Susan Waggoner         Brad Rind                C    .     2     1     51.19  47.40  0.28(B) 
+
+11 Shawn Abernethy        Ray Miller               A    .     .     .     51.19  47.40          
+
+12 Terry Quigley          Joe Frisbie              C    .     .     .     30.38  28.13          
+
+
+                                          Totals                         594.40       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.50   2.50 5-Lanchew-Thai-May vs 2-Mohrman-Cline
+  400          3.00   1.00 6-Ford-Martin vs 10-Waggoner-Rind
+  420          4.00   0.00 8-Zaugg-Vulcan vs 4-Tipton-Hesson
+        450    1.50   2.50 9-Delfs-Christie vs 7-Christensen-Ring
+        480    0.00   4.00 12-Quigley-Frisbie vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.50   0.50 5-Lanchew-Thai-May vs 2-Mohrman-Cline
+        140    3.50   0.50 6-Ford-Martin vs 10-Waggoner-Rind
+        450    0.50   3.50 8-Zaugg-Vulcan vs 4-Tipton-Hesson
+        450    0.50   3.50 9-Delfs-Christie vs 7-Christensen-Ring
+        200    2.00   2.00 12-Quigley-Frisbie vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   1.50 5-Lanchew-Thai-May vs 2-Mohrman-Cline
+        100    2.50   1.50 6-Ford-Martin vs 10-Waggoner-Rind
+        140    0.00   4.00 8-Zaugg-Vulcan vs 4-Tipton-Hesson
+         50    4.00   0.00 9-Delfs-Christie vs 7-Christensen-Ring
+        110    1.00   3.00 12-Quigley-Frisbie vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          0.50   3.50 1-Eng-Sieg vs 8-Zaugg-Vulcan
+  600          0.50   3.50 7-Christensen-Ring vs 10-Waggoner-Rind
+  630          3.00   1.00 9-Delfs-Christie vs 5-Lanchew-Thai-May
+  630          3.00   1.00 11-Abernethy-Miller vs 4-Tipton-Hesson
+  630          3.00   1.00 12-Quigley-Frisbie vs 2-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.50   1.50 1-Eng-Sieg vs 8-Zaugg-Vulcan
+        140    1.00   3.00 7-Christensen-Ring vs 10-Waggoner-Rind
+  110          4.00   0.00 9-Delfs-Christie vs 5-Lanchew-Thai-May
+        200    0.00   4.00 11-Abernethy-Miller vs 4-Tipton-Hesson
+   90          2.50   1.50 12-Quigley-Frisbie vs 2-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          2.00   2.00 1-Eng-Sieg vs 8-Zaugg-Vulcan
+  400          3.50   0.50 7-Christensen-Ring vs 10-Waggoner-Rind
+  400          3.50   0.50 9-Delfs-Christie vs 5-Lanchew-Thai-May
+  120          1.00   3.00 11-Abernethy-Miller vs 4-Tipton-Hesson
+   90          0.00   4.00 12-Quigley-Frisbie vs 2-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.50   2.50 1-Eng-Sieg vs 6-Ford-Martin
+        660    1.50   2.50 2-Mohrman-Cline vs 9-Delfs-Christie
+        650    4.00   0.00 7-Christensen-Ring vs 4-Tipton-Hesson
+        660    1.50   2.50 10-Waggoner-Rind vs 8-Zaugg-Vulcan
+        660    1.50   2.50 11-Abernethy-Miller vs 5-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   2.50 1-Eng-Sieg vs 6-Ford-Martin
+   90          4.00   0.00 2-Mohrman-Cline vs 9-Delfs-Christie
+        420    1.50   2.50 7-Christensen-Ring vs 4-Tipton-Hesson
+        420    1.50   2.50 10-Waggoner-Rind vs 8-Zaugg-Vulcan
+        420    1.50   2.50 11-Abernethy-Miller vs 5-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.00   0.00 1-Eng-Sieg vs 6-Ford-Martin
+         50    0.00   4.00 2-Mohrman-Cline vs 9-Delfs-Christie
+  420          2.00   2.00 7-Christensen-Ring vs 4-Tipton-Hesson
+  420          2.00   2.00 10-Waggoner-Rind vs 8-Zaugg-Vulcan
+  420          2.00   2.00 11-Abernethy-Miller vs 5-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   1.00 2-Mohrman-Cline vs 7-Christensen-Ring
+  100          2.00   2.00 8-Zaugg-Vulcan vs 5-Lanchew-Thai-May
+  200          4.00   0.00 10-Waggoner-Rind vs 9-Delfs-Christie
+        130    1.00   3.00 11-Abernethy-Miller vs 6-Ford-Martin
+        200    0.00   4.00 12-Quigley-Frisbie vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   1.00 2-Mohrman-Cline vs 7-Christensen-Ring
+  450          3.00   1.00 8-Zaugg-Vulcan vs 5-Lanchew-Thai-May
+  450          3.00   1.00 10-Waggoner-Rind vs 9-Delfs-Christie
+  420          0.50   3.50 11-Abernethy-Miller vs 6-Ford-Martin
+  420          0.50   3.50 12-Quigley-Frisbie vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.50   2.50 2-Mohrman-Cline vs 7-Christensen-Ring
+  650          4.00   0.00 8-Zaugg-Vulcan vs 5-Lanchew-Thai-May
+        200    0.00   4.00 10-Waggoner-Rind vs 9-Delfs-Christie
+  620          3.00   1.00 11-Abernethy-Miller vs 6-Ford-Martin
+  170          1.50   2.50 12-Quigley-Frisbie vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   0.50 1-Eng-Sieg vs 10-Waggoner-Rind
+        100    2.00   2.00 4-Tipton-Hesson vs 2-Mohrman-Cline
+        110    0.50   3.50 7-Christensen-Ring vs 11-Abernethy-Miller
+        110    0.50   3.50 9-Delfs-Christie vs 6-Ford-Martin
+  140          3.50   0.50 12-Quigley-Frisbie vs 5-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   1.00 1-Eng-Sieg vs 10-Waggoner-Rind
+  400          4.00   0.00 4-Tipton-Hesson vs 2-Mohrman-Cline
+         50    2.00   2.00 7-Christensen-Ring vs 11-Abernethy-Miller
+        100    1.00   3.00 9-Delfs-Christie vs 6-Ford-Martin
+        150    0.00   4.00 12-Quigley-Frisbie vs 5-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.00   0.00 1-Eng-Sieg vs 10-Waggoner-Rind
+  180          2.00   2.00 4-Tipton-Hesson vs 2-Mohrman-Cline
+  150          0.50   3.50 7-Christensen-Ring vs 11-Abernethy-Miller
+  210          3.00   1.00 9-Delfs-Christie vs 6-Ford-Martin
+  150          0.50   3.50 12-Quigley-Frisbie vs 5-Lanchew-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   4.00 1-Eng-Sieg vs 7-Christensen-Ring
+  110          1.00   3.00 2-Mohrman-Cline vs 10-Waggoner-Rind
+  120          2.50   1.50 4-Tipton-Hesson vs 9-Delfs-Christie
+  120          2.50   1.50 8-Zaugg-Vulcan vs 11-Abernethy-Miller
+  300          4.00   0.00 12-Quigley-Frisbie vs 6-Ford-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          4.00   0.00 1-Eng-Sieg vs 7-Christensen-Ring
+  460          3.00   1.00 2-Mohrman-Cline vs 10-Waggoner-Rind
+  400          1.00   3.00 4-Tipton-Hesson vs 9-Delfs-Christie
+  420          2.00   2.00 8-Zaugg-Vulcan vs 11-Abernethy-Miller
+         50    0.00   4.00 12-Quigley-Frisbie vs 6-Ford-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    4.00   0.00 1-Eng-Sieg vs 7-Christensen-Ring
+        420    1.50   2.50 2-Mohrman-Cline vs 10-Waggoner-Rind
+        420    1.50   2.50 4-Tipton-Hesson vs 9-Delfs-Christie
+        420    1.50   2.50 8-Zaugg-Vulcan vs 11-Abernethy-Miller
+        420    1.50   2.50 12-Quigley-Frisbie vs 6-Ford-Martin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   2.00 2-Mohrman-Cline vs 8-Zaugg-Vulcan
+  300          3.50   0.50 5-Lanchew-Thai-May vs 1-Eng-Sieg
+  300          3.50   0.50 6-Ford-Martin vs 4-Tipton-Hesson
+  100          0.50   3.50 11-Abernethy-Miller vs 9-Delfs-Christie
+  100          0.50   3.50 12-Quigley-Frisbie vs 7-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.50   2.50 2-Mohrman-Cline vs 8-Zaugg-Vulcan
+  930          4.00   0.00 5-Lanchew-Thai-May vs 1-Eng-Sieg
+  620          3.00   1.00 6-Ford-Martin vs 4-Tipton-Hesson
+        170    1.50   2.50 11-Abernethy-Miller vs 9-Delfs-Christie
+        620    0.00   4.00 12-Quigley-Frisbie vs 7-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          2.00   2.00 2-Mohrman-Cline vs 8-Zaugg-Vulcan
+  600          1.00   3.00 5-Lanchew-Thai-May vs 1-Eng-Sieg
+  690          4.00   0.00 6-Ford-Martin vs 4-Tipton-Hesson
+  680          3.00   1.00 11-Abernethy-Miller vs 9-Delfs-Christie
+  230          0.00   4.00 12-Quigley-Frisbie vs 7-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   0.00 6-Ford-Martin vs 2-Mohrman-Cline
+        100    2.00   2.00 7-Christensen-Ring vs 5-Lanchew-Thai-May
+  100          3.00   1.00 10-Waggoner-Rind vs 4-Tipton-Hesson
+        130    1.00   3.00 11-Abernethy-Miller vs 1-Eng-Sieg
+        170    0.00   4.00 12-Quigley-Frisbie vs 8-Zaugg-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   4.00 6-Ford-Martin vs 2-Mohrman-Cline
+        120    2.00   2.00 7-Christensen-Ring vs 5-Lanchew-Thai-May
+  110          4.00   0.00 10-Waggoner-Rind vs 4-Tipton-Hesson
+        110    3.00   1.00 11-Abernethy-Miller vs 1-Eng-Sieg
+        140    1.00   3.00 12-Quigley-Frisbie vs 8-Zaugg-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   1.50 6-Ford-Martin vs 2-Mohrman-Cline
+  200          4.00   0.00 7-Christensen-Ring vs 5-Lanchew-Thai-May
+        100    0.50   3.50 10-Waggoner-Rind vs 4-Tipton-Hesson
+         50    2.50   1.50 11-Abernethy-Miller vs 1-Eng-Sieg
+        100    0.50   3.50 12-Quigley-Frisbie vs 8-Zaugg-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   1.50 2-Mohrman-Cline vs 11-Abernethy-Miller
+        630    0.00   4.00 4-Tipton-Hesson vs 1-Eng-Sieg
+  300          4.00   0.00 5-Lanchew-Thai-May vs 10-Waggoner-Rind
+  100          2.50   1.50 8-Zaugg-Vulcan vs 6-Ford-Martin
+        600    1.00   3.00 12-Quigley-Frisbie vs 9-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   1.00 2-Mohrman-Cline vs 11-Abernethy-Miller
+        150    2.00   2.00 4-Tipton-Hesson vs 1-Eng-Sieg
+        800    0.00   4.00 5-Lanchew-Thai-May vs 10-Waggoner-Rind
+         90    4.00   0.00 8-Zaugg-Vulcan vs 6-Ford-Martin
+        180    1.00   3.00 12-Quigley-Frisbie vs 9-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   3.00 2-Mohrman-Cline vs 11-Abernethy-Miller
+        170    3.00   1.00 4-Tipton-Hesson vs 1-Eng-Sieg
+        420    0.00   4.00 5-Lanchew-Thai-May vs 10-Waggoner-Rind
+        170    3.00   1.00 8-Zaugg-Vulcan vs 6-Ford-Martin
+        170    3.00   1.00 12-Quigley-Frisbie vs 9-Delfs-Christie
+----------------------------------------------------------------------
