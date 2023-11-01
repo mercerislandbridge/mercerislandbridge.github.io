@@ -1,0 +1,361 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 31, 2023   |CLUB NO.>158048    | 10/31/2023 21:47
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3500/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=7/C=2                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Adam Ruprecht            A    .     .     .     70.20  52.00          
+
+ 2 Jeffrey Ford           David Taylor             A    1     .     .     86.60  64.15  1.20(A) 
+
+ 3 Christopher Jarvis     Valliappa Lakshmanan     B    5     3     .     71.40  52.89  0.28(B) 
+
+ 4 Nick Tipton            Galen Hesson             B    2     1     .     79.75  59.07  0.84(A) 
+
+ 5 Ann Romeo              Sue Gonzales             B    .     .     .     49.12  36.39          
+
+ 6 Aaron Mohrman          Sue Anderson             B    3     2     .     77.70  57.56  0.60(A) 
+
+ 7 Paul Martin            Nelson Davis             A    .     .     .     56.39  41.77          
+
+ 8 Pete Cowles            Craig Mills              C    .     .     .     56.30  41.70          
+
+ 9 Genie Thai-May         Changtiaorap Lanchew     C    .     .     .     65.22  48.31          
+
+10 Mike Christensen       Becky Stevens            A    .     .     .     66.40  49.19          
+
+11 Brian Zaugg            Liliana Diaconescu       B    .     .     .     57.40  42.52          
+
+12 Ray Miller             Kevin Cline              A    4     .     .     72.80  53.93  0.42(A) 
+
+
+                                          Totals                         809.28       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   1.50 3-Jarvis-Lakshmanan vs 11-Zaugg-Diaconescu
+        420    0.00   5.00 5-Romeo-Gonzales vs 2-Ford-Taylor
+  100          5.00   0.00 6-Mohrman-Anderson vs 10-Christensen-Stevens
+        170    1.00   4.00 8-Cowles-Mills vs 4-Tipton-Hesson
+        140    2.00   3.00 9-Thai-May-Lanchew vs 7-Martin-Davis
+   50          3.50   1.50 12-Miller-Cline vs 1-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.50   2.50 3-Jarvis-Lakshmanan vs 11-Zaugg-Diaconescu
+  620          2.50   2.50 5-Romeo-Gonzales vs 2-Ford-Taylor
+  620          2.50   2.50 6-Mohrman-Anderson vs 10-Christensen-Stevens
+  620          2.50   2.50 8-Cowles-Mills vs 4-Tipton-Hesson
+  620          2.50   2.50 9-Thai-May-Lanchew vs 7-Martin-Davis
+  620          2.50   2.50 12-Miller-Cline vs 1-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   4.00 3-Jarvis-Lakshmanan vs 11-Zaugg-Diaconescu
+  120          2.00   3.00 5-Romeo-Gonzales vs 2-Ford-Taylor
+  150          3.00   2.00 6-Mohrman-Anderson vs 10-Christensen-Stevens
+        100    0.00   5.00 8-Cowles-Mills vs 4-Tipton-Hesson
+  400          4.50   0.50 9-Thai-May-Lanchew vs 7-Martin-Davis
+  400          4.50   0.50 12-Miller-Cline vs 1-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.00   5.00 1-Eng-Ruprecht vs 8-Cowles-Mills
+        630    3.00   2.00 6-Mohrman-Anderson vs 3-Jarvis-Lakshmanan
+        660    1.50   3.50 7-Martin-Davis vs 10-Christensen-Stevens
+  690          5.00   0.00 9-Thai-May-Lanchew vs 5-Romeo-Gonzales
+        660    1.50   3.50 11-Zaugg-Diaconescu vs 4-Tipton-Hesson
+        600    4.00   1.00 12-Miller-Cline vs 2-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          5.00   0.00 1-Eng-Ruprecht vs 8-Cowles-Mills
+   50          3.50   1.50 6-Mohrman-Anderson vs 3-Jarvis-Lakshmanan
+        420    0.00   5.00 7-Martin-Davis vs 10-Christensen-Stevens
+   50          3.50   1.50 9-Thai-May-Lanchew vs 5-Romeo-Gonzales
+        170    1.50   3.50 11-Zaugg-Diaconescu vs 4-Tipton-Hesson
+        170    1.50   3.50 12-Miller-Cline vs 2-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   2.50 1-Eng-Ruprecht vs 8-Cowles-Mills
+  400          4.90   0.10 6-Mohrman-Anderson vs 3-Jarvis-Lakshmanan
+  110          1.30   3.70 7-Martin-Davis vs 10-Christensen-Stevens
+  200          3.70   1.30 11-Zaugg-Diaconescu vs 4-Tipton-Hesson
+         50    0.10   4.90 12-Miller-Cline vs 2-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          2.50   2.50 1-Eng-Ruprecht vs 6-Mohrman-Anderson
+ 1430          2.50   2.50 2-Ford-Taylor vs 9-Thai-May-Lanchew
+ 1430          2.50   2.50 7-Martin-Davis vs 4-Tipton-Hesson
+ 1430          2.50   2.50 10-Christensen-Stevens vs 8-Cowles-Mills
+ 1430          2.50   2.50 11-Zaugg-Diaconescu vs 5-Romeo-Gonzales
+ 1430          2.50   2.50 12-Miller-Cline vs 3-Jarvis-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   2.00 1-Eng-Ruprecht vs 6-Mohrman-Anderson
+  140          3.00   2.00 2-Ford-Taylor vs 9-Thai-May-Lanchew
+  300          5.00   0.00 7-Martin-Davis vs 4-Tipton-Hesson
+         50    1.00   4.00 10-Christensen-Stevens vs 8-Cowles-Mills
+  140          3.00   2.00 11-Zaugg-Diaconescu vs 5-Romeo-Gonzales
+        300    0.00   5.00 12-Miller-Cline vs 3-Jarvis-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          0.70   4.30 1-Eng-Ruprecht vs 6-Mohrman-Anderson
+  980          3.70   1.30 2-Ford-Taylor vs 9-Thai-May-Lanchew
+  480          0.70   4.30 10-Christensen-Stevens vs 8-Cowles-Mills
+  980          3.70   1.30 11-Zaugg-Diaconescu vs 5-Romeo-Gonzales
+  980          3.70   1.30 12-Miller-Cline vs 3-Jarvis-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 2-Ford-Taylor vs 7-Martin-Davis
+        170    1.50   3.50 3-Jarvis-Lakshmanan vs 1-Eng-Ruprecht
+        140    3.50   1.50 8-Cowles-Mills vs 5-Romeo-Gonzales
+        140    3.50   1.50 10-Christensen-Stevens vs 9-Thai-May-Lanchew
+        170    1.50   3.50 11-Zaugg-Diaconescu vs 6-Mohrman-Anderson
+  130          5.00   0.00 12-Miller-Cline vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   3.00 2-Ford-Taylor vs 7-Martin-Davis
+         50    2.00   3.00 3-Jarvis-Lakshmanan vs 1-Eng-Ruprecht
+  170          5.00   0.00 8-Cowles-Mills vs 5-Romeo-Gonzales
+  140          4.00   1.00 10-Christensen-Stevens vs 9-Thai-May-Lanchew
+         50    2.00   3.00 11-Zaugg-Diaconescu vs 6-Mohrman-Anderson
+        100    0.00   5.00 12-Miller-Cline vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   1.00 2-Ford-Taylor vs 7-Martin-Davis
+         90    5.00   0.00 3-Jarvis-Lakshmanan vs 1-Eng-Ruprecht
+        110    2.50   2.50 8-Cowles-Mills vs 5-Romeo-Gonzales
+        200    0.50   4.50 10-Christensen-Stevens vs 9-Thai-May-Lanchew
+        200    0.50   4.50 11-Zaugg-Diaconescu vs 6-Mohrman-Anderson
+        110    2.50   2.50 12-Miller-Cline vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   5.00 1-Eng-Ruprecht vs 10-Christensen-Stevens
+        140    2.50   2.50 3-Jarvis-Lakshmanan vs 8-Cowles-Mills
+        100    4.00   1.00 4-Tipton-Hesson vs 2-Ford-Taylor
+        170    1.00   4.00 7-Martin-Davis vs 11-Zaugg-Diaconescu
+  100          5.00   0.00 9-Thai-May-Lanchew vs 6-Mohrman-Anderson
+        140    2.50   2.50 12-Miller-Cline vs 5-Romeo-Gonzales
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 1-Eng-Ruprecht vs 10-Christensen-Stevens
+         50    3.00   2.00 3-Jarvis-Lakshmanan vs 8-Cowles-Mills
+   90          4.00   1.00 4-Tipton-Hesson vs 2-Ford-Taylor
+        170    1.00   4.00 7-Martin-Davis vs 11-Zaugg-Diaconescu
+        200    0.00   5.00 9-Thai-May-Lanchew vs 6-Mohrman-Anderson
+        110    2.00   3.00 12-Miller-Cline vs 5-Romeo-Gonzales
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   1.00 1-Eng-Ruprecht vs 10-Christensen-Stevens
+   50          4.00   1.00 3-Jarvis-Lakshmanan vs 8-Cowles-Mills
+         90    2.00   3.00 4-Tipton-Hesson vs 2-Ford-Taylor
+        120    0.00   5.00 7-Martin-Davis vs 11-Zaugg-Diaconescu
+        110    1.00   4.00 9-Thai-May-Lanchew vs 6-Mohrman-Anderson
+   50          4.00   1.00 12-Miller-Cline vs 5-Romeo-Gonzales
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.50   1.50 1-Eng-Ruprecht vs 7-Martin-Davis
+  450          3.50   1.50 2-Ford-Taylor vs 10-Christensen-Stevens
+  480          5.00   0.00 4-Tipton-Hesson vs 9-Thai-May-Lanchew
+  420          1.00   4.00 5-Romeo-Gonzales vs 3-Jarvis-Lakshmanan
+  420          1.00   4.00 8-Cowles-Mills vs 11-Zaugg-Diaconescu
+  420          1.00   4.00 12-Miller-Cline vs 6-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          2.50   2.50 1-Eng-Ruprecht vs 7-Martin-Davis
+  460          2.50   2.50 2-Ford-Taylor vs 10-Christensen-Stevens
+  430          1.00   4.00 4-Tipton-Hesson vs 9-Thai-May-Lanchew
+  490          4.50   0.50 5-Romeo-Gonzales vs 3-Jarvis-Lakshmanan
+  490          4.50   0.50 8-Cowles-Mills vs 11-Zaugg-Diaconescu
+  400          0.00   5.00 12-Miller-Cline vs 6-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   2.50 1-Eng-Ruprecht vs 7-Martin-Davis
+        170    1.00   4.00 2-Ford-Taylor vs 10-Christensen-Stevens
+  110          5.00   0.00 4-Tipton-Hesson vs 9-Thai-May-Lanchew
+        110    4.00   1.00 5-Romeo-Gonzales vs 3-Jarvis-Lakshmanan
+        200    0.00   5.00 8-Cowles-Mills vs 11-Zaugg-Diaconescu
+        140    2.50   2.50 12-Miller-Cline vs 6-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          4.50   0.50 2-Ford-Taylor vs 8-Cowles-Mills
+  450          1.50   3.50 5-Romeo-Gonzales vs 1-Eng-Ruprecht
+  450          1.50   3.50 6-Mohrman-Anderson vs 4-Tipton-Hesson
+  480          3.00   2.00 10-Christensen-Stevens vs 3-Jarvis-Lakshmanan
+         50    0.00   5.00 11-Zaugg-Diaconescu vs 9-Thai-May-Lanchew
+  980          4.50   0.50 12-Miller-Cline vs 7-Martin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          5.00   0.00 2-Ford-Taylor vs 8-Cowles-Mills
+  100          3.00   2.00 5-Romeo-Gonzales vs 1-Eng-Ruprecht
+        140    1.00   4.00 6-Mohrman-Anderson vs 4-Tipton-Hesson
+        110    2.00   3.00 10-Christensen-Stevens vs 3-Jarvis-Lakshmanan
+        650    0.00   5.00 11-Zaugg-Diaconescu vs 9-Thai-May-Lanchew
+  150          4.00   1.00 12-Miller-Cline vs 7-Martin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.50   1.50 2-Ford-Taylor vs 8-Cowles-Mills
+  650          3.50   1.50 5-Romeo-Gonzales vs 1-Eng-Ruprecht
+        590    0.00   5.00 6-Mohrman-Anderson vs 4-Tipton-Hesson
+   50          1.00   4.00 10-Christensen-Stevens vs 3-Jarvis-Lakshmanan
+  650          3.50   1.50 11-Zaugg-Diaconescu vs 9-Thai-May-Lanchew
+  650          3.50   1.50 12-Miller-Cline vs 7-Martin-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   3.00 3-Jarvis-Lakshmanan vs 9-Thai-May-Lanchew
+         50    0.00   5.00 6-Mohrman-Anderson vs 2-Ford-Taylor
+  200          4.00   1.00 7-Martin-Davis vs 5-Romeo-Gonzales
+  500          5.00   0.00 10-Christensen-Stevens vs 4-Tipton-Hesson
+  150          2.00   3.00 11-Zaugg-Diaconescu vs 1-Eng-Ruprecht
+  150          2.00   3.00 12-Miller-Cline vs 8-Cowles-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.00   2.00 3-Jarvis-Lakshmanan vs 9-Thai-May-Lanchew
+        100    0.50   4.50 6-Mohrman-Anderson vs 2-Ford-Taylor
+  690          4.00   1.00 7-Martin-Davis vs 5-Romeo-Gonzales
+  630          2.00   3.00 10-Christensen-Stevens vs 4-Tipton-Hesson
+        100    0.50   4.50 11-Zaugg-Diaconescu vs 1-Eng-Ruprecht
+ 1100          5.00   0.00 12-Miller-Cline vs 8-Cowles-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   0.50 3-Jarvis-Lakshmanan vs 9-Thai-May-Lanchew
+   50          2.50   2.50 6-Mohrman-Anderson vs 2-Ford-Taylor
+  100          4.50   0.50 7-Martin-Davis vs 5-Romeo-Gonzales
+        140    0.50   4.50 10-Christensen-Stevens vs 4-Tipton-Hesson
+        140    0.50   4.50 11-Zaugg-Diaconescu vs 1-Eng-Ruprecht
+   50          2.50   2.50 12-Miller-Cline vs 8-Cowles-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          5.00   0.00 2-Ford-Taylor vs 11-Zaugg-Diaconescu
+        100    1.50   3.50 4-Tipton-Hesson vs 1-Eng-Ruprecht
+        100    1.50   3.50 5-Romeo-Gonzales vs 10-Christensen-Stevens
+         50    3.50   1.50 7-Martin-Davis vs 3-Jarvis-Lakshmanan
+        620    0.00   5.00 8-Cowles-Mills vs 6-Mohrman-Anderson
+         50    3.50   1.50 12-Miller-Cline vs 9-Thai-May-Lanchew
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.50   0.50 2-Ford-Taylor vs 11-Zaugg-Diaconescu
+  620          2.50   2.50 4-Tipton-Hesson vs 1-Eng-Ruprecht
+  170          0.00   5.00 5-Romeo-Gonzales vs 10-Christensen-Stevens
+  200          1.00   4.00 7-Martin-Davis vs 3-Jarvis-Lakshmanan
+  650          4.50   0.50 8-Cowles-Mills vs 6-Mohrman-Anderson
+  620          2.50   2.50 12-Miller-Cline vs 9-Thai-May-Lanchew
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   0.00 2-Ford-Taylor vs 11-Zaugg-Diaconescu
+        170    2.00   3.00 4-Tipton-Hesson vs 1-Eng-Ruprecht
+         50    3.50   1.50 5-Romeo-Gonzales vs 10-Christensen-Stevens
+        420    0.50   4.50 7-Martin-Davis vs 3-Jarvis-Lakshmanan
+        420    0.50   4.50 8-Cowles-Mills vs 6-Mohrman-Anderson
+         50    3.50   1.50 12-Miller-Cline vs 9-Thai-May-Lanchew
+----------------------------------------------------------------------
