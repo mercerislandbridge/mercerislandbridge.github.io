@@ -1,42 +1,42 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>October 31, 2023   |CLUB NO.>158048    | 10/31/2023 21:47
+DATE>October 31, 2023   |CLUB NO.>158048    | 11/07/2023 18:07
 ---------------------,-- ------------------- -------------,---------------------
-DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+DIR>                 |RATING>Club Appreciation game       |MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
-AVE>   67.5 |TOP>   5 |MP LIMITS>None/3500/1250 |CLUB>Mercercrest
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/1250 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=12/B=7/C=2                      ,---,-------------------------,------,---------,
--------------------------------------------------|   |           Section       |      |Section  |
-No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
-------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Kim Eng                Adam Ruprecht            A    .     .     .     70.20  52.00          
+PAIRS IN STRAT A=12/B=8/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Adam Ruprecht            A   .     .     .   |   5     .     .     70.70  52.37  0.41(SA)
 
- 2 Jeffrey Ford           David Taylor             A    1     .     .     86.60  64.15  1.20(A) 
+ 2 Jeffrey Ford           David Taylor             A   1     .     .   |   1     .     .     85.60  63.41  3.00(OA)
 
- 3 Christopher Jarvis     Valliappa Lakshmanan     B    5     3     .     71.40  52.89  0.28(B) 
+ 3 Christopher Jarvis     Valliappa Lakshmanan     C   .     3     .   |   .     3     1     70.40  52.15  1.11(OB)
 
- 4 Nick Tipton            Galen Hesson             B    2     1     .     79.75  59.07  0.84(A) 
+ 4 Nick Tipton            Galen Hesson             B   2     1     .   |   2     1     .     78.72  58.31  2.25(OA)
 
- 5 Ann Romeo              Sue Gonzales             B    .     .     .     49.12  36.39          
+ 5 Ann Romeo              Sue Gonzales             B   .     .     .   |   .     .     .     53.79  39.84          
 
- 6 Aaron Mohrman          Sue Anderson             B    3     2     .     77.70  57.56  0.60(A) 
+ 6 Aaron Mohrman          Sue Anderson             B   3     2     .   |   3     2     .     78.70  58.30  1.69(OA)
 
- 7 Paul Martin            Nelson Davis             A    .     .     .     56.39  41.77          
+ 7 Paul Martin            Nelson Davis             B   .     .     .   |   .     .     .     57.43  42.54          
 
- 8 Pete Cowles            Craig Mills              C    .     .     .     56.30  41.70          
+ 8 Pete Cowles            Craig Mills              C   .     .     .   |   .     .     .     55.80  41.33          
 
- 9 Genie Thai-May         Changtiaorap Lanchew     C    .     .     .     65.22  48.31          
+ 9 Genie Thai-May         Changtiaorap Lanchew     C   .     .     .   |   .     .     .     60.54  44.84          
 
-10 Mike Christensen       Becky Stevens            A    .     .     .     66.40  49.19          
+10 Mike Christensen       Becky Stevens            A   .     .     .   |   .     .     .     65.40  48.44          
 
-11 Brian Zaugg            Liliana Diaconescu       B    .     .     .     57.40  42.52          
+11 Brian Zaugg            Liliana Diaconescu       B   .     .     .   |   .     .     .     58.40  43.26          
 
-12 Ray Miller             Kevin Cline              A    4     .     .     72.80  53.93  0.42(A) 
+12 Ray Miller             Kevin Cline              A   4     .     .   |   4     .     .     73.80  54.67  1.27(OA)
 
 
-                                          Totals                         809.28       
+                                          Totals                                            809.28       
 
  RESULTS OF BOARD 1
 
@@ -78,12 +78,12 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        690    0.00   5.00 1-Eng-Ruprecht vs 8-Cowles-Mills
-        630    3.00   2.00 6-Mohrman-Anderson vs 3-Jarvis-Lakshmanan
-        660    1.50   3.50 7-Martin-Davis vs 10-Christensen-Stevens
-  690          5.00   0.00 9-Thai-May-Lanchew vs 5-Romeo-Gonzales
-        660    1.50   3.50 11-Zaugg-Diaconescu vs 4-Tipton-Hesson
-        600    4.00   1.00 12-Miller-Cline vs 2-Ford-Taylor
+        690    0.50   4.50 1-Eng-Ruprecht vs 8-Cowles-Mills
+        630    4.00   1.00 6-Mohrman-Anderson vs 3-Jarvis-Lakshmanan
+        660    2.50   2.50 7-Martin-Davis vs 10-Christensen-Stevens
+        690    0.50   4.50 9-Thai-May-Lanchew vs 5-Romeo-Gonzales
+        660    2.50   2.50 11-Zaugg-Diaconescu vs 4-Tipton-Hesson
+        600    5.00   0.00 12-Miller-Cline vs 2-Ford-Taylor
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 5
