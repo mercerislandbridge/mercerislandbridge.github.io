@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 7, 2023   |CLUB NO.>158048    | 11/07/2023 21:48
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=9/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Ring              Mike Christensen         A    1     .     .     82.00  68.33  1.30(A) 
+
+ 2 Aaron Mohrman          Eric Sieg                B    .    3/4    .     61.00  50.83  0.31(B) 
+
+
+
+ 4 Nick Tipton            Galen Hesson             B    .     .     .     43.00  35.83          
+
+ 5 Ray Miller             Jeffrey Ford             A    .     .     .     62.50  52.08          
+
+ 6 Adam Ruprecht          Christopher Jarvis       B    .     .     .     56.00  46.67          
+
+ 7 Donald Kossmann        Ann Romeo                B    .     .     .     48.50  40.42          
+
+ 8 Hugh Hendrickson       Nelson Davis             B    .    3/4    .     61.00  50.83  0.31(B) 
+
+ 9 Valliappa Lakshmanan   G Chaunal                C    .     .     .     54.00  45.00          
+
+10 Kim Eng                Chris Moore              A    2     .     .     66.00  55.00  0.91(A) 
+
+11 Brad Rind              Susan Waggoner           C   3/4   1/2    1     64.50  53.75  0.61(B) 
+
+12 Brian Zaugg            Stanford Christie        A    5     .     .     63.50  52.92  0.26(A) 
+
+13 Jim Chen               Rex Tu                   C    .     .     .     53.50  44.58          
+
+14 David Wright           Sue Anderson             B   3/4   1/2    .     64.50  53.75  0.61(B) 
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          2.50   2.50 2-Mohrman-Sieg vs 6-Ruprecht-Jarvis
+  430          1.00   4.00 4-Tipton-Hesson vs 9-Lakshmanan-Chaunal
+  490          4.50   0.50 5-Miller-Ford vs 12-Zaugg-Christie
+  460          2.50   2.50 7-Kossmann-Romeo vs 8-Hendrickson-Davis
+  490          4.50   0.50 13-Chen-Tu vs 10-Eng-Moore
+  400          0.00   5.00 14-Wright-Anderson vs 11-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    4.00   1.00 2-Mohrman-Sieg vs 6-Ruprecht-Jarvis
+        430    4.00   1.00 4-Tipton-Hesson vs 9-Lakshmanan-Chaunal
+        460    1.00   4.00 5-Miller-Ford vs 12-Zaugg-Christie
+        460    1.00   4.00 7-Kossmann-Romeo vs 8-Hendrickson-Davis
+        460    1.00   4.00 13-Chen-Tu vs 10-Eng-Moore
+        430    4.00   1.00 14-Wright-Anderson vs 11-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   3.50 1-Ring-Christensen vs 11-Rind-Waggoner
+        100    1.50   3.50 2-Mohrman-Sieg vs 4-Tipton-Hesson
+  140          4.00   1.00 5-Miller-Ford vs 10-Eng-Moore
+        100    1.50   3.50 6-Ruprecht-Jarvis vs 13-Chen-Tu
+  590          5.00   0.00 8-Hendrickson-Davis vs 9-Lakshmanan-Chaunal
+        100    1.50   3.50 14-Wright-Anderson vs 12-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.00   3.00 1-Ring-Christensen vs 11-Rind-Waggoner
+        200    1.00   4.00 2-Mohrman-Sieg vs 4-Tipton-Hesson
+        300    0.00   5.00 5-Miller-Ford vs 10-Eng-Moore
+  110          3.50   1.50 6-Ruprecht-Jarvis vs 13-Chen-Tu
+  110          3.50   1.50 8-Hendrickson-Davis vs 9-Lakshmanan-Chaunal
+  150          5.00   0.00 14-Wright-Anderson vs 12-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        940    4.00   1.00 2-Mohrman-Sieg vs 12-Zaugg-Christie
+       1020    2.00   3.00 4-Tipton-Hesson vs 8-Hendrickson-Davis
+       1020    2.00   3.00 6-Ruprecht-Jarvis vs 11-Rind-Waggoner
+       1520    0.00   5.00 7-Kossmann-Romeo vs 1-Ring-Christensen
+       1020    2.00   3.00 9-Lakshmanan-Chaunal vs 10-Eng-Moore
+        190    5.00   0.00 14-Wright-Anderson vs 13-Chen-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          1.50   3.50 2-Mohrman-Sieg vs 12-Zaugg-Christie
+  170          0.00   5.00 4-Tipton-Hesson vs 8-Hendrickson-Davis
+  420          4.00   1.00 6-Ruprecht-Jarvis vs 11-Rind-Waggoner
+  300          1.50   3.50 7-Kossmann-Romeo vs 1-Ring-Christensen
+  420          4.00   1.00 9-Lakshmanan-Chaunal vs 10-Eng-Moore
+  420          4.00   1.00 14-Wright-Anderson vs 13-Chen-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.00   3.00 4-Tipton-Hesson vs 6-Ruprecht-Jarvis
+        710    0.00   5.00 5-Miller-Ford vs 9-Lakshmanan-Chaunal
+        100    1.00   4.00 7-Kossmann-Romeo vs 12-Zaugg-Christie
+  150          3.50   1.50 8-Hendrickson-Davis vs 2-Mohrman-Sieg
+  600          5.00   0.00 10-Eng-Moore vs 11-Rind-Waggoner
+  150          3.50   1.50 14-Wright-Anderson vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.00   4.00 4-Tipton-Hesson vs 6-Ruprecht-Jarvis
+  170          1.00   4.00 5-Miller-Ford vs 9-Lakshmanan-Chaunal
+  420          4.00   1.00 7-Kossmann-Romeo vs 12-Zaugg-Christie
+  170          1.00   4.00 8-Hendrickson-Davis vs 2-Mohrman-Sieg
+  420          4.00   1.00 10-Eng-Moore vs 11-Rind-Waggoner
+  420          4.00   1.00 14-Wright-Anderson vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   3.00 4-Tipton-Hesson vs 1-Ring-Christensen
+  100          4.50   0.50 5-Miller-Ford vs 7-Kossmann-Romeo
+        150    0.50   4.50 6-Ruprecht-Jarvis vs 10-Eng-Moore
+  100          4.50   0.50 8-Hendrickson-Davis vs 13-Chen-Tu
+        110    3.00   2.00 11-Rind-Waggoner vs 12-Zaugg-Christie
+        150    0.50   4.50 14-Wright-Anderson vs 2-Mohrman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   4.00 4-Tipton-Hesson vs 1-Ring-Christensen
+  100          3.50   1.50 5-Miller-Ford vs 7-Kossmann-Romeo
+  200          5.00   0.00 6-Ruprecht-Jarvis vs 10-Eng-Moore
+        620    1.00   4.00 8-Hendrickson-Davis vs 13-Chen-Tu
+        620    1.00   4.00 11-Rind-Waggoner vs 12-Zaugg-Christie
+  100          3.50   1.50 14-Wright-Anderson vs 2-Mohrman-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   1.00 5-Miller-Ford vs 2-Mohrman-Sieg
+         50    3.00   2.00 6-Ruprecht-Jarvis vs 8-Hendrickson-Davis
+        100    2.00   3.00 7-Kossmann-Romeo vs 11-Rind-Waggoner
+        130    0.00   5.00 9-Lakshmanan-Chaunal vs 1-Ring-Christensen
+  140          5.00   0.00 10-Eng-Moore vs 4-Tipton-Hesson
+        110    1.00   4.00 12-Zaugg-Christie vs 13-Chen-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.00   2.00 5-Miller-Ford vs 2-Mohrman-Sieg
+        430    0.00   5.00 6-Ruprecht-Jarvis vs 8-Hendrickson-Davis
+        420    3.00   2.00 7-Kossmann-Romeo vs 11-Rind-Waggoner
+        420    3.00   2.00 9-Lakshmanan-Chaunal vs 1-Ring-Christensen
+        420    3.00   2.00 10-Eng-Moore vs 4-Tipton-Hesson
+        420    3.00   2.00 12-Zaugg-Christie vs 13-Chen-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   3.50 7-Kossmann-Romeo vs 9-Lakshmanan-Chaunal
+        300    0.00   5.00 8-Hendrickson-Davis vs 12-Zaugg-Christie
+        100    1.50   3.50 10-Eng-Moore vs 2-Mohrman-Sieg
+  200          3.50   1.50 11-Rind-Waggoner vs 5-Miller-Ford
+  200          3.50   1.50 13-Chen-Tu vs 1-Ring-Christensen
+  300          5.00   0.00 14-Wright-Anderson vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   0.00 7-Kossmann-Romeo vs 9-Lakshmanan-Chaunal
+   50          1.00   4.00 8-Hendrickson-Davis vs 12-Zaugg-Christie
+  100          3.00   2.00 10-Eng-Moore vs 2-Mohrman-Sieg
+         50    0.00   5.00 11-Rind-Waggoner vs 5-Miller-Ford
+  100          3.00   2.00 13-Chen-Tu vs 1-Ring-Christensen
+  100          3.00   2.00 14-Wright-Anderson vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  750          4.50   0.50 1-Ring-Christensen vs 2-Mohrman-Sieg
+  130          1.50   3.50 7-Kossmann-Romeo vs 4-Tipton-Hesson
+  130          1.50   3.50 8-Hendrickson-Davis vs 10-Eng-Moore
+  750          4.50   0.50 9-Lakshmanan-Chaunal vs 13-Chen-Tu
+  150          3.00   2.00 12-Zaugg-Christie vs 6-Ruprecht-Jarvis
+  100          0.00   5.00 14-Wright-Anderson vs 5-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   1.00 1-Ring-Christensen vs 2-Mohrman-Sieg
+        100    2.50   2.50 7-Kossmann-Romeo vs 4-Tipton-Hesson
+        300    1.00   4.00 8-Hendrickson-Davis vs 10-Eng-Moore
+        100    2.50   2.50 9-Lakshmanan-Chaunal vs 13-Chen-Tu
+  140          5.00   0.00 12-Zaugg-Christie vs 6-Ruprecht-Jarvis
+        500    0.00   5.00 14-Wright-Anderson vs 5-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   70          4.00   1.00 8-Hendrickson-Davis vs 5-Miller-Ford
+        150    0.00   5.00 9-Lakshmanan-Chaunal vs 11-Rind-Waggoner
+         50    2.00   3.00 10-Eng-Moore vs 1-Ring-Christensen
+         50    2.00   3.00 12-Zaugg-Christie vs 4-Tipton-Hesson
+         50    2.00   3.00 13-Chen-Tu vs 7-Kossmann-Romeo
+   90          5.00   0.00 14-Wright-Anderson vs 6-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.50   2.50 8-Hendrickson-Davis vs 5-Miller-Ford
+        450    0.50   4.50 9-Lakshmanan-Chaunal vs 11-Rind-Waggoner
+        450    0.50   4.50 10-Eng-Moore vs 1-Ring-Christensen
+        110    5.00   0.00 12-Zaugg-Christie vs 4-Tipton-Hesson
+        420    2.50   2.50 13-Chen-Tu vs 7-Kossmann-Romeo
+        400    4.00   1.00 14-Wright-Anderson vs 6-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   1.50 1-Ring-Christensen vs 8-Hendrickson-Davis
+        130    2.00   3.00 9-Lakshmanan-Chaunal vs 6-Ruprecht-Jarvis
+        300    0.00   5.00 10-Eng-Moore vs 12-Zaugg-Christie
+        150    1.00   4.00 11-Rind-Waggoner vs 2-Mohrman-Sieg
+         50    3.50   1.50 13-Chen-Tu vs 5-Miller-Ford
+  140          5.00   0.00 14-Wright-Anderson vs 7-Kossmann-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   0.50 1-Ring-Christensen vs 8-Hendrickson-Davis
+        230    1.00   4.00 9-Lakshmanan-Chaunal vs 6-Ruprecht-Jarvis
+        100    4.50   0.50 10-Eng-Moore vs 12-Zaugg-Christie
+        170    3.00   2.00 11-Rind-Waggoner vs 2-Mohrman-Sieg
+        200    2.00   3.00 13-Chen-Tu vs 5-Miller-Ford
+        620    0.00   5.00 14-Wright-Anderson vs 7-Kossmann-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    5.00   0.00 1-Ring-Christensen vs 6-Ruprecht-Jarvis
+        420    3.50   1.50 2-Mohrman-Sieg vs 9-Lakshmanan-Chaunal
+        450    1.00   4.00 4-Tipton-Hesson vs 5-Miller-Ford
+        450    1.00   4.00 10-Eng-Moore vs 7-Kossmann-Romeo
+        420    3.50   1.50 11-Rind-Waggoner vs 13-Chen-Tu
+        450    1.00   4.00 14-Wright-Anderson vs 8-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    3.00   2.00 1-Ring-Christensen vs 6-Ruprecht-Jarvis
+        800    0.00   5.00 2-Mohrman-Sieg vs 9-Lakshmanan-Chaunal
+        680    3.00   2.00 4-Tipton-Hesson vs 5-Miller-Ford
+        680    3.00   2.00 10-Eng-Moore vs 7-Kossmann-Romeo
+        680    3.00   2.00 11-Rind-Waggoner vs 13-Chen-Tu
+        680    3.00   2.00 14-Wright-Anderson vs 8-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.50   1.50 2-Mohrman-Sieg vs 7-Kossmann-Romeo
+  200          3.50   1.50 5-Miller-Ford vs 6-Ruprecht-Jarvis
+  200          3.50   1.50 11-Rind-Waggoner vs 8-Hendrickson-Davis
+        140    0.00   5.00 12-Zaugg-Christie vs 1-Ring-Christensen
+  200          3.50   1.50 13-Chen-Tu vs 4-Tipton-Hesson
+  100          1.00   4.00 14-Wright-Anderson vs 9-Lakshmanan-Chaunal
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.50   1.50 2-Mohrman-Sieg vs 7-Kossmann-Romeo
+  460          1.00   4.00 5-Miller-Ford vs 6-Ruprecht-Jarvis
+  480          3.50   1.50 11-Rind-Waggoner vs 8-Hendrickson-Davis
+  450          0.00   5.00 12-Zaugg-Christie vs 1-Ring-Christensen
+  480          3.50   1.50 13-Chen-Tu vs 4-Tipton-Hesson
+  480          3.50   1.50 14-Wright-Anderson vs 9-Lakshmanan-Chaunal
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  920          3.00   2.00 1-Ring-Christensen vs 5-Miller-Ford
+  420          1.00   4.00 4-Tipton-Hesson vs 11-Rind-Waggoner
+ 1090          5.00   0.00 6-Ruprecht-Jarvis vs 7-Kossmann-Romeo
+  920          3.00   2.00 12-Zaugg-Christie vs 9-Lakshmanan-Chaunal
+  400          0.00   5.00 13-Chen-Tu vs 2-Mohrman-Sieg
+  920          3.00   2.00 14-Wright-Anderson vs 10-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   0.00 1-Ring-Christensen vs 5-Miller-Ford
+  140          1.50   3.50 4-Tipton-Hesson vs 11-Rind-Waggoner
+  200          3.50   1.50 6-Ruprecht-Jarvis vs 7-Kossmann-Romeo
+  200          3.50   1.50 12-Zaugg-Christie vs 9-Lakshmanan-Chaunal
+  140          1.50   3.50 13-Chen-Tu vs 2-Mohrman-Sieg
+        140    0.00   5.00 14-Wright-Anderson vs 10-Eng-Moore
+----------------------------------------------------------------------
