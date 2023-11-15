@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 14, 2023  |CLUB NO.>158048    | 11/14/2023 21:56
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Wright           Shawn Abernethy          B   3/4    3     .     59.50  55.09  0.43(A) 
+
+ 2 Jeffrey Ford           Stanford Christie        A   3/4    .     .     59.50  55.09  0.43(A) 
+
+ 3 Genie Thai-May         Changtiaorap Lanchew     C    .     .     .     44.50  41.20          
+
+ 4 Nick Tipton            Galen Hesson             B    1     1     .     62.50  57.87  1.00(A) 
+
+ 5 Robb Effinger          Mark Engelberg           C    .     .     1     57.00  52.78  0.24(C) 
+
+ 6 Mike Christensen       Kevin Cline              A    .     .     .     51.00  47.22          
+
+ 7 Kim Eng                Eric Sieg                A    .     .     .     57.00  52.78          
+
+ 8 Bob Sievers            Mike Ring                B    2     2     .     62.00  57.41  0.70(A) 
+
+ 9 Pete Cowles            Craig Mills              C    .     .     .     45.50  42.13          
+
+10 Brian Zaugg            Liliana Diaconescu       B    .     .     .     41.50  38.43          
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   3.50 1-Wright-Abernethy vs 4-Tipton-Hesson
+   50          2.50   1.50 2-Ford-Christie vs 9-Cowles-Mills
+   50          2.50   1.50 3-Thai-May-Lanchew vs 7-Eng-Sieg
+  100          4.00   0.00 5-Effinger-Engelberg vs 6-Christensen-Cline
+        140    0.50   3.50 10-Zaugg-Diaconescu vs 8-Sievers-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   3.00 1-Wright-Abernethy vs 4-Tipton-Hesson
+  100          3.00   1.00 2-Ford-Christie vs 9-Cowles-Mills
+        510    0.00   4.00 3-Thai-May-Lanchew vs 7-Eng-Sieg
+  100          3.00   1.00 5-Effinger-Engelberg vs 6-Christensen-Cline
+  100          3.00   1.00 10-Zaugg-Diaconescu vs 8-Sievers-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.00   0.00 1-Wright-Abernethy vs 4-Tipton-Hesson
+  100          3.00   1.00 2-Ford-Christie vs 9-Cowles-Mills
+        130    2.00   2.00 3-Thai-May-Lanchew vs 7-Eng-Sieg
+        150    0.50   3.50 5-Effinger-Engelberg vs 6-Christensen-Cline
+        150    0.50   3.50 10-Zaugg-Diaconescu vs 8-Sievers-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   4.00 2-Ford-Christie vs 5-Effinger-Engelberg
+    PASS       2.00   2.00 3-Thai-May-Lanchew vs 1-Wright-Abernethy
+  200          3.50   0.50 4-Tipton-Hesson vs 8-Sievers-Ring
+  200          3.50   0.50 6-Christensen-Cline vs 7-Eng-Sieg
+        110    1.00   3.00 10-Zaugg-Diaconescu vs 9-Cowles-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   0.00 2-Ford-Christie vs 5-Effinger-Engelberg
+        100    0.00   4.00 3-Thai-May-Lanchew vs 1-Wright-Abernethy
+  600          3.00   1.00 4-Tipton-Hesson vs 8-Sievers-Ring
+  110          1.00   3.00 6-Christensen-Cline vs 7-Eng-Sieg
+  200          2.00   2.00 10-Zaugg-Diaconescu vs 9-Cowles-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 2-Ford-Christie vs 5-Effinger-Engelberg
+   90          2.50   1.50 3-Thai-May-Lanchew vs 1-Wright-Abernethy
+         80    0.00   4.00 4-Tipton-Hesson vs 8-Sievers-Ring
+  200          4.00   0.00 6-Christensen-Cline vs 7-Eng-Sieg
+   90          2.50   1.50 10-Zaugg-Diaconescu vs 9-Cowles-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.00   2.00 3-Thai-May-Lanchew vs 6-Christensen-Cline
+  660          3.00   1.00 4-Tipton-Hesson vs 2-Ford-Christie
+  690          4.00   0.00 5-Effinger-Engelberg vs 9-Cowles-Mills
+  500          0.00   4.00 7-Eng-Sieg vs 8-Sievers-Ring
+  600          1.00   3.00 10-Zaugg-Diaconescu vs 1-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.50   1.50 3-Thai-May-Lanchew vs 6-Christensen-Cline
+        130    4.00   0.00 4-Tipton-Hesson vs 2-Ford-Christie
+        400    2.50   1.50 5-Effinger-Engelberg vs 9-Cowles-Mills
+        460    1.00   3.00 7-Eng-Sieg vs 8-Sievers-Ring
+       1100    0.00   4.00 10-Zaugg-Diaconescu vs 1-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    3.00   1.00 3-Thai-May-Lanchew vs 6-Christensen-Cline
+        630    0.50   3.50 4-Tipton-Hesson vs 2-Ford-Christie
+        630    0.50   3.50 5-Effinger-Engelberg vs 9-Cowles-Mills
+        600    3.00   1.00 7-Eng-Sieg vs 8-Sievers-Ring
+        600    3.00   1.00 10-Zaugg-Diaconescu vs 1-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   4.00 4-Tipton-Hesson vs 7-Eng-Sieg
+  620          2.50   1.50 5-Effinger-Engelberg vs 3-Thai-May-Lanchew
+  620          2.50   1.50 6-Christensen-Cline vs 1-Wright-Abernethy
+  650          4.00   0.00 8-Sievers-Ring vs 9-Cowles-Mills
+  200          1.00   3.00 10-Zaugg-Diaconescu vs 2-Ford-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   3.50 4-Tipton-Hesson vs 7-Eng-Sieg
+   50          2.00   2.00 5-Effinger-Engelberg vs 3-Thai-May-Lanchew
+         50    0.50   3.50 6-Christensen-Cline vs 1-Wright-Abernethy
+  150          3.50   0.50 8-Sievers-Ring vs 9-Cowles-Mills
+  150          3.50   0.50 10-Zaugg-Diaconescu vs 2-Ford-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   2.00 4-Tipton-Hesson vs 7-Eng-Sieg
+  300          3.00   1.00 5-Effinger-Engelberg vs 3-Thai-May-Lanchew
+        100    0.00   4.00 6-Christensen-Cline vs 1-Wright-Abernethy
+  600          4.00   0.00 8-Sievers-Ring vs 9-Cowles-Mills
+   90          1.00   3.00 10-Zaugg-Diaconescu vs 2-Ford-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          4.00   0.00 5-Effinger-Engelberg vs 8-Sievers-Ring
+        100    0.00   4.00 6-Christensen-Cline vs 4-Tipton-Hesson
+  150          2.00   2.00 7-Eng-Sieg vs 2-Ford-Christie
+  150          2.00   2.00 9-Cowles-Mills vs 1-Wright-Abernethy
+  150          2.00   2.00 10-Zaugg-Diaconescu vs 3-Thai-May-Lanchew
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   4.00 5-Effinger-Engelberg vs 8-Sievers-Ring
+  300          1.50   2.50 6-Christensen-Cline vs 4-Tipton-Hesson
+  500          4.00   0.00 7-Eng-Sieg vs 2-Ford-Christie
+  300          1.50   2.50 9-Cowles-Mills vs 1-Wright-Abernethy
+  430          3.00   1.00 10-Zaugg-Diaconescu vs 3-Thai-May-Lanchew
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          1.50   2.50 5-Effinger-Engelberg vs 8-Sievers-Ring
+  630          3.50   0.50 6-Christensen-Cline vs 4-Tipton-Hesson
+        100    0.00   4.00 7-Eng-Sieg vs 2-Ford-Christie
+  630          3.50   0.50 9-Cowles-Mills vs 1-Wright-Abernethy
+  600          1.50   2.50 10-Zaugg-Diaconescu vs 3-Thai-May-Lanchew
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          1.00   3.00 1-Wright-Abernethy vs 2-Ford-Christie
+  130          1.00   3.00 6-Christensen-Cline vs 9-Cowles-Mills
+  150          3.50   0.50 7-Eng-Sieg vs 5-Effinger-Engelberg
+  150          3.50   0.50 8-Sievers-Ring vs 3-Thai-May-Lanchew
+  130          1.00   3.00 10-Zaugg-Diaconescu vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.50   2.50 1-Wright-Abernethy vs 2-Ford-Christie
+   50          4.00   0.00 6-Christensen-Cline vs 9-Cowles-Mills
+        450    1.50   2.50 7-Eng-Sieg vs 5-Effinger-Engelberg
+        450    1.50   2.50 8-Sievers-Ring vs 3-Thai-May-Lanchew
+        450    1.50   2.50 10-Zaugg-Diaconescu vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          2.00   2.00 1-Wright-Abernethy vs 2-Ford-Christie
+  300          1.00   3.00 6-Christensen-Cline vs 9-Cowles-Mills
+ 1050          4.00   0.00 7-Eng-Sieg vs 5-Effinger-Engelberg
+  650          3.00   1.00 8-Sievers-Ring vs 3-Thai-May-Lanchew
+        100    0.00   4.00 10-Zaugg-Diaconescu vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.50   0.50 2-Ford-Christie vs 3-Thai-May-Lanchew
+        100    0.50   3.50 7-Eng-Sieg vs 1-Wright-Abernethy
+         50    2.00   2.00 8-Sievers-Ring vs 6-Christensen-Cline
+  110          3.50   0.50 9-Cowles-Mills vs 4-Tipton-Hesson
+        100    0.50   3.50 10-Zaugg-Diaconescu vs 5-Effinger-Engelberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   1.00 2-Ford-Christie vs 3-Thai-May-Lanchew
+  680          4.00   0.00 7-Eng-Sieg vs 1-Wright-Abernethy
+  620          1.50   2.50 8-Sievers-Ring vs 6-Christensen-Cline
+        200    0.00   4.00 9-Cowles-Mills vs 4-Tipton-Hesson
+  620          1.50   2.50 10-Zaugg-Diaconescu vs 5-Effinger-Engelberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   0.00 2-Ford-Christie vs 3-Thai-May-Lanchew
+        130    1.50   2.50 7-Eng-Sieg vs 1-Wright-Abernethy
+        130    1.50   2.50 8-Sievers-Ring vs 6-Christensen-Cline
+        130    1.50   2.50 9-Cowles-Mills vs 4-Tipton-Hesson
+        130    1.50   2.50 10-Zaugg-Diaconescu vs 5-Effinger-Engelberg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   1.00 1-Wright-Abernethy vs 5-Effinger-Engelberg
+        120    0.50   3.50 3-Thai-May-Lanchew vs 4-Tipton-Hesson
+        120    0.50   3.50 8-Sievers-Ring vs 2-Ford-Christie
+  100          3.00   1.00 9-Cowles-Mills vs 7-Eng-Sieg
+  100          3.00   1.00 10-Zaugg-Diaconescu vs 6-Christensen-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        730    0.00   4.00 1-Wright-Abernethy vs 5-Effinger-Engelberg
+  100          3.50   0.50 3-Thai-May-Lanchew vs 4-Tipton-Hesson
+        100    2.00   2.00 8-Sievers-Ring vs 2-Ford-Christie
+  100          3.50   0.50 9-Cowles-Mills vs 7-Eng-Sieg
+        170    1.00   3.00 10-Zaugg-Diaconescu vs 6-Christensen-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.00   2.00 1-Wright-Abernethy vs 5-Effinger-Engelberg
+        500    0.00   4.00 3-Thai-May-Lanchew vs 4-Tipton-Hesson
+  250          4.00   0.00 8-Sievers-Ring vs 2-Ford-Christie
+        300    2.00   2.00 9-Cowles-Mills vs 7-Eng-Sieg
+        300    2.00   2.00 10-Zaugg-Diaconescu vs 6-Christensen-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   1.00 1-Wright-Abernethy vs 8-Sievers-Ring
+        710    1.00   3.00 2-Ford-Christie vs 6-Christensen-Cline
+  100          4.00   0.00 4-Tipton-Hesson vs 5-Effinger-Engelberg
+        710    1.00   3.00 9-Cowles-Mills vs 3-Thai-May-Lanchew
+        710    1.00   3.00 10-Zaugg-Diaconescu vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   0.00 1-Wright-Abernethy vs 8-Sievers-Ring
+  130          2.50   1.50 2-Ford-Christie vs 6-Christensen-Cline
+        300    0.00   4.00 4-Tipton-Hesson vs 5-Effinger-Engelberg
+  130          2.50   1.50 9-Cowles-Mills vs 3-Thai-May-Lanchew
+        110    1.00   3.00 10-Zaugg-Diaconescu vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    2.00   2.00 1-Wright-Abernethy vs 8-Sievers-Ring
+        490    2.00   2.00 2-Ford-Christie vs 6-Christensen-Cline
+        420    4.00   0.00 4-Tipton-Hesson vs 5-Effinger-Engelberg
+        990    0.00   4.00 9-Cowles-Mills vs 3-Thai-May-Lanchew
+        490    2.00   2.00 10-Zaugg-Diaconescu vs 7-Eng-Sieg
+----------------------------------------------------------------------
