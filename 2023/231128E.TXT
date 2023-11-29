@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 28, 2023  |CLUB NO.>158048    | 11/28/2023 21:49
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Mike Ring                B    3     2     .     59.00  54.63  0.50(A) 
+
+ 2 Sue Anderson           David Taylor             B    2     1     .     60.50  56.02  0.70(A) 
+
+ 3 Ray Miller             Joseph Grill             A    .     .     .     54.50  50.46          
+
+ 4 Kim Eng                Jeffrey Ford             A    1     .     .     68.50  63.43  1.00(A) 
+
+ 5 Nick Tipton            Galen Hesson             B    4     3     .     57.00  52.78  0.35(A) 
+
+ 6 David Roselle          Stephanie Gottesmann     B    .     .     .     51.00  47.22          
+
+ 7 Christopher Jarvis     Adam Ruprecht            C    .     .     2     49.50  45.83  0.22(C) 
+
+ 8 Ann Romeo              Susan Gonzales           C    .     .     .     42.00  38.89          
+
+ 9 Susan Waggoner         Brad Rind                C    .     .     .     46.00  42.59          
+
+10 Shawn Abernethy        Oyvind Tafjord           C    .     .     1     52.00  48.15  0.32(C) 
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          0.50   3.50 1-Zaugg-Ring vs 4-Eng-Ford
+  430          2.50   1.50 2-Anderson-Taylor vs 9-Waggoner-Rind
+  460          4.00   0.00 3-Miller-Grill vs 7-Jarvis-Ruprecht
+  400          0.50   3.50 5-Tipton-Hesson vs 6-Roselle-Gottesmann
+  430          2.50   1.50 10-Abernethy-Tafjord vs 8-Romeo-Gonzales
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   4.00 1-Zaugg-Ring vs 4-Eng-Ford
+         90    4.00   0.00 2-Anderson-Taylor vs 9-Waggoner-Rind
+        120    3.00   1.00 3-Miller-Grill vs 7-Jarvis-Ruprecht
+        150    1.50   2.50 5-Tipton-Hesson vs 6-Roselle-Gottesmann
+        150    1.50   2.50 10-Abernethy-Tafjord vs 8-Romeo-Gonzales
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   1.00 1-Zaugg-Ring vs 4-Eng-Ford
+         50    0.00   4.00 2-Anderson-Taylor vs 9-Waggoner-Rind
+  140          3.00   1.00 3-Miller-Grill vs 7-Jarvis-Ruprecht
+  110          1.00   3.00 5-Tipton-Hesson vs 6-Roselle-Gottesmann
+  140          3.00   1.00 10-Abernethy-Tafjord vs 8-Romeo-Gonzales
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          2.00   2.00 2-Anderson-Taylor vs 5-Tipton-Hesson
+  650          2.00   2.00 3-Miller-Grill vs 1-Zaugg-Ring
+  650          2.00   2.00 4-Eng-Ford vs 8-Romeo-Gonzales
+  650          2.00   2.00 6-Roselle-Gottesmann vs 7-Jarvis-Ruprecht
+  650          2.00   2.00 10-Abernethy-Tafjord vs 9-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 2-Anderson-Taylor vs 5-Tipton-Hesson
+        430    0.00   4.00 3-Miller-Grill vs 1-Zaugg-Ring
+        400    1.50   2.50 4-Eng-Ford vs 8-Romeo-Gonzales
+        150    3.00   1.00 6-Roselle-Gottesmann vs 7-Jarvis-Ruprecht
+        400    1.50   2.50 10-Abernethy-Tafjord vs 9-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   1.50 2-Anderson-Taylor vs 5-Tipton-Hesson
+        150    0.00   4.00 3-Miller-Grill vs 1-Zaugg-Ring
+  200          4.00   0.00 4-Eng-Ford vs 8-Romeo-Gonzales
+  100          2.50   1.50 6-Roselle-Gottesmann vs 7-Jarvis-Ruprecht
+        110    1.00   3.00 10-Abernethy-Tafjord vs 9-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    2.00   2.00 3-Miller-Grill vs 6-Roselle-Gottesmann
+       1050    0.50   3.50 4-Eng-Ford vs 2-Anderson-Taylor
+        650    3.00   1.00 5-Tipton-Hesson vs 9-Waggoner-Rind
+        400    4.00   0.00 7-Jarvis-Ruprecht vs 8-Romeo-Gonzales
+       1050    0.50   3.50 10-Abernethy-Tafjord vs 1-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          0.50   3.50 3-Miller-Grill vs 6-Roselle-Gottesmann
+  420          0.50   3.50 4-Eng-Ford vs 2-Anderson-Taylor
+  450          3.00   1.00 5-Tipton-Hesson vs 9-Waggoner-Rind
+  450          3.00   1.00 7-Jarvis-Ruprecht vs 8-Romeo-Gonzales
+  450          3.00   1.00 10-Abernethy-Tafjord vs 1-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 3-Miller-Grill vs 6-Roselle-Gottesmann
+  150          4.00   0.00 4-Eng-Ford vs 2-Anderson-Taylor
+  120          3.00   1.00 5-Tipton-Hesson vs 9-Waggoner-Rind
+         50    1.00   3.00 7-Jarvis-Ruprecht vs 8-Romeo-Gonzales
+         50    1.00   3.00 10-Abernethy-Tafjord vs 1-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.00   0.00 4-Eng-Ford vs 7-Jarvis-Ruprecht
+       1430    1.50   2.50 5-Tipton-Hesson vs 3-Miller-Grill
+        690    3.00   1.00 6-Roselle-Gottesmann vs 1-Zaugg-Ring
+       1430    1.50   2.50 8-Romeo-Gonzales vs 9-Waggoner-Rind
+       1440    0.00   4.00 10-Abernethy-Tafjord vs 2-Anderson-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   3.50 4-Eng-Ford vs 7-Jarvis-Ruprecht
+  110          2.50   1.50 5-Tipton-Hesson vs 3-Miller-Grill
+         50    0.50   3.50 6-Roselle-Gottesmann vs 1-Zaugg-Ring
+  110          2.50   1.50 8-Romeo-Gonzales vs 9-Waggoner-Rind
+  140          4.00   0.00 10-Abernethy-Tafjord vs 2-Anderson-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.50   1.50 4-Eng-Ford vs 7-Jarvis-Ruprecht
+        420    2.50   1.50 5-Tipton-Hesson vs 3-Miller-Grill
+        590    0.00   4.00 6-Roselle-Gottesmann vs 1-Zaugg-Ring
+        420    2.50   1.50 8-Romeo-Gonzales vs 9-Waggoner-Rind
+        420    2.50   1.50 10-Abernethy-Tafjord vs 2-Anderson-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          4.00   0.00 5-Tipton-Hesson vs 8-Romeo-Gonzales
+        100    2.00   2.00 6-Roselle-Gottesmann vs 4-Eng-Ford
+        200    0.00   4.00 7-Jarvis-Ruprecht vs 2-Anderson-Taylor
+        100    2.00   2.00 9-Waggoner-Rind vs 1-Zaugg-Ring
+        100    2.00   2.00 10-Abernethy-Tafjord vs 3-Miller-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   2.00 5-Tipton-Hesson vs 8-Romeo-Gonzales
+  170          0.00   4.00 6-Roselle-Gottesmann vs 4-Eng-Ford
+  590          3.50   0.50 7-Jarvis-Ruprecht vs 2-Anderson-Taylor
+  420          1.00   3.00 9-Waggoner-Rind vs 1-Zaugg-Ring
+  590          3.50   0.50 10-Abernethy-Tafjord vs 3-Miller-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.50   1.50 5-Tipton-Hesson vs 8-Romeo-Gonzales
+        800    0.00   4.00 6-Roselle-Gottesmann vs 4-Eng-Ford
+        130    2.50   1.50 7-Jarvis-Ruprecht vs 2-Anderson-Taylor
+  150          4.00   0.00 9-Waggoner-Rind vs 1-Zaugg-Ring
+        150    1.00   3.00 10-Abernethy-Tafjord vs 3-Miller-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   0.50 1-Zaugg-Ring vs 2-Anderson-Taylor
+        500    2.00   2.00 6-Roselle-Gottesmann vs 9-Waggoner-Rind
+  100          3.50   0.50 7-Jarvis-Ruprecht vs 5-Tipton-Hesson
+        630    0.00   4.00 8-Romeo-Gonzales vs 3-Miller-Grill
+        600    1.00   3.00 10-Abernethy-Tafjord vs 4-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          4.00   0.00 1-Zaugg-Ring vs 2-Anderson-Taylor
+  480          1.50   2.50 6-Roselle-Gottesmann vs 9-Waggoner-Rind
+  480          1.50   2.50 7-Jarvis-Ruprecht vs 5-Tipton-Hesson
+  480          1.50   2.50 8-Romeo-Gonzales vs 3-Miller-Grill
+  480          1.50   2.50 10-Abernethy-Tafjord vs 4-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.00   2.00 1-Zaugg-Ring vs 2-Anderson-Taylor
+        420    2.00   2.00 6-Roselle-Gottesmann vs 9-Waggoner-Rind
+        420    2.00   2.00 7-Jarvis-Ruprecht vs 5-Tipton-Hesson
+        420    2.00   2.00 8-Romeo-Gonzales vs 3-Miller-Grill
+        420    2.00   2.00 10-Abernethy-Tafjord vs 4-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   1.00 2-Anderson-Taylor vs 3-Miller-Grill
+  100          3.00   1.00 7-Jarvis-Ruprecht vs 1-Zaugg-Ring
+  100          3.00   1.00 8-Romeo-Gonzales vs 6-Roselle-Gottesmann
+        620    0.00   4.00 9-Waggoner-Rind vs 4-Eng-Ford
+        150    1.00   3.00 10-Abernethy-Tafjord vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.00   0.00 2-Anderson-Taylor vs 3-Miller-Grill
+  130          0.50   3.50 7-Jarvis-Ruprecht vs 1-Zaugg-Ring
+  130          0.50   3.50 8-Romeo-Gonzales vs 6-Roselle-Gottesmann
+  600          2.50   1.50 9-Waggoner-Rind vs 4-Eng-Ford
+  600          2.50   1.50 10-Abernethy-Tafjord vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   0.50 2-Anderson-Taylor vs 3-Miller-Grill
+  100          3.50   0.50 7-Jarvis-Ruprecht vs 1-Zaugg-Ring
+   50          2.00   2.00 8-Romeo-Gonzales vs 6-Roselle-Gottesmann
+        110    0.00   4.00 9-Waggoner-Rind vs 4-Eng-Ford
+         90    1.00   3.00 10-Abernethy-Tafjord vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   4.00 1-Zaugg-Ring vs 5-Tipton-Hesson
+  420          2.00   2.00 3-Miller-Grill vs 4-Eng-Ford
+  170          1.00   3.00 8-Romeo-Gonzales vs 2-Anderson-Taylor
+  920          4.00   0.00 9-Waggoner-Rind vs 7-Jarvis-Ruprecht
+  450          3.00   1.00 10-Abernethy-Tafjord vs 6-Roselle-Gottesmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    1.00   3.00 1-Zaugg-Ring vs 5-Tipton-Hesson
+        680    3.50   0.50 3-Miller-Grill vs 4-Eng-Ford
+        680    3.50   0.50 8-Romeo-Gonzales vs 2-Anderson-Taylor
+       1430    1.00   3.00 9-Waggoner-Rind vs 7-Jarvis-Ruprecht
+       1430    1.00   3.00 10-Abernethy-Tafjord vs 6-Roselle-Gottesmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    1.00   3.00 1-Zaugg-Ring vs 5-Tipton-Hesson
+        480    1.00   3.00 3-Miller-Grill vs 4-Eng-Ford
+        480    1.00   3.00 8-Romeo-Gonzales vs 2-Anderson-Taylor
+        450    3.00   1.00 9-Waggoner-Rind vs 7-Jarvis-Ruprecht
+   50          4.00   0.00 10-Abernethy-Tafjord vs 6-Roselle-Gottesmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   1.00 1-Zaugg-Ring vs 8-Romeo-Gonzales
+  100          2.00   2.00 2-Anderson-Taylor vs 6-Roselle-Gottesmann
+         50    0.50   3.50 4-Eng-Ford vs 5-Tipton-Hesson
+         50    0.50   3.50 9-Waggoner-Rind vs 3-Miller-Grill
+  420          4.00   0.00 10-Abernethy-Tafjord vs 7-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   1.00 1-Zaugg-Ring vs 8-Romeo-Gonzales
+        150    2.00   2.00 2-Anderson-Taylor vs 6-Roselle-Gottesmann
+         90    4.00   0.00 4-Eng-Ford vs 5-Tipton-Hesson
+        630    0.00   4.00 9-Waggoner-Rind vs 3-Miller-Grill
+        600    1.00   3.00 10-Abernethy-Tafjord vs 7-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.00   2.00 1-Zaugg-Ring vs 8-Romeo-Gonzales
+  140          3.50   0.50 2-Anderson-Taylor vs 6-Roselle-Gottesmann
+  140          3.50   0.50 4-Eng-Ford vs 5-Tipton-Hesson
+        140    0.00   4.00 9-Waggoner-Rind vs 3-Miller-Grill
+   90          1.00   3.00 10-Abernethy-Tafjord vs 7-Jarvis-Ruprecht
+----------------------------------------------------------------------
