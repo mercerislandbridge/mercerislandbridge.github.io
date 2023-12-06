@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 5, 2023   |SANCTION>L2312446A | 12/05/2023 21:59
+---------------------,-- ------------------- -------------,---------------------
+DIR> Mike/Aaron      |RATING>Unit Championship            |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=2                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Susan Waggoner         Brad Rind                C   .     .     .   |   .     .     .     47.50  43.98          
+
+ 2 Hugh Hendrickson       Nelson Davis             B   2     2     .   |   2     2     .     64.50  59.72  1.97(OA)
+
+ 3 Mike Christensen       Mike Ring                A   .     .     .   |   .     .     .     52.00  48.15          
+
+ 4 Paul Martin            David Roselle            A  4/5    .     .   |  4/5    .     .     53.50  49.54  0.97(OA)
+
+ 5 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     46.50  43.06          
+
+ 6 Jeffrey Ford           David Taylor             A   .     .     .   |   .     .     .     50.50  46.76          
+
+ 7 Chris Moore            Kim Eng                  A  4/5    .     .   |  4/5    .     .     53.50  49.54  0.97(OA)
+
+ 8 Brian Zaugg            Aaron Mohrman            B   1     1     .   |   1     1     .     68.50  63.43  2.63(OA)
+
+ 9 Christopher Jarvis     Adam Ruprecht            C   3     .     .   |   3     .     .     56.00  51.85  1.48(OA)
+
+10 David Wright           Sue Anderson             B   .     .     .   |   .     .     .     47.50  43.98          
+
+
+                                          Totals                                            540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.50   2.50 1-Waggoner-Rind vs 4-Martin-Roselle
+  120          4.00   0.00 2-Hendrickson-Davis vs 9-Jarvis-Ruprecht
+        100    3.00   1.00 3-Christensen-Ring vs 7-Moore-Eng
+        200    0.00   4.00 5-Tipton-Hesson vs 6-Ford-Taylor
+        170    1.50   2.50 10-Wright-Anderson vs 8-Zaugg-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   2.00 1-Waggoner-Rind vs 4-Martin-Roselle
+        120    0.00   4.00 2-Hendrickson-Davis vs 9-Jarvis-Ruprecht
+  100          2.00   2.00 3-Christensen-Ring vs 7-Moore-Eng
+  110          4.00   0.00 5-Tipton-Hesson vs 6-Ford-Taylor
+  100          2.00   2.00 10-Wright-Anderson vs 8-Zaugg-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   1.50 1-Waggoner-Rind vs 4-Martin-Roselle
+  200          4.00   0.00 2-Hendrickson-Davis vs 9-Jarvis-Ruprecht
+  100          2.50   1.50 3-Christensen-Ring vs 7-Moore-Eng
+        600    0.00   4.00 5-Tipton-Hesson vs 6-Ford-Taylor
+        110    1.00   3.00 10-Wright-Anderson vs 8-Zaugg-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          2.00   2.00 2-Hendrickson-Davis vs 5-Tipton-Hesson
+ 2210          4.00   0.00 3-Christensen-Ring vs 1-Waggoner-Rind
+        100    0.00   4.00 4-Martin-Roselle vs 8-Zaugg-Mohrman
+ 1460          3.00   1.00 6-Ford-Taylor vs 7-Moore-Eng
+  710          1.00   3.00 10-Wright-Anderson vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    4.00   0.00 2-Hendrickson-Davis vs 5-Tipton-Hesson
+        490    0.00   4.00 3-Christensen-Ring vs 1-Waggoner-Rind
+        460    2.00   2.00 4-Martin-Roselle vs 8-Zaugg-Mohrman
+        460    2.00   2.00 6-Ford-Taylor vs 7-Moore-Eng
+        460    2.00   2.00 10-Wright-Anderson vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          4.00   0.00 2-Hendrickson-Davis vs 5-Tipton-Hesson
+  430          2.50   1.50 3-Christensen-Ring vs 1-Waggoner-Rind
+  430          2.50   1.50 4-Martin-Roselle vs 8-Zaugg-Mohrman
+         50    1.00   3.00 6-Ford-Taylor vs 7-Moore-Eng
+        150    0.00   4.00 10-Wright-Anderson vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 3-Christensen-Ring vs 6-Ford-Taylor
+        690    2.00   2.00 4-Martin-Roselle vs 2-Hendrickson-Davis
+       1430    0.50   3.50 5-Tipton-Hesson vs 9-Jarvis-Ruprecht
+       1430    0.50   3.50 7-Moore-Eng vs 8-Zaugg-Mohrman
+        680    3.00   1.00 10-Wright-Anderson vs 1-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.00   3.00 3-Christensen-Ring vs 6-Ford-Taylor
+  120          2.50   1.50 4-Martin-Roselle vs 2-Hendrickson-Davis
+  120          2.50   1.50 5-Tipton-Hesson vs 9-Jarvis-Ruprecht
+         50    0.00   4.00 7-Moore-Eng vs 8-Zaugg-Mohrman
+  180          4.00   0.00 10-Wright-Anderson vs 1-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          4.00   0.00 3-Christensen-Ring vs 6-Ford-Taylor
+  400          2.00   2.00 4-Martin-Roselle vs 2-Hendrickson-Davis
+        100    0.50   3.50 5-Tipton-Hesson vs 9-Jarvis-Ruprecht
+        100    0.50   3.50 7-Moore-Eng vs 8-Zaugg-Mohrman
+  430          3.00   1.00 10-Wright-Anderson vs 1-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.00   2.00 4-Martin-Roselle vs 7-Moore-Eng
+  660          3.50   0.50 5-Tipton-Hesson vs 3-Christensen-Ring
+        100    0.50   3.50 6-Ford-Taylor vs 1-Waggoner-Rind
+  660          3.50   0.50 8-Zaugg-Mohrman vs 9-Jarvis-Ruprecht
+        100    0.50   3.50 10-Wright-Anderson vs 2-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.50   2.50 4-Martin-Roselle vs 7-Moore-Eng
+        450    1.50   2.50 5-Tipton-Hesson vs 3-Christensen-Ring
+        200    4.00   0.00 6-Ford-Taylor vs 1-Waggoner-Rind
+        420    3.00   1.00 8-Zaugg-Mohrman vs 9-Jarvis-Ruprecht
+        500    0.00   4.00 10-Wright-Anderson vs 2-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   1.00 4-Martin-Roselle vs 7-Moore-Eng
+  130          4.00   0.00 5-Tipton-Hesson vs 3-Christensen-Ring
+        140    1.00   3.00 6-Ford-Taylor vs 1-Waggoner-Rind
+        140    1.00   3.00 8-Zaugg-Mohrman vs 9-Jarvis-Ruprecht
+        140    1.00   3.00 10-Wright-Anderson vs 2-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    1.50   2.50 5-Tipton-Hesson vs 8-Zaugg-Mohrman
+        500    4.00   0.00 6-Ford-Taylor vs 4-Martin-Roselle
+        630    1.50   2.50 7-Moore-Eng vs 2-Hendrickson-Davis
+        630    1.50   2.50 9-Jarvis-Ruprecht vs 1-Waggoner-Rind
+        630    1.50   2.50 10-Wright-Anderson vs 3-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    2.50   1.50 5-Tipton-Hesson vs 8-Zaugg-Mohrman
+        990    0.00   4.00 6-Ford-Taylor vs 4-Martin-Roselle
+        490    2.50   1.50 7-Moore-Eng vs 2-Hendrickson-Davis
+        490    2.50   1.50 9-Jarvis-Ruprecht vs 1-Waggoner-Rind
+        490    2.50   1.50 10-Wright-Anderson vs 3-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        440    1.50   2.50 5-Tipton-Hesson vs 8-Zaugg-Mohrman
+        440    1.50   2.50 6-Ford-Taylor vs 4-Martin-Roselle
+        190    4.00   0.00 7-Moore-Eng vs 2-Hendrickson-Davis
+        420    3.00   1.00 9-Jarvis-Ruprecht vs 1-Waggoner-Rind
+        520    0.00   4.00 10-Wright-Anderson vs 3-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   4.00 1-Waggoner-Rind vs 2-Hendrickson-Davis
+         50    2.00   2.00 6-Ford-Taylor vs 9-Jarvis-Ruprecht
+         50    2.00   2.00 7-Moore-Eng vs 5-Tipton-Hesson
+  430          4.00   0.00 8-Zaugg-Mohrman vs 3-Christensen-Ring
+         50    2.00   2.00 10-Wright-Anderson vs 4-Martin-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   3.00 1-Waggoner-Rind vs 2-Hendrickson-Davis
+   50          2.00   2.00 6-Ford-Taylor vs 9-Jarvis-Ruprecht
+  150          3.50   0.50 7-Moore-Eng vs 5-Tipton-Hesson
+        150    0.00   4.00 8-Zaugg-Mohrman vs 3-Christensen-Ring
+  150          3.50   0.50 10-Wright-Anderson vs 4-Martin-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   4.00 1-Waggoner-Rind vs 2-Hendrickson-Davis
+  140          3.00   1.00 6-Ford-Taylor vs 9-Jarvis-Ruprecht
+        110    1.50   2.50 7-Moore-Eng vs 5-Tipton-Hesson
+        110    1.50   2.50 8-Zaugg-Mohrman vs 3-Christensen-Ring
+  150          4.00   0.00 10-Wright-Anderson vs 4-Martin-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.00   2.00 2-Hendrickson-Davis vs 3-Christensen-Ring
+  400          2.00   2.00 7-Moore-Eng vs 1-Waggoner-Rind
+  400          2.00   2.00 8-Zaugg-Mohrman vs 6-Ford-Taylor
+  400          2.00   2.00 9-Jarvis-Ruprecht vs 4-Martin-Roselle
+  400          2.00   2.00 10-Wright-Anderson vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.50   2.50 2-Hendrickson-Davis vs 3-Christensen-Ring
+  170          1.50   2.50 7-Moore-Eng vs 1-Waggoner-Rind
+  170          1.50   2.50 8-Zaugg-Mohrman vs 6-Ford-Taylor
+  170          1.50   2.50 9-Jarvis-Ruprecht vs 4-Martin-Roselle
+  200          4.00   0.00 10-Wright-Anderson vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.00   1.00 2-Hendrickson-Davis vs 3-Christensen-Ring
+        520    1.00   3.00 7-Moore-Eng vs 1-Waggoner-Rind
+   50          4.00   0.00 8-Zaugg-Mohrman vs 6-Ford-Taylor
+        510    2.00   2.00 9-Jarvis-Ruprecht vs 4-Martin-Roselle
+        940    0.00   4.00 10-Wright-Anderson vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.50   1.50 1-Waggoner-Rind vs 5-Tipton-Hesson
+        680    0.50   3.50 3-Christensen-Ring vs 4-Martin-Roselle
+        620    4.00   0.00 8-Zaugg-Mohrman vs 2-Hendrickson-Davis
+        680    0.50   3.50 9-Jarvis-Ruprecht vs 7-Moore-Eng
+        650    2.50   1.50 10-Wright-Anderson vs 6-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.00   1.00 1-Waggoner-Rind vs 5-Tipton-Hesson
+        200    0.00   4.00 3-Christensen-Ring vs 4-Martin-Roselle
+ 1100          4.00   0.00 8-Zaugg-Mohrman vs 2-Hendrickson-Davis
+        100    1.50   2.50 9-Jarvis-Ruprecht vs 7-Moore-Eng
+        100    1.50   2.50 10-Wright-Anderson vs 6-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          2.00   2.00 1-Waggoner-Rind vs 5-Tipton-Hesson
+  980          2.00   2.00 3-Christensen-Ring vs 4-Martin-Roselle
+  980          2.00   2.00 8-Zaugg-Mohrman vs 2-Hendrickson-Davis
+  980          2.00   2.00 9-Jarvis-Ruprecht vs 7-Moore-Eng
+  980          2.00   2.00 10-Wright-Anderson vs 6-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   2.50 1-Waggoner-Rind vs 8-Zaugg-Mohrman
+  100          4.00   0.00 2-Hendrickson-Davis vs 6-Ford-Taylor
+        110    1.50   2.50 4-Martin-Roselle vs 5-Tipton-Hesson
+        100    3.00   1.00 9-Jarvis-Ruprecht vs 3-Christensen-Ring
+        160    0.00   4.00 10-Wright-Anderson vs 7-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          1.50   2.50 1-Waggoner-Rind vs 8-Zaugg-Mohrman
+  150          3.00   1.00 2-Hendrickson-Davis vs 6-Ford-Taylor
+  120          0.00   4.00 4-Martin-Roselle vs 5-Tipton-Hesson
+  600          4.00   0.00 9-Jarvis-Ruprecht vs 3-Christensen-Ring
+  130          1.50   2.50 10-Wright-Anderson vs 7-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    3.50   0.50 1-Waggoner-Rind vs 8-Zaugg-Mohrman
+       1020    0.00   4.00 2-Hendrickson-Davis vs 6-Ford-Taylor
+        490    3.50   0.50 4-Martin-Roselle vs 5-Tipton-Hesson
+        520    1.50   2.50 9-Jarvis-Ruprecht vs 3-Christensen-Ring
+        520    1.50   2.50 10-Wright-Anderson vs 7-Moore-Eng
+----------------------------------------------------------------------
