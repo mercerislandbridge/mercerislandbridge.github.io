@@ -1,0 +1,149 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>December 5, 2023   |CLUB NO.>158048    | 12/05/2023 21:58
+---------------------,-- ------------------- -------------,---------------------
+DIR> Mike/Aaron      |RATING>Club Masterpoint (60%, 50%, 30% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   12.0 |TOP>   2 |MP LIMITS>300/20/5       |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=3/B=2/C=1                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Huan Zou               Maiya Clouse             C    .     .     .      6.50  27.08          
+
+ 2 Yanchun Guo            Qian Liang               B    .     .     .     12.00  50.00          
+
+ 3 Ella Su                Jason Yao                A    1     .     .     17.50  72.92  0.18(A) 
+
+
+                                          Totals                          36.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>December 5, 2023   |CLUB NO.>158048    | 12/05/2023 21:58
+---------------------,-- ------------------- -------------,---------------------
+DIR> Mike/Aaron      |RATING>Club Masterpoint (60%, 50%, 30% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   12.0 |TOP>   2 |MP LIMITS>300/20/5       |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=3/B=2/C=1                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Rui Gong               Arthur Gong              A    NE    .     .     11.50  47.92          
+
+ 2 Derek Deschenes        Andrew Ma                C    1     .     .     14.00  58.33  0.18(A) 
+
+ 3 Avery Liang            Alexandra Deschenes      B    .     .     .     10.50  43.75          
+
+
+                                          Totals                          36.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.50   0.50 1-Zou-Clouse vs 1-Gong-Gong
+        170    1.50   0.50 2-Guo-Liang vs 3-Liang-Deschenes
+        200    0.00   2.00 3-Su-Yao vs 2-Deschenes-Ma
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   0.00 1-Zou-Clouse vs 1-Gong-Gong
+   50          0.00   2.00 2-Guo-Liang vs 3-Liang-Deschenes
+   90          1.00   1.00 3-Su-Yao vs 2-Deschenes-Ma
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   2.00 1-Zou-Clouse vs 1-Gong-Gong
+  100          1.50   0.50 2-Guo-Liang vs 3-Liang-Deschenes
+  100          1.50   0.50 3-Su-Yao vs 2-Deschenes-Ma
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          0.00   2.00 1-Zou-Clouse vs 1-Gong-Gong
+ 1430          1.00   1.00 2-Guo-Liang vs 3-Liang-Deschenes
+ 2220          2.00   0.00 3-Su-Yao vs 2-Deschenes-Ma
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        210    1.00   1.00 1-Zou-Clouse vs 3-Liang-Deschenes
+        150    2.00   0.00 2-Guo-Liang vs 2-Deschenes-Ma
+        460    0.00   2.00 3-Su-Yao vs 1-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          1.00   1.00 1-Zou-Clouse vs 3-Liang-Deschenes
+  150          0.00   2.00 2-Guo-Liang vs 2-Deschenes-Ma
+  460          2.00   0.00 3-Su-Yao vs 1-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   2.00 1-Zou-Clouse vs 3-Liang-Deschenes
+        620    1.00   1.00 2-Guo-Liang vs 2-Deschenes-Ma
+  100          2.00   0.00 3-Su-Yao vs 1-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          0.00   2.00 1-Zou-Clouse vs 3-Liang-Deschenes
+  120          1.50   0.50 2-Guo-Liang vs 2-Deschenes-Ma
+  120          1.50   0.50 3-Su-Yao vs 1-Gong-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          0.00   2.00 1-Zou-Clouse vs 2-Deschenes-Ma
+  430          1.50   0.50 2-Guo-Liang vs 1-Gong-Gong
+  430          1.50   0.50 3-Su-Yao vs 3-Liang-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          0.00   2.00 1-Zou-Clouse vs 2-Deschenes-Ma
+  660          1.00   1.00 2-Guo-Liang vs 1-Gong-Gong
+  690          2.00   0.00 3-Su-Yao vs 3-Liang-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.50   1.50 1-Zou-Clouse vs 2-Deschenes-Ma
+        420    0.50   1.50 2-Guo-Liang vs 1-Gong-Gong
+        140    2.00   0.00 3-Su-Yao vs 3-Liang-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   1.50 1-Zou-Clouse vs 2-Deschenes-Ma
+        140    0.50   1.50 2-Guo-Liang vs 1-Gong-Gong
+    PASS       2.00   0.00 3-Su-Yao vs 3-Liang-Deschenes
+----------------------------------------------------------------------
