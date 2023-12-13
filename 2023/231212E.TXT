@@ -1,0 +1,311 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 12, 2023  |CLUB NO.>158048    | 12/12/2023 21:50
+---------------------,-- ------------------- -------------,---------------------
+DIR> Mike/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   42.0 |TOP>   3 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=5/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Beau Hovda             Muhunthan Sivapragasam   C    1     1     1     49.00  58.33  1.40(A) 
+
+ 2 Brian Zaugg            Liliana Diaconescu       B    3     2     .     46.67  55.56  0.70(A) 
+
+ 3 Valliappa Lakshmanan   Christopher Jarvis       C    .     .     .     29.33  34.92          
+
+ 4 Jeffrey Ford           Sue Anderson             A    .     .     .     31.67  37.70          
+
+ 5 Rex Tu                 Jim Chen                 C    .     .     .     46.00  54.76          
+
+ 6 Nick Tipton            Galen Hesson             B    .     .     .     40.33  48.01          
+
+ 7 Mike Christensen       Mike Ring                A    2     .     .     47.33  56.35  0.98(A) 
+
+ 8 Kim Eng                Eric Sieg                A    .     .     .     45.67  54.37          
+
+
+                                          Totals                         336.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.50   2.50 4-Ford-Anderson vs 2-Zaugg-Diaconescu
+  100          0.50   2.50 6-Tipton-Hesson vs 5-Tu-Chen
+  300          2.50   0.50 7-Christensen-Ring vs 3-Lakshmanan-Jarvis
+  300          2.50   0.50 8-Eng-Sieg vs 1-Hovda-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.50   0.50 4-Ford-Anderson vs 2-Zaugg-Diaconescu
+  650          0.50   2.50 6-Tipton-Hesson vs 5-Tu-Chen
+  680          2.50   0.50 7-Christensen-Ring vs 3-Lakshmanan-Jarvis
+  650          0.50   2.50 8-Eng-Sieg vs 1-Hovda-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   3.00 4-Ford-Anderson vs 2-Zaugg-Diaconescu
+        110    1.50   1.50 6-Tipton-Hesson vs 5-Tu-Chen
+        110    1.50   1.50 7-Christensen-Ring vs 3-Lakshmanan-Jarvis
+  100          3.00   0.00 8-Eng-Sieg vs 1-Hovda-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    3.00   0.00 4-Ford-Anderson vs 2-Zaugg-Diaconescu
+        630    0.00   3.00 6-Tipton-Hesson vs 5-Tu-Chen
+        620    1.50   1.50 7-Christensen-Ring vs 3-Lakshmanan-Jarvis
+        620    1.50   1.50 8-Eng-Sieg vs 1-Hovda-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   0.00 1-Hovda-Sivapragasam vs 4-Ford-Anderson
+   90          2.00   1.00 5-Tu-Chen vs 3-Lakshmanan-Jarvis
+        200    0.00   3.00 7-Christensen-Ring vs 6-Tipton-Hesson
+        100    1.00   2.00 8-Eng-Sieg vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   0.50 1-Hovda-Sivapragasam vs 4-Ford-Anderson
+        100    2.50   0.50 5-Tu-Chen vs 3-Lakshmanan-Jarvis
+        600    1.00   2.00 7-Christensen-Ring vs 6-Tipton-Hesson
+       1560    0.00   3.00 8-Eng-Sieg vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   0.00 1-Hovda-Sivapragasam vs 4-Ford-Anderson
+        110    2.00   1.00 5-Tu-Chen vs 3-Lakshmanan-Jarvis
+        140    1.00   2.00 7-Christensen-Ring vs 6-Tipton-Hesson
+        670    0.00   3.00 8-Eng-Sieg vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    1.50   1.50 1-Hovda-Sivapragasam vs 4-Ford-Anderson
+        510    1.50   1.50 5-Tu-Chen vs 3-Lakshmanan-Jarvis
+        480    3.00   0.00 7-Christensen-Ring vs 6-Tipton-Hesson
+       1100    0.00   3.00 8-Eng-Sieg vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   1.50 1-Hovda-Sivapragasam vs 7-Christensen-Ring
+        100    0.00   3.00 2-Zaugg-Diaconescu vs 5-Tu-Chen
+  100          3.00   0.00 6-Tipton-Hesson vs 4-Ford-Anderson
+         50    1.50   1.50 8-Eng-Sieg vs 3-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        580    0.00   3.00 1-Hovda-Sivapragasam vs 7-Christensen-Ring
+        110    1.00   2.00 2-Zaugg-Diaconescu vs 5-Tu-Chen
+  140          3.00   0.00 6-Tipton-Hesson vs 4-Ford-Anderson
+        100    2.00   1.00 8-Eng-Sieg vs 3-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   0.00 1-Hovda-Sivapragasam vs 7-Christensen-Ring
+        110    1.50   1.50 2-Zaugg-Diaconescu vs 5-Tu-Chen
+        130    0.00   3.00 6-Tipton-Hesson vs 4-Ford-Anderson
+        110    1.50   1.50 8-Eng-Sieg vs 3-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.00   3.00 1-Hovda-Sivapragasam vs 7-Christensen-Ring
+        400    2.00   1.00 2-Zaugg-Diaconescu vs 5-Tu-Chen
+        400    2.00   1.00 6-Tipton-Hesson vs 4-Ford-Anderson
+        400    2.00   1.00 8-Eng-Sieg vs 3-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          2.00   1.00 2-Zaugg-Diaconescu vs 1-Hovda-Sivapragasam
+  100          1.00   2.00 3-Lakshmanan-Jarvis vs 6-Tipton-Hesson
+  140          3.00   0.00 7-Christensen-Ring vs 5-Tu-Chen
+        100    0.00   3.00 8-Eng-Sieg vs 4-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   1.00 2-Zaugg-Diaconescu vs 1-Hovda-Sivapragasam
+  120          0.50   2.50 3-Lakshmanan-Jarvis vs 6-Tipton-Hesson
+  120          0.50   2.50 7-Christensen-Ring vs 5-Tu-Chen
+  400          3.00   0.00 8-Eng-Sieg vs 4-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   1.00 2-Zaugg-Diaconescu vs 1-Hovda-Sivapragasam
+        430    0.00   3.00 3-Lakshmanan-Jarvis vs 6-Tipton-Hesson
+  100          2.00   1.00 7-Christensen-Ring vs 5-Tu-Chen
+  100          2.00   1.00 8-Eng-Sieg vs 4-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   1.00 2-Zaugg-Diaconescu vs 1-Hovda-Sivapragasam
+        100    0.00   3.00 3-Lakshmanan-Jarvis vs 6-Tipton-Hesson
+         50    2.00   1.00 7-Christensen-Ring vs 5-Tu-Chen
+         50    2.00   1.00 8-Eng-Sieg vs 4-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.00   3.00 1-Hovda-Sivapragasam vs 6-Tipton-Hesson
+  110          3.00   0.00 3-Lakshmanan-Jarvis vs 2-Zaugg-Diaconescu
+         50    1.00   2.00 4-Ford-Anderson vs 7-Christensen-Ring
+  100          2.00   1.00 8-Eng-Sieg vs 5-Tu-Chen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   0.00 1-Hovda-Sivapragasam vs 6-Tipton-Hesson
+        500    0.50   2.50 3-Lakshmanan-Jarvis vs 2-Zaugg-Diaconescu
+        500    0.50   2.50 4-Ford-Anderson vs 7-Christensen-Ring
+  100          2.00   1.00 8-Eng-Sieg vs 5-Tu-Chen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   1.00 1-Hovda-Sivapragasam vs 6-Tipton-Hesson
+        650    2.00   1.00 3-Lakshmanan-Jarvis vs 2-Zaugg-Diaconescu
+        660    0.00   3.00 4-Ford-Anderson vs 7-Christensen-Ring
+        650    2.00   1.00 8-Eng-Sieg vs 5-Tu-Chen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   1.00 1-Hovda-Sivapragasam vs 6-Tipton-Hesson
+  140          1.00   2.00 3-Lakshmanan-Jarvis vs 2-Zaugg-Diaconescu
+  800          3.00   0.00 4-Ford-Anderson vs 7-Christensen-Ring
+        100    0.00   3.00 8-Eng-Sieg vs 5-Tu-Chen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   1.50 2-Zaugg-Diaconescu vs 7-Christensen-Ring
+  100          1.50   1.50 4-Ford-Anderson vs 3-Lakshmanan-Jarvis
+        100    0.00   3.00 5-Tu-Chen vs 1-Hovda-Sivapragasam
+  170          3.00   0.00 8-Eng-Sieg vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.50   0.50 2-Zaugg-Diaconescu vs 7-Christensen-Ring
+  400          0.50   2.50 4-Ford-Anderson vs 3-Lakshmanan-Jarvis
+  400          0.50   2.50 5-Tu-Chen vs 1-Hovda-Sivapragasam
+  430          2.50   0.50 8-Eng-Sieg vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   2.00 2-Zaugg-Diaconescu vs 7-Christensen-Ring
+  110          2.50   0.50 4-Ford-Anderson vs 3-Lakshmanan-Jarvis
+        300    0.00   3.00 5-Tu-Chen vs 1-Hovda-Sivapragasam
+  110          2.50   0.50 8-Eng-Sieg vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1700    0.17   2.83 2-Zaugg-Diaconescu vs 7-Christensen-Ring
+       1010    2.17   0.83 4-Ford-Anderson vs 3-Lakshmanan-Jarvis
+  AVE   AVE    1.50   1.50 5-Tu-Chen vs 1-Hovda-Sivapragasam
+       1010    2.17   0.83 8-Eng-Sieg vs 6-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.00   2.00 3-Lakshmanan-Jarvis vs 1-Hovda-Sivapragasam
+  450          2.50   0.50 5-Tu-Chen vs 4-Ford-Anderson
+  420          0.00   3.00 6-Tipton-Hesson vs 2-Zaugg-Diaconescu
+  450          2.50   0.50 8-Eng-Sieg vs 7-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          1.00   2.00 3-Lakshmanan-Jarvis vs 1-Hovda-Sivapragasam
+  600          3.00   0.00 5-Tu-Chen vs 4-Ford-Anderson
+  180          1.00   2.00 6-Tipton-Hesson vs 2-Zaugg-Diaconescu
+  180          1.00   2.00 8-Eng-Sieg vs 7-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   2.00 3-Lakshmanan-Jarvis vs 1-Hovda-Sivapragasam
+        500    0.00   3.00 5-Tu-Chen vs 4-Ford-Anderson
+  100          3.00   0.00 6-Tipton-Hesson vs 2-Zaugg-Diaconescu
+         50    2.00   1.00 8-Eng-Sieg vs 7-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   3.00 3-Lakshmanan-Jarvis vs 1-Hovda-Sivapragasam
+  110          3.00   0.00 5-Tu-Chen vs 4-Ford-Anderson
+   50          1.50   1.50 6-Tipton-Hesson vs 2-Zaugg-Diaconescu
+   50          1.50   1.50 8-Eng-Sieg vs 7-Christensen-Ring
+----------------------------------------------------------------------
