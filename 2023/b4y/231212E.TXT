@@ -1,0 +1,162 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B
+------------------------,------ ------------,-------- --------------------------
+DATE>December 12, 2023  |CLUB NO.>158048    | 12/12/2023 21:37
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim/Mike        |RATING>Club Masterpoint (60%, 60%, 50% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   15.0 |TOP>   2 |MP LIMITS>None/500/50    |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=6/B=4/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Shobana Velamoor       Sesh Velamoor            C    .     .     .      8.50  28.33          
+
+ 2 Mary Agnew             Stephen Rupp             C    .    2/3    .     14.00  46.67  0.15(B) 
+
+ 3 Ted Landeeth           Bernie Tevelde           C    .     1     1     15.50  51.67  0.24(B) 
+
+ 4 Kam Batra              Shiv Batra               A    2     .     .     17.50  58.33  0.25(A) 
+
+ 5 Nancy Lemery           Amanda Clark             B    .    2/3    .     14.00  46.67  0.15(B) 
+
+ 6 Matt Korol             Theo Korol               A    1     .     .     20.50  68.33  0.36(A) 
+
+
+                                          Totals                          90.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   2.00 2-Agnew-Rupp vs 4-Batra-Batra
+   50          1.00   1.00 3-Landeeth-Tevelde vs 5-Lemery-Clark
+  110          2.00   0.00 6-Korol-Korol vs 1-Velamoor-Velamoor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          1.50   0.50 2-Agnew-Rupp vs 4-Batra-Batra
+  680          1.50   0.50 3-Landeeth-Tevelde vs 5-Lemery-Clark
+  650          0.00   2.00 6-Korol-Korol vs 1-Velamoor-Velamoor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.00   2.00 2-Agnew-Rupp vs 4-Batra-Batra
+        110    1.00   1.00 3-Landeeth-Tevelde vs 5-Lemery-Clark
+         50    2.00   0.00 6-Korol-Korol vs 1-Velamoor-Velamoor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.00   2.00 3-Landeeth-Tevelde vs 4-Batra-Batra
+        150    1.50   0.50 5-Lemery-Clark vs 1-Velamoor-Velamoor
+        150    1.50   0.50 6-Korol-Korol vs 2-Agnew-Rupp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   1.00 3-Landeeth-Tevelde vs 4-Batra-Batra
+        200    0.00   2.00 5-Lemery-Clark vs 1-Velamoor-Velamoor
+   90          2.00   0.00 6-Korol-Korol vs 2-Agnew-Rupp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.00   1.00 3-Landeeth-Tevelde vs 4-Batra-Batra
+  170          2.00   0.00 5-Lemery-Clark vs 1-Velamoor-Velamoor
+        600    0.00   2.00 6-Korol-Korol vs 2-Agnew-Rupp
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   2.00 1-Velamoor-Velamoor vs 2-Agnew-Rupp
+  100          1.00   1.00 4-Batra-Batra vs 5-Lemery-Clark
+  180          2.00   0.00 6-Korol-Korol vs 3-Landeeth-Tevelde
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    0.00   2.00 1-Velamoor-Velamoor vs 2-Agnew-Rupp
+        260    2.00   0.00 4-Batra-Batra vs 5-Lemery-Clark
+        450    1.00   1.00 6-Korol-Korol vs 3-Landeeth-Tevelde
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.00   2.00 1-Velamoor-Velamoor vs 2-Agnew-Rupp
+         50    1.00   1.00 4-Batra-Batra vs 5-Lemery-Clark
+  110          2.00   0.00 6-Korol-Korol vs 3-Landeeth-Tevelde
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   2.00 1-Velamoor-Velamoor vs 3-Landeeth-Tevelde
+        150    1.00   1.00 5-Lemery-Clark vs 2-Agnew-Rupp
+  140          2.00   0.00 6-Korol-Korol vs 4-Batra-Batra
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   2.00 1-Velamoor-Velamoor vs 3-Landeeth-Tevelde
+         70    1.00   1.00 5-Lemery-Clark vs 2-Agnew-Rupp
+  200          2.00   0.00 6-Korol-Korol vs 4-Batra-Batra
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.00   1.00 1-Velamoor-Velamoor vs 3-Landeeth-Tevelde
+  100          2.00   0.00 5-Lemery-Clark vs 2-Agnew-Rupp
+        150    0.00   2.00 6-Korol-Korol vs 4-Batra-Batra
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   1.00 2-Agnew-Rupp vs 3-Landeeth-Tevelde
+  130          2.00   0.00 4-Batra-Batra vs 1-Velamoor-Velamoor
+        400    0.00   2.00 6-Korol-Korol vs 5-Lemery-Clark
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.00   1.00 2-Agnew-Rupp vs 3-Landeeth-Tevelde
+        100    0.00   2.00 4-Batra-Batra vs 1-Velamoor-Velamoor
+  400          2.00   0.00 6-Korol-Korol vs 5-Lemery-Clark
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   2.00 2-Agnew-Rupp vs 3-Landeeth-Tevelde
+   50          1.00   1.00 4-Batra-Batra vs 1-Velamoor-Velamoor
+  150          2.00   0.00 6-Korol-Korol vs 5-Lemery-Clark
+----------------------------------------------------------------------
