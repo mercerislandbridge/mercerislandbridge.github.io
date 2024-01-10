@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>January 2, 2024    |CLUB NO.>158048    | 01/02/2024 21:58
+DATE>January 2, 2024    |CLUB NO.>158048    | 01/09/2024 18:16
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,32 +11,32 @@ PAIRS IN STRAT A=11/B=6/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Brian Zaugg            Shawn Abernethy          B    .     .     .     51.75  47.92          
+ 1 Brian Zaugg            Shawn Abernethy          B    .     .     .     52.88  48.96          
 
- 2 Kim Eng                Chris Moore              A    .     .     .     54.50  50.46          
+ 2 Kim Eng                Chris Moore              A    4     .     .     55.50  51.39  0.39(A) 
 
 
 
- 4 Nick Tipton            Galen Hesson             B    .     .     .     54.50  50.46          
+ 4 Nick Tipton            Galen Hesson             B    .     .     .     51.50  47.69          
 
- 5 Aaron Igra             Hugh Hendrickson         C    .     .     .     54.00  50.00          
+ 5 Aaron Igra             Hugh Hendrickson         C    .     .     .     52.88  48.96          
 
- 6 Mike Develin           Eric Sieg                A    .     .     .     51.75  47.92          
+ 6 Mike Develin           Eric Sieg                A    .     .     .     50.63  46.88          
 
  7 Stanford Christie      Sue Anderson             A    2     .     .     61.31  56.77  0.77(A) 
 
- 8 Valliappa Lakshmanan   Douglas Kuschner         C    1     1     1     63.00  58.33  1.10(A) 
+ 8 Valliappa Lakshmanan   Douglas Kuschner         C    1     1     1     66.38  61.46  1.10(A) 
 
  9 Adam Ruprecht          Christopher Jarvis       C    3     2     .     56.81  52.60  0.55(A) 
 
-10 Ann Romeo              Aaron Mohrman            B    .     .     .     41.06  38.02          
+10 Ann Romeo              Aaron Mohrman            B    .     .     .     42.19  39.06          
 
 11 Mike Ring              Mike Christensen         A    .     .     .     48.94  45.31          
 
-12 Ray Miller             Jeffrey Ford             A    4     .     .     56.25  52.08  0.39(A) 
+12 Ray Miller             Jeffrey Ford             A    .     .     .     55.13  51.05          
 
 
-                                          Totals                         593.87       
+                                          Totals                         594.15       
 
  RESULTS OF BOARD 1
 
@@ -53,11 +53,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   50          1.00   3.00 5-Igra-Hendrickson vs 2-Eng-Moore
-   90          2.00   2.00 6-Develin-Sieg vs 10-Romeo-Mohrman
-        110    0.00   4.00 8-Lakshmanan-Kuschner vs 4-Tipton-Hesson
+   50          0.00   4.00 5-Igra-Hendrickson vs 2-Eng-Moore
+   90          1.00   3.00 6-Develin-Sieg vs 10-Romeo-Mohrman
+  110          3.00   1.00 8-Lakshmanan-Kuschner vs 4-Tipton-Hesson
   120          4.00   0.00 9-Ruprecht-Jarvis vs 7-Christie-Anderson
-  100          3.00   1.00 12-Miller-Ford vs 1-Zaugg-Abernethy
+  100          2.00   2.00 12-Miller-Ford vs 1-Zaugg-Abernethy
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 3
