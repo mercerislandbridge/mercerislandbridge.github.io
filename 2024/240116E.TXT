@@ -1,46 +1,46 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>January 16, 2024   |CLUB NO.>158048    | 01/16/2024 21:58
+DATE>January 16, 2024   |CLUB NO.>158048    | 01/16/2024 22:00
 ---------------------,-- ------------------- -------------,---------------------
-DIR> Jeff/Brian      |RATING>Club Masterpoint (Open)      |MOVEMENT>ONE WINNER
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
-AVE>   67.5 |TOP>   5 |MP LIMITS>None           |CLUB>Mercercrest
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS> 13                                        ,------------,------,------,
--------------------------------------------------|   Section  |      |Sect. |
-No Name                   Name                   | Rank|Score | Pct  |Awards|
-------------------------------------------------- ----- ------ ------ ------ 
- 1 Nick Tipton            Galen Hesson                   64.01  47.41       
+PAIRS IN STRAT A=13/B=0/C=0                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Galen Hesson             A    .     .     .     64.01  47.41          
 
- 2 Kim Eng                Jeffrey Ford             5     72.45  53.67  0.34 
+ 2 Kim Eng                Jeffrey Ford             A    5     .     .     72.45  53.67  0.34(A) 
 
- 3 David Binney           Sue Anderson                   63.56  47.08       
+ 3 David Binney           Sue Anderson             A    .     .     .     63.56  47.08          
 
- 4 Valliappa Lakshmanan   Douglas Kuschner         3     74.70  55.33  0.84 
+ 4 Valliappa Lakshmanan   Douglas Kuschner         A    3     .     .     74.70  55.33  0.84(A) 
 
- 5 Pete Cowles            Craig Mills                    67.50  50.00       
+ 5 Pete Cowles            Craig Mills              A    .     .     .     67.50  50.00          
 
- 6 Ata Ivanov             Mariyan Fransazov              58.28  43.17       
+ 6 Ata Ivanov             Mariyan Fransazov        A    .     .     .     58.28  43.17          
 
- 7 Eric Sieg              Matthew Weingarten       2     74.93  55.50  1.13 
+ 7 Eric Sieg              Matthew Weingarten       A    2     .     .     74.93  55.50  1.13(A) 
 
- 8 Brian Zaugg            David Wright                   64.24  47.59       
+ 8 Brian Zaugg            David Wright             A    .     .     .     64.24  47.59          
 
- 9 Susan Waggoner         Brad Rind                4     72.68  53.84  0.60 
+ 9 Susan Waggoner         Brad Rind                A    4     .     .     72.68  53.84  0.60(A) 
 
-10 William Campbell       Ann Romeo                      63.60  47.11       
+10 William Campbell       Ann Romeo                A    .     .     .     63.60  47.11          
 
-11 Adam Ruprecht          Christopher Jarvis       1     80.90  59.93  1.50 
+11 Adam Ruprecht          Christopher Jarvis       A    1     .     .     80.90  59.93  1.50(A) 
 
-12 Mike Christensen       Becky Stevens                  62.20  46.07       
+12 Mike Christensen       Becky Stevens            A    .     .     .     62.20  46.07          
 
-13 Ray Miller             Chris Moore                    59.00  43.70       
-
-
+13 Ray Miller             Chris Moore              A    .     .     .     59.00  43.70          
 
 
-                                          Totals        878.05       
+
+
+                                          Totals                         878.05       
 
  RESULTS OF BOARD 1
 
