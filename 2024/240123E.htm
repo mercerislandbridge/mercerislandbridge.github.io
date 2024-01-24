@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- Created by ACBLmerge 1.3.5 (Matthew Kidd, San Diego, CA) -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<title>Jan 23, 2024 Tuesday Evening Pairs</title>
+  
+<style type="text/css">
+#topinfo { font-family: verdana, sans-serif; font-size: 11pt; }
+a.diminishedLink:link { color: #c0c0c0; }
+.nolinkunderline { text-decoration: none; }
+
+.hoverlink { text-decoration: none; color: black }
+.hoverlink:hover { text-decoration: underline; color: blue; }
+.hoverlink:active { text-decoration: underline; color: red; }
+
+.help {
+  color: white; background-color: #07B107;
+  padding-left: 0.4em; padding-right: 0.4em;
+  border: 1px solid #666; 
+}
+
+#fsbar { border: none; border-collapse: collapse; margin-top: 1ex; margin-bottom: 1ex; }
+#fsbar .topbot td { padding-top: 10px; }
+#fsbar .middle td { padding-top: 20px; }
+#fsbar td { border: none; padding-left: 5px; }
+
+#tooltip {
+  font-family: verdana, sans-serif;
+  font-size: 80%;
+  position:absolute; display:block; padding: 5px 5px 5px 5px; background:#44d; color:#FFF;
+  -moz-border-radius: 7px; -webkit-border-radius: 7px;
+  -moz-border-radius-bottomleft: 0px; -webkit-border-bottom-left-radius: 0px;
+}
+
+</style>
+
+
+<script type="text/javascript">
+var xmlhttp = null;
+
+var tooltip = function() {
+  var id = 'tooltip';
+  var top = 3; var left = 3; var maxw = 300;
+  var speed = 10; var timer = 20;
+  var endalpha = 95; var alpha = 0;
+  var tt,img,spn,h;
+  var ie = document.all ? true : false;
+  var FACEJSON = '/cgi-bin/facejson.pl';
+  var faceCB; var faceOption; var faceShow; var facedir; var faceids;
+  var jsonfailed;
+
+  return {
+    show:function(pnum,pname,str,width) {
+      if (faceOption == undefined) {
+        faceCB = document.getElementById('showfacesCB');
+        faceOption = (faceCB != undefined);
+      }
+      faceShow = faceOption && faceCB.checked && !jsonfailed && pnum;
+      if (faceShow && facedir == undefined) {
+        // Get face directory and list of player numbers for players
+        // who have a face images on the server.
+        // console.log('Retrieving face data (as JSON) from ' + FACEJSON);
+        xmlhttp = CreateXmlHttpReq(resultHandler);
+        if (xmlhttp) {
+          XmlHttpGET(xmlhttp, FACEJSON);
+          var response = xmlhttp.responseText;
+          // Sanitization (See http://tools.ietf.org/html/rfc4627)
+          var data = !(/[^,:{}\[\]0-9.\-+Eaeflnr-u \n\r\t]/.test(
+             response.replace(/"(\\.|[^"\\])*"/g, ''))) && eval('(' + response + ')');
+          facedir = data[0];
+          faceids = data[1];
+        }
+        else { jsonfailed = 1; faceShow = 0; }
+      }
+      if (faceShow) { faceShow = binaryIsIn(faceids, pnum); }
+    
+      if (tt == undefined) {
+        tt = document.createElement('div');
+        tt.setAttribute('id',id);
+        document.body.appendChild(tt);
+        tt.style.opacity = 0;
+        tt.style.filter = 'alpha(opacity=0)';
+        document.onmousemove = this.pos;
+        spn = document.createElement('span');
+        tt.appendChild(spn);
+      }
+      if (!faceShow && !str) { tt.style.display = 'none'; return; }
+      
+      if (faceShow) {
+        if (!img) { img = tt.insertBefore(document.createElement('img'), spn); }
+        img.src = facedir + '/' + pnum + '.jpg';
+        if (str) {
+          tt.style.textAlign = 'left';
+          img.align = 'left';
+          img.style.marginRight = '0.6em';
+          spn.innerHTML = pname + '<br><br>' + str;
+        }
+        else {
+          tt.style.textAlign = 'center';
+          img.align = 'center';
+          spn.innerHTML = '<br clear=all>' + pname;
+        }             
+      }
+      else {
+        if (img) { tt.removeChild(img); img = undefined; }
+        spn.innerHTML = str;
+      }
+
+      tt.style.display = 'block';
+      tt.style.width = width ? width + 'px' : 'auto';
+      if (!width && ie) { tt.style.width = tt.offsetWidth; }
+      if (tt.offsetWidth > maxw) {tt.style.width = maxw + 'px';}
+      h = parseInt(tt.offsetHeight,10) + top;
+
+      clearInterval(tt.timer);
+      tt.timer = setInterval(function(){tooltip.fade(1);}, timer);
+    },
+
+    pos:function(e) {
+      if (tt.style.display === 'none') { return; }
+      var u = ie ? event.clientY + document.documentElement.scrollTop : e.pageY;
+      var l = ie ? event.clientX + document.documentElement.scrollLeft : e.pageX;
+      tt.style.top = (u - h) + 'px';
+      tt.style.left = (l + left) + 'px';
+    },
+
+    fade:function(d) {
+      var a = alpha;
+      if ((a != endalpha && d == 1) || (a !== 0 && d == -1)) {
+        var i = speed;
+        if (endalpha - a < speed && d == 1) { i = endalpha - a; }
+        else if(alpha < speed && d == -1) { i = a; }
+        alpha = a + (i * d);
+        tt.style.opacity = alpha * 0.01;
+        tt.style.filter = 'alpha(opacity=' + alpha + ')';
+      }
+      else {
+        clearInterval(tt.timer);
+        if (d == -1) {tt.style.display = 'none';}
+      }
+    },
+
+    hide:function() {
+      clearInterval(tt.timer);
+      tt.timer = setInterval(function(){tooltip.fade(-1);}, timer);
+    }
+  };
+}();
+
+function CreateXmlHttpReq(handler) {
+  var xmlhttp = null;
+
+  if (window.XMLHttpRequest) { xmlhttp = new XMLHttpRequest(); }
+  else if (window.ActiveXObject) {
+    // Fallback to Active-X but catch users with Active-X turned off
+    try {
+      xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+    } catch (e) {}
+  }
+
+  if (xmlhttp) xmlhttp.onreadystatechange = handler;
+  return xmlhttp;
+}
+
+function XmlHttpGET(xmlhttp, url) {
+  try {
+    xmlhttp.open("GET", url, false);
+    xmlhttp.send(null);
+  } catch (e) {}
+}
+
+function resultHandler () {
+  // request is 'ready'
+  if (xmlhttp.readyState == 4) {
+    if (xmlhttp.status != 200 && typeof console && typeof console.log) {
+        console.log("Problem retrieving the data:\n" + xmlhttp.statusText);
+    }
+  }
+}
+
+function binaryIsIn(v, num) {
+  if (typeof(v) === 'undefined' || !v.length) { return 0; }
+
+  var high = v.length - 1; var low = 0; var mid; var element;
+
+  while (low <= high) {
+    mid = parseInt((low + high) / 2, 10);
+    element = v[mid];
+    if (element > num) { high = mid - 1; }
+    else if (element < num) { low = mid + 1; }
+    else { return 1; }
+  }
+  return 0;
+}
+</script>
+
+</head>
+
+<body>
+<div id="ACBLmerge">
+<div id="topinfo">
+<a class="nolinkunderline" href="http://lajollabridge.com/Software/ACBLmerge/ACBLmergeReport.htm"><span class="help"><strong>?</strong></span></a>&nbsp;<a href="http://lajollabridge.com/Software/ACBLmerge/ACBLmergeReport.htm">Explanation of report features</a>&nbsp;&nbsp;
+<a class="diminishedLink" href="240123E.txt">View original ACBLscore output</a><br>
+Download hands in <a href="240123E.pbn">PBN</a> or <a href="240123E.gib">GIB</a> or <a href="240123E.pdf">PDF</a> format (Right click and choose &ldquo;Save Link As...&rdquo; in Firefox or &ldquo;Save Target As...&rdquo; in IE)<br>
+</div>
+<pre>
+
+EVENT&gt;Tuesday Evening Pairs                                           |Page&gt; 1
+------------------------,---------------------,----------------------- ---------
+DATE&gt;January 23, 2024   |CLUB NO.&gt;158048      | 01/23/2024 21:54
+---------------------,-- --------------------- -----------,---------------------
+DIR&gt; Brian.kim       |RATING&gt;Club - Grand National Teams  |GAME&gt;VICTORY POINT
+----------,---------- ,-------------------------,--------- ---------------------
+ROUNDS&gt; 4 |BDS/RD&gt;  6 |MP LIMITS&gt;None/2500/500  |CLUB&gt;Mercercrest
+---------- ----------- ------------------------- -------------------------------
+TEAMS IN STRAT A=10/B=2/C=1
+--------------------------,--------,----------------------,--------,-----,------------,-------,-------,------------------,
+                          | Master |                      | Master |     | Qualifiers |       |       |   Overall Rank   |
+ No Name                  | Points |Name                  | Points |  Flt| A   B   C  |  Wins | Score |   A     B     C  |
+-------------------------- -------- ---------------------- -------- ----- ------------ ------- ------- ------------------ 
+    Brian Zaugg             0.73Red|Mike Ring               0.73Red|                          |
+    Burien WA               0.73Blk|Bothell WA              0.73Blk|                          |
+  1 Oyvind Tafjord          0.73Red|Shawn Abernethy         0.73Red|  A    Q              2   |  43.00    4     .     .   
+                            0.73Blk|Seattle WA              0.73Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Galen Hesson            0.97Red|Nick Tipton             0.97Red|                          |
+    Shoreline WA            0.97Blk|Seattle WA              0.97Blk|                          |
+  2 Ann Romeo               0.97Red|David Binney            0.97Red|  A    Q              3   |  45.00    3     .     .   
+     US                     0.97Blk|Seattle WA              0.97Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Robb Effinger           0.23Red|Mark Engelberg          0.23Red|                          |
+                            0.23Blk|                        0.23Blk|                          |
+  3 David Roselle           0.23Red|Alan Hendrickson        0.23Red|  A    Q              2   |  31.00    .     .     .   
+    Kirkland WA             0.23Blk|North Bend WA           0.23Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Genie Thai-May                 |Peter Hou                      |                          |
+    Bellevue WA                    | WA                            |                          |
+  4 Zhenghong Sun                  |Youjia Zhang                   |  C            Q      0   |  25.00    .     .     .   
+     WA                            |Bellevue WA                    |                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Brad Rind               1.73Red|Susan Waggoner          1.73Red|                          |
+    Mercer Island WA        1.72Blk|                        1.72Blk|                          |
+  5 David Taylor            1.73Red|Sue Anderson            1.73Red|  A    Q              3   |  59.00    1     .     .   
+    Seattle WA              1.72Blk|Seattle WA              1.72Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Ray Miller              0.23Red|Stanford Christie       0.23Red|                          |
+    Seattle WA              0.23Blk|Kirkland WA             0.23Blk|                          |
+  6 Mike Christensen        0.23Red|David Wright            0.23Red|  A    Q              2   |  39.00    .     .     .   
+    Redmond WA              0.23Blk|Seattle WA              0.23Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Jeremy Gulley           0.12Red|John Krah               0.12Red|                          |
+    Redmond WA              0.11Blk|Seattle WA              0.11Blk|                          |
+  7 Kevin Cline             0.12Red|Becky Stevens           0.12Red|  A                   1   |  28.00    .     .     .   
+    Seattle WA              0.11Blk|Redmond WA              0.11Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Lisa Brock              0.23Red|Craig Mills             0.23Red|                          |
+    Kirkland WA             0.23Blk|Kirkland WA             0.23Blk|                          |
+  8 Tim White               0.23Red|Renae Gunstone-White    0.23Red|  A    Q              2   |  34.00    .     .     .   
+    Mercer Island WA        0.23Blk|Mercer Island WA        0.23Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Kim Eng                 0.23Red|Jeffrey Ford            0.23Red|                          |
+    Issaquah WA             0.23Blk|Redmond WA              0.23Blk|                          |
+  9 Kevin Bolan             0.23Red|Eric Sieg               0.23Red|  A    Q              2   |  42.00    .     .     .   
+    Snohomish WA            0.23Blk|                        0.23Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    Christopher Jarvis      1.30Red|Adam Ruprecht           1.30Red|                          |
+    Seattle WA              1.29Blk|Seattle WA              1.29Blk|                          |
+ 10 Valliappa Lakshmanan    1.30Red|Aaron Mohrman           1.30Red|  B    Q   Q          3   |  54.00    2     .     .   
+    Bellevue WA             1.29Blk| US                     1.29Blk|                          |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+                                                                                TOTALS   20.00  400.00
+
+                                   Tuesday Evening Pairs                                    
+
+                                         **ROUND**                                          
+TEAM #         1         2         3         4
+  \/
+<span onmouseover="tooltip.show(0,'','Brian Zaugg<br>Mike Ring<br>Oyvind Tafjord<br>Shawn Abernethy');" onmouseout="tooltip.hide();">   1&gt;</span>       <span onmouseover="tooltip.show(0,'','Robb Effinger<br>Mark Engelberg<br>David Roselle<br>Alan Hendrickson');" onmouseout="tooltip.hide();">v3</span> -1      <span onmouseover="tooltip.show(0,'','Genie Thai-May<br>Peter Hou<br>Zhenghong Sun<br>Youjia Zhang');" onmouseout="tooltip.hide();">v4</span> 5      <span onmouseover="tooltip.show(0,'','Ray Miller<br>Stanford Christie<br>Mike Christensen<br>David Wright');" onmouseout="tooltip.hide();">v6</span> 9     <span onmouseover="tooltip.show(0,'','Christopher Jarvis<br>Adam Ruprecht<br>Valliappa Lakshmanan<br>Aaron Mohrman');" onmouseout="tooltip.hide();">v10</span> -6  
+               9        13        14         7
+
+<span onmouseover="tooltip.show(0,'','Galen Hesson<br>Nick Tipton<br>Ann Romeo<br>David Binney');" onmouseout="tooltip.hide();">   2&gt;</span>        <span onmouseover="tooltip.show(0,'','Genie Thai-May<br>Peter Hou<br>Zhenghong Sun<br>Youjia Zhang');" onmouseout="tooltip.hide();">v4</span> 8      <span onmouseover="tooltip.show(0,'','Ray Miller<br>Stanford Christie<br>Mike Christensen<br>David Wright');" onmouseout="tooltip.hide();">v6</span> 4     <span onmouseover="tooltip.show(0,'','Christopher Jarvis<br>Adam Ruprecht<br>Valliappa Lakshmanan<br>Aaron Mohrman');" onmouseout="tooltip.hide();">v10</span> 5     <span onmouseover="tooltip.show(0,'','Brad Rind<br>Susan Waggoner<br>David Taylor<br>Sue Anderson');" onmouseout="tooltip.hide();">v5</span> -9   
+              14        12        13         6
+
+<span onmouseover="tooltip.show(0,'','Robb Effinger<br>Mark Engelberg<br>David Roselle<br>Alan Hendrickson');" onmouseout="tooltip.hide();">   3&gt;</span>        <span onmouseover="tooltip.show(0,'','Brian Zaugg<br>Mike Ring<br>Oyvind Tafjord<br>Shawn Abernethy');" onmouseout="tooltip.hide();">v1</span> 1     <span onmouseover="tooltip.show(0,'','Kim Eng<br>Jeffrey Ford<br>Kevin Bolan<br>Eric Sieg');" onmouseout="tooltip.hide();">v9</span> -19    <span onmouseover="tooltip.show(0,'','Lisa Brock<br>Craig Mills<br>Tim White<br>Renae Gunstone-White');" onmouseout="tooltip.hide();">v8</span> -8      <span onmouseover="tooltip.show(0,'','Genie Thai-May<br>Peter Hou<br>Zhenghong Sun<br>Youjia Zhang');" onmouseout="tooltip.hide();">v4</span> 1   
+              11         3         6        11
+
+<span onmouseover="tooltip.show(0,'','Genie Thai-May<br>Peter Hou<br>Zhenghong Sun<br>Youjia Zhang');" onmouseout="tooltip.hide();">   4&gt;</span>       <span onmouseover="tooltip.show(0,'','Galen Hesson<br>Nick Tipton<br>Ann Romeo<br>David Binney');" onmouseout="tooltip.hide();">v2</span> -8     <span onmouseover="tooltip.show(0,'','Brian Zaugg<br>Mike Ring<br>Oyvind Tafjord<br>Shawn Abernethy');" onmouseout="tooltip.hide();">v1</span> -5     <span onmouseover="tooltip.show(0,'','Jeremy Gulley<br>John Krah<br>Kevin Cline<br>Becky Stevens');" onmouseout="tooltip.hide();">v7</span> -18    <span onmouseover="tooltip.show(0,'','Robb Effinger<br>Mark Engelberg<br>David Roselle<br>Alan Hendrickson');" onmouseout="tooltip.hide();">v3</span> -1   
+               6         7         3         9
+
+<span onmouseover="tooltip.show(0,'','Brad Rind<br>Susan Waggoner<br>David Taylor<br>Sue Anderson');" onmouseout="tooltip.hide();">   5&gt;</span>       <span onmouseover="tooltip.show(0,'','Jeremy Gulley<br>John Krah<br>Kevin Cline<br>Becky Stevens');" onmouseout="tooltip.hide();">v7</span> 34    <span onmouseover="tooltip.show(0,'','Christopher Jarvis<br>Adam Ruprecht<br>Valliappa Lakshmanan<br>Aaron Mohrman');" onmouseout="tooltip.hide();">v10</span> -11    <span onmouseover="tooltip.show(0,'','Kim Eng<br>Jeffrey Ford<br>Kevin Bolan<br>Eric Sieg');" onmouseout="tooltip.hide();">v9</span> 29      <span onmouseover="tooltip.show(0,'','Galen Hesson<br>Nick Tipton<br>Ann Romeo<br>David Binney');" onmouseout="tooltip.hide();">v2</span> 9   
+              20         5        20        14
+
+<span onmouseover="tooltip.show(0,'','Ray Miller<br>Stanford Christie<br>Mike Christensen<br>David Wright');" onmouseout="tooltip.hide();">   6&gt;</span>        <span onmouseover="tooltip.show(0,'','Kim Eng<br>Jeffrey Ford<br>Kevin Bolan<br>Eric Sieg');" onmouseout="tooltip.hide();">v9</span> 3     <span onmouseover="tooltip.show(0,'','Galen Hesson<br>Nick Tipton<br>Ann Romeo<br>David Binney');" onmouseout="tooltip.hide();">v2</span> -4     <span onmouseover="tooltip.show(0,'','Brian Zaugg<br>Mike Ring<br>Oyvind Tafjord<br>Shawn Abernethy');" onmouseout="tooltip.hide();">v1</span> -9      <span onmouseover="tooltip.show(0,'','Lisa Brock<br>Craig Mills<br>Tim White<br>Renae Gunstone-White');" onmouseout="tooltip.hide();">v8</span> 6   
+              12         8         6        13
+
+<span onmouseover="tooltip.show(0,'','Jeremy Gulley<br>John Krah<br>Kevin Cline<br>Becky Stevens');" onmouseout="tooltip.hide();">   7&gt;</span>       <span onmouseover="tooltip.show(0,'','Brad Rind<br>Susan Waggoner<br>David Taylor<br>Sue Anderson');" onmouseout="tooltip.hide();">v5</span> -34    <span onmouseover="tooltip.show(0,'','Lisa Brock<br>Craig Mills<br>Tim White<br>Renae Gunstone-White');" onmouseout="tooltip.hide();">v8</span> -4     <span onmouseover="tooltip.show(0,'','Genie Thai-May<br>Peter Hou<br>Zhenghong Sun<br>Youjia Zhang');" onmouseout="tooltip.hide();">v4</span> 18     <span onmouseover="tooltip.show(0,'','Kim Eng<br>Jeffrey Ford<br>Kevin Bolan<br>Eric Sieg');" onmouseout="tooltip.hide();">v9</span> -18  
+               0         8        17         3
+
+<span onmouseover="tooltip.show(0,'','Lisa Brock<br>Craig Mills<br>Tim White<br>Renae Gunstone-White');" onmouseout="tooltip.hide();">   8&gt;</span>      <span onmouseover="tooltip.show(0,'','Christopher Jarvis<br>Adam Ruprecht<br>Valliappa Lakshmanan<br>Aaron Mohrman');" onmouseout="tooltip.hide();">v10</span> -27     <span onmouseover="tooltip.show(0,'','Jeremy Gulley<br>John Krah<br>Kevin Cline<br>Becky Stevens');" onmouseout="tooltip.hide();">v7</span> 4      <span onmouseover="tooltip.show(0,'','Robb Effinger<br>Mark Engelberg<br>David Roselle<br>Alan Hendrickson');" onmouseout="tooltip.hide();">v3</span> 8     <span onmouseover="tooltip.show(0,'','Ray Miller<br>Stanford Christie<br>Mike Christensen<br>David Wright');" onmouseout="tooltip.hide();">v6</span> -6   
+               1        12        14         7
+
+<span onmouseover="tooltip.show(0,'','Kim Eng<br>Jeffrey Ford<br>Kevin Bolan<br>Eric Sieg');" onmouseout="tooltip.hide();">   9&gt;</span>       <span onmouseover="tooltip.show(0,'','Ray Miller<br>Stanford Christie<br>Mike Christensen<br>David Wright');" onmouseout="tooltip.hide();">v6</span> -3     <span onmouseover="tooltip.show(0,'','Robb Effinger<br>Mark Engelberg<br>David Roselle<br>Alan Hendrickson');" onmouseout="tooltip.hide();">v3</span> 19     <span onmouseover="tooltip.show(0,'','Brad Rind<br>Susan Waggoner<br>David Taylor<br>Sue Anderson');" onmouseout="tooltip.hide();">v5</span> -29    <span onmouseover="tooltip.show(0,'','Jeremy Gulley<br>John Krah<br>Kevin Cline<br>Becky Stevens');" onmouseout="tooltip.hide();">v7</span> 18   
+               8        17         0        17
+
+<span onmouseover="tooltip.show(0,'','Christopher Jarvis<br>Adam Ruprecht<br>Valliappa Lakshmanan<br>Aaron Mohrman');" onmouseout="tooltip.hide();">  10&gt;</span>       <span onmouseover="tooltip.show(0,'','Lisa Brock<br>Craig Mills<br>Tim White<br>Renae Gunstone-White');" onmouseout="tooltip.hide();">v8</span> 27     <span onmouseover="tooltip.show(0,'','Brad Rind<br>Susan Waggoner<br>David Taylor<br>Sue Anderson');" onmouseout="tooltip.hide();">v5</span> 11     <span onmouseover="tooltip.show(0,'','Galen Hesson<br>Nick Tipton<br>Ann Romeo<br>David Binney');" onmouseout="tooltip.hide();">v2</span> -5      <span onmouseover="tooltip.show(0,'','Brian Zaugg<br>Mike Ring<br>Oyvind Tafjord<br>Shawn Abernethy');" onmouseout="tooltip.hide();">v1</span> 6   
+              19        15         7        13
+
+</pre>
+</div>
+</body>
+</html>
