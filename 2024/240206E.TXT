@@ -1,203 +1,42 @@
 
-EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B
-------------------------,------ ------------,-------- --------------------------
-DATE>February 6, 2024   |CLUB NO.>158048    | 02/06/2024 22:04
----------------------,-- ------------------- -------------,---------------------
-DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
-------------,-------- ,-------------------------,--------- ---------------------
-AVE>   67.5 |TOP>   2 |MP LIMITS>None/4000/1500 |CLUB>Mercercrest
------------- --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=6/B=4/C=4                       ,---,-----------------,-------------------------,------,---------,
--------------------------------------------------|   |      Overall    |           Section       |      |Final    |
-No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
-------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Sue Brush              Joan Rosenstock          A   5     .     .   |   .     .     .     69.75  51.67  0.19(OA)
-
- 2 Susan Gonzales         Peggy Goldman            C   .     .     .   |   .     .     .     56.25  41.67          
-
- 3 Matt Korol             Theo Korol               A   1     .     .   |   1     .     .     87.75  65.00  0.60(SA)
-
- 4 Ted Landreth           Bernie Tevelde           C  2/3   1/2   1/2  |  2/3   1/2   1/2    78.75  58.33  0.40(OA)
-
- 5 Aviva Bomsztyk         Lisa Rosenblatt          C   .     .     .   |   .     .     .     33.75  25.00          
-
- 6 Lynn Huttenlocher      Irene Mulroy             C  2/3   1/2   1/2  |  2/3   1/2   1/2    78.75  58.33  0.40(OA)
-
-
-                                          Totals                                            405.00       
-
- RESULTS OF BOARD 1
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-        170    0.00   2.00 2-Gonzales-Goldman vs 4-Landreth-Tevelde
-   50          1.50   0.50 3-Korol-Korol vs 5-Bomsztyk-Rosenblatt
-   50          1.50   0.50 6-Huttenlocher-Mulroy vs 1-Brush-Rosenstock
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 2
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-  200          0.50   1.50 2-Gonzales-Goldman vs 4-Landreth-Tevelde
-  620          2.00   0.00 3-Korol-Korol vs 5-Bomsztyk-Rosenblatt
-  200          0.50   1.50 6-Huttenlocher-Mulroy vs 1-Brush-Rosenstock
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 3
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-         50    0.50   1.50 2-Gonzales-Goldman vs 4-Landreth-Tevelde
-  140          2.00   0.00 3-Korol-Korol vs 5-Bomsztyk-Rosenblatt
-         50    0.50   1.50 6-Huttenlocher-Mulroy vs 1-Brush-Rosenstock
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 4
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-  650          2.00   0.00 3-Korol-Korol vs 4-Landreth-Tevelde
-  600          0.00   2.00 5-Bomsztyk-Rosenblatt vs 1-Brush-Rosenstock
-  620          1.00   1.00 6-Huttenlocher-Mulroy vs 2-Gonzales-Goldman
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 5
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-        300    0.00   2.00 3-Korol-Korol vs 4-Landreth-Tevelde
-        100    1.50   0.50 5-Bomsztyk-Rosenblatt vs 1-Brush-Rosenstock
-        100    1.50   0.50 6-Huttenlocher-Mulroy vs 2-Gonzales-Goldman
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 6
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-         50    1.50   0.50 3-Korol-Korol vs 4-Landreth-Tevelde
-        140    0.00   2.00 5-Bomsztyk-Rosenblatt vs 1-Brush-Rosenstock
-         50    1.50   0.50 6-Huttenlocher-Mulroy vs 2-Gonzales-Goldman
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 7
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-  600          2.00   0.00 1-Brush-Rosenstock vs 2-Gonzales-Goldman
-        100    0.50   1.50 4-Landreth-Tevelde vs 5-Bomsztyk-Rosenblatt
-        100    0.50   1.50 6-Huttenlocher-Mulroy vs 3-Korol-Korol
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 8
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-        110    0.00   2.00 1-Brush-Rosenstock vs 2-Gonzales-Goldman
-  130          2.00   0.00 4-Landreth-Tevelde vs 5-Bomsztyk-Rosenblatt
-  110          1.00   1.00 6-Huttenlocher-Mulroy vs 3-Korol-Korol
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 9
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-  140          0.00   2.00 1-Brush-Rosenstock vs 2-Gonzales-Goldman
-  170          1.50   0.50 4-Landreth-Tevelde vs 5-Bomsztyk-Rosenblatt
-  170          1.50   0.50 6-Huttenlocher-Mulroy vs 3-Korol-Korol
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 10
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-        400    1.00   1.00 1-Brush-Rosenstock vs 3-Korol-Korol
-        620    0.00   2.00 5-Bomsztyk-Rosenblatt vs 2-Gonzales-Goldman
-        100    2.00   0.00 6-Huttenlocher-Mulroy vs 4-Landreth-Tevelde
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 11
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-        100    0.50   1.50 1-Brush-Rosenstock vs 3-Korol-Korol
-        100    0.50   1.50 5-Bomsztyk-Rosenblatt vs 2-Gonzales-Goldman
-    PASS       2.00   0.00 6-Huttenlocher-Mulroy vs 4-Landreth-Tevelde
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 12
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-  100          2.00   0.00 1-Brush-Rosenstock vs 3-Korol-Korol
-   50          1.00   1.00 5-Bomsztyk-Rosenblatt vs 2-Gonzales-Goldman
-        460    0.00   2.00 6-Huttenlocher-Mulroy vs 4-Landreth-Tevelde
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 13
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-        600    0.00   2.00 2-Gonzales-Goldman vs 3-Korol-Korol
-  100          1.50   0.50 4-Landreth-Tevelde vs 1-Brush-Rosenstock
-  100          1.50   0.50 6-Huttenlocher-Mulroy vs 5-Bomsztyk-Rosenblatt
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 14
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-  140          0.50   1.50 2-Gonzales-Goldman vs 3-Korol-Korol
-  450          2.00   0.00 4-Landreth-Tevelde vs 1-Brush-Rosenstock
-  140          0.50   1.50 6-Huttenlocher-Mulroy vs 5-Bomsztyk-Rosenblatt
-----------------------------------------------------------------------
-
- RESULTS OF BOARD 15
-
-   SCORES      MATCHPOINTS   NAMES
-  N-S   E-W    N-S    E-W
-        100    0.50   1.50 2-Gonzales-Goldman vs 3-Korol-Korol
-        100    0.50   1.50 4-Landreth-Tevelde vs 1-Brush-Rosenstock
-  100          2.00   0.00 6-Huttenlocher-Mulroy vs 5-Bomsztyk-Rosenblatt
-----------------------------------------------------------------------
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 6, 2024   |CLUB NO.>158048    | 02/06/2024 22:04
+DATE>February 6, 2024   |CLUB NO.>158048    | 02/07/2024 12:53
 ---------------------,-- ------------------- -------------,---------------------
-DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+DIR> Brian Zaugg     |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
-AVE>   67.5 |TOP>   5 |MP LIMITS>None/4000/1500 |CLUB>Mercercrest
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=12/B=9/C=4                      ,---,-----------------,-------------------------,------,---------,
--------------------------------------------------|   |      Overall    |           Section       |      |Final    |
-No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
-------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Jeremy Gulley          Ann Romeo                B   4     3     .   |   1     1     .     72.00  53.33  1.20(SA)
+PAIRS IN STRAT A=12/B=9/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jeremy Gulley          Ann Romeo                B    4     3     .     72.00  53.33  0.42(A) 
 
- 2 Pete Cowles            Craig Mills              C   .     .     .   |   .     .     .     54.00  40.00          
+ 2 Pete Cowles            Craig Mills              C    .     .     .     54.00  40.00          
 
- 3 Sue Anderson           John Weinberg            B   .    NE     .   |   4     4     .     61.50  45.56  0.42(SA)
+ 3 Sue Anderson           John Weinberg            B    .     .     .     61.50  45.56          
 
- 4 Nick Tipton            Galen Hesson             B   .    NE     .   |   .     NE    .     75.50  55.93          
+ 4 Nick Tipton            Galen Hesson             B    3     2     .     75.50  55.93  0.60(A) 
 
- 5 Kim Eng                Eric Sieg                A  NE     .     .   |   NE    .     .     87.00  64.44          
+ 5 Kim Eng                Eric Sieg                A    1     .     .     87.00  64.44  1.20(A) 
 
- 6 Adam Ruprecht          Christopher Jarvis       C   .     5     3   |   3     3     1     62.00  45.93  0.60(SA)
+ 6 Adam Ruprecht          Christopher Jarvis       C    .     .     1     62.00  45.93  0.32(C) 
 
- 7 Kevin Cline            Jason Yao                C   .     .    NE   |   .     .     NE    60.50  44.81          
+ 7 Kevin Cline            Jason Yao                C    .     .     2     60.50  44.81  0.22(C) 
 
- 8 Mike Ring              Mike Christensen         A  NE     .     .   |   NE    .     .     65.50  48.52          
+ 8 Mike Ring              Mike Christensen         A    .     .     .     65.50  48.52          
 
- 9 John Krah              Becky Stevens            B   .     4     .   |   2     2     .     64.00  47.41  0.84(SA)
+ 9 John Krah              Becky Stevens            B    .     4     .     64.00  47.41  0.25(B) 
 
-10 Robb Effinger          Mark Engelberg           C   .     .     .   |   5     .     2     55.00  40.74  0.24(SA)
+10 Robb Effinger          Mark Engelberg           C    .     .     .     55.00  40.74          
 
-11 Shawn Abernethy        Brian Zaugg              B   .    NE     .   |   .     NE    .     83.00  61.48          
+11 Shawn Abernethy        Brian Zaugg              B    2     1     .     83.00  61.48  0.84(A) 
 
-12 Ray Miller             Corneliu Galer           A  NE     .     .   |   NE    .     .     70.00  51.85          
+12 Ray Miller             Corneliu Galer           A    5     .     .     70.00  51.85  0.24(A) 
 
 
-                                          Totals                                            810.00       
+                                          Totals                         810.00       
 
  RESULTS OF BOARD 1
 
