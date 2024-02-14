@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 13, 2024  |CLUB NO.>158048    | 02/13/2024 22:02
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim/Mike        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=6/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Susan Waggoner         Brad Rind                C    6     2     2     81.50  52.24  0.56(B) 
+
+ 2 Mike Ring              Mike Christensen         A    5     .     .     83.00  53.21  0.36(A) 
+
+ 3 David Taylor           Chris Pesce              A    .     .     .     79.50  50.96          
+
+ 4 Galen Hesson           Nick Tipton              A    .     .     .     62.00  39.74          
+
+ 5 Ray Miller             Ann Romeo                A    .     .     .     77.50  49.68          
+
+ 6 Valliappa Lakshmanan   Christopher Jarvis       C    4     1     1     91.50  58.65  0.80(B) 
+
+ 7 Jeffrey Ford           Chris Moore              A    2     .     .     99.00  63.46  1.13(A) 
+
+ 8 Kevin Cline            Becky Stevens            A    1     .     .    102.00  65.38  1.50(A) 
+
+ 9 Hugh Hendrickson       Nelson Davis             B    .     .     .     56.50  36.22          
+
+10 Ted Landreth           Bernie Tevelde           C    .     .     .     44.00  28.21          
+
+11 Ata Ivanov             Manski Fransazov         C    .     .     .     67.50  43.27          
+
+12 Stanford Christie      Brian Zaugg              A    .     .     .     80.50  51.60          
+
+13 Kim Eng                Eric Sieg                A    3     .     .     93.00  59.62  0.84(A) 
+
+14 Christopher Jarvis     Valliappa Lakshmanan     C    .     .     .     74.50  47.76          
+
+
+                                          Totals                        1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   5.00 1-Waggoner-Rind vs 3-Taylor-Pesce
+        420    4.00   2.00 2-Ring-Christensen vs 6-Lakshmanan-Jarvis
+        450    1.00   5.00 4-Hesson-Tipton vs 9-Hendrickson-Davis
+        420    4.00   2.00 5-Miller-Romeo vs 12-Christie-Zaugg
+        450    1.00   5.00 7-Ford-Moore vs 8-Cline-Stevens
+        170    6.00   0.00 13-Eng-Sieg vs 10-Landreth-Tevelde
+        420    4.00   2.00 14-Jarvis-Lakshmanan vs 11-Ivanov-Fransazov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   2.00 1-Waggoner-Rind vs 3-Taylor-Pesce
+        200    0.00   6.00 2-Ring-Christensen vs 6-Lakshmanan-Jarvis
+  100          3.00   3.00 4-Hesson-Tipton vs 9-Hendrickson-Davis
+  620          5.50   0.50 5-Miller-Romeo vs 12-Christie-Zaugg
+        100    1.00   5.00 7-Ford-Moore vs 8-Cline-Stevens
+  620          5.50   0.50 13-Eng-Sieg vs 10-Landreth-Tevelde
+   50          2.00   4.00 14-Jarvis-Lakshmanan vs 11-Ivanov-Fransazov
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       2.00   4.00 1-Waggoner-Rind vs 11-Ivanov-Fransazov
+  100          3.50   2.50 2-Ring-Christensen vs 4-Hesson-Tipton
+  100          3.50   2.50 3-Taylor-Pesce vs 7-Ford-Moore
+  110          5.50   0.50 5-Miller-Romeo vs 10-Landreth-Tevelde
+         90    1.00   5.00 6-Lakshmanan-Jarvis vs 13-Eng-Sieg
+  110          5.50   0.50 8-Cline-Stevens vs 9-Hendrickson-Davis
+        110    0.00   6.00 14-Jarvis-Lakshmanan vs 12-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    2.00   4.00 1-Waggoner-Rind vs 11-Ivanov-Fransazov
+        150    0.00   6.00 2-Ring-Christensen vs 4-Hesson-Tipton
+  100          4.50   1.50 3-Taylor-Pesce vs 7-Ford-Moore
+  100          4.50   1.50 5-Miller-Romeo vs 10-Landreth-Tevelde
+  100          4.50   1.50 6-Lakshmanan-Jarvis vs 13-Eng-Sieg
+  100          4.50   1.50 8-Cline-Stevens vs 9-Hendrickson-Davis
+        120    1.00   5.00 14-Jarvis-Lakshmanan vs 12-Christie-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.50   3.50 2-Ring-Christensen vs 12-Christie-Zaugg
+  150          5.50   0.50 3-Taylor-Pesce vs 5-Miller-Romeo
+        200    1.00   5.00 4-Hesson-Tipton vs 8-Cline-Stevens
+  100          4.00   2.00 6-Lakshmanan-Jarvis vs 11-Ivanov-Fransazov
+  150          5.50   0.50 7-Ford-Moore vs 1-Waggoner-Rind
+   90          2.50   3.50 9-Hendrickson-Davis vs 10-Landreth-Tevelde
+        500    0.00   6.00 14-Jarvis-Lakshmanan vs 13-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   3.50 2-Ring-Christensen vs 12-Christie-Zaugg
+  420          5.00   1.00 3-Taylor-Pesce vs 5-Miller-Romeo
+         50    0.50   5.50 4-Hesson-Tipton vs 8-Cline-Stevens
+  170          2.50   3.50 6-Lakshmanan-Jarvis vs 11-Ivanov-Fransazov
+         50    0.50   5.50 7-Ford-Moore vs 1-Waggoner-Rind
+  420          5.00   1.00 9-Hendrickson-Davis vs 10-Landreth-Tevelde
+  420          5.00   1.00 14-Jarvis-Lakshmanan vs 13-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          3.00   3.00 3-Taylor-Pesce vs 13-Eng-Sieg
+  600          3.00   3.00 4-Hesson-Tipton vs 6-Lakshmanan-Jarvis
+  650          6.00   0.00 5-Miller-Romeo vs 9-Hendrickson-Davis
+  600          3.00   3.00 7-Ford-Moore vs 12-Christie-Zaugg
+  600          3.00   3.00 8-Cline-Stevens vs 2-Ring-Christensen
+        100    0.00   6.00 10-Landreth-Tevelde vs 11-Ivanov-Fransazov
+  600          3.00   3.00 14-Jarvis-Lakshmanan vs 1-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   3.50 3-Taylor-Pesce vs 13-Eng-Sieg
+        300    0.00   6.00 4-Hesson-Tipton vs 6-Lakshmanan-Jarvis
+  300          4.50   1.50 5-Miller-Romeo vs 9-Hendrickson-Davis
+         50    1.00   5.00 7-Ford-Moore vs 12-Christie-Zaugg
+  480          6.00   0.00 8-Cline-Stevens vs 2-Ring-Christensen
+  300          4.50   1.50 10-Landreth-Tevelde vs 11-Ivanov-Fransazov
+  100          2.50   3.50 14-Jarvis-Lakshmanan vs 1-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   4.50 4-Hesson-Tipton vs 1-Waggoner-Rind
+  200          4.00   2.00 5-Miller-Romeo vs 7-Ford-Moore
+  800          6.00   0.00 6-Lakshmanan-Jarvis vs 10-Landreth-Tevelde
+  100          1.50   4.50 8-Cline-Stevens vs 13-Eng-Sieg
+  110          3.00   3.00 9-Hendrickson-Davis vs 3-Taylor-Pesce
+         50    0.00   6.00 11-Ivanov-Fransazov vs 12-Christie-Zaugg
+  500          5.00   1.00 14-Jarvis-Lakshmanan vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   4.00 4-Hesson-Tipton vs 1-Waggoner-Rind
+  140          1.00   5.00 5-Miller-Romeo vs 7-Ford-Moore
+  630          6.00   0.00 6-Lakshmanan-Jarvis vs 10-Landreth-Tevelde
+  170          3.50   2.50 8-Cline-Stevens vs 13-Eng-Sieg
+  620          5.00   1.00 9-Hendrickson-Davis vs 3-Taylor-Pesce
+  170          3.50   2.50 11-Ivanov-Fransazov vs 12-Christie-Zaugg
+        100    0.00   6.00 14-Jarvis-Lakshmanan vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   4.50 5-Miller-Romeo vs 2-Ring-Christensen
+        100    1.50   4.50 6-Lakshmanan-Jarvis vs 8-Cline-Stevens
+  500          5.00   1.00 7-Ford-Moore vs 11-Ivanov-Fransazov
+   50          3.00   3.00 9-Hendrickson-Davis vs 1-Waggoner-Rind
+  150          4.00   2.00 10-Landreth-Tevelde vs 4-Hesson-Tipton
+        500    0.00   6.00 12-Christie-Zaugg vs 13-Eng-Sieg
+ 1100          6.00   0.00 14-Jarvis-Lakshmanan vs 3-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.50   4.50 5-Miller-Romeo vs 2-Ring-Christensen
+        430    4.50   1.50 6-Lakshmanan-Jarvis vs 8-Cline-Stevens
+   50          6.00   0.00 7-Ford-Moore vs 11-Ivanov-Fransazov
+        460    1.50   4.50 9-Hendrickson-Davis vs 1-Waggoner-Rind
+        460    1.50   4.50 10-Landreth-Tevelde vs 4-Hesson-Tipton
+        460    1.50   4.50 12-Christie-Zaugg vs 13-Eng-Sieg
+        430    4.50   1.50 14-Jarvis-Lakshmanan vs 3-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.00   3.00 6-Lakshmanan-Jarvis vs 3-Taylor-Pesce
+  650          5.50   0.50 7-Ford-Moore vs 9-Hendrickson-Davis
+  620          3.00   3.00 8-Cline-Stevens vs 12-Christie-Zaugg
+  230          1.00   5.00 10-Landreth-Tevelde vs 2-Ring-Christensen
+  620          3.00   3.00 11-Ivanov-Fransazov vs 5-Miller-Romeo
+        300    0.00   6.00 13-Eng-Sieg vs 1-Waggoner-Rind
+  650          5.50   0.50 14-Jarvis-Lakshmanan vs 4-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1700          6.00   0.00 6-Lakshmanan-Jarvis vs 3-Taylor-Pesce
+        150    5.00   1.00 7-Ford-Moore vs 9-Hendrickson-Davis
+        460    3.00   3.00 8-Cline-Stevens vs 12-Christie-Zaugg
+        490    0.50   5.50 10-Landreth-Tevelde vs 2-Ring-Christensen
+        490    0.50   5.50 11-Ivanov-Fransazov vs 5-Miller-Romeo
+        460    3.00   3.00 13-Eng-Sieg vs 1-Waggoner-Rind
+        460    3.00   3.00 14-Jarvis-Lakshmanan vs 4-Hesson-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   4.00 1-Waggoner-Rind vs 2-Ring-Christensen
+   50          5.00   1.00 7-Ford-Moore vs 4-Hesson-Tipton
+  100          6.00   0.00 8-Cline-Stevens vs 10-Landreth-Tevelde
+        450    2.00   4.00 9-Hendrickson-Davis vs 13-Eng-Sieg
+        450    2.00   4.00 11-Ivanov-Fransazov vs 3-Taylor-Pesce
+        450    2.00   4.00 12-Christie-Zaugg vs 6-Lakshmanan-Jarvis
+        450    2.00   4.00 14-Jarvis-Lakshmanan vs 5-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   4.50 1-Waggoner-Rind vs 2-Ring-Christensen
+  420          3.50   2.50 7-Ford-Moore vs 4-Hesson-Tipton
+  420          3.50   2.50 8-Cline-Stevens vs 10-Landreth-Tevelde
+        300    0.00   6.00 9-Hendrickson-Davis vs 13-Eng-Sieg
+  450          5.00   1.00 11-Ivanov-Fransazov vs 3-Taylor-Pesce
+         50    1.50   4.50 12-Christie-Zaugg vs 6-Lakshmanan-Jarvis
+  650          6.00   0.00 14-Jarvis-Lakshmanan vs 5-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    6.00   0.00 2-Ring-Christensen vs 3-Taylor-Pesce
+        230    3.00   3.00 8-Cline-Stevens vs 5-Miller-Romeo
+        200    5.00   1.00 9-Hendrickson-Davis vs 11-Ivanov-Fransazov
+        230    3.00   3.00 10-Landreth-Tevelde vs 1-Waggoner-Rind
+        230    3.00   3.00 12-Christie-Zaugg vs 4-Hesson-Tipton
+        300    1.00   5.00 13-Eng-Sieg vs 7-Ford-Moore
+        480    0.00   6.00 14-Jarvis-Lakshmanan vs 6-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.00   2.00 2-Ring-Christensen vs 3-Taylor-Pesce
+  170          2.50   3.50 8-Cline-Stevens vs 5-Miller-Romeo
+  170          2.50   3.50 9-Hendrickson-Davis vs 11-Ivanov-Fransazov
+  100          1.00   5.00 10-Landreth-Tevelde vs 1-Waggoner-Rind
+  620          5.50   0.50 12-Christie-Zaugg vs 4-Hesson-Tipton
+        100    0.00   6.00 13-Eng-Sieg vs 7-Ford-Moore
+  620          5.50   0.50 14-Jarvis-Lakshmanan vs 6-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   4.50 1-Waggoner-Rind vs 8-Cline-Stevens
+  300          6.00   0.00 3-Taylor-Pesce vs 4-Hesson-Tipton
+  100          1.50   4.50 9-Hendrickson-Davis vs 6-Lakshmanan-Jarvis
+  200          4.00   2.00 10-Landreth-Tevelde vs 12-Christie-Zaugg
+  200          4.00   2.00 11-Ivanov-Fransazov vs 2-Ring-Christensen
+  200          4.00   2.00 13-Eng-Sieg vs 5-Miller-Romeo
+        600    0.00   6.00 14-Jarvis-Lakshmanan vs 7-Ford-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   5.00 1-Waggoner-Rind vs 8-Cline-Stevens
+  130          3.00   3.00 3-Taylor-Pesce vs 4-Hesson-Tipton
+        100    1.00   5.00 9-Hendrickson-Davis vs 6-Lakshmanan-Jarvis
+  140          4.00   2.00 10-Landreth-Tevelde vs 12-Christie-Zaugg
+        100    1.00   5.00 11-Ivanov-Fransazov vs 2-Ring-Christensen
+  170          5.00   1.00 13-Eng-Sieg vs 5-Miller-Romeo
+  620          6.00   0.00 14-Jarvis-Lakshmanan vs 7-Ford-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    4.00   2.00 1-Waggoner-Rind vs 6-Lakshmanan-Jarvis
+        400    4.00   2.00 2-Ring-Christensen vs 9-Hendrickson-Davis
+        400    4.00   2.00 4-Hesson-Tipton vs 5-Miller-Romeo
+        420    1.00   5.00 10-Landreth-Tevelde vs 7-Ford-Moore
+        420    1.00   5.00 11-Ivanov-Fransazov vs 13-Eng-Sieg
+  130          6.00   0.00 12-Christie-Zaugg vs 3-Taylor-Pesce
+        420    1.00   5.00 14-Jarvis-Lakshmanan vs 8-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          5.00   1.00 1-Waggoner-Rind vs 6-Lakshmanan-Jarvis
+  300          6.00   0.00 2-Ring-Christensen vs 9-Hendrickson-Davis
+  110          3.50   2.50 4-Hesson-Tipton vs 5-Miller-Romeo
+         50    1.00   5.00 10-Landreth-Tevelde vs 7-Ford-Moore
+  110          3.50   2.50 11-Ivanov-Fransazov vs 13-Eng-Sieg
+         50    1.00   5.00 12-Christie-Zaugg vs 3-Taylor-Pesce
+         50    1.00   5.00 14-Jarvis-Lakshmanan vs 8-Cline-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.00   3.00 2-Ring-Christensen vs 7-Ford-Moore
+  650          5.00   1.00 3-Taylor-Pesce vs 10-Landreth-Tevelde
+  650          5.00   1.00 5-Miller-Romeo vs 6-Lakshmanan-Jarvis
+  170          1.00   5.00 11-Ivanov-Fransazov vs 8-Cline-Stevens
+  170          1.00   5.00 12-Christie-Zaugg vs 1-Waggoner-Rind
+  170          1.00   5.00 13-Eng-Sieg vs 4-Hesson-Tipton
+  650          5.00   1.00 14-Jarvis-Lakshmanan vs 9-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1020    0.50   5.50 2-Ring-Christensen vs 7-Ford-Moore
+        420    6.00   0.00 3-Taylor-Pesce vs 10-Landreth-Tevelde
+       1020    0.50   5.50 5-Miller-Romeo vs 6-Lakshmanan-Jarvis
+        490    4.00   2.00 11-Ivanov-Fransazov vs 8-Cline-Stevens
+        460    5.00   1.00 12-Christie-Zaugg vs 1-Waggoner-Rind
+        940    2.50   3.50 13-Eng-Sieg vs 4-Hesson-Tipton
+        940    2.50   3.50 14-Jarvis-Lakshmanan vs 9-Hendrickson-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.50   3.50 1-Waggoner-Rind vs 5-Miller-Romeo
+        130    2.50   3.50 3-Taylor-Pesce vs 8-Cline-Stevens
+        110    4.50   1.50 4-Hesson-Tipton vs 11-Ivanov-Fransazov
+        150    0.50   5.50 6-Lakshmanan-Jarvis vs 7-Ford-Moore
+         90    6.00   0.00 12-Christie-Zaugg vs 9-Hendrickson-Davis
+        110    4.50   1.50 13-Eng-Sieg vs 2-Ring-Christensen
+        150    0.50   5.50 14-Jarvis-Lakshmanan vs 10-Landreth-Tevelde
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.50   2.50 1-Waggoner-Rind vs 5-Miller-Romeo
+  150          5.50   0.50 3-Taylor-Pesce vs 8-Cline-Stevens
+  100          1.00   5.00 4-Hesson-Tipton vs 11-Ivanov-Fransazov
+  100          1.00   5.00 6-Lakshmanan-Jarvis vs 7-Ford-Moore
+  100          1.00   5.00 12-Christie-Zaugg vs 9-Hendrickson-Davis
+  150          5.50   0.50 13-Eng-Sieg vs 2-Ring-Christensen
+  130          3.50   2.50 14-Jarvis-Lakshmanan vs 10-Landreth-Tevelde
+----------------------------------------------------------------------
