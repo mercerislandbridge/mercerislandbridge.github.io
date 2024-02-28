@@ -1,0 +1,380 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 27, 2024  |CLUB NO.>158048    | 02/27/2024 21:57
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=8/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Taylor           Sue Anderson             A    .     .     .     76.00  48.72          
+
+ 2 Mike Christensen       David Wright             A    .     .     .     75.00  48.08          
+
+ 3 Matt Gaffney           Dion Sorenson            C    .     .     .     74.92  48.03          
+
+ 4 Nick Tipton            Galen Hesson             A    4     .     .     81.08  51.97  0.63(A) 
+
+ 5 Ray Miller             Aaron Mohrman            A    .     .     .     75.50  48.40          
+
+ 6 Ann Romeo              Stephanie Gottesmann     B    .     .     .     74.88  48.00          
+
+ 7 John Krah                                       C    5     2     1     80.60  51.67  0.72(C) 
+
+ 8 Mark Engelberg         Robb Effinger            C    .     .     .     66.08  42.36          
+
+ 9 Oyvind Tafjord         Shawn Abernethy          B    .     .     .     66.50  42.63          
+
+10 Ted Landreth           Bernie Tevelde           C    .     .     .     56.00  35.90          
+
+11 Brad Rind              Susan Waggoner           C    6     3     2     78.42  50.27  0.50(C) 
+
+12 Brian Zaugg            Mike Ring                A    1     .     .    103.00  66.03  1.50(A) 
+
+13 Kim Eng                Jeffrey Ford             A    3     .     .     86.00  55.13  0.84(A) 
+
+14 Adam Ruprecht          Christopher Jarvis       B    2     1     .     98.00  62.82  1.13(A) 
+
+
+                                          Totals                        1091.98       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   2.50 1-Taylor-Anderson vs 3-Gaffney-Sorenson
+        110    2.00   4.00 2-Christensen-Wright vs 6-Romeo-Gottesmann
+  100          3.50   2.50 4-Tipton-Hesson vs 9-Tafjord-Abernethy
+        400    0.50   5.50 5-Miller-Mohrman vs 12-Zaugg-Ring
+        400    0.50   5.50 7-Krah- vs 8-Engelberg-Effinger
+  170          6.00   0.00 13-Eng-Ford vs 10-Landreth-Tevelde
+  150          5.00   1.00 14-Ruprecht-Jarvis vs 11-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 1-Taylor-Anderson vs 3-Gaffney-Sorenson
+        100    2.50   3.50 2-Christensen-Wright vs 6-Romeo-Gottesmann
+   50          5.00   1.00 4-Tipton-Hesson vs 9-Tafjord-Abernethy
+        110    1.00   5.00 5-Miller-Mohrman vs 12-Zaugg-Ring
+        100    2.50   3.50 7-Krah- vs 8-Engelberg-Effinger
+   50          5.00   1.00 13-Eng-Ford vs 10-Landreth-Tevelde
+   50          5.00   1.00 14-Ruprecht-Jarvis vs 11-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   4.00 1-Taylor-Anderson vs 11-Rind-Waggoner
+        300    0.00   6.00 2-Christensen-Wright vs 4-Tipton-Hesson
+  300          6.00   0.00 3-Gaffney-Sorenson vs 7-Krah-
+  200          4.50   1.50 5-Miller-Mohrman vs 10-Landreth-Tevelde
+  100          2.00   4.00 6-Romeo-Gottesmann vs 13-Eng-Ford
+  200          4.50   1.50 8-Engelberg-Effinger vs 9-Tafjord-Abernethy
+  100          2.00   4.00 14-Ruprecht-Jarvis vs 12-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   0.00 1-Taylor-Anderson vs 11-Rind-Waggoner
+        600    3.50   2.50 2-Christensen-Wright vs 4-Tipton-Hesson
+       1100    0.00   6.00 3-Gaffney-Sorenson vs 7-Krah-
+        150    5.00   1.00 5-Miller-Mohrman vs 10-Landreth-Tevelde
+        600    3.50   2.50 6-Romeo-Gottesmann vs 13-Eng-Ford
+        800    1.50   4.50 8-Engelberg-Effinger vs 9-Tafjord-Abernethy
+        800    1.50   4.50 14-Ruprecht-Jarvis vs 12-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.50   2.50 2-Christensen-Wright vs 12-Zaugg-Ring
+        170    5.00   1.00 3-Gaffney-Sorenson vs 5-Miller-Mohrman
+   50          6.00   0.00 4-Tipton-Hesson vs 8-Engelberg-Effinger
+        480    1.00   5.00 6-Romeo-Gottesmann vs 11-Rind-Waggoner
+       1100    0.00   6.00 7-Krah- vs 1-Taylor-Anderson
+        450    2.00   4.00 9-Tafjord-Abernethy vs 10-Landreth-Tevelde
+        420    3.50   2.50 14-Ruprecht-Jarvis vs 13-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          5.00   1.00 2-Christensen-Wright vs 12-Zaugg-Ring
+  480          2.50   3.50 3-Gaffney-Sorenson vs 5-Miller-Mohrman
+  510          4.00   2.00 4-Tipton-Hesson vs 8-Engelberg-Effinger
+  400          1.00   5.00 6-Romeo-Gottesmann vs 11-Rind-Waggoner
+  480          2.50   3.50 7-Krah- vs 1-Taylor-Anderson
+  170          0.00   6.00 9-Tafjord-Abernethy vs 10-Landreth-Tevelde
+ 1100          6.00   0.00 14-Ruprecht-Jarvis vs 13-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          1.00   5.00 3-Gaffney-Sorenson vs 13-Eng-Ford
+  600          2.00   4.00 4-Tipton-Hesson vs 6-Romeo-Gottesmann
+  630          3.50   2.50 5-Miller-Mohrman vs 9-Tafjord-Abernethy
+  660          5.50   0.50 7-Krah- vs 12-Zaugg-Ring
+  130          0.00   6.00 8-Engelberg-Effinger vs 2-Christensen-Wright
+  630          3.50   2.50 10-Landreth-Tevelde vs 11-Rind-Waggoner
+  660          5.50   0.50 14-Ruprecht-Jarvis vs 1-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  550          6.00   0.00 3-Gaffney-Sorenson vs 13-Eng-Ford
+         50    0.00   6.00 4-Tipton-Hesson vs 6-Romeo-Gottesmann
+  460          5.00   1.00 5-Miller-Mohrman vs 9-Tafjord-Abernethy
+  400          4.00   2.00 7-Krah- vs 12-Zaugg-Ring
+  110          1.00   5.00 8-Engelberg-Effinger vs 2-Christensen-Wright
+  150          2.00   4.00 10-Landreth-Tevelde vs 11-Rind-Waggoner
+  240          3.00   3.00 14-Ruprecht-Jarvis vs 1-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.50   0.50 4-Tipton-Hesson vs 1-Taylor-Anderson
+  110          5.50   0.50 5-Miller-Mohrman vs 7-Krah-
+        150    0.50   5.50 6-Romeo-Gottesmann vs 10-Landreth-Tevelde
+         50    3.50   2.50 8-Engelberg-Effinger vs 13-Eng-Ford
+        100    2.00   4.00 9-Tafjord-Abernethy vs 3-Gaffney-Sorenson
+        150    0.50   5.50 11-Rind-Waggoner vs 12-Zaugg-Ring
+         50    3.50   2.50 14-Ruprecht-Jarvis vs 2-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.50   3.50 4-Tipton-Hesson vs 1-Taylor-Anderson
+        630    0.00   6.00 5-Miller-Mohrman vs 7-Krah-
+  110          6.00   0.00 6-Romeo-Gottesmann vs 10-Landreth-Tevelde
+        400    1.00   5.00 8-Engelberg-Effinger vs 13-Eng-Ford
+         90    5.00   1.00 9-Tafjord-Abernethy vs 3-Gaffney-Sorenson
+        120    2.50   3.50 11-Rind-Waggoner vs 12-Zaugg-Ring
+        100    4.00   2.00 14-Ruprecht-Jarvis vs 2-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          5.00   1.00 5-Miller-Mohrman vs 2-Christensen-Wright
+  170          2.00   4.00 6-Romeo-Gottesmann vs 8-Engelberg-Effinger
+  460          4.00   2.00 7-Krah- vs 11-Rind-Waggoner
+         50    0.00   6.00 9-Tafjord-Abernethy vs 1-Taylor-Anderson
+  150          1.00   5.00 10-Landreth-Tevelde vs 4-Tipton-Hesson
+  920          6.00   0.00 12-Zaugg-Ring vs 13-Eng-Ford
+  450          3.00   3.00 14-Ruprecht-Jarvis vs 3-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.50   2.50 5-Miller-Mohrman vs 2-Christensen-Wright
+        400    0.00   6.00 6-Romeo-Gottesmann vs 8-Engelberg-Effinger
+        200    1.00   5.00 7-Krah- vs 11-Rind-Waggoner
+        150    3.50   2.50 9-Tafjord-Abernethy vs 1-Taylor-Anderson
+        170    2.00   4.00 10-Landreth-Tevelde vs 4-Tipton-Hesson
+        140    5.00   1.00 12-Zaugg-Ring vs 13-Eng-Ford
+  110          6.00   0.00 14-Ruprecht-Jarvis vs 3-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   2.00 6-Romeo-Gottesmann vs 3-Gaffney-Sorenson
+        100    1.00   5.00 7-Krah- vs 9-Tafjord-Abernethy
+        100    1.00   5.00 8-Engelberg-Effinger vs 12-Zaugg-Ring
+         90    3.00   3.00 10-Landreth-Tevelde vs 2-Christensen-Wright
+        100    1.00   5.00 11-Rind-Waggoner vs 5-Miller-Mohrman
+  170          6.00   0.00 13-Eng-Ford vs 1-Taylor-Anderson
+  140          5.00   1.00 14-Ruprecht-Jarvis vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    4.00   2.00 6-Romeo-Gottesmann vs 3-Gaffney-Sorenson
+        450    4.00   2.00 7-Krah- vs 9-Tafjord-Abernethy
+        480    0.50   5.50 8-Engelberg-Effinger vs 12-Zaugg-Ring
+        480    0.50   5.50 10-Landreth-Tevelde vs 2-Christensen-Wright
+        450    4.00   2.00 11-Rind-Waggoner vs 5-Miller-Mohrman
+        450    4.00   2.00 13-Eng-Ford vs 1-Taylor-Anderson
+        450    4.00   2.00 14-Ruprecht-Jarvis vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   5.00 1-Taylor-Anderson vs 2-Christensen-Wright
+   50          4.50   1.50 7-Krah- vs 4-Tipton-Hesson
+        170    3.00   3.00 8-Engelberg-Effinger vs 10-Landreth-Tevelde
+        480    0.00   6.00 9-Tafjord-Abernethy vs 13-Eng-Ford
+  750          6.00   0.00 11-Rind-Waggoner vs 3-Gaffney-Sorenson
+   50          4.50   1.50 12-Zaugg-Ring vs 6-Romeo-Gottesmann
+        420    2.00   4.00 14-Ruprecht-Jarvis vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   5.00 1-Taylor-Anderson vs 2-Christensen-Wright
+  100          4.00   2.00 7-Krah- vs 4-Tipton-Hesson
+        120    1.00   5.00 8-Engelberg-Effinger vs 10-Landreth-Tevelde
+        110    3.00   3.00 9-Tafjord-Abernethy vs 13-Eng-Ford
+  110          5.50   0.50 11-Rind-Waggoner vs 3-Gaffney-Sorenson
+  110          5.50   0.50 12-Zaugg-Ring vs 6-Romeo-Gottesmann
+        120    1.00   5.00 14-Ruprecht-Jarvis vs 5-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  210          2.00   4.00 2-Christensen-Wright vs 3-Gaffney-Sorenson
+  420          5.00   1.00 8-Engelberg-Effinger vs 5-Miller-Mohrman
+  450          6.00   0.00 9-Tafjord-Abernethy vs 11-Rind-Waggoner
+  170          1.00   5.00 10-Landreth-Tevelde vs 1-Taylor-Anderson
+  150          0.00   6.00 12-Zaugg-Ring vs 4-Tipton-Hesson
+  300          4.00   2.00 13-Eng-Ford vs 7-Krah-
+  250          3.00   3.00 14-Ruprecht-Jarvis vs 6-Romeo-Gottesmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 2-Christensen-Wright vs 3-Gaffney-Sorenson
+        100    1.50   4.50 8-Engelberg-Effinger vs 5-Miller-Mohrman
+   50          4.50   1.50 9-Tafjord-Abernethy vs 11-Rind-Waggoner
+   50          4.50   1.50 10-Landreth-Tevelde vs 1-Taylor-Anderson
+   50          4.50   1.50 12-Zaugg-Ring vs 4-Tipton-Hesson
+        100    1.50   4.50 13-Eng-Ford vs 7-Krah-
+   50          4.50   1.50 14-Ruprecht-Jarvis vs 6-Romeo-Gottesmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.00   5.00 1-Taylor-Anderson vs 8-Engelberg-Effinger
+        100    4.00   2.00 3-Gaffney-Sorenson vs 4-Tipton-Hesson
+        140    2.00   4.00 9-Tafjord-Abernethy vs 6-Romeo-Gottesmann
+        620    0.00   6.00 10-Landreth-Tevelde vs 12-Zaugg-Ring
+  100          6.00   0.00 11-Rind-Waggoner vs 2-Christensen-Wright
+        100    4.00   2.00 13-Eng-Ford vs 5-Miller-Mohrman
+        100    4.00   2.00 14-Ruprecht-Jarvis vs 7-Krah-
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          6.00   0.00 1-Taylor-Anderson vs 8-Engelberg-Effinger
+        620    0.50   5.50 3-Gaffney-Sorenson vs 4-Tipton-Hesson
+        620    0.50   5.50 9-Tafjord-Abernethy vs 6-Romeo-Gottesmann
+        170    2.00   4.00 10-Landreth-Tevelde vs 12-Zaugg-Ring
+         90    3.00   3.00 11-Rind-Waggoner vs 2-Christensen-Wright
+  100          4.00   2.00 13-Eng-Ford vs 5-Miller-Mohrman
+  200          5.00   1.00 14-Ruprecht-Jarvis vs 7-Krah-
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  710          3.50   2.50 1-Taylor-Anderson vs 6-Romeo-Gottesmann
+  710          3.50   2.50 2-Christensen-Wright vs 9-Tafjord-Abernethy
+  710          3.50   2.50 4-Tipton-Hesson vs 5-Miller-Mohrman
+  620          0.50   5.50 10-Landreth-Tevelde vs 7-Krah-
+  710          3.50   2.50 11-Rind-Waggoner vs 13-Eng-Ford
+ 2840          6.00   0.00 12-Zaugg-Ring vs 3-Gaffney-Sorenson
+  620          0.50   5.50 14-Ruprecht-Jarvis vs 8-Engelberg-Effinger
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.00   4.00 1-Taylor-Anderson vs 6-Romeo-Gottesmann
+        690    0.50   5.50 2-Christensen-Wright vs 9-Tafjord-Abernethy
+        130    4.00   2.00 4-Tipton-Hesson vs 5-Miller-Mohrman
+        500    3.00   3.00 10-Landreth-Tevelde vs 7-Krah-
+        690    0.50   5.50 11-Rind-Waggoner vs 13-Eng-Ford
+  300          6.00   0.00 12-Zaugg-Ring vs 3-Gaffney-Sorenson
+  100          5.00   1.00 14-Ruprecht-Jarvis vs 8-Engelberg-Effinger
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    3.50   2.50 2-Christensen-Wright vs 7-Krah-
+        680    3.50   2.50 3-Gaffney-Sorenson vs 10-Landreth-Tevelde
+       1430    0.00   6.00 5-Miller-Mohrman vs 6-Romeo-Gottesmann
+        680    3.50   2.50 11-Rind-Waggoner vs 8-Engelberg-Effinger
+        680    3.50   2.50 12-Zaugg-Ring vs 1-Taylor-Anderson
+        680    3.50   2.50 13-Eng-Ford vs 4-Tipton-Hesson
+        680    3.50   2.50 14-Ruprecht-Jarvis vs 9-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   5.00 2-Christensen-Wright vs 7-Krah-
+        100    6.00   0.00 3-Gaffney-Sorenson vs 10-Landreth-Tevelde
+        200    4.00   2.00 5-Miller-Mohrman vs 6-Romeo-Gottesmann
+        450    1.00   5.00 11-Rind-Waggoner vs 8-Engelberg-Effinger
+        450    1.00   5.00 12-Zaugg-Ring vs 1-Taylor-Anderson
+        200    4.00   2.00 13-Eng-Ford vs 4-Tipton-Hesson
+        200    4.00   2.00 14-Ruprecht-Jarvis vs 9-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    5.50   0.50 1-Taylor-Anderson vs 5-Miller-Mohrman
+        100    3.50   2.50 3-Gaffney-Sorenson vs 8-Engelberg-Effinger
+        130    1.50   4.50 4-Tipton-Hesson vs 11-Rind-Waggoner
+        150    0.00   6.00 6-Romeo-Gottesmann vs 7-Krah-
+        100    3.50   2.50 12-Zaugg-Ring vs 9-Tafjord-Abernethy
+        130    1.50   4.50 13-Eng-Ford vs 2-Christensen-Wright
+         50    5.50   0.50 14-Ruprecht-Jarvis vs 10-Landreth-Tevelde
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   3.00 1-Taylor-Anderson vs 5-Miller-Mohrman
+  850          5.92   0.08 3-Gaffney-Sorenson vs 8-Engelberg-Effinger
+  200          0.08   5.92 4-Tipton-Hesson vs 11-Rind-Waggoner
+  650          3.00   3.00 12-Zaugg-Ring vs 9-Tafjord-Abernethy
+  650          3.00   3.00 13-Eng-Ford vs 2-Christensen-Wright
+  650          3.00   3.00 14-Ruprecht-Jarvis vs 10-Landreth-Tevelde
+----------------------------------------------------------------------
