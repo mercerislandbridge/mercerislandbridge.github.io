@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>April 2, 2024      |CLUB NO.>158048    | 04/02/2024 21:51
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3500/1750 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Christensen       Mike Ring                A    .     .     .     51.00  47.22          
+
+ 2 Kim Eng                Eric Sieg                A    1     .     .     74.50  68.98  1.00(A) 
+
+ 3 Ray Miller             Jeffrey Ford             A    .     .     .     43.50  40.28          
+
+ 4 Corneliu Galer         Bogdan Vulcan            B    2     1     .     67.50  62.50  0.70(A) 
+
+ 5 Nick Tipton            Galen Hesson             B    .     .     .     49.50  45.83          
+
+ 6 Aaron Mohrman          John Krah                C    .     .     .     45.50  42.13          
+
+ 7 Donald Kossmann        Beatrix Kossmann         C    .     .     .     43.00  39.81          
+
+ 8 Adam Ruprecht          Christopher Jarvis       C    4     3     1     53.50  49.54  0.35(A) 
+
+ 9 David Taylor           Kevin Cline              B    3     2     .     62.50  57.87  0.50(A) 
+
+10 Dex Stuberg            Cliff Marx               C    .     .     2     49.50  45.83  0.22(C) 
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        550    0.00   4.00 1-Christensen-Ring vs 4-Galer-Vulcan
+  420          4.00   0.00 2-Eng-Sieg vs 9-Taylor-Cline
+         50    2.50   1.50 3-Miller-Ford vs 7-Kossmann-Kossmann
+         50    2.50   1.50 5-Tipton-Hesson vs 6-Mohrman-Krah
+        100    1.00   3.00 10-Stuberg-Marx vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   4.00 1-Christensen-Ring vs 4-Galer-Vulcan
+  110          4.00   0.00 2-Eng-Sieg vs 9-Taylor-Cline
+    PASS       2.00   2.00 3-Miller-Ford vs 7-Kossmann-Kossmann
+    PASS       2.00   2.00 5-Tipton-Hesson vs 6-Mohrman-Krah
+    PASS       2.00   2.00 10-Stuberg-Marx vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.50   3.50 1-Christensen-Ring vs 4-Galer-Vulcan
+         90    3.00   1.00 2-Eng-Sieg vs 9-Taylor-Cline
+  200          4.00   0.00 3-Miller-Ford vs 7-Kossmann-Kossmann
+        120    2.00   2.00 5-Tipton-Hesson vs 6-Mohrman-Krah
+        150    0.50   3.50 10-Stuberg-Marx vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  720          3.00   1.00 2-Eng-Sieg vs 5-Tipton-Hesson
+  680          0.50   3.50 3-Miller-Ford vs 1-Christensen-Ring
+ 1430          4.00   0.00 4-Galer-Vulcan vs 8-Ruprecht-Jarvis
+  710          2.00   2.00 6-Mohrman-Krah vs 7-Kossmann-Kossmann
+  680          0.50   3.50 10-Stuberg-Marx vs 9-Taylor-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   0.00 2-Eng-Sieg vs 5-Tipton-Hesson
+        420    0.00   4.00 3-Miller-Ford vs 1-Christensen-Ring
+        200    1.50   2.50 4-Galer-Vulcan vs 8-Ruprecht-Jarvis
+        170    3.00   1.00 6-Mohrman-Krah vs 7-Kossmann-Kossmann
+        200    1.50   2.50 10-Stuberg-Marx vs 9-Taylor-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   1.00 2-Eng-Sieg vs 5-Tipton-Hesson
+        110    1.50   2.50 3-Miller-Ford vs 1-Christensen-Ring
+  300          4.00   0.00 4-Galer-Vulcan vs 8-Ruprecht-Jarvis
+        150    0.00   4.00 6-Mohrman-Krah vs 7-Kossmann-Kossmann
+        110    1.50   2.50 10-Stuberg-Marx vs 9-Taylor-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1460          4.00   0.00 3-Miller-Ford vs 6-Mohrman-Krah
+  710          2.00   2.00 4-Galer-Vulcan vs 2-Eng-Sieg
+        200    0.00   4.00 5-Tipton-Hesson vs 9-Taylor-Cline
+  650          1.00   3.00 7-Kossmann-Kossmann vs 8-Ruprecht-Jarvis
+ 1190          3.00   1.00 10-Stuberg-Marx vs 1-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   0.00 3-Miller-Ford vs 6-Mohrman-Krah
+        110    1.00   3.00 4-Galer-Vulcan vs 2-Eng-Sieg
+        120    0.00   4.00 5-Tipton-Hesson vs 9-Taylor-Cline
+        100    2.50   1.50 7-Kossmann-Kossmann vs 8-Ruprecht-Jarvis
+        100    2.50   1.50 10-Stuberg-Marx vs 1-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.50   2.50 3-Miller-Ford vs 6-Mohrman-Krah
+  150          1.50   2.50 4-Galer-Vulcan vs 2-Eng-Sieg
+  450          4.00   0.00 5-Tipton-Hesson vs 9-Taylor-Cline
+         50    0.00   4.00 7-Kossmann-Kossmann vs 8-Ruprecht-Jarvis
+  170          3.00   1.00 10-Stuberg-Marx vs 1-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   2.00 4-Galer-Vulcan vs 7-Kossmann-Kossmann
+   90          4.00   0.00 5-Tipton-Hesson vs 3-Miller-Ford
+        100    2.00   2.00 6-Mohrman-Krah vs 1-Christensen-Ring
+        120    0.00   4.00 8-Ruprecht-Jarvis vs 9-Taylor-Cline
+        100    2.00   2.00 10-Stuberg-Marx vs 2-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.00   1.00 4-Galer-Vulcan vs 7-Kossmann-Kossmann
+  110          1.00   3.00 5-Tipton-Hesson vs 3-Miller-Ford
+  130          3.00   1.00 6-Mohrman-Krah vs 1-Christensen-Ring
+  130          3.00   1.00 8-Ruprecht-Jarvis vs 9-Taylor-Cline
+  100          0.00   4.00 10-Stuberg-Marx vs 2-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.50   0.50 4-Galer-Vulcan vs 7-Kossmann-Kossmann
+        110    2.00   2.00 5-Tipton-Hesson vs 3-Miller-Ford
+  150          3.50   0.50 6-Mohrman-Krah vs 1-Christensen-Ring
+        400    0.00   4.00 8-Ruprecht-Jarvis vs 9-Taylor-Cline
+        140    1.00   3.00 10-Stuberg-Marx vs 2-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   2.00 5-Tipton-Hesson vs 8-Ruprecht-Jarvis
+        140    3.00   1.00 6-Mohrman-Krah vs 4-Galer-Vulcan
+        620    0.00   4.00 7-Kossmann-Kossmann vs 2-Eng-Sieg
+  100          4.00   0.00 9-Taylor-Cline vs 1-Christensen-Ring
+        180    1.00   3.00 10-Stuberg-Marx vs 3-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   1.50 5-Tipton-Hesson vs 8-Ruprecht-Jarvis
+         50    0.50   3.50 6-Mohrman-Krah vs 4-Galer-Vulcan
+         50    0.50   3.50 7-Kossmann-Kossmann vs 2-Eng-Sieg
+  110          2.50   1.50 9-Taylor-Cline vs 1-Christensen-Ring
+  120          4.00   0.00 10-Stuberg-Marx vs 3-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1440          4.00   0.00 5-Tipton-Hesson vs 8-Ruprecht-Jarvis
+ 1430          1.50   2.50 6-Mohrman-Krah vs 4-Galer-Vulcan
+ 1430          1.50   2.50 7-Kossmann-Kossmann vs 2-Eng-Sieg
+ 1430          1.50   2.50 9-Taylor-Cline vs 1-Christensen-Ring
+ 1430          1.50   2.50 10-Stuberg-Marx vs 3-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.50   1.50 1-Christensen-Ring vs 2-Eng-Sieg
+        690    0.00   4.00 6-Mohrman-Krah vs 9-Taylor-Cline
+        630    2.50   1.50 7-Kossmann-Kossmann vs 5-Tipton-Hesson
+        660    1.00   3.00 8-Ruprecht-Jarvis vs 3-Miller-Ford
+        600    4.00   0.00 10-Stuberg-Marx vs 4-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.50   0.50 1-Christensen-Ring vs 2-Eng-Sieg
+        150    0.00   4.00 6-Mohrman-Krah vs 9-Taylor-Cline
+  150          2.00   2.00 7-Kossmann-Kossmann vs 5-Tipton-Hesson
+  400          3.50   0.50 8-Ruprecht-Jarvis vs 3-Miller-Ford
+  110          1.00   3.00 10-Stuberg-Marx vs 4-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   4.00 1-Christensen-Ring vs 2-Eng-Sieg
+         90    2.00   2.00 6-Mohrman-Krah vs 9-Taylor-Cline
+  110          4.00   0.00 7-Kossmann-Kossmann vs 5-Tipton-Hesson
+   50          3.00   1.00 8-Ruprecht-Jarvis vs 3-Miller-Ford
+        120    1.00   3.00 10-Stuberg-Marx vs 4-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 2-Eng-Sieg vs 3-Miller-Ford
+        150    2.00   2.00 7-Kossmann-Kossmann vs 1-Christensen-Ring
+        150    2.00   2.00 8-Ruprecht-Jarvis vs 6-Mohrman-Krah
+        600    0.00   4.00 9-Taylor-Cline vs 4-Galer-Vulcan
+        150    2.00   2.00 10-Stuberg-Marx vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          4.00   0.00 2-Eng-Sieg vs 3-Miller-Ford
+        200    0.00   4.00 7-Kossmann-Kossmann vs 1-Christensen-Ring
+        100    2.00   2.00 8-Ruprecht-Jarvis vs 6-Mohrman-Krah
+        170    1.00   3.00 9-Taylor-Cline vs 4-Galer-Vulcan
+  100          3.00   1.00 10-Stuberg-Marx vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.50   2.50 2-Eng-Sieg vs 3-Miller-Ford
+         90    1.50   2.50 7-Kossmann-Kossmann vs 1-Christensen-Ring
+   50          4.00   0.00 8-Ruprecht-Jarvis vs 6-Mohrman-Krah
+         90    1.50   2.50 9-Taylor-Cline vs 4-Galer-Vulcan
+         90    1.50   2.50 10-Stuberg-Marx vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   1.00 1-Christensen-Ring vs 5-Tipton-Hesson
+        140    1.00   3.00 3-Miller-Ford vs 4-Galer-Vulcan
+        170    0.00   4.00 8-Ruprecht-Jarvis vs 2-Eng-Sieg
+         50    3.00   1.00 9-Taylor-Cline vs 7-Kossmann-Kossmann
+         50    3.00   1.00 10-Stuberg-Marx vs 6-Mohrman-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    4.00   0.00 1-Christensen-Ring vs 5-Tipton-Hesson
+       1390    0.50   3.50 3-Miller-Ford vs 4-Galer-Vulcan
+        720    2.00   2.00 8-Ruprecht-Jarvis vs 2-Eng-Sieg
+        690    3.00   1.00 9-Taylor-Cline vs 7-Kossmann-Kossmann
+       1390    0.50   3.50 10-Stuberg-Marx vs 6-Mohrman-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   2.00 1-Christensen-Ring vs 5-Tipton-Hesson
+  140          2.00   2.00 3-Miller-Ford vs 4-Galer-Vulcan
+  420          4.00   0.00 8-Ruprecht-Jarvis vs 2-Eng-Sieg
+         50    0.00   4.00 9-Taylor-Cline vs 7-Kossmann-Kossmann
+  140          2.00   2.00 10-Stuberg-Marx vs 6-Mohrman-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   3.50 1-Christensen-Ring vs 8-Ruprecht-Jarvis
+  140          2.50   1.50 2-Eng-Sieg vs 6-Mohrman-Krah
+         50    0.50   3.50 4-Galer-Vulcan vs 5-Tipton-Hesson
+  140          2.50   1.50 9-Taylor-Cline vs 3-Miller-Ford
+  170          4.00   0.00 10-Stuberg-Marx vs 7-Kossmann-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.50   2.50 1-Christensen-Ring vs 8-Ruprecht-Jarvis
+        140    3.00   1.00 2-Eng-Sieg vs 6-Mohrman-Krah
+        400    0.00   4.00 4-Galer-Vulcan vs 5-Tipton-Hesson
+  200          4.00   0.00 9-Taylor-Cline vs 3-Miller-Ford
+        300    1.50   2.50 10-Stuberg-Marx vs 7-Kossmann-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   0.00 1-Christensen-Ring vs 8-Ruprecht-Jarvis
+        400    0.00   4.00 2-Eng-Sieg vs 6-Mohrman-Krah
+        120    2.00   2.00 4-Galer-Vulcan vs 5-Tipton-Hesson
+        100    3.00   1.00 9-Taylor-Cline vs 3-Miller-Ford
+        180    1.00   3.00 10-Stuberg-Marx vs 7-Kossmann-Kossmann
+----------------------------------------------------------------------
