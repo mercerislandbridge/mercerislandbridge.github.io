@@ -1,38 +1,38 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>April 9, 2024      |CLUB NO.>158048    | 04/09/2024 21:59
+DATE>April 9, 2024      |CLUB NO.>158048    | 04/09/2024 22:00
 ---------------------,-- ------------------- -------------,---------------------
-DIR> Jeff/aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+DIR> Jeff/aaron      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
 AVE>   36.0 |TOP>   3 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=9/B=4/C=1                       ,---,-------------------------,------,---------,
--------------------------------------------------|   |           Section       |      |Section  |
-No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
-------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Kim Eng                Eric Sieg                A    1     .     .     45.50  63.19  0.90(A) 
+PAIRS IN STRAT A=9/B=4/C=1                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Eric Sieg                A   1     .     .   |   1     .     .     45.50  63.19  2.19(OA)
 
- 2 Jeffrey Ford           Chris Moore              A    .     .     .     33.00  45.83          
+ 2 Jeffrey Ford           Chris Moore              A   .     .     .   |   .     .     .     33.00  45.83          
 
- 3 Ray Miller             Ann Romeo                A    .     .     .     33.00  45.83          
-
-
-
- 5 Oyvind Tafjord         Sue Anderson             B    .     .     .     33.50  46.53          
-
- 6 Hugh Hendrickson       Laura Miller             B    2     1     .     42.50  59.03  0.63(A) 
-
- 7 Stanford Christie      Corneliu Galer           A    4     .     .     38.50  53.47  0.32(A) 
-
- 8 Donald Kossmann        Beatrix Kossmann         C    .     .     .     21.50  29.86          
-
- 9 Kevin Cline            Aaron Mohrman            B    .     2     .     37.50  52.08  0.22(B) 
-
-10 Mike Christensen       Becky Stevens            A    3     .     .     39.00  54.17  0.45(A) 
+ 3 Ray Miller             Ann Romeo                A   .     .     .   |   .     .     .     33.00  45.83          
 
 
-                                          Totals                         324.00       
+
+ 5 Oyvind Tafjord         Sue Anderson             B   .     .     .   |   .     .     .     33.50  46.53          
+
+ 6 Hugh Hendrickson       Laura Miller             B   2     .     .   |   2     1     .     42.50  59.03  1.64(OA)
+
+ 7 Stanford Christie      Corneliu Galer           A   4     .     .   |   4     .     .     38.50  53.47  0.92(OA)
+
+ 8 Donald Kossmann        Beatrix Kossmann         C   .     .     .   |   .     .     .     21.50  29.86          
+
+ 9 Kevin Cline            Aaron Mohrman            B   .     .     .   |   .     2     .     37.50  52.08  0.22(SB)
+
+10 Mike Christensen       Becky Stevens            A   3     .     .   |   3     .     .     39.00  54.17  1.23(OA)
+
+
+                                          Totals                                            324.00       
 
  RESULTS OF BOARD 1
 
