@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>April 16, 2024     |CLUB NO.>158048    | 04/16/2024 21:58
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3600/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=9/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Hugh Hendrickson       Laura Miller             C    .     4     1     68.50  50.74  0.40(C) 
+
+ 2 Kim Eng                Jeffrey Ford             A    3     .     .     74.00  54.81  0.60(A) 
+
+ 3 Mike Christensen       Becky Stevens            A    4     .     .     71.00  52.59  0.42(A) 
+
+ 4 Nick Tipton            Galen Hesson             B    .     .     .     52.00  38.52          
+
+ 5 Bogdan Vulcan          Corneliu Galer           B    5     2     .     70.00  51.85  0.50(B) 
+
+ 6 Susan Waggoner         Brad Rind                C    .     .     2     63.50  47.04  0.28(C) 
+
+ 7 Matt Gaffney           Dion Sorenson            C    .     .     .     54.50  40.37          
+
+ 8 Changtiaorap Lanchew   Yiyang Zhao              C    .     .     .     62.50  46.30          
+
+ 9 Aaron Mohrman          David Taylor             B    .     3     .     69.00  51.11  0.36(B) 
+
+10 Mike Ring              David Wright             B    2     1     .     78.00  57.78  0.84(A) 
+
+11 Ann Romeo              Donald Kossmann          C    .     .     .     63.00  46.67          
+
+12 Ray Miller             Chris Moore              A    1     .     .     84.00  62.22  1.20(A) 
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.00   4.00 3-Christensen-Stevens vs 11-Romeo-Kossmann
+        500    0.00   5.00 5-Vulcan-Galer vs 2-Eng-Ford
+        150    2.50   2.50 6-Waggoner-Rind vs 10-Ring-Wright
+        150    2.50   2.50 8-Lanchew-Zhao vs 4-Tipton-Hesson
+        100    4.00   1.00 9-Mohrman-Taylor vs 7-Gaffney-Sorenson
+   50          5.00   0.00 12-Miller-Moore vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   2.00 3-Christensen-Stevens vs 11-Romeo-Kossmann
+        100    3.00   2.00 5-Vulcan-Galer vs 2-Eng-Ford
+        200    0.00   5.00 6-Waggoner-Rind vs 10-Ring-Wright
+        100    3.00   2.00 8-Lanchew-Zhao vs 4-Tipton-Hesson
+        100    3.00   2.00 9-Mohrman-Taylor vs 7-Gaffney-Sorenson
+        100    3.00   2.00 12-Miller-Moore vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   5.00 3-Christensen-Stevens vs 11-Romeo-Kossmann
+        120    1.50   3.50 5-Vulcan-Galer vs 2-Eng-Ford
+        120    1.50   3.50 6-Waggoner-Rind vs 10-Ring-Wright
+        110    3.00   2.00 8-Lanchew-Zhao vs 4-Tipton-Hesson
+  200          5.00   0.00 9-Mohrman-Taylor vs 7-Gaffney-Sorenson
+        100    4.00   1.00 12-Miller-Moore vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   5.00 1-Hendrickson-Miller vs 8-Lanchew-Zhao
+        140    1.50   3.50 6-Waggoner-Rind vs 3-Christensen-Stevens
+        140    1.50   3.50 7-Gaffney-Sorenson vs 10-Ring-Wright
+        110    3.50   1.50 9-Mohrman-Taylor vs 5-Vulcan-Galer
+        110    3.50   1.50 11-Romeo-Kossmann vs 4-Tipton-Hesson
+  100          5.00   0.00 12-Miller-Moore vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   1.00 1-Hendrickson-Miller vs 8-Lanchew-Zhao
+  620          4.00   1.00 6-Waggoner-Rind vs 3-Christensen-Stevens
+  620          4.00   1.00 7-Gaffney-Sorenson vs 10-Ring-Wright
+  170          1.50   3.50 9-Mohrman-Taylor vs 5-Vulcan-Galer
+  170          1.50   3.50 11-Romeo-Kossmann vs 4-Tipton-Hesson
+  140          0.00   5.00 12-Miller-Moore vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    5.00   0.00 1-Hendrickson-Miller vs 8-Lanchew-Zhao
+       1390    1.50   3.50 6-Waggoner-Rind vs 3-Christensen-Stevens
+       1390    1.50   3.50 7-Gaffney-Sorenson vs 10-Ring-Wright
+       1390    1.50   3.50 9-Mohrman-Taylor vs 5-Vulcan-Galer
+        720    4.00   1.00 11-Romeo-Kossmann vs 4-Tipton-Hesson
+       1390    1.50   3.50 12-Miller-Moore vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   3.50 1-Hendrickson-Miller vs 6-Waggoner-Rind
+  130          5.00   0.00 2-Eng-Ford vs 9-Mohrman-Taylor
+        620    1.50   3.50 7-Gaffney-Sorenson vs 4-Tipton-Hesson
+        200    4.00   1.00 10-Ring-Wright vs 8-Lanchew-Zhao
+        500    3.00   2.00 11-Romeo-Kossmann vs 5-Vulcan-Galer
+        650    0.00   5.00 12-Miller-Moore vs 3-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   0.00 1-Hendrickson-Miller vs 6-Waggoner-Rind
+  110          2.50   2.50 2-Eng-Ford vs 9-Mohrman-Taylor
+  120          4.00   1.00 7-Gaffney-Sorenson vs 4-Tipton-Hesson
+        100    0.00   5.00 10-Ring-Wright vs 8-Lanchew-Zhao
+  110          2.50   2.50 11-Romeo-Kossmann vs 5-Vulcan-Galer
+         50    1.00   4.00 12-Miller-Moore vs 3-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   2.50 1-Hendrickson-Miller vs 6-Waggoner-Rind
+  170          2.50   2.50 2-Eng-Ford vs 9-Mohrman-Taylor
+         50    1.00   4.00 7-Gaffney-Sorenson vs 4-Tipton-Hesson
+  450          4.50   0.50 10-Ring-Wright vs 8-Lanchew-Zhao
+         90    0.00   5.00 11-Romeo-Kossmann vs 5-Vulcan-Galer
+  450          4.50   0.50 12-Miller-Moore vs 3-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   1.00 2-Eng-Ford vs 7-Gaffney-Sorenson
+  100          1.00   4.00 3-Christensen-Stevens vs 1-Hendrickson-Miller
+  200          4.00   1.00 8-Lanchew-Zhao vs 5-Vulcan-Galer
+  100          1.00   4.00 10-Ring-Wright vs 9-Mohrman-Taylor
+  100          1.00   4.00 11-Romeo-Kossmann vs 6-Waggoner-Rind
+  200          4.00   1.00 12-Miller-Moore vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.50   3.50 2-Eng-Ford vs 7-Gaffney-Sorenson
+  420          1.50   3.50 3-Christensen-Stevens vs 1-Hendrickson-Miller
+  450          4.50   0.50 8-Lanchew-Zhao vs 5-Vulcan-Galer
+  420          1.50   3.50 10-Ring-Wright vs 9-Mohrman-Taylor
+  420          1.50   3.50 11-Romeo-Kossmann vs 6-Waggoner-Rind
+  450          4.50   0.50 12-Miller-Moore vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.00   2.00 2-Eng-Ford vs 7-Gaffney-Sorenson
+        400    2.00   3.00 3-Christensen-Stevens vs 1-Hendrickson-Miller
+        460    0.00   5.00 8-Lanchew-Zhao vs 5-Vulcan-Galer
+   50          4.00   1.00 10-Ring-Wright vs 9-Mohrman-Taylor
+        430    1.00   4.00 11-Romeo-Kossmann vs 6-Waggoner-Rind
+  100          5.00   0.00 12-Miller-Moore vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 1-Hendrickson-Miller vs 10-Ring-Wright
+  200          4.00   1.00 3-Christensen-Stevens vs 8-Lanchew-Zhao
+  200          4.00   1.00 4-Tipton-Hesson vs 2-Eng-Ford
+  200          4.00   1.00 7-Gaffney-Sorenson vs 11-Romeo-Kossmann
+        130    1.00   4.00 9-Mohrman-Taylor vs 6-Waggoner-Rind
+  100          2.00   3.00 12-Miller-Moore vs 5-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.00   3.00 1-Hendrickson-Miller vs 10-Ring-Wright
+        400    5.00   0.00 3-Christensen-Stevens vs 8-Lanchew-Zhao
+        430    2.00   3.00 4-Tipton-Hesson vs 2-Eng-Ford
+        430    2.00   3.00 7-Gaffney-Sorenson vs 11-Romeo-Kossmann
+        430    2.00   3.00 9-Mohrman-Taylor vs 6-Waggoner-Rind
+        430    2.00   3.00 12-Miller-Moore vs 5-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   2.00 1-Hendrickson-Miller vs 10-Ring-Wright
+        400    0.50   4.50 3-Christensen-Stevens vs 8-Lanchew-Zhao
+        200    2.00   3.00 4-Tipton-Hesson vs 2-Eng-Ford
+  100          4.00   1.00 7-Gaffney-Sorenson vs 11-Romeo-Kossmann
+  620          5.00   0.00 9-Mohrman-Taylor vs 6-Waggoner-Rind
+        400    0.50   4.50 12-Miller-Moore vs 5-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          1.00   4.00 1-Hendrickson-Miller vs 7-Gaffney-Sorenson
+  170          5.00   0.00 2-Eng-Ford vs 10-Ring-Wright
+         50    0.00   5.00 4-Tipton-Hesson vs 9-Mohrman-Taylor
+  140          3.50   1.50 5-Vulcan-Galer vs 3-Christensen-Stevens
+  120          2.00   3.00 8-Lanchew-Zhao vs 11-Romeo-Kossmann
+  140          3.50   1.50 12-Miller-Moore vs 6-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   3.50 1-Hendrickson-Miller vs 7-Gaffney-Sorenson
+   50          1.50   3.50 2-Eng-Ford vs 10-Ring-Wright
+  150          4.00   1.00 4-Tipton-Hesson vs 9-Mohrman-Taylor
+  100          3.00   2.00 5-Vulcan-Galer vs 3-Christensen-Stevens
+        110    0.00   5.00 8-Lanchew-Zhao vs 11-Romeo-Kossmann
+  200          5.00   0.00 12-Miller-Moore vs 6-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 1-Hendrickson-Miller vs 7-Gaffney-Sorenson
+        100    1.00   4.00 2-Eng-Ford vs 10-Ring-Wright
+  150          3.00   2.00 4-Tipton-Hesson vs 9-Mohrman-Taylor
+        100    1.00   4.00 5-Vulcan-Galer vs 3-Christensen-Stevens
+  600          4.00   1.00 8-Lanchew-Zhao vs 11-Romeo-Kossmann
+  630          5.00   0.00 12-Miller-Moore vs 6-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   5.00 2-Eng-Ford vs 8-Lanchew-Zhao
+        150    1.50   3.50 5-Vulcan-Galer vs 1-Hendrickson-Miller
+  200          4.50   0.50 6-Waggoner-Rind vs 4-Tipton-Hesson
+         50    3.00   2.00 10-Ring-Wright vs 3-Christensen-Stevens
+        150    1.50   3.50 11-Romeo-Kossmann vs 9-Mohrman-Taylor
+  200          4.50   0.50 12-Miller-Moore vs 7-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.00   1.00 2-Eng-Ford vs 8-Lanchew-Zhao
+  620          1.00   4.00 5-Vulcan-Galer vs 1-Hendrickson-Miller
+  620          1.00   4.00 6-Waggoner-Rind vs 4-Tipton-Hesson
+  620          1.00   4.00 10-Ring-Wright vs 3-Christensen-Stevens
+  680          4.00   1.00 11-Romeo-Kossmann vs 9-Mohrman-Taylor
+  680          4.00   1.00 12-Miller-Moore vs 7-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   1.00 2-Eng-Ford vs 8-Lanchew-Zhao
+        200    0.00   5.00 5-Vulcan-Galer vs 1-Hendrickson-Miller
+  620          5.00   0.00 6-Waggoner-Rind vs 4-Tipton-Hesson
+        100    2.00   3.00 10-Ring-Wright vs 3-Christensen-Stevens
+        100    2.00   3.00 11-Romeo-Kossmann vs 9-Mohrman-Taylor
+        100    2.00   3.00 12-Miller-Moore vs 7-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   3.50 3-Christensen-Stevens vs 9-Mohrman-Taylor
+        100    4.50   0.50 6-Waggoner-Rind vs 2-Eng-Ford
+        620    1.50   3.50 7-Gaffney-Sorenson vs 5-Vulcan-Galer
+        100    4.50   0.50 10-Ring-Wright vs 4-Tipton-Hesson
+        650    0.00   5.00 11-Romeo-Kossmann vs 1-Hendrickson-Miller
+        300    3.00   2.00 12-Miller-Moore vs 8-Lanchew-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.50   2.50 3-Christensen-Stevens vs 9-Mohrman-Taylor
+  200          4.00   1.00 6-Waggoner-Rind vs 2-Eng-Ford
+  100          0.50   4.50 7-Gaffney-Sorenson vs 5-Vulcan-Galer
+  600          5.00   0.00 10-Ring-Wright vs 4-Tipton-Hesson
+  100          0.50   4.50 11-Romeo-Kossmann vs 1-Hendrickson-Miller
+  130          2.50   2.50 12-Miller-Moore vs 8-Lanchew-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   2.50 3-Christensen-Stevens vs 9-Mohrman-Taylor
+        100    0.00   5.00 6-Waggoner-Rind vs 2-Eng-Ford
+         50    1.00   4.00 7-Gaffney-Sorenson vs 5-Vulcan-Galer
+  400          4.50   0.50 10-Ring-Wright vs 4-Tipton-Hesson
+  400          4.50   0.50 11-Romeo-Kossmann vs 1-Hendrickson-Miller
+  110          2.50   2.50 12-Miller-Moore vs 8-Lanchew-Zhao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   3.00 2-Eng-Ford vs 11-Romeo-Kossmann
+  100          2.00   3.00 4-Tipton-Hesson vs 1-Hendrickson-Miller
+  200          4.00   1.00 5-Vulcan-Galer vs 10-Ring-Wright
+        620    0.00   5.00 7-Gaffney-Sorenson vs 3-Christensen-Stevens
+  100          2.00   3.00 8-Lanchew-Zhao vs 6-Waggoner-Rind
+  500          5.00   0.00 12-Miller-Moore vs 9-Mohrman-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.50   0.50 2-Eng-Ford vs 11-Romeo-Kossmann
+  110          4.50   0.50 4-Tipton-Hesson vs 1-Hendrickson-Miller
+        200    0.50   4.50 5-Vulcan-Galer vs 10-Ring-Wright
+        100    2.50   2.50 7-Gaffney-Sorenson vs 3-Christensen-Stevens
+        200    0.50   4.50 8-Lanchew-Zhao vs 6-Waggoner-Rind
+        100    2.50   2.50 12-Miller-Moore vs 9-Mohrman-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   4.00 2-Eng-Ford vs 11-Romeo-Kossmann
+   50          2.50   2.50 4-Tipton-Hesson vs 1-Hendrickson-Miller
+  100          4.00   1.00 5-Vulcan-Galer vs 10-Ring-Wright
+        590    0.00   5.00 7-Gaffney-Sorenson vs 3-Christensen-Stevens
+  170          5.00   0.00 8-Lanchew-Zhao vs 6-Waggoner-Rind
+   50          2.50   2.50 12-Miller-Moore vs 9-Mohrman-Taylor
+----------------------------------------------------------------------
