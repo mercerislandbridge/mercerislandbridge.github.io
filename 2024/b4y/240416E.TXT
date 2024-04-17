@@ -1,0 +1,205 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>April 16, 2024     |CLUB NO.>158048    | 04/16/2024 21:30
+---------------------,-- ------------------- -------------,---------------------
+DIR> Aaron/Mike      |RATING>Club Masterpoint (60%, 50%, 40% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   24.0 |TOP>   3 |MP LIMITS>2500/100/10    |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=4/B=1/C=0                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Rui Gong               Leyi Chen                A    .     .     .     24.00  50.00          
+
+ 2 Ella Su                Arthur Gong              A    1     .     .     31.00  64.58  0.24(A) 
+
+ 3 Qian Liang             Yanchun Guo              B    2     .     .     27.00  56.25  0.17(A) 
+
+ 4 Matt Korol             Theo Korol               A    .     .     .     14.00  29.17          
+
+
+                                          Totals                          96.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>April 16, 2024     |CLUB NO.>158048    | 04/16/2024 21:30
+---------------------,-- ------------------- -------------,---------------------
+DIR> Aaron/Mike      |RATING>Club Masterpoint (60%, 50%, 40% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   24.0 |TOP>   3 |MP LIMITS>2500/100/10    |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=4/B=4/C=4                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Nolan Newman           Pat Newman               C    .     .     .     12.00  25.00          
+
+ 2 Avery Liang            Alexandra Deschenes      C    1     1     1     31.50  65.63  0.24(A) 
+
+ 3 Derek Deschenes        Qinqin Zhang             C    .     .     .     22.00  45.83          
+
+ 4 Ted Landreth           Bernie Tevelde           C    2     2     2     30.50  63.54  0.17(A) 
+
+
+                                          Totals                          96.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   1.00 1-Gong-Chen vs 1-Newman-Newman
+         50    3.00   0.00 2-Su-Gong vs 3-Deschenes-Zhang
+        180    1.00   2.00 3-Liang-Guo vs 2-Liang-Deschenes
+        570    0.00   3.00 4-Korol-Korol vs 4-Landreth-Tevelde
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          1.00   2.00 1-Gong-Chen vs 1-Newman-Newman
+  600          3.00   0.00 2-Su-Gong vs 3-Deschenes-Zhang
+  140          2.00   1.00 3-Liang-Guo vs 2-Liang-Deschenes
+        100    0.00   3.00 4-Korol-Korol vs 4-Landreth-Tevelde
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   0.00 1-Gong-Chen vs 1-Newman-Newman
+  100          2.00   1.00 2-Su-Gong vs 3-Deschenes-Zhang
+        120    1.00   2.00 3-Liang-Guo vs 2-Liang-Deschenes
+        130    0.00   3.00 4-Korol-Korol vs 4-Landreth-Tevelde
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   0.00 1-Gong-Chen vs 1-Newman-Newman
+        140    1.00   2.00 2-Su-Gong vs 3-Deschenes-Zhang
+        140    1.00   2.00 3-Liang-Guo vs 2-Liang-Deschenes
+        140    1.00   2.00 4-Korol-Korol vs 4-Landreth-Tevelde
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   3.00 1-Gong-Chen vs 4-Landreth-Tevelde
+  170          1.00   2.00 2-Su-Gong vs 2-Liang-Deschenes
+  620          2.50   0.50 3-Liang-Guo vs 1-Newman-Newman
+  620          2.50   0.50 4-Korol-Korol vs 3-Deschenes-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   0.00 1-Gong-Chen vs 4-Landreth-Tevelde
+        630    1.00   2.00 2-Su-Gong vs 2-Liang-Deschenes
+        600    2.00   1.00 3-Liang-Guo vs 1-Newman-Newman
+        690    0.00   3.00 4-Korol-Korol vs 3-Deschenes-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        930    0.00   3.00 1-Gong-Chen vs 4-Landreth-Tevelde
+        200    1.00   2.00 2-Su-Gong vs 2-Liang-Deschenes
+  100          2.50   0.50 3-Liang-Guo vs 1-Newman-Newman
+  100          2.50   0.50 4-Korol-Korol vs 3-Deschenes-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   2.50 1-Gong-Chen vs 4-Landreth-Tevelde
+  110          2.00   1.00 2-Su-Gong vs 2-Liang-Deschenes
+  140          3.00   0.00 3-Liang-Guo vs 1-Newman-Newman
+         50    0.50   2.50 4-Korol-Korol vs 3-Deschenes-Zhang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   2.00 1-Gong-Chen vs 3-Deschenes-Zhang
+  200          3.00   0.00 2-Su-Gong vs 1-Newman-Newman
+  170          2.00   1.00 3-Liang-Guo vs 4-Landreth-Tevelde
+        110    0.00   3.00 4-Korol-Korol vs 2-Liang-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   2.00 1-Gong-Chen vs 3-Deschenes-Zhang
+  300          3.00   0.00 2-Su-Gong vs 1-Newman-Newman
+  200          2.00   1.00 3-Liang-Guo vs 4-Landreth-Tevelde
+         70    0.00   3.00 4-Korol-Korol vs 2-Liang-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          1.00   2.00 1-Gong-Chen vs 3-Deschenes-Zhang
+  450          2.50   0.50 2-Su-Gong vs 1-Newman-Newman
+  450          2.50   0.50 3-Liang-Guo vs 4-Landreth-Tevelde
+  100          0.00   3.00 4-Korol-Korol vs 2-Liang-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   0.00 1-Gong-Chen vs 3-Deschenes-Zhang
+        100    2.00   1.00 2-Su-Gong vs 1-Newman-Newman
+        200    0.00   3.00 3-Liang-Guo vs 4-Landreth-Tevelde
+        140    1.00   2.00 4-Korol-Korol vs 2-Liang-Deschenes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   2.50 1-Gong-Chen vs 2-Liang-Deschenes
+  110          3.00   0.00 2-Su-Gong vs 4-Landreth-Tevelde
+        100    2.00   1.00 3-Liang-Guo vs 3-Deschenes-Zhang
+        200    0.50   2.50 4-Korol-Korol vs 1-Newman-Newman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   0.50 1-Gong-Chen vs 2-Liang-Deschenes
+        150    0.50   2.50 2-Su-Gong vs 4-Landreth-Tevelde
+   50          2.50   0.50 3-Liang-Guo vs 3-Deschenes-Zhang
+        150    0.50   2.50 4-Korol-Korol vs 1-Newman-Newman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.50   0.50 1-Gong-Chen vs 2-Liang-Deschenes
+  140          1.00   2.00 2-Su-Gong vs 4-Landreth-Tevelde
+        500    0.00   3.00 3-Liang-Guo vs 3-Deschenes-Zhang
+  620          2.50   0.50 4-Korol-Korol vs 1-Newman-Newman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+    PASS       0.00   3.00 1-Gong-Chen vs 2-Liang-Deschenes
+  140          2.00   1.00 2-Su-Gong vs 4-Landreth-Tevelde
+  110          1.00   2.00 3-Liang-Guo vs 3-Deschenes-Zhang
+  200          3.00   0.00 4-Korol-Korol vs 1-Newman-Newman
+----------------------------------------------------------------------
