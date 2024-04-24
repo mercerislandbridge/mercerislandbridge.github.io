@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>April 23, 2024     |CLUB NO.>158048    | 04/23/2024 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=8/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Hugh Hendrickson       Laura Miller             C    .     .     .     65.00  48.15          
+
+ 2 Aaron Mohrman          Valliappa Lakshmanan     C    .     .     1     68.50  50.74  0.40(C) 
+
+ 3 Bogdan Vulcan          Corneliu Galer           B    2     1     .     82.50  61.11  0.84(A) 
+
+ 4 Mike Ring              Mike Christensen         A    .     .     .     62.00  45.93          
+
+ 5 Kim Eng                Jeffrey Ford             A    1     .     .     85.00  62.96  1.20(A) 
+
+ 6 Brad Rind              Susan Waggoner           C    .     .     .     63.00  46.67          
+
+ 7 Eric Sieg              Dave Grubbs              A    4     .     .     70.00  51.85  0.42(A) 
+
+ 8 Kevin Cline            Joseph Grill             B    3     2     .     70.50  52.22  0.60(A) 
+
+ 9 Adam Ruprecht          Christopher Jarvis       C    .     .     2     67.00  49.63  0.28(C) 
+
+10 Dion Sorenson          Matt Gaffney             C    .     .     .     49.00  36.30          
+
+11 Nick Tipton            Galen Hesson             B    5     3     .     69.50  51.48  0.32(B) 
+
+12 Ray Miller             Ann Romeo                A    .     .     .     58.00  42.96          
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          5.00   0.00 3-Vulcan-Galer vs 11-Tipton-Hesson
+  420          3.00   2.00 5-Eng-Ford vs 2-Mohrman-Lakshmanan
+  140          0.00   5.00 6-Rind-Waggoner vs 10-Sorenson-Gaffney
+  170          1.00   4.00 8-Cline-Grill vs 4-Ring-Christensen
+  450          4.00   1.00 9-Ruprecht-Jarvis vs 7-Sieg-Grubbs
+  200          2.00   3.00 12-Miller-Romeo vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.50   2.50 3-Vulcan-Galer vs 11-Tipton-Hesson
+  660          5.00   0.00 5-Eng-Ford vs 2-Mohrman-Lakshmanan
+  600          2.50   2.50 6-Rind-Waggoner vs 10-Sorenson-Gaffney
+  600          2.50   2.50 8-Cline-Grill vs 4-Ring-Christensen
+        400    0.00   5.00 9-Ruprecht-Jarvis vs 7-Sieg-Grubbs
+  600          2.50   2.50 12-Miller-Romeo vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.50   4.50 3-Vulcan-Galer vs 11-Tipton-Hesson
+        500    2.00   3.00 5-Eng-Ford vs 2-Mohrman-Lakshmanan
+        150    3.00   2.00 6-Rind-Waggoner vs 10-Sorenson-Gaffney
+  100          4.00   1.00 8-Cline-Grill vs 4-Ring-Christensen
+  200          5.00   0.00 9-Ruprecht-Jarvis vs 7-Sieg-Grubbs
+        620    0.50   4.50 12-Miller-Romeo vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   2.00 1-Hendrickson-Miller vs 8-Cline-Grill
+        200    1.00   4.00 6-Rind-Waggoner vs 3-Vulcan-Galer
+        140    5.00   0.00 7-Sieg-Grubbs vs 10-Sorenson-Gaffney
+        170    3.00   2.00 9-Ruprecht-Jarvis vs 5-Eng-Ford
+        170    3.00   2.00 11-Tipton-Hesson vs 4-Ring-Christensen
+        620    0.00   5.00 12-Miller-Romeo vs 2-Mohrman-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    4.00   1.00 1-Hendrickson-Miller vs 8-Cline-Grill
+        210    1.00   4.00 6-Rind-Waggoner vs 3-Vulcan-Galer
+        110    5.00   0.00 7-Sieg-Grubbs vs 10-Sorenson-Gaffney
+        170    2.50   2.50 9-Ruprecht-Jarvis vs 5-Eng-Ford
+        170    2.50   2.50 11-Tipton-Hesson vs 4-Ring-Christensen
+        400    0.00   5.00 12-Miller-Romeo vs 2-Mohrman-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.50   4.50 1-Hendrickson-Miller vs 8-Cline-Grill
+        110    3.00   2.00 6-Rind-Waggoner vs 3-Vulcan-Galer
+         50    4.50   0.50 7-Sieg-Grubbs vs 10-Sorenson-Gaffney
+        300    2.00   3.00 9-Ruprecht-Jarvis vs 5-Eng-Ford
+         50    4.50   0.50 11-Tipton-Hesson vs 4-Ring-Christensen
+        500    0.50   4.50 12-Miller-Romeo vs 2-Mohrman-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   5.00 1-Hendrickson-Miller vs 6-Rind-Waggoner
+        130    1.50   3.50 2-Mohrman-Lakshmanan vs 9-Ruprecht-Jarvis
+        130    1.50   3.50 7-Sieg-Grubbs vs 4-Ring-Christensen
+  600          4.00   1.00 10-Sorenson-Gaffney vs 8-Cline-Grill
+  910          5.00   0.00 11-Tipton-Hesson vs 5-Eng-Ford
+  150          3.00   2.00 12-Miller-Romeo vs 3-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   2.50 1-Hendrickson-Miller vs 6-Rind-Waggoner
+  450          2.50   2.50 2-Mohrman-Lakshmanan vs 9-Ruprecht-Jarvis
+  450          2.50   2.50 7-Sieg-Grubbs vs 4-Ring-Christensen
+  450          2.50   2.50 10-Sorenson-Gaffney vs 8-Cline-Grill
+  450          2.50   2.50 11-Tipton-Hesson vs 5-Eng-Ford
+  450          2.50   2.50 12-Miller-Romeo vs 3-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.50   3.50 1-Hendrickson-Miller vs 6-Rind-Waggoner
+        150    1.50   3.50 2-Mohrman-Lakshmanan vs 9-Ruprecht-Jarvis
+        150    1.50   3.50 7-Sieg-Grubbs vs 4-Ring-Christensen
+         50    4.50   0.50 10-Sorenson-Gaffney vs 8-Cline-Grill
+         50    4.50   0.50 11-Tipton-Hesson vs 5-Eng-Ford
+        150    1.50   3.50 12-Miller-Romeo vs 3-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.50   4.50 2-Mohrman-Lakshmanan vs 7-Sieg-Grubbs
+  100          3.00   2.00 3-Vulcan-Galer vs 1-Hendrickson-Miller
+  100          3.00   2.00 8-Cline-Grill vs 5-Eng-Ford
+        110    0.50   4.50 10-Sorenson-Gaffney vs 9-Ruprecht-Jarvis
+  100          3.00   2.00 11-Tipton-Hesson vs 6-Rind-Waggoner
+  140          5.00   0.00 12-Miller-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   5.00 2-Mohrman-Lakshmanan vs 7-Sieg-Grubbs
+  170          2.00   3.00 3-Vulcan-Galer vs 1-Hendrickson-Miller
+  530          3.50   1.50 8-Cline-Grill vs 5-Eng-Ford
+ 1400          5.00   0.00 10-Sorenson-Gaffney vs 9-Ruprecht-Jarvis
+  140          1.00   4.00 11-Tipton-Hesson vs 6-Rind-Waggoner
+  530          3.50   1.50 12-Miller-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    4.00   1.00 2-Mohrman-Lakshmanan vs 7-Sieg-Grubbs
+        120    2.50   2.50 3-Vulcan-Galer vs 1-Hendrickson-Miller
+        400    0.00   5.00 8-Cline-Grill vs 5-Eng-Ford
+        150    1.00   4.00 10-Sorenson-Gaffney vs 9-Ruprecht-Jarvis
+        120    2.50   2.50 11-Tipton-Hesson vs 6-Rind-Waggoner
+  100          5.00   0.00 12-Miller-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.00   1.00 1-Hendrickson-Miller vs 10-Sorenson-Gaffney
+  130          2.00   3.00 3-Vulcan-Galer vs 8-Cline-Grill
+  130          2.00   3.00 4-Ring-Christensen vs 2-Mohrman-Lakshmanan
+  200          5.00   0.00 7-Sieg-Grubbs vs 11-Tipton-Hesson
+  130          2.00   3.00 9-Ruprecht-Jarvis vs 6-Rind-Waggoner
+  100          0.00   5.00 12-Miller-Romeo vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   0.00 1-Hendrickson-Miller vs 10-Sorenson-Gaffney
+        200    4.00   1.00 3-Vulcan-Galer vs 8-Cline-Grill
+        450    1.00   4.00 4-Ring-Christensen vs 2-Mohrman-Lakshmanan
+        420    2.50   2.50 7-Sieg-Grubbs vs 11-Tipton-Hesson
+        420    2.50   2.50 9-Ruprecht-Jarvis vs 6-Rind-Waggoner
+        480    0.00   5.00 12-Miller-Romeo vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   0.00 1-Hendrickson-Miller vs 10-Sorenson-Gaffney
+        200    0.00   5.00 3-Vulcan-Galer vs 8-Cline-Grill
+   50          2.00   3.00 4-Ring-Christensen vs 2-Mohrman-Lakshmanan
+        100    1.00   4.00 7-Sieg-Grubbs vs 11-Tipton-Hesson
+  300          4.00   1.00 9-Ruprecht-Jarvis vs 6-Rind-Waggoner
+  100          3.00   2.00 12-Miller-Romeo vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   3.50 1-Hendrickson-Miller vs 7-Sieg-Grubbs
+        100    3.50   1.50 2-Mohrman-Lakshmanan vs 10-Sorenson-Gaffney
+        140    1.50   3.50 4-Ring-Christensen vs 9-Ruprecht-Jarvis
+        100    3.50   1.50 5-Eng-Ford vs 3-Vulcan-Galer
+        300    0.00   5.00 8-Cline-Grill vs 11-Tipton-Hesson
+         50    5.00   0.00 12-Miller-Romeo vs 6-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 1-Hendrickson-Miller vs 7-Sieg-Grubbs
+         50    3.00   2.00 2-Mohrman-Lakshmanan vs 10-Sorenson-Gaffney
+  110          5.00   0.00 4-Ring-Christensen vs 9-Ruprecht-Jarvis
+         90    2.00   3.00 5-Eng-Ford vs 3-Vulcan-Galer
+  100          4.00   1.00 8-Cline-Grill vs 11-Tipton-Hesson
+        100    0.50   4.50 12-Miller-Romeo vs 6-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   3.50 1-Hendrickson-Miller vs 7-Sieg-Grubbs
+        420    1.50   3.50 2-Mohrman-Lakshmanan vs 10-Sorenson-Gaffney
+        420    1.50   3.50 4-Ring-Christensen vs 9-Ruprecht-Jarvis
+        420    1.50   3.50 5-Eng-Ford vs 3-Vulcan-Galer
+  100          4.50   0.50 8-Cline-Grill vs 11-Tipton-Hesson
+  100          4.50   0.50 12-Miller-Romeo vs 6-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 2-Mohrman-Lakshmanan vs 8-Cline-Grill
+  450          5.00   0.00 5-Eng-Ford vs 1-Hendrickson-Miller
+         50    2.00   3.00 6-Rind-Waggoner vs 4-Ring-Christensen
+        500    0.00   5.00 10-Sorenson-Gaffney vs 3-Vulcan-Galer
+  200          4.00   1.00 11-Tipton-Hesson vs 9-Ruprecht-Jarvis
+  110          3.00   2.00 12-Miller-Romeo vs 7-Sieg-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 2-Mohrman-Lakshmanan vs 8-Cline-Grill
+   90          3.00   2.00 5-Eng-Ford vs 1-Hendrickson-Miller
+        100    0.50   4.50 6-Rind-Waggoner vs 4-Ring-Christensen
+  110          5.00   0.00 10-Sorenson-Gaffney vs 3-Vulcan-Galer
+   90          3.00   2.00 11-Tipton-Hesson vs 9-Ruprecht-Jarvis
+   90          3.00   2.00 12-Miller-Romeo vs 7-Sieg-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 2-Mohrman-Lakshmanan vs 8-Cline-Grill
+  300          5.00   0.00 5-Eng-Ford vs 1-Hendrickson-Miller
+   50          3.00   2.00 6-Rind-Waggoner vs 4-Ring-Christensen
+        400    2.00   3.00 10-Sorenson-Gaffney vs 3-Vulcan-Galer
+        450    1.00   4.00 11-Tipton-Hesson vs 9-Ruprecht-Jarvis
+        480    0.00   5.00 12-Miller-Romeo vs 7-Sieg-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   1.50 3-Vulcan-Galer vs 9-Ruprecht-Jarvis
+  420          3.50   1.50 6-Rind-Waggoner vs 2-Mohrman-Lakshmanan
+  420          3.50   1.50 7-Sieg-Grubbs vs 5-Eng-Ford
+        100    0.00   5.00 10-Sorenson-Gaffney vs 4-Ring-Christensen
+  420          3.50   1.50 11-Tipton-Hesson vs 1-Hendrickson-Miller
+         50    1.00   4.00 12-Miller-Romeo vs 8-Cline-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          5.00   0.00 3-Vulcan-Galer vs 9-Ruprecht-Jarvis
+  100          2.00   3.00 6-Rind-Waggoner vs 2-Mohrman-Lakshmanan
+        500    0.00   5.00 7-Sieg-Grubbs vs 5-Eng-Ford
+        100    1.00   4.00 10-Sorenson-Gaffney vs 4-Ring-Christensen
+  130          4.00   1.00 11-Tipton-Hesson vs 1-Hendrickson-Miller
+  110          3.00   2.00 12-Miller-Romeo vs 8-Cline-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   0.50 3-Vulcan-Galer vs 9-Ruprecht-Jarvis
+   50          4.50   0.50 6-Rind-Waggoner vs 2-Mohrman-Lakshmanan
+        800    0.00   5.00 7-Sieg-Grubbs vs 5-Eng-Ford
+        200    3.00   2.00 10-Sorenson-Gaffney vs 4-Ring-Christensen
+        450    1.00   4.00 11-Tipton-Hesson vs 1-Hendrickson-Miller
+        420    2.00   3.00 12-Miller-Romeo vs 8-Cline-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   2.50 2-Mohrman-Lakshmanan vs 11-Tipton-Hesson
+        140    2.50   2.50 4-Ring-Christensen vs 1-Hendrickson-Miller
+        100    4.50   0.50 5-Eng-Ford vs 10-Sorenson-Gaffney
+        620    0.00   5.00 7-Sieg-Grubbs vs 3-Vulcan-Galer
+        150    1.00   4.00 8-Cline-Grill vs 6-Rind-Waggoner
+        100    4.50   0.50 12-Miller-Romeo vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.00   1.00 2-Mohrman-Lakshmanan vs 11-Tipton-Hesson
+  650          1.50   3.50 4-Ring-Christensen vs 1-Hendrickson-Miller
+  680          4.00   1.00 5-Eng-Ford vs 10-Sorenson-Gaffney
+        100    0.00   5.00 7-Sieg-Grubbs vs 3-Vulcan-Galer
+  680          4.00   1.00 8-Cline-Grill vs 6-Rind-Waggoner
+  650          1.50   3.50 12-Miller-Romeo vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.00   1.00 2-Mohrman-Lakshmanan vs 11-Tipton-Hesson
+  420          1.00   4.00 4-Ring-Christensen vs 1-Hendrickson-Miller
+  450          4.00   1.00 5-Eng-Ford vs 10-Sorenson-Gaffney
+  420          1.00   4.00 7-Sieg-Grubbs vs 3-Vulcan-Galer
+  450          4.00   1.00 8-Cline-Grill vs 6-Rind-Waggoner
+  420          1.00   4.00 12-Miller-Romeo vs 9-Ruprecht-Jarvis
+----------------------------------------------------------------------
