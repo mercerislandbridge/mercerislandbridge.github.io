@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 7, 2024        |CLUB NO.>158048    | 05/07/2024 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=5/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Moore            Kim Eng                  A    1     .     .     75.50  62.92  1.30(A) 
+
+ 2 Brian Zaugg            Shawn Abernethy          A    3     .     .     66.00  55.00  0.65(A) 
+
+
+
+ 4 Nick Tipton            Galen Hesson             B    .     .     .     50.50  42.08          
+
+ 5 Ray Miller             Jeffrey Ford             A    2     .     .     74.50  62.08  0.91(A) 
+
+ 6 Stanford Christie      Paramjeet Ahluwalia      A    .     .     .     61.00  50.83          
+
+ 7 Sue Anderson           Eric Sieg                A    .     .     .     56.50  47.08          
+
+ 8 Adam Ruprecht          Christopher Jarvis       C    .     2     .     58.50  48.75  0.28(B) 
+
+ 9 Mike Christensen       Mike Ring                A    .     .     .     55.50  46.25          
+
+10 Joseph Grill           David Roselle            B    .     .     .     48.00  40.00          
+
+11 John Krah              Aaron Mohrman            C    4     1     1     65.50  54.58  0.46(A) 
+
+12 Tracey Bauer           Ann Romeo                A    .     .     .     59.50  49.58          
+
+13 Hugh Hendrickson       Laura Miller             C    .     .     .     47.50  39.58          
+
+14 Corneliu Galer         Bogdan Vulcan            A    5     .     .     61.50  51.25  0.26(A) 
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   1.50 2-Zaugg-Abernethy vs 6-Christie-Ahluwalia
+        110    0.50   4.50 4-Tipton-Hesson vs 9-Christensen-Ring
+  100          5.00   0.00 5-Miller-Ford vs 12-Bauer-Romeo
+         50    3.50   1.50 7-Anderson-Sieg vs 8-Ruprecht-Jarvis
+        110    0.50   4.50 13-Hendrickson-Miller vs 10-Grill-Roselle
+        100    2.00   3.00 14-Galer-Vulcan vs 11-Krah-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   2.00 2-Zaugg-Abernethy vs 6-Christie-Ahluwalia
+  170          1.50   3.50 4-Tipton-Hesson vs 9-Christensen-Ring
+  620          5.00   0.00 5-Miller-Ford vs 12-Bauer-Romeo
+  170          1.50   3.50 7-Anderson-Sieg vs 8-Ruprecht-Jarvis
+  150          0.00   5.00 13-Hendrickson-Miller vs 10-Grill-Roselle
+  600          4.00   1.00 14-Galer-Vulcan vs 11-Krah-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   1.50 1-Moore-Eng vs 11-Krah-Mohrman
+        150    1.00   4.00 2-Zaugg-Abernethy vs 4-Tipton-Hesson
+        120    2.00   3.00 5-Miller-Ford vs 10-Grill-Roselle
+  200          5.00   0.00 6-Christie-Ahluwalia vs 13-Hendrickson-Miller
+        600    0.00   5.00 8-Ruprecht-Jarvis vs 9-Christensen-Ring
+  100          3.50   1.50 14-Galer-Vulcan vs 12-Bauer-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   0.00 1-Moore-Eng vs 11-Krah-Mohrman
+        140    2.50   2.50 2-Zaugg-Abernethy vs 4-Tipton-Hesson
+        110    4.00   1.00 5-Miller-Ford vs 10-Grill-Roselle
+        200    1.00   4.00 6-Christie-Ahluwalia vs 13-Hendrickson-Miller
+        140    2.50   2.50 8-Ruprecht-Jarvis vs 9-Christensen-Ring
+        800    0.00   5.00 14-Galer-Vulcan vs 12-Bauer-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 2-Zaugg-Abernethy vs 12-Bauer-Romeo
+        450    0.00   5.00 4-Tipton-Hesson vs 8-Ruprecht-Jarvis
+        140    1.50   3.50 6-Christie-Ahluwalia vs 11-Krah-Mohrman
+        140    1.50   3.50 7-Anderson-Sieg vs 1-Moore-Eng
+  100          4.00   1.00 9-Christensen-Ring vs 10-Grill-Roselle
+  100          4.00   1.00 14-Galer-Vulcan vs 13-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   1.00 2-Zaugg-Abernethy vs 12-Bauer-Romeo
+  100          2.00   3.00 4-Tipton-Hesson vs 8-Ruprecht-Jarvis
+  200          4.00   1.00 6-Christie-Ahluwalia vs 11-Krah-Mohrman
+  200          4.00   1.00 7-Anderson-Sieg vs 1-Moore-Eng
+        100    0.00   5.00 9-Christensen-Ring vs 10-Grill-Roselle
+         50    1.00   4.00 14-Galer-Vulcan vs 13-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.50   0.50 4-Tipton-Hesson vs 6-Christie-Ahluwalia
+  650          1.50   3.50 5-Miller-Ford vs 9-Christensen-Ring
+  680          4.50   0.50 7-Anderson-Sieg vs 12-Bauer-Romeo
+  650          1.50   3.50 8-Ruprecht-Jarvis vs 2-Zaugg-Abernethy
+  650          1.50   3.50 10-Grill-Roselle vs 11-Krah-Mohrman
+  650          1.50   3.50 14-Galer-Vulcan vs 1-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   0.00 4-Tipton-Hesson vs 6-Christie-Ahluwalia
+  140          2.50   2.50 5-Miller-Ford vs 9-Christensen-Ring
+  140          2.50   2.50 7-Anderson-Sieg vs 12-Bauer-Romeo
+        100    0.00   5.00 8-Ruprecht-Jarvis vs 2-Zaugg-Abernethy
+  140          2.50   2.50 10-Grill-Roselle vs 11-Krah-Mohrman
+  140          2.50   2.50 14-Galer-Vulcan vs 1-Moore-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   3.50 4-Tipton-Hesson vs 1-Moore-Eng
+  450          5.00   0.00 5-Miller-Ford vs 7-Anderson-Sieg
+        170    3.00   2.00 6-Christie-Ahluwalia vs 10-Grill-Roselle
+  420          4.00   1.00 8-Ruprecht-Jarvis vs 13-Hendrickson-Miller
+        620    1.50   3.50 11-Krah-Mohrman vs 12-Bauer-Romeo
+        790    0.00   5.00 14-Galer-Vulcan vs 2-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.00   5.00 4-Tipton-Hesson vs 1-Moore-Eng
+  200          5.00   0.00 5-Miller-Ford vs 7-Anderson-Sieg
+        600    1.50   3.50 6-Christie-Ahluwalia vs 10-Grill-Roselle
+  100          3.50   1.50 8-Ruprecht-Jarvis vs 13-Hendrickson-Miller
+        600    1.50   3.50 11-Krah-Mohrman vs 12-Bauer-Romeo
+  100          3.50   1.50 14-Galer-Vulcan vs 2-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   3.50 5-Miller-Ford vs 2-Zaugg-Abernethy
+  400          4.00   1.00 6-Christie-Ahluwalia vs 8-Ruprecht-Jarvis
+         50    1.50   3.50 7-Anderson-Sieg vs 11-Krah-Mohrman
+         50    1.50   3.50 9-Christensen-Ring vs 1-Moore-Eng
+         50    1.50   3.50 10-Grill-Roselle vs 4-Tipton-Hesson
+  500          5.00   0.00 12-Bauer-Romeo vs 13-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          4.50   0.50 5-Miller-Ford vs 2-Zaugg-Abernethy
+  600          2.00   3.00 6-Christie-Ahluwalia vs 8-Ruprecht-Jarvis
+  110          0.00   5.00 7-Anderson-Sieg vs 11-Krah-Mohrman
+  600          2.00   3.00 9-Christensen-Ring vs 1-Moore-Eng
+  660          4.50   0.50 10-Grill-Roselle vs 4-Tipton-Hesson
+  600          2.00   3.00 12-Bauer-Romeo vs 13-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 7-Anderson-Sieg vs 9-Christensen-Ring
+        180    3.00   2.00 8-Ruprecht-Jarvis vs 12-Bauer-Romeo
+        500    0.50   4.50 10-Grill-Roselle vs 2-Zaugg-Abernethy
+        110    4.00   1.00 11-Krah-Mohrman vs 5-Miller-Ford
+        500    0.50   4.50 13-Hendrickson-Miller vs 1-Moore-Eng
+        200    2.00   3.00 14-Galer-Vulcan vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.50   3.50 7-Anderson-Sieg vs 9-Christensen-Ring
+  450          1.50   3.50 8-Ruprecht-Jarvis vs 12-Bauer-Romeo
+  450          1.50   3.50 10-Grill-Roselle vs 2-Zaugg-Abernethy
+  480          4.50   0.50 11-Krah-Mohrman vs 5-Miller-Ford
+  450          1.50   3.50 13-Hendrickson-Miller vs 1-Moore-Eng
+  480          4.50   0.50 14-Galer-Vulcan vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.00   1.00 1-Moore-Eng vs 2-Zaugg-Abernethy
+        200    1.00   4.00 7-Anderson-Sieg vs 4-Tipton-Hesson
+  600          3.00   2.00 8-Ruprecht-Jarvis vs 10-Grill-Roselle
+        300    0.00   5.00 9-Christensen-Ring vs 13-Hendrickson-Miller
+  150          2.00   3.00 12-Bauer-Romeo vs 6-Christie-Ahluwalia
+  660          5.00   0.00 14-Galer-Vulcan vs 5-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   2.50 1-Moore-Eng vs 2-Zaugg-Abernethy
+  200          4.00   1.00 7-Anderson-Sieg vs 4-Tipton-Hesson
+  300          5.00   0.00 8-Ruprecht-Jarvis vs 10-Grill-Roselle
+  140          2.50   2.50 9-Christensen-Ring vs 13-Hendrickson-Miller
+  100          1.00   4.00 12-Bauer-Romeo vs 6-Christie-Ahluwalia
+         90    0.00   5.00 14-Galer-Vulcan vs 5-Miller-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   4.00 8-Ruprecht-Jarvis vs 5-Miller-Ford
+         90    3.00   2.00 9-Christensen-Ring vs 11-Krah-Mohrman
+  100          4.00   1.00 10-Grill-Roselle vs 1-Moore-Eng
+  110          5.00   0.00 12-Bauer-Romeo vs 4-Tipton-Hesson
+        120    1.00   4.00 13-Hendrickson-Miller vs 7-Anderson-Sieg
+        120    1.00   4.00 14-Galer-Vulcan vs 6-Christie-Ahluwalia
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    1.00   4.00 8-Ruprecht-Jarvis vs 5-Miller-Ford
+        480    1.00   4.00 9-Christensen-Ring vs 11-Krah-Mohrman
+        480    1.00   4.00 10-Grill-Roselle vs 1-Moore-Eng
+        230    4.00   1.00 12-Bauer-Romeo vs 4-Tipton-Hesson
+   50          5.00   0.00 13-Hendrickson-Miller vs 7-Anderson-Sieg
+        430    3.00   2.00 14-Galer-Vulcan vs 6-Christie-Ahluwalia
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   1.00 1-Moore-Eng vs 8-Ruprecht-Jarvis
+        670    0.00   5.00 9-Christensen-Ring vs 6-Christie-Ahluwalia
+        100    1.00   4.00 10-Grill-Roselle vs 12-Bauer-Romeo
+  420          4.00   1.00 11-Krah-Mohrman vs 2-Zaugg-Abernethy
+         50    2.00   3.00 13-Hendrickson-Miller vs 5-Miller-Ford
+  420          4.00   1.00 14-Galer-Vulcan vs 7-Anderson-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 1-Moore-Eng vs 8-Ruprecht-Jarvis
+        600    1.00   4.00 9-Christensen-Ring vs 6-Christie-Ahluwalia
+        600    1.00   4.00 10-Grill-Roselle vs 12-Bauer-Romeo
+        150    3.50   1.50 11-Krah-Mohrman vs 2-Zaugg-Abernethy
+        600    1.00   4.00 13-Hendrickson-Miller vs 5-Miller-Ford
+        150    3.50   1.50 14-Galer-Vulcan vs 7-Anderson-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          5.00   0.00 1-Moore-Eng vs 6-Christie-Ahluwalia
+         70    3.00   2.00 2-Zaugg-Abernethy vs 9-Christensen-Ring
+        100    1.00   4.00 4-Tipton-Hesson vs 5-Miller-Ford
+        100    1.00   4.00 10-Grill-Roselle vs 7-Anderson-Sieg
+  300          4.00   1.00 11-Krah-Mohrman vs 13-Hendrickson-Miller
+        100    1.00   4.00 14-Galer-Vulcan vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.50   2.50 1-Moore-Eng vs 6-Christie-Ahluwalia
+  100          4.50   0.50 2-Zaugg-Abernethy vs 9-Christensen-Ring
+  100          4.50   0.50 4-Tipton-Hesson vs 5-Miller-Ford
+        650    1.00   4.00 10-Grill-Roselle vs 7-Anderson-Sieg
+        630    2.50   2.50 11-Krah-Mohrman vs 13-Hendrickson-Miller
+        800    0.00   5.00 14-Galer-Vulcan vs 8-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   5.00 2-Zaugg-Abernethy vs 7-Anderson-Sieg
+  110          5.00   0.00 5-Miller-Ford vs 6-Christie-Ahluwalia
+        140    2.50   2.50 11-Krah-Mohrman vs 8-Ruprecht-Jarvis
+        140    2.50   2.50 12-Bauer-Romeo vs 1-Moore-Eng
+    PASS       4.00   1.00 13-Hendrickson-Miller vs 4-Tipton-Hesson
+        200    1.00   4.00 14-Galer-Vulcan vs 9-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 2-Zaugg-Abernethy vs 7-Anderson-Sieg
+        100    0.00   5.00 5-Miller-Ford vs 6-Christie-Ahluwalia
+   50          2.00   3.00 11-Krah-Mohrman vs 8-Ruprecht-Jarvis
+  400          4.50   0.50 12-Bauer-Romeo vs 1-Moore-Eng
+         50    1.00   4.00 13-Hendrickson-Miller vs 4-Tipton-Hesson
+  400          4.50   0.50 14-Galer-Vulcan vs 9-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   5.00 1-Moore-Eng vs 5-Miller-Ford
+         90    4.00   1.00 4-Tipton-Hesson vs 11-Krah-Mohrman
+        120    1.50   3.50 6-Christie-Ahluwalia vs 7-Anderson-Sieg
+        120    1.50   3.50 12-Bauer-Romeo vs 9-Christensen-Ring
+        110    3.00   2.00 13-Hendrickson-Miller vs 2-Zaugg-Abernethy
+  180          5.00   0.00 14-Galer-Vulcan vs 10-Grill-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   2.50 1-Moore-Eng vs 5-Miller-Ford
+        110    1.00   4.00 4-Tipton-Hesson vs 11-Krah-Mohrman
+  110          4.00   1.00 6-Christie-Ahluwalia vs 7-Anderson-Sieg
+        150    0.00   5.00 12-Bauer-Romeo vs 9-Christensen-Ring
+  100          2.50   2.50 13-Hendrickson-Miller vs 2-Zaugg-Abernethy
+  200          5.00   0.00 14-Galer-Vulcan vs 10-Grill-Roselle
+----------------------------------------------------------------------
