@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 14, 2024       |CLUB NO.>158048    | 05/14/2024 21:54
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3750/1850 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Oyvind Tafjord         Sue Anderson             C    .     .     .     48.50  44.91          
+
+ 2 Brian Zaugg            Liliana Diaconescu       B    3     1     .     60.00  55.56  0.56(B) 
+
+ 3 David Wright           Shawn Abernethy          C    .     2     1     53.50  49.54  0.39(B) 
+
+ 4 Dave Setterholm        Andrew Sherrill          A    1     .     .     64.00  59.26  1.00(A) 
+
+ 5 Mike Ring              Mike Christensen         A    4     .     .     54.00  50.00  0.35(A) 
+
+ 6 Hugh Hendrickson       Laura Miller             C    .     3     2     51.00  47.22  0.28(B) 
+
+ 7 Joseph Grill           David Roselle            B    .     .     .     50.50  46.76          
+
+ 8 Corneliu Galer         Bogdan Vulcan            B    .     .     .     47.50  43.98          
+
+ 9 Brad Rind              Susan Waggoner           C    .     .     .     50.50  46.76          
+
+10 Jeffrey Ford           Dave Grubbs              A    2     .     .     60.50  56.02  0.70(A) 
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   0.00 1-Tafjord-Anderson vs 4-Setterholm-Sherrill
+        420    1.50   2.50 2-Zaugg-Diaconescu vs 9-Rind-Waggoner
+        420    1.50   2.50 3-Wright-Abernethy vs 7-Grill-Roselle
+        420    1.50   2.50 5-Ring-Christensen vs 6-Hendrickson-Miller
+        420    1.50   2.50 10-Ford-Grubbs vs 8-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   3.00 1-Tafjord-Anderson vs 4-Setterholm-Sherrill
+        420    1.00   3.00 2-Zaugg-Diaconescu vs 9-Rind-Waggoner
+   50          3.50   0.50 3-Wright-Abernethy vs 7-Grill-Roselle
+        420    1.00   3.00 5-Ring-Christensen vs 6-Hendrickson-Miller
+   50          3.50   0.50 10-Ford-Grubbs vs 8-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.00   3.00 1-Tafjord-Anderson vs 4-Setterholm-Sherrill
+  450          3.00   1.00 2-Zaugg-Diaconescu vs 9-Rind-Waggoner
+        100    0.00   4.00 3-Wright-Abernethy vs 7-Grill-Roselle
+  420          2.00   2.00 5-Ring-Christensen vs 6-Hendrickson-Miller
+  480          4.00   0.00 10-Ford-Grubbs vs 8-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   1.50 2-Zaugg-Diaconescu vs 5-Ring-Christensen
+  200          4.00   0.00 3-Wright-Abernethy vs 1-Tafjord-Anderson
+        110    2.50   1.50 4-Setterholm-Sherrill vs 8-Galer-Vulcan
+        500    0.00   4.00 6-Hendrickson-Miller vs 7-Grill-Roselle
+        140    1.00   3.00 10-Ford-Grubbs vs 9-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.00   2.00 2-Zaugg-Diaconescu vs 5-Ring-Christensen
+        430    2.00   2.00 3-Wright-Abernethy vs 1-Tafjord-Anderson
+        430    2.00   2.00 4-Setterholm-Sherrill vs 8-Galer-Vulcan
+        460    0.00   4.00 6-Hendrickson-Miller vs 7-Grill-Roselle
+        400    4.00   0.00 10-Ford-Grubbs vs 9-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   4.00 2-Zaugg-Diaconescu vs 5-Ring-Christensen
+  100          3.00   1.00 3-Wright-Abernethy vs 1-Tafjord-Anderson
+  200          4.00   0.00 4-Setterholm-Sherrill vs 8-Galer-Vulcan
+         90    2.00   2.00 6-Hendrickson-Miller vs 7-Grill-Roselle
+        120    1.00   3.00 10-Ford-Grubbs vs 9-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.50   3.50 3-Wright-Abernethy vs 6-Hendrickson-Miller
+        680    2.50   1.50 4-Setterholm-Sherrill vs 2-Zaugg-Diaconescu
+        680    2.50   1.50 5-Ring-Christensen vs 9-Rind-Waggoner
+        650    4.00   0.00 7-Grill-Roselle vs 8-Galer-Vulcan
+       1430    0.50   3.50 10-Ford-Grubbs vs 1-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   0.00 3-Wright-Abernethy vs 6-Hendrickson-Miller
+        140    1.50   2.50 4-Setterholm-Sherrill vs 2-Zaugg-Diaconescu
+        110    3.00   1.00 5-Ring-Christensen vs 9-Rind-Waggoner
+        170    0.00   4.00 7-Grill-Roselle vs 8-Galer-Vulcan
+        140    1.50   2.50 10-Ford-Grubbs vs 1-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.00   1.00 3-Wright-Abernethy vs 6-Hendrickson-Miller
+         90    3.00   1.00 4-Setterholm-Sherrill vs 2-Zaugg-Diaconescu
+        100    1.00   3.00 5-Ring-Christensen vs 9-Rind-Waggoner
+        600    0.00   4.00 7-Grill-Roselle vs 8-Galer-Vulcan
+         90    3.00   1.00 10-Ford-Grubbs vs 1-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 4-Setterholm-Sherrill vs 7-Grill-Roselle
+        650    1.50   2.50 5-Ring-Christensen vs 3-Wright-Abernethy
+        650    1.50   2.50 6-Hendrickson-Miller vs 1-Tafjord-Anderson
+        650    1.50   2.50 8-Galer-Vulcan vs 9-Rind-Waggoner
+        650    1.50   2.50 10-Ford-Grubbs vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   3.00 4-Setterholm-Sherrill vs 7-Grill-Roselle
+        420    0.00   4.00 5-Ring-Christensen vs 3-Wright-Abernethy
+   50          2.50   1.50 6-Hendrickson-Miller vs 1-Tafjord-Anderson
+  550          4.00   0.00 8-Galer-Vulcan vs 9-Rind-Waggoner
+   50          2.50   1.50 10-Ford-Grubbs vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.00   0.00 4-Setterholm-Sherrill vs 7-Grill-Roselle
+   50          2.00   2.00 5-Ring-Christensen vs 3-Wright-Abernethy
+  140          3.00   1.00 6-Hendrickson-Miller vs 1-Tafjord-Anderson
+        200    1.00   3.00 8-Galer-Vulcan vs 9-Rind-Waggoner
+        530    0.00   4.00 10-Ford-Grubbs vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          2.00   2.00 5-Ring-Christensen vs 8-Galer-Vulcan
+  600          3.50   0.50 6-Hendrickson-Miller vs 4-Setterholm-Sherrill
+  130          0.50   3.50 7-Grill-Roselle vs 2-Zaugg-Diaconescu
+  130          0.50   3.50 9-Rind-Waggoner vs 1-Tafjord-Anderson
+  600          3.50   0.50 10-Ford-Grubbs vs 3-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   0.00 5-Ring-Christensen vs 8-Galer-Vulcan
+        180    0.00   4.00 6-Hendrickson-Miller vs 4-Setterholm-Sherrill
+        130    2.00   2.00 7-Grill-Roselle vs 2-Zaugg-Diaconescu
+        130    2.00   2.00 9-Rind-Waggoner vs 1-Tafjord-Anderson
+        130    2.00   2.00 10-Ford-Grubbs vs 3-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          3.50   0.50 5-Ring-Christensen vs 8-Galer-Vulcan
+  600          1.50   2.50 6-Hendrickson-Miller vs 4-Setterholm-Sherrill
+        200    0.00   4.00 7-Grill-Roselle vs 2-Zaugg-Diaconescu
+  600          1.50   2.50 9-Rind-Waggoner vs 1-Tafjord-Anderson
+  690          3.50   0.50 10-Ford-Grubbs vs 3-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1400          4.00   0.00 1-Tafjord-Anderson vs 2-Zaugg-Diaconescu
+  610          3.00   1.00 6-Hendrickson-Miller vs 9-Rind-Waggoner
+  150          1.50   2.50 7-Grill-Roselle vs 5-Ring-Christensen
+  150          1.50   2.50 8-Galer-Vulcan vs 3-Wright-Abernethy
+  130          0.00   4.00 10-Ford-Grubbs vs 4-Setterholm-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          0.00   4.00 1-Tafjord-Anderson vs 2-Zaugg-Diaconescu
+  100          1.50   2.50 6-Hendrickson-Miller vs 9-Rind-Waggoner
+  100          1.50   2.50 7-Grill-Roselle vs 5-Ring-Christensen
+  140          3.50   0.50 8-Galer-Vulcan vs 3-Wright-Abernethy
+  140          3.50   0.50 10-Ford-Grubbs vs 4-Setterholm-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.50   2.50 1-Tafjord-Anderson vs 2-Zaugg-Diaconescu
+        110    3.50   0.50 6-Hendrickson-Miller vs 9-Rind-Waggoner
+        110    3.50   0.50 7-Grill-Roselle vs 5-Ring-Christensen
+        130    1.50   2.50 8-Galer-Vulcan vs 3-Wright-Abernethy
+        150    0.00   4.00 10-Ford-Grubbs vs 4-Setterholm-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    3.00   1.00 2-Zaugg-Diaconescu vs 3-Wright-Abernethy
+        650    0.50   3.50 7-Grill-Roselle vs 1-Tafjord-Anderson
+        650    0.50   3.50 8-Galer-Vulcan vs 6-Hendrickson-Miller
+        600    2.00   2.00 9-Rind-Waggoner vs 4-Setterholm-Sherrill
+        200    4.00   0.00 10-Ford-Grubbs vs 5-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          1.00   3.00 2-Zaugg-Diaconescu vs 3-Wright-Abernethy
+  600          3.50   0.50 7-Grill-Roselle vs 1-Tafjord-Anderson
+  600          3.50   0.50 8-Galer-Vulcan vs 6-Hendrickson-Miller
+  150          2.00   2.00 9-Rind-Waggoner vs 4-Setterholm-Sherrill
+        100    0.00   4.00 10-Ford-Grubbs vs 5-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   1.50 2-Zaugg-Diaconescu vs 3-Wright-Abernethy
+   50          2.50   1.50 7-Grill-Roselle vs 1-Tafjord-Anderson
+        450    0.00   4.00 8-Galer-Vulcan vs 6-Hendrickson-Miller
+        200    1.00   3.00 9-Rind-Waggoner vs 4-Setterholm-Sherrill
+  100          4.00   0.00 10-Ford-Grubbs vs 5-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.00   2.00 1-Tafjord-Anderson vs 5-Ring-Christensen
+  110          0.00   4.00 3-Wright-Abernethy vs 4-Setterholm-Sherrill
+  170          2.00   2.00 8-Galer-Vulcan vs 2-Zaugg-Diaconescu
+  170          2.00   2.00 9-Rind-Waggoner vs 7-Grill-Roselle
+  500          4.00   0.00 10-Ford-Grubbs vs 6-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   0.00 1-Tafjord-Anderson vs 5-Ring-Christensen
+  170          2.00   2.00 3-Wright-Abernethy vs 4-Setterholm-Sherrill
+  110          0.50   3.50 8-Galer-Vulcan vs 2-Zaugg-Diaconescu
+  110          0.50   3.50 9-Rind-Waggoner vs 7-Grill-Roselle
+  200          3.00   1.00 10-Ford-Grubbs vs 6-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   4.00 1-Tafjord-Anderson vs 5-Ring-Christensen
+  150          4.00   0.00 3-Wright-Abernethy vs 4-Setterholm-Sherrill
+        130    1.50   2.50 8-Galer-Vulcan vs 2-Zaugg-Diaconescu
+        100    3.00   1.00 9-Rind-Waggoner vs 7-Grill-Roselle
+        130    1.50   2.50 10-Ford-Grubbs vs 6-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.50   3.50 1-Tafjord-Anderson vs 8-Galer-Vulcan
+        100    3.00   1.00 2-Zaugg-Diaconescu vs 6-Hendrickson-Miller
+        500    0.50   3.50 4-Setterholm-Sherrill vs 5-Ring-Christensen
+        100    3.00   1.00 9-Rind-Waggoner vs 3-Wright-Abernethy
+        100    3.00   1.00 10-Ford-Grubbs vs 7-Grill-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    2.00   2.00 1-Tafjord-Anderson vs 8-Galer-Vulcan
+        110    0.50   3.50 2-Zaugg-Diaconescu vs 6-Hendrickson-Miller
+  100          3.00   1.00 4-Setterholm-Sherrill vs 5-Ring-Christensen
+  200          4.00   0.00 9-Rind-Waggoner vs 3-Wright-Abernethy
+        110    0.50   3.50 10-Ford-Grubbs vs 7-Grill-Roselle
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          0.00   4.00 1-Tafjord-Anderson vs 8-Galer-Vulcan
+  110          3.00   1.00 2-Zaugg-Diaconescu vs 6-Hendrickson-Miller
+  100          1.50   2.50 4-Setterholm-Sherrill vs 5-Ring-Christensen
+  100          1.50   2.50 9-Rind-Waggoner vs 3-Wright-Abernethy
+  150          4.00   0.00 10-Ford-Grubbs vs 7-Grill-Roselle
+----------------------------------------------------------------------
