@@ -1,0 +1,305 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 21, 2024       |CLUB NO.>158048    | 05/21/2024 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   36.0 |TOP>   3 |MP LIMITS>None/3000/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 David Wright           Shawn Abernethy          C   .     .     .   |   .     .     .     33.50  46.53          
+
+ 2 Aaron Mohrman          Stanford Christie        A  3/4    .     .   |  3/4    .     .     37.50  52.08  1.08(OA)
+
+ 3 Ken Scholes            Eric Sieg                A   2     .     .   |   2     .     .     45.00  62.50  1.64(OA)
+
+
+
+ 5 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     21.50  29.86          
+
+ 6 Bogdan Vulcan          Corneliu Galer           B   .     2     .   |   .     2     .     35.50  49.31  1.07(OB)
+
+ 7 Kim Eng                Jeffrey Ford             A   1     .     .   |   1     .     .     45.50  63.19  2.19(OA)
+
+ 8 Mike Christensen       Becky Stevens            A   .     .     .   |   .     .     .     34.00  47.22          
+
+ 9 Susan Waggoner         Brad Rind                C   .     .     .   |   .     .     .     34.00  47.22          
+
+10 Dex Stuberg            Cliff Marx               C  3/4    1     .   |  3/4    1     1     37.50  52.08  1.42(OB)
+
+
+                                          Totals                                            324.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   0.00 2-Mohrman-Christie vs 9-Waggoner-Rind
+        200    1.50   1.50 3-Scholes-Sieg vs 7-Eng-Ford
+        450    0.00   3.00 5-Tipton-Hesson vs 6-Vulcan-Galer
+        200    1.50   1.50 10-Stuberg-Marx vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   1.00 2-Mohrman-Christie vs 9-Waggoner-Rind
+        450    2.00   1.00 3-Scholes-Sieg vs 7-Eng-Ford
+        480    0.00   3.00 5-Tipton-Hesson vs 6-Vulcan-Galer
+        450    2.00   1.00 10-Stuberg-Marx vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.50   2.50 2-Mohrman-Christie vs 9-Waggoner-Rind
+  110          2.00   1.00 3-Scholes-Sieg vs 7-Eng-Ford
+        110    0.50   2.50 5-Tipton-Hesson vs 6-Vulcan-Galer
+  140          3.00   0.00 10-Stuberg-Marx vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   2.50 2-Mohrman-Christie vs 5-Tipton-Hesson
+  110          3.00   0.00 3-Scholes-Sieg vs 1-Wright-Abernethy
+        200    0.50   2.50 6-Vulcan-Galer vs 7-Eng-Ford
+        100    2.00   1.00 10-Stuberg-Marx vs 9-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.00   0.00 2-Mohrman-Christie vs 5-Tipton-Hesson
+        450    1.00   2.00 3-Scholes-Sieg vs 1-Wright-Abernethy
+        450    1.00   2.00 6-Vulcan-Galer vs 7-Eng-Ford
+        450    1.00   2.00 10-Stuberg-Marx vs 9-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          3.00   0.00 2-Mohrman-Christie vs 5-Tipton-Hesson
+  110          2.00   1.00 3-Scholes-Sieg vs 1-Wright-Abernethy
+        200    0.00   3.00 6-Vulcan-Galer vs 7-Eng-Ford
+         50    1.00   2.00 10-Stuberg-Marx vs 9-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   0.00 3-Scholes-Sieg vs 6-Vulcan-Galer
+        500    0.00   3.00 5-Tipton-Hesson vs 9-Waggoner-Rind
+        110    2.00   1.00 7-Eng-Ford vs 8-Christensen-Stevens
+        200    1.00   2.00 10-Stuberg-Marx vs 1-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00   2.00 3-Scholes-Sieg vs 6-Vulcan-Galer
+        490    0.00   3.00 5-Tipton-Hesson vs 9-Waggoner-Rind
+        430    2.50   0.50 7-Eng-Ford vs 8-Christensen-Stevens
+        430    2.50   0.50 10-Stuberg-Marx vs 1-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   3.00 3-Scholes-Sieg vs 6-Vulcan-Galer
+        150    2.00   1.00 5-Tipton-Hesson vs 9-Waggoner-Rind
+        230    1.00   2.00 7-Eng-Ford vs 8-Christensen-Stevens
+  100          3.00   0.00 10-Stuberg-Marx vs 1-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.00   3.00 5-Tipton-Hesson vs 3-Scholes-Sieg
+        630    2.00   1.00 6-Vulcan-Galer vs 1-Wright-Abernethy
+        680    1.00   2.00 8-Christensen-Stevens vs 9-Waggoner-Rind
+  100          3.00   0.00 10-Stuberg-Marx vs 2-Mohrman-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   0.00 5-Tipton-Hesson vs 3-Scholes-Sieg
+         50    0.50   2.50 6-Vulcan-Galer vs 1-Wright-Abernethy
+  110          2.00   1.00 8-Christensen-Stevens vs 9-Waggoner-Rind
+         50    0.50   2.50 10-Stuberg-Marx vs 2-Mohrman-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   3.00 5-Tipton-Hesson vs 3-Scholes-Sieg
+  600          2.00   1.00 6-Vulcan-Galer vs 1-Wright-Abernethy
+  600          2.00   1.00 8-Christensen-Stevens vs 9-Waggoner-Rind
+  600          2.00   1.00 10-Stuberg-Marx vs 2-Mohrman-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.00   2.00 5-Tipton-Hesson vs 8-Christensen-Stevens
+  140          1.00   2.00 7-Eng-Ford vs 2-Mohrman-Christie
+  170          3.00   0.00 9-Waggoner-Rind vs 1-Wright-Abernethy
+  140          1.00   2.00 10-Stuberg-Marx vs 3-Scholes-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   3.00 5-Tipton-Hesson vs 8-Christensen-Stevens
+  200          3.00   0.00 7-Eng-Ford vs 2-Mohrman-Christie
+  150          2.00   1.00 9-Waggoner-Rind vs 1-Wright-Abernethy
+   50          1.00   2.00 10-Stuberg-Marx vs 3-Scholes-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   1.00 5-Tipton-Hesson vs 8-Christensen-Stevens
+  110          3.00   0.00 7-Eng-Ford vs 2-Mohrman-Christie
+        140    0.00   3.00 9-Waggoner-Rind vs 1-Wright-Abernethy
+   50          1.00   2.00 10-Stuberg-Marx vs 3-Scholes-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   3.00 1-Wright-Abernethy vs 2-Mohrman-Christie
+  430          3.00   0.00 6-Vulcan-Galer vs 9-Waggoner-Rind
+  420          1.50   1.50 7-Eng-Ford vs 5-Tipton-Hesson
+  420          1.50   1.50 8-Christensen-Stevens vs 3-Scholes-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   2.00 1-Wright-Abernethy vs 2-Mohrman-Christie
+  100          3.00   0.00 6-Vulcan-Galer vs 9-Waggoner-Rind
+        100    2.00   1.00 7-Eng-Ford vs 5-Tipton-Hesson
+        300    0.00   3.00 8-Christensen-Stevens vs 3-Scholes-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          2.50   0.50 1-Wright-Abernethy vs 2-Mohrman-Christie
+        110    0.00   3.00 6-Vulcan-Galer vs 9-Waggoner-Rind
+  120          2.50   0.50 7-Eng-Ford vs 5-Tipton-Hesson
+   90          1.00   2.00 8-Christensen-Stevens vs 3-Scholes-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          2.00   1.00 2-Mohrman-Christie vs 3-Scholes-Sieg
+  460          2.00   1.00 7-Eng-Ford vs 1-Wright-Abernethy
+  400          0.00   3.00 8-Christensen-Stevens vs 6-Vulcan-Galer
+  460          2.00   1.00 10-Stuberg-Marx vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   3.00 2-Mohrman-Christie vs 3-Scholes-Sieg
+  140          2.00   1.00 7-Eng-Ford vs 1-Wright-Abernethy
+  400          3.00   0.00 8-Christensen-Stevens vs 6-Vulcan-Galer
+  130          1.00   2.00 10-Stuberg-Marx vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.50   1.50 2-Mohrman-Christie vs 3-Scholes-Sieg
+        100    0.00   3.00 7-Eng-Ford vs 1-Wright-Abernethy
+ 1430          3.00   0.00 8-Christensen-Stevens vs 6-Vulcan-Galer
+  650          1.50   1.50 10-Stuberg-Marx vs 5-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   1.00 1-Wright-Abernethy vs 5-Tipton-Hesson
+        620    2.00   1.00 8-Christensen-Stevens vs 2-Mohrman-Christie
+        680    0.00   3.00 9-Waggoner-Rind vs 7-Eng-Ford
+        620    2.00   1.00 10-Stuberg-Marx vs 6-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.50   0.50 1-Wright-Abernethy vs 5-Tipton-Hesson
+        120    2.50   0.50 8-Christensen-Stevens vs 2-Mohrman-Christie
+        200    0.00   3.00 9-Waggoner-Rind vs 7-Eng-Ford
+        180    1.00   2.00 10-Stuberg-Marx vs 6-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.50   1.50 1-Wright-Abernethy vs 5-Tipton-Hesson
+  420          0.00   3.00 8-Christensen-Stevens vs 2-Mohrman-Christie
+  500          3.00   0.00 9-Waggoner-Rind vs 7-Eng-Ford
+  450          1.50   1.50 10-Stuberg-Marx vs 6-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         80    1.00   2.00 1-Wright-Abernethy vs 8-Christensen-Stevens
+  100          3.00   0.00 2-Mohrman-Christie vs 6-Vulcan-Galer
+        150    0.00   3.00 9-Waggoner-Rind vs 3-Scholes-Sieg
+         50    2.00   1.00 10-Stuberg-Marx vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   1.00 1-Wright-Abernethy vs 8-Christensen-Stevens
+  100          3.00   0.00 2-Mohrman-Christie vs 6-Vulcan-Galer
+        170    0.50   2.50 9-Waggoner-Rind vs 3-Scholes-Sieg
+        170    0.50   2.50 10-Stuberg-Marx vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   1.00 1-Wright-Abernethy vs 8-Christensen-Stevens
+         90    0.50   2.50 2-Mohrman-Christie vs 6-Vulcan-Galer
+  470          3.00   0.00 9-Waggoner-Rind vs 3-Scholes-Sieg
+         90    0.50   2.50 10-Stuberg-Marx vs 7-Eng-Ford
+----------------------------------------------------------------------
