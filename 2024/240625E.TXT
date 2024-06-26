@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 25, 2024      |CLUB NO.>158048    | 06/25/2024 21:56
+---------------------,-- ------------------- -------------,---------------------
+DIR> Brian/Mike      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/2500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=7/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 David Wright           Mike Christensen         A    1     .     .     77.50  57.41  1.20(A) 
+
+ 2 Jeffrey Ford           Eric Sieg                A    3     .     .     72.00  53.33  0.60(A) 
+
+ 3 Ella Su                Jason Yao                C    .     .     .     57.50  42.59          
+
+ 4 Brad Rind              Susan Waggoner           C    .     .     .     59.00  43.70          
+
+ 5 David Roselle          Joseph Grill             B    .    3/4    .     69.00  51.11  0.24(B) 
+
+ 6 Jim Chen               Rex Tu                   C    .     .     .     66.50  49.26          
+
+ 7 Hugh Hendrickson       Laura Miller             C    5     2     2     71.00  52.59  0.39(B) 
+
+ 8 Oyvind Tafjord         Shawn Abernethy          C    2     1     1     73.50  54.44  0.84(A) 
+
+ 9 John McCaslin          Mike Ligon               B    .    3/4    .     69.00  51.11  0.24(B) 
+
+10 Sue Anderson           David Taylor             A    .     .     .     69.50  51.48          
+
+11 Nick Tipton            Galen Hesson             A    .     .     .     54.00  40.00          
+
+12 Brian Zaugg            Mike Ring                A    4     .     .     71.50  52.96  0.42(A) 
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   2.00 3-Su-Yao vs 11-Tipton-Hesson
+         90    5.00   0.00 5-Roselle-Grill vs 2-Ford-Sieg
+        150    0.50   4.50 6-Chen-Tu vs 10-Anderson-Taylor
+        150    0.50   4.50 8-Tafjord-Abernethy vs 4-Rind-Waggoner
+        110    4.00   1.00 9-McCaslin-Ligon vs 7-Hendrickson-Miller
+        140    2.00   3.00 12-Zaugg-Ring vs 1-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   1.00 3-Su-Yao vs 11-Tipton-Hesson
+   50          4.00   1.00 5-Roselle-Grill vs 2-Ford-Sieg
+        180    0.00   5.00 6-Chen-Tu vs 10-Anderson-Taylor
+   50          4.00   1.00 8-Tafjord-Abernethy vs 4-Rind-Waggoner
+        120    1.00   4.00 9-McCaslin-Ligon vs 7-Hendrickson-Miller
+        100    2.00   3.00 12-Zaugg-Ring vs 1-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.50   1.50 3-Su-Yao vs 11-Tipton-Hesson
+         50    0.00   5.00 5-Roselle-Grill vs 2-Ford-Sieg
+  420          1.50   3.50 6-Chen-Tu vs 10-Anderson-Taylor
+  450          3.50   1.50 8-Tafjord-Abernethy vs 4-Rind-Waggoner
+  420          1.50   3.50 9-McCaslin-Ligon vs 7-Hendrickson-Miller
+  480          5.00   0.00 12-Zaugg-Ring vs 1-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          5.00   0.00 1-Wright-Christensen vs 8-Tafjord-Abernethy
+  200          3.00   2.00 6-Chen-Tu vs 3-Su-Yao
+  500          4.00   1.00 7-Hendrickson-Miller vs 10-Anderson-Taylor
+        140    0.00   5.00 9-McCaslin-Ligon vs 5-Roselle-Grill
+  110          2.00   3.00 11-Tipton-Hesson vs 4-Rind-Waggoner
+  100          1.00   4.00 12-Zaugg-Ring vs 2-Ford-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   0.00 1-Wright-Christensen vs 8-Tafjord-Abernethy
+  120          3.00   2.00 6-Chen-Tu vs 3-Su-Yao
+  120          3.00   2.00 7-Hendrickson-Miller vs 10-Anderson-Taylor
+   90          1.00   4.00 9-McCaslin-Ligon vs 5-Roselle-Grill
+  120          3.00   2.00 11-Tipton-Hesson vs 4-Rind-Waggoner
+        100    0.00   5.00 12-Zaugg-Ring vs 2-Ford-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    2.00   3.00 1-Wright-Christensen vs 8-Tafjord-Abernethy
+        690    2.00   3.00 6-Chen-Tu vs 3-Su-Yao
+        690    2.00   3.00 7-Hendrickson-Miller vs 10-Anderson-Taylor
+        660    5.00   0.00 9-McCaslin-Ligon vs 5-Roselle-Grill
+        690    2.00   3.00 11-Tipton-Hesson vs 4-Rind-Waggoner
+        690    2.00   3.00 12-Zaugg-Ring vs 2-Ford-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   3.00 1-Wright-Christensen vs 6-Chen-Tu
+  150          2.00   3.00 2-Ford-Sieg vs 9-McCaslin-Ligon
+   90          0.00   5.00 7-Hendrickson-Miller vs 4-Rind-Waggoner
+  150          2.00   3.00 10-Anderson-Taylor vs 8-Tafjord-Abernethy
+  200          5.00   0.00 11-Tipton-Hesson vs 5-Roselle-Grill
+  180          4.00   1.00 12-Zaugg-Ring vs 3-Su-Yao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  570          4.00   1.00 1-Wright-Christensen vs 6-Chen-Tu
+        100    0.00   5.00 2-Ford-Sieg vs 9-McCaslin-Ligon
+  640          5.00   0.00 7-Hendrickson-Miller vs 4-Rind-Waggoner
+  470          3.00   2.00 10-Anderson-Taylor vs 8-Tafjord-Abernethy
+         50    1.00   4.00 11-Tipton-Hesson vs 5-Roselle-Grill
+   90          2.00   3.00 12-Zaugg-Ring vs 3-Su-Yao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   2.50 1-Wright-Christensen vs 6-Chen-Tu
+  800          5.00   0.00 2-Ford-Sieg vs 9-McCaslin-Ligon
+  200          4.00   1.00 7-Hendrickson-Miller vs 4-Rind-Waggoner
+         50    1.00   4.00 10-Anderson-Taylor vs 8-Tafjord-Abernethy
+        100    0.00   5.00 11-Tipton-Hesson vs 5-Roselle-Grill
+  140          2.50   2.50 12-Zaugg-Ring vs 3-Su-Yao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    5.00   0.00 2-Ford-Sieg vs 7-Hendrickson-Miller
+        620    4.00   1.00 3-Su-Yao vs 1-Wright-Christensen
+        650    2.00   3.00 8-Tafjord-Abernethy vs 5-Roselle-Grill
+        670    0.00   5.00 10-Anderson-Taylor vs 9-McCaslin-Ligon
+        650    2.00   3.00 11-Tipton-Hesson vs 6-Chen-Tu
+        650    2.00   3.00 12-Zaugg-Ring vs 4-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    4.00   1.00 2-Ford-Sieg vs 7-Hendrickson-Miller
+        430    0.50   4.50 3-Su-Yao vs 1-Wright-Christensen
+        130    4.00   1.00 8-Tafjord-Abernethy vs 5-Roselle-Grill
+        130    4.00   1.00 10-Anderson-Taylor vs 9-McCaslin-Ligon
+        430    0.50   4.50 11-Tipton-Hesson vs 6-Chen-Tu
+        150    2.00   3.00 12-Zaugg-Ring vs 4-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 2-Ford-Sieg vs 7-Hendrickson-Miller
+        140    0.00   5.00 3-Su-Yao vs 1-Wright-Christensen
+  750          5.00   0.00 8-Tafjord-Abernethy vs 5-Roselle-Grill
+  100          2.50   2.50 10-Anderson-Taylor vs 9-McCaslin-Ligon
+  100          2.50   2.50 11-Tipton-Hesson vs 6-Chen-Tu
+  600          4.00   1.00 12-Zaugg-Ring vs 4-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 1-Wright-Christensen vs 10-Anderson-Taylor
+  110          2.00   3.00 3-Su-Yao vs 8-Tafjord-Abernethy
+  110          2.00   3.00 4-Rind-Waggoner vs 2-Ford-Sieg
+  110          2.00   3.00 7-Hendrickson-Miller vs 11-Tipton-Hesson
+  110          2.00   3.00 9-McCaslin-Ligon vs 6-Chen-Tu
+  110          2.00   3.00 12-Zaugg-Ring vs 5-Roselle-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   3.00 1-Wright-Christensen vs 10-Anderson-Taylor
+        420    0.50   4.50 3-Su-Yao vs 8-Tafjord-Abernethy
+   50          5.00   0.00 4-Rind-Waggoner vs 2-Ford-Sieg
+        120    4.00   1.00 7-Hendrickson-Miller vs 11-Tipton-Hesson
+        420    0.50   4.50 9-McCaslin-Ligon vs 6-Chen-Tu
+        140    3.00   2.00 12-Zaugg-Ring vs 5-Roselle-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.00   4.00 1-Wright-Christensen vs 10-Anderson-Taylor
+  630          2.50   2.50 3-Su-Yao vs 8-Tafjord-Abernethy
+        100    0.00   5.00 4-Rind-Waggoner vs 2-Ford-Sieg
+  630          2.50   2.50 7-Hendrickson-Miller vs 11-Tipton-Hesson
+  660          4.50   0.50 9-McCaslin-Ligon vs 6-Chen-Tu
+  660          4.50   0.50 12-Zaugg-Ring vs 5-Roselle-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          0.00   5.00 1-Wright-Christensen vs 7-Hendrickson-Miller
+  460          4.00   1.00 2-Ford-Sieg vs 10-Anderson-Taylor
+  430          1.50   3.50 4-Rind-Waggoner vs 9-McCaslin-Ligon
+  460          4.00   1.00 5-Roselle-Grill vs 3-Su-Yao
+  430          1.50   3.50 8-Tafjord-Abernethy vs 11-Tipton-Hesson
+  460          4.00   1.00 12-Zaugg-Ring vs 6-Chen-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        470    0.00   5.00 1-Wright-Christensen vs 7-Hendrickson-Miller
+  140          2.00   3.00 2-Ford-Sieg vs 10-Anderson-Taylor
+  170          4.00   1.00 4-Rind-Waggoner vs 9-McCaslin-Ligon
+  140          2.00   3.00 5-Roselle-Grill vs 3-Su-Yao
+  140          2.00   3.00 8-Tafjord-Abernethy vs 11-Tipton-Hesson
+  420          5.00   0.00 12-Zaugg-Ring vs 6-Chen-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   0.50 1-Wright-Christensen vs 7-Hendrickson-Miller
+  140          4.50   0.50 2-Ford-Sieg vs 10-Anderson-Taylor
+        140    0.00   5.00 4-Rind-Waggoner vs 9-McCaslin-Ligon
+  110          3.00   2.00 5-Roselle-Grill vs 3-Su-Yao
+   50          1.00   4.00 8-Tafjord-Abernethy vs 11-Tipton-Hesson
+  100          2.00   3.00 12-Zaugg-Ring vs 6-Chen-Tu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   1.50 2-Ford-Sieg vs 8-Tafjord-Abernethy
+         50    0.50   4.50 5-Roselle-Grill vs 1-Wright-Christensen
+         50    0.50   4.50 6-Chen-Tu vs 4-Rind-Waggoner
+  140          3.50   1.50 10-Anderson-Taylor vs 3-Su-Yao
+  140          3.50   1.50 11-Tipton-Hesson vs 9-McCaslin-Ligon
+  140          3.50   1.50 12-Zaugg-Ring vs 7-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.00   3.00 2-Ford-Sieg vs 8-Tafjord-Abernethy
+        630    2.00   3.00 5-Roselle-Grill vs 1-Wright-Christensen
+        600    4.50   0.50 6-Chen-Tu vs 4-Rind-Waggoner
+        600    4.50   0.50 10-Anderson-Taylor vs 3-Su-Yao
+        690    0.00   5.00 11-Tipton-Hesson vs 9-McCaslin-Ligon
+        630    2.00   3.00 12-Zaugg-Ring vs 7-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    0.00   5.00 2-Ford-Sieg vs 8-Tafjord-Abernethy
+        110    3.00   2.00 5-Roselle-Grill vs 1-Wright-Christensen
+         90    4.50   0.50 6-Chen-Tu vs 4-Rind-Waggoner
+         90    4.50   0.50 10-Anderson-Taylor vs 3-Su-Yao
+        200    1.00   4.00 11-Tipton-Hesson vs 9-McCaslin-Ligon
+        120    2.00   3.00 12-Zaugg-Ring vs 7-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.00   3.00 3-Su-Yao vs 9-McCaslin-Ligon
+  100          4.50   0.50 6-Chen-Tu vs 2-Ford-Sieg
+        690    0.50   4.50 7-Hendrickson-Miller vs 5-Roselle-Grill
+        600    3.00   2.00 10-Anderson-Taylor vs 4-Rind-Waggoner
+  100          4.50   0.50 11-Tipton-Hesson vs 1-Wright-Christensen
+        690    0.50   4.50 12-Zaugg-Ring vs 8-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   1.00 3-Su-Yao vs 9-McCaslin-Ligon
+        100    4.00   1.00 6-Chen-Tu vs 2-Ford-Sieg
+        100    4.00   1.00 7-Hendrickson-Miller vs 5-Roselle-Grill
+        200    1.00   4.00 10-Anderson-Taylor vs 4-Rind-Waggoner
+        200    1.00   4.00 11-Tipton-Hesson vs 1-Wright-Christensen
+        200    1.00   4.00 12-Zaugg-Ring vs 8-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.50   3.50 3-Su-Yao vs 9-McCaslin-Ligon
+  450          4.00   1.00 6-Chen-Tu vs 2-Ford-Sieg
+  420          1.50   3.50 7-Hendrickson-Miller vs 5-Roselle-Grill
+  450          4.00   1.00 10-Anderson-Taylor vs 4-Rind-Waggoner
+         50    0.00   5.00 11-Tipton-Hesson vs 1-Wright-Christensen
+  450          4.00   1.00 12-Zaugg-Ring vs 8-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 4-Rind-Waggoner vs 1-Wright-Christensen
+  100          3.00   2.00 5-Roselle-Grill vs 10-Anderson-Taylor
+  110          4.00   1.00 7-Hendrickson-Miller vs 3-Su-Yao
+  140          5.00   0.00 8-Tafjord-Abernethy vs 6-Chen-Tu
+        100    1.00   4.00 11-Tipton-Hesson vs 2-Ford-Sieg
+        100    1.00   4.00 12-Zaugg-Ring vs 9-McCaslin-Ligon
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.00   1.00 4-Rind-Waggoner vs 1-Wright-Christensen
+        630    1.00   4.00 5-Roselle-Grill vs 10-Anderson-Taylor
+        130    3.00   2.00 7-Hendrickson-Miller vs 3-Su-Yao
+        600    2.00   3.00 8-Tafjord-Abernethy vs 6-Chen-Tu
+        660    0.00   5.00 11-Tipton-Hesson vs 2-Ford-Sieg
+  500          5.00   0.00 12-Zaugg-Ring vs 9-McCaslin-Ligon
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   4.00 4-Rind-Waggoner vs 1-Wright-Christensen
+  100          5.00   0.00 5-Roselle-Grill vs 10-Anderson-Taylor
+        500    0.00   5.00 7-Hendrickson-Miller vs 3-Su-Yao
+        420    2.00   3.00 8-Tafjord-Abernethy vs 6-Chen-Tu
+   50          3.50   1.50 11-Tipton-Hesson vs 2-Ford-Sieg
+   50          3.50   1.50 12-Zaugg-Ring vs 9-McCaslin-Ligon
+----------------------------------------------------------------------
