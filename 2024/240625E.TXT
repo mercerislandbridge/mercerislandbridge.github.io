@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>June 25, 2024      |CLUB NO.>158048    | 06/25/2024 21:56
+DATE>June 25, 2024      |CLUB NO.>158048    | 06/30/2024 15:12
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Brian/Mike      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,19 +11,19 @@ PAIRS IN STRAT A=12/B=7/C=5                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 David Wright           Mike Christensen         A    1     .     .     77.50  57.41  1.20(A) 
+ 1 David Wright           Mike Christensen         A    1     .     .     78.50  58.15  1.20(A) 
 
- 2 Jeffrey Ford           Eric Sieg                A    3     .     .     72.00  53.33  0.60(A) 
+ 2 Jeffrey Ford           Eric Sieg                A   3/4    .     .     72.00  53.33  0.51(A) 
 
- 3 Ella Su                Jason Yao                C    .     .     .     57.50  42.59          
+ 3 Ella Su                Jason Yao                C    .     .     .     56.50  41.85          
 
- 4 Brad Rind              Susan Waggoner           C    .     .     .     59.00  43.70          
+ 4 Brad Rind              Susan Waggoner           C    .     .     .     58.00  42.96          
 
  5 David Roselle          Joseph Grill             B    .    3/4    .     69.00  51.11  0.24(B) 
 
  6 Jim Chen               Rex Tu                   C    .     .     .     66.50  49.26          
 
- 7 Hugh Hendrickson       Laura Miller             C    5     2     2     71.00  52.59  0.39(B) 
+ 7 Hugh Hendrickson       Laura Miller             C   3/4    2     2     72.00  53.33  0.51(A) 
 
  8 Oyvind Tafjord         Shawn Abernethy          C    2     1     1     73.50  54.44  0.84(A) 
 
@@ -33,7 +33,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
 11 Nick Tipton            Galen Hesson             A    .     .     .     54.00  40.00          
 
-12 Brian Zaugg            Mike Ring                A    4     .     .     71.50  52.96  0.42(A) 
+12 Brian Zaugg            Mike Ring                A    5     .     .     71.50  52.96  0.24(A) 
 
 
                                           Totals                         810.00       
@@ -342,9 +342,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  150          4.00   1.00 4-Rind-Waggoner vs 1-Wright-Christensen
+        150    3.00   2.00 4-Rind-Waggoner vs 1-Wright-Christensen
         630    1.00   4.00 5-Roselle-Grill vs 10-Anderson-Taylor
-        130    3.00   2.00 7-Hendrickson-Miller vs 3-Su-Yao
+        130    4.00   1.00 7-Hendrickson-Miller vs 3-Su-Yao
         600    2.00   3.00 8-Tafjord-Abernethy vs 6-Chen-Tu
         660    0.00   5.00 11-Tipton-Hesson vs 2-Ford-Sieg
   500          5.00   0.00 12-Zaugg-Ring vs 9-McCaslin-Ligon
