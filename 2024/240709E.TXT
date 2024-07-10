@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 9, 2024       |CLUB NO.>158048    | 07/09/2024 21:56
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3750/2250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=8/C=4                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Steve Kasner           Marianne Kersten         C   .     .     .   |   .     .     2     58.50  43.33  0.22(SC)
+
+ 2 Kim Eng                Kevin Bolan              A   4     .     .   |   4     .     .     79.50  58.89  0.98(OA)
+
+ 3 Kevin Cline            Sue Anderson             B   .     2     .   |   5     2     .     68.00  50.37  1.21(OB)
+
+ 4 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     60.50  44.81          
+
+ 5 Jeremy Gulley          Shannon Kasperkiewicz    C   .     .     .   |   .     .     .     53.00  39.26          
+
+ 6 David Wright           Shawn Abernethy          B   .     .     .   |   .     .     .     50.50  37.41          
+
+ 7 Jeffrey Ford           David Taylor             A   2     .     .   |   2     .     .     83.50  61.85  1.75(OA)
+
+ 8 Mike Ring              Mike Christensen         A   3     .     .   |   3     .     .     80.00  59.26  1.31(OA)
+
+ 9 Rex Tu                 Jim Chen                 C   1     1     .   |   1     1     1     92.50  68.52  2.33(OA)
+
+10 Brian Zaugg            Stanford Christie        A   .     .     .   |   .     .     .     61.50  45.56          
+
+11 Joel Castoriano        Maric Rosenfeld          B   .     3     .   |   .     3     .     65.00  48.15  0.91(OB)
+
+12 Ella Su                Jason Yao                C   .     .     .   |   .     .     .     57.50  42.59          
+
+
+                                          Totals                                            810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   4.50 3-Cline-Anderson vs 11-Castoriano-Rosenfeld
+         50    0.50   4.50 5-Gulley-Kasperkiewicz vs 2-Eng-Bolan
+  400          2.50   2.50 6-Wright-Abernethy vs 10-Zaugg-Christie
+  400          2.50   2.50 8-Ring-Christensen vs 4-Tipton-Hesson
+  430          4.50   0.50 9-Tu-Chen vs 7-Ford-Taylor
+  430          4.50   0.50 12-Su-Yao vs 1-Kasner-Kersten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    1.00   4.00 3-Cline-Anderson vs 11-Castoriano-Rosenfeld
+        480    1.00   4.00 5-Gulley-Kasperkiewicz vs 2-Eng-Bolan
+        420    3.00   2.00 6-Wright-Abernethy vs 10-Zaugg-Christie
+  100          5.00   0.00 8-Ring-Christensen vs 4-Tipton-Hesson
+   50          4.00   1.00 9-Tu-Chen vs 7-Ford-Taylor
+        480    1.00   4.00 12-Su-Yao vs 1-Kasner-Kersten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    5.00   0.00 3-Cline-Anderson vs 11-Castoriano-Rosenfeld
+        100    4.00   1.00 5-Gulley-Kasperkiewicz vs 2-Eng-Bolan
+        200    1.00   4.00 6-Wright-Abernethy vs 10-Zaugg-Christie
+        150    2.00   3.00 8-Ring-Christensen vs 4-Tipton-Hesson
+        110    3.00   2.00 9-Tu-Chen vs 7-Ford-Taylor
+        670    0.00   5.00 12-Su-Yao vs 1-Kasner-Kersten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   1.00 1-Kasner-Kersten vs 8-Ring-Christensen
+        200    0.00   5.00 6-Wright-Abernethy vs 3-Cline-Anderson
+        110    1.50   3.50 7-Ford-Taylor vs 10-Zaugg-Christie
+        100    3.00   2.00 9-Tu-Chen vs 5-Gulley-Kasperkiewicz
+  300          5.00   0.00 11-Castoriano-Rosenfeld vs 4-Tipton-Hesson
+        110    1.50   3.50 12-Su-Yao vs 2-Eng-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   3.50 1-Kasner-Kersten vs 8-Ring-Christensen
+        100    1.50   3.50 6-Wright-Abernethy vs 3-Cline-Anderson
+  620          5.00   0.00 7-Ford-Taylor vs 10-Zaugg-Christie
+        100    1.50   3.50 9-Tu-Chen vs 5-Gulley-Kasperkiewicz
+  140          4.00   1.00 11-Castoriano-Rosenfeld vs 4-Tipton-Hesson
+        100    1.50   3.50 12-Su-Yao vs 2-Eng-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   4.00 1-Kasner-Kersten vs 8-Ring-Christensen
+    PASS       2.50   2.50 6-Wright-Abernethy vs 3-Cline-Anderson
+  400          5.00   0.00 7-Ford-Taylor vs 10-Zaugg-Christie
+  120          4.00   1.00 9-Tu-Chen vs 5-Gulley-Kasperkiewicz
+    PASS       2.50   2.50 11-Castoriano-Rosenfeld vs 4-Tipton-Hesson
+        110    0.00   5.00 12-Su-Yao vs 2-Eng-Bolan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.50   1.50 1-Kasner-Kersten vs 6-Wright-Abernethy
+        620    3.50   1.50 2-Eng-Bolan vs 9-Tu-Chen
+        620    3.50   1.50 7-Ford-Taylor vs 4-Tipton-Hesson
+        650    0.00   5.00 10-Zaugg-Christie vs 8-Ring-Christensen
+        630    1.00   4.00 11-Castoriano-Rosenfeld vs 5-Gulley-Kasperkiewicz
+        620    3.50   1.50 12-Su-Yao vs 3-Cline-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          4.00   1.00 1-Kasner-Kersten vs 6-Wright-Abernethy
+        100    1.00   4.00 2-Eng-Bolan vs 9-Tu-Chen
+  110          5.00   0.00 7-Ford-Taylor vs 4-Tipton-Hesson
+         50    2.00   3.00 10-Zaugg-Christie vs 8-Ring-Christensen
+        110    0.00   5.00 11-Castoriano-Rosenfeld vs 5-Gulley-Kasperkiewicz
+   50          3.00   2.00 12-Su-Yao vs 3-Cline-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.50   1.50 1-Kasner-Kersten vs 6-Wright-Abernethy
+        600    1.00   4.00 2-Eng-Bolan vs 9-Tu-Chen
+        600    1.00   4.00 7-Ford-Taylor vs 4-Tipton-Hesson
+        600    1.00   4.00 10-Zaugg-Christie vs 8-Ring-Christensen
+  100          5.00   0.00 11-Castoriano-Rosenfeld vs 5-Gulley-Kasperkiewicz
+        110    3.50   1.50 12-Su-Yao vs 3-Cline-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1370    0.50   4.50 2-Eng-Bolan vs 7-Ford-Taylor
+        120    4.00   1.00 3-Cline-Anderson vs 1-Kasner-Kersten
+  100          5.00   0.00 8-Ring-Christensen vs 5-Gulley-Kasperkiewicz
+       1370    0.50   4.50 10-Zaugg-Christie vs 9-Tu-Chen
+        600    2.50   2.50 11-Castoriano-Rosenfeld vs 6-Wright-Abernethy
+        600    2.50   2.50 12-Su-Yao vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.00   4.00 2-Eng-Bolan vs 7-Ford-Taylor
+  180          4.00   1.00 3-Cline-Anderson vs 1-Kasner-Kersten
+  180          4.00   1.00 8-Ring-Christensen vs 5-Gulley-Kasperkiewicz
+  150          1.00   4.00 10-Zaugg-Christie vs 9-Tu-Chen
+  150          1.00   4.00 11-Castoriano-Rosenfeld vs 6-Wright-Abernethy
+  180          4.00   1.00 12-Su-Yao vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          3.50   1.50 2-Eng-Bolan vs 7-Ford-Taylor
+  650          1.50   3.50 3-Cline-Anderson vs 1-Kasner-Kersten
+        100    0.00   5.00 8-Ring-Christensen vs 5-Gulley-Kasperkiewicz
+  650          1.50   3.50 10-Zaugg-Christie vs 9-Tu-Chen
+  800          5.00   0.00 11-Castoriano-Rosenfeld vs 6-Wright-Abernethy
+  680          3.50   1.50 12-Su-Yao vs 4-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   5.00 1-Kasner-Kersten vs 10-Zaugg-Christie
+  200          4.00   1.00 3-Cline-Anderson vs 8-Ring-Christensen
+  200          4.00   1.00 4-Tipton-Hesson vs 2-Eng-Bolan
+  100          2.00   3.00 9-Tu-Chen vs 6-Wright-Abernethy
+  200          4.00   1.00 11-Castoriano-Rosenfeld vs 7-Ford-Taylor
+        110    1.00   4.00 12-Su-Yao vs 5-Gulley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    2.00   3.00 1-Kasner-Kersten vs 10-Zaugg-Christie
+        480    2.00   3.00 3-Cline-Anderson vs 8-Ring-Christensen
+   50          4.00   1.00 4-Tipton-Hesson vs 2-Eng-Bolan
+        480    2.00   3.00 9-Tu-Chen vs 6-Wright-Abernethy
+        980    0.00   5.00 11-Castoriano-Rosenfeld vs 7-Ford-Taylor
+  100          5.00   0.00 12-Su-Yao vs 5-Gulley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.00   4.00 1-Kasner-Kersten vs 10-Zaugg-Christie
+        170    1.00   4.00 3-Cline-Anderson vs 8-Ring-Christensen
+        120    3.00   2.00 4-Tipton-Hesson vs 2-Eng-Bolan
+  140          5.00   0.00 9-Tu-Chen vs 6-Wright-Abernethy
+        170    1.00   4.00 11-Castoriano-Rosenfeld vs 7-Ford-Taylor
+   50          4.00   1.00 12-Su-Yao vs 5-Gulley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   3.50 1-Kasner-Kersten vs 7-Ford-Taylor
+  200          4.00   1.00 2-Eng-Bolan vs 10-Zaugg-Christie
+  200          4.00   1.00 4-Tipton-Hesson vs 9-Tu-Chen
+  100          1.50   3.50 5-Gulley-Kasperkiewicz vs 3-Cline-Anderson
+        600    0.00   5.00 8-Ring-Christensen vs 11-Castoriano-Rosenfeld
+  200          4.00   1.00 12-Su-Yao vs 6-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   4.00 1-Kasner-Kersten vs 7-Ford-Taylor
+  120          2.00   3.00 2-Eng-Bolan vs 10-Zaugg-Christie
+         50    0.00   5.00 4-Tipton-Hesson vs 9-Tu-Chen
+  150          4.00   1.00 5-Gulley-Kasperkiewicz vs 3-Cline-Anderson
+  200          5.00   0.00 8-Ring-Christensen vs 11-Castoriano-Rosenfeld
+  130          3.00   2.00 12-Su-Yao vs 6-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   1.00 1-Kasner-Kersten vs 7-Ford-Taylor
+  140          4.00   1.00 2-Eng-Bolan vs 10-Zaugg-Christie
+   50          2.00   3.00 4-Tipton-Hesson vs 9-Tu-Chen
+        130    0.50   4.50 5-Gulley-Kasperkiewicz vs 3-Cline-Anderson
+  140          4.00   1.00 8-Ring-Christensen vs 11-Castoriano-Rosenfeld
+        130    0.50   4.50 12-Su-Yao vs 6-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.00   0.00 2-Eng-Bolan vs 8-Ring-Christensen
+  100          4.00   1.00 5-Gulley-Kasperkiewicz vs 1-Kasner-Kersten
+         50    2.50   2.50 6-Wright-Abernethy vs 4-Tipton-Hesson
+         50    2.50   2.50 10-Zaugg-Christie vs 3-Cline-Anderson
+        130    0.00   5.00 11-Castoriano-Rosenfeld vs 9-Tu-Chen
+        100    1.00   4.00 12-Su-Yao vs 7-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.50   3.50 2-Eng-Bolan vs 8-Ring-Christensen
+        750    0.00   5.00 5-Gulley-Kasperkiewicz vs 1-Kasner-Kersten
+        620    5.00   0.00 6-Wright-Abernethy vs 4-Tipton-Hesson
+        650    3.50   1.50 10-Zaugg-Christie vs 3-Cline-Anderson
+        680    1.50   3.50 11-Castoriano-Rosenfeld vs 9-Tu-Chen
+        650    3.50   1.50 12-Su-Yao vs 7-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.00   0.00 2-Eng-Bolan vs 8-Ring-Christensen
+  620          4.00   1.00 5-Gulley-Kasperkiewicz vs 1-Kasner-Kersten
+        200    1.00   4.00 6-Wright-Abernethy vs 4-Tipton-Hesson
+  100          2.00   3.00 10-Zaugg-Christie vs 3-Cline-Anderson
+  600          3.00   2.00 11-Castoriano-Rosenfeld vs 9-Tu-Chen
+        590    0.00   5.00 12-Su-Yao vs 7-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   1.50 3-Cline-Anderson vs 9-Tu-Chen
+        140    1.00   4.00 6-Wright-Abernethy vs 2-Eng-Bolan
+         50    3.50   1.50 7-Ford-Taylor vs 5-Gulley-Kasperkiewicz
+        100    2.00   3.00 10-Zaugg-Christie vs 4-Tipton-Hesson
+  200          5.00   0.00 11-Castoriano-Rosenfeld vs 1-Kasner-Kersten
+        170    0.00   5.00 12-Su-Yao vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   3.00 3-Cline-Anderson vs 9-Tu-Chen
+        620    2.00   3.00 6-Wright-Abernethy vs 2-Eng-Bolan
+  100          5.00   0.00 7-Ford-Taylor vs 5-Gulley-Kasperkiewicz
+        620    2.00   3.00 10-Zaugg-Christie vs 4-Tipton-Hesson
+        620    2.00   3.00 11-Castoriano-Rosenfeld vs 1-Kasner-Kersten
+        620    2.00   3.00 12-Su-Yao vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    0.50   4.50 3-Cline-Anderson vs 9-Tu-Chen
+        920    0.50   4.50 6-Wright-Abernethy vs 2-Eng-Bolan
+        490    3.50   1.50 7-Ford-Taylor vs 5-Gulley-Kasperkiewicz
+        490    3.50   1.50 10-Zaugg-Christie vs 4-Tipton-Hesson
+        490    3.50   1.50 11-Castoriano-Rosenfeld vs 1-Kasner-Kersten
+        490    3.50   1.50 12-Su-Yao vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.50   1.50 2-Eng-Bolan vs 11-Castoriano-Rosenfeld
+        650    1.50   3.50 4-Tipton-Hesson vs 1-Kasner-Kersten
+        650    1.50   3.50 5-Gulley-Kasperkiewicz vs 10-Zaugg-Christie
+        620    3.50   1.50 7-Ford-Taylor vs 3-Cline-Anderson
+  100          5.00   0.00 8-Ring-Christensen vs 6-Wright-Abernethy
+        800    0.00   5.00 12-Su-Yao vs 9-Tu-Chen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.00   3.00 2-Eng-Bolan vs 11-Castoriano-Rosenfeld
+  620          4.50   0.50 4-Tipton-Hesson vs 1-Kasner-Kersten
+  140          1.00   4.00 5-Gulley-Kasperkiewicz vs 10-Zaugg-Christie
+  600          3.00   2.00 7-Ford-Taylor vs 3-Cline-Anderson
+  620          4.50   0.50 8-Ring-Christensen vs 6-Wright-Abernethy
+        100    0.00   5.00 12-Su-Yao vs 9-Tu-Chen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.00   0.00 2-Eng-Bolan vs 11-Castoriano-Rosenfeld
+        420    4.00   1.00 4-Tipton-Hesson vs 1-Kasner-Kersten
+        450    1.50   3.50 5-Gulley-Kasperkiewicz vs 10-Zaugg-Christie
+        450    1.50   3.50 7-Ford-Taylor vs 3-Cline-Anderson
+        450    1.50   3.50 8-Ring-Christensen vs 6-Wright-Abernethy
+        450    1.50   3.50 12-Su-Yao vs 9-Tu-Chen
+----------------------------------------------------------------------
