@@ -1,35 +1,35 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>August 27, 2024    |CLUB NO.>158048    | 08/27/2024 21:58
+DATE>August 27, 2024    |CLUB NO.>158048    | 08/27/2024 22:22
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
 AVE>   36.0 |TOP>   3 |MP LIMITS>None/4500/2500 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=9/B=0/C=0                       ,---,-------------------------,------,---------,
+PAIRS IN STRAT A=9/B=6/C=3                       ,---,-------------------------,------,---------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1                                                 A    .     .     .     35.00  48.61          
+ 1 Kevin Cline            Dong Yan                 B    .     .     .     35.00  48.61          
 
- 2                                                 A    .     .     .     25.00  34.72          
+ 2 Ann Romeo              Stephanie Gottesmann     C    .     .     .     25.00  34.72          
 
 
 
- 4                                                 A   3/5    .     .     36.50  50.69  0.32(A) 
+ 4 Gregory Herman         Thang Phu                C   3/5   1/3    1     36.50  50.69  0.35(B) 
 
- 5                                                 A   3/5    .     .     36.50  50.69  0.32(A) 
+ 5 Nick Tipton            Galen Hesson             B   3/5   1/3    .     36.50  50.69  0.35(B) 
 
- 6                                                 A    2     .     .     41.00  56.94  0.63(A) 
+ 6 Jeffrey Ford           Kim Eng                  A    2     .     .     41.00  56.94  0.63(A) 
 
- 7                                                 A    .     .     .     34.00  47.22          
+ 7 Ray Miller             Stanford Christie        A    .     .     .     34.00  47.22          
 
- 8                                                 A    1     .     .     45.00  62.50  0.90(A) 
+ 8 Mike Christensen       David Wright             A    1     .     .     45.00  62.50  0.90(A) 
 
- 9                                                 A    .     .     .     34.50  47.92          
+ 9 Adam Ruprecht          Christopher Jarvis       C    .     .     .     34.50  47.92          
 
-10                                                 A   3/5    .     .     36.50  50.69  0.32(A) 
+10 Chris Pesce            Corneliu Galer           B   3/5   1/3    .     36.50  50.69  0.35(B) 
 
 
                                           Totals                         324.00       
@@ -38,268 +38,268 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  980          2.50   0.50 1-- vs 4--
-  980          2.50   0.50 2-- vs 9--
-  480          0.50   2.50 5-- vs 6--
-  480          0.50   2.50 10-- vs 8--
+  980          2.50   0.50 1-Cline-Yan vs 4-Herman-Phu
+  980          2.50   0.50 2-Romeo-Gottesmann vs 9-Ruprecht-Jarvis
+  480          0.50   2.50 5-Tipton-Hesson vs 6-Ford-Eng
+  480          0.50   2.50 10-Pesce-Galer vs 8-Christensen-Wright
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 2
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  170          3.00   0.00 1-- vs 4--
-  140          2.00   1.00 2-- vs 9--
-        150    0.00   3.00 5-- vs 6--
-        130    1.00   2.00 10-- vs 8--
+  170          3.00   0.00 1-Cline-Yan vs 4-Herman-Phu
+  140          2.00   1.00 2-Romeo-Gottesmann vs 9-Ruprecht-Jarvis
+        150    0.00   3.00 5-Tipton-Hesson vs 6-Ford-Eng
+        130    1.00   2.00 10-Pesce-Galer vs 8-Christensen-Wright
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 3
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-         50    3.00   0.00 1-- vs 4--
-        170    1.00   2.00 2-- vs 9--
-        150    2.00   1.00 5-- vs 6--
-        800    0.00   3.00 10-- vs 8--
+         50    3.00   0.00 1-Cline-Yan vs 4-Herman-Phu
+        170    1.00   2.00 2-Romeo-Gottesmann vs 9-Ruprecht-Jarvis
+        150    2.00   1.00 5-Tipton-Hesson vs 6-Ford-Eng
+        800    0.00   3.00 10-Pesce-Galer vs 8-Christensen-Wright
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 4
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        630    1.50   1.50 2-- vs 5--
-  200          3.00   0.00 4-- vs 8--
-        660    0.00   3.00 6-- vs 7--
-        630    1.50   1.50 10-- vs 9--
+        630    1.50   1.50 2-Romeo-Gottesmann vs 5-Tipton-Hesson
+  200          3.00   0.00 4-Herman-Phu vs 8-Christensen-Wright
+        660    0.00   3.00 6-Ford-Eng vs 7-Miller-Christie
+        630    1.50   1.50 10-Pesce-Galer vs 9-Ruprecht-Jarvis
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 5
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        430    0.50   2.50 2-- vs 5--
-        430    0.50   2.50 4-- vs 8--
-  140          3.00   0.00 6-- vs 7--
-        100    2.00   1.00 10-- vs 9--
+        430    0.50   2.50 2-Romeo-Gottesmann vs 5-Tipton-Hesson
+        430    0.50   2.50 4-Herman-Phu vs 8-Christensen-Wright
+  140          3.00   0.00 6-Ford-Eng vs 7-Miller-Christie
+        100    2.00   1.00 10-Pesce-Galer vs 9-Ruprecht-Jarvis
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 6
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  200          2.50   0.50 2-- vs 5--
-  170          1.00   2.00 4-- vs 8--
-  140          0.00   3.00 6-- vs 7--
-  200          2.50   0.50 10-- vs 9--
+  200          2.50   0.50 2-Romeo-Gottesmann vs 5-Tipton-Hesson
+  170          1.00   2.00 4-Herman-Phu vs 8-Christensen-Wright
+  140          0.00   3.00 6-Ford-Eng vs 7-Miller-Christie
+  200          2.50   0.50 10-Pesce-Galer vs 9-Ruprecht-Jarvis
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 7
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  150          3.00   0.00 4-- vs 2--
-        100    0.00   3.00 5-- vs 9--
-  140          1.50   1.50 7-- vs 8--
-  140          1.50   1.50 10-- vs 1--
+  150          3.00   0.00 4-Herman-Phu vs 2-Romeo-Gottesmann
+        100    0.00   3.00 5-Tipton-Hesson vs 9-Ruprecht-Jarvis
+  140          1.50   1.50 7-Miller-Christie vs 8-Christensen-Wright
+  140          1.50   1.50 10-Pesce-Galer vs 1-Cline-Yan
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 8
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   50          3.00   0.00 4-- vs 2--
-        140    0.00   3.00 5-- vs 9--
-        100    1.00   2.00 7-- vs 8--
-         50    2.00   1.00 10-- vs 1--
+   50          3.00   0.00 4-Herman-Phu vs 2-Romeo-Gottesmann
+        140    0.00   3.00 5-Tipton-Hesson vs 9-Ruprecht-Jarvis
+        100    1.00   2.00 7-Miller-Christie vs 8-Christensen-Wright
+         50    2.00   1.00 10-Pesce-Galer vs 1-Cline-Yan
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 9
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  100          0.50   2.50 4-- vs 2--
-  130          2.50   0.50 5-- vs 9--
-  100          0.50   2.50 7-- vs 8--
-  130          2.50   0.50 10-- vs 1--
+  100          0.50   2.50 4-Herman-Phu vs 2-Romeo-Gottesmann
+  130          2.50   0.50 5-Tipton-Hesson vs 9-Ruprecht-Jarvis
+  100          0.50   2.50 7-Miller-Christie vs 8-Christensen-Wright
+  130          2.50   0.50 10-Pesce-Galer vs 1-Cline-Yan
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 10
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        130    0.50   2.50 4-- vs 7--
-        130    0.50   2.50 6-- vs 1--
-  100          2.50   0.50 8-- vs 9--
-  100          2.50   0.50 10-- vs 2--
+        130    0.50   2.50 4-Herman-Phu vs 7-Miller-Christie
+        130    0.50   2.50 6-Ford-Eng vs 1-Cline-Yan
+  100          2.50   0.50 8-Christensen-Wright vs 9-Ruprecht-Jarvis
+  100          2.50   0.50 10-Pesce-Galer vs 2-Romeo-Gottesmann
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 11
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  400          1.00   2.00 4-- vs 7--
-  400          1.00   2.00 6-- vs 1--
-  400          1.00   2.00 8-- vs 9--
-  430          3.00   0.00 10-- vs 2--
+  400          1.00   2.00 4-Herman-Phu vs 7-Miller-Christie
+  400          1.00   2.00 6-Ford-Eng vs 1-Cline-Yan
+  400          1.00   2.00 8-Christensen-Wright vs 9-Ruprecht-Jarvis
+  430          3.00   0.00 10-Pesce-Galer vs 2-Romeo-Gottesmann
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 12
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  140          2.50   0.50 4-- vs 7--
-  140          2.50   0.50 6-- vs 1--
-        100    0.00   3.00 8-- vs 9--
-  110          1.00   2.00 10-- vs 2--
+  140          2.50   0.50 4-Herman-Phu vs 7-Miller-Christie
+  140          2.50   0.50 6-Ford-Eng vs 1-Cline-Yan
+        100    0.00   3.00 8-Christensen-Wright vs 9-Ruprecht-Jarvis
+  110          1.00   2.00 10-Pesce-Galer vs 2-Romeo-Gottesmann
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 13
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        690    1.00   2.00 5-- vs 8--
-        690    1.00   2.00 6-- vs 4--
-        690    1.00   2.00 7-- vs 2--
-        170    3.00   0.00 9-- vs 1--
+        690    1.00   2.00 5-Tipton-Hesson vs 8-Christensen-Wright
+        690    1.00   2.00 6-Ford-Eng vs 4-Herman-Phu
+        690    1.00   2.00 7-Miller-Christie vs 2-Romeo-Gottesmann
+        170    3.00   0.00 9-Ruprecht-Jarvis vs 1-Cline-Yan
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 14
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        430    0.50   2.50 5-- vs 8--
-        400    2.00   1.00 6-- vs 4--
-   50          3.00   0.00 7-- vs 2--
-        430    0.50   2.50 9-- vs 1--
+        430    0.50   2.50 5-Tipton-Hesson vs 8-Christensen-Wright
+        400    2.00   1.00 6-Ford-Eng vs 4-Herman-Phu
+   50          3.00   0.00 7-Miller-Christie vs 2-Romeo-Gottesmann
+        430    0.50   2.50 9-Ruprecht-Jarvis vs 1-Cline-Yan
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 15
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   50          3.00   0.00 5-- vs 8--
-        200    0.50   2.50 6-- vs 4--
-        100    2.00   1.00 7-- vs 2--
-        200    0.50   2.50 9-- vs 1--
+   50          3.00   0.00 5-Tipton-Hesson vs 8-Christensen-Wright
+        200    0.50   2.50 6-Ford-Eng vs 4-Herman-Phu
+        100    2.00   1.00 7-Miller-Christie vs 2-Romeo-Gottesmann
+        200    0.50   2.50 9-Ruprecht-Jarvis vs 1-Cline-Yan
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 16
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        100    2.50   0.50 1-- vs 2--
-        300    1.00   2.00 6-- vs 9--
-        600    0.00   3.00 7-- vs 5--
-        100    2.50   0.50 10-- vs 4--
+        100    2.50   0.50 1-Cline-Yan vs 2-Romeo-Gottesmann
+        300    1.00   2.00 6-Ford-Eng vs 9-Ruprecht-Jarvis
+        600    0.00   3.00 7-Miller-Christie vs 5-Tipton-Hesson
+        100    2.50   0.50 10-Pesce-Galer vs 4-Herman-Phu
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 17
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  430          2.00   1.00 1-- vs 2--
-  430          2.00   1.00 6-- vs 9--
-  400          0.00   3.00 7-- vs 5--
-  430          2.00   1.00 10-- vs 4--
+  430          2.00   1.00 1-Cline-Yan vs 2-Romeo-Gottesmann
+  430          2.00   1.00 6-Ford-Eng vs 9-Ruprecht-Jarvis
+  400          0.00   3.00 7-Miller-Christie vs 5-Tipton-Hesson
+  430          2.00   1.00 10-Pesce-Galer vs 4-Herman-Phu
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 18
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        300    1.00   2.00 1-- vs 2--
-  130          2.00   1.00 6-- vs 9--
-        550    0.00   3.00 7-- vs 5--
-  710          3.00   0.00 10-- vs 4--
+        300    1.00   2.00 1-Cline-Yan vs 2-Romeo-Gottesmann
+  130          2.00   1.00 6-Ford-Eng vs 9-Ruprecht-Jarvis
+        550    0.00   3.00 7-Miller-Christie vs 5-Tipton-Hesson
+  710          3.00   0.00 10-Pesce-Galer vs 4-Herman-Phu
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 19
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        250    2.00   1.00 7-- vs 1--
-        100    3.00   0.00 8-- vs 6--
-       1050    0.00   3.00 9-- vs 4--
-        680    1.00   2.00 10-- vs 5--
+        250    2.00   1.00 7-Miller-Christie vs 1-Cline-Yan
+        100    3.00   0.00 8-Christensen-Wright vs 6-Ford-Eng
+       1050    0.00   3.00 9-Ruprecht-Jarvis vs 4-Herman-Phu
+        680    1.00   2.00 10-Pesce-Galer vs 5-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 20
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  110          3.00   0.00 7-- vs 1--
-    PASS       1.50   1.50 8-- vs 6--
-        110    0.00   3.00 9-- vs 4--
-    PASS       1.50   1.50 10-- vs 5--
+  110          3.00   0.00 7-Miller-Christie vs 1-Cline-Yan
+    PASS       1.50   1.50 8-Christensen-Wright vs 6-Ford-Eng
+        110    0.00   3.00 9-Ruprecht-Jarvis vs 4-Herman-Phu
+    PASS       1.50   1.50 10-Pesce-Galer vs 5-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 21
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  630          3.00   0.00 7-- vs 1--
-        100    1.00   2.00 8-- vs 6--
-  600          2.00   1.00 9-- vs 4--
-        110    0.00   3.00 10-- vs 5--
+  630          3.00   0.00 7-Miller-Christie vs 1-Cline-Yan
+        100    1.00   2.00 8-Christensen-Wright vs 6-Ford-Eng
+  600          2.00   1.00 9-Ruprecht-Jarvis vs 4-Herman-Phu
+        110    0.00   3.00 10-Pesce-Galer vs 5-Tipton-Hesson
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 22
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  460          0.50   2.50 1-- vs 5--
-  490          2.50   0.50 8-- vs 2--
-  490          2.50   0.50 9-- vs 7--
-  460          0.50   2.50 10-- vs 6--
+  460          0.50   2.50 1-Cline-Yan vs 5-Tipton-Hesson
+  490          2.50   0.50 8-Christensen-Wright vs 2-Romeo-Gottesmann
+  490          2.50   0.50 9-Ruprecht-Jarvis vs 7-Miller-Christie
+  460          0.50   2.50 10-Pesce-Galer vs 6-Ford-Eng
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 23
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        620    1.50   1.50 1-- vs 5--
-        200    3.00   0.00 8-- vs 2--
-        620    1.50   1.50 9-- vs 7--
-        650    0.00   3.00 10-- vs 6--
+        620    1.50   1.50 1-Cline-Yan vs 5-Tipton-Hesson
+        200    3.00   0.00 8-Christensen-Wright vs 2-Romeo-Gottesmann
+        620    1.50   1.50 9-Ruprecht-Jarvis vs 7-Miller-Christie
+        650    0.00   3.00 10-Pesce-Galer vs 6-Ford-Eng
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 24
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-   50          2.00   1.00 1-- vs 5--
-   50          2.00   1.00 8-- vs 2--
-   50          2.00   1.00 9-- vs 7--
-        110    0.00   3.00 10-- vs 6--
+   50          2.00   1.00 1-Cline-Yan vs 5-Tipton-Hesson
+   50          2.00   1.00 8-Christensen-Wright vs 2-Romeo-Gottesmann
+   50          2.00   1.00 9-Ruprecht-Jarvis vs 7-Miller-Christie
+        110    0.00   3.00 10-Pesce-Galer vs 6-Ford-Eng
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 25
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  450          1.50   1.50 1-- vs 8--
-  450          1.50   1.50 2-- vs 6--
-  450          1.50   1.50 4-- vs 5--
-  450          1.50   1.50 10-- vs 7--
+  450          1.50   1.50 1-Cline-Yan vs 8-Christensen-Wright
+  450          1.50   1.50 2-Romeo-Gottesmann vs 6-Ford-Eng
+  450          1.50   1.50 4-Herman-Phu vs 5-Tipton-Hesson
+  450          1.50   1.50 10-Pesce-Galer vs 7-Miller-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 26
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        650    0.50   2.50 1-- vs 8--
-        650    0.50   2.50 2-- vs 6--
-        620    3.00   0.00 4-- vs 5--
-        630    2.00   1.00 10-- vs 7--
+        650    0.50   2.50 1-Cline-Yan vs 8-Christensen-Wright
+        650    0.50   2.50 2-Romeo-Gottesmann vs 6-Ford-Eng
+        620    3.00   0.00 4-Herman-Phu vs 5-Tipton-Hesson
+        630    2.00   1.00 10-Pesce-Galer vs 7-Miller-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 27
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-         90    1.00   2.00 1-- vs 8--
-        500    0.00   3.00 2-- vs 6--
-   50          2.50   0.50 4-- vs 5--
-   50          2.50   0.50 10-- vs 7--
+         90    1.00   2.00 1-Cline-Yan vs 8-Christensen-Wright
+        500    0.00   3.00 2-Romeo-Gottesmann vs 6-Ford-Eng
+   50          2.50   0.50 4-Herman-Phu vs 5-Tipton-Hesson
+   50          2.50   0.50 10-Pesce-Galer vs 7-Miller-Christie
 ----------------------------------------------------------------------
