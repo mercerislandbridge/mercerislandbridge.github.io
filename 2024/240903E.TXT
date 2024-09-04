@@ -1,0 +1,305 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 3, 2024  |CLUB NO.>158048    | 09/03/2024 21:50
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   36.0 |TOP>   3 |MP LIMITS>None/2000/1400 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=3/C=0                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Jeffrey Ford           David Wright             A    3     .     .     39.00  54.17  0.45(A) 
+
+ 2 Mike Ring              Mike Christensen         A    1     .     .     45.50  63.19  0.90(A) 
+
+ 3 Aaron Mohrman          Kevin Cline              B    2     1     .     39.50  54.86  0.63(A) 
+
+ 4 Corneliu Galer         Chris Pesce              B    .     .     .     31.50  43.75          
+
+ 5 Christopher Jarvis     Adam Ruprecht            B    4     .     .     38.50  53.47  0.32(A) 
+
+ 6 Kim Eng                Eric Sieg                A    .     .     .     28.50  39.58          
+
+ 7 David Taylor           Sue Anderson             A    .     .     .     33.00  45.83          
+
+ 8 Brian Zaugg            Stanford Christie        A    .     .     .     36.50  50.69          
+
+
+
+10 Nick Tipton            Galen Hesson             A    .     .     .     32.00  44.44          
+
+
+                                          Totals                         324.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.00   2.00 1-Ford-Wright vs 4-Galer-Pesce
+  450          1.00   2.00 3-Mohrman-Cline vs 7-Taylor-Anderson
+  450          1.00   2.00 5-Jarvis-Ruprecht vs 6-Eng-Sieg
+  480          3.00   0.00 10-Tipton-Hesson vs 8-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   3.00 1-Ford-Wright vs 4-Galer-Pesce
+  630          2.00   1.00 3-Mohrman-Cline vs 7-Taylor-Anderson
+  660          3.00   0.00 5-Jarvis-Ruprecht vs 6-Eng-Sieg
+  150          1.00   2.00 10-Tipton-Hesson vs 8-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          3.00   0.00 1-Ford-Wright vs 4-Galer-Pesce
+         50    1.00   2.00 3-Mohrman-Cline vs 7-Taylor-Anderson
+  100          2.00   1.00 5-Jarvis-Ruprecht vs 6-Eng-Sieg
+        800    0.00   3.00 10-Tipton-Hesson vs 8-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   1.00 2-Ring-Christensen vs 5-Jarvis-Ruprecht
+  870          3.00   0.00 3-Mohrman-Cline vs 1-Ford-Wright
+  110          0.00   3.00 4-Galer-Pesce vs 8-Zaugg-Christie
+  140          1.00   2.00 6-Eng-Sieg vs 7-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          2.00   1.00 2-Ring-Christensen vs 5-Jarvis-Ruprecht
+  600          1.00   2.00 3-Mohrman-Cline vs 1-Ford-Wright
+        100    0.00   3.00 4-Galer-Pesce vs 8-Zaugg-Christie
+  660          3.00   0.00 6-Eng-Sieg vs 7-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.00   2.00 2-Ring-Christensen vs 5-Jarvis-Ruprecht
+  420          1.00   2.00 3-Mohrman-Cline vs 1-Ford-Wright
+  420          1.00   2.00 4-Galer-Pesce vs 8-Zaugg-Christie
+  450          3.00   0.00 6-Eng-Sieg vs 7-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   1.00 3-Mohrman-Cline vs 6-Eng-Sieg
+        300    0.00   3.00 4-Galer-Pesce vs 2-Ring-Christensen
+        110    2.00   1.00 7-Taylor-Anderson vs 8-Zaugg-Christie
+        110    2.00   1.00 10-Tipton-Hesson vs 1-Ford-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   0.00 3-Mohrman-Cline vs 6-Eng-Sieg
+        100    1.50   1.50 4-Galer-Pesce vs 2-Ring-Christensen
+        100    1.50   1.50 7-Taylor-Anderson vs 8-Zaugg-Christie
+        150    0.00   3.00 10-Tipton-Hesson vs 1-Ford-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   0.00 3-Mohrman-Cline vs 6-Eng-Sieg
+        500    1.00   2.00 4-Galer-Pesce vs 2-Ring-Christensen
+        130    2.00   1.00 7-Taylor-Anderson vs 8-Zaugg-Christie
+        620    0.00   3.00 10-Tipton-Hesson vs 1-Ford-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          1.00   2.00 4-Galer-Pesce vs 7-Taylor-Anderson
+  120          2.50   0.50 5-Jarvis-Ruprecht vs 3-Mohrman-Cline
+        180    0.00   3.00 6-Eng-Sieg vs 1-Ford-Wright
+  120          2.50   0.50 10-Tipton-Hesson vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   0.00 4-Galer-Pesce vs 7-Taylor-Anderson
+         50    0.00   3.00 5-Jarvis-Ruprecht vs 3-Mohrman-Cline
+   50          1.00   2.00 6-Eng-Sieg vs 1-Ford-Wright
+  100          2.00   1.00 10-Tipton-Hesson vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.00   1.00 4-Galer-Pesce vs 7-Taylor-Anderson
+  170          2.00   1.00 5-Jarvis-Ruprecht vs 3-Mohrman-Cline
+  170          2.00   1.00 6-Eng-Sieg vs 1-Ford-Wright
+         90    0.00   3.00 10-Tipton-Hesson vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          1.50   1.50 5-Jarvis-Ruprecht vs 8-Zaugg-Christie
+  300          1.50   1.50 6-Eng-Sieg vs 4-Galer-Pesce
+   90          0.00   3.00 7-Taylor-Anderson vs 2-Ring-Christensen
+  380          3.00   0.00 10-Tipton-Hesson vs 3-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   1.00 5-Jarvis-Ruprecht vs 8-Zaugg-Christie
+  100          3.00   0.00 6-Eng-Sieg vs 4-Galer-Pesce
+        420    0.50   2.50 7-Taylor-Anderson vs 2-Ring-Christensen
+        420    0.50   2.50 10-Tipton-Hesson vs 3-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          3.00   0.00 5-Jarvis-Ruprecht vs 8-Zaugg-Christie
+        200    0.00   3.00 6-Eng-Sieg vs 4-Galer-Pesce
+        100    1.50   1.50 7-Taylor-Anderson vs 2-Ring-Christensen
+        100    1.50   1.50 10-Tipton-Hesson vs 3-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   1.50 1-Ford-Wright vs 2-Ring-Christensen
+        650    0.00   3.00 7-Taylor-Anderson vs 5-Jarvis-Ruprecht
+        620    1.50   1.50 8-Zaugg-Christie vs 3-Mohrman-Cline
+         50    3.00   0.00 10-Tipton-Hesson vs 4-Galer-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.00   0.00 1-Ford-Wright vs 2-Ring-Christensen
+  120          2.00   1.00 7-Taylor-Anderson vs 5-Jarvis-Ruprecht
+   90          1.00   2.00 8-Zaugg-Christie vs 3-Mohrman-Cline
+         90    0.00   3.00 10-Tipton-Hesson vs 4-Galer-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.00   3.00 1-Ford-Wright vs 2-Ring-Christensen
+  630          3.00   0.00 7-Taylor-Anderson vs 5-Jarvis-Ruprecht
+  500          1.50   1.50 8-Zaugg-Christie vs 3-Mohrman-Cline
+  500          1.50   1.50 10-Tipton-Hesson vs 4-Galer-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   1.00 2-Ring-Christensen vs 3-Mohrman-Cline
+  200          0.00   3.00 7-Taylor-Anderson vs 1-Ford-Wright
+  450          2.00   1.00 8-Zaugg-Christie vs 6-Eng-Sieg
+  450          2.00   1.00 10-Tipton-Hesson vs 5-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.50   2.50 2-Ring-Christensen vs 3-Mohrman-Cline
+        680    2.50   0.50 7-Taylor-Anderson vs 1-Ford-Wright
+        680    2.50   0.50 8-Zaugg-Christie vs 6-Eng-Sieg
+       1430    0.50   2.50 10-Tipton-Hesson vs 5-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.00   1.00 2-Ring-Christensen vs 3-Mohrman-Cline
+  620          2.00   1.00 7-Taylor-Anderson vs 1-Ford-Wright
+  170          0.00   3.00 8-Zaugg-Christie vs 6-Eng-Sieg
+  620          2.00   1.00 10-Tipton-Hesson vs 5-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.50   0.50 1-Ford-Wright vs 5-Jarvis-Ruprecht
+  200          2.50   0.50 3-Mohrman-Cline vs 4-Galer-Pesce
+  100          0.00   3.00 8-Zaugg-Christie vs 2-Ring-Christensen
+  170          1.00   2.00 10-Tipton-Hesson vs 6-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   0.00 1-Ford-Wright vs 5-Jarvis-Ruprecht
+        790    0.50   2.50 3-Mohrman-Cline vs 4-Galer-Pesce
+        790    0.50   2.50 8-Zaugg-Christie vs 2-Ring-Christensen
+        620    2.00   1.00 10-Tipton-Hesson vs 6-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        590    0.00   3.00 1-Ford-Wright vs 5-Jarvis-Ruprecht
+        420    1.50   1.50 3-Mohrman-Cline vs 4-Galer-Pesce
+         50    3.00   0.00 8-Zaugg-Christie vs 2-Ring-Christensen
+        420    1.50   1.50 10-Tipton-Hesson vs 6-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.50   1.50 1-Ford-Wright vs 8-Zaugg-Christie
+  100          3.00   0.00 2-Ring-Christensen vs 6-Eng-Sieg
+        150    0.00   3.00 4-Galer-Pesce vs 5-Jarvis-Ruprecht
+        130    1.50   1.50 10-Tipton-Hesson vs 7-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.00   3.00 1-Ford-Wright vs 8-Zaugg-Christie
+  200          2.00   1.00 2-Ring-Christensen vs 6-Eng-Sieg
+  300          3.00   0.00 4-Galer-Pesce vs 5-Jarvis-Ruprecht
+        600    1.00   2.00 10-Tipton-Hesson vs 7-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.00   1.00 1-Ford-Wright vs 8-Zaugg-Christie
+  430          3.00   0.00 2-Ring-Christensen vs 6-Eng-Sieg
+  110          0.50   2.50 4-Galer-Pesce vs 5-Jarvis-Ruprecht
+  110          0.50   2.50 10-Tipton-Hesson vs 7-Taylor-Anderson
+----------------------------------------------------------------------
