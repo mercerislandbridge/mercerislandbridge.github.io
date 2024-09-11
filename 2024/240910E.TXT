@@ -1,0 +1,311 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 10, 2024 |CLUB NO.>158048    | 09/10/2024 21:47
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   42.0 |TOP>   3 |MP LIMITS>None/5000/3000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=6/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Hugh Hendrickson       Laura Miller             C    .     .     .     35.00  41.67          
+
+ 2 Corneliu Galer         Stanford Christie        A    3     .     .     48.50  57.74  0.40(A) 
+
+ 3 Adam Ruprecht          Jeffrey Ford             B    .     .     .     35.50  42.26          
+
+ 4 Mike Ring              Mike Christensen         B    .     .     .     44.00  52.38          
+
+ 5 Kim Eng                Eric Sieg                B    2     2     .     49.50  58.93  0.56(A) 
+
+ 6 Kevin Cline            Dong Yan                 C    1     1     1     50.00  59.52  0.80(A) 
+
+ 7 Nick Tipton            Galen Hesson             C    .     .     .     34.00  40.48          
+
+ 8 Ray Miller             Ann Romeo                A    .     .     .     39.50  47.02          
+
+
+                                          Totals                         336.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   0.00 2-Galer-Christie vs 4-Ring-Christensen
+        140    1.00   2.00 3-Ruprecht-Ford vs 7-Tipton-Hesson
+        150    0.00   3.00 5-Eng-Sieg vs 6-Cline-Yan
+        100    2.00   1.00 8-Miller-Romeo vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.00   0.00 2-Galer-Christie vs 4-Ring-Christensen
+  100          2.00   1.00 3-Ruprecht-Ford vs 7-Tipton-Hesson
+        110    1.00   2.00 5-Eng-Sieg vs 6-Cline-Yan
+        500    0.00   3.00 8-Miller-Romeo vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   2.00 2-Galer-Christie vs 4-Ring-Christensen
+  140          2.50   0.50 3-Ruprecht-Ford vs 7-Tipton-Hesson
+         50    0.00   3.00 5-Eng-Sieg vs 6-Cline-Yan
+  140          2.50   0.50 8-Miller-Romeo vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          0.50   2.50 2-Galer-Christie vs 4-Ring-Christensen
+  200          2.00   1.00 3-Ruprecht-Ford vs 7-Tipton-Hesson
+  170          0.50   2.50 5-Eng-Sieg vs 6-Cline-Yan
+  620          3.00   0.00 8-Miller-Romeo vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.00   3.00 3-Ruprecht-Ford vs 5-Eng-Sieg
+        420    1.00   2.00 4-Ring-Christensen vs 1-Hendrickson-Miller
+  170          2.00   1.00 6-Cline-Yan vs 7-Tipton-Hesson
+  620          3.00   0.00 8-Miller-Romeo vs 2-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   2.50 3-Ruprecht-Ford vs 5-Eng-Sieg
+         50    2.50   0.50 4-Ring-Christensen vs 1-Hendrickson-Miller
+         50    2.50   0.50 6-Cline-Yan vs 7-Tipton-Hesson
+        100    0.50   2.50 8-Miller-Romeo vs 2-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   3.00 3-Ruprecht-Ford vs 5-Eng-Sieg
+  500          3.00   0.00 4-Ring-Christensen vs 1-Hendrickson-Miller
+        200    1.00   2.00 6-Cline-Yan vs 7-Tipton-Hesson
+  200          2.00   1.00 8-Miller-Romeo vs 2-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   3.00 3-Ruprecht-Ford vs 5-Eng-Sieg
+  150          2.00   1.00 4-Ring-Christensen vs 1-Hendrickson-Miller
+  400          3.00   0.00 6-Cline-Yan vs 7-Tipton-Hesson
+  120          1.00   2.00 8-Miller-Romeo vs 2-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   1.00 4-Ring-Christensen vs 6-Cline-Yan
+  110          0.00   3.00 5-Eng-Sieg vs 2-Galer-Christie
+  170          1.00   2.00 7-Tipton-Hesson vs 1-Hendrickson-Miller
+  530          3.00   0.00 8-Miller-Romeo vs 3-Ruprecht-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.50   1.50 4-Ring-Christensen vs 6-Cline-Yan
+  100          3.00   0.00 5-Eng-Sieg vs 2-Galer-Christie
+         90    1.50   1.50 7-Tipton-Hesson vs 1-Hendrickson-Miller
+        110    0.00   3.00 8-Miller-Romeo vs 3-Ruprecht-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.00   1.00 4-Ring-Christensen vs 6-Cline-Yan
+  850          3.00   0.00 5-Eng-Sieg vs 2-Galer-Christie
+  150          1.00   2.00 7-Tipton-Hesson vs 1-Hendrickson-Miller
+         50    0.00   3.00 8-Miller-Romeo vs 3-Ruprecht-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.50   0.50 4-Ring-Christensen vs 6-Cline-Yan
+        420    0.50   2.50 5-Eng-Sieg vs 2-Galer-Christie
+        420    0.50   2.50 7-Tipton-Hesson vs 1-Hendrickson-Miller
+        170    2.50   0.50 8-Miller-Romeo vs 3-Ruprecht-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          3.00   0.00 1-Hendrickson-Miller vs 2-Galer-Christie
+        670    0.00   3.00 5-Eng-Sieg vs 7-Tipton-Hesson
+  100          2.00   1.00 6-Cline-Yan vs 3-Ruprecht-Ford
+        500    1.00   2.00 8-Miller-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        160    0.00   3.00 1-Hendrickson-Miller vs 2-Galer-Christie
+  300          2.50   0.50 5-Eng-Sieg vs 7-Tipton-Hesson
+  300          2.50   0.50 6-Cline-Yan vs 3-Ruprecht-Ford
+  130          1.00   2.00 8-Miller-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   3.00 1-Hendrickson-Miller vs 2-Galer-Christie
+  150          3.00   0.00 5-Eng-Sieg vs 7-Tipton-Hesson
+  120          1.50   1.50 6-Cline-Yan vs 3-Ruprecht-Ford
+  120          1.50   1.50 8-Miller-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   3.00 1-Hendrickson-Miller vs 2-Galer-Christie
+   90          2.00   1.00 5-Eng-Sieg vs 7-Tipton-Hesson
+  120          3.00   0.00 6-Cline-Yan vs 3-Ruprecht-Ford
+         50    1.00   2.00 8-Miller-Romeo vs 4-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   0.00 2-Galer-Christie vs 3-Ruprecht-Ford
+        150    1.00   2.00 6-Cline-Yan vs 1-Hendrickson-Miller
+        100    2.00   1.00 7-Tipton-Hesson vs 4-Ring-Christensen
+        200    0.00   3.00 8-Miller-Romeo vs 5-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.50   1.50 2-Galer-Christie vs 3-Ruprecht-Ford
+  620          1.50   1.50 6-Cline-Yan vs 1-Hendrickson-Miller
+  620          1.50   1.50 7-Tipton-Hesson vs 4-Ring-Christensen
+  620          1.50   1.50 8-Miller-Romeo vs 5-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   1.00 2-Galer-Christie vs 3-Ruprecht-Ford
+  450          2.00   1.00 6-Cline-Yan vs 1-Hendrickson-Miller
+  200          0.00   3.00 7-Tipton-Hesson vs 4-Ring-Christensen
+  450          2.00   1.00 8-Miller-Romeo vs 5-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   2.50 2-Galer-Christie vs 3-Ruprecht-Ford
+  200          3.00   0.00 6-Cline-Yan vs 1-Hendrickson-Miller
+  100          2.00   1.00 7-Tipton-Hesson vs 4-Ring-Christensen
+        200    0.50   2.50 8-Miller-Romeo vs 5-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.00   1.00 1-Hendrickson-Miller vs 5-Eng-Sieg
+        200    0.00   3.00 3-Ruprecht-Ford vs 4-Ring-Christensen
+        100    1.00   2.00 7-Tipton-Hesson vs 2-Galer-Christie
+  650          3.00   0.00 8-Miller-Romeo vs 6-Cline-Yan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.50   1.50 1-Hendrickson-Miller vs 5-Eng-Sieg
+  170          1.50   1.50 3-Ruprecht-Ford vs 4-Ring-Christensen
+  170          1.50   1.50 7-Tipton-Hesson vs 2-Galer-Christie
+  170          1.50   1.50 8-Miller-Romeo vs 6-Cline-Yan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   1.50 1-Hendrickson-Miller vs 5-Eng-Sieg
+        200    1.50   1.50 3-Ruprecht-Ford vs 4-Ring-Christensen
+        150    3.00   0.00 7-Tipton-Hesson vs 2-Galer-Christie
+        800    0.00   3.00 8-Miller-Romeo vs 6-Cline-Yan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    1.50   1.50 1-Hendrickson-Miller vs 5-Eng-Sieg
+        120    3.00   0.00 3-Ruprecht-Ford vs 4-Ring-Christensen
+        180    1.50   1.50 7-Tipton-Hesson vs 2-Galer-Christie
+        400    0.00   3.00 8-Miller-Romeo vs 6-Cline-Yan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   1.00 1-Hendrickson-Miller vs 3-Ruprecht-Ford
+  260          3.00   0.00 2-Galer-Christie vs 6-Cline-Yan
+         50    1.00   2.00 4-Ring-Christensen vs 5-Eng-Sieg
+        100    0.00   3.00 8-Miller-Romeo vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.00   2.00 1-Hendrickson-Miller vs 3-Ruprecht-Ford
+        630    2.00   1.00 2-Galer-Christie vs 6-Cline-Yan
+        690    0.00   3.00 4-Ring-Christensen vs 5-Eng-Sieg
+        170    3.00   0.00 8-Miller-Romeo vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   2.00 1-Hendrickson-Miller vs 3-Ruprecht-Ford
+        100    3.00   0.00 2-Galer-Christie vs 6-Cline-Yan
+        450    1.00   2.00 4-Ring-Christensen vs 5-Eng-Sieg
+        450    1.00   2.00 8-Miller-Romeo vs 7-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   2.00 1-Hendrickson-Miller vs 3-Ruprecht-Ford
+        140    1.00   2.00 2-Galer-Christie vs 6-Cline-Yan
+        140    1.00   2.00 4-Ring-Christensen vs 5-Eng-Sieg
+  130          3.00   0.00 8-Miller-Romeo vs 7-Tipton-Hesson
+----------------------------------------------------------------------
