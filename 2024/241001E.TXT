@@ -1,0 +1,283 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 1, 2024    |CLUB NO.>158048    | 10/01/2024 21:47
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   24.0 |TOP>   2 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=7/B=4/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Shawn Abernethy          B    1     1     .     29.00  60.42  0.70(A) 
+
+ 2 Jeffrey Ford           Sue Anderson             A    .     .     .     19.50  40.63          
+
+ 3 Corneliu Galer         Chris Pesce              B    .     .     .     19.50  40.63          
+
+ 4 Muhunthan Sivapragasam Hugh Hendrickson         C    .     .     .     21.50  44.79          
+
+
+
+ 6 Aaron Mohrman          Valliappa Lakshmanan     C    .     2     .     24.00  50.00  0.22(B) 
+
+ 7 Kim Eng                Chris Moore              A    3     .     .     26.50  55.21  0.35(A) 
+
+ 8 Mike Ring              Mike Christensen         A    2     .     .     28.00  58.33  0.49(A) 
+
+
+                                          Totals                         168.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.00   0.00 2-Ford-Anderson vs 4-Sivapragasam-Hendrickson
+        100    0.50   1.50 3-Galer-Pesce vs 7-Eng-Moore
+        100    0.50   1.50 8-Ring-Christensen vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   1.00 2-Ford-Anderson vs 4-Sivapragasam-Hendrickson
+        430    0.00   2.00 3-Galer-Pesce vs 7-Eng-Moore
+   50          2.00   0.00 8-Ring-Christensen vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   1.50 2-Ford-Anderson vs 4-Sivapragasam-Hendrickson
+         50    2.00   0.00 3-Galer-Pesce vs 7-Eng-Moore
+        100    0.50   1.50 8-Ring-Christensen vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.50   0.50 2-Ford-Anderson vs 4-Sivapragasam-Hendrickson
+  170          0.00   2.00 3-Galer-Pesce vs 7-Eng-Moore
+  620          1.50   0.50 8-Ring-Christensen vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        570    0.00   2.00 4-Sivapragasam-Hendrickson vs 1-Zaugg-Abernethy
+        470    1.00   1.00 6-Mohrman-Lakshmanan vs 7-Eng-Moore
+   50          2.00   0.00 8-Ring-Christensen vs 2-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   1.50 4-Sivapragasam-Hendrickson vs 1-Zaugg-Abernethy
+         50    0.50   1.50 6-Mohrman-Lakshmanan vs 7-Eng-Moore
+  110          2.00   0.00 8-Ring-Christensen vs 2-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    0.50   1.50 4-Sivapragasam-Hendrickson vs 1-Zaugg-Abernethy
+        100    2.00   0.00 6-Mohrman-Lakshmanan vs 7-Eng-Moore
+        620    0.50   1.50 8-Ring-Christensen vs 2-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    1.00   1.00 4-Sivapragasam-Hendrickson vs 1-Zaugg-Abernethy
+        520    0.00   2.00 6-Mohrman-Lakshmanan vs 7-Eng-Moore
+        460    2.00   0.00 8-Ring-Christensen vs 2-Ford-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   2.00 4-Sivapragasam-Hendrickson vs 6-Mohrman-Lakshmanan
+        130    1.50   0.50 7-Eng-Moore vs 1-Zaugg-Abernethy
+        130    1.50   0.50 8-Ring-Christensen vs 3-Galer-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   1.50 4-Sivapragasam-Hendrickson vs 6-Mohrman-Lakshmanan
+        200    0.50   1.50 7-Eng-Moore vs 1-Zaugg-Abernethy
+  150          2.00   0.00 8-Ring-Christensen vs 3-Galer-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.00   1.00 4-Sivapragasam-Hendrickson vs 6-Mohrman-Lakshmanan
+         50    0.00   2.00 7-Eng-Moore vs 1-Zaugg-Abernethy
+  100          2.00   0.00 8-Ring-Christensen vs 3-Galer-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  670          2.00   0.00 4-Sivapragasam-Hendrickson vs 6-Mohrman-Lakshmanan
+        100    1.00   1.00 7-Eng-Moore vs 1-Zaugg-Abernethy
+        400    0.00   2.00 8-Ring-Christensen vs 3-Galer-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.50   1.50 1-Zaugg-Abernethy vs 2-Ford-Anderson
+        600    0.50   1.50 6-Mohrman-Lakshmanan vs 3-Galer-Pesce
+  100          2.00   0.00 8-Ring-Christensen vs 4-Sivapragasam-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   0.50 1-Zaugg-Abernethy vs 2-Ford-Anderson
+        110    1.50   0.50 6-Mohrman-Lakshmanan vs 3-Galer-Pesce
+        140    0.00   2.00 8-Ring-Christensen vs 4-Sivapragasam-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.00   1.00 1-Zaugg-Abernethy vs 2-Ford-Anderson
+  140          2.00   0.00 6-Mohrman-Lakshmanan vs 3-Galer-Pesce
+        100    0.00   2.00 8-Ring-Christensen vs 4-Sivapragasam-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   0.00 1-Zaugg-Abernethy vs 2-Ford-Anderson
+        620    0.50   1.50 6-Mohrman-Lakshmanan vs 3-Galer-Pesce
+        620    0.50   1.50 8-Ring-Christensen vs 4-Sivapragasam-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   1.00 2-Ford-Anderson vs 3-Galer-Pesce
+        500    0.00   2.00 6-Mohrman-Lakshmanan vs 1-Zaugg-Abernethy
+  140          2.00   0.00 7-Eng-Moore vs 4-Sivapragasam-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        590    0.00   2.00 2-Ford-Anderson vs 3-Galer-Pesce
+        500    1.00   1.00 6-Mohrman-Lakshmanan vs 1-Zaugg-Abernethy
+        420    2.00   0.00 7-Eng-Moore vs 4-Sivapragasam-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.50   1.50 2-Ford-Anderson vs 3-Galer-Pesce
+  100          2.00   0.00 6-Mohrman-Lakshmanan vs 1-Zaugg-Abernethy
+        120    0.50   1.50 7-Eng-Moore vs 4-Sivapragasam-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  670          2.00   0.00 2-Ford-Anderson vs 3-Galer-Pesce
+        300    0.00   2.00 6-Mohrman-Lakshmanan vs 1-Zaugg-Abernethy
+  100          1.00   1.00 7-Eng-Moore vs 4-Sivapragasam-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.50   1.50 3-Galer-Pesce vs 4-Sivapragasam-Hendrickson
+   50          2.00   0.00 7-Eng-Moore vs 2-Ford-Anderson
+        400    0.50   1.50 8-Ring-Christensen vs 6-Mohrman-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   0.50 3-Galer-Pesce vs 4-Sivapragasam-Hendrickson
+        170    0.00   2.00 7-Eng-Moore vs 2-Ford-Anderson
+  100          1.50   0.50 8-Ring-Christensen vs 6-Mohrman-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.50   1.50 3-Galer-Pesce vs 4-Sivapragasam-Hendrickson
+        680    0.50   1.50 7-Eng-Moore vs 2-Ford-Anderson
+        100    2.00   0.00 8-Ring-Christensen vs 6-Mohrman-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          0.50   1.50 3-Galer-Pesce vs 4-Sivapragasam-Hendrickson
+  510          2.00   0.00 7-Eng-Moore vs 2-Ford-Anderson
+  130          0.50   1.50 8-Ring-Christensen vs 6-Mohrman-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   1.00 1-Zaugg-Abernethy vs 3-Galer-Pesce
+        650    1.00   1.00 2-Ford-Anderson vs 6-Mohrman-Lakshmanan
+        650    1.00   1.00 8-Ring-Christensen vs 7-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   0.50 1-Zaugg-Abernethy vs 3-Galer-Pesce
+        140    0.00   2.00 2-Ford-Anderson vs 6-Mohrman-Lakshmanan
+        110    1.50   0.50 8-Ring-Christensen vs 7-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.50   1.50 1-Zaugg-Abernethy vs 3-Galer-Pesce
+        460    0.50   1.50 2-Ford-Anderson vs 6-Mohrman-Lakshmanan
+        430    2.00   0.00 8-Ring-Christensen vs 7-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   0.50 1-Zaugg-Abernethy vs 3-Galer-Pesce
+        200    1.50   0.50 2-Ford-Anderson vs 6-Mohrman-Lakshmanan
+        500    0.00   2.00 8-Ring-Christensen vs 7-Eng-Moore
+----------------------------------------------------------------------
