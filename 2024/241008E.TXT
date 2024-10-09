@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 8, 2024    |CLUB NO.>158048    | 10/08/2024 21:43
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3750/2500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=9/C=6                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Matt Gaffney           Dion Sorenson            C    .     .     .     49.50  41.25          
+
+ 2 Nick Tipton            Galen Hesson             B    .     .     .     49.50  41.25          
+
+ 3 Oyvind Tafjord         Sue Anderson             C    2     2     1     71.50  59.58  0.91(A) 
+
+ 4 Mike Christensen       Mike Ring                A    .     .     .     62.50  52.08          
+
+ 5 John Krah              Jeffrey Ford             B    1     1     .     72.00  60.00  1.30(A) 
+
+ 6 Hugh Hendrickson       Laura Miller             C    .     .     .     44.50  37.08          
+
+ 7 Kim Eng                Eric Sieg                A    .     .     .     60.50  50.42          
+
+ 8 Ray Miller             Ann Romeo                A    4     .     .     67.50  56.25  0.46(A) 
+
+ 9 Dex Stuberg            Cliff Marx               C    .     4     .     61.00  50.83  0.25(B) 
+
+10 Shawn Abernethy        David Wright             B    .     .     .     60.00  50.00          
+
+11 Brad Rind              Susan Waggoner           C    5     3     2     66.00  55.00  0.36(B) 
+
+12 Brian Zaugg            Stanford Christie        A    3     .     .     69.00  57.50  0.65(A) 
+
+13 David Taylor           Donald Kossmann          C    .     .     .     46.50  38.75          
+
+
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.00   3.00 1-Gaffney-Sorenson vs 3-Tafjord-Anderson
+        400    3.00   2.00 2-Tipton-Hesson vs 6-Hendrickson-Miller
+        150    4.00   1.00 4-Christensen-Ring vs 9-Stuberg-Marx
+       1100    0.00   5.00 5-Krah-Ford vs 12-Zaugg-Christie
+  100          5.00   0.00 7-Eng-Sieg vs 8-Miller-Romeo
+        460    1.00   4.00 13-Taylor-Kossmann vs 10-Abernethy-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   3.00 1-Gaffney-Sorenson vs 3-Tafjord-Anderson
+        140    2.00   3.00 2-Tipton-Hesson vs 6-Hendrickson-Miller
+        140    2.00   3.00 4-Christensen-Ring vs 9-Stuberg-Marx
+        100    4.00   1.00 5-Krah-Ford vs 12-Zaugg-Christie
+        530    0.00   5.00 7-Eng-Sieg vs 8-Miller-Romeo
+   50          5.00   0.00 13-Taylor-Kossmann vs 10-Abernethy-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 1-Gaffney-Sorenson vs 11-Rind-Waggoner
+        300    0.00   5.00 2-Tipton-Hesson vs 4-Christensen-Ring
+  140          3.00   2.00 3-Tafjord-Anderson vs 7-Eng-Sieg
+  140          3.00   2.00 5-Krah-Ford vs 10-Abernethy-Wright
+  140          3.00   2.00 6-Hendrickson-Miller vs 13-Taylor-Kossmann
+  400          5.00   0.00 8-Miller-Romeo vs 9-Stuberg-Marx
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   5.00 1-Gaffney-Sorenson vs 11-Rind-Waggoner
+  100          3.50   1.50 2-Tipton-Hesson vs 4-Christensen-Ring
+  200          5.00   0.00 3-Tafjord-Anderson vs 7-Eng-Sieg
+        170    2.00   3.00 5-Krah-Ford vs 10-Abernethy-Wright
+  100          3.50   1.50 6-Hendrickson-Miller vs 13-Taylor-Kossmann
+        200    1.00   4.00 8-Miller-Romeo vs 9-Stuberg-Marx
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.00   2.00 2-Tipton-Hesson vs 12-Zaugg-Christie
+ 1430          5.00   0.00 3-Tafjord-Anderson vs 5-Krah-Ford
+        200    0.50   4.50 4-Christensen-Ring vs 8-Miller-Romeo
+        200    0.50   4.50 6-Hendrickson-Miller vs 11-Rind-Waggoner
+  500          2.00   3.00 7-Eng-Sieg vs 1-Gaffney-Sorenson
+  660          4.00   1.00 9-Stuberg-Marx vs 10-Abernethy-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.50   1.50 2-Tipton-Hesson vs 12-Zaugg-Christie
+  450          3.50   1.50 3-Tafjord-Anderson vs 5-Krah-Ford
+         50    0.00   5.00 4-Christensen-Ring vs 8-Miller-Romeo
+  420          1.00   4.00 6-Hendrickson-Miller vs 11-Rind-Waggoner
+  450          3.50   1.50 7-Eng-Sieg vs 1-Gaffney-Sorenson
+  450          3.50   1.50 9-Stuberg-Marx vs 10-Abernethy-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   5.00 3-Tafjord-Anderson vs 13-Taylor-Kossmann
+  150          3.00   2.00 4-Christensen-Ring vs 6-Hendrickson-Miller
+  110          1.00   4.00 5-Krah-Ford vs 9-Stuberg-Marx
+  130          2.00   3.00 7-Eng-Sieg vs 12-Zaugg-Christie
+  200          4.00   1.00 8-Miller-Romeo vs 2-Tipton-Hesson
+  670          5.00   0.00 10-Abernethy-Wright vs 11-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    2.50   2.50 3-Tafjord-Anderson vs 13-Taylor-Kossmann
+        460    2.50   2.50 4-Christensen-Ring vs 6-Hendrickson-Miller
+        430    5.00   0.00 5-Krah-Ford vs 9-Stuberg-Marx
+        460    2.50   2.50 7-Eng-Sieg vs 12-Zaugg-Christie
+        460    2.50   2.50 8-Miller-Romeo vs 2-Tipton-Hesson
+        490    0.00   5.00 10-Abernethy-Wright vs 11-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  520          5.00   0.00 4-Christensen-Ring vs 1-Gaffney-Sorenson
+  460          2.50   2.50 5-Krah-Ford vs 7-Eng-Sieg
+  400          0.00   5.00 6-Hendrickson-Miller vs 10-Abernethy-Wright
+  490          4.00   1.00 8-Miller-Romeo vs 13-Taylor-Kossmann
+  460          2.50   2.50 9-Stuberg-Marx vs 3-Tafjord-Anderson
+  420          1.00   4.00 11-Rind-Waggoner vs 12-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    5.00   0.00 4-Christensen-Ring vs 1-Gaffney-Sorenson
+        600    3.00   2.00 5-Krah-Ford vs 7-Eng-Sieg
+        660    0.50   4.50 6-Hendrickson-Miller vs 10-Abernethy-Wright
+        660    0.50   4.50 8-Miller-Romeo vs 13-Taylor-Kossmann
+        630    2.00   3.00 9-Stuberg-Marx vs 3-Tafjord-Anderson
+        500    4.00   1.00 11-Rind-Waggoner vs 12-Zaugg-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   2.50 5-Krah-Ford vs 2-Tipton-Hesson
+        450    2.50   2.50 6-Hendrickson-Miller vs 8-Miller-Romeo
+        450    2.50   2.50 7-Eng-Sieg vs 11-Rind-Waggoner
+        450    2.50   2.50 9-Stuberg-Marx vs 1-Gaffney-Sorenson
+        450    2.50   2.50 10-Abernethy-Wright vs 4-Christensen-Ring
+        450    2.50   2.50 12-Zaugg-Christie vs 13-Taylor-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   2.00 5-Krah-Ford vs 2-Tipton-Hesson
+        420    0.00   5.00 6-Hendrickson-Miller vs 8-Miller-Romeo
+   50          4.00   1.00 7-Eng-Sieg vs 11-Rind-Waggoner
+        140    2.00   3.00 9-Stuberg-Marx vs 1-Gaffney-Sorenson
+        170    1.00   4.00 10-Abernethy-Wright vs 4-Christensen-Ring
+  170          5.00   0.00 12-Zaugg-Christie vs 13-Taylor-Kossmann
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          3.00   2.00 6-Hendrickson-Miller vs 3-Tafjord-Anderson
+  680          3.00   2.00 7-Eng-Sieg vs 9-Stuberg-Marx
+  680          3.00   2.00 8-Miller-Romeo vs 12-Zaugg-Christie
+  710          5.00   0.00 10-Abernethy-Wright vs 2-Tipton-Hesson
+  500          0.50   4.50 11-Rind-Waggoner vs 5-Krah-Ford
+  500          0.50   4.50 13-Taylor-Kossmann vs 1-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   5.00 6-Hendrickson-Miller vs 3-Tafjord-Anderson
+        480    2.00   3.00 7-Eng-Sieg vs 9-Stuberg-Marx
+        480    2.00   3.00 8-Miller-Romeo vs 12-Zaugg-Christie
+        100    5.00   0.00 10-Abernethy-Wright vs 2-Tipton-Hesson
+        480    2.00   3.00 11-Rind-Waggoner vs 5-Krah-Ford
+        450    4.00   1.00 13-Taylor-Kossmann vs 1-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.50   3.50 1-Gaffney-Sorenson vs 2-Tipton-Hesson
+        400    1.50   3.50 7-Eng-Sieg vs 4-Christensen-Ring
+        200    3.00   2.00 8-Miller-Romeo vs 10-Abernethy-Wright
+        110    5.00   0.00 9-Stuberg-Marx vs 13-Taylor-Kossmann
+        430    0.00   5.00 11-Rind-Waggoner vs 3-Tafjord-Anderson
+        150    4.00   1.00 12-Zaugg-Christie vs 6-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   1.00 1-Gaffney-Sorenson vs 2-Tipton-Hesson
+         50    0.00   5.00 7-Eng-Sieg vs 4-Christensen-Ring
+  140          1.00   4.00 8-Miller-Romeo vs 10-Abernethy-Wright
+  170          2.00   3.00 9-Stuberg-Marx vs 13-Taylor-Kossmann
+  420          4.00   1.00 11-Rind-Waggoner vs 3-Tafjord-Anderson
+  420          4.00   1.00 12-Zaugg-Christie vs 6-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   3.00 2-Tipton-Hesson vs 3-Tafjord-Anderson
+  530          5.00   0.00 8-Miller-Romeo vs 5-Krah-Ford
+  140          4.00   1.00 9-Stuberg-Marx vs 11-Rind-Waggoner
+  100          3.00   2.00 10-Abernethy-Wright vs 1-Gaffney-Sorenson
+         50    1.00   4.00 12-Zaugg-Christie vs 4-Christensen-Ring
+        100    0.00   5.00 13-Taylor-Kossmann vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   3.50 2-Tipton-Hesson vs 3-Tafjord-Anderson
+        420    1.50   3.50 8-Miller-Romeo vs 5-Krah-Ford
+   50          4.00   1.00 9-Stuberg-Marx vs 11-Rind-Waggoner
+        420    1.50   3.50 10-Abernethy-Wright vs 1-Gaffney-Sorenson
+  100          5.00   0.00 12-Zaugg-Christie vs 4-Christensen-Ring
+        420    1.50   3.50 13-Taylor-Kossmann vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   3.50 1-Gaffney-Sorenson vs 8-Miller-Romeo
+         50    4.50   0.50 3-Tafjord-Anderson vs 4-Christensen-Ring
+        140    1.50   3.50 9-Stuberg-Marx vs 6-Hendrickson-Miller
+        140    1.50   3.50 10-Abernethy-Wright vs 12-Zaugg-Christie
+         50    4.50   0.50 11-Rind-Waggoner vs 2-Tipton-Hesson
+        140    1.50   3.50 13-Taylor-Kossmann vs 5-Krah-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    4.00   1.00 1-Gaffney-Sorenson vs 8-Miller-Romeo
+        650    1.50   3.50 3-Tafjord-Anderson vs 4-Christensen-Ring
+        620    4.00   1.00 9-Stuberg-Marx vs 6-Hendrickson-Miller
+        650    1.50   3.50 10-Abernethy-Wright vs 12-Zaugg-Christie
+        620    4.00   1.00 11-Rind-Waggoner vs 2-Tipton-Hesson
+        660    0.00   5.00 13-Taylor-Kossmann vs 5-Krah-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    0.00   5.00 1-Gaffney-Sorenson vs 6-Hendrickson-Miller
+   50          5.00   0.00 2-Tipton-Hesson vs 9-Stuberg-Marx
+        430    1.50   3.50 4-Christensen-Ring vs 5-Krah-Ford
+        430    1.50   3.50 10-Abernethy-Wright vs 7-Eng-Sieg
+        400    3.50   1.50 11-Rind-Waggoner vs 13-Taylor-Kossmann
+        400    3.50   1.50 12-Zaugg-Christie vs 3-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    4.00   1.00 1-Gaffney-Sorenson vs 6-Hendrickson-Miller
+        620    1.50   3.50 2-Tipton-Hesson vs 9-Stuberg-Marx
+        620    1.50   3.50 4-Christensen-Ring vs 5-Krah-Ford
+        680    0.00   5.00 10-Abernethy-Wright vs 7-Eng-Sieg
+  100          5.00   0.00 11-Rind-Waggoner vs 13-Taylor-Kossmann
+        600    3.00   2.00 12-Zaugg-Christie vs 3-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    2.00   3.00 2-Tipton-Hesson vs 7-Eng-Sieg
+        150    3.00   2.00 3-Tafjord-Anderson vs 10-Abernethy-Wright
+        130    4.00   1.00 5-Krah-Ford vs 6-Hendrickson-Miller
+        600    0.00   5.00 11-Rind-Waggoner vs 8-Miller-Romeo
+        200    1.00   4.00 12-Zaugg-Christie vs 1-Gaffney-Sorenson
+        110    5.00   0.00 13-Taylor-Kossmann vs 4-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   3.50 2-Tipton-Hesson vs 7-Eng-Sieg
+        110    1.50   3.50 3-Tafjord-Anderson vs 10-Abernethy-Wright
+         50    5.00   0.00 5-Krah-Ford vs 6-Hendrickson-Miller
+        100    4.00   1.00 11-Rind-Waggoner vs 8-Miller-Romeo
+        110    1.50   3.50 12-Zaugg-Christie vs 1-Gaffney-Sorenson
+        110    1.50   3.50 13-Taylor-Kossmann vs 4-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.00   4.00 1-Gaffney-Sorenson vs 5-Krah-Ford
+  100          5.00   0.00 3-Tafjord-Anderson vs 8-Miller-Romeo
+       1370    0.00   5.00 4-Christensen-Ring vs 11-Rind-Waggoner
+        300    3.00   2.00 6-Hendrickson-Miller vs 7-Eng-Sieg
+        130    4.00   1.00 12-Zaugg-Christie vs 9-Stuberg-Marx
+        600    2.00   3.00 13-Taylor-Kossmann vs 2-Tipton-Hesson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 1-Gaffney-Sorenson vs 5-Krah-Ford
+  660          2.50   2.50 3-Tafjord-Anderson vs 8-Miller-Romeo
+  690          4.50   0.50 4-Christensen-Ring vs 11-Rind-Waggoner
+  690          4.50   0.50 6-Hendrickson-Miller vs 7-Eng-Sieg
+  660          2.50   2.50 12-Zaugg-Christie vs 9-Stuberg-Marx
+  630          1.00   4.00 13-Taylor-Kossmann vs 2-Tipton-Hesson
+----------------------------------------------------------------------
