@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> S
+------------------------,------ ------------,-------- --------------------------
+DATE>October 15, 2024   |CLUB NO.>158048    | 10/15/2024 21:51
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim/aaron       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2500/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=6/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brad Rind              Susan Waggoner           C    3     1     1     66.00  55.00  0.65(A) 
+
+ 2 Ray Miller             Eric Sieg                A    1     .     .     74.50  62.08  1.30(A) 
+
+
+
+ 4 Stanford Christie      Corneliu Galer           A    2     .     .     67.50  56.25  0.91(A) 
+
+ 5 Hugh Hendrickson       Laura Miller             C    .     .     .     50.00  41.67          
+
+ 6 Cindy Pauley           Shannon Kasperkiewicz    C    .     .     2     60.50  50.42  0.22(C) 
+
+ 7 David Taylor           Chris Pesce              A    .     .     .     59.50  49.58          
+
+ 8 Kim Eng                Jeffrey Ford             A    5     .     .     63.50  52.92  0.26(A) 
+
+ 9 Bryan Delfs            Shawn Abernethy          A    .     .     .     58.00  48.33          
+
+10 Brian Zaugg            David Wright             B    4     2     .     64.00  53.33  0.46(A) 
+
+11 Christopher Jarvis     Adam Ruprecht            C    .     .     .     47.50  39.58          
+
+12 Mike Christensen       Becky Stevens            A    .     .     .     61.50  51.25          
+
+13 Aaron Mohrman          Sue Anderson             B    .     .     .     57.50  47.92          
+
+14 Nick Tipton            Galen Hesson             A    .     .     .     50.00  41.67          
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   0.00 2-Miller-Sieg vs 6-Pauley-Kasperkiewicz
+  130          3.50   1.50 4-Christie-Galer vs 9-Delfs-Abernethy
+        100    1.00   4.00 5-Hendrickson-Miller vs 12-Christensen-Stevens
+  100          2.00   3.00 7-Taylor-Pesce vs 8-Eng-Ford
+        110    0.00   5.00 13-Mohrman-Anderson vs 10-Zaugg-Wright
+  130          3.50   1.50 14-Tipton-Hesson vs 11-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          2.50   2.50 2-Miller-Sieg vs 6-Pauley-Kasperkiewicz
+  650          2.50   2.50 4-Christie-Galer vs 9-Delfs-Abernethy
+  650          2.50   2.50 5-Hendrickson-Miller vs 12-Christensen-Stevens
+  650          2.50   2.50 7-Taylor-Pesce vs 8-Eng-Ford
+  650          2.50   2.50 13-Mohrman-Anderson vs 10-Zaugg-Wright
+  650          2.50   2.50 14-Tipton-Hesson vs 11-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    4.00   1.00 1-Rind-Waggoner vs 11-Jarvis-Ruprecht
+        650    5.00   0.00 2-Miller-Sieg vs 4-Christie-Galer
+        710    1.00   4.00 5-Hendrickson-Miller vs 10-Zaugg-Wright
+        710    1.00   4.00 6-Pauley-Kasperkiewicz vs 13-Mohrman-Anderson
+        710    1.00   4.00 8-Eng-Ford vs 9-Delfs-Abernethy
+        690    3.00   2.00 14-Tipton-Hesson vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    4.00   1.00 1-Rind-Waggoner vs 11-Jarvis-Ruprecht
+        690    0.50   4.50 2-Miller-Sieg vs 4-Christie-Galer
+        630    4.00   1.00 5-Hendrickson-Miller vs 10-Zaugg-Wright
+        630    4.00   1.00 6-Pauley-Kasperkiewicz vs 13-Mohrman-Anderson
+        690    0.50   4.50 8-Eng-Ford vs 9-Delfs-Abernethy
+        660    2.00   3.00 14-Tipton-Hesson vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   1.00 2-Miller-Sieg vs 12-Christensen-Stevens
+        200    3.00   2.00 4-Christie-Galer vs 8-Eng-Ford
+        100    5.00   0.00 6-Pauley-Kasperkiewicz vs 11-Jarvis-Ruprecht
+       1100    0.00   5.00 7-Taylor-Pesce vs 1-Rind-Waggoner
+        300    2.00   3.00 9-Delfs-Abernethy vs 10-Zaugg-Wright
+        800    1.00   4.00 14-Tipton-Hesson vs 13-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   1.00 2-Miller-Sieg vs 12-Christensen-Stevens
+        630    1.00   4.00 4-Christie-Galer vs 8-Eng-Ford
+  100          5.00   0.00 6-Pauley-Kasperkiewicz vs 11-Jarvis-Ruprecht
+        150    3.00   2.00 7-Taylor-Pesce vs 1-Rind-Waggoner
+       1370    0.00   5.00 9-Delfs-Abernethy vs 10-Zaugg-Wright
+        600    2.00   3.00 14-Tipton-Hesson vs 13-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   1.00 4-Christie-Galer vs 6-Pauley-Kasperkiewicz
+  170          4.00   1.00 5-Hendrickson-Miller vs 9-Delfs-Abernethy
+        730    0.00   5.00 7-Taylor-Pesce vs 12-Christensen-Stevens
+  170          4.00   1.00 8-Eng-Ford vs 2-Miller-Sieg
+   90          2.00   3.00 10-Zaugg-Wright vs 11-Jarvis-Ruprecht
+        110    1.00   4.00 14-Tipton-Hesson vs 1-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.50   2.50 4-Christie-Galer vs 6-Pauley-Kasperkiewicz
+        400    4.00   1.00 5-Hendrickson-Miller vs 9-Delfs-Abernethy
+   50          5.00   0.00 7-Taylor-Pesce vs 12-Christensen-Stevens
+        460    0.50   4.50 8-Eng-Ford vs 2-Miller-Sieg
+        430    2.50   2.50 10-Zaugg-Wright vs 11-Jarvis-Ruprecht
+        460    0.50   4.50 14-Tipton-Hesson vs 1-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   0.00 4-Christie-Galer vs 1-Rind-Waggoner
+        620    1.00   4.00 5-Hendrickson-Miller vs 7-Taylor-Pesce
+        150    4.00   1.00 6-Pauley-Kasperkiewicz vs 10-Zaugg-Wright
+        680    0.00   5.00 8-Eng-Ford vs 13-Mohrman-Anderson
+        170    2.50   2.50 11-Jarvis-Ruprecht vs 12-Christensen-Stevens
+        170    2.50   2.50 14-Tipton-Hesson vs 2-Miller-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.50   3.50 4-Christie-Galer vs 1-Rind-Waggoner
+        630    0.00   5.00 5-Hendrickson-Miller vs 7-Taylor-Pesce
+  100          5.00   0.00 6-Pauley-Kasperkiewicz vs 10-Zaugg-Wright
+        120    4.00   1.00 8-Eng-Ford vs 13-Mohrman-Anderson
+        600    1.50   3.50 11-Jarvis-Ruprecht vs 12-Christensen-Stevens
+        200    3.00   2.00 14-Tipton-Hesson vs 2-Miller-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          0.00   5.00 5-Hendrickson-Miller vs 2-Miller-Sieg
+  430          1.00   4.00 6-Pauley-Kasperkiewicz vs 8-Eng-Ford
+  940          5.00   0.00 7-Taylor-Pesce vs 11-Jarvis-Ruprecht
+  920          3.00   2.00 9-Delfs-Abernethy vs 1-Rind-Waggoner
+  920          3.00   2.00 10-Zaugg-Wright vs 4-Christie-Galer
+  920          3.00   2.00 12-Christensen-Stevens vs 13-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          1.00   4.00 5-Hendrickson-Miller vs 2-Miller-Sieg
+  600          2.00   3.00 6-Pauley-Kasperkiewicz vs 8-Eng-Ford
+        100    0.00   5.00 7-Taylor-Pesce vs 11-Jarvis-Ruprecht
+  690          4.50   0.50 9-Delfs-Abernethy vs 1-Rind-Waggoner
+  620          3.00   2.00 10-Zaugg-Wright vs 4-Christie-Galer
+  690          4.50   0.50 12-Christensen-Stevens vs 13-Mohrman-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          5.00   0.00 7-Taylor-Pesce vs 9-Delfs-Abernethy
+  600          4.00   1.00 8-Eng-Ford vs 12-Christensen-Stevens
+  170          3.00   2.00 10-Zaugg-Wright vs 2-Miller-Sieg
+  140          1.00   4.00 11-Jarvis-Ruprecht vs 5-Hendrickson-Miller
+  150          2.00   3.00 13-Mohrman-Anderson vs 1-Rind-Waggoner
+        100    0.00   5.00 14-Tipton-Hesson vs 4-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   3.00 7-Taylor-Pesce vs 9-Delfs-Abernethy
+  420          0.00   5.00 8-Eng-Ford vs 12-Christensen-Stevens
+  480          4.50   0.50 10-Zaugg-Wright vs 2-Miller-Sieg
+  480          4.50   0.50 11-Jarvis-Ruprecht vs 5-Hendrickson-Miller
+  450          2.00   3.00 13-Mohrman-Anderson vs 1-Rind-Waggoner
+  450          2.00   3.00 14-Tipton-Hesson vs 4-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    1.00   4.00 1-Rind-Waggoner vs 2-Miller-Sieg
+        430    1.00   4.00 7-Taylor-Pesce vs 4-Christie-Galer
+        140    3.00   2.00 8-Eng-Ford vs 10-Zaugg-Wright
+        430    1.00   4.00 9-Delfs-Abernethy vs 13-Mohrman-Anderson
+   50          4.50   0.50 12-Christensen-Stevens vs 6-Pauley-Kasperkiewicz
+   50          4.50   0.50 14-Tipton-Hesson vs 5-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          1.00   4.00 1-Rind-Waggoner vs 2-Miller-Sieg
+  150          3.00   2.00 7-Taylor-Pesce vs 4-Christie-Galer
+  300          5.00   0.00 8-Eng-Ford vs 10-Zaugg-Wright
+  150          3.00   2.00 9-Delfs-Abernethy vs 13-Mohrman-Anderson
+   90          0.00   5.00 12-Christensen-Stevens vs 6-Pauley-Kasperkiewicz
+  150          3.00   2.00 14-Tipton-Hesson vs 5-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    5.00   0.00 8-Eng-Ford vs 5-Hendrickson-Miller
+        480    2.50   2.50 9-Delfs-Abernethy vs 11-Jarvis-Ruprecht
+        980    0.50   4.50 10-Zaugg-Wright vs 1-Rind-Waggoner
+        980    0.50   4.50 12-Christensen-Stevens vs 4-Christie-Galer
+        480    2.50   2.50 13-Mohrman-Anderson vs 7-Taylor-Pesce
+        450    4.00   1.00 14-Tipton-Hesson vs 6-Pauley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.00   4.00 8-Eng-Ford vs 5-Hendrickson-Miller
+  680          3.50   1.50 9-Delfs-Abernethy vs 11-Jarvis-Ruprecht
+  680          3.50   1.50 10-Zaugg-Wright vs 1-Rind-Waggoner
+  680          3.50   1.50 12-Christensen-Stevens vs 4-Christie-Galer
+  680          3.50   1.50 13-Mohrman-Anderson vs 7-Taylor-Pesce
+  230          0.00   5.00 14-Tipton-Hesson vs 6-Pauley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        190    0.00   5.00 1-Rind-Waggoner vs 8-Eng-Ford
+  100          4.50   0.50 9-Delfs-Abernethy vs 6-Pauley-Kasperkiewicz
+        100    2.50   2.50 10-Zaugg-Wright vs 12-Christensen-Stevens
+        100    2.50   2.50 11-Jarvis-Ruprecht vs 2-Miller-Sieg
+        130    1.00   4.00 13-Mohrman-Anderson vs 5-Hendrickson-Miller
+  100          4.50   0.50 14-Tipton-Hesson vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.00   2.00 1-Rind-Waggoner vs 8-Eng-Ford
+        620    3.00   2.00 9-Delfs-Abernethy vs 6-Pauley-Kasperkiewicz
+        620    3.00   2.00 10-Zaugg-Wright vs 12-Christensen-Stevens
+        620    3.00   2.00 11-Jarvis-Ruprecht vs 2-Miller-Sieg
+        620    3.00   2.00 13-Mohrman-Anderson vs 5-Hendrickson-Miller
+        650    0.00   5.00 14-Tipton-Hesson vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   1.00 1-Rind-Waggoner vs 6-Pauley-Kasperkiewicz
+  170          2.00   3.00 2-Miller-Sieg vs 9-Delfs-Abernethy
+        110    0.00   5.00 4-Christie-Galer vs 5-Hendrickson-Miller
+  620          4.00   1.00 10-Zaugg-Wright vs 7-Taylor-Pesce
+   50          1.00   4.00 11-Jarvis-Ruprecht vs 13-Mohrman-Anderson
+  620          4.00   1.00 14-Tipton-Hesson vs 8-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   3.00 1-Rind-Waggoner vs 6-Pauley-Kasperkiewicz
+        100    4.00   1.00 2-Miller-Sieg vs 9-Delfs-Abernethy
+         50    5.00   0.00 4-Christie-Galer vs 5-Hendrickson-Miller
+        500    0.00   5.00 10-Zaugg-Wright vs 7-Taylor-Pesce
+        170    2.00   3.00 11-Jarvis-Ruprecht vs 13-Mohrman-Anderson
+        170    2.00   3.00 14-Tipton-Hesson vs 8-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          3.50   1.50 2-Miller-Sieg vs 7-Taylor-Pesce
+  680          3.50   1.50 5-Hendrickson-Miller vs 6-Pauley-Kasperkiewicz
+  650          0.50   4.50 11-Jarvis-Ruprecht vs 8-Eng-Ford
+  680          3.50   1.50 12-Christensen-Stevens vs 1-Rind-Waggoner
+  680          3.50   1.50 13-Mohrman-Anderson vs 4-Christie-Galer
+  650          0.50   4.50 14-Tipton-Hesson vs 9-Delfs-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.50   1.50 2-Miller-Sieg vs 7-Taylor-Pesce
+  430          3.50   1.50 5-Hendrickson-Miller vs 6-Pauley-Kasperkiewicz
+  430          3.50   1.50 11-Jarvis-Ruprecht vs 8-Eng-Ford
+  400          0.50   4.50 12-Christensen-Stevens vs 1-Rind-Waggoner
+  400          0.50   4.50 13-Mohrman-Anderson vs 4-Christie-Galer
+  430          3.50   1.50 14-Tipton-Hesson vs 9-Delfs-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.50   0.50 1-Rind-Waggoner vs 5-Hendrickson-Miller
+        130    0.00   5.00 4-Christie-Galer vs 11-Jarvis-Ruprecht
+  140          2.50   2.50 6-Pauley-Kasperkiewicz vs 7-Taylor-Pesce
+  170          4.50   0.50 12-Christensen-Stevens vs 9-Delfs-Abernethy
+  140          2.50   2.50 13-Mohrman-Anderson vs 2-Miller-Sieg
+        120    1.00   4.00 14-Tipton-Hesson vs 10-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   2.00 1-Rind-Waggoner vs 5-Hendrickson-Miller
+  730          5.00   0.00 4-Christie-Galer vs 11-Jarvis-Ruprecht
+  200          4.00   1.00 6-Pauley-Kasperkiewicz vs 7-Taylor-Pesce
+  100          2.00   3.00 12-Christensen-Stevens vs 9-Delfs-Abernethy
+        140    1.00   4.00 13-Mohrman-Anderson vs 2-Miller-Sieg
+        660    0.00   5.00 14-Tipton-Hesson vs 10-Zaugg-Wright
+----------------------------------------------------------------------
