@@ -1,0 +1,397 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>October 22, 2024   |CLUB NO.>158048    | 10/22/2024 21:46
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=4/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Stanford Christie      Corneliu Galer           A    1     .     .    106.50  63.39  0.80(A) 
+
+ 2 Brian Zaugg            Mike Ring                B    3     1     .     87.50  52.08  0.40(A) 
+
+ 3 Nick Tipton            Galen Hesson             B    .     .     .     76.50  45.54          
+
+ 4 Sue Anderson           David Taylor             A    .     .     .     87.00  51.79          
+
+ 5 Genie Thai-May         Zhenghong Sun            C    .     .     .     73.00  43.45          
+
+ 6 Ray Miller             Aaron Mohrman            A    2     .     .     89.00  52.98  0.56(A) 
+
+ 7 Eric Sieg              Becky Stevens            A    .     .     .     72.50  43.15          
+
+ 8 Yiyang Zhao            Jin Wang                 C    .     2     1     80.00  47.62  0.22(B) 
+
+
+                                          Totals                         672.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>October 22, 2024   |CLUB NO.>158048    | 10/22/2024 21:46
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=6/C=5                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Hugh Hendrickson       Laura Miller             C    .     .     .     65.00  38.69          
+
+ 2 Susan Waggoner         Brad Rind                C    .     .     .     71.00  42.26          
+
+ 3 Mike Christensen       David Wright             A    3     .     .     95.00  56.55  0.40(A) 
+
+ 4 Oyvind Tafjord         Shawn Abernethy          B    .     2     .     93.50  55.65  0.34(B) 
+
+ 5 Kim Eng                Jeffrey Ford             A   1/2    .     .     95.50  56.85  0.68(A) 
+
+ 6 Christopher Jarvis     Adam Ruprecht            C    .     .     2     80.50  47.92  0.28(C) 
+
+ 7 Craig Mills            Lisa Brock               C    .     .     .     76.00  45.24          
+
+ 8 Joseph Grill           Valliappa Lakshmanan     C   1/2    1     1     95.50  56.85  0.68(A) 
+
+
+                                          Totals                         672.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        590    1.00   6.00 1-Christie-Galer vs 1-Hendrickson-Miller
+        420    3.00   4.00 2-Zaugg-Ring vs 3-Christensen-Wright
+        170    4.50   2.50 3-Tipton-Hesson vs 5-Eng-Ford
+        170    4.50   2.50 4-Anderson-Taylor vs 7-Mills-Brock
+        590    1.00   6.00 5-Thai-May-Sun vs 2-Waggoner-Rind
+        140    6.00   1.00 6-Miller-Mohrman vs 4-Tafjord-Abernethy
+        590    1.00   6.00 7-Sieg-Stevens vs 6-Jarvis-Ruprecht
+        100    7.00   0.00 8-Zhao-Wang vs 8-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.00   5.00 1-Christie-Galer vs 1-Hendrickson-Miller
+ 1430          5.00   2.00 2-Zaugg-Ring vs 3-Christensen-Wright
+  680          2.00   5.00 3-Tipton-Hesson vs 5-Eng-Ford
+ 1430          5.00   2.00 4-Anderson-Taylor vs 7-Mills-Brock
+ 1430          5.00   2.00 5-Thai-May-Sun vs 2-Waggoner-Rind
+        100    0.00   7.00 6-Miller-Mohrman vs 4-Tafjord-Abernethy
+ 1440          7.00   0.00 7-Sieg-Stevens vs 6-Jarvis-Ruprecht
+  680          2.00   5.00 8-Zhao-Wang vs 8-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   5.50 1-Christie-Galer vs 1-Hendrickson-Miller
+        620    1.50   5.50 2-Zaugg-Ring vs 3-Christensen-Wright
+  100          5.50   1.50 3-Tipton-Hesson vs 5-Eng-Ford
+        150    3.00   4.00 4-Anderson-Taylor vs 7-Mills-Brock
+  100          5.50   1.50 5-Thai-May-Sun vs 2-Waggoner-Rind
+  100          5.50   1.50 6-Miller-Mohrman vs 4-Tafjord-Abernethy
+  100          5.50   1.50 7-Sieg-Stevens vs 6-Jarvis-Ruprecht
+        650    0.00   7.00 8-Zhao-Wang vs 8-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.00   4.00 1-Christie-Galer vs 8-Grill-Lakshmanan
+        140    6.00   1.00 2-Zaugg-Ring vs 2-Waggoner-Rind
+        210    2.00   5.00 3-Tipton-Hesson vs 4-Tafjord-Abernethy
+        170    4.50   2.50 4-Anderson-Taylor vs 6-Jarvis-Ruprecht
+        300    1.00   6.00 5-Thai-May-Sun vs 1-Hendrickson-Miller
+        170    4.50   2.50 6-Miller-Mohrman vs 3-Christensen-Wright
+        660    0.00   7.00 7-Sieg-Stevens vs 5-Eng-Ford
+  100          7.00   0.00 8-Zhao-Wang vs 7-Mills-Brock
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    7.00   0.00 1-Christie-Galer vs 8-Grill-Lakshmanan
+        460    0.50   6.50 2-Zaugg-Ring vs 2-Waggoner-Rind
+        460    0.50   6.50 3-Tipton-Hesson vs 4-Tafjord-Abernethy
+        430    4.00   3.00 4-Anderson-Taylor vs 6-Jarvis-Ruprecht
+        430    4.00   3.00 5-Thai-May-Sun vs 1-Hendrickson-Miller
+        430    4.00   3.00 6-Miller-Mohrman vs 3-Christensen-Wright
+        430    4.00   3.00 7-Sieg-Stevens vs 5-Eng-Ford
+        430    4.00   3.00 8-Zhao-Wang vs 7-Mills-Brock
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.50   0.50 1-Christie-Galer vs 8-Grill-Lakshmanan
+  100          6.50   0.50 2-Zaugg-Ring vs 2-Waggoner-Rind
+        600    4.50   2.50 3-Tipton-Hesson vs 4-Tafjord-Abernethy
+        660    2.00   5.00 4-Anderson-Taylor vs 6-Jarvis-Ruprecht
+        660    2.00   5.00 5-Thai-May-Sun vs 1-Hendrickson-Miller
+        660    2.00   5.00 6-Miller-Mohrman vs 3-Christensen-Wright
+        690    0.00   7.00 7-Sieg-Stevens vs 5-Eng-Ford
+        600    4.50   2.50 8-Zhao-Wang vs 7-Mills-Brock
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   5.50 1-Christie-Galer vs 7-Mills-Brock
+  140          6.50   0.50 2-Zaugg-Ring vs 1-Hendrickson-Miller
+  110          5.00   2.00 3-Tipton-Hesson vs 3-Christensen-Wright
+        100    1.50   5.50 4-Anderson-Taylor vs 5-Eng-Ford
+        100    1.50   5.50 5-Thai-May-Sun vs 8-Grill-Lakshmanan
+   90          4.00   3.00 6-Miller-Mohrman vs 2-Waggoner-Rind
+  140          6.50   0.50 7-Sieg-Stevens vs 4-Tafjord-Abernethy
+        100    1.50   5.50 8-Zhao-Wang vs 6-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    7.00   0.00 1-Christie-Galer vs 7-Mills-Brock
+        200    5.50   1.50 2-Zaugg-Ring vs 1-Hendrickson-Miller
+        450    2.00   5.00 3-Tipton-Hesson vs 3-Christensen-Wright
+        450    2.00   5.00 4-Anderson-Taylor vs 5-Eng-Ford
+        450    2.00   5.00 5-Thai-May-Sun vs 8-Grill-Lakshmanan
+        450    2.00   5.00 6-Miller-Mohrman vs 2-Waggoner-Rind
+        450    2.00   5.00 7-Sieg-Stevens vs 4-Tafjord-Abernethy
+        200    5.50   1.50 8-Zhao-Wang vs 6-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   1.00 1-Christie-Galer vs 7-Mills-Brock
+  100          6.00   1.00 2-Zaugg-Ring vs 1-Hendrickson-Miller
+    PASS       2.50   4.50 3-Tipton-Hesson vs 3-Christensen-Wright
+    PASS       2.50   4.50 4-Anderson-Taylor vs 5-Eng-Ford
+   90          4.00   3.00 5-Thai-May-Sun vs 8-Grill-Lakshmanan
+  100          6.00   1.00 6-Miller-Mohrman vs 2-Waggoner-Rind
+        120    0.00   7.00 7-Sieg-Stevens vs 4-Tafjord-Abernethy
+        110    1.00   6.00 8-Zhao-Wang vs 6-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          6.50   0.50 1-Christie-Galer vs 6-Jarvis-Ruprecht
+        100    3.50   3.50 2-Zaugg-Ring vs 8-Grill-Lakshmanan
+        100    3.50   3.50 3-Tipton-Hesson vs 2-Waggoner-Rind
+  620          6.50   0.50 4-Anderson-Taylor vs 4-Tafjord-Abernethy
+        100    3.50   3.50 5-Thai-May-Sun vs 7-Mills-Brock
+        200    0.50   6.50 6-Miller-Mohrman vs 1-Hendrickson-Miller
+        200    0.50   6.50 7-Sieg-Stevens vs 3-Christensen-Wright
+        100    3.50   3.50 8-Zhao-Wang vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          7.00   0.00 1-Christie-Galer vs 6-Jarvis-Ruprecht
+  100          0.00   7.00 2-Zaugg-Ring vs 8-Grill-Lakshmanan
+  140          3.00   4.00 3-Tipton-Hesson vs 2-Waggoner-Rind
+  140          3.00   4.00 4-Anderson-Taylor vs 4-Tafjord-Abernethy
+  140          3.00   4.00 5-Thai-May-Sun vs 7-Mills-Brock
+  150          6.00   1.00 6-Miller-Mohrman vs 1-Hendrickson-Miller
+  140          3.00   4.00 7-Sieg-Stevens vs 3-Christensen-Wright
+  140          3.00   4.00 8-Zhao-Wang vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.50   3.50 1-Christie-Galer vs 6-Jarvis-Ruprecht
+       1100    1.00   6.00 2-Zaugg-Ring vs 8-Grill-Lakshmanan
+        430    3.50   3.50 3-Tipton-Hesson vs 2-Waggoner-Rind
+        430    3.50   3.50 4-Anderson-Taylor vs 4-Tafjord-Abernethy
+        150    7.00   0.00 5-Thai-May-Sun vs 7-Mills-Brock
+        400    6.00   1.00 6-Miller-Mohrman vs 1-Hendrickson-Miller
+        430    3.50   3.50 7-Sieg-Stevens vs 3-Christensen-Wright
+       1400    0.00   7.00 8-Zhao-Wang vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   6.00 1-Christie-Galer vs 5-Eng-Ford
+  130          2.50   4.50 2-Zaugg-Ring vs 7-Mills-Brock
+  300          5.00   2.00 3-Tipton-Hesson vs 1-Hendrickson-Miller
+  170          4.00   3.00 4-Anderson-Taylor vs 3-Christensen-Wright
+  600          6.50   0.50 5-Thai-May-Sun vs 6-Jarvis-Ruprecht
+  130          2.50   4.50 6-Miller-Mohrman vs 8-Grill-Lakshmanan
+        300    0.00   7.00 7-Sieg-Stevens vs 2-Waggoner-Rind
+  600          6.50   0.50 8-Zhao-Wang vs 4-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   1.00 1-Christie-Galer vs 5-Eng-Ford
+        420    1.00   6.00 2-Zaugg-Ring vs 7-Mills-Brock
+  530          7.00   0.00 3-Tipton-Hesson vs 1-Hendrickson-Miller
+        420    1.00   6.00 4-Anderson-Taylor vs 3-Christensen-Wright
+        420    1.00   6.00 5-Thai-May-Sun vs 6-Jarvis-Ruprecht
+   50          5.00   2.00 6-Miller-Mohrman vs 8-Grill-Lakshmanan
+        400    3.00   4.00 7-Sieg-Stevens vs 2-Waggoner-Rind
+        300    4.00   3.00 8-Zhao-Wang vs 4-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.00   0.00 1-Christie-Galer vs 5-Eng-Ford
+        100    2.00   5.00 2-Zaugg-Ring vs 7-Mills-Brock
+  100          5.50   1.50 3-Tipton-Hesson vs 1-Hendrickson-Miller
+   50          3.50   3.50 4-Anderson-Taylor vs 3-Christensen-Wright
+        450    0.00   7.00 5-Thai-May-Sun vs 6-Jarvis-Ruprecht
+   50          3.50   3.50 6-Miller-Mohrman vs 8-Grill-Lakshmanan
+  100          5.50   1.50 7-Sieg-Stevens vs 2-Waggoner-Rind
+        420    1.00   6.00 8-Zhao-Wang vs 4-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   7.00 1-Christie-Galer vs 4-Tafjord-Abernethy
+  980          5.00   2.00 2-Zaugg-Ring vs 6-Jarvis-Ruprecht
+  480          2.00   5.00 3-Tipton-Hesson vs 8-Grill-Lakshmanan
+  980          5.00   2.00 4-Anderson-Taylor vs 2-Waggoner-Rind
+  980          5.00   2.00 5-Thai-May-Sun vs 5-Eng-Ford
+  980          5.00   2.00 6-Miller-Mohrman vs 7-Mills-Brock
+  980          5.00   2.00 7-Sieg-Stevens vs 1-Hendrickson-Miller
+  200          1.00   6.00 8-Zhao-Wang vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   4.00 1-Christie-Galer vs 4-Tafjord-Abernethy
+   50          4.50   2.50 2-Zaugg-Ring vs 6-Jarvis-Ruprecht
+        100    1.50   5.50 3-Tipton-Hesson vs 8-Grill-Lakshmanan
+   50          4.50   2.50 4-Anderson-Taylor vs 2-Waggoner-Rind
+        100    1.50   5.50 5-Thai-May-Sun vs 5-Eng-Ford
+  100          6.50   0.50 6-Miller-Mohrman vs 7-Mills-Brock
+  100          6.50   0.50 7-Sieg-Stevens vs 1-Hendrickson-Miller
+        130    0.00   7.00 8-Zhao-Wang vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.50   1.50 1-Christie-Galer vs 4-Tafjord-Abernethy
+  150          5.50   1.50 2-Zaugg-Ring vs 6-Jarvis-Ruprecht
+  150          5.50   1.50 3-Tipton-Hesson vs 8-Grill-Lakshmanan
+  150          5.50   1.50 4-Anderson-Taylor vs 2-Waggoner-Rind
+  100          1.50   5.50 5-Thai-May-Sun vs 5-Eng-Ford
+  100          1.50   5.50 6-Miller-Mohrman vs 7-Mills-Brock
+  100          1.50   5.50 7-Sieg-Stevens vs 1-Hendrickson-Miller
+  100          1.50   5.50 8-Zhao-Wang vs 3-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   2.00 1-Christie-Galer vs 3-Christensen-Wright
+  800          7.00   0.00 2-Zaugg-Ring vs 5-Eng-Ford
+  510          6.00   1.00 3-Tipton-Hesson vs 7-Mills-Brock
+  110          2.50   4.50 4-Anderson-Taylor vs 1-Hendrickson-Miller
+  110          2.50   4.50 5-Thai-May-Sun vs 4-Tafjord-Abernethy
+        100    0.00   7.00 6-Miller-Mohrman vs 6-Jarvis-Ruprecht
+         50    1.00   6.00 7-Sieg-Stevens vs 8-Grill-Lakshmanan
+  130          4.00   3.00 8-Zhao-Wang vs 2-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.50   2.50 1-Christie-Galer vs 3-Christensen-Wright
+        650    4.50   2.50 2-Zaugg-Ring vs 5-Eng-Ford
+        680    0.50   6.50 3-Tipton-Hesson vs 7-Mills-Brock
+        650    4.50   2.50 4-Anderson-Taylor vs 1-Hendrickson-Miller
+        680    0.50   6.50 5-Thai-May-Sun vs 4-Tafjord-Abernethy
+        650    4.50   2.50 6-Miller-Mohrman vs 6-Jarvis-Ruprecht
+        650    4.50   2.50 7-Sieg-Stevens vs 8-Grill-Lakshmanan
+        650    4.50   2.50 8-Zhao-Wang vs 2-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  720          5.00   2.00 1-Christie-Galer vs 3-Christensen-Wright
+  690          3.00   4.00 2-Zaugg-Ring vs 5-Eng-Ford
+   90          0.00   7.00 3-Tipton-Hesson vs 7-Mills-Brock
+ 1430          6.50   0.50 4-Anderson-Taylor vs 1-Hendrickson-Miller
+  710          4.00   3.00 5-Thai-May-Sun vs 4-Tafjord-Abernethy
+ 1430          6.50   0.50 6-Miller-Mohrman vs 6-Jarvis-Ruprecht
+  680          1.50   5.50 7-Sieg-Stevens vs 8-Grill-Lakshmanan
+  680          1.50   5.50 8-Zhao-Wang vs 2-Waggoner-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   4.00 1-Christie-Galer vs 2-Waggoner-Rind
+  800          7.00   0.00 2-Zaugg-Ring vs 4-Tafjord-Abernethy
+        790    0.00   7.00 3-Tipton-Hesson vs 6-Jarvis-Ruprecht
+        100    1.50   5.50 4-Anderson-Taylor vs 8-Grill-Lakshmanan
+  200          5.50   1.50 5-Thai-May-Sun vs 3-Christensen-Wright
+  100          4.00   3.00 6-Miller-Mohrman vs 5-Eng-Ford
+        100    1.50   5.50 7-Sieg-Stevens vs 7-Mills-Brock
+  200          5.50   1.50 8-Zhao-Wang vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          7.00   0.00 1-Christie-Galer vs 2-Waggoner-Rind
+        200    0.00   7.00 2-Zaugg-Ring vs 4-Tafjord-Abernethy
+   90          2.50   4.50 3-Tipton-Hesson vs 6-Jarvis-Ruprecht
+   90          2.50   4.50 4-Anderson-Taylor vs 8-Grill-Lakshmanan
+  150          5.00   2.00 5-Thai-May-Sun vs 3-Christensen-Wright
+        100    1.00   6.00 6-Miller-Mohrman vs 5-Eng-Ford
+  110          4.00   3.00 7-Sieg-Stevens vs 7-Mills-Brock
+  380          6.00   1.00 8-Zhao-Wang vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          7.00   0.00 1-Christie-Galer vs 2-Waggoner-Rind
+         50    0.50   6.50 2-Zaugg-Ring vs 4-Tafjord-Abernethy
+  100          2.50   4.50 3-Tipton-Hesson vs 6-Jarvis-Ruprecht
+  120          4.00   3.00 4-Anderson-Taylor vs 8-Grill-Lakshmanan
+         50    0.50   6.50 5-Thai-May-Sun vs 3-Christensen-Wright
+  100          2.50   4.50 6-Miller-Mohrman vs 5-Eng-Ford
+  130          5.50   1.50 7-Sieg-Stevens vs 7-Mills-Brock
+  130          5.50   1.50 8-Zhao-Wang vs 1-Hendrickson-Miller
+----------------------------------------------------------------------
