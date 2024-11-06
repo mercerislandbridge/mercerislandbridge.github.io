@@ -1,0 +1,252 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 5, 2024   |CLUB NO.>158048    | 11/05/2024 21:15
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   25.0 |TOP>   2 |MP LIMITS>None/5000/2500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=6/B=5/C=1                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Ring              Mike Christensen         B   1     1     .   |   1     1     .     27.00  54.00  1.90(OA)
+
+ 2 Dave Grubbs            Jeffrey Ford             A  2/4    .     .   |  2/4    .     .     26.00  52.00  1.10(OA)
+
+ 3 Christopher Jarvis     Adam Ruprecht            C  2/4   2/3    .   |  2/4   2/3    .     26.00  52.00  1.10(OA)
+
+ 4 Brian Zaugg            Shawn Abernethy          B  2/4   2/3    .   |  2/4   2/3    .     26.00  52.00  1.10(OA)
+
+ 5 Kim Eng                Chris Moore              B   .     .     .   |   .     .     .     25.00  50.00          
+
+ 6 Nick Tipton            Galen Hesson             B   .     .     .   |   .     .     .     20.00  40.00          
+
+
+                                          Totals                                            150.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          2.00   0.00 4-Zaugg-Abernethy vs 2-Grubbs-Ford
+  430          0.50   1.50 5-Eng-Moore vs 3-Jarvis-Ruprecht
+  430          0.50   1.50 6-Tipton-Hesson vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.50   0.50 4-Zaugg-Abernethy vs 2-Grubbs-Ford
+        690    0.00   2.00 5-Eng-Moore vs 3-Jarvis-Ruprecht
+        450    1.50   0.50 6-Tipton-Hesson vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          1.00   1.00 4-Zaugg-Abernethy vs 2-Grubbs-Ford
+  180          1.00   1.00 5-Eng-Moore vs 3-Jarvis-Ruprecht
+  180          1.00   1.00 6-Tipton-Hesson vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  760          2.00   0.00 4-Zaugg-Abernethy vs 2-Grubbs-Ford
+  100          1.00   1.00 5-Eng-Moore vs 3-Jarvis-Ruprecht
+         90    0.00   2.00 6-Tipton-Hesson vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.50   0.50 4-Zaugg-Abernethy vs 2-Grubbs-Ford
+  150          1.50   0.50 5-Eng-Moore vs 3-Jarvis-Ruprecht
+  120          0.00   2.00 6-Tipton-Hesson vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          0.50   1.50 1-Ring-Christensen vs 5-Eng-Moore
+  920          2.00   0.00 4-Zaugg-Abernethy vs 3-Jarvis-Ruprecht
+  420          0.50   1.50 6-Tipton-Hesson vs 2-Grubbs-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    1.00   1.00 1-Ring-Christensen vs 5-Eng-Moore
+        630    1.00   1.00 4-Zaugg-Abernethy vs 3-Jarvis-Ruprecht
+        630    1.00   1.00 6-Tipton-Hesson vs 2-Grubbs-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.00   1.00 1-Ring-Christensen vs 5-Eng-Moore
+        420    1.00   1.00 4-Zaugg-Abernethy vs 3-Jarvis-Ruprecht
+        420    1.00   1.00 6-Tipton-Hesson vs 2-Grubbs-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.00   1.00 1-Ring-Christensen vs 5-Eng-Moore
+        100    0.00   2.00 4-Zaugg-Abernethy vs 3-Jarvis-Ruprecht
+  500          2.00   0.00 6-Tipton-Hesson vs 2-Grubbs-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          1.50   0.50 1-Ring-Christensen vs 5-Eng-Moore
+  500          1.50   0.50 4-Zaugg-Abernethy vs 3-Jarvis-Ruprecht
+        100    0.00   2.00 6-Tipton-Hesson vs 2-Grubbs-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.00   1.00 2-Grubbs-Ford vs 1-Ring-Christensen
+        300    0.00   2.00 5-Eng-Moore vs 4-Zaugg-Abernethy
+  100          2.00   0.00 6-Tipton-Hesson vs 3-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   2.00 2-Grubbs-Ford vs 1-Ring-Christensen
+  800          2.00   0.00 5-Eng-Moore vs 4-Zaugg-Abernethy
+  100          1.00   1.00 6-Tipton-Hesson vs 3-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   0.00 2-Grubbs-Ford vs 1-Ring-Christensen
+        140    1.00   1.00 5-Eng-Moore vs 4-Zaugg-Abernethy
+        170    0.00   2.00 6-Tipton-Hesson vs 3-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.50   0.50 2-Grubbs-Ford vs 1-Ring-Christensen
+  430          1.50   0.50 5-Eng-Moore vs 4-Zaugg-Abernethy
+  400          0.00   2.00 6-Tipton-Hesson vs 3-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          2.00   0.00 2-Grubbs-Ford vs 1-Ring-Christensen
+  710          1.00   1.00 5-Eng-Moore vs 4-Zaugg-Abernethy
+        100    0.00   2.00 6-Tipton-Hesson vs 3-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   1.00 2-Grubbs-Ford vs 5-Eng-Moore
+         50    1.00   1.00 3-Jarvis-Ruprecht vs 1-Ring-Christensen
+         50    1.00   1.00 6-Tipton-Hesson vs 4-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        470    0.50   1.50 2-Grubbs-Ford vs 5-Eng-Moore
+        100    2.00   0.00 3-Jarvis-Ruprecht vs 1-Ring-Christensen
+        470    0.50   1.50 6-Tipton-Hesson vs 4-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   0.50 2-Grubbs-Ford vs 5-Eng-Moore
+  100          1.50   0.50 3-Jarvis-Ruprecht vs 1-Ring-Christensen
+   50          0.00   2.00 6-Tipton-Hesson vs 4-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1370    0.50   1.50 2-Grubbs-Ford vs 5-Eng-Moore
+       1370    0.50   1.50 3-Jarvis-Ruprecht vs 1-Ring-Christensen
+        660    2.00   0.00 6-Tipton-Hesson vs 4-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   1.00 2-Grubbs-Ford vs 5-Eng-Moore
+        140    1.00   1.00 3-Jarvis-Ruprecht vs 1-Ring-Christensen
+        140    1.00   1.00 6-Tipton-Hesson vs 4-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   2.00 1-Ring-Christensen vs 4-Zaugg-Abernethy
+        100    1.00   1.00 3-Jarvis-Ruprecht vs 2-Grubbs-Ford
+   50          2.00   0.00 6-Tipton-Hesson vs 5-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   0.50 1-Ring-Christensen vs 4-Zaugg-Abernethy
+        680    0.00   2.00 3-Jarvis-Ruprecht vs 2-Grubbs-Ford
+        650    1.50   0.50 6-Tipton-Hesson vs 5-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.00   0.00 1-Ring-Christensen vs 4-Zaugg-Abernethy
+        100    1.00   1.00 3-Jarvis-Ruprecht vs 2-Grubbs-Ford
+        200    0.00   2.00 6-Tipton-Hesson vs 5-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.00   0.00 1-Ring-Christensen vs 4-Zaugg-Abernethy
+        170    0.50   1.50 3-Jarvis-Ruprecht vs 2-Grubbs-Ford
+        170    0.50   1.50 6-Tipton-Hesson vs 5-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   0.00 1-Ring-Christensen vs 4-Zaugg-Abernethy
+        620    0.00   2.00 3-Jarvis-Ruprecht vs 2-Grubbs-Ford
+        600    1.00   1.00 6-Tipton-Hesson vs 5-Eng-Moore
+----------------------------------------------------------------------
