@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>October 29, 2024   |CLUB NO.>158048    | 10/29/2024 21:58
+DATE>October 29, 2024   |CLUB NO.>158048    | 11/05/2024 18:16
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,29 +11,29 @@ PAIRS IN STRAT A=11/B=8/C=6                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Hugh Hendrickson       Laura Miller             C    .     .     .     45.00  41.67          
+ 1 Hugh Hendrickson       Laura Miller             C    .     .     .     43.88  40.63          
 
- 2 Corneliu Galer         Stanford Christie        A   2/3    .     .     64.13  59.38  0.66(A) 
+ 2 Corneliu Galer         Stanford Christie        A    2     .     .     64.13  59.38  0.77(A) 
 
- 3 Donald Kossmann        Kedar Dubhashi           C    .     .     .     51.19  47.40          
+ 3 Donald Kossmann        Kedar Dubhashi           C    .     .     .     55.69  51.56          
 
- 4 Christopher Jarvis     Valliappa Lakshmanan     C    .     2     1     57.38  53.13  0.48(C) 
+ 4 Christopher Jarvis     Valliappa Lakshmanan     C    .     2     1     58.50  54.17  0.48(C) 
 
- 5 Kim Eng                Adam Ruprecht            B    4     1     .     59.63  55.21  0.64(B) 
+ 5 Kim Eng                Adam Ruprecht            B    4     1     .     60.75  56.25  0.64(B) 
 
- 6 David Taylor           Jeffrey Ford             A   2/3    .     .     64.13  59.38  0.66(A) 
+ 6 David Taylor           Jeffrey Ford             A    3     .     .     63.00  58.33  0.55(A) 
 
- 7 Mike Christensen       Becky Stevens            A    1     .     .     71.44  66.15  1.10(A) 
+ 7 Mike Christensen       Becky Stevens            A    1     .     .     66.94  61.98  1.10(A) 
 
- 8 Genie Thai-May         Zhenghong Sun            C    .     3     2     56.81  52.60  0.34(C) 
+ 8 Genie Thai-May         Zhenghong Sun            C    .     3     2     57.94  53.65  0.34(C) 
 
- 9 Jeremy Gulley          Shannon Kasperkiewicz    C    .     .     .     38.25  35.42          
+ 9 Jeremy Gulley          Shannon Kasperkiewicz    C    .     .     .     37.13  34.38          
 
-10 Aaron Mohrman          Sue Anderson             C    .     .     .     48.00  44.44          
+10 Aaron Mohrman          Sue Anderson             C    .     .     .     47.00  43.52          
 
 
 
-12 Nick Tipton            Galen Hesson             B    .     .     .     40.50  37.50          
+12 Nick Tipton            Galen Hesson             B    .     .     .     41.50  38.43          
 
 
                                           Totals                         596.46       
@@ -317,11 +317,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  200          3.00   1.00 4-Jarvis-Lakshmanan vs 1-Hendrickson-Miller
-        100    0.00   4.00 5-Eng-Ruprecht vs 10-Mohrman-Anderson
-  800          4.00   0.00 7-Christensen-Stevens vs 3-Kossmann-Dubhashi
-         90    1.00   3.00 8-Thai-May-Sun vs 6-Taylor-Ford
-  100          2.00   2.00 12-Tipton-Hesson vs 9-Gulley-Kasperkiewicz
+  200          4.00   0.00 4-Jarvis-Lakshmanan vs 1-Hendrickson-Miller
+        100    1.00   3.00 5-Eng-Ruprecht vs 10-Mohrman-Anderson
+        800    0.00   4.00 7-Christensen-Stevens vs 3-Kossmann-Dubhashi
+         90    2.00   2.00 8-Thai-May-Sun vs 6-Taylor-Ford
+  100          3.00   1.00 12-Tipton-Hesson vs 9-Gulley-Kasperkiewicz
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 27
