@@ -1,0 +1,367 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 12, 2024  |CLUB NO.>158048    | 11/12/2024 21:57
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/2500/1300 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=7/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Corneliu Galer         Stanford Christie        A   2/3    .     .     76.50  56.67  0.78(A) 
+
+ 2 Shawn Abernethy        Brian Zaugg              A    .     .     .     64.13  47.50          
+
+ 3 Chris Pesce            David Taylor             A    5     .     .     70.88  52.50  0.26(A) 
+
+ 4 Dong Yan               Dong Wei                 B    .     2     .     69.19  51.25  0.39(B) 
+
+ 5 Hugh Hendrickson       Laura Miller             C    .     .     .     61.88  45.84          
+
+ 6 Brad Rind              Susan Waggoner           C    .     3     2     66.94  49.59  0.28(B) 
+
+ 7 Oyvind Tafjord         Sue Anderson             B    .     .     .     65.25  48.33          
+
+ 8 Mike Christensen       Mike Ring                A    .     .     .     69.75  51.67          
+
+ 9 Genie Thai-May         Zhenghong Sun            C    .     .     .     55.13  40.84          
+
+10 Nick Tipton            Galen Hesson             B    .     .     .     51.00  37.78          
+
+11 Jin Wang               Yiyang Zhao              C    1     1     1     77.50  57.41  1.30(A) 
+
+12 Kim Eng                Eric Sieg                A   2/3    .     .     76.50  56.67  0.78(A) 
+
+13 Ray Miller             Kevin Cline              A    4     .     .     72.00  53.33  0.46(A) 
+
+
+
+
+                                          Totals                         876.65       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 3-Pesce-Taylor vs 11-Wang-Zhao
+        100    0.50   4.50 6-Rind-Waggoner vs 10-Tipton-Hesson
+  170          3.00   2.00 8-Christensen-Ring vs 4-Yan-Wei
+         50    2.00   3.00 9-Thai-May-Sun vs 7-Tafjord-Anderson
+  500          5.00   0.00 12-Eng-Sieg vs 1-Galer-Christie
+  420          4.00   1.00 13-Miller-Cline vs 2-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   2.00 3-Pesce-Taylor vs 11-Wang-Zhao
+        170    3.00   2.00 6-Rind-Waggoner vs 10-Tipton-Hesson
+        140    5.00   0.00 8-Christensen-Ring vs 4-Yan-Wei
+        170    3.00   2.00 9-Thai-May-Sun vs 7-Tafjord-Anderson
+        420    0.00   5.00 12-Eng-Sieg vs 1-Galer-Christie
+        200    1.00   4.00 13-Miller-Cline vs 2-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.00   3.00 3-Pesce-Taylor vs 11-Wang-Zhao
+  430          3.50   1.50 6-Rind-Waggoner vs 10-Tipton-Hesson
+  130          1.00   4.00 8-Christensen-Ring vs 4-Yan-Wei
+         50    0.00   5.00 9-Thai-May-Sun vs 7-Tafjord-Anderson
+  430          3.50   1.50 12-Eng-Sieg vs 1-Galer-Christie
+  460          5.00   0.00 13-Miller-Cline vs 2-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   3.00 1-Galer-Christie vs 8-Christensen-Ring
+        140    0.00   5.00 7-Tafjord-Anderson vs 10-Tipton-Hesson
+        110    2.00   3.00 9-Thai-May-Sun vs 5-Hendrickson-Miller
+        110    2.00   3.00 11-Wang-Zhao vs 4-Yan-Wei
+  100          4.50   0.50 12-Eng-Sieg vs 2-Abernethy-Zaugg
+  100          4.50   0.50 13-Miller-Cline vs 3-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    0.50   4.50 1-Galer-Christie vs 8-Christensen-Ring
+        140    5.00   0.00 7-Tafjord-Anderson vs 10-Tipton-Hesson
+        420    3.00   2.00 9-Thai-May-Sun vs 5-Hendrickson-Miller
+        230    4.00   1.00 11-Wang-Zhao vs 4-Yan-Wei
+        450    2.00   3.00 12-Eng-Sieg vs 2-Abernethy-Zaugg
+        480    0.50   4.50 13-Miller-Cline vs 3-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   2.00 1-Galer-Christie vs 8-Christensen-Ring
+  420          3.00   2.00 7-Tafjord-Anderson vs 10-Tipton-Hesson
+  420          3.00   2.00 9-Thai-May-Sun vs 5-Hendrickson-Miller
+  170          0.00   5.00 11-Wang-Zhao vs 4-Yan-Wei
+  420          3.00   2.00 12-Eng-Sieg vs 2-Abernethy-Zaugg
+  420          3.00   2.00 13-Miller-Cline vs 3-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1460          3.00   2.00 1-Galer-Christie vs 6-Rind-Waggoner
+ 1460          3.00   2.00 2-Abernethy-Zaugg vs 9-Thai-May-Sun
+ 1460          3.00   2.00 10-Tipton-Hesson vs 8-Christensen-Ring
+  710          0.00   5.00 11-Wang-Zhao vs 5-Hendrickson-Miller
+ 1460          3.00   2.00 12-Eng-Sieg vs 3-Pesce-Taylor
+ 1460          3.00   2.00 13-Miller-Cline vs 4-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          5.00   0.00 1-Galer-Christie vs 6-Rind-Waggoner
+  150          1.00   4.00 2-Abernethy-Zaugg vs 9-Thai-May-Sun
+   50          0.00   5.00 10-Tipton-Hesson vs 8-Christensen-Ring
+  400          3.50   1.50 11-Wang-Zhao vs 5-Hendrickson-Miller
+  180          2.00   3.00 12-Eng-Sieg vs 3-Pesce-Taylor
+  400          3.50   1.50 13-Miller-Cline vs 4-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 1-Galer-Christie vs 6-Rind-Waggoner
+         50    1.00   4.00 2-Abernethy-Zaugg vs 9-Thai-May-Sun
+  300          4.00   1.00 10-Tipton-Hesson vs 8-Christensen-Ring
+  170          3.00   2.00 11-Wang-Zhao vs 5-Hendrickson-Miller
+ 1100          5.00   0.00 12-Eng-Sieg vs 3-Pesce-Taylor
+  140          2.00   3.00 13-Miller-Cline vs 4-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 2-Abernethy-Zaugg vs 7-Tafjord-Anderson
+        630    0.50   4.50 3-Pesce-Taylor vs 1-Galer-Christie
+        600    2.00   3.00 10-Tipton-Hesson vs 9-Thai-May-Sun
+  100          4.00   1.00 11-Wang-Zhao vs 6-Rind-Waggoner
+        630    0.50   4.50 12-Eng-Sieg vs 4-Yan-Wei
+  100          4.00   1.00 13-Miller-Cline vs 5-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   2.50 2-Abernethy-Zaugg vs 7-Tafjord-Anderson
+  140          2.50   2.50 3-Pesce-Taylor vs 1-Galer-Christie
+         50    0.00   5.00 10-Tipton-Hesson vs 9-Thai-May-Sun
+  170          5.00   0.00 11-Wang-Zhao vs 6-Rind-Waggoner
+  140          2.50   2.50 12-Eng-Sieg vs 4-Yan-Wei
+  140          2.50   2.50 13-Miller-Cline vs 5-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   2.00 2-Abernethy-Zaugg vs 7-Tafjord-Anderson
+   50          3.00   2.00 3-Pesce-Taylor vs 1-Galer-Christie
+        420    0.00   5.00 10-Tipton-Hesson vs 9-Thai-May-Sun
+   50          3.00   2.00 11-Wang-Zhao vs 6-Rind-Waggoner
+   50          3.00   2.00 12-Eng-Sieg vs 4-Yan-Wei
+   50          3.00   2.00 13-Miller-Cline vs 5-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          5.00   0.00 1-Galer-Christie vs 10-Tipton-Hesson
+  600          2.50   2.50 3-Pesce-Taylor vs 8-Christensen-Ring
+  600          2.50   2.50 4-Yan-Wei vs 2-Abernethy-Zaugg
+  600          2.50   2.50 7-Tafjord-Anderson vs 11-Wang-Zhao
+  600          2.50   2.50 12-Eng-Sieg vs 5-Hendrickson-Miller
+        100    0.00   5.00 13-Miller-Cline vs 6-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.50   3.50 1-Galer-Christie vs 10-Tipton-Hesson
+  420          3.00   2.00 3-Pesce-Taylor vs 8-Christensen-Ring
+  500          4.00   1.00 4-Yan-Wei vs 2-Abernethy-Zaugg
+   50          0.00   5.00 7-Tafjord-Anderson vs 11-Wang-Zhao
+  170          1.50   3.50 12-Eng-Sieg vs 5-Hendrickson-Miller
+  800          5.00   0.00 13-Miller-Cline vs 6-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.50   0.50 1-Galer-Christie vs 10-Tipton-Hesson
+  600          3.00   2.00 3-Pesce-Taylor vs 8-Christensen-Ring
+        100    0.50   4.50 4-Yan-Wei vs 2-Abernethy-Zaugg
+  630          4.50   0.50 7-Tafjord-Anderson vs 11-Wang-Zhao
+  140          2.00   3.00 12-Eng-Sieg vs 5-Hendrickson-Miller
+        100    0.50   4.50 13-Miller-Cline vs 6-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.00   2.00 2-Abernethy-Zaugg vs 10-Tipton-Hesson
+  150          5.00   0.00 4-Yan-Wei vs 9-Thai-May-Sun
+  120          2.00   3.00 5-Hendrickson-Miller vs 3-Pesce-Taylor
+  140          4.00   1.00 8-Christensen-Ring vs 11-Wang-Zhao
+  110          1.00   4.00 12-Eng-Sieg vs 6-Rind-Waggoner
+        100    0.00   5.00 13-Miller-Cline vs 7-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.50   0.50 2-Abernethy-Zaugg vs 10-Tipton-Hesson
+  100          1.00   4.00 4-Yan-Wei vs 9-Thai-May-Sun
+  100          1.00   4.00 5-Hendrickson-Miller vs 3-Pesce-Taylor
+  100          1.00   4.00 8-Christensen-Ring vs 11-Wang-Zhao
+  170          3.00   2.00 12-Eng-Sieg vs 6-Rind-Waggoner
+  420          4.50   0.50 13-Miller-Cline vs 7-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   2.00 2-Abernethy-Zaugg vs 10-Tipton-Hesson
+   50          4.50   0.50 4-Yan-Wei vs 9-Thai-May-Sun
+        480    1.00   4.00 5-Hendrickson-Miller vs 3-Pesce-Taylor
+        480    1.00   4.00 8-Christensen-Ring vs 11-Wang-Zhao
+   50          4.50   0.50 12-Eng-Sieg vs 6-Rind-Waggoner
+        480    1.00   4.00 13-Miller-Cline vs 7-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.00   4.00 5-Hendrickson-Miller vs 1-Galer-Christie
+ 1010          5.00   0.00 6-Rind-Waggoner vs 4-Yan-Wei
+         50    0.00   5.00 10-Tipton-Hesson vs 3-Pesce-Taylor
+  460          4.00   1.00 11-Wang-Zhao vs 9-Thai-May-Sun
+  450          2.50   2.50 12-Eng-Sieg vs 7-Tafjord-Anderson
+  450          2.50   2.50 13-Miller-Cline vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   3.00 5-Hendrickson-Miller vs 1-Galer-Christie
+        200    0.00   5.00 6-Rind-Waggoner vs 4-Yan-Wei
+        100    2.00   3.00 10-Tipton-Hesson vs 3-Pesce-Taylor
+  620          4.00   1.00 11-Wang-Zhao vs 9-Thai-May-Sun
+  650          5.00   0.00 12-Eng-Sieg vs 7-Tafjord-Anderson
+        100    2.00   3.00 13-Miller-Cline vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.50   3.50 5-Hendrickson-Miller vs 1-Galer-Christie
+  680          4.50   0.50 6-Rind-Waggoner vs 4-Yan-Wei
+  650          1.50   3.50 10-Tipton-Hesson vs 3-Pesce-Taylor
+  680          4.50   0.50 11-Wang-Zhao vs 9-Thai-May-Sun
+  650          1.50   3.50 12-Eng-Sieg vs 7-Tafjord-Anderson
+  650          1.50   3.50 13-Miller-Cline vs 8-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          2.50   2.50 6-Rind-Waggoner vs 2-Abernethy-Zaugg
+  980          2.50   2.50 7-Tafjord-Anderson vs 5-Hendrickson-Miller
+  980          2.50   2.50 10-Tipton-Hesson vs 4-Yan-Wei
+  980          2.50   2.50 11-Wang-Zhao vs 1-Galer-Christie
+  980          2.50   2.50 12-Eng-Sieg vs 8-Christensen-Ring
+  980          2.50   2.50 13-Miller-Cline vs 9-Thai-May-Sun
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   3.50 6-Rind-Waggoner vs 2-Abernethy-Zaugg
+        140    1.50   3.50 7-Tafjord-Anderson vs 5-Hendrickson-Miller
+        140    1.50   3.50 10-Tipton-Hesson vs 4-Yan-Wei
+        140    1.50   3.50 11-Wang-Zhao vs 1-Galer-Christie
+  110          4.50   0.50 12-Eng-Sieg vs 8-Christensen-Ring
+  110          4.50   0.50 13-Miller-Cline vs 9-Thai-May-Sun
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   1.00 6-Rind-Waggoner vs 2-Abernethy-Zaugg
+        420    1.50   3.50 7-Tafjord-Anderson vs 5-Hendrickson-Miller
+        140    3.00   2.00 10-Tipton-Hesson vs 4-Yan-Wei
+        420    1.50   3.50 11-Wang-Zhao vs 1-Galer-Christie
+        500    0.00   5.00 12-Eng-Sieg vs 8-Christensen-Ring
+   50          5.00   0.00 13-Miller-Cline vs 9-Thai-May-Sun
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   4.00 2-Abernethy-Zaugg vs 11-Wang-Zhao
+  300          5.00   0.00 5-Hendrickson-Miller vs 10-Tipton-Hesson
+        140    0.00   5.00 7-Tafjord-Anderson vs 3-Pesce-Taylor
+        100    2.00   3.00 8-Christensen-Ring vs 6-Rind-Waggoner
+  200          4.00   1.00 12-Eng-Sieg vs 9-Thai-May-Sun
+  100          3.00   2.00 13-Miller-Cline vs 1-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.50   4.50 2-Abernethy-Zaugg vs 11-Wang-Zhao
+        300    0.50   4.50 5-Hendrickson-Miller vs 10-Tipton-Hesson
+        100    2.50   2.50 7-Tafjord-Anderson vs 3-Pesce-Taylor
+  110          4.00   1.00 8-Christensen-Ring vs 6-Rind-Waggoner
+  170          5.00   0.00 12-Eng-Sieg vs 9-Thai-May-Sun
+        100    2.50   2.50 13-Miller-Cline vs 1-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   0.00 2-Abernethy-Zaugg vs 11-Wang-Zhao
+   90          1.50   3.50 5-Hendrickson-Miller vs 10-Tipton-Hesson
+  120          4.00   1.00 7-Tafjord-Anderson vs 3-Pesce-Taylor
+   50          0.00   5.00 8-Christensen-Ring vs 6-Rind-Waggoner
+  100          3.00   2.00 12-Eng-Sieg vs 9-Thai-May-Sun
+   90          1.50   3.50 13-Miller-Cline vs 1-Galer-Christie
+----------------------------------------------------------------------
