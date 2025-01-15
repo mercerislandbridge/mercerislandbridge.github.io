@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>January 14, 2025   |CLUB NO.>158048    | 01/14/2025 21:58
+---------------------,-- ------------------- -------------,---------------------
+DIR> Aaron/Kim       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=7/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Dong Yan               Dong Wei                 B    5     1     .     64.70  53.92  0.88(B) 
+
+ 2 Ray Miller             Ann Romeo                A    .     .     .     47.90  39.92          
+
+
+
+ 4 Stanford Christie      Corneliu Galer           A    4     .     .     65.00  54.17  0.60(A) 
+
+ 5 Jeffrey Ford           David Taylor             A    1     .     .     80.30  66.92  1.50(A) 
+
+ 6 Ravi Moonka            Usha Moonka              C    .     .     .     49.50  41.25          
+
+ 7 Kim Eng                Eric Sieg                A    3     .     .     73.40  61.17  0.84(A) 
+
+ 8 Joseph Grill           Valliappa Lakshmanan     C    .     .     .     47.60  39.67          
+
+ 9 Jeannie Falls          Bruce Baker-Harvey       C    .     .     2     55.70  46.42  0.50(C) 
+
+10 Oyvind Tafjord         Sue Anderson             B    .     2     .     62.90  52.42  0.62(B) 
+
+11 Shannon Kasperkiewicz  Nelson Davis             C    .     .     .     44.10  36.75          
+
+12 Mike Christensen       Mike Ring                A    2     .     .     75.10  62.58  1.13(A) 
+
+13 David Roselle          Brian Zaugg              A    .     .     .     58.00  48.33          
+
+14 Aaron Mohrman          Beatrix Kossmann         C    .     3     1     55.80  46.50  0.72(C) 
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 2-Miller-Romeo vs 6-Moonka-Moonka
+  140          3.00   2.00 4-Christie-Galer vs 9-Falls-Baker-Harvey
+        100    1.00   4.00 5-Ford-Taylor vs 12-Christensen-Ring
+  200          4.00   1.00 7-Eng-Sieg vs 8-Grill-Lakshmanan
+        100    1.00   4.00 13-Roselle-Zaugg vs 10-Tafjord-Anderson
+  420          5.00   0.00 14-Mohrman-Kossmann vs 11-Kasperkiewicz-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   0.00 2-Miller-Romeo vs 6-Moonka-Moonka
+        100    0.50   4.50 4-Christie-Galer vs 9-Falls-Baker-Harvey
+  140          3.00   2.00 5-Ford-Taylor vs 12-Christensen-Ring
+  140          3.00   2.00 7-Eng-Sieg vs 8-Grill-Lakshmanan
+  140          3.00   2.00 13-Roselle-Zaugg vs 10-Tafjord-Anderson
+        100    0.50   4.50 14-Mohrman-Kossmann vs 11-Kasperkiewicz-Davis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.00   0.00 1-Yan-Wei vs 11-Kasperkiewicz-Davis
+        100    1.50   3.50 2-Miller-Romeo vs 4-Christie-Galer
+        100    1.50   3.50 5-Ford-Taylor vs 10-Tafjord-Anderson
+         50    3.50   1.50 6-Moonka-Moonka vs 13-Roselle-Zaugg
+         50    3.50   1.50 8-Grill-Lakshmanan vs 9-Falls-Baker-Harvey
+        140    0.00   5.00 14-Mohrman-Kossmann vs 12-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    3.00   2.00 1-Yan-Wei vs 11-Kasperkiewicz-Davis
+        800    1.00   4.00 2-Miller-Romeo vs 4-Christie-Galer
+  100          4.50   0.50 5-Ford-Taylor vs 10-Tafjord-Anderson
+       1430    0.00   5.00 6-Moonka-Moonka vs 13-Roselle-Zaugg
+        630    2.00   3.00 8-Grill-Lakshmanan vs 9-Falls-Baker-Harvey
+  100          4.50   0.50 14-Mohrman-Kossmann vs 12-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    0.50   4.50 2-Miller-Romeo vs 12-Christensen-Ring
+        450    3.50   1.50 4-Christie-Galer vs 8-Grill-Lakshmanan
+        450    3.50   1.50 6-Moonka-Moonka vs 11-Kasperkiewicz-Davis
+        480    0.50   4.50 7-Eng-Sieg vs 1-Yan-Wei
+        450    3.50   1.50 9-Falls-Baker-Harvey vs 10-Tafjord-Anderson
+        450    3.50   1.50 14-Mohrman-Kossmann vs 13-Roselle-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   3.00 2-Miller-Romeo vs 12-Christensen-Ring
+        800    0.00   5.00 4-Christie-Galer vs 8-Grill-Lakshmanan
+  200          4.50   0.50 6-Moonka-Moonka vs 11-Kasperkiewicz-Davis
+  200          4.50   0.50 7-Eng-Sieg vs 1-Yan-Wei
+        650    1.00   4.00 9-Falls-Baker-Harvey vs 10-Tafjord-Anderson
+  100          3.00   2.00 14-Mohrman-Kossmann vs 13-Roselle-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.50   2.50 4-Christie-Galer vs 6-Moonka-Moonka
+        600    2.50   2.50 5-Ford-Taylor vs 9-Falls-Baker-Harvey
+        600    2.50   2.50 7-Eng-Sieg vs 12-Christensen-Ring
+        600    2.50   2.50 8-Grill-Lakshmanan vs 2-Miller-Romeo
+  200          5.00   0.00 10-Tafjord-Anderson vs 11-Kasperkiewicz-Davis
+        630    0.00   5.00 14-Mohrman-Kossmann vs 1-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  AVE   AVE    2.50   2.50 4-Christie-Galer vs 6-Moonka-Moonka
+  490          4.30   0.70 5-Ford-Taylor vs 9-Falls-Baker-Harvey
+  460          1.90   3.10 7-Eng-Sieg vs 12-Christensen-Ring
+  430          0.10   4.90 8-Grill-Lakshmanan vs 2-Miller-Romeo
+  460          1.90   3.10 10-Tafjord-Anderson vs 11-Kasperkiewicz-Davis
+  490          4.30   0.70 14-Mohrman-Kossmann vs 1-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          0.50   4.50 4-Christie-Galer vs 1-Yan-Wei
+  420          3.50   1.50 5-Ford-Taylor vs 7-Eng-Sieg
+  420          3.50   1.50 6-Moonka-Moonka vs 10-Tafjord-Anderson
+  420          3.50   1.50 8-Grill-Lakshmanan vs 13-Roselle-Zaugg
+  170          0.50   4.50 11-Kasperkiewicz-Davis vs 12-Christensen-Ring
+  420          3.50   1.50 14-Mohrman-Kossmann vs 2-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   0.50 4-Christie-Galer vs 1-Yan-Wei
+        100    1.50   3.50 5-Ford-Taylor vs 7-Eng-Sieg
+        100    1.50   3.50 6-Moonka-Moonka vs 10-Tafjord-Anderson
+        100    1.50   3.50 8-Grill-Lakshmanan vs 13-Roselle-Zaugg
+  140          4.50   0.50 11-Kasperkiewicz-Davis vs 12-Christensen-Ring
+        100    1.50   3.50 14-Mohrman-Kossmann vs 2-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   2.00 5-Ford-Taylor vs 2-Miller-Romeo
+        500    2.00   3.00 6-Moonka-Moonka vs 8-Grill-Lakshmanan
+  470          5.00   0.00 7-Eng-Sieg vs 11-Kasperkiewicz-Davis
+        800    0.50   4.50 9-Falls-Baker-Harvey vs 1-Yan-Wei
+        800    0.50   4.50 10-Tafjord-Anderson vs 4-Christie-Galer
+         50    4.00   1.00 12-Christensen-Ring vs 13-Roselle-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    4.00   1.00 5-Ford-Taylor vs 2-Miller-Romeo
+        430    4.00   1.00 6-Moonka-Moonka vs 8-Grill-Lakshmanan
+        920    1.00   4.00 7-Eng-Sieg vs 11-Kasperkiewicz-Davis
+        460    2.00   3.00 9-Falls-Baker-Harvey vs 1-Yan-Wei
+        940    0.00   5.00 10-Tafjord-Anderson vs 4-Christie-Galer
+        430    4.00   1.00 12-Christensen-Ring vs 13-Roselle-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   1.00 7-Eng-Sieg vs 9-Falls-Baker-Harvey
+        100    2.50   2.50 8-Grill-Lakshmanan vs 12-Christensen-Ring
+  500          5.00   0.00 10-Tafjord-Anderson vs 2-Miller-Romeo
+        400    0.00   5.00 11-Kasperkiewicz-Davis vs 5-Ford-Taylor
+        200    1.00   4.00 13-Roselle-Zaugg vs 1-Yan-Wei
+        100    2.50   2.50 14-Mohrman-Kossmann vs 4-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.00   2.00 7-Eng-Sieg vs 9-Falls-Baker-Harvey
+         50    1.00   4.00 8-Grill-Lakshmanan vs 12-Christensen-Ring
+  180          4.50   0.50 10-Tafjord-Anderson vs 2-Miller-Romeo
+  110          2.00   3.00 11-Kasperkiewicz-Davis vs 5-Ford-Taylor
+  180          4.50   0.50 13-Roselle-Zaugg vs 1-Yan-Wei
+        500    0.00   5.00 14-Mohrman-Kossmann vs 4-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          3.50   1.50 1-Yan-Wei vs 2-Miller-Romeo
+  600          1.00   4.00 7-Eng-Sieg vs 4-Christie-Galer
+  630          3.50   1.50 8-Grill-Lakshmanan vs 10-Tafjord-Anderson
+  630          3.50   1.50 9-Falls-Baker-Harvey vs 13-Roselle-Zaugg
+  630          3.50   1.50 12-Christensen-Ring vs 6-Moonka-Moonka
+        100    0.00   5.00 14-Mohrman-Kossmann vs 5-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 1-Yan-Wei vs 2-Miller-Romeo
+  470          5.00   0.00 7-Eng-Sieg vs 4-Christie-Galer
+        110    1.00   4.00 8-Grill-Lakshmanan vs 10-Tafjord-Anderson
+        150    0.00   5.00 9-Falls-Baker-Harvey vs 13-Roselle-Zaugg
+  200          4.00   1.00 12-Christensen-Ring vs 6-Moonka-Moonka
+        100    2.00   3.00 14-Mohrman-Kossmann vs 5-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   3.50 8-Grill-Lakshmanan vs 5-Ford-Taylor
+  130          3.00   2.00 9-Falls-Baker-Harvey vs 11-Kasperkiewicz-Davis
+  150          5.00   0.00 10-Tafjord-Anderson vs 1-Yan-Wei
+  100          1.50   3.50 12-Christensen-Ring vs 4-Christie-Galer
+   50          0.00   5.00 13-Roselle-Zaugg vs 7-Eng-Sieg
+  140          4.00   1.00 14-Mohrman-Kossmann vs 6-Moonka-Moonka
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.00   5.00 8-Grill-Lakshmanan vs 5-Ford-Taylor
+        140    5.00   0.00 9-Falls-Baker-Harvey vs 11-Kasperkiewicz-Davis
+        400    2.50   2.50 10-Tafjord-Anderson vs 1-Yan-Wei
+        400    2.50   2.50 12-Christensen-Ring vs 4-Christie-Galer
+        400    2.50   2.50 13-Roselle-Zaugg vs 7-Eng-Sieg
+        400    2.50   2.50 14-Mohrman-Kossmann vs 6-Moonka-Moonka
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   2.00 1-Yan-Wei vs 8-Grill-Lakshmanan
+        110    3.00   2.00 9-Falls-Baker-Harvey vs 6-Moonka-Moonka
+        130    1.00   4.00 10-Tafjord-Anderson vs 12-Christensen-Ring
+        140    0.00   5.00 11-Kasperkiewicz-Davis vs 2-Miller-Romeo
+  200          5.00   0.00 13-Roselle-Zaugg vs 5-Ford-Taylor
+        110    3.00   2.00 14-Mohrman-Kossmann vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    4.50   0.50 1-Yan-Wei vs 8-Grill-Lakshmanan
+        650    2.50   2.50 9-Falls-Baker-Harvey vs 6-Moonka-Moonka
+        650    2.50   2.50 10-Tafjord-Anderson vs 12-Christensen-Ring
+        620    4.50   0.50 11-Kasperkiewicz-Davis vs 2-Miller-Romeo
+        680    1.00   4.00 13-Roselle-Zaugg vs 5-Ford-Taylor
+        720    0.00   5.00 14-Mohrman-Kossmann vs 7-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.00   4.00 1-Yan-Wei vs 6-Moonka-Moonka
+        420    0.00   5.00 2-Miller-Romeo vs 9-Falls-Baker-Harvey
+        300    2.00   3.00 4-Christie-Galer vs 5-Ford-Taylor
+        170    3.00   2.00 10-Tafjord-Anderson vs 7-Eng-Sieg
+        150    4.50   0.50 11-Kasperkiewicz-Davis vs 13-Roselle-Zaugg
+        150    4.50   0.50 14-Mohrman-Kossmann vs 8-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.50   1.50 1-Yan-Wei vs 6-Moonka-Moonka
+  420          5.00   0.00 2-Miller-Romeo vs 9-Falls-Baker-Harvey
+         50    1.00   4.00 4-Christie-Galer vs 5-Ford-Taylor
+         50    1.00   4.00 10-Tafjord-Anderson vs 7-Eng-Sieg
+         50    1.00   4.00 11-Kasperkiewicz-Davis vs 13-Roselle-Zaugg
+  170          3.50   1.50 14-Mohrman-Kossmann vs 8-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   0.50 2-Miller-Romeo vs 7-Eng-Sieg
+  620          4.50   0.50 5-Ford-Taylor vs 6-Moonka-Moonka
+        100    1.50   3.50 11-Kasperkiewicz-Davis vs 8-Grill-Lakshmanan
+        100    1.50   3.50 12-Christensen-Ring vs 1-Yan-Wei
+        100    1.50   3.50 13-Roselle-Zaugg vs 4-Christie-Galer
+        100    1.50   3.50 14-Mohrman-Kossmann vs 9-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    1.50   3.50 2-Miller-Romeo vs 7-Eng-Sieg
+        450    5.00   0.00 5-Ford-Taylor vs 6-Moonka-Moonka
+        510    1.50   3.50 11-Kasperkiewicz-Davis vs 8-Grill-Lakshmanan
+        480    4.00   1.00 12-Christensen-Ring vs 1-Yan-Wei
+        510    1.50   3.50 13-Roselle-Zaugg vs 4-Christie-Galer
+        510    1.50   3.50 14-Mohrman-Kossmann vs 9-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.00   2.00 1-Yan-Wei vs 5-Ford-Taylor
+         50    1.00   4.00 4-Christie-Galer vs 11-Kasperkiewicz-Davis
+         50    1.00   4.00 6-Moonka-Moonka vs 7-Eng-Sieg
+  300          5.00   0.00 12-Christensen-Ring vs 9-Falls-Baker-Harvey
+  200          4.00   1.00 13-Roselle-Zaugg vs 2-Miller-Romeo
+         50    1.00   4.00 14-Mohrman-Kossmann vs 10-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.50   4.50 1-Yan-Wei vs 5-Ford-Taylor
+  150          2.50   2.50 4-Christie-Galer vs 11-Kasperkiewicz-Davis
+  100          0.50   4.50 6-Moonka-Moonka vs 7-Eng-Sieg
+  150          2.50   2.50 12-Christensen-Ring vs 9-Falls-Baker-Harvey
+  300          5.00   0.00 13-Roselle-Zaugg vs 2-Miller-Romeo
+  200          4.00   1.00 14-Mohrman-Kossmann vs 10-Tafjord-Anderson
+----------------------------------------------------------------------
