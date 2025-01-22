@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>January 21, 2025   |CLUB NO.>158048    | 01/21/2025 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Junior Fund                  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2750/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=10/C=6                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Jeremy Gulley          Shannon Kasperkiewicz    C   .     .     .   |   .     .     .     50.92  32.64          
+
+ 2 Corneliu Galer         Dave Setterholm          A   .     .     .   |   .     .     .     79.63  51.04          
+
+ 3 David Wright           Brian Zaugg              B   1     1     .   |   1     1     .    108.00  69.23  2.63(OA)
+
+ 4 Mike Christensen       Becky Stevens            A   .     .     .   |   .     .     .     70.96  45.49          
+
+ 5 Adam Ruprecht          Christopher Jarvis       B   5     3     .   |   5     3     .     81.25  52.08  0.89(OB)
+
+ 6 Kim Eng                Jeffrey Ford             A   3     .     .   |   3     .     .     94.79  60.76  1.48(OA)
+
+ 7 Jeannie Falls          Bruce Baker-Harvey       C   .     .     2   |   .     .     2     72.04  46.18  0.82(OC)
+
+ 8 David Taylor           Sue Anderson             A   .     .     .   |   .     .     .     73.13  46.88          
+
+ 9 Dong Yan               Dong Wei                 B   .     4     .   |   6     4     .     80.71  51.74  0.67(OB)
+
+10 Hugh Hendrickson       Laura Miller             C   .     .     .   |   .     .     .     59.50  38.14          
+
+11 Ray Miller             Chris Moore              A   2     .     .   |   2     .     .     99.67  63.89  1.97(OA)
+
+12 Joseph Grill           Valliappa Lakshmanan     C   .     .     .   |   .     .     .     66.63  42.71          
+
+
+
+14 Dex Stuberg            Cliff Marx               C   4     2     1   |   4     2     1     88.83  56.94  1.19(OB)
+
+15 Mike Ring              Shawn Abernethy          B   .     .     .   |   .     .     .     79.63  51.04          
+
+16 Bob Shelley            Ann Romeo                C   .     .     .   |   .     .     .     63.38  40.63          
+
+
+                                          Totals                                           1169.07       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.50   3.50 4-Christensen-Stevens vs 14-Stuberg-Marx
+        400    1.00   5.00 6-Eng-Ford vs 5-Ruprecht-Jarvis
+        130    2.50   3.50 8-Taylor-Anderson vs 12-Grill-Lakshmanan
+  300          6.00   0.00 9-Yan-Wei vs 11-Miller-Moore
+        430    0.00   6.00 10-Hendrickson-Miller vs 2-Galer-Setterholm
+        100    4.00   2.00 15-Ring-Abernethy vs 3-Wright-Zaugg
+  100          5.00   1.00 16-Shelley-Romeo vs 1-Gulley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   4.50 4-Christensen-Stevens vs 14-Stuberg-Marx
+  660          6.00   0.00 6-Eng-Ford vs 5-Ruprecht-Jarvis
+  620          4.50   1.50 8-Taylor-Anderson vs 12-Grill-Lakshmanan
+  100          1.50   4.50 9-Yan-Wei vs 11-Miller-Moore
+  620          4.50   1.50 10-Hendrickson-Miller vs 2-Galer-Setterholm
+  500          3.00   3.00 15-Ring-Abernethy vs 3-Wright-Zaugg
+   50          0.00   6.00 16-Shelley-Romeo vs 1-Gulley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.50   1.50 1-Gulley-Kasperkiewicz vs 8-Taylor-Anderson
+  420          4.50   1.50 4-Christensen-Stevens vs 15-Ring-Abernethy
+         50    0.00   6.00 5-Ruprecht-Jarvis vs 14-Stuberg-Marx
+  140          1.00   5.00 7-Falls-Baker-Harvey vs 6-Eng-Ford
+  170          2.00   4.00 10-Hendrickson-Miller vs 12-Grill-Lakshmanan
+  420          4.50   1.50 11-Miller-Moore vs 3-Wright-Zaugg
+  420          4.50   1.50 16-Shelley-Romeo vs 2-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   4.00 1-Gulley-Kasperkiewicz vs 8-Taylor-Anderson
+  130          4.00   2.00 4-Christensen-Stevens vs 15-Ring-Abernethy
+  130          4.00   2.00 5-Ruprecht-Jarvis vs 14-Stuberg-Marx
+        140    0.50   5.50 7-Falls-Baker-Harvey vs 6-Eng-Ford
+  130          4.00   2.00 10-Hendrickson-Miller vs 12-Grill-Lakshmanan
+        140    0.50   5.50 11-Miller-Moore vs 3-Wright-Zaugg
+  200          6.00   0.00 16-Shelley-Romeo vs 2-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.00   3.00 2-Galer-Setterholm vs 9-Yan-Wei
+        450    3.00   3.00 5-Ruprecht-Jarvis vs 15-Ring-Abernethy
+        450    3.00   3.00 6-Eng-Ford vs 14-Stuberg-Marx
+        450    3.00   3.00 8-Taylor-Anderson vs 7-Falls-Baker-Harvey
+        450    3.00   3.00 10-Hendrickson-Miller vs 1-Gulley-Kasperkiewicz
+        450    3.00   3.00 12-Grill-Lakshmanan vs 4-Christensen-Stevens
+        450    3.00   3.00 16-Shelley-Romeo vs 3-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   5.00 2-Galer-Setterholm vs 9-Yan-Wei
+  140          3.50   2.50 5-Ruprecht-Jarvis vs 15-Ring-Abernethy
+  140          3.50   2.50 6-Eng-Ford vs 14-Stuberg-Marx
+        100    0.00   6.00 8-Taylor-Anderson vs 7-Falls-Baker-Harvey
+  570          6.00   0.00 10-Hendrickson-Miller vs 1-Gulley-Kasperkiewicz
+  400          5.00   1.00 12-Grill-Lakshmanan vs 4-Christensen-Stevens
+  110          2.00   4.00 16-Shelley-Romeo vs 3-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          5.50   0.50 3-Wright-Zaugg vs 10-Hendrickson-Miller
+  660          3.00   3.00 6-Eng-Ford vs 15-Ring-Abernethy
+  660          3.00   3.00 9-Yan-Wei vs 8-Taylor-Anderson
+  690          5.50   0.50 11-Miller-Moore vs 2-Galer-Setterholm
+  630          0.50   5.50 12-Grill-Lakshmanan vs 1-Gulley-Kasperkiewicz
+  660          3.00   3.00 14-Stuberg-Marx vs 7-Falls-Baker-Harvey
+  630          0.50   5.50 16-Shelley-Romeo vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   1.50 3-Wright-Zaugg vs 10-Hendrickson-Miller
+  150          6.00   0.00 6-Eng-Ford vs 15-Ring-Abernethy
+        150    0.00   6.00 9-Yan-Wei vs 8-Taylor-Anderson
+         90    2.00   4.00 11-Miller-Moore vs 2-Galer-Setterholm
+  140          4.50   1.50 12-Grill-Lakshmanan vs 1-Gulley-Kasperkiewicz
+   50          3.00   3.00 14-Stuberg-Marx vs 7-Falls-Baker-Harvey
+        110    1.00   5.00 16-Shelley-Romeo vs 4-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   2.00 1-Gulley-Kasperkiewicz vs 6-Eng-Ford
+ 1160          6.00   0.00 4-Christensen-Stevens vs 11-Miller-Moore
+  300          5.00   1.00 7-Falls-Baker-Harvey vs 15-Ring-Abernethy
+  130          2.50   3.50 10-Hendrickson-Miller vs 9-Yan-Wei
+         50    0.00   6.00 12-Grill-Lakshmanan vs 3-Wright-Zaugg
+  130          2.50   3.50 14-Stuberg-Marx vs 8-Taylor-Anderson
+  110          1.00   5.00 16-Shelley-Romeo vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   5.00 1-Gulley-Kasperkiewicz vs 6-Eng-Ford
+        200    1.00   5.00 4-Christensen-Stevens vs 11-Miller-Moore
+  140          5.00   1.00 7-Falls-Baker-Harvey vs 15-Ring-Abernethy
+  600          6.00   0.00 10-Hendrickson-Miller vs 9-Yan-Wei
+        200    1.00   5.00 12-Grill-Lakshmanan vs 3-Wright-Zaugg
+        100    4.00   2.00 14-Stuberg-Marx vs 8-Taylor-Anderson
+        130    3.00   3.00 16-Shelley-Romeo vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.00   4.00 1-Gulley-Kasperkiewicz vs 3-Wright-Zaugg
+        130    5.00   1.00 2-Galer-Setterholm vs 7-Falls-Baker-Harvey
+        150    2.00   4.00 5-Ruprecht-Jarvis vs 12-Grill-Lakshmanan
+        150    2.00   4.00 8-Taylor-Anderson vs 15-Ring-Abernethy
+   50          6.00   0.00 11-Miller-Moore vs 10-Hendrickson-Miller
+        150    2.00   4.00 14-Stuberg-Marx vs 9-Yan-Wei
+        150    2.00   4.00 16-Shelley-Romeo vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.00   4.00 1-Gulley-Kasperkiewicz vs 3-Wright-Zaugg
+        200    1.00   5.00 2-Galer-Setterholm vs 7-Falls-Baker-Harvey
+        120    3.00   3.00 5-Ruprecht-Jarvis vs 12-Grill-Lakshmanan
+        300    0.00   6.00 8-Taylor-Anderson vs 15-Ring-Abernethy
+         90    5.00   1.00 11-Miller-Moore vs 10-Hendrickson-Miller
+         90    5.00   1.00 14-Stuberg-Marx vs 9-Yan-Wei
+         90    5.00   1.00 16-Shelley-Romeo vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   5.50 1-Gulley-Kasperkiewicz vs 5-Ruprecht-Jarvis
+  150          5.00   1.00 2-Galer-Setterholm vs 4-Christensen-Stevens
+  600          6.00   0.00 3-Wright-Zaugg vs 8-Taylor-Anderson
+        200    0.50   5.50 9-Yan-Wei vs 15-Ring-Abernethy
+  110          4.00   2.00 12-Grill-Lakshmanan vs 11-Miller-Moore
+        100    2.50   3.50 14-Stuberg-Marx vs 10-Hendrickson-Miller
+        100    2.50   3.50 16-Shelley-Romeo vs 7-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   5.00 1-Gulley-Kasperkiewicz vs 5-Ruprecht-Jarvis
+         50    5.00   1.00 2-Galer-Setterholm vs 4-Christensen-Stevens
+   50          6.00   0.00 3-Wright-Zaugg vs 8-Taylor-Anderson
+         90    4.00   2.00 9-Yan-Wei vs 15-Ring-Abernethy
+        100    3.00   3.00 12-Grill-Lakshmanan vs 11-Miller-Moore
+        110    2.00   4.00 14-Stuberg-Marx vs 10-Hendrickson-Miller
+        180    0.00   6.00 16-Shelley-Romeo vs 7-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   4.00 2-Galer-Setterholm vs 6-Eng-Ford
+  620          5.00   1.00 3-Wright-Zaugg vs 5-Ruprecht-Jarvis
+  620          5.00   1.00 4-Christensen-Stevens vs 9-Yan-Wei
+  620          5.00   1.00 7-Falls-Baker-Harvey vs 1-Gulley-Kasperkiewicz
+  100          1.00   5.00 10-Hendrickson-Miller vs 15-Ring-Abernethy
+  170          3.00   3.00 14-Stuberg-Marx vs 11-Miller-Moore
+        100    0.00   6.00 16-Shelley-Romeo vs 8-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.50   1.50 2-Galer-Setterholm vs 6-Eng-Ford
+         50    6.00   0.00 3-Wright-Zaugg vs 5-Ruprecht-Jarvis
+        140    2.00   4.00 4-Christensen-Stevens vs 9-Yan-Wei
+        140    2.00   4.00 7-Falls-Baker-Harvey vs 1-Gulley-Kasperkiewicz
+        620    0.00   6.00 10-Hendrickson-Miller vs 15-Ring-Abernethy
+        110    4.50   1.50 14-Stuberg-Marx vs 11-Miller-Moore
+        140    2.00   4.00 16-Shelley-Romeo vs 8-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   4.00 3-Wright-Zaugg vs 7-Falls-Baker-Harvey
+  150          2.00   4.00 4-Christensen-Stevens vs 6-Eng-Ford
+  400          4.50   1.50 5-Ruprecht-Jarvis vs 10-Hendrickson-Miller
+  460          6.00   0.00 8-Taylor-Anderson vs 2-Galer-Setterholm
+  400          4.50   1.50 14-Stuberg-Marx vs 12-Grill-Lakshmanan
+  150          2.00   4.00 15-Ring-Abernethy vs 11-Miller-Moore
+  130          0.00   6.00 16-Shelley-Romeo vs 9-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    6.00   0.00 3-Wright-Zaugg vs 7-Falls-Baker-Harvey
+        150    1.00   5.00 4-Christensen-Stevens vs 6-Eng-Ford
+        130    4.00   2.00 5-Ruprecht-Jarvis vs 10-Hendrickson-Miller
+        150    1.00   5.00 8-Taylor-Anderson vs 2-Galer-Setterholm
+        130    4.00   2.00 14-Stuberg-Marx vs 12-Grill-Lakshmanan
+        150    1.00   5.00 15-Ring-Abernethy vs 11-Miller-Moore
+        130    4.00   2.00 16-Shelley-Romeo vs 9-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          6.00   0.00 2-Galer-Setterholm vs 1-Gulley-Kasperkiewicz
+  400          3.00   3.00 4-Christensen-Stevens vs 8-Taylor-Anderson
+  400          3.00   3.00 5-Ruprecht-Jarvis vs 7-Falls-Baker-Harvey
+         50    0.00   6.00 6-Eng-Ford vs 11-Miller-Moore
+  400          3.00   3.00 9-Yan-Wei vs 3-Wright-Zaugg
+  400          3.00   3.00 15-Ring-Abernethy vs 12-Grill-Lakshmanan
+  400          3.00   3.00 16-Shelley-Romeo vs 10-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.50   2.50 2-Galer-Setterholm vs 1-Gulley-Kasperkiewicz
+        100    1.00   5.00 4-Christensen-Stevens vs 8-Taylor-Anderson
+   90          3.50   2.50 5-Ruprecht-Jarvis vs 7-Falls-Baker-Harvey
+        110    0.00   6.00 6-Eng-Ford vs 11-Miller-Moore
+         90    2.00   4.00 9-Yan-Wei vs 3-Wright-Zaugg
+  120          5.00   1.00 15-Ring-Abernethy vs 12-Grill-Lakshmanan
+  200          6.00   0.00 16-Shelley-Romeo vs 10-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        520    0.00   6.00 1-Gulley-Kasperkiewicz vs 14-Stuberg-Marx
+        400    5.00   1.00 3-Wright-Zaugg vs 2-Galer-Setterholm
+        400    5.00   1.00 5-Ruprecht-Jarvis vs 9-Yan-Wei
+        400    5.00   1.00 6-Eng-Ford vs 8-Taylor-Anderson
+        490    1.50   4.50 7-Falls-Baker-Harvey vs 12-Grill-Lakshmanan
+        460    3.00   3.00 10-Hendrickson-Miller vs 4-Christensen-Stevens
+        490    1.50   4.50 16-Shelley-Romeo vs 11-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          4.50   1.50 1-Gulley-Kasperkiewicz vs 14-Stuberg-Marx
+  450          2.00   4.00 3-Wright-Zaugg vs 2-Galer-Setterholm
+  480          4.50   1.50 5-Ruprecht-Jarvis vs 9-Yan-Wei
+  510          6.00   0.00 6-Eng-Ford vs 8-Taylor-Anderson
+  450          2.00   4.00 7-Falls-Baker-Harvey vs 12-Grill-Lakshmanan
+  450          2.00   4.00 10-Hendrickson-Miller vs 4-Christensen-Stevens
+  420          0.00   6.00 16-Shelley-Romeo vs 11-Miller-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   5.00 2-Galer-Setterholm vs 14-Stuberg-Marx
+        650    1.00   5.00 4-Christensen-Stevens vs 3-Wright-Zaugg
+        620    3.00   3.00 6-Eng-Ford vs 10-Hendrickson-Miller
+        650    1.00   5.00 7-Falls-Baker-Harvey vs 9-Yan-Wei
+        600    4.00   2.00 11-Miller-Moore vs 5-Ruprecht-Jarvis
+        110    5.00   1.00 15-Ring-Abernethy vs 1-Gulley-Kasperkiewicz
+  100          6.00   0.00 16-Shelley-Romeo vs 12-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   3.00 2-Galer-Setterholm vs 14-Stuberg-Marx
+         50    3.00   3.00 4-Christensen-Stevens vs 3-Wright-Zaugg
+         50    3.00   3.00 6-Eng-Ford vs 10-Hendrickson-Miller
+        100    0.50   5.50 7-Falls-Baker-Harvey vs 9-Yan-Wei
+  200          5.00   1.00 11-Miller-Moore vs 5-Ruprecht-Jarvis
+  450          6.00   0.00 15-Ring-Abernethy vs 1-Gulley-Kasperkiewicz
+        100    0.50   5.50 16-Shelley-Romeo vs 12-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   3.00 3-Wright-Zaugg vs 14-Stuberg-Marx
+  150          4.50   1.50 5-Ruprecht-Jarvis vs 4-Christensen-Stevens
+  120          2.00   4.00 7-Falls-Baker-Harvey vs 11-Miller-Moore
+  150          4.50   1.50 8-Taylor-Anderson vs 10-Hendrickson-Miller
+  400          6.00   0.00 9-Yan-Wei vs 1-Gulley-Kasperkiewicz
+         50    0.00   6.00 12-Grill-Lakshmanan vs 6-Eng-Ford
+  110          1.00   5.00 15-Ring-Abernethy vs 2-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    4.00   2.00 3-Wright-Zaugg vs 14-Stuberg-Marx
+        650    3.00   3.00 5-Ruprecht-Jarvis vs 4-Christensen-Stevens
+        680    1.00   5.00 7-Falls-Baker-Harvey vs 11-Miller-Moore
+        200    5.00   1.00 8-Taylor-Anderson vs 10-Hendrickson-Miller
+        170    6.00   0.00 9-Yan-Wei vs 1-Gulley-Kasperkiewicz
+        680    1.00   5.00 12-Grill-Lakshmanan vs 6-Eng-Ford
+        680    1.00   5.00 15-Ring-Abernethy vs 2-Galer-Setterholm
+----------------------------------------------------------------------
