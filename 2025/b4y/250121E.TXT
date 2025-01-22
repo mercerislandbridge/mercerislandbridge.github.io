@@ -1,0 +1,141 @@
+
+EVENT>Event Name               |SESSION>Tuesday Eve  |SECTION> B
+------------------------,------ ------------,-------- --------------------------
+DATE>January 21, 2025   |CLUB NO.>          | 01/21/2025 21:50
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>                             |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>    7.5 |TOP>   1                           |CLUB>
+------------ --------- ------------------------- -------------------------------
+PAIRS>  4                                        ,------------,------,
+-------------------------------------------------|   Section  |      |
+No Name                   Name                   | Rank|Score | Pct  |
+------------------------------------------------- ----- ------ ------ 
+ 1 Theo Korol             Matt Korol                      4.62  30.80
+
+ 2 Marilyn Harper         Marilyn DiBlasi                 8.08  53.87
+
+ 3 Pat Newman             Nolan Newman             2      8.20  54.67
+
+ 4 Ted Landreth           Bernie Tevelde           1      9.20  61.33
+
+
+                                          Totals         30.10       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   1.00 3-Newman-Newman vs 2-Harper-DiBlasi
+  100          1.00   0.00 4-Landreth-Tevelde vs 1-Korol-Korol
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          1.00   0.00 3-Newman-Newman vs 2-Harper-DiBlasi
+  170          0.00   1.00 4-Landreth-Tevelde vs 1-Korol-Korol
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   1.00 3-Newman-Newman vs 2-Harper-DiBlasi
+  170          1.00   0.00 4-Landreth-Tevelde vs 1-Korol-Korol
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   1.00 3-Newman-Newman vs 2-Harper-DiBlasi
+  300          1.00   0.00 4-Landreth-Tevelde vs 1-Korol-Korol
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.50   0.50 3-Newman-Newman vs 2-Harper-DiBlasi
+        450    0.50   0.50 4-Landreth-Tevelde vs 1-Korol-Korol
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   0.00 1-Korol-Korol vs 3-Newman-Newman
+        100    0.00   1.00 4-Landreth-Tevelde vs 2-Harper-DiBlasi
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.00   1.00 1-Korol-Korol vs 3-Newman-Newman
+  660          1.00   0.00 4-Landreth-Tevelde vs 2-Harper-DiBlasi
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          0.00   1.00 1-Korol-Korol vs 3-Newman-Newman
+  100          1.00   0.00 4-Landreth-Tevelde vs 2-Harper-DiBlasi
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   1.00 1-Korol-Korol vs 3-Newman-Newman
+  110          1.00   0.00 4-Landreth-Tevelde vs 2-Harper-DiBlasi
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   0.50 1-Korol-Korol vs 3-Newman-Newman
+        100    0.50   0.50 4-Landreth-Tevelde vs 2-Harper-DiBlasi
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.00   0.00 2-Harper-DiBlasi vs 1-Korol-Korol
+        110    0.00   1.00 4-Landreth-Tevelde vs 3-Newman-Newman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   0.00 2-Harper-DiBlasi vs 1-Korol-Korol
+        120    0.00   1.00 4-Landreth-Tevelde vs 3-Newman-Newman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          0.00   1.00 2-Harper-DiBlasi vs 1-Korol-Korol
+  150          1.00   0.00 4-Landreth-Tevelde vs 3-Newman-Newman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          0.60   0.60 4-Landreth-Tevelde vs 3-Newman-Newman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          0.60   0.60 4-Landreth-Tevelde vs 3-Newman-Newman
+----------------------------------------------------------------------
