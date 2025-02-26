@@ -1,13 +1,13 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 25, 2025  |CLUB NO.>158048    | 02/25/2025 21:53
+DATE>February 25, 2025  |CLUB NO.>158048    | 02/25/2025 21:58
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Mike/Aaron      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
 AVE>   36.0 |TOP>   3 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
 ------------ --------- ------------------------- -------------------------------
-PAIRS IN STRAT A=9/B=3/C=2                       ,---,-----------------,-------------------------,------,---------,
+PAIRS IN STRAT A=9/B=4/C=2                       ,---,-----------------,-------------------------,------,---------,
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
@@ -17,9 +17,9 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
  3 Hugh Hendrickson       Laura Miller             C   .     .     .   |   .     .     .     34.00  47.22          
 
- 4                                                 A   2     .     .   |   2     .     .     38.00  52.78  1.64(OA)
+ 4 Mike Ring              Brian Zaugg              B   2     .     .   |   2     1     .     38.00  52.78  1.64(OA)
 
- 5 Christopher Jarvis     Adam Ruprecht            C   3     .     .   |   3     1     .     37.50  52.08  1.23(OA)
+ 5 Christopher Jarvis     Adam Ruprecht            C   3     .     .   |   3     2     .     37.50  52.08  1.23(OA)
 
 
 
@@ -38,7 +38,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  150          3.00   0.00 1-Christie-Galer vs 4--
+  150          3.00   0.00 1-Christie-Galer vs 4-Ring-Zaugg
         100    1.50   1.50 2-Romeo-Gottesmann vs 9-Christensen-Wright
         300    0.00   3.00 3-Hendrickson-Miller vs 7-Eng-Ford
         100    1.50   1.50 10-Miller-Mohrman vs 8-Anderson-Taylor
@@ -48,7 +48,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        400    0.50   2.50 1-Christie-Galer vs 4--
+        400    0.50   2.50 1-Christie-Galer vs 4-Ring-Zaugg
         150    2.50   0.50 2-Romeo-Gottesmann vs 9-Christensen-Wright
         400    0.50   2.50 3-Hendrickson-Miller vs 7-Eng-Ford
         150    2.50   0.50 10-Miller-Mohrman vs 8-Anderson-Taylor
@@ -58,7 +58,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        650    1.00   2.00 1-Christie-Galer vs 4--
+        650    1.00   2.00 1-Christie-Galer vs 4-Ring-Zaugg
         650    1.00   2.00 2-Romeo-Gottesmann vs 9-Christensen-Wright
         650    1.00   2.00 3-Hendrickson-Miller vs 7-Eng-Ford
         100    3.00   0.00 10-Miller-Mohrman vs 8-Anderson-Taylor
@@ -70,7 +70,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
   N-S   E-W    N-S    E-W
         660    0.50   2.50 2-Romeo-Gottesmann vs 5-Jarvis-Ruprecht
         660    0.50   2.50 3-Hendrickson-Miller vs 1-Christie-Galer
-        180    3.00   0.00 4-- vs 8-Anderson-Taylor
+        180    3.00   0.00 4-Ring-Zaugg vs 8-Anderson-Taylor
         620    2.00   1.00 10-Miller-Mohrman vs 9-Christensen-Wright
 ----------------------------------------------------------------------
 
@@ -80,7 +80,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
   N-S   E-W    N-S    E-W
   620          0.00   3.00 2-Romeo-Gottesmann vs 5-Jarvis-Ruprecht
   650          2.00   1.00 3-Hendrickson-Miller vs 1-Christie-Galer
-  650          2.00   1.00 4-- vs 8-Anderson-Taylor
+  650          2.00   1.00 4-Ring-Zaugg vs 8-Anderson-Taylor
   650          2.00   1.00 10-Miller-Mohrman vs 9-Christensen-Wright
 ----------------------------------------------------------------------
 
@@ -90,7 +90,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
   N-S   E-W    N-S    E-W
   300          3.00   0.00 2-Romeo-Gottesmann vs 5-Jarvis-Ruprecht
   140          1.00   2.00 3-Hendrickson-Miller vs 1-Christie-Galer
-  200          2.00   1.00 4-- vs 8-Anderson-Taylor
+  200          2.00   1.00 4-Ring-Zaugg vs 8-Anderson-Taylor
   100          0.00   3.00 10-Miller-Mohrman vs 9-Christensen-Wright
 ----------------------------------------------------------------------
 
@@ -98,7 +98,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        620    0.50   2.50 4-- vs 2-Romeo-Gottesmann
+        620    0.50   2.50 4-Ring-Zaugg vs 2-Romeo-Gottesmann
         620    0.50   2.50 5-Jarvis-Ruprecht vs 9-Christensen-Wright
   100          3.00   0.00 7-Eng-Ford vs 8-Anderson-Taylor
         140    2.00   1.00 10-Miller-Mohrman vs 1-Christie-Galer
@@ -108,7 +108,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  100          2.00   1.00 4-- vs 2-Romeo-Gottesmann
+  100          2.00   1.00 4-Ring-Zaugg vs 2-Romeo-Gottesmann
    50          1.00   2.00 5-Jarvis-Ruprecht vs 9-Christensen-Wright
   300          3.00   0.00 7-Eng-Ford vs 8-Anderson-Taylor
         130    0.00   3.00 10-Miller-Mohrman vs 1-Christie-Galer
@@ -118,7 +118,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-         50    1.00   2.00 4-- vs 2-Romeo-Gottesmann
+         50    1.00   2.00 4-Ring-Zaugg vs 2-Romeo-Gottesmann
   200          3.00   0.00 5-Jarvis-Ruprecht vs 9-Christensen-Wright
         140    0.00   3.00 7-Eng-Ford vs 8-Anderson-Taylor
   140          2.00   1.00 10-Miller-Mohrman vs 1-Christie-Galer
@@ -128,7 +128,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
- 1400          3.00   0.00 4-- vs 7-Eng-Ford
+ 1400          3.00   0.00 4-Ring-Zaugg vs 7-Eng-Ford
   650          1.00   2.00 5-Jarvis-Ruprecht vs 3-Hendrickson-Miller
   650          1.00   2.00 8-Anderson-Taylor vs 9-Christensen-Wright
   650          1.00   2.00 10-Miller-Mohrman vs 2-Romeo-Gottesmann
@@ -138,7 +138,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        120    2.00   1.00 4-- vs 7-Eng-Ford
+        120    2.00   1.00 4-Ring-Zaugg vs 7-Eng-Ford
         170    0.50   2.50 5-Jarvis-Ruprecht vs 3-Hendrickson-Miller
         170    0.50   2.50 8-Anderson-Taylor vs 9-Christensen-Wright
   100          3.00   0.00 10-Miller-Mohrman vs 2-Romeo-Gottesmann
@@ -148,7 +148,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-       1010    0.00   3.00 4-- vs 7-Eng-Ford
+       1010    0.00   3.00 4-Ring-Zaugg vs 7-Eng-Ford
         480    2.00   1.00 5-Jarvis-Ruprecht vs 3-Hendrickson-Miller
         480    2.00   1.00 8-Anderson-Taylor vs 9-Christensen-Wright
         480    2.00   1.00 10-Miller-Mohrman vs 2-Romeo-Gottesmann
@@ -191,7 +191,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
   200          1.50   1.50 1-Christie-Galer vs 2-Romeo-Gottesmann
   180          0.00   3.00 7-Eng-Ford vs 5-Jarvis-Ruprecht
   200          1.50   1.50 8-Anderson-Taylor vs 3-Hendrickson-Miller
-  400          3.00   0.00 10-Miller-Mohrman vs 4--
+  400          3.00   0.00 10-Miller-Mohrman vs 4-Ring-Zaugg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 17
@@ -201,7 +201,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
         140    2.00   1.00 1-Christie-Galer vs 2-Romeo-Gottesmann
         150    1.00   2.00 7-Eng-Ford vs 5-Jarvis-Ruprecht
         110    3.00   0.00 8-Anderson-Taylor vs 3-Hendrickson-Miller
-        170    0.00   3.00 10-Miller-Mohrman vs 4--
+        170    0.00   3.00 10-Miller-Mohrman vs 4-Ring-Zaugg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 18
@@ -211,7 +211,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
   600          0.50   2.50 1-Christie-Galer vs 2-Romeo-Gottesmann
  1370          3.00   0.00 7-Eng-Ford vs 5-Jarvis-Ruprecht
   630          2.00   1.00 8-Anderson-Taylor vs 3-Hendrickson-Miller
-  600          0.50   2.50 10-Miller-Mohrman vs 4--
+  600          0.50   2.50 10-Miller-Mohrman vs 4-Ring-Zaugg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 19
@@ -220,7 +220,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
   N-S   E-W    N-S    E-W
   100          2.00   1.00 2-Romeo-Gottesmann vs 3-Hendrickson-Miller
   200          3.00   0.00 7-Eng-Ford vs 1-Christie-Galer
-        100    0.00   3.00 9-Christensen-Wright vs 4--
+        100    0.00   3.00 9-Christensen-Wright vs 4-Ring-Zaugg
          50    1.00   2.00 10-Miller-Mohrman vs 5-Jarvis-Ruprecht
 ----------------------------------------------------------------------
 
@@ -230,7 +230,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
   N-S   E-W    N-S    E-W
   110          2.00   1.00 2-Romeo-Gottesmann vs 3-Hendrickson-Miller
         100    0.00   3.00 7-Eng-Ford vs 1-Christie-Galer
-  200          3.00   0.00 9-Christensen-Wright vs 4--
+  200          3.00   0.00 9-Christensen-Wright vs 4-Ring-Zaugg
   100          1.00   2.00 10-Miller-Mohrman vs 5-Jarvis-Ruprecht
 ----------------------------------------------------------------------
 
@@ -240,7 +240,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
   N-S   E-W    N-S    E-W
         100    0.00   3.00 2-Romeo-Gottesmann vs 3-Hendrickson-Miller
   140          2.00   1.00 7-Eng-Ford vs 1-Christie-Galer
-  130          1.00   2.00 9-Christensen-Wright vs 4--
+  130          1.00   2.00 9-Christensen-Wright vs 4-Ring-Zaugg
   170          3.00   0.00 10-Miller-Mohrman vs 5-Jarvis-Ruprecht
 ----------------------------------------------------------------------
 
@@ -249,7 +249,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         100    1.50   1.50 1-Christie-Galer vs 5-Jarvis-Ruprecht
-  120          3.00   0.00 3-Hendrickson-Miller vs 4--
+  120          3.00   0.00 3-Hendrickson-Miller vs 4-Ring-Zaugg
         100    1.50   1.50 8-Anderson-Taylor vs 2-Romeo-Gottesmann
         150    0.00   3.00 9-Christensen-Wright vs 7-Eng-Ford
 ----------------------------------------------------------------------
@@ -259,7 +259,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   200          2.00   1.00 1-Christie-Galer vs 5-Jarvis-Ruprecht
-        100    0.00   3.00 3-Hendrickson-Miller vs 4--
+        100    0.00   3.00 3-Hendrickson-Miller vs 4-Ring-Zaugg
   110          1.00   2.00 8-Anderson-Taylor vs 2-Romeo-Gottesmann
   300          3.00   0.00 9-Christensen-Wright vs 7-Eng-Ford
 ----------------------------------------------------------------------
@@ -269,7 +269,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         510    0.00   3.00 1-Christie-Galer vs 5-Jarvis-Ruprecht
-   50          2.50   0.50 3-Hendrickson-Miller vs 4--
+   50          2.50   0.50 3-Hendrickson-Miller vs 4-Ring-Zaugg
    50          2.50   0.50 8-Anderson-Taylor vs 2-Romeo-Gottesmann
         140    1.00   2.00 9-Christensen-Wright vs 7-Eng-Ford
 ----------------------------------------------------------------------
@@ -279,7 +279,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   430          1.00   2.00 1-Christie-Galer vs 8-Anderson-Taylor
-  460          2.50   0.50 4-- vs 5-Jarvis-Ruprecht
+  460          2.50   0.50 4-Ring-Zaugg vs 5-Jarvis-Ruprecht
   460          2.50   0.50 9-Christensen-Wright vs 3-Hendrickson-Miller
   420          0.00   3.00 10-Miller-Mohrman vs 7-Eng-Ford
 ----------------------------------------------------------------------
@@ -289,7 +289,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   630          0.50   2.50 1-Christie-Galer vs 8-Anderson-Taylor
-  630          0.50   2.50 4-- vs 5-Jarvis-Ruprecht
+  630          0.50   2.50 4-Ring-Zaugg vs 5-Jarvis-Ruprecht
   650          2.00   1.00 9-Christensen-Wright vs 3-Hendrickson-Miller
   660          3.00   0.00 10-Miller-Mohrman vs 7-Eng-Ford
 ----------------------------------------------------------------------
@@ -299,7 +299,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
    50          3.00   0.00 1-Christie-Galer vs 8-Anderson-Taylor
-        450    1.00   2.00 4-- vs 5-Jarvis-Ruprecht
+        450    1.00   2.00 4-Ring-Zaugg vs 5-Jarvis-Ruprecht
         450    1.00   2.00 9-Christensen-Wright vs 3-Hendrickson-Miller
         450    1.00   2.00 10-Miller-Mohrman vs 7-Eng-Ford
 ----------------------------------------------------------------------
