@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>March 4, 2025      |CLUB NO.>158048    | 03/04/2025 21:54
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/4000/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=9/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Christensen       Mike Ring                A    .     .     .     76.00  48.72          
+
+ 2 Sue Anderson           Dave Grubbs              A    .     .     .     78.00  50.00          
+
+ 3 Kim Eng                Chris Moore              A    3     .     .     85.50  54.81  0.84(A) 
+
+ 4 Jeannie Falls          Bruce Baker-Harvey       C    .     .     .     55.50  35.58          
+
+ 5 Adam Ruprecht          Christopher Jarvis       C    1     1     1     93.50  59.94  1.50(A) 
+
+ 6 Bryan Delfs            Bogdan Vulcan            B   5/6   4/5    .     84.00  53.85  0.37(A) 
+
+ 7 David Taylor           Chris Pesce              B    4     3     .     85.00  54.49  0.67(A) 
+
+ 8 Dong Yan               Dong Wei                 B    .     .     .     58.50  37.50          
+
+ 9 Shawn Abernethy        Brian Zaugg              B    2     2     .     88.00  56.41  1.13(A) 
+
+10 Becky Stevens          Shannon Kasperkiewicz    C    .     .     .     74.00  47.44          
+
+11 Joseph Grill           Hugh Hendrickson         C   5/6   4/5    2     84.00  53.85  0.62(C) 
+
+12 Kevin Cline            John Krah                C    .     .     .     68.50  43.91          
+
+13 Corneliu Galer         Stanford Christie        A    .     .     .     78.50  50.32          
+
+14 Ray Miller             Jeffrey Ford             A    .     .     .     83.00  53.21          
+
+
+                                          Totals                        1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   1.00 1-Christensen-Ring vs 3-Eng-Moore
+   50          2.50   3.50 2-Anderson-Grubbs vs 6-Delfs-Vulcan
+        420    0.00   6.00 4-Falls-Baker-Harvey vs 9-Abernethy-Zaugg
+   50          2.50   3.50 5-Ruprecht-Jarvis vs 12-Cline-Krah
+  100          5.00   1.00 7-Taylor-Pesce vs 8-Yan-Wei
+        140    1.00   5.00 13-Galer-Christie vs 10-Stevens-Kasperkiewicz
+  100          5.00   1.00 14-Miller-Ford vs 11-Grill-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   3.50 1-Christensen-Ring vs 3-Eng-Moore
+        110    2.50   3.50 2-Anderson-Grubbs vs 6-Delfs-Vulcan
+        140    0.50   5.50 4-Falls-Baker-Harvey vs 9-Abernethy-Zaugg
+  110          5.00   1.00 5-Ruprecht-Jarvis vs 12-Cline-Krah
+   50          4.00   2.00 7-Taylor-Pesce vs 8-Yan-Wei
+        140    0.50   5.50 13-Galer-Christie vs 10-Stevens-Kasperkiewicz
+  730          6.00   0.00 14-Miller-Ford vs 11-Grill-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          5.50   0.50 1-Christensen-Ring vs 11-Grill-Hendrickson
+    PASS       3.00   3.00 2-Anderson-Grubbs vs 4-Falls-Baker-Harvey
+   90          5.50   0.50 3-Eng-Moore vs 7-Taylor-Pesce
+    PASS       3.00   3.00 5-Ruprecht-Jarvis vs 10-Stevens-Kasperkiewicz
+         50    1.00   5.00 6-Delfs-Vulcan vs 13-Galer-Christie
+        180    0.00   6.00 8-Yan-Wei vs 9-Abernethy-Zaugg
+    PASS       3.00   3.00 14-Miller-Ford vs 12-Cline-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   2.50 1-Christensen-Ring vs 11-Grill-Hendrickson
+  100          3.50   2.50 2-Anderson-Grubbs vs 4-Falls-Baker-Harvey
+        600    0.00   6.00 3-Eng-Moore vs 7-Taylor-Pesce
+  100          3.50   2.50 5-Ruprecht-Jarvis vs 10-Stevens-Kasperkiewicz
+  100          3.50   2.50 6-Delfs-Vulcan vs 13-Galer-Christie
+  100          3.50   2.50 8-Yan-Wei vs 9-Abernethy-Zaugg
+  100          3.50   2.50 14-Miller-Ford vs 12-Cline-Krah
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   3.50 2-Anderson-Grubbs vs 12-Cline-Krah
+  100          5.00   1.00 3-Eng-Moore vs 5-Ruprecht-Jarvis
+        420    0.00   6.00 4-Falls-Baker-Harvey vs 8-Yan-Wei
+   50          2.50   3.50 6-Delfs-Vulcan vs 11-Grill-Hendrickson
+  100          5.00   1.00 7-Taylor-Pesce vs 1-Christensen-Ring
+  100          5.00   1.00 9-Abernethy-Zaugg vs 10-Stevens-Kasperkiewicz
+        140    1.00   5.00 14-Miller-Ford vs 13-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   2.00 2-Anderson-Grubbs vs 12-Cline-Krah
+  100          4.00   2.00 3-Eng-Moore vs 5-Ruprecht-Jarvis
+        140    1.50   4.50 4-Falls-Baker-Harvey vs 8-Yan-Wei
+        170    0.00   6.00 6-Delfs-Vulcan vs 11-Grill-Hendrickson
+  300          6.00   0.00 7-Taylor-Pesce vs 1-Christensen-Ring
+  100          4.00   2.00 9-Abernethy-Zaugg vs 10-Stevens-Kasperkiewicz
+        140    1.50   4.50 14-Miller-Ford vs 13-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1370          4.50   1.50 3-Eng-Moore vs 13-Galer-Christie
+  690          1.50   4.50 4-Falls-Baker-Harvey vs 6-Delfs-Vulcan
+ 1370          4.50   1.50 5-Ruprecht-Jarvis vs 9-Abernethy-Zaugg
+  720          3.00   3.00 7-Taylor-Pesce vs 12-Cline-Krah
+  600          0.00   6.00 8-Yan-Wei vs 2-Anderson-Grubbs
+  690          1.50   4.50 10-Stevens-Kasperkiewicz vs 11-Grill-Hendrickson
+ 2000          6.00   0.00 14-Miller-Ford vs 1-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   0.50 3-Eng-Moore vs 13-Galer-Christie
+        110    1.00   5.00 4-Falls-Baker-Harvey vs 6-Delfs-Vulcan
+         50    3.50   2.50 5-Ruprecht-Jarvis vs 9-Abernethy-Zaugg
+   50          5.50   0.50 7-Taylor-Pesce vs 12-Cline-Krah
+        140    0.00   6.00 8-Yan-Wei vs 2-Anderson-Grubbs
+        100    2.00   4.00 10-Stevens-Kasperkiewicz vs 11-Grill-Hendrickson
+         50    3.50   2.50 14-Miller-Ford vs 1-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.50   4.50 4-Falls-Baker-Harvey vs 1-Christensen-Ring
+  450          5.00   1.00 5-Ruprecht-Jarvis vs 7-Taylor-Pesce
+  450          5.00   1.00 6-Delfs-Vulcan vs 10-Stevens-Kasperkiewicz
+  420          1.50   4.50 8-Yan-Wei vs 13-Galer-Christie
+  420          1.50   4.50 9-Abernethy-Zaugg vs 3-Eng-Moore
+  420          1.50   4.50 11-Grill-Hendrickson vs 12-Cline-Krah
+  450          5.00   1.00 14-Miller-Ford vs 2-Anderson-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   2.50 4-Falls-Baker-Harvey vs 1-Christensen-Ring
+  170          5.50   0.50 5-Ruprecht-Jarvis vs 7-Taylor-Pesce
+        100    1.00   5.00 6-Delfs-Vulcan vs 10-Stevens-Kasperkiewicz
+        100    1.00   5.00 8-Yan-Wei vs 13-Galer-Christie
+        100    1.00   5.00 9-Abernethy-Zaugg vs 3-Eng-Moore
+  170          5.50   0.50 11-Grill-Hendrickson vs 12-Cline-Krah
+  140          3.50   2.50 14-Miller-Ford vs 2-Anderson-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          4.50   1.50 5-Ruprecht-Jarvis vs 2-Anderson-Grubbs
+  400          4.50   1.50 6-Delfs-Vulcan vs 8-Yan-Wei
+  420          6.00   0.00 7-Taylor-Pesce vs 11-Grill-Hendrickson
+  170          3.00   3.00 9-Abernethy-Zaugg vs 1-Christensen-Ring
+  150          1.50   4.50 10-Stevens-Kasperkiewicz vs 4-Falls-Baker-Harvey
+        100    0.00   6.00 12-Cline-Krah vs 13-Galer-Christie
+  150          1.50   4.50 14-Miller-Ford vs 3-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    5.00   1.00 5-Ruprecht-Jarvis vs 2-Anderson-Grubbs
+        400    4.00   2.00 6-Delfs-Vulcan vs 8-Yan-Wei
+   50          6.00   0.00 7-Taylor-Pesce vs 11-Grill-Hendrickson
+        420    3.00   3.00 9-Abernethy-Zaugg vs 1-Christensen-Ring
+        450    1.00   5.00 10-Stevens-Kasperkiewicz vs 4-Falls-Baker-Harvey
+        450    1.00   5.00 12-Cline-Krah vs 13-Galer-Christie
+        450    1.00   5.00 14-Miller-Ford vs 3-Eng-Moore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   2.00 6-Delfs-Vulcan vs 3-Eng-Moore
+        400    0.00   6.00 7-Taylor-Pesce vs 9-Abernethy-Zaugg
+  110          6.00   0.00 8-Yan-Wei vs 12-Cline-Krah
+        100    4.00   2.00 10-Stevens-Kasperkiewicz vs 2-Anderson-Grubbs
+        300    1.50   4.50 11-Grill-Hendrickson vs 5-Ruprecht-Jarvis
+        300    1.50   4.50 13-Galer-Christie vs 1-Christensen-Ring
+        100    4.00   2.00 14-Miller-Ford vs 4-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.00   4.00 6-Delfs-Vulcan vs 3-Eng-Moore
+        300    5.00   1.00 7-Taylor-Pesce vs 9-Abernethy-Zaugg
+        400    2.00   4.00 8-Yan-Wei vs 12-Cline-Krah
+        400    2.00   4.00 10-Stevens-Kasperkiewicz vs 2-Anderson-Grubbs
+   50          6.00   0.00 11-Grill-Hendrickson vs 5-Ruprecht-Jarvis
+        400    2.00   4.00 13-Galer-Christie vs 1-Christensen-Ring
+        400    2.00   4.00 14-Miller-Ford vs 4-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   4.50 1-Christensen-Ring vs 2-Anderson-Grubbs
+  630          5.00   1.00 7-Taylor-Pesce vs 4-Falls-Baker-Harvey
+  600          3.50   2.50 8-Yan-Wei vs 10-Stevens-Kasperkiewicz
+        100    1.50   4.50 9-Abernethy-Zaugg vs 13-Galer-Christie
+        300    0.00   6.00 11-Grill-Hendrickson vs 3-Eng-Moore
+  600          3.50   2.50 12-Cline-Krah vs 6-Delfs-Vulcan
+  660          6.00   0.00 14-Miller-Ford vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    2.00   4.00 1-Christensen-Ring vs 2-Anderson-Grubbs
+        660    2.00   4.00 7-Taylor-Pesce vs 4-Falls-Baker-Harvey
+        660    2.00   4.00 8-Yan-Wei vs 10-Stevens-Kasperkiewicz
+        660    2.00   4.00 9-Abernethy-Zaugg vs 13-Galer-Christie
+        660    2.00   4.00 11-Grill-Hendrickson vs 3-Eng-Moore
+        620    6.00   0.00 12-Cline-Krah vs 6-Delfs-Vulcan
+        630    5.00   1.00 14-Miller-Ford vs 5-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   0.00 2-Anderson-Grubbs vs 3-Eng-Moore
+        420    3.00   3.00 8-Yan-Wei vs 5-Ruprecht-Jarvis
+        420    3.00   3.00 9-Abernethy-Zaugg vs 11-Grill-Hendrickson
+        430    1.00   5.00 10-Stevens-Kasperkiewicz vs 1-Christensen-Ring
+        170    5.00   1.00 12-Cline-Krah vs 4-Falls-Baker-Harvey
+        420    3.00   3.00 13-Galer-Christie vs 7-Taylor-Pesce
+        450    0.00   6.00 14-Miller-Ford vs 6-Delfs-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          4.00   2.00 2-Anderson-Grubbs vs 3-Eng-Moore
+  680          1.50   4.50 8-Yan-Wei vs 5-Ruprecht-Jarvis
+  680          1.50   4.50 9-Abernethy-Zaugg vs 11-Grill-Hendrickson
+  680          1.50   4.50 10-Stevens-Kasperkiewicz vs 1-Christensen-Ring
+  680          1.50   4.50 12-Cline-Krah vs 4-Falls-Baker-Harvey
+  800          5.50   0.50 13-Galer-Christie vs 7-Taylor-Pesce
+  800          5.50   0.50 14-Miller-Ford vs 6-Delfs-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.50   0.50 1-Christensen-Ring vs 8-Yan-Wei
+  420          3.00   3.00 3-Eng-Moore vs 4-Falls-Baker-Harvey
+  420          3.00   3.00 9-Abernethy-Zaugg vs 6-Delfs-Vulcan
+  420          3.00   3.00 10-Stevens-Kasperkiewicz vs 12-Cline-Krah
+  450          5.50   0.50 11-Grill-Hendrickson vs 2-Anderson-Grubbs
+        730    0.00   6.00 13-Galer-Christie vs 5-Ruprecht-Jarvis
+         50    1.00   5.00 14-Miller-Ford vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          5.00   1.00 1-Christensen-Ring vs 8-Yan-Wei
+  120          2.00   4.00 3-Eng-Moore vs 4-Falls-Baker-Harvey
+  120          2.00   4.00 9-Abernethy-Zaugg vs 6-Delfs-Vulcan
+  130          5.00   1.00 10-Stevens-Kasperkiewicz vs 12-Cline-Krah
+  130          5.00   1.00 11-Grill-Hendrickson vs 2-Anderson-Grubbs
+        100    0.00   6.00 13-Galer-Christie vs 5-Ruprecht-Jarvis
+  120          2.00   4.00 14-Miller-Ford vs 7-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.50   3.50 1-Christensen-Ring vs 6-Delfs-Vulcan
+        300    2.50   3.50 2-Anderson-Grubbs vs 9-Abernethy-Zaugg
+        300    2.50   3.50 4-Falls-Baker-Harvey vs 5-Ruprecht-Jarvis
+        200    5.00   1.00 10-Stevens-Kasperkiewicz vs 7-Taylor-Pesce
+  100          6.00   0.00 11-Grill-Hendrickson vs 13-Galer-Christie
+        300    2.50   3.50 12-Cline-Krah vs 3-Eng-Moore
+        400    0.00   6.00 14-Miller-Ford vs 8-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   3.50 1-Christensen-Ring vs 6-Delfs-Vulcan
+        130    1.00   5.00 2-Anderson-Grubbs vs 9-Abernethy-Zaugg
+        600    0.00   6.00 4-Falls-Baker-Harvey vs 5-Ruprecht-Jarvis
+  100          2.50   3.50 10-Stevens-Kasperkiewicz vs 7-Taylor-Pesce
+  200          5.00   1.00 11-Grill-Hendrickson vs 13-Galer-Christie
+  590          6.00   0.00 12-Cline-Krah vs 3-Eng-Moore
+  170          4.00   2.00 14-Miller-Ford vs 8-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.50   2.50 2-Anderson-Grubbs vs 7-Taylor-Pesce
+         80    2.00   4.00 3-Eng-Moore vs 10-Stevens-Kasperkiewicz
+        670    1.00   5.00 5-Ruprecht-Jarvis vs 6-Delfs-Vulcan
+  110          3.50   2.50 11-Grill-Hendrickson vs 8-Yan-Wei
+  200          5.00   1.00 12-Cline-Krah vs 1-Christensen-Ring
+  400          6.00   0.00 13-Galer-Christie vs 4-Falls-Baker-Harvey
+       1000    0.00   6.00 14-Miller-Ford vs 9-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.50   2.50 2-Anderson-Grubbs vs 7-Taylor-Pesce
+  420          0.00   6.00 3-Eng-Moore vs 10-Stevens-Kasperkiewicz
+  480          3.50   2.50 5-Ruprecht-Jarvis vs 6-Delfs-Vulcan
+  480          3.50   2.50 11-Grill-Hendrickson vs 8-Yan-Wei
+  480          3.50   2.50 12-Cline-Krah vs 1-Christensen-Ring
+  480          3.50   2.50 13-Galer-Christie vs 4-Falls-Baker-Harvey
+  480          3.50   2.50 14-Miller-Ford vs 9-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    1.00   5.00 1-Christensen-Ring vs 5-Ruprecht-Jarvis
+        120    3.00   3.00 3-Eng-Moore vs 8-Yan-Wei
+        600    1.00   5.00 4-Falls-Baker-Harvey vs 11-Grill-Hendrickson
+  100          5.00   1.00 6-Delfs-Vulcan vs 7-Taylor-Pesce
+        600    1.00   5.00 12-Cline-Krah vs 9-Abernethy-Zaugg
+  100          5.00   1.00 13-Galer-Christie vs 2-Anderson-Grubbs
+  100          5.00   1.00 14-Miller-Ford vs 10-Stevens-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   4.50 1-Christensen-Ring vs 5-Ruprecht-Jarvis
+  110          6.00   0.00 3-Eng-Moore vs 8-Yan-Wei
+        140    1.50   4.50 4-Falls-Baker-Harvey vs 11-Grill-Hendrickson
+        110    4.50   1.50 6-Delfs-Vulcan vs 7-Taylor-Pesce
+        140    1.50   4.50 12-Cline-Krah vs 9-Abernethy-Zaugg
+        140    1.50   4.50 13-Galer-Christie vs 2-Anderson-Grubbs
+        110    4.50   1.50 14-Miller-Ford vs 10-Stevens-Kasperkiewicz
+----------------------------------------------------------------------
