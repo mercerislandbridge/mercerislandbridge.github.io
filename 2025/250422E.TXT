@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>April 22, 2025     |CLUB NO.>158048    | 04/22/2025 21:50
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim/Brian       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=4/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Rajendra Gokhale       Arvind Ranasaria         A    .     .     .     97.12  51.39          
+
+ 2 Jeannie Falls          Bruce Baker-Harvey       C    .     2     1     94.87  50.20  0.24(C) 
+
+ 3 Kim Eng                Jeffrey Ford             A    2     .     .     99.56  52.68  0.63(A) 
+
+ 4 Ray Miller             Aaron Mohrman            A    4     .     .     97.50  51.59  0.32(A) 
+
+ 5 Sue Anderson           David Taylor             A    3     .     .     98.25  51.98  0.45(A) 
+
+ 6 Oyvind Tafjord         Shawn Abernethy          B    1     1     .    117.93  62.40  0.90(A) 
+
+ 7 Cindy Pauley           Shannon Kasperkiewicz    C    .     .     .     60.75  32.14          
+
+ 8 Jin Wang               Lu Gan                   C    .     .     .     91.69  48.51          
+
+ 9 Krishnan Ramaratnam    Arjun Chaunal            A    .     .     .     92.81  49.11          
+
+
+                                          Totals                         850.48       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>April 22, 2025     |CLUB NO.>158048    | 04/22/2025 21:50
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim/Brian       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brad Rind              Paul Schwaighart         A    2     .     .    111.00  58.73  0.63(A) 
+
+ 2 Mike Christensen       David Wright             A    1     .     .    115.33  61.02  0.90(A) 
+
+ 3 Brian Zaugg            Mike Ring                B    .     .     .     72.00  38.10          
+
+ 4 Corneliu Galer         Stanford Christie        A    .     .     .     91.17  48.24          
+
+ 5 Dong Yan               Dong Wei                 B    3     1     .    100.67  53.26  0.45(A) 
+
+ 6 Valliappa Lakshmanan   Christopher Jarvis       C    .     .     .     92.67  49.03          
+
+ 7 Liz Heron              Shaz Qadeer              C    .     .     .     73.67  38.98          
+
+ 8 Hugh Hendrickson       Laura Miller             C    4     2     1     99.50  52.65  0.32(A) 
+
+
+
+
+                                          Totals                         756.01       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.50   4.50 1-Gokhale-Ranasaria vs 1-Rind-Schwaighart
+        400    5.50   1.50 2-Falls-Baker-Harvey vs 3-Zaugg-Ring
+        420    4.00   3.00 3-Eng-Ford vs 5-Yan-Wei
+  100          7.00   0.00 4-Miller-Mohrman vs 7-Heron-Qadeer
+        400    5.50   1.50 6-Tafjord-Abernethy vs 2-Christensen-Wright
+        460    0.50   6.50 7-Pauley-Kasperkiewicz vs 4-Galer-Christie
+        460    0.50   6.50 8-Wang-Gan vs 6-Lakshmanan-Jarvis
+        430    2.50   4.50 9-Ramaratnam-Chaunal vs 8-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   6.00 1-Gokhale-Ranasaria vs 1-Rind-Schwaighart
+  150          5.00   2.00 2-Falls-Baker-Harvey vs 3-Zaugg-Ring
+  150          5.00   2.00 3-Eng-Ford vs 5-Yan-Wei
+        130    1.00   6.00 4-Miller-Mohrman vs 7-Heron-Qadeer
+        110    3.00   4.00 6-Tafjord-Abernethy vs 2-Christensen-Wright
+  150          5.00   2.00 7-Pauley-Kasperkiewicz vs 4-Galer-Christie
+        130    1.00   6.00 8-Wang-Gan vs 6-Lakshmanan-Jarvis
+  250          7.00   0.00 9-Ramaratnam-Chaunal vs 8-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   6.00 1-Gokhale-Ranasaria vs 1-Rind-Schwaighart
+  140          5.00   2.00 2-Falls-Baker-Harvey vs 3-Zaugg-Ring
+  140          5.00   2.00 3-Eng-Ford vs 5-Yan-Wei
+  100          2.00   5.00 4-Miller-Mohrman vs 7-Heron-Qadeer
+  140          5.00   2.00 6-Tafjord-Abernethy vs 2-Christensen-Wright
+        140    0.00   7.00 7-Pauley-Kasperkiewicz vs 4-Galer-Christie
+  140          5.00   2.00 8-Wang-Gan vs 6-Lakshmanan-Jarvis
+  140          5.00   2.00 9-Ramaratnam-Chaunal vs 8-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    2.00   5.00 2-Falls-Baker-Harvey vs 2-Christensen-Wright
+        300    1.00   6.00 3-Eng-Ford vs 4-Galer-Christie
+        140    5.50   1.50 4-Miller-Mohrman vs 6-Lakshmanan-Jarvis
+        140    5.50   1.50 5-Anderson-Taylor vs 8-Hendrickson-Miller
+        140    5.50   1.50 6-Tafjord-Abernethy vs 1-Rind-Schwaighart
+        140    5.50   1.50 7-Pauley-Kasperkiewicz vs 3-Zaugg-Ring
+        620    0.00   7.00 8-Wang-Gan vs 5-Yan-Wei
+        150    3.00   4.00 9-Ramaratnam-Chaunal vs 7-Heron-Qadeer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    6.50   0.50 2-Falls-Baker-Harvey vs 2-Christensen-Wright
+        430    2.50   4.50 3-Eng-Ford vs 4-Galer-Christie
+        430    2.50   4.50 4-Miller-Mohrman vs 6-Lakshmanan-Jarvis
+        430    2.50   4.50 5-Anderson-Taylor vs 8-Hendrickson-Miller
+        430    2.50   4.50 6-Tafjord-Abernethy vs 1-Rind-Schwaighart
+        430    2.50   4.50 7-Pauley-Kasperkiewicz vs 3-Zaugg-Ring
+        400    6.50   0.50 8-Wang-Gan vs 5-Yan-Wei
+        430    2.50   4.50 9-Ramaratnam-Chaunal vs 7-Heron-Qadeer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.50   6.50 2-Falls-Baker-Harvey vs 2-Christensen-Wright
+  480          5.00   2.00 3-Eng-Ford vs 4-Galer-Christie
+  480          5.00   2.00 4-Miller-Mohrman vs 6-Lakshmanan-Jarvis
+  480          5.00   2.00 5-Anderson-Taylor vs 8-Hendrickson-Miller
+  480          5.00   2.00 6-Tafjord-Abernethy vs 1-Rind-Schwaighart
+  480          5.00   2.00 7-Pauley-Kasperkiewicz vs 3-Zaugg-Ring
+  450          2.00   5.00 8-Wang-Gan vs 5-Yan-Wei
+  200          0.50   6.50 9-Ramaratnam-Chaunal vs 7-Heron-Qadeer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.50   2.50 1-Gokhale-Ranasaria vs 8-Hendrickson-Miller
+       1430    0.50   6.50 2-Falls-Baker-Harvey vs 1-Rind-Schwaighart
+        680    4.50   2.50 3-Eng-Ford vs 3-Zaugg-Ring
+        680    4.50   2.50 4-Miller-Mohrman vs 5-Yan-Wei
+        680    4.50   2.50 5-Anderson-Taylor vs 7-Heron-Qadeer
+       1430    0.50   6.50 7-Pauley-Kasperkiewicz vs 2-Christensen-Wright
+        680    4.50   2.50 8-Wang-Gan vs 4-Galer-Christie
+        680    4.50   2.50 9-Ramaratnam-Chaunal vs 6-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   4.50 1-Gokhale-Ranasaria vs 8-Hendrickson-Miller
+  450          2.50   4.50 2-Falls-Baker-Harvey vs 1-Rind-Schwaighart
+  450          2.50   4.50 3-Eng-Ford vs 3-Zaugg-Ring
+  480          6.50   0.50 4-Miller-Mohrman vs 5-Yan-Wei
+  480          6.50   0.50 5-Anderson-Taylor vs 7-Heron-Qadeer
+  420          0.00   7.00 7-Pauley-Kasperkiewicz vs 2-Christensen-Wright
+  460          5.00   2.00 8-Wang-Gan vs 4-Galer-Christie
+  450          2.50   4.50 9-Ramaratnam-Chaunal vs 6-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   5.50 1-Gokhale-Ranasaria vs 8-Hendrickson-Miller
+        100    1.50   5.50 2-Falls-Baker-Harvey vs 1-Rind-Schwaighart
+ 1100          7.00   0.00 3-Eng-Ford vs 3-Zaugg-Ring
+   90          5.00   2.00 4-Miller-Mohrman vs 5-Yan-Wei
+  120          6.00   1.00 5-Anderson-Taylor vs 7-Heron-Qadeer
+        100    1.50   5.50 7-Pauley-Kasperkiewicz vs 2-Christensen-Wright
+         50    4.00   3.00 8-Wang-Gan vs 4-Galer-Christie
+        100    1.50   5.50 9-Ramaratnam-Chaunal vs 6-Lakshmanan-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          7.00   0.00 1-Gokhale-Ranasaria vs 7-Heron-Qadeer
+  620          5.00   2.00 3-Eng-Ford vs 2-Christensen-Wright
+        100    0.00   7.00 4-Miller-Mohrman vs 4-Galer-Christie
+  620          5.00   2.00 5-Anderson-Taylor vs 6-Lakshmanan-Jarvis
+  600          3.00   4.00 6-Tafjord-Abernethy vs 8-Hendrickson-Miller
+  170          1.50   5.50 7-Pauley-Kasperkiewicz vs 1-Rind-Schwaighart
+  620          5.00   2.00 8-Wang-Gan vs 3-Zaugg-Ring
+  170          1.50   5.50 9-Ramaratnam-Chaunal vs 5-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    3.00   4.00 1-Gokhale-Ranasaria vs 7-Heron-Qadeer
+        500    0.00   7.00 3-Eng-Ford vs 2-Christensen-Wright
+        400    5.50   1.50 4-Miller-Mohrman vs 4-Galer-Christie
+        400    5.50   1.50 5-Anderson-Taylor vs 6-Lakshmanan-Jarvis
+        430    3.00   4.00 6-Tafjord-Abernethy vs 8-Hendrickson-Miller
+        460    1.00   6.00 7-Pauley-Kasperkiewicz vs 1-Rind-Schwaighart
+        430    3.00   4.00 8-Wang-Gan vs 3-Zaugg-Ring
+   50          7.00   0.00 9-Ramaratnam-Chaunal vs 5-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          2.50   4.50 1-Gokhale-Ranasaria vs 7-Heron-Qadeer
+  500          2.50   4.50 3-Eng-Ford vs 2-Christensen-Wright
+  650          6.00   1.00 4-Miller-Mohrman vs 4-Galer-Christie
+  650          6.00   1.00 5-Anderson-Taylor vs 6-Lakshmanan-Jarvis
+  650          6.00   1.00 6-Tafjord-Abernethy vs 8-Hendrickson-Miller
+        100    0.00   7.00 7-Pauley-Kasperkiewicz vs 1-Rind-Schwaighart
+  620          4.00   3.00 8-Wang-Gan vs 3-Zaugg-Ring
+  300          1.00   6.00 9-Ramaratnam-Chaunal vs 5-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   1.00 1-Gokhale-Ranasaria vs 6-Lakshmanan-Jarvis
+  100          2.50   4.50 2-Falls-Baker-Harvey vs 8-Hendrickson-Miller
+  200          6.00   1.00 3-Eng-Ford vs 1-Rind-Schwaighart
+  100          2.50   4.50 4-Miller-Mohrman vs 3-Zaugg-Ring
+        110    0.00   7.00 5-Anderson-Taylor vs 5-Yan-Wei
+  200          6.00   1.00 6-Tafjord-Abernethy vs 7-Heron-Qadeer
+  100          2.50   4.50 8-Wang-Gan vs 2-Christensen-Wright
+  100          2.50   4.50 9-Ramaratnam-Chaunal vs 4-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.00   3.00 1-Gokhale-Ranasaria vs 6-Lakshmanan-Jarvis
+  200          2.00   5.00 2-Falls-Baker-Harvey vs 8-Hendrickson-Miller
+  420          5.50   1.50 3-Eng-Ford vs 1-Rind-Schwaighart
+  200          2.00   5.00 4-Miller-Mohrman vs 3-Zaugg-Ring
+  140          0.00   7.00 5-Anderson-Taylor vs 5-Yan-Wei
+  450          7.00   0.00 6-Tafjord-Abernethy vs 7-Heron-Qadeer
+  200          2.00   5.00 8-Wang-Gan vs 2-Christensen-Wright
+  420          5.50   1.50 9-Ramaratnam-Chaunal vs 4-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   3.00 1-Gokhale-Ranasaria vs 6-Lakshmanan-Jarvis
+        110    0.00   7.00 2-Falls-Baker-Harvey vs 8-Hendrickson-Miller
+  650          4.00   3.00 3-Eng-Ford vs 1-Rind-Schwaighart
+  650          4.00   3.00 4-Miller-Mohrman vs 3-Zaugg-Ring
+   50          1.00   6.00 5-Anderson-Taylor vs 5-Yan-Wei
+  800          7.00   0.00 6-Tafjord-Abernethy vs 7-Heron-Qadeer
+  650          4.00   3.00 8-Wang-Gan vs 2-Christensen-Wright
+  650          4.00   3.00 9-Ramaratnam-Chaunal vs 4-Galer-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    5.50   1.50 1-Gokhale-Ranasaria vs 5-Yan-Wei
+         80    7.00   0.00 2-Falls-Baker-Harvey vs 7-Heron-Qadeer
+        630    2.00   5.00 4-Miller-Mohrman vs 2-Christensen-Wright
+        630    2.00   5.00 5-Anderson-Taylor vs 4-Galer-Christie
+        630    2.00   5.00 6-Tafjord-Abernethy vs 6-Lakshmanan-Jarvis
+        630    2.00   5.00 7-Pauley-Kasperkiewicz vs 8-Hendrickson-Miller
+        630    2.00   5.00 8-Wang-Gan vs 1-Rind-Schwaighart
+        600    5.50   1.50 9-Ramaratnam-Chaunal vs 3-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          4.00   3.00 1-Gokhale-Ranasaria vs 5-Yan-Wei
+  400          4.00   3.00 2-Falls-Baker-Harvey vs 7-Heron-Qadeer
+  180          1.00   6.00 4-Miller-Mohrman vs 2-Christensen-Wright
+  400          4.00   3.00 5-Anderson-Taylor vs 4-Galer-Christie
+  400          4.00   3.00 6-Tafjord-Abernethy vs 6-Lakshmanan-Jarvis
+  400          4.00   3.00 7-Pauley-Kasperkiewicz vs 8-Hendrickson-Miller
+        100    0.00   7.00 8-Wang-Gan vs 1-Rind-Schwaighart
+  430          7.00   0.00 9-Ramaratnam-Chaunal vs 3-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.83   4.17 1-Gokhale-Ranasaria vs 5-Yan-Wei
+   50          6.83   0.17 2-Falls-Baker-Harvey vs 7-Heron-Qadeer
+        420    0.17   6.83 4-Miller-Mohrman vs 2-Christensen-Wright
+        400    2.83   4.17 5-Anderson-Taylor vs 4-Galer-Christie
+        400    2.83   4.17 6-Tafjord-Abernethy vs 6-Lakshmanan-Jarvis
+  AVE   AVE    3.50   3.50 7-Pauley-Kasperkiewicz vs 8-Hendrickson-Miller
+  AVE   AVE    3.50   3.50 8-Wang-Gan vs 1-Rind-Schwaighart
+        170    5.50   1.50 9-Ramaratnam-Chaunal vs 3-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.50   3.50 1-Gokhale-Ranasaria vs 4-Galer-Christie
+  400          3.50   3.50 2-Falls-Baker-Harvey vs 6-Lakshmanan-Jarvis
+  400          3.50   3.50 3-Eng-Ford vs 8-Hendrickson-Miller
+  430          6.50   0.50 4-Miller-Mohrman vs 1-Rind-Schwaighart
+  430          6.50   0.50 5-Anderson-Taylor vs 3-Zaugg-Ring
+         50    0.00   7.00 6-Tafjord-Abernethy vs 5-Yan-Wei
+  400          3.50   3.50 7-Pauley-Kasperkiewicz vs 7-Heron-Qadeer
+  180          1.00   6.00 9-Ramaratnam-Chaunal vs 2-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          7.00   0.00 1-Gokhale-Ranasaria vs 4-Galer-Christie
+  200          4.50   2.50 2-Falls-Baker-Harvey vs 6-Lakshmanan-Jarvis
+  200          4.50   2.50 3-Eng-Ford vs 8-Hendrickson-Miller
+  200          4.50   2.50 4-Miller-Mohrman vs 1-Rind-Schwaighart
+  100          1.00   6.00 5-Anderson-Taylor vs 3-Zaugg-Ring
+  100          1.00   6.00 6-Tafjord-Abernethy vs 5-Yan-Wei
+  100          1.00   6.00 7-Pauley-Kasperkiewicz vs 7-Heron-Qadeer
+  200          4.50   2.50 9-Ramaratnam-Chaunal vs 2-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   5.00 1-Gokhale-Ranasaria vs 4-Galer-Christie
+        500    1.00   6.00 2-Falls-Baker-Harvey vs 6-Lakshmanan-Jarvis
+        530    0.00   7.00 3-Eng-Ford vs 8-Hendrickson-Miller
+  600          6.50   0.50 4-Miller-Mohrman vs 1-Rind-Schwaighart
+  130          3.50   3.50 5-Anderson-Taylor vs 3-Zaugg-Ring
+  600          6.50   0.50 6-Tafjord-Abernethy vs 5-Yan-Wei
+  170          5.00   2.00 7-Pauley-Kasperkiewicz vs 7-Heron-Qadeer
+  130          3.50   3.50 9-Ramaratnam-Chaunal vs 2-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.50   4.50 1-Gokhale-Ranasaria vs 3-Zaugg-Ring
+  420          2.50   4.50 2-Falls-Baker-Harvey vs 5-Yan-Wei
+  420          2.50   4.50 3-Eng-Ford vs 7-Heron-Qadeer
+  420          2.50   4.50 5-Anderson-Taylor vs 2-Christensen-Wright
+  450          6.50   0.50 6-Tafjord-Abernethy vs 4-Galer-Christie
+  420          2.50   4.50 7-Pauley-Kasperkiewicz vs 6-Lakshmanan-Jarvis
+  450          6.50   0.50 8-Wang-Gan vs 8-Hendrickson-Miller
+  420          2.50   4.50 9-Ramaratnam-Chaunal vs 1-Rind-Schwaighart
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          6.00   1.00 1-Gokhale-Ranasaria vs 3-Zaugg-Ring
+  650          7.00   0.00 2-Falls-Baker-Harvey vs 5-Yan-Wei
+  600          4.50   2.50 3-Eng-Ford vs 7-Heron-Qadeer
+  500          2.50   4.50 5-Anderson-Taylor vs 2-Christensen-Wright
+  500          2.50   4.50 6-Tafjord-Abernethy vs 4-Galer-Christie
+  600          4.50   2.50 7-Pauley-Kasperkiewicz vs 6-Lakshmanan-Jarvis
+  170          1.00   6.00 8-Wang-Gan vs 8-Hendrickson-Miller
+        100    0.00   7.00 9-Ramaratnam-Chaunal vs 1-Rind-Schwaighart
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   4.50 1-Gokhale-Ranasaria vs 3-Zaugg-Ring
+  500          5.00   2.00 2-Falls-Baker-Harvey vs 5-Yan-Wei
+  300          1.00   6.00 3-Eng-Ford vs 7-Heron-Qadeer
+  500          5.00   2.00 5-Anderson-Taylor vs 2-Christensen-Wright
+  800          7.00   0.00 6-Tafjord-Abernethy vs 4-Galer-Christie
+  100          0.00   7.00 7-Pauley-Kasperkiewicz vs 6-Lakshmanan-Jarvis
+  500          5.00   2.00 8-Wang-Gan vs 8-Hendrickson-Miller
+  450          2.50   4.50 9-Ramaratnam-Chaunal vs 1-Rind-Schwaighart
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          6.50   0.50 1-Gokhale-Ranasaria vs 2-Christensen-Wright
+  420          4.00   3.00 2-Falls-Baker-Harvey vs 4-Galer-Christie
+  170          0.50   6.50 3-Eng-Ford vs 6-Lakshmanan-Jarvis
+  200          2.00   5.00 4-Miller-Mohrman vs 8-Hendrickson-Miller
+  170          0.50   6.50 5-Anderson-Taylor vs 1-Rind-Schwaighart
+  450          6.50   0.50 6-Tafjord-Abernethy vs 3-Zaugg-Ring
+  420          4.00   3.00 7-Pauley-Kasperkiewicz vs 5-Yan-Wei
+  420          4.00   3.00 8-Wang-Gan vs 7-Heron-Qadeer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.50   5.50 1-Gokhale-Ranasaria vs 2-Christensen-Wright
+  650          5.50   1.50 2-Falls-Baker-Harvey vs 4-Galer-Christie
+  650          5.50   1.50 3-Eng-Ford vs 6-Lakshmanan-Jarvis
+  630          3.00   4.00 4-Miller-Mohrman vs 8-Hendrickson-Miller
+  650          5.50   1.50 5-Anderson-Taylor vs 1-Rind-Schwaighart
+  620          1.50   5.50 6-Tafjord-Abernethy vs 3-Zaugg-Ring
+        100    0.00   7.00 7-Pauley-Kasperkiewicz vs 5-Yan-Wei
+  650          5.50   1.50 8-Wang-Gan vs 7-Heron-Qadeer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   4.00 1-Gokhale-Ranasaria vs 2-Christensen-Wright
+        150    0.00   7.00 2-Falls-Baker-Harvey vs 4-Galer-Christie
+  630          7.00   0.00 3-Eng-Ford vs 6-Lakshmanan-Jarvis
+  100          2.00   5.00 4-Miller-Mohrman vs 8-Hendrickson-Miller
+  180          4.00   3.00 5-Anderson-Taylor vs 1-Rind-Schwaighart
+  570          6.00   1.00 6-Tafjord-Abernethy vs 3-Zaugg-Ring
+        110    1.00   6.00 7-Pauley-Kasperkiewicz vs 5-Yan-Wei
+  500          5.00   2.00 8-Wang-Gan vs 7-Heron-Qadeer
+----------------------------------------------------------------------
