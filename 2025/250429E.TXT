@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>April 29, 2025     |CLUB NO.>158048    | 04/29/2025 21:49
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club ACBL Membership         |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/1750 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=9/C=4                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Shawn Abernethy          B   .     .     .   |   .     .     .     76.38  48.96          
+
+ 2 Kim Eng                Adam Ruprecht            B   3     3     .   |   3     3     .     87.21  55.90  1.90(OA)
+
+
+
+ 4 Hugh Hendrickson       Laura Miller             C   5     4     .   |   5     4     2     85.58  54.86  1.07(OA)
+
+ 5 Corneliu Galer         Dave Setterholm          A   .     .     .   |   .     .     .     74.75  47.92          
+
+ 6 Genie Thai-May         Jin Wang                 C   1     1     .   |   1     1     1     90.50  58.01  3.38(OA)
+
+ 7 Jeffrey Ford           David Taylor             A   .     .     .   |   .     .     .     80.71  51.74          
+
+ 8 Mike Christensen       Becky Stevens            A   .     .     .   |   6     .     .     83.42  53.47  0.39(SA)
+
+ 9 Paul Schwaighart       Brad Rind                A   4     .     .   |   4     .     .     86.13  55.21  1.43(OA)
+
+10 Dong Yan               Dong Wei                 B   .     .     .   |   .     .     .     80.71  51.74          
+
+11 Nick Tipton            Sue Anderson             B   .     .     .   |   .     .     .     59.04  37.85          
+
+12 Shannon Kasperkiewicz  Scott Chupack            C   .     .     .   |   .     .     .     69.33  44.44          
+
+13 Stanford Christie      Aaron Mohrman            A   .     .     .   |   .     .     .     72.00  46.15          
+
+14 Ray Miller             Chris Pesce              A   .     .     .   |   .     .     .     78.00  50.00          
+
+15 Muhunthan Sivapragasam Rajalakshmy Sundararaj   C   .     .     .   |   .     .     .     55.79  35.76          
+
+16 Bryan Delfs            J.C. Chupack             B   2     2     .   |   2     2     .     89.92  57.64  2.54(OA)
+
+
+                                          Totals                                           1169.47       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   1.00 4-Hendrickson-Miller vs 14-Miller-Pesce
+        170    1.00   5.00 6-Thai-May-Wang vs 5-Galer-Setterholm
+   50          4.00   2.00 8-Christensen-Stevens vs 12-Kasperkiewicz-Chupack
+        140    2.00   4.00 9-Schwaighart-Rind vs 11-Tipton-Anderson
+        110    3.00   3.00 10-Yan-Wei vs 2-Eng-Ruprecht
+        180    0.00   6.00 13-Christie-Mohrman vs 7-Ford-Taylor
+  600          6.00   0.00 16-Delfs-Chupack vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1100    0.00   6.00 4-Hendrickson-Miller vs 14-Miller-Pesce
+        460    4.00   2.00 6-Thai-May-Wang vs 5-Galer-Setterholm
+        490    2.00   4.00 8-Christensen-Stevens vs 12-Kasperkiewicz-Chupack
+        400    6.00   0.00 9-Schwaighart-Rind vs 11-Tipton-Anderson
+        520    1.00   5.00 10-Yan-Wei vs 2-Eng-Ruprecht
+        460    4.00   2.00 13-Christie-Mohrman vs 7-Ford-Taylor
+        460    4.00   2.00 16-Delfs-Chupack vs 1-Zaugg-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   0.00 1-Zaugg-Abernethy vs 8-Christensen-Stevens
+        650    2.00   4.00 4-Hendrickson-Miller vs 15-Sivapragasam-Sundararajan
+        650    2.00   4.00 5-Galer-Setterholm vs 14-Miller-Pesce
+        650    2.00   4.00 7-Ford-Taylor vs 6-Thai-May-Wang
+        620    5.00   1.00 9-Schwaighart-Rind vs 13-Christie-Mohrman
+        650    2.00   4.00 10-Yan-Wei vs 12-Kasperkiewicz-Chupack
+        650    2.00   4.00 16-Delfs-Chupack vs 2-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.50   5.50 1-Zaugg-Abernethy vs 8-Christensen-Stevens
+  130          4.00   2.00 4-Hendrickson-Miller vs 15-Sivapragasam-Sundararajan
+        170    0.50   5.50 5-Galer-Setterholm vs 14-Miller-Pesce
+  200          5.50   0.50 7-Ford-Taylor vs 6-Thai-May-Wang
+  200          5.50   0.50 9-Schwaighart-Rind vs 13-Christie-Mohrman
+  100          3.00   3.00 10-Yan-Wei vs 12-Kasperkiewicz-Chupack
+        140    2.00   4.00 16-Delfs-Chupack vs 2-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.00   4.00 2-Eng-Ruprecht vs 9-Schwaighart-Rind
+  790          6.00   0.00 5-Galer-Setterholm vs 15-Sivapragasam-Sundararajan
+  300          5.00   1.00 6-Thai-May-Wang vs 14-Miller-Pesce
+  200          3.50   2.50 8-Christensen-Stevens vs 7-Ford-Taylor
+  100          0.00   6.00 10-Yan-Wei vs 1-Zaugg-Abernethy
+  200          3.50   2.50 11-Tipton-Anderson vs 13-Christie-Mohrman
+  140          1.00   5.00 12-Kasperkiewicz-Chupack vs 4-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   4.00 2-Eng-Ruprecht vs 9-Schwaighart-Rind
+  400          4.50   1.50 5-Galer-Setterholm vs 15-Sivapragasam-Sundararajan
+        100    1.00   5.00 6-Thai-May-Wang vs 14-Miller-Pesce
+  150          3.00   3.00 8-Christensen-Stevens vs 7-Ford-Taylor
+  550          6.00   0.00 10-Yan-Wei vs 1-Zaugg-Abernethy
+  400          4.50   1.50 11-Tipton-Anderson vs 13-Christie-Mohrman
+        140    0.00   6.00 12-Kasperkiewicz-Chupack vs 4-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          4.00   2.00 6-Thai-May-Wang vs 15-Sivapragasam-Sundararajan
+        200    0.00   6.00 9-Schwaighart-Rind vs 8-Christensen-Stevens
+        100    1.00   5.00 11-Tipton-Anderson vs 2-Eng-Ruprecht
+  150          3.00   3.00 12-Kasperkiewicz-Chupack vs 1-Zaugg-Abernethy
+  300          6.00   0.00 13-Christie-Mohrman vs 5-Galer-Setterholm
+  200          5.00   1.00 14-Miller-Pesce vs 7-Ford-Taylor
+  110          2.00   4.00 16-Delfs-Chupack vs 4-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          3.50   2.50 6-Thai-May-Wang vs 15-Sivapragasam-Sundararajan
+  300          6.00   0.00 9-Schwaighart-Rind vs 8-Christensen-Stevens
+   90          1.00   5.00 11-Tipton-Anderson vs 2-Eng-Ruprecht
+  100          2.00   4.00 12-Kasperkiewicz-Chupack vs 1-Zaugg-Abernethy
+  120          3.50   2.50 13-Christie-Mohrman vs 5-Galer-Setterholm
+         90    0.00   6.00 14-Miller-Pesce vs 7-Ford-Taylor
+  150          5.00   1.00 16-Delfs-Chupack vs 4-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  470          3.00   3.00 1-Zaugg-Abernethy vs 6-Thai-May-Wang
+  170          2.00   4.00 4-Hendrickson-Miller vs 11-Tipton-Anderson
+  140          0.50   5.50 7-Ford-Taylor vs 15-Sivapragasam-Sundararajan
+  570          4.50   1.50 10-Yan-Wei vs 9-Schwaighart-Rind
+  570          4.50   1.50 13-Christie-Mohrman vs 2-Eng-Ruprecht
+  140          0.50   5.50 14-Miller-Pesce vs 8-Christensen-Stevens
+  630          6.00   0.00 16-Delfs-Chupack vs 5-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.50   5.50 1-Zaugg-Abernethy vs 6-Thai-May-Wang
+        140    4.00   2.00 4-Hendrickson-Miller vs 11-Tipton-Anderson
+ 1100          6.00   0.00 7-Ford-Taylor vs 15-Sivapragasam-Sundararajan
+        650    0.50   5.50 10-Yan-Wei vs 9-Schwaighart-Rind
+        200    2.50   3.50 13-Christie-Mohrman vs 2-Eng-Ruprecht
+  100          5.00   1.00 14-Miller-Pesce vs 8-Christensen-Stevens
+        200    2.50   3.50 16-Delfs-Chupack vs 5-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.50   2.50 2-Eng-Ruprecht vs 7-Ford-Taylor
+  480          3.50   2.50 5-Galer-Setterholm vs 12-Kasperkiewicz-Chupack
+         50    0.00   6.00 8-Christensen-Stevens vs 15-Sivapragasam-Sundararajan
+  480          3.50   2.50 11-Tipton-Anderson vs 10-Yan-Wei
+  480          3.50   2.50 13-Christie-Mohrman vs 4-Hendrickson-Miller
+  480          3.50   2.50 14-Miller-Pesce vs 9-Schwaighart-Rind
+  480          3.50   2.50 16-Delfs-Chupack vs 6-Thai-May-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.50   2.50 2-Eng-Ruprecht vs 7-Ford-Taylor
+        150    2.00   4.00 5-Galer-Setterholm vs 12-Kasperkiewicz-Chupack
+  100          6.00   0.00 8-Christensen-Stevens vs 15-Sivapragasam-Sundararajan
+        430    0.00   6.00 11-Tipton-Anderson vs 10-Yan-Wei
+        140    3.50   2.50 13-Christie-Mohrman vs 4-Hendrickson-Miller
+        110    5.00   1.00 14-Miller-Pesce vs 9-Schwaighart-Rind
+        400    1.00   5.00 16-Delfs-Chupack vs 6-Thai-May-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       2140    0.00   6.00 1-Zaugg-Abernethy vs 5-Galer-Setterholm
+        720    5.50   0.50 2-Eng-Ruprecht vs 4-Hendrickson-Miller
+       1390    3.00   3.00 6-Thai-May-Wang vs 13-Christie-Mohrman
+        720    5.50   0.50 9-Schwaighart-Rind vs 15-Sivapragasam-Sundararajan
+       1390    3.00   3.00 12-Kasperkiewicz-Chupack vs 11-Tipton-Anderson
+       1470    1.00   5.00 14-Miller-Pesce vs 10-Yan-Wei
+       1390    3.00   3.00 16-Delfs-Chupack vs 7-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1010    5.00   1.00 1-Zaugg-Abernethy vs 5-Galer-Setterholm
+       1020    1.50   4.50 2-Eng-Ruprecht vs 4-Hendrickson-Miller
+       1010    5.00   1.00 6-Thai-May-Wang vs 13-Christie-Mohrman
+       1020    1.50   4.50 9-Schwaighart-Rind vs 15-Sivapragasam-Sundararajan
+       1020    1.50   4.50 12-Kasperkiewicz-Chupack vs 11-Tipton-Anderson
+       1020    1.50   4.50 14-Miller-Pesce vs 10-Yan-Wei
+       1010    5.00   1.00 16-Delfs-Chupack vs 7-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    3.00   3.00 2-Eng-Ruprecht vs 6-Thai-May-Wang
+        200    0.00   6.00 4-Hendrickson-Miller vs 9-Schwaighart-Rind
+        150    1.00   5.00 7-Ford-Taylor vs 1-Zaugg-Abernethy
+        130    3.00   3.00 10-Yan-Wei vs 15-Sivapragasam-Sundararajan
+   50          6.00   0.00 13-Christie-Mohrman vs 12-Kasperkiewicz-Chupack
+        130    3.00   3.00 14-Miller-Pesce vs 11-Tipton-Anderson
+        110    5.00   1.00 16-Delfs-Chupack vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   3.00 2-Eng-Ruprecht vs 6-Thai-May-Wang
+  130          4.00   2.00 4-Hendrickson-Miller vs 9-Schwaighart-Rind
+         50    2.00   4.00 7-Ford-Taylor vs 1-Zaugg-Abernethy
+  550          6.00   0.00 10-Yan-Wei vs 15-Sivapragasam-Sundararajan
+        100    1.00   5.00 13-Christie-Mohrman vs 12-Kasperkiewicz-Chupack
+  150          5.00   1.00 14-Miller-Pesce vs 11-Tipton-Anderson
+        140    0.00   6.00 16-Delfs-Chupack vs 8-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   0.00 1-Zaugg-Abernethy vs 13-Christie-Mohrman
+        110    3.50   2.50 4-Hendrickson-Miller vs 6-Thai-May-Wang
+        180    0.00   6.00 5-Galer-Setterholm vs 10-Yan-Wei
+        110    3.50   2.50 8-Christensen-Stevens vs 2-Eng-Ruprecht
+        130    2.00   4.00 14-Miller-Pesce vs 12-Kasperkiewicz-Chupack
+         90    5.00   1.00 15-Sivapragasam-Sundararajan vs 11-Tipton-Anderson
+        150    1.00   5.00 16-Delfs-Chupack vs 9-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   5.00 1-Zaugg-Abernethy vs 13-Christie-Mohrman
+  110          3.00   3.00 4-Hendrickson-Miller vs 6-Thai-May-Wang
+        200    0.00   6.00 5-Galer-Setterholm vs 10-Yan-Wei
+  130          5.50   0.50 8-Christensen-Stevens vs 2-Eng-Ruprecht
+  110          3.00   3.00 14-Miller-Pesce vs 12-Kasperkiewicz-Chupack
+  110          3.00   3.00 15-Sivapragasam-Sundararajan vs 11-Tipton-Anderson
+  130          5.50   0.50 16-Delfs-Chupack vs 9-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          4.00   2.00 2-Eng-Ruprecht vs 1-Zaugg-Abernethy
+  460          4.00   2.00 4-Hendrickson-Miller vs 8-Christensen-Stevens
+  460          4.00   2.00 5-Galer-Setterholm vs 7-Ford-Taylor
+  460          4.00   2.00 6-Thai-May-Wang vs 11-Tipton-Anderson
+  430          1.00   5.00 14-Miller-Pesce vs 13-Christie-Mohrman
+  420          0.00   6.00 15-Sivapragasam-Sundararajan vs 12-Kasperkiewicz-Chup
+  460          4.00   2.00 16-Delfs-Chupack vs 10-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   3.00 2-Eng-Ruprecht vs 1-Zaugg-Abernethy
+  200          6.00   0.00 4-Hendrickson-Miller vs 8-Christensen-Stevens
+        650    3.00   3.00 5-Galer-Setterholm vs 7-Ford-Taylor
+        650    3.00   3.00 6-Thai-May-Wang vs 11-Tipton-Anderson
+        650    3.00   3.00 14-Miller-Pesce vs 13-Christie-Mohrman
+        680    0.00   6.00 15-Sivapragasam-Sundararajan vs 12-Kasperkiewicz-Chup
+        650    3.00   3.00 16-Delfs-Chupack vs 10-Yan-Wei
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   2.00 1-Zaugg-Abernethy vs 14-Miller-Pesce
+  650          4.00   2.00 5-Galer-Setterholm vs 9-Schwaighart-Rind
+  650          4.00   2.00 6-Thai-May-Wang vs 8-Christensen-Stevens
+  650          4.00   2.00 7-Ford-Taylor vs 12-Kasperkiewicz-Chupack
+  630          1.00   5.00 10-Yan-Wei vs 4-Hendrickson-Miller
+        100    0.00   6.00 15-Sivapragasam-Sundararajan vs 13-Christie-Mohrman
+  650          4.00   2.00 16-Delfs-Chupack vs 11-Tipton-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.00   5.00 1-Zaugg-Abernethy vs 14-Miller-Pesce
+  450          4.50   1.50 5-Galer-Setterholm vs 9-Schwaighart-Rind
+  420          1.00   5.00 6-Thai-May-Wang vs 8-Christensen-Stevens
+  450          4.50   1.50 7-Ford-Taylor vs 12-Kasperkiewicz-Chupack
+  420          1.00   5.00 10-Yan-Wei vs 4-Hendrickson-Miller
+  450          4.50   1.50 15-Sivapragasam-Sundararajan vs 13-Christie-Mohrman
+  450          4.50   1.50 16-Delfs-Chupack vs 11-Tipton-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   0.00 2-Eng-Ruprecht vs 14-Miller-Pesce
+        620    3.50   2.50 6-Thai-May-Wang vs 10-Yan-Wei
+       1370    0.00   6.00 7-Ford-Taylor vs 9-Schwaighart-Rind
+        620    3.50   2.50 8-Christensen-Stevens vs 13-Christie-Mohrman
+        620    3.50   2.50 11-Tipton-Anderson vs 5-Galer-Setterholm
+        800    1.00   5.00 15-Sivapragasam-Sundararajan vs 1-Zaugg-Abernethy
+        620    3.50   2.50 16-Delfs-Chupack vs 12-Kasperkiewicz-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   4.00 2-Eng-Ruprecht vs 14-Miller-Pesce
+  120          4.50   1.50 6-Thai-May-Wang vs 10-Yan-Wei
+  500          6.00   0.00 7-Ford-Taylor vs 9-Schwaighart-Rind
+  120          4.50   1.50 8-Christensen-Stevens vs 13-Christie-Mohrman
+        420    0.00   6.00 11-Tipton-Anderson vs 5-Galer-Setterholm
+        140    2.00   4.00 15-Sivapragasam-Sundararajan vs 1-Zaugg-Abernethy
+        140    2.00   4.00 16-Delfs-Chupack vs 12-Kasperkiewicz-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          5.50   0.50 5-Galer-Setterholm vs 4-Hendrickson-Miller
+  500          5.50   0.50 7-Ford-Taylor vs 11-Tipton-Anderson
+         50    1.50   4.50 8-Christensen-Stevens vs 10-Yan-Wei
+  100          3.50   2.50 9-Schwaighart-Rind vs 1-Zaugg-Abernethy
+        100    0.00   6.00 12-Kasperkiewicz-Chupack vs 6-Thai-May-Wang
+         50    1.50   4.50 15-Sivapragasam-Sundararajan vs 2-Eng-Ruprecht
+  100          3.50   2.50 16-Delfs-Chupack vs 13-Christie-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   5.00 5-Galer-Setterholm vs 4-Hendrickson-Miller
+        110    3.00   3.00 7-Ford-Taylor vs 11-Tipton-Anderson
+  100          6.00   0.00 8-Christensen-Stevens vs 10-Yan-Wei
+        110    3.00   3.00 9-Schwaighart-Rind vs 1-Zaugg-Abernethy
+        200    0.00   6.00 12-Kasperkiewicz-Chupack vs 6-Thai-May-Wang
+        110    3.00   3.00 15-Sivapragasam-Sundararajan vs 2-Eng-Ruprecht
+        100    5.00   1.00 16-Delfs-Chupack vs 13-Christie-Mohrman
+----------------------------------------------------------------------
