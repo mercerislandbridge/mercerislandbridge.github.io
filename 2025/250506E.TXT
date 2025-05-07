@@ -1,0 +1,334 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>May 6, 2025        |CLUB NO.>158048    | 05/06/2025 22:04
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=7/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 John Krah              Aaron Mohrman            C    4     2     2     56.25  52.08  0.39(A) 
+
+ 2 David Taylor           Chris Pesce              B    .     3     .     55.01  50.94  0.28(B) 
+
+
+
+ 4 Nick Tipton            David Baer               B    .     .     .     51.30  47.50          
+
+ 5 Krishnan Ramarathnam   Deepak Ramanathan        C    .     .     .     54.99  50.92          
+
+ 6 John Aslin             Jeffrey Ford             A    2     .     .     62.87  58.21  0.77(A) 
+
+ 7 Hugh Hendrickson       Rajalakshmy Sundararaj   C    .     .     .     38.67  35.81          
+
+ 8 Bryan Delfs            Stanford Christie        A    .     .     .     45.71  42.32          
+
+ 9 Joseph Grill           Shannon Kasperkiewicz    C    .     .     .     49.23  45.58          
+
+10 Dave Grubbs            Sue Anderson             A    .     .     .     46.98  43.50          
+
+11 Adam Ruprecht          Christopher Jarvis       C    3     1     1     62.58  57.94  0.56(B) 
+
+12 Kim Eng                Eric Sieg                A    1     .     .     69.19  64.06  1.10(A) 
+
+
+                                          Totals                         592.78       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   4.00 5-Ramarathnam-Ramanathan vs 2-Taylor-Pesce
+        100    2.50   1.50 6-Aslin-Ford vs 10-Grubbs-Anderson
+        100    2.50   1.50 8-Delfs-Christie vs 4-Tipton-Baer
+         50    4.00   0.00 9-Grill-Kasperkiewicz vs 7-Hendrickson-Sundararajan
+        110    1.00   3.00 12-Eng-Sieg vs 1-Krah-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   1.50 5-Ramarathnam-Ramanathan vs 2-Taylor-Pesce
+  100          2.50   1.50 6-Aslin-Ford vs 10-Grubbs-Anderson
+   50          0.50   3.50 8-Delfs-Christie vs 4-Tipton-Baer
+   50          0.50   3.50 9-Grill-Kasperkiewicz vs 7-Hendrickson-Sundararajan
+  140          4.00   0.00 12-Eng-Sieg vs 1-Krah-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          0.00   4.00 5-Ramarathnam-Ramanathan vs 2-Taylor-Pesce
+  800          3.00   1.00 6-Aslin-Ford vs 10-Grubbs-Anderson
+  300          1.00   3.00 8-Delfs-Christie vs 4-Tipton-Baer
+  800          3.00   1.00 9-Grill-Kasperkiewicz vs 7-Hendrickson-Sundararajan
+  800          3.00   1.00 12-Eng-Sieg vs 1-Krah-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   2.00 1-Krah-Mohrman vs 8-Delfs-Christie
+        650    2.00   2.00 7-Hendrickson-Sundararajan vs 10-Grubbs-Anderson
+        720    0.00   4.00 9-Grill-Kasperkiewicz vs 5-Ramarathnam-Ramanathan
+        650    2.00   2.00 11-Ruprecht-Jarvis vs 4-Tipton-Baer
+        600    4.00   0.00 12-Eng-Sieg vs 2-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   2.50 1-Krah-Mohrman vs 8-Delfs-Christie
+        100    1.50   2.50 7-Hendrickson-Sundararajan vs 10-Grubbs-Anderson
+        100    1.50   2.50 9-Grill-Kasperkiewicz vs 5-Ramarathnam-Ramanathan
+        100    1.50   2.50 11-Ruprecht-Jarvis vs 4-Tipton-Baer
+  140          4.00   0.00 12-Eng-Sieg vs 2-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1020          3.00   1.00 1-Krah-Mohrman vs 8-Delfs-Christie
+ 1020          3.00   1.00 7-Hendrickson-Sundararajan vs 10-Grubbs-Anderson
+  510          0.00   4.00 9-Grill-Kasperkiewicz vs 5-Ramarathnam-Ramanathan
+ 1020          3.00   1.00 11-Ruprecht-Jarvis vs 4-Tipton-Baer
+ 1010          1.00   3.00 12-Eng-Sieg vs 2-Taylor-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.50   3.50 1-Krah-Mohrman vs 6-Aslin-Ford
+        660    2.00   2.00 2-Taylor-Pesce vs 9-Grill-Kasperkiewicz
+  300          4.00   0.00 10-Grubbs-Anderson vs 8-Delfs-Christie
+        690    0.50   3.50 11-Ruprecht-Jarvis vs 5-Ramarathnam-Ramanathan
+        380    3.00   1.00 12-Eng-Sieg vs 4-Tipton-Baer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          0.50   3.50 1-Krah-Mohrman vs 6-Aslin-Ford
+  100          2.50   1.50 2-Taylor-Pesce vs 9-Grill-Kasperkiewicz
+   50          0.50   3.50 10-Grubbs-Anderson vs 8-Delfs-Christie
+  110          4.00   0.00 11-Ruprecht-Jarvis vs 5-Ramarathnam-Ramanathan
+  100          2.50   1.50 12-Eng-Sieg vs 4-Tipton-Baer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.50   0.50 1-Krah-Mohrman vs 6-Aslin-Ford
+        150    1.00   3.00 2-Taylor-Pesce vs 9-Grill-Kasperkiewicz
+        200    0.00   4.00 7-Hendrickson-Sundararajan vs 4-Tipton-Baer
+   90          3.50   0.50 10-Grubbs-Anderson vs 8-Delfs-Christie
+        100    2.00   2.00 11-Ruprecht-Jarvis vs 5-Ramarathnam-Ramanathan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.63   1.38 2-Taylor-Pesce vs 7-Hendrickson-Sundararajan
+  140          2.63   1.38 8-Delfs-Christie vs 5-Ramarathnam-Ramanathan
+  110          0.13   3.88 10-Grubbs-Anderson vs 9-Grill-Kasperkiewicz
+  140          2.63   1.38 11-Ruprecht-Jarvis vs 6-Aslin-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.88   0.13 2-Taylor-Pesce vs 7-Hendrickson-Sundararajan
+   50          2.00   2.00 8-Delfs-Christie vs 5-Ramarathnam-Ramanathan
+        170    0.13   3.88 10-Grubbs-Anderson vs 9-Grill-Kasperkiewicz
+   50          2.00   2.00 11-Ruprecht-Jarvis vs 6-Aslin-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   0.50 2-Taylor-Pesce vs 7-Hendrickson-Sundararajan
+        460    1.00   3.00 8-Delfs-Christie vs 5-Ramarathnam-Ramanathan
+   50          3.50   0.50 10-Grubbs-Anderson vs 9-Grill-Kasperkiewicz
+        490    0.00   4.00 11-Ruprecht-Jarvis vs 6-Aslin-Ford
+        150    2.00   2.00 12-Eng-Sieg vs 4-Tipton-Baer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          3.00   1.00 1-Krah-Mohrman vs 10-Grubbs-Anderson
+        200    0.50   3.50 4-Tipton-Baer vs 2-Taylor-Pesce
+        200    0.50   3.50 7-Hendrickson-Sundararajan vs 11-Ruprecht-Jarvis
+        100    2.00   2.00 9-Grill-Kasperkiewicz vs 6-Aslin-Ford
+  650          4.00   0.00 12-Eng-Sieg vs 5-Ramarathnam-Ramanathan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   1.50 1-Krah-Mohrman vs 10-Grubbs-Anderson
+   50          2.50   1.50 4-Tipton-Baer vs 2-Taylor-Pesce
+   50          2.50   1.50 7-Hendrickson-Sundararajan vs 11-Ruprecht-Jarvis
+        110    0.00   4.00 9-Grill-Kasperkiewicz vs 6-Aslin-Ford
+   50          2.50   1.50 12-Eng-Sieg vs 5-Ramarathnam-Ramanathan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.50   1.50 1-Krah-Mohrman vs 10-Grubbs-Anderson
+  600          2.50   1.50 4-Tipton-Baer vs 2-Taylor-Pesce
+  150          0.00   4.00 7-Hendrickson-Sundararajan vs 11-Ruprecht-Jarvis
+  600          2.50   1.50 9-Grill-Kasperkiewicz vs 6-Aslin-Ford
+  600          2.50   1.50 12-Eng-Sieg vs 5-Ramarathnam-Ramanathan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   1.00 1-Krah-Mohrman vs 7-Hendrickson-Sundararajan
+  100          4.00   0.00 2-Taylor-Pesce vs 10-Grubbs-Anderson
+        620    0.00   4.00 4-Tipton-Baer vs 9-Grill-Kasperkiewicz
+        140    1.50   2.50 8-Delfs-Christie vs 11-Ruprecht-Jarvis
+        140    1.50   2.50 12-Eng-Sieg vs 6-Aslin-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.00   2.00 1-Krah-Mohrman vs 7-Hendrickson-Sundararajan
+        430    2.00   2.00 2-Taylor-Pesce vs 10-Grubbs-Anderson
+        430    2.00   2.00 4-Tipton-Baer vs 9-Grill-Kasperkiewicz
+        430    2.00   2.00 8-Delfs-Christie vs 11-Ruprecht-Jarvis
+        430    2.00   2.00 12-Eng-Sieg vs 6-Aslin-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   0.00 1-Krah-Mohrman vs 7-Hendrickson-Sundararajan
+        180    0.00   4.00 2-Taylor-Pesce vs 10-Grubbs-Anderson
+        150    2.00   2.00 4-Tipton-Baer vs 9-Grill-Kasperkiewicz
+        150    2.00   2.00 8-Delfs-Christie vs 11-Ruprecht-Jarvis
+        150    2.00   2.00 12-Eng-Sieg vs 6-Aslin-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   2.00 2-Taylor-Pesce vs 8-Delfs-Christie
+  110          0.00   4.00 5-Ramarathnam-Ramanathan vs 1-Krah-Mohrman
+  180          3.00   1.00 6-Aslin-Ford vs 4-Tipton-Baer
+  120          1.00   3.00 11-Ruprecht-Jarvis vs 9-Grill-Kasperkiewicz
+  200          4.00   0.00 12-Eng-Sieg vs 7-Hendrickson-Sundararajan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   3.00 2-Taylor-Pesce vs 8-Delfs-Christie
+  200          4.00   0.00 5-Ramarathnam-Ramanathan vs 1-Krah-Mohrman
+        110    3.00   1.00 6-Aslin-Ford vs 4-Tipton-Baer
+        130    1.00   3.00 11-Ruprecht-Jarvis vs 9-Grill-Kasperkiewicz
+        130    1.00   3.00 12-Eng-Sieg vs 7-Hendrickson-Sundararajan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.50   1.50 2-Taylor-Pesce vs 8-Delfs-Christie
+        400    2.50   1.50 5-Ramarathnam-Ramanathan vs 1-Krah-Mohrman
+        430    0.50   3.50 6-Aslin-Ford vs 4-Tipton-Baer
+   50          4.00   0.00 11-Ruprecht-Jarvis vs 9-Grill-Kasperkiewicz
+        430    0.50   3.50 12-Eng-Sieg vs 7-Hendrickson-Sundararajan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.50   2.50 6-Aslin-Ford vs 2-Taylor-Pesce
+        650    3.00   1.00 7-Hendrickson-Sundararajan vs 5-Ramarathnam-Ramanatha
+        620    4.00   0.00 10-Grubbs-Anderson vs 4-Tipton-Baer
+       1440    0.00   4.00 11-Ruprecht-Jarvis vs 1-Krah-Mohrman
+        680    1.50   2.50 12-Eng-Sieg vs 8-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   3.00 6-Aslin-Ford vs 2-Taylor-Pesce
+        200    1.00   3.00 7-Hendrickson-Sundararajan vs 5-Ramarathnam-Ramanatha
+        200    1.00   3.00 10-Grubbs-Anderson vs 4-Tipton-Baer
+  120          4.00   0.00 11-Ruprecht-Jarvis vs 1-Krah-Mohrman
+        100    3.00   1.00 12-Eng-Sieg vs 8-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   2.00 6-Aslin-Ford vs 2-Taylor-Pesce
+        110    2.00   2.00 7-Hendrickson-Sundararajan vs 5-Ramarathnam-Ramanatha
+        110    2.00   2.00 10-Grubbs-Anderson vs 4-Tipton-Baer
+        110    2.00   2.00 11-Ruprecht-Jarvis vs 1-Krah-Mohrman
+        110    2.00   2.00 12-Eng-Sieg vs 8-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.50   2.50 2-Taylor-Pesce vs 11-Ruprecht-Jarvis
+       1190    0.00   4.00 4-Tipton-Baer vs 1-Krah-Mohrman
+        650    3.00   1.00 5-Ramarathnam-Ramanathan vs 10-Grubbs-Anderson
+        680    1.50   2.50 8-Delfs-Christie vs 6-Aslin-Ford
+        100    4.00   0.00 12-Eng-Sieg vs 9-Grill-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       2220    0.00   4.00 2-Taylor-Pesce vs 11-Ruprecht-Jarvis
+        710    4.00   0.00 4-Tipton-Baer vs 1-Krah-Mohrman
+       1460    2.50   1.50 5-Ramarathnam-Ramanathan vs 10-Grubbs-Anderson
+       2210    1.00   3.00 8-Delfs-Christie vs 6-Aslin-Ford
+       1460    2.50   1.50 12-Eng-Sieg vs 9-Grill-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.00   4.00 2-Taylor-Pesce vs 11-Ruprecht-Jarvis
+        170    1.50   2.50 4-Tipton-Baer vs 1-Krah-Mohrman
+  100          3.00   1.00 5-Ramarathnam-Ramanathan vs 10-Grubbs-Anderson
+        170    1.50   2.50 8-Delfs-Christie vs 6-Aslin-Ford
+  110          4.00   0.00 12-Eng-Sieg vs 9-Grill-Kasperkiewicz
+----------------------------------------------------------------------
