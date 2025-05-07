@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>April 22, 2025     |CLUB NO.>158048    | 04/22/2025 21:50
+DATE>April 22, 2025     |CLUB NO.>158048    | 05/06/2025 18:17
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Kim/Brian       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,29 +11,29 @@ PAIRS IN STRAT A=9/B=4/C=3                       ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Rajendra Gokhale       Arvind Ranasaria         A    .     .     .     97.12  51.39          
+ 1 Rajendra Gokhale       Arvind Ranasaria         A    .     .     .     97.23  51.44          
 
- 2 Jeannie Falls          Bruce Baker-Harvey       C    .     2     1     94.87  50.20  0.24(C) 
+ 2 Jeannie Falls          Bruce Baker-Harvey       C    .     2     1     94.98  50.25  0.24(C) 
 
  3 Kim Eng                Jeffrey Ford             A    2     .     .     99.56  52.68  0.63(A) 
 
- 4 Ray Miller             Aaron Mohrman            A    4     .     .     97.50  51.59  0.32(A) 
+ 4 Ray Miller             Aaron Mohrman            A    4     .     .     97.39  51.53  0.32(A) 
 
- 5 Sue Anderson           David Taylor             A    3     .     .     98.25  51.98  0.45(A) 
+ 5 Sue Anderson           David Taylor             A    3     .     .     98.36  52.04  0.45(A) 
 
- 6 Oyvind Tafjord         Shawn Abernethy          B    1     1     .    117.93  62.40  0.90(A) 
+ 6 Oyvind Tafjord         Shawn Abernethy          B    1     1     .    118.05  62.46  0.90(A) 
 
  7 Cindy Pauley           Shannon Kasperkiewicz    C    .     .     .     60.75  32.14          
 
- 8 Jin Wang               Lu Gan                   C    .     .     .     91.69  48.51          
+ 8 Jin Wang               Lu Gan                   C    .     .     .     91.05  48.17          
 
- 9 Krishnan Ramaratnam    Arjun Chaunal            A    .     .     .     92.81  49.11          
+ 9 Krishnan Ramaratnam    Arjun Chaunal            A    .     .     .     93.14  49.28          
 
 
-                                          Totals                         850.48       
+                                          Totals                         850.51       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>April 22, 2025     |CLUB NO.>158048    | 04/22/2025 21:50
+DATE>April 22, 2025     |CLUB NO.>158048    | 05/06/2025 18:17
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Kim/Brian       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -43,26 +43,26 @@ PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Brad Rind              Paul Schwaighart         A    2     .     .    111.00  58.73  0.63(A) 
+ 1 Brad Rind              Paul Schwaighart         A    2     .     .    111.57  59.03  0.63(A) 
 
- 2 Mike Christensen       David Wright             A    1     .     .    115.33  61.02  0.90(A) 
+ 2 Mike Christensen       David Wright             A    1     .     .    115.43  61.07  0.90(A) 
 
- 3 Brian Zaugg            Mike Ring                B    .     .     .     72.00  38.10          
+ 3 Brian Zaugg            Mike Ring                B    .     .     .     71.71  37.94          
 
- 4 Corneliu Galer         Stanford Christie        A    .     .     .     91.17  48.24          
+ 4 Corneliu Galer         Stanford Christie        A    .     .     .     91.07  48.19          
 
- 5 Dong Yan               Dong Wei                 B    3     1     .    100.67  53.26  0.45(A) 
+ 5 Dong Yan               Dong Wei                 B    3     1     .    100.57  53.21  0.45(A) 
 
- 6 Valliappa Lakshmanan   Christopher Jarvis       C    .     .     .     92.67  49.03          
+ 6 Valliappa Lakshmanan   Christopher Jarvis       C    .     .     .     92.57  48.98          
 
- 7 Liz Heron              Shaz Qadeer              C    .     .     .     73.67  38.98          
+ 7 Liz Heron              Shaz Qadeer              C    .     .     .     73.57  38.93          
 
  8 Hugh Hendrickson       Laura Miller             C    4     2     1     99.50  52.65  0.32(A) 
 
 
 
 
-                                          Totals                         756.01       
+                                          Totals                         755.99       
 
  RESULTS OF BOARD 1
 
@@ -306,14 +306,14 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        400    2.83   4.17 1-Gokhale-Ranasaria vs 5-Yan-Wei
-   50          6.83   0.17 2-Falls-Baker-Harvey vs 7-Heron-Qadeer
-        420    0.17   6.83 4-Miller-Mohrman vs 2-Christensen-Wright
-        400    2.83   4.17 5-Anderson-Taylor vs 4-Galer-Christie
-        400    2.83   4.17 6-Tafjord-Abernethy vs 6-Lakshmanan-Jarvis
+        400    2.93   4.07 1-Gokhale-Ranasaria vs 5-Yan-Wei
+   50          6.93   0.07 2-Falls-Baker-Harvey vs 7-Heron-Qadeer
+        420    0.07   6.93 4-Miller-Mohrman vs 2-Christensen-Wright
+        400    2.93   4.07 5-Anderson-Taylor vs 4-Galer-Christie
+        400    2.93   4.07 6-Tafjord-Abernethy vs 6-Lakshmanan-Jarvis
   AVE   AVE    3.50   3.50 7-Pauley-Kasperkiewicz vs 8-Hendrickson-Miller
-  AVE   AVE    3.50   3.50 8-Wang-Gan vs 1-Rind-Schwaighart
-        170    5.50   1.50 9-Ramaratnam-Chaunal vs 3-Zaugg-Ring
+        400    2.93   4.07 8-Wang-Gan vs 1-Rind-Schwaighart
+        170    5.79   1.21 9-Ramaratnam-Chaunal vs 3-Zaugg-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 19
