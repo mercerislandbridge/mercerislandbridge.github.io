@@ -1,0 +1,397 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>May 27, 2025       |CLUB NO.>158048    | 05/27/2025 21:40
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=6/C=1                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Mike Ring                B    .     .     .     88.00  52.38          
+
+ 2 Kevin Cline            John Krah                B    2     2     .    100.00  59.52  0.56(A) 
+
+ 3 Ann Romeo              Ruth Bunin               B    .     .     .     64.00  38.10          
+
+ 4 James Holzhauer        Bryan Delfs              A    .     .     .     73.50  43.75          
+
+ 5 Oyvind Tafjord         Shawn Abernethy          B    .     .     .     72.50  43.15          
+
+ 6 Christopher Jarvis     Chris Pesce              B    3     .     .     93.00  55.36  0.40(A) 
+
+ 7 Hugh Hendrickson       Laura Miller             C    1     1     .    110.50  65.77  0.80(A) 
+
+ 8 Ray Miller             Shannon Kasperkiewicz    A    .     .     .     70.50  41.96          
+
+
+                                          Totals                         672.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> B E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>May 27, 2025       |CLUB NO.>158048    | 05/27/2025 21:40
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=3/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Stanford Christie      Corneliu Galer           A    3     .     .     92.50  55.06  0.40(A) 
+
+ 2 Muhunthan Sivapragasam Becky Stevens            B    .     1     .     83.00  49.40  0.24(B) 
+
+ 3 Paul Schwaighart       Brad Rind                A    .     .     .     73.00  43.45          
+
+ 4 David Taylor           Sue Anderson             A    1     .     .     94.00  55.95  0.80(A) 
+
+ 5 Mike Christensen       David Wright             A    2     .     .     93.50  55.65  0.56(A) 
+
+ 6 Kim Eng                Jeffrey Ford             A    .     .     .     87.50  52.08          
+
+ 7 Nick Tipton            Craig Mills              C    .     .     .     68.50  40.77          
+
+ 8 Valliappa Lakshmanan   Joseph Grill             C    .     .     .     80.00  47.62          
+
+
+                                          Totals                         672.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    0.50   6.50 1-Zaugg-Ring vs 1-Christie-Galer
+        430    7.00   0.00 2-Cline-Krah vs 3-Schwaighart-Rind
+        460    5.00   2.00 3-Romeo-Bunin vs 5-Christensen-Wright
+        500    3.00   4.00 4-Holzhauer-Delfs vs 7-Tipton-Mills
+        920    0.50   6.50 5-Tafjord-Abernethy vs 2-Sivapragasam-Stevens
+        460    5.00   2.00 6-Jarvis-Pesce vs 4-Taylor-Anderson
+        460    5.00   2.00 7-Hendrickson-Miller vs 6-Eng-Ford
+        520    2.00   5.00 8-Miller-Kasperkiewicz vs 8-Lakshmanan-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.00   0.00 1-Zaugg-Ring vs 1-Christie-Galer
+        480    0.00   7.00 2-Cline-Krah vs 3-Schwaighart-Rind
+        420    2.50   4.50 3-Romeo-Bunin vs 5-Christensen-Wright
+        420    2.50   4.50 4-Holzhauer-Delfs vs 7-Tipton-Mills
+        150    5.50   1.50 5-Tafjord-Abernethy vs 2-Sivapragasam-Stevens
+        150    5.50   1.50 6-Jarvis-Pesce vs 4-Taylor-Anderson
+        420    2.50   4.50 7-Hendrickson-Miller vs 6-Eng-Ford
+        420    2.50   4.50 8-Miller-Kasperkiewicz vs 8-Lakshmanan-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   4.00 1-Zaugg-Ring vs 1-Christie-Galer
+  500          7.00   0.00 2-Cline-Krah vs 3-Schwaighart-Rind
+        100    0.00   7.00 3-Romeo-Bunin vs 5-Christensen-Wright
+  420          5.50   1.50 4-Holzhauer-Delfs vs 7-Tipton-Mills
+  100          2.00   5.00 5-Tafjord-Abernethy vs 2-Sivapragasam-Stevens
+  200          4.00   3.00 6-Jarvis-Pesce vs 4-Taylor-Anderson
+  420          5.50   1.50 7-Hendrickson-Miller vs 6-Eng-Ford
+         50    1.00   6.00 8-Miller-Kasperkiewicz vs 8-Lakshmanan-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   4.00 1-Zaugg-Ring vs 8-Lakshmanan-Grill
+  100          6.00   1.00 2-Cline-Krah vs 2-Sivapragasam-Stevens
+        100    3.00   4.00 3-Romeo-Bunin vs 4-Taylor-Anderson
+        110    0.00   7.00 4-Holzhauer-Delfs vs 6-Eng-Ford
+        100    3.00   4.00 5-Tafjord-Abernethy vs 1-Christie-Galer
+        100    3.00   4.00 6-Jarvis-Pesce vs 3-Schwaighart-Rind
+        100    3.00   4.00 7-Hendrickson-Miller vs 5-Christensen-Wright
+  140          7.00   0.00 8-Miller-Kasperkiewicz vs 7-Tipton-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1010    3.00   4.00 1-Zaugg-Ring vs 8-Lakshmanan-Grill
+        520    5.50   1.50 2-Cline-Krah vs 2-Sivapragasam-Stevens
+       1010    3.00   4.00 3-Romeo-Bunin vs 4-Taylor-Anderson
+       1020    1.00   6.00 4-Holzhauer-Delfs vs 6-Eng-Ford
+        510    7.00   0.00 5-Tafjord-Abernethy vs 1-Christie-Galer
+        520    5.50   1.50 6-Jarvis-Pesce vs 3-Schwaighart-Rind
+       1520    0.00   7.00 7-Hendrickson-Miller vs 5-Christensen-Wright
+       1010    3.00   4.00 8-Miller-Kasperkiewicz vs 7-Tipton-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          6.00   1.00 1-Zaugg-Ring vs 8-Lakshmanan-Grill
+  420          2.50   4.50 2-Cline-Krah vs 2-Sivapragasam-Stevens
+  140          0.00   7.00 3-Romeo-Bunin vs 4-Taylor-Anderson
+  420          2.50   4.50 4-Holzhauer-Delfs vs 6-Eng-Ford
+  420          2.50   4.50 5-Tafjord-Abernethy vs 1-Christie-Galer
+  450          6.00   1.00 6-Jarvis-Pesce vs 3-Schwaighart-Rind
+  450          6.00   1.00 7-Hendrickson-Miller vs 5-Christensen-Wright
+  420          2.50   4.50 8-Miller-Kasperkiewicz vs 7-Tipton-Mills
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1400          7.00   0.00 1-Zaugg-Ring vs 7-Tipton-Mills
+        100    1.50   5.50 2-Cline-Krah vs 1-Christie-Galer
+  600          5.00   2.00 3-Romeo-Bunin vs 3-Schwaighart-Rind
+  620          6.00   1.00 4-Holzhauer-Delfs vs 5-Christensen-Wright
+        100    1.50   5.50 5-Tafjord-Abernethy vs 8-Lakshmanan-Grill
+        200    0.00   7.00 6-Jarvis-Pesce vs 2-Sivapragasam-Stevens
+  150          4.00   3.00 7-Hendrickson-Miller vs 4-Taylor-Anderson
+  120          3.00   4.00 8-Miller-Kasperkiewicz vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   4.00 1-Zaugg-Ring vs 7-Tipton-Mills
+  100          3.00   4.00 2-Cline-Krah vs 1-Christie-Galer
+         50    0.00   7.00 3-Romeo-Bunin vs 3-Schwaighart-Rind
+   90          1.00   6.00 4-Holzhauer-Delfs vs 5-Christensen-Wright
+  120          6.00   1.00 5-Tafjord-Abernethy vs 8-Lakshmanan-Grill
+  120          6.00   1.00 6-Jarvis-Pesce vs 2-Sivapragasam-Stevens
+  120          6.00   1.00 7-Hendrickson-Miller vs 4-Taylor-Anderson
+  100          3.00   4.00 8-Miller-Kasperkiewicz vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   5.50 1-Zaugg-Ring vs 7-Tipton-Mills
+  200          4.50   2.50 2-Cline-Krah vs 1-Christie-Galer
+  200          4.50   2.50 3-Romeo-Bunin vs 3-Schwaighart-Rind
+  110          1.50   5.50 4-Holzhauer-Delfs vs 5-Christensen-Wright
+  100          0.00   7.00 5-Tafjord-Abernethy vs 8-Lakshmanan-Grill
+  300          7.00   0.00 6-Jarvis-Pesce vs 2-Sivapragasam-Stevens
+  200          4.50   2.50 7-Hendrickson-Miller vs 4-Taylor-Anderson
+  200          4.50   2.50 8-Miller-Kasperkiewicz vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.00   3.00 1-Zaugg-Ring vs 6-Eng-Ford
+        680    4.00   3.00 2-Cline-Krah vs 8-Lakshmanan-Grill
+        680    4.00   3.00 3-Romeo-Bunin vs 2-Sivapragasam-Stevens
+        680    4.00   3.00 4-Holzhauer-Delfs vs 4-Taylor-Anderson
+  200          7.00   0.00 5-Tafjord-Abernethy vs 7-Tipton-Mills
+       1430    0.50   6.50 6-Jarvis-Pesce vs 1-Christie-Galer
+        680    4.00   3.00 7-Hendrickson-Miller vs 3-Schwaighart-Rind
+       1430    0.50   6.50 8-Miller-Kasperkiewicz vs 5-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   3.00 1-Zaugg-Ring vs 6-Eng-Ford
+  120          6.00   1.00 2-Cline-Krah vs 8-Lakshmanan-Grill
+         50    1.50   5.50 3-Romeo-Bunin vs 2-Sivapragasam-Stevens
+   90          3.00   4.00 4-Holzhauer-Delfs vs 4-Taylor-Anderson
+        100    0.00   7.00 5-Tafjord-Abernethy vs 7-Tipton-Mills
+  120          6.00   1.00 6-Jarvis-Pesce vs 1-Christie-Galer
+  120          6.00   1.00 7-Hendrickson-Miller vs 3-Schwaighart-Rind
+         50    1.50   5.50 8-Miller-Kasperkiewicz vs 5-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   1.50 1-Zaugg-Ring vs 6-Eng-Ford
+        100    4.00   3.00 2-Cline-Krah vs 8-Lakshmanan-Grill
+        150    1.00   6.00 3-Romeo-Bunin vs 2-Sivapragasam-Stevens
+        170    0.00   7.00 4-Holzhauer-Delfs vs 4-Taylor-Anderson
+        140    2.50   4.50 5-Tafjord-Abernethy vs 7-Tipton-Mills
+        140    2.50   4.50 6-Jarvis-Pesce vs 1-Christie-Galer
+   50          5.50   1.50 7-Hendrickson-Miller vs 3-Schwaighart-Rind
+  100          7.00   0.00 8-Miller-Kasperkiewicz vs 5-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   4.50 1-Zaugg-Ring vs 5-Christensen-Wright
+        100    2.50   4.50 2-Cline-Krah vs 7-Tipton-Mills
+        100    2.50   4.50 3-Romeo-Bunin vs 1-Christie-Galer
+        100    2.50   4.50 4-Holzhauer-Delfs vs 3-Schwaighart-Rind
+        100    2.50   4.50 5-Tafjord-Abernethy vs 6-Eng-Ford
+  620          6.50   0.50 6-Jarvis-Pesce vs 8-Lakshmanan-Grill
+  620          6.50   0.50 7-Hendrickson-Miller vs 2-Sivapragasam-Stevens
+        100    2.50   4.50 8-Miller-Kasperkiewicz vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          4.50   2.50 1-Zaugg-Ring vs 5-Christensen-Wright
+  920          6.50   0.50 2-Cline-Krah vs 7-Tipton-Mills
+  200          2.00   5.00 3-Romeo-Bunin vs 1-Christie-Galer
+  920          6.50   0.50 4-Holzhauer-Delfs vs 3-Schwaighart-Rind
+  460          4.50   2.50 5-Tafjord-Abernethy vs 6-Eng-Ford
+        150    0.00   7.00 6-Jarvis-Pesce vs 8-Lakshmanan-Grill
+  450          3.00   4.00 7-Hendrickson-Miller vs 2-Sivapragasam-Stevens
+         50    1.00   6.00 8-Miller-Kasperkiewicz vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          3.00   4.00 1-Zaugg-Ring vs 5-Christensen-Wright
+  650          4.50   2.50 2-Cline-Krah vs 7-Tipton-Mills
+  600          2.00   5.00 3-Romeo-Bunin vs 1-Christie-Galer
+  650          4.50   2.50 4-Holzhauer-Delfs vs 3-Schwaighart-Rind
+  680          6.50   0.50 5-Tafjord-Abernethy vs 6-Eng-Ford
+  500          1.00   6.00 6-Jarvis-Pesce vs 8-Lakshmanan-Grill
+  150          0.00   7.00 7-Hendrickson-Miller vs 2-Sivapragasam-Stevens
+  680          6.50   0.50 8-Miller-Kasperkiewicz vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   4.00 1-Zaugg-Ring vs 4-Taylor-Anderson
+  100          4.00   3.00 2-Cline-Krah vs 6-Eng-Ford
+        140    0.50   6.50 3-Romeo-Bunin vs 8-Lakshmanan-Grill
+  500          7.00   0.00 4-Holzhauer-Delfs vs 2-Sivapragasam-Stevens
+        110    2.00   5.00 5-Tafjord-Abernethy vs 5-Christensen-Wright
+  400          6.00   1.00 6-Jarvis-Pesce vs 7-Tipton-Mills
+        140    0.50   6.50 7-Hendrickson-Miller vs 1-Christie-Galer
+  300          5.00   2.00 8-Miller-Kasperkiewicz vs 3-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    1.00   6.00 1-Zaugg-Ring vs 4-Taylor-Anderson
+        420    4.50   2.50 2-Cline-Krah vs 6-Eng-Ford
+        140    7.00   0.00 3-Romeo-Bunin vs 8-Lakshmanan-Grill
+        450    3.00   4.00 4-Holzhauer-Delfs vs 2-Sivapragasam-Stevens
+        480    1.00   6.00 5-Tafjord-Abernethy vs 5-Christensen-Wright
+        420    4.50   2.50 6-Jarvis-Pesce vs 7-Tipton-Mills
+        150    6.00   1.00 7-Hendrickson-Miller vs 1-Christie-Galer
+        480    1.00   6.00 8-Miller-Kasperkiewicz vs 3-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   6.00 1-Zaugg-Ring vs 4-Taylor-Anderson
+  170          6.50   0.50 2-Cline-Krah vs 6-Eng-Ford
+  140          3.50   3.50 3-Romeo-Bunin vs 8-Lakshmanan-Grill
+  140          3.50   3.50 4-Holzhauer-Delfs vs 2-Sivapragasam-Stevens
+  140          3.50   3.50 5-Tafjord-Abernethy vs 5-Christensen-Wright
+  140          3.50   3.50 6-Jarvis-Pesce vs 7-Tipton-Mills
+  170          6.50   0.50 7-Hendrickson-Miller vs 1-Christie-Galer
+  100          0.00   7.00 8-Miller-Kasperkiewicz vs 3-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   2.00 1-Zaugg-Ring vs 3-Schwaighart-Rind
+        100    1.00   6.00 2-Cline-Krah vs 5-Christensen-Wright
+         50    3.50   3.50 3-Romeo-Bunin vs 7-Tipton-Mills
+  300          6.00   1.00 4-Holzhauer-Delfs vs 1-Christie-Galer
+         50    3.50   3.50 5-Tafjord-Abernethy vs 4-Taylor-Anderson
+        100    1.00   6.00 6-Jarvis-Pesce vs 6-Eng-Ford
+  530          7.00   0.00 7-Hendrickson-Miller vs 8-Lakshmanan-Grill
+        100    1.00   6.00 8-Miller-Kasperkiewicz vs 2-Sivapragasam-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   4.00 1-Zaugg-Ring vs 3-Schwaighart-Rind
+        200    6.50   0.50 2-Cline-Krah vs 5-Christensen-Wright
+        650    3.00   4.00 3-Romeo-Bunin vs 7-Tipton-Mills
+        850    0.50   6.50 4-Holzhauer-Delfs vs 1-Christie-Galer
+        850    0.50   6.50 5-Tafjord-Abernethy vs 4-Taylor-Anderson
+        650    3.00   4.00 6-Jarvis-Pesce vs 6-Eng-Ford
+        200    6.50   0.50 7-Hendrickson-Miller vs 8-Lakshmanan-Grill
+        500    5.00   2.00 8-Miller-Kasperkiewicz vs 2-Sivapragasam-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    5.50   1.50 1-Zaugg-Ring vs 3-Schwaighart-Rind
+        420    2.50   4.50 2-Cline-Krah vs 5-Christensen-Wright
+        200    5.50   1.50 3-Romeo-Bunin vs 7-Tipton-Mills
+        450    0.00   7.00 4-Holzhauer-Delfs vs 1-Christie-Galer
+        420    2.50   4.50 5-Tafjord-Abernethy vs 4-Taylor-Anderson
+        420    2.50   4.50 6-Jarvis-Pesce vs 6-Eng-Ford
+        100    7.00   0.00 7-Hendrickson-Miller vs 8-Lakshmanan-Grill
+        420    2.50   4.50 8-Miller-Kasperkiewicz vs 2-Sivapragasam-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    1.50   5.50 1-Zaugg-Ring vs 2-Sivapragasam-Stevens
+        600    5.50   1.50 2-Cline-Krah vs 4-Taylor-Anderson
+        650    0.00   7.00 3-Romeo-Bunin vs 6-Eng-Ford
+        630    1.50   5.50 4-Holzhauer-Delfs vs 8-Lakshmanan-Grill
+        620    3.50   3.50 5-Tafjord-Abernethy vs 3-Schwaighart-Rind
+        600    5.50   1.50 6-Jarvis-Pesce vs 5-Christensen-Wright
+        500    7.00   0.00 7-Hendrickson-Miller vs 7-Tipton-Mills
+        620    3.50   3.50 8-Miller-Kasperkiewicz vs 1-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          7.00   0.00 1-Zaugg-Ring vs 2-Sivapragasam-Stevens
+  630          1.50   5.50 2-Cline-Krah vs 4-Taylor-Anderson
+  660          5.00   2.00 3-Romeo-Bunin vs 6-Eng-Ford
+  660          5.00   2.00 4-Holzhauer-Delfs vs 8-Lakshmanan-Grill
+  630          1.50   5.50 5-Tafjord-Abernethy vs 3-Schwaighart-Rind
+  660          5.00   2.00 6-Jarvis-Pesce vs 5-Christensen-Wright
+  630          1.50   5.50 7-Hendrickson-Miller vs 7-Tipton-Mills
+  630          1.50   5.50 8-Miller-Kasperkiewicz vs 1-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.50   3.50 1-Zaugg-Ring vs 2-Sivapragasam-Stevens
+        450    3.50   3.50 2-Cline-Krah vs 4-Taylor-Anderson
+        500    0.00   7.00 3-Romeo-Bunin vs 6-Eng-Ford
+        450    3.50   3.50 4-Holzhauer-Delfs vs 8-Lakshmanan-Grill
+        450    3.50   3.50 5-Tafjord-Abernethy vs 3-Schwaighart-Rind
+        450    3.50   3.50 6-Jarvis-Pesce vs 5-Christensen-Wright
+        420    7.00   0.00 7-Hendrickson-Miller vs 7-Tipton-Mills
+        450    3.50   3.50 8-Miller-Kasperkiewicz vs 1-Christie-Galer
+----------------------------------------------------------------------
