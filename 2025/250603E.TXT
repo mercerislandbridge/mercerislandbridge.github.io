@@ -1,0 +1,383 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 3, 2025       |CLUB NO.>158048    | 06/03/2025 21:59
+---------------------,-- ------------------- -------------,---------------------
+DIR> Aaron/Kim       |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=7/C=2                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1                                                 A   Q            .     .     .   |   6     .     .     86.94  55.73  0.20Red 
+                                                                                                                        0.19Blk 
+ 2 Steven Campau          Miles Ohlrich            A   Q            5     .     .   |   5     .     .     87.21  55.90  0.54Red 
+                                                                                                                        0.53Blk 
+ 3 Jeannie Falls          Bruce Baker-Harvey       C           Q    .     .     .   |   .     .     .     65.81  42.19          
+
+ 4 Jeffrey Ford           Ray Miller               A   Q            2     .     .   |   2     .     .     92.45  59.26  1.27Red 
+                                                                                                                        1.27Blk 
+ 5 Dong Wei               Dong Yan                 A   Q            .     .     .   |   .     .     .     75.93  48.67          
+
+ 6 Becky Stevens          Sue Anderson             B       Q        .     2     .   |   .     2     .     75.92  48.67  0.74Red 
+                                                                                                                        0.74Blk 
+ 7 Paul Schwaighart       Brad Rind                A   Q            1     .     .   |   1     .     .     99.85  64.01  1.69Red 
+                                                                                                                        1.69Blk 
+ 8 Michael Cohen          Richard Ross             B                .     .     .   |   .     .     .     65.28  41.85          
+
+ 9 Mike Ring              Mike Christensen         A   Q            4     .     .   |   4     .     .     89.38  57.29  0.72Red 
+                                                                                                                        0.71Blk 
+10 Shawn Abernethy        Brian Zaugg              A                .     .     .   |   .     .     .     57.77  37.03          
+
+11 Ruth Bunin             Chris Morris-Lent        B                .     .     .   |   .     .     .     57.93  37.13          
+
+12 Corneliu Galer         Dave Grubbs              A   Q            3     .     .   |   3     .     .     91.00  58.33  0.95Red 
+                                                                                                                        0.95Blk 
+13 Laura Miller           Shannon Kasperkiewicz    C       Q   Q    .     3     .   |   .     3     .     74.02  47.45  0.56Red 
+                                                                                                                        0.55Blk 
+14 Adam Ruprecht          Christopher Jarvis       B       Q        .     .     .   |   .     .     .     68.00  43.59          
+
+15 Joseph Grill           Valliappa Lakshmanan     B   Q   Q        .     1     .   |   .     1     .     82.08  52.62  0.99Red 
+                                                                                                                        0.98Blk 
+
+
+
+                                          Totals                                                        1169.57       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.50   3.50 4-Ford-Miller vs 14-Ruprecht-Jarvis
+  400          2.50   3.50 6-Stevens-Anderson vs 5-Wei-Yan
+  400          2.50   3.50 8-Cohen-Ross vs 12-Galer-Grubbs
+  430          6.00   0.00 9-Ring-Christensen vs 11-Bunin-Morris-Lent
+  400          2.50   3.50 10-Abernethy-Zaugg vs 2-Campau-Ohlrich
+  400          2.50   3.50 13-Miller-Kasperkiewicz vs 7-Schwaighart-Rind
+  400          2.50   3.50 15-Grill-Lakshmanan vs 3-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    2.42   3.58 4-Ford-Miller vs 14-Ruprecht-Jarvis
+  650          5.33   0.67 6-Stevens-Anderson vs 5-Wei-Yan
+        750    1.25   4.75 9-Ring-Christensen vs 11-Bunin-Morris-Lent
+        850    0.08   5.92 10-Abernethy-Zaugg vs 2-Campau-Ohlrich
+        480    3.58   2.42 13-Miller-Kasperkiewicz vs 7-Schwaighart-Rind
+  650          5.33   0.67 15-Grill-Lakshmanan vs 3-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.00   2.00 1-- vs 8-Cohen-Ross
+       1430    1.00   5.00 4-Ford-Miller vs 15-Grill-Lakshmanan
+        680    4.00   2.00 5-Wei-Yan vs 14-Ruprecht-Jarvis
+        680    4.00   2.00 7-Schwaighart-Rind vs 6-Stevens-Anderson
+       1460    0.00   6.00 9-Ring-Christensen vs 13-Miller-Kasperkiewicz
+        680    4.00   2.00 10-Abernethy-Zaugg vs 12-Galer-Grubbs
+        680    4.00   2.00 11-Bunin-Morris-Lent vs 3-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.50   0.50 1-- vs 8-Cohen-Ross
+        100    0.50   5.50 4-Ford-Miller vs 15-Grill-Lakshmanan
+  100          2.00   4.00 5-Wei-Yan vs 14-Ruprecht-Jarvis
+  140          3.50   2.50 7-Schwaighart-Rind vs 6-Stevens-Anderson
+  170          5.50   0.50 9-Ring-Christensen vs 13-Miller-Kasperkiewicz
+  140          3.50   2.50 10-Abernethy-Zaugg vs 12-Galer-Grubbs
+        100    0.50   5.50 11-Bunin-Morris-Lent vs 3-Falls-Baker-Harvey
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.00   1.00 2-Campau-Ohlrich vs 9-Ring-Christensen
+       2200    0.00   6.00 5-Wei-Yan vs 15-Grill-Lakshmanan
+   50          6.00   0.00 6-Stevens-Anderson vs 14-Ruprecht-Jarvis
+        300    1.00   5.00 8-Cohen-Ross vs 7-Schwaighart-Rind
+        200    3.00   3.00 10-Abernethy-Zaugg vs 1--
+        200    3.00   3.00 11-Bunin-Morris-Lent vs 13-Miller-Kasperkiewicz
+        200    3.00   3.00 12-Galer-Grubbs vs 4-Ford-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          0.00   6.00 2-Campau-Ohlrich vs 9-Ring-Christensen
+  460          4.00   2.00 5-Wei-Yan vs 15-Grill-Lakshmanan
+  490          6.00   0.00 6-Stevens-Anderson vs 14-Ruprecht-Jarvis
+  430          1.50   4.50 8-Cohen-Ross vs 7-Schwaighart-Rind
+  460          4.00   2.00 10-Abernethy-Zaugg vs 1--
+  430          1.50   4.50 11-Bunin-Morris-Lent vs 13-Miller-Kasperkiewicz
+  460          4.00   2.00 12-Galer-Grubbs vs 4-Ford-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          4.50   1.50 3-Falls-Baker-Harvey vs 10-Abernethy-Zaugg
+  630          2.50   3.50 6-Stevens-Anderson vs 15-Grill-Lakshmanan
+  660          4.50   1.50 9-Ring-Christensen vs 8-Cohen-Ross
+  110          1.00   5.00 11-Bunin-Morris-Lent vs 2-Campau-Ohlrich
+  690          6.00   0.00 12-Galer-Grubbs vs 1--
+        100    0.00   6.00 13-Miller-Kasperkiewicz vs 5-Wei-Yan
+  630          2.50   3.50 14-Ruprecht-Jarvis vs 7-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.50   0.50 3-Falls-Baker-Harvey vs 10-Abernethy-Zaugg
+  140          2.50   3.50 6-Stevens-Anderson vs 15-Grill-Lakshmanan
+  140          2.50   3.50 9-Ring-Christensen vs 8-Cohen-Ross
+  140          2.50   3.50 11-Bunin-Morris-Lent vs 2-Campau-Ohlrich
+  170          5.50   0.50 12-Galer-Grubbs vs 1--
+         50    0.00   6.00 13-Miller-Kasperkiewicz vs 5-Wei-Yan
+  140          2.50   3.50 14-Ruprecht-Jarvis vs 7-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    0.00   6.00 1-- vs 6-Stevens-Anderson
+  300          5.00   1.00 4-Ford-Miller vs 11-Bunin-Morris-Lent
+  300          5.00   1.00 7-Schwaighart-Rind vs 15-Grill-Lakshmanan
+         50    1.00   5.00 10-Abernethy-Zaugg vs 9-Ring-Christensen
+  200          3.00   3.00 12-Galer-Grubbs vs 3-Falls-Baker-Harvey
+  300          5.00   1.00 13-Miller-Kasperkiewicz vs 2-Campau-Ohlrich
+  100          2.00   4.00 14-Ruprecht-Jarvis vs 8-Cohen-Ross
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.50   3.50 1-- vs 6-Stevens-Anderson
+  680          5.50   0.50 4-Ford-Miller vs 11-Bunin-Morris-Lent
+  650          4.00   2.00 7-Schwaighart-Rind vs 15-Grill-Lakshmanan
+  620          2.50   3.50 10-Abernethy-Zaugg vs 9-Ring-Christensen
+  170          0.00   6.00 12-Galer-Grubbs vs 3-Falls-Baker-Harvey
+  200          1.00   5.00 13-Miller-Kasperkiewicz vs 2-Campau-Ohlrich
+  680          5.50   0.50 14-Ruprecht-Jarvis vs 8-Cohen-Ross
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   0.00 1-- vs 3-Falls-Baker-Harvey
+        110    2.00   4.00 2-Campau-Ohlrich vs 7-Schwaighart-Rind
+        110    2.00   4.00 5-Wei-Yan vs 12-Galer-Grubbs
+  110          5.00   1.00 8-Cohen-Ross vs 15-Grill-Lakshmanan
+   50          4.00   2.00 11-Bunin-Morris-Lent vs 10-Abernethy-Zaugg
+        150    0.00   6.00 13-Miller-Kasperkiewicz vs 4-Ford-Miller
+        110    2.00   4.00 14-Ruprecht-Jarvis vs 9-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   1.00 1-- vs 3-Falls-Baker-Harvey
+  100          0.00   6.00 2-Campau-Ohlrich vs 7-Schwaighart-Rind
+  170          1.50   4.50 5-Wei-Yan vs 12-Galer-Grubbs
+  170          1.50   4.50 8-Cohen-Ross vs 15-Grill-Lakshmanan
+  620          5.00   1.00 11-Bunin-Morris-Lent vs 10-Abernethy-Zaugg
+  620          5.00   1.00 13-Miller-Kasperkiewicz vs 4-Ford-Miller
+  200          3.00   3.00 14-Ruprecht-Jarvis vs 9-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.50   1.50 1-- vs 5-Wei-Yan
+  200          2.50   3.50 2-Campau-Ohlrich vs 4-Ford-Miller
+  620          6.00   0.00 3-Falls-Baker-Harvey vs 8-Cohen-Ross
+  100          0.50   5.50 6-Stevens-Anderson vs 13-Miller-Kasperkiewicz
+  100          0.50   5.50 9-Ring-Christensen vs 15-Grill-Lakshmanan
+  200          2.50   3.50 12-Galer-Grubbs vs 11-Bunin-Morris-Lent
+  300          4.50   1.50 14-Ruprecht-Jarvis vs 10-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          6.00   0.00 1-- vs 5-Wei-Yan
+  170          4.50   1.50 2-Campau-Ohlrich vs 4-Ford-Miller
+   50          0.00   6.00 3-Falls-Baker-Harvey vs 8-Cohen-Ross
+  100          1.50   4.50 6-Stevens-Anderson vs 13-Miller-Kasperkiewicz
+  110          3.00   3.00 9-Ring-Christensen vs 15-Grill-Lakshmanan
+  170          4.50   1.50 12-Galer-Grubbs vs 11-Bunin-Morris-Lent
+  100          1.50   4.50 14-Ruprecht-Jarvis vs 10-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   4.00 2-Campau-Ohlrich vs 6-Stevens-Anderson
+        100    3.00   3.00 3-Falls-Baker-Harvey vs 5-Wei-Yan
+        300    1.00   5.00 4-Ford-Miller vs 9-Ring-Christensen
+  130          5.00   1.00 7-Schwaighart-Rind vs 1--
+        400    0.00   6.00 10-Abernethy-Zaugg vs 15-Grill-Lakshmanan
+  120          4.00   2.00 13-Miller-Kasperkiewicz vs 12-Galer-Grubbs
+  150          6.00   0.00 14-Ruprecht-Jarvis vs 11-Bunin-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   2.00 2-Campau-Ohlrich vs 6-Stevens-Anderson
+        660    0.00   6.00 3-Falls-Baker-Harvey vs 5-Wei-Yan
+  300          5.00   1.00 4-Ford-Miller vs 9-Ring-Christensen
+        600    3.00   3.00 7-Schwaighart-Rind vs 1--
+        630    1.50   4.50 10-Abernethy-Zaugg vs 15-Grill-Lakshmanan
+        630    1.50   4.50 13-Miller-Kasperkiewicz vs 12-Galer-Grubbs
+  470          6.00   0.00 14-Ruprecht-Jarvis vs 11-Bunin-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   2.00 1-- vs 13-Miller-Kasperkiewicz
+  420          6.00   0.00 3-Falls-Baker-Harvey vs 7-Schwaighart-Rind
+  140          2.00   4.00 4-Ford-Miller vs 6-Stevens-Anderson
+  170          4.00   2.00 5-Wei-Yan vs 10-Abernethy-Zaugg
+         50    1.00   5.00 8-Cohen-Ross vs 2-Campau-Ohlrich
+  170          4.00   2.00 14-Ruprecht-Jarvis vs 12-Galer-Grubbs
+        100    0.00   6.00 15-Grill-Lakshmanan vs 11-Bunin-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   80          2.00   4.00 1-- vs 13-Miller-Kasperkiewicz
+   50          1.00   5.00 3-Falls-Baker-Harvey vs 7-Schwaighart-Rind
+  140          5.50   0.50 4-Ford-Miller vs 6-Stevens-Anderson
+  100          3.50   2.50 5-Wei-Yan vs 10-Abernethy-Zaugg
+  140          5.50   0.50 8-Cohen-Ross vs 2-Campau-Ohlrich
+         90    0.00   6.00 14-Ruprecht-Jarvis vs 12-Galer-Grubbs
+  100          3.50   2.50 15-Grill-Lakshmanan vs 11-Bunin-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          2.00   4.00 2-Campau-Ohlrich vs 1--
+  920          5.00   1.00 4-Ford-Miller vs 8-Cohen-Ross
+  490          2.00   4.00 5-Wei-Yan vs 7-Schwaighart-Rind
+   90          0.00   6.00 6-Stevens-Anderson vs 11-Bunin-Morris-Lent
+  940          6.00   0.00 9-Ring-Christensen vs 3-Falls-Baker-Harvey
+  520          4.00   2.00 14-Ruprecht-Jarvis vs 13-Miller-Kasperkiewicz
+  490          2.00   4.00 15-Grill-Lakshmanan vs 12-Galer-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   4.00 2-Campau-Ohlrich vs 1--
+        500    4.00   2.00 4-Ford-Miller vs 8-Cohen-Ross
+        650    0.00   6.00 5-Wei-Yan vs 7-Schwaighart-Rind
+        200    5.00   1.00 6-Stevens-Anderson vs 11-Bunin-Morris-Lent
+  100          6.00   0.00 9-Ring-Christensen vs 3-Falls-Baker-Harvey
+        620    2.00   4.00 14-Ruprecht-Jarvis vs 13-Miller-Kasperkiewicz
+        620    2.00   4.00 15-Grill-Lakshmanan vs 12-Galer-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.50   0.50 1-- vs 14-Ruprecht-Jarvis
+        100    1.00   5.00 3-Falls-Baker-Harvey vs 2-Campau-Ohlrich
+  620          3.50   2.50 5-Wei-Yan vs 9-Ring-Christensen
+  620          3.50   2.50 6-Stevens-Anderson vs 8-Cohen-Ross
+        100    1.00   5.00 7-Schwaighart-Rind vs 12-Galer-Grubbs
+        100    1.00   5.00 10-Abernethy-Zaugg vs 4-Ford-Miller
+  650          5.50   0.50 15-Grill-Lakshmanan vs 13-Miller-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   2.00 1-- vs 14-Ruprecht-Jarvis
+        100    2.50   3.50 3-Falls-Baker-Harvey vs 2-Campau-Ohlrich
+  100          5.00   1.00 5-Wei-Yan vs 9-Ring-Christensen
+        300    0.00   6.00 6-Stevens-Anderson vs 8-Cohen-Ross
+  110          6.00   0.00 7-Schwaighart-Rind vs 12-Galer-Grubbs
+        130    1.00   5.00 10-Abernethy-Zaugg vs 4-Ford-Miller
+        100    2.50   3.50 15-Grill-Lakshmanan vs 13-Miller-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   0.00 2-Campau-Ohlrich vs 14-Ruprecht-Jarvis
+        100    4.00   2.00 4-Ford-Miller vs 3-Falls-Baker-Harvey
+         90    5.00   1.00 6-Stevens-Anderson vs 10-Abernethy-Zaugg
+        110    3.00   3.00 7-Schwaighart-Rind vs 9-Ring-Christensen
+        140    1.50   4.50 8-Cohen-Ross vs 13-Miller-Kasperkiewicz
+        170    0.00   6.00 11-Bunin-Morris-Lent vs 5-Wei-Yan
+        140    1.50   4.50 15-Grill-Lakshmanan vs 1--
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.58   2.42 2-Campau-Ohlrich vs 14-Ruprecht-Jarvis
+         90    5.92   0.08 4-Ford-Miller vs 3-Falls-Baker-Harvey
+        430    1.25   4.75 6-Stevens-Anderson vs 10-Abernethy-Zaugg
+        430    1.25   4.75 7-Schwaighart-Rind vs 9-Ring-Christensen
+        180    4.75   1.25 8-Cohen-Ross vs 13-Miller-Kasperkiewicz
+        430    1.25   4.75 15-Grill-Lakshmanan vs 1--
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          6.00   0.00 3-Falls-Baker-Harvey vs 14-Ruprecht-Jarvis
+  110          3.00   3.00 5-Wei-Yan vs 4-Ford-Miller
+  300          5.00   1.00 7-Schwaighart-Rind vs 11-Bunin-Morris-Lent
+        110    0.00   6.00 8-Cohen-Ross vs 10-Abernethy-Zaugg
+         50    1.50   4.50 9-Ring-Christensen vs 1--
+  130          4.00   2.00 12-Galer-Grubbs vs 6-Stevens-Anderson
+         50    1.50   4.50 15-Grill-Lakshmanan vs 2-Campau-Ohlrich
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.50   4.50 3-Falls-Baker-Harvey vs 14-Ruprecht-Jarvis
+        200    0.00   6.00 5-Wei-Yan vs 4-Ford-Miller
+  170          4.00   2.00 7-Schwaighart-Rind vs 11-Bunin-Morris-Lent
+  170          4.00   2.00 8-Cohen-Ross vs 10-Abernethy-Zaugg
+  620          6.00   0.00 9-Ring-Christensen vs 1--
+  170          4.00   2.00 12-Galer-Grubbs vs 6-Stevens-Anderson
+  140          1.50   4.50 15-Grill-Lakshmanan vs 2-Campau-Ohlrich
+----------------------------------------------------------------------
