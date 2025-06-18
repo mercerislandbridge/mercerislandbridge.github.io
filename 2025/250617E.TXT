@@ -1,0 +1,473 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>June 17, 2025      |CLUB NO.>158048    | 06/17/2025 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=2                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Jeffrey Ford             A   2     .     .   |   2     .     .    128.13  59.32  2.19(OA)
+
+ 2 Mike Christensen       Becky Stevens            A   .     .     .   |   .     .     .     87.63  40.57          
+
+ 3 James Hamilton         Cindy Pauley             C   .     .     .   |   .     .     1     93.13  43.12  0.16(SC)
+
+ 4 John Mortola           Laurie Adams             C   .     .     .   |   .     .     .     81.13  37.56          
+
+ 5 Dong Yan               Dong Wei                 B   5     3     .   |   3     1     .    119.13  55.15  1.05(OB)
+
+ 6 Ann Romeo              Shannon Kasperkiewicz    B   .     .     .   |   .     .     .     95.63  44.27          
+
+ 7 Corneliu Galer         Bogdan Vulcan            A   1     .     .   |   1     .     .    139.13  64.41  2.92(OA)
+
+ 8 Nick Tipton            John Aslin               B   .     .     .   |   .     .     .    110.08  50.96          
+
+ 9 David Wright           Brian Zaugg              B   6     4     .   |   4     2     .    118.13  54.69  0.78(OB)
+
+
+
+
+                                          Totals                                            972.12       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>June 17, 2025      |CLUB NO.>158048    | 06/17/2025 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=7                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Joseph Grill           Valliappa Lakshmanan     C   3     1     1   |   1     1     1    124.88  57.81  1.86(OB)
+
+ 2 Stanford Christie      Sue Anderson             A   .     .     .   |   .     .     .     98.87  45.77          
+
+ 3 Bryant Carlson         Andrew Rigazio           C   .     .     .   |   .     .     .    103.93  48.12          
+
+ 4 Christopher Jarvis     Adam Ruprecht            C   .     .     4   |   .     .     .    112.50  52.08  0.55(OC)
+
+ 5 Bruce Baker-Harvey     Jeannie Falls            C   .     .     .   |   .     .     .     85.37  39.52          
+
+ 6 Kimberly Gilmore       Will Fox                 C   .     5     2   |   3     3     2    114.05  52.80  0.98(OC)
+
+ 7 Aaron Mohrman          Laura Miller             C   .     .     .   |   .     .     .     97.18  44.99          
+
+ 8 Paul Schwaighart       Brad Rind                A   .     .     .   |   .     .     .    105.62  48.90          
+
+ 9 Mike Ring              Shawn Abernethy          B   4     2     .   |   2     2     .    123.05  56.97  1.40(OB)
+
+10 Hugh Hendrickson       Jin Wang                 C   .     .     3   |   4     .     3    112.70  52.18  0.74(OC)
+
+
+                                          Totals                                           1078.15       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   3.00 1-Eng-Ford vs 1-Grill-Lakshmanan
+   50          5.00   3.00 2-Christensen-Stevens vs 4-Jarvis-Ruprecht
+        430    0.00   8.00 3-Hamilton-Pauley vs 6-Gilmore-Fox
+        400    1.50   6.50 4-Mortola-Adams vs 8-Schwaighart-Rind
+        400    1.50   6.50 5-Yan-Wei vs 10-Hendrickson-Wang
+   50          5.00   3.00 6-Romeo-Kasperkiewicz vs 3-Carlson-Rigazio
+  100          8.00   0.00 7-Galer-Vulcan vs 5-Baker-Harvey-Falls
+   50          5.00   3.00 8-Tipton-Aslin vs 7-Mohrman-Miller
+   50          5.00   3.00 9-Wright-Zaugg vs 9-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   7.00 1-Eng-Ford vs 1-Grill-Lakshmanan
+        100    1.00   7.00 2-Christensen-Stevens vs 4-Jarvis-Ruprecht
+  100          5.50   2.50 3-Hamilton-Pauley vs 6-Gilmore-Fox
+   90          3.50   4.50 4-Mortola-Adams vs 8-Schwaighart-Rind
+  100          5.50   2.50 5-Yan-Wei vs 10-Hendrickson-Wang
+        100    1.00   7.00 6-Romeo-Kasperkiewicz vs 3-Carlson-Rigazio
+  110          7.50   0.50 7-Galer-Vulcan vs 5-Baker-Harvey-Falls
+  110          7.50   0.50 8-Tipton-Aslin vs 7-Mohrman-Miller
+   90          3.50   4.50 9-Wright-Zaugg vs 9-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        670    0.00   8.00 1-Eng-Ford vs 1-Grill-Lakshmanan
+         50    3.00   5.00 2-Christensen-Stevens vs 4-Jarvis-Ruprecht
+         50    3.00   5.00 3-Hamilton-Pauley vs 6-Gilmore-Fox
+  140          7.00   1.00 4-Mortola-Adams vs 8-Schwaighart-Rind
+         50    3.00   5.00 5-Yan-Wei vs 10-Hendrickson-Wang
+         50    3.00   5.00 6-Romeo-Kasperkiewicz vs 3-Carlson-Rigazio
+  140          7.00   1.00 7-Galer-Vulcan vs 5-Baker-Harvey-Falls
+         50    3.00   5.00 8-Tipton-Aslin vs 7-Mohrman-Miller
+  140          7.00   1.00 9-Wright-Zaugg vs 9-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1460          5.50   2.50 1-Eng-Ford vs 10-Hendrickson-Wang
+ 1460          5.50   2.50 2-Christensen-Stevens vs 2-Christie-Anderson
+ 1460          5.50   2.50 3-Hamilton-Pauley vs 5-Baker-Harvey-Falls
+ 1460          5.50   2.50 4-Mortola-Adams vs 7-Mohrman-Miller
+ 1430          2.00   6.00 5-Yan-Wei vs 9-Ring-Abernethy
+  710          0.50   7.50 6-Romeo-Kasperkiewicz vs 4-Jarvis-Ruprecht
+ 1460          5.50   2.50 7-Galer-Vulcan vs 6-Gilmore-Fox
+ 1460          5.50   2.50 8-Tipton-Aslin vs 8-Schwaighart-Rind
+  710          0.50   7.50 9-Wright-Zaugg vs 1-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   5.00 1-Eng-Ford vs 10-Hendrickson-Wang
+        110    0.50   7.50 2-Christensen-Stevens vs 2-Christie-Anderson
+        110    0.50   7.50 3-Hamilton-Pauley vs 5-Baker-Harvey-Falls
+  110          7.50   0.50 4-Mortola-Adams vs 7-Mohrman-Miller
+   50          5.00   3.00 5-Yan-Wei vs 9-Ring-Abernethy
+  110          7.50   0.50 6-Romeo-Kasperkiewicz vs 4-Jarvis-Ruprecht
+        100    3.00   5.00 7-Galer-Vulcan vs 6-Gilmore-Fox
+  100          6.00   2.00 8-Tipton-Aslin vs 8-Schwaighart-Rind
+        100    3.00   5.00 9-Wright-Zaugg vs 1-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   4.00 1-Eng-Ford vs 10-Hendrickson-Wang
+        100    4.00   4.00 2-Christensen-Stevens vs 2-Christie-Anderson
+  130          8.00   0.00 3-Hamilton-Pauley vs 5-Baker-Harvey-Falls
+        300    1.00   7.00 4-Mortola-Adams vs 7-Mohrman-Miller
+  110          7.00   1.00 5-Yan-Wei vs 9-Ring-Abernethy
+        150    2.00   6.00 6-Romeo-Kasperkiewicz vs 4-Jarvis-Ruprecht
+         50    6.00   2.00 7-Galer-Vulcan vs 6-Gilmore-Fox
+        800    0.00   8.00 8-Tipton-Aslin vs 8-Schwaighart-Rind
+        100    4.00   4.00 9-Wright-Zaugg vs 1-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.50   6.50 1-Eng-Ford vs 9-Ring-Abernethy
+        140    4.00   4.00 2-Christensen-Stevens vs 1-Grill-Lakshmanan
+        170    1.50   6.50 3-Hamilton-Pauley vs 3-Carlson-Rigazio
+        110    6.00   2.00 4-Mortola-Adams vs 6-Gilmore-Fox
+        140    4.00   4.00 5-Yan-Wei vs 8-Schwaighart-Rind
+  100          8.00   0.00 6-Romeo-Kasperkiewicz vs 5-Baker-Harvey-Falls
+         90    7.00   1.00 7-Galer-Vulcan vs 7-Mohrman-Miller
+        500    0.00   8.00 8-Tipton-Aslin vs 10-Hendrickson-Wang
+        140    4.00   4.00 9-Wright-Zaugg vs 2-Christie-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   6.50 1-Eng-Ford vs 9-Ring-Abernethy
+  170          8.00   0.00 2-Christensen-Stevens vs 1-Grill-Lakshmanan
+        110    0.00   8.00 3-Hamilton-Pauley vs 3-Carlson-Rigazio
+        100    1.50   6.50 4-Mortola-Adams vs 6-Gilmore-Fox
+         50    4.00   4.00 5-Yan-Wei vs 8-Schwaighart-Rind
+         50    4.00   4.00 6-Romeo-Kasperkiewicz vs 5-Baker-Harvey-Falls
+         50    4.00   4.00 7-Galer-Vulcan vs 7-Mohrman-Miller
+   50          6.00   2.00 8-Tipton-Aslin vs 10-Hendrickson-Wang
+  110          7.00   1.00 9-Wright-Zaugg vs 2-Christie-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  490          5.13   2.88 1-Eng-Ford vs 9-Ring-Abernethy
+  490          5.13   2.88 2-Christensen-Stevens vs 1-Grill-Lakshmanan
+  490          5.13   2.88 3-Hamilton-Pauley vs 3-Carlson-Rigazio
+  460          0.63   7.38 4-Mortola-Adams vs 6-Gilmore-Fox
+  490          5.13   2.88 5-Yan-Wei vs 8-Schwaighart-Rind
+  460          0.63   7.38 6-Romeo-Kasperkiewicz vs 5-Baker-Harvey-Falls
+  490          5.13   2.88 7-Galer-Vulcan vs 7-Mohrman-Miller
+  490          5.13   2.88 9-Wright-Zaugg vs 2-Christie-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.00   1.00 1-Eng-Ford vs 8-Schwaighart-Rind
+  110          4.50   3.50 2-Christensen-Stevens vs 10-Hendrickson-Wang
+  200          7.00   1.00 3-Hamilton-Pauley vs 2-Christie-Anderson
+        110    0.00   8.00 4-Mortola-Adams vs 4-Jarvis-Ruprecht
+  100          3.00   5.00 5-Yan-Wei vs 7-Mohrman-Miller
+        100    1.50   6.50 6-Romeo-Kasperkiewicz vs 6-Gilmore-Fox
+  200          7.00   1.00 7-Galer-Vulcan vs 9-Ring-Abernethy
+  110          4.50   3.50 8-Tipton-Aslin vs 1-Grill-Lakshmanan
+        100    1.50   6.50 9-Wright-Zaugg vs 3-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   4.00 1-Eng-Ford vs 8-Schwaighart-Rind
+        100    1.50   6.50 2-Christensen-Stevens vs 10-Hendrickson-Wang
+  110          7.50   0.50 3-Hamilton-Pauley vs 2-Christie-Anderson
+        150    0.00   8.00 4-Mortola-Adams vs 4-Jarvis-Ruprecht
+         50    4.00   4.00 5-Yan-Wei vs 7-Mohrman-Miller
+         50    4.00   4.00 6-Romeo-Kasperkiewicz vs 6-Gilmore-Fox
+        100    1.50   6.50 7-Galer-Vulcan vs 9-Ring-Abernethy
+   90          6.00   2.00 8-Tipton-Aslin vs 1-Grill-Lakshmanan
+  110          7.50   0.50 9-Wright-Zaugg vs 3-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          7.50   0.50 1-Eng-Ford vs 8-Schwaighart-Rind
+        140    1.00   7.00 2-Christensen-Stevens vs 10-Hendrickson-Wang
+        130    3.00   5.00 3-Hamilton-Pauley vs 2-Christie-Anderson
+  110          7.50   0.50 4-Mortola-Adams vs 4-Jarvis-Ruprecht
+        130    3.00   5.00 5-Yan-Wei vs 7-Mohrman-Miller
+        130    3.00   5.00 6-Romeo-Kasperkiewicz vs 6-Gilmore-Fox
+   90          6.00   2.00 7-Galer-Vulcan vs 9-Ring-Abernethy
+        170    0.00   8.00 8-Tipton-Aslin vs 1-Grill-Lakshmanan
+   80          5.00   3.00 9-Wright-Zaugg vs 3-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          8.00   0.00 1-Eng-Ford vs 7-Mohrman-Miller
+        100    2.00   6.00 2-Christensen-Stevens vs 9-Ring-Abernethy
+        100    2.00   6.00 3-Hamilton-Pauley vs 1-Grill-Lakshmanan
+  600          7.00   1.00 4-Mortola-Adams vs 3-Carlson-Rigazio
+        100    2.00   6.00 5-Yan-Wei vs 5-Baker-Harvey-Falls
+        100    2.00   6.00 6-Romeo-Kasperkiewicz vs 8-Schwaighart-Rind
+  140          6.00   2.00 7-Galer-Vulcan vs 10-Hendrickson-Wang
+        100    2.00   6.00 8-Tipton-Aslin vs 2-Christie-Anderson
+  120          5.00   3.00 9-Wright-Zaugg vs 4-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   4.50 1-Eng-Ford vs 7-Mohrman-Miller
+  170          0.50   7.50 2-Christensen-Stevens vs 9-Ring-Abernethy
+  420          3.50   4.50 3-Hamilton-Pauley vs 1-Grill-Lakshmanan
+  170          0.50   7.50 4-Mortola-Adams vs 3-Carlson-Rigazio
+  450          6.50   1.50 5-Yan-Wei vs 5-Baker-Harvey-Falls
+  420          3.50   4.50 6-Romeo-Kasperkiewicz vs 8-Schwaighart-Rind
+  790          8.00   0.00 7-Galer-Vulcan vs 10-Hendrickson-Wang
+  450          6.50   1.50 8-Tipton-Aslin vs 2-Christie-Anderson
+  420          3.50   4.50 9-Wright-Zaugg vs 4-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          8.00   0.00 1-Eng-Ford vs 7-Mohrman-Miller
+        100    1.00   7.00 2-Christensen-Stevens vs 9-Ring-Abernethy
+         90    2.00   6.00 3-Hamilton-Pauley vs 1-Grill-Lakshmanan
+  100          5.00   3.00 4-Mortola-Adams vs 3-Carlson-Rigazio
+  110          6.50   1.50 5-Yan-Wei vs 5-Baker-Harvey-Falls
+   50          3.00   5.00 6-Romeo-Kasperkiewicz vs 8-Schwaighart-Rind
+   70          4.00   4.00 7-Galer-Vulcan vs 10-Hendrickson-Wang
+  110          6.50   1.50 8-Tipton-Aslin vs 2-Christie-Anderson
+        500    0.00   8.00 9-Wright-Zaugg vs 4-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.00   5.00 1-Eng-Ford vs 6-Gilmore-Fox
+  450          3.00   5.00 2-Christensen-Stevens vs 8-Schwaighart-Rind
+  480          5.50   2.50 3-Hamilton-Pauley vs 10-Hendrickson-Wang
+  510          7.00   1.00 4-Mortola-Adams vs 2-Christie-Anderson
+  450          3.00   5.00 5-Yan-Wei vs 4-Jarvis-Ruprecht
+  480          5.50   2.50 6-Romeo-Kasperkiewicz vs 9-Ring-Abernethy
+  940          8.00   0.00 7-Galer-Vulcan vs 1-Grill-Lakshmanan
+  200          1.00   7.00 8-Tipton-Aslin vs 3-Carlson-Rigazio
+        100    0.00   8.00 9-Wright-Zaugg vs 5-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.00   3.00 1-Eng-Ford vs 6-Gilmore-Fox
+  420          0.50   7.50 2-Christensen-Stevens vs 8-Schwaighart-Rind
+  460          8.00   0.00 3-Hamilton-Pauley vs 10-Hendrickson-Wang
+  430          2.00   6.00 4-Mortola-Adams vs 2-Christie-Anderson
+  450          5.00   3.00 5-Yan-Wei vs 4-Jarvis-Ruprecht
+  420          0.50   7.50 6-Romeo-Kasperkiewicz vs 9-Ring-Abernethy
+  450          5.00   3.00 7-Galer-Vulcan vs 1-Grill-Lakshmanan
+  450          5.00   3.00 8-Tipton-Aslin vs 3-Carlson-Rigazio
+  450          5.00   3.00 9-Wright-Zaugg vs 5-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  730          8.00   0.00 1-Eng-Ford vs 6-Gilmore-Fox
+  250          7.00   1.00 2-Christensen-Stevens vs 8-Schwaighart-Rind
+        100    0.00   8.00 3-Hamilton-Pauley vs 10-Hendrickson-Wang
+  140          2.50   5.50 4-Mortola-Adams vs 2-Christie-Anderson
+  150          5.00   3.00 5-Yan-Wei vs 4-Jarvis-Ruprecht
+  140          2.50   5.50 6-Romeo-Kasperkiewicz vs 9-Ring-Abernethy
+  140          2.50   5.50 7-Galer-Vulcan vs 1-Grill-Lakshmanan
+  140          2.50   5.50 8-Tipton-Aslin vs 3-Carlson-Rigazio
+  170          6.00   2.00 9-Wright-Zaugg vs 5-Baker-Harvey-Falls
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   5.00 1-Eng-Ford vs 5-Baker-Harvey-Falls
+         90    2.00   6.00 2-Christensen-Stevens vs 7-Mohrman-Miller
+  200          7.50   0.50 3-Hamilton-Pauley vs 9-Ring-Abernethy
+        110    0.50   7.50 4-Mortola-Adams vs 1-Grill-Lakshmanan
+  200          7.50   0.50 5-Yan-Wei vs 3-Carlson-Rigazio
+  100          4.50   3.50 6-Romeo-Kasperkiewicz vs 10-Hendrickson-Wang
+        110    0.50   7.50 7-Galer-Vulcan vs 2-Christie-Anderson
+  100          4.50   3.50 8-Tipton-Aslin vs 4-Jarvis-Ruprecht
+  110          6.00   2.00 9-Wright-Zaugg vs 6-Gilmore-Fox
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.00   0.00 1-Eng-Ford vs 5-Baker-Harvey-Falls
+        140    4.50   3.50 2-Christensen-Stevens vs 7-Mohrman-Miller
+        140    4.50   3.50 3-Hamilton-Pauley vs 9-Ring-Abernethy
+        200    1.00   7.00 4-Mortola-Adams vs 1-Grill-Lakshmanan
+        110    7.00   1.00 5-Yan-Wei vs 3-Carlson-Rigazio
+        140    4.50   3.50 6-Romeo-Kasperkiewicz vs 10-Hendrickson-Wang
+        140    4.50   3.50 7-Galer-Vulcan vs 2-Christie-Anderson
+        620    0.00   8.00 8-Tipton-Aslin vs 4-Jarvis-Ruprecht
+        150    2.00   6.00 9-Wright-Zaugg vs 6-Gilmore-Fox
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   5.00 1-Eng-Ford vs 5-Baker-Harvey-Falls
+  650          3.00   5.00 2-Christensen-Stevens vs 7-Mohrman-Miller
+        100    0.00   8.00 3-Hamilton-Pauley vs 9-Ring-Abernethy
+  650          3.00   5.00 4-Mortola-Adams vs 1-Grill-Lakshmanan
+  650          3.00   5.00 5-Yan-Wei vs 3-Carlson-Rigazio
+  800          7.50   0.50 6-Romeo-Kasperkiewicz vs 10-Hendrickson-Wang
+  650          3.00   5.00 7-Galer-Vulcan vs 2-Christie-Anderson
+  800          7.50   0.50 8-Tipton-Aslin vs 4-Jarvis-Ruprecht
+  680          6.00   2.00 9-Wright-Zaugg vs 6-Gilmore-Fox
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          7.50   0.50 1-Eng-Ford vs 4-Jarvis-Ruprecht
+        100    6.00   2.00 2-Christensen-Stevens vs 6-Gilmore-Fox
+        180    1.50   6.50 3-Hamilton-Pauley vs 8-Schwaighart-Rind
+        500    0.00   8.00 4-Mortola-Adams vs 10-Hendrickson-Wang
+        110    4.00   4.00 5-Yan-Wei vs 2-Christie-Anderson
+        180    1.50   6.50 6-Romeo-Kasperkiewicz vs 1-Grill-Lakshmanan
+  110          7.50   0.50 7-Galer-Vulcan vs 3-Carlson-Rigazio
+        110    4.00   4.00 8-Tipton-Aslin vs 5-Baker-Harvey-Falls
+        110    4.00   4.00 9-Wright-Zaugg vs 7-Mohrman-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.00   0.00 1-Eng-Ford vs 4-Jarvis-Ruprecht
+        650    2.00   6.00 2-Christensen-Stevens vs 6-Gilmore-Fox
+        650    2.00   6.00 3-Hamilton-Pauley vs 8-Schwaighart-Rind
+        650    2.00   6.00 4-Mortola-Adams vs 10-Hendrickson-Wang
+        140    7.00   1.00 5-Yan-Wei vs 2-Christie-Anderson
+        650    2.00   6.00 6-Romeo-Kasperkiewicz vs 1-Grill-Lakshmanan
+        650    2.00   6.00 7-Galer-Vulcan vs 3-Carlson-Rigazio
+        620    5.50   2.50 8-Tipton-Aslin vs 5-Baker-Harvey-Falls
+        620    5.50   2.50 9-Wright-Zaugg vs 7-Mohrman-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   5.50 1-Eng-Ford vs 4-Jarvis-Ruprecht
+        570    0.00   8.00 2-Christensen-Stevens vs 6-Gilmore-Fox
+         50    6.50   1.50 3-Hamilton-Pauley vs 8-Schwaighart-Rind
+        110    2.50   5.50 4-Mortola-Adams vs 10-Hendrickson-Wang
+        150    1.00   7.00 5-Yan-Wei vs 2-Christie-Anderson
+        100    4.50   3.50 6-Romeo-Kasperkiewicz vs 1-Grill-Lakshmanan
+         50    6.50   1.50 7-Galer-Vulcan vs 3-Carlson-Rigazio
+        100    4.50   3.50 8-Tipton-Aslin vs 5-Baker-Harvey-Falls
+   90          8.00   0.00 9-Wright-Zaugg vs 7-Mohrman-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          8.00   0.00 1-Eng-Ford vs 3-Carlson-Rigazio
+  130          3.50   4.50 2-Christensen-Stevens vs 5-Baker-Harvey-Falls
+        100    0.50   7.50 3-Hamilton-Pauley vs 7-Mohrman-Miller
+         50    2.00   6.00 4-Mortola-Adams vs 9-Ring-Abernethy
+  150          5.00   3.00 5-Yan-Wei vs 1-Grill-Lakshmanan
+        100    0.50   7.50 6-Romeo-Kasperkiewicz vs 2-Christie-Anderson
+  430          7.00   1.00 7-Galer-Vulcan vs 4-Jarvis-Ruprecht
+  130          3.50   4.50 8-Tipton-Aslin vs 6-Gilmore-Fox
+  400          6.00   2.00 9-Wright-Zaugg vs 8-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          7.50   0.50 1-Eng-Ford vs 3-Carlson-Rigazio
+        140    3.50   4.50 2-Christensen-Stevens vs 5-Baker-Harvey-Falls
+        620    0.00   8.00 3-Hamilton-Pauley vs 7-Mohrman-Miller
+        200    1.50   6.50 4-Mortola-Adams vs 9-Ring-Abernethy
+        140    3.50   4.50 5-Yan-Wei vs 1-Grill-Lakshmanan
+  130          7.50   0.50 6-Romeo-Kasperkiewicz vs 2-Christie-Anderson
+  100          6.00   2.00 7-Galer-Vulcan vs 4-Jarvis-Ruprecht
+        200    1.50   6.50 8-Tipton-Aslin vs 6-Gilmore-Fox
+        100    5.00   3.00 9-Wright-Zaugg vs 8-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          0.00   8.00 1-Eng-Ford vs 3-Carlson-Rigazio
+  200          6.00   2.00 2-Christensen-Stevens vs 5-Baker-Harvey-Falls
+  170          3.00   5.00 3-Hamilton-Pauley vs 7-Mohrman-Miller
+  170          3.00   5.00 4-Mortola-Adams vs 9-Ring-Abernethy
+  200          6.00   2.00 5-Yan-Wei vs 1-Grill-Lakshmanan
+  200          6.00   2.00 6-Romeo-Kasperkiewicz vs 2-Christie-Anderson
+  150          1.00   7.00 7-Galer-Vulcan vs 4-Jarvis-Ruprecht
+  420          8.00   0.00 8-Tipton-Aslin vs 6-Gilmore-Fox
+  170          3.00   5.00 9-Wright-Zaugg vs 8-Schwaighart-Rind
+----------------------------------------------------------------------
