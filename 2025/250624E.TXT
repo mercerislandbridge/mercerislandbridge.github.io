@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>June 24, 2025      |CLUB NO.>158048    | 06/24/2025 21:48
+DATE>June 24, 2025      |CLUB NO.>158048    | 06/24/2025 21:50
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Kim/.Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,23 +11,23 @@ PAIRS IN STRAT A=10/B=5/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Scott Chupack          J.C. Chupack             B    1     1     .    114.50  53.01  1.00(A) 
+ 1 Scott Chupack          J.C. Chupack             B    4     1     .    114.50  53.01  0.40(B) 
 
- 2 Ann Romeo              Ruth Bunin               B    .     NE    .     74.50  34.49          
+ 2 Ann Romeo              Ruth Bunin               B    .     .     .     74.50  34.49          
 
- 3 Liz Heron              Shaz Qadeer              C    4     .     .     94.50  43.75  0.35(A) 
+ 3 Liz Heron              Shaz Qadeer              C    .     .     .     94.50  43.75          
 
- 4 Mike Christensen       David Wright             A    NE    .     .    132.00  61.11          
+ 4 Mike Christensen       David Wright             A    2     .     .    132.00  61.11  0.70(A) 
 
- 5 Aaron Mohrman          Ray Miller               A    NE    .     .     98.50  45.60          
+ 5 Aaron Mohrman          Ray Miller               A    .     .     .     98.50  45.60          
 
- 6 Paul Schwaighart       Brad Rind                A    NE    .     .    132.50  61.34          
+ 6 Paul Schwaighart       Brad Rind                A    1     .     .    132.50  61.34  1.00(A) 
 
- 7 Ata Ivanov             Manski Fransazov         C    3     .     .     97.50  45.14  0.50(A) 
+ 7 Ata Ivanov             Manski Fransazov         C    .     .     .     97.50  45.14          
 
- 8 David Taylor           Sue Anderson             A    NE    .     .    122.00  56.48          
+ 8 David Taylor           Sue Anderson             A    3     .     .    122.00  56.48  0.50(A) 
 
- 9 Adam Ruprecht          Christopher Jarvis       C    2     2     1    106.00  49.07  0.70(A) 
+ 9 Adam Ruprecht          Christopher Jarvis       C    .     2     1    106.00  49.07  0.28(B) 
 
 
 
@@ -35,7 +35,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
                                           Totals                         972.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>June 24, 2025      |CLUB NO.>158048    | 06/24/2025 21:48
+DATE>June 24, 2025      |CLUB NO.>158048    | 06/24/2025 21:50
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Kim/.Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -45,23 +45,23 @@ PAIRS IN STRAT A=10/B=6/C=4                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 James Holzhauer        Bryan Delfs              A    NE    .     .    153.00  70.83          
+ 1 James Holzhauer        Bryan Delfs              A    1     .     .    153.00  70.83  1.00(A) 
 
- 2 Joseph Grill           Valliappa Lakshmanan     C    4     .     .     99.00  45.83  0.35(A) 
+ 2 Joseph Grill           Valliappa Lakshmanan     C    .     .     .     99.00  45.83          
 
- 3 Hugh Hendrickson       Jin Wang                 C    1     1     1    109.13  50.52  1.00(A) 
+ 3 Hugh Hendrickson       Jin Wang                 C    3     1     1    109.13  50.52  0.50(A) 
 
- 4 Brian Zaugg            Mike Ring                A    NE    .     .    103.50  47.92          
+ 4 Brian Zaugg            Mike Ring                A    4     .     .    103.50  47.92  0.35(A) 
 
- 5 Miles Ohlrich          Steven Campau            B    2     2     .    100.69  46.62  0.70(A) 
+ 5 Miles Ohlrich          Steven Campau            B    .     2     .    100.69  46.62  0.34(B) 
 
- 6 Jeremy Gulley          Shannon Kasperkiewicz    C    3     .     2    100.13  46.36  0.50(A) 
+ 6 Jeremy Gulley          Shannon Kasperkiewicz    C    .     .     2    100.13  46.36  0.22(C) 
 
- 7 Bogdan Vulcan          Corneliu Galer           A    NE    .     .     99.00  45.83          
+ 7 Bogdan Vulcan          Corneliu Galer           A    .     .     .     99.00  45.83          
 
- 8 Becky Stevens          Muhunthan Sivapragasam   B    .     NE    .     95.63  44.27          
+ 8 Becky Stevens          Muhunthan Sivapragasam   B    .     .     .     95.63  44.27          
 
- 9 Kim Eng                Jeffrey Ford             A    NE    .     .    117.00  54.17          
+ 9 Kim Eng                Jeffrey Ford             A    2     .     .    117.00  54.17  0.70(A) 
 
 10 Ella Su                Jason Yao                C    .     .     .     97.31  45.05          
 
