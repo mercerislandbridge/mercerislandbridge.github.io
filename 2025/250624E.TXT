@@ -1,0 +1,474 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>June 24, 2025      |CLUB NO.>158048    | 06/24/2025 21:48
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim/.Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=5/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Scott Chupack          J.C. Chupack             B    1     1     .    114.50  53.01  1.00(A) 
+
+ 2 Ann Romeo              Ruth Bunin               B    .     NE    .     74.50  34.49          
+
+ 3 Liz Heron              Shaz Qadeer              C    4     .     .     94.50  43.75  0.35(A) 
+
+ 4 Mike Christensen       David Wright             A    NE    .     .    132.00  61.11          
+
+ 5 Aaron Mohrman          Ray Miller               A    NE    .     .     98.50  45.60          
+
+ 6 Paul Schwaighart       Brad Rind                A    NE    .     .    132.50  61.34          
+
+ 7 Ata Ivanov             Manski Fransazov         C    3     .     .     97.50  45.14  0.50(A) 
+
+ 8 David Taylor           Sue Anderson             A    NE    .     .    122.00  56.48          
+
+ 9 Adam Ruprecht          Christopher Jarvis       C    2     2     1    106.00  49.07  0.70(A) 
+
+
+
+
+                                          Totals                         972.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>June 24, 2025      |CLUB NO.>158048    | 06/24/2025 21:48
+---------------------,-- ------------------- -------------,---------------------
+DIR> Kim/.Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 James Holzhauer        Bryan Delfs              A    NE    .     .    153.00  70.83          
+
+ 2 Joseph Grill           Valliappa Lakshmanan     C    4     .     .     99.00  45.83  0.35(A) 
+
+ 3 Hugh Hendrickson       Jin Wang                 C    1     1     1    109.13  50.52  1.00(A) 
+
+ 4 Brian Zaugg            Mike Ring                A    NE    .     .    103.50  47.92          
+
+ 5 Miles Ohlrich          Steven Campau            B    2     2     .    100.69  46.62  0.70(A) 
+
+ 6 Jeremy Gulley          Shannon Kasperkiewicz    C    3     .     2    100.13  46.36  0.50(A) 
+
+ 7 Bogdan Vulcan          Corneliu Galer           A    NE    .     .     99.00  45.83          
+
+ 8 Becky Stevens          Muhunthan Sivapragasam   B    .     NE    .     95.63  44.27          
+
+ 9 Kim Eng                Jeffrey Ford             A    NE    .     .    117.00  54.17          
+
+10 Ella Su                Jason Yao                C    .     .     .     97.31  45.05          
+
+
+                                          Totals                        1074.39       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.50   7.50 1-Chupack-Chupack vs 1-Holzhauer-Delfs
+        450    0.50   7.50 2-Romeo-Bunin vs 4-Zaugg-Ring
+        140    7.50   0.50 3-Heron-Qadeer vs 6-Gulley-Kasperkiewicz
+        300    3.00   5.00 4-Christensen-Wright vs 8-Stevens-Sivapragasam
+        200    4.50   3.50 5-Mohrman-Miller vs 10-Su-Yao
+        140    7.50   0.50 6-Schwaighart-Rind vs 3-Hendrickson-Wang
+        200    4.50   3.50 7-Ivanov-Fransazov vs 5-Ohlrich-Campau
+        180    6.00   2.00 8-Taylor-Anderson vs 7-Vulcan-Galer
+        420    2.00   6.00 9-Ruprecht-Jarvis vs 9-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   6.00 1-Chupack-Chupack vs 1-Holzhauer-Delfs
+        100    2.00   6.00 2-Romeo-Bunin vs 4-Zaugg-Ring
+        100    2.00   6.00 3-Heron-Qadeer vs 6-Gulley-Kasperkiewicz
+  630          7.50   0.50 4-Christensen-Wright vs 8-Stevens-Sivapragasam
+        100    2.00   6.00 5-Mohrman-Miller vs 10-Su-Yao
+        100    2.00   6.00 6-Schwaighart-Rind vs 3-Hendrickson-Wang
+  600          5.50   2.50 7-Ivanov-Fransazov vs 5-Ohlrich-Campau
+  630          7.50   0.50 8-Taylor-Anderson vs 7-Vulcan-Galer
+  600          5.50   2.50 9-Ruprecht-Jarvis vs 9-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   7.50 1-Chupack-Chupack vs 1-Holzhauer-Delfs
+  420          6.00   2.00 2-Romeo-Bunin vs 4-Zaugg-Ring
+         50    3.00   5.00 3-Heron-Qadeer vs 6-Gulley-Kasperkiewicz
+  590          7.00   1.00 4-Christensen-Wright vs 8-Stevens-Sivapragasam
+         50    3.00   5.00 5-Mohrman-Miller vs 10-Su-Yao
+  690          8.00   0.00 6-Schwaighart-Rind vs 3-Hendrickson-Wang
+  300          5.00   3.00 7-Ivanov-Fransazov vs 5-Ohlrich-Campau
+         50    3.00   5.00 8-Taylor-Anderson vs 7-Vulcan-Galer
+        100    0.50   7.50 9-Ruprecht-Jarvis vs 9-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          1.00   7.00 1-Chupack-Chupack vs 10-Su-Yao
+  110          0.00   8.00 2-Romeo-Bunin vs 2-Grill-Lakshmanan
+  630          4.50   3.50 3-Heron-Qadeer vs 5-Ohlrich-Campau
+  600          2.50   5.50 4-Christensen-Wright vs 7-Vulcan-Galer
+  660          7.00   1.00 5-Mohrman-Miller vs 9-Eng-Ford
+  660          7.00   1.00 6-Schwaighart-Rind vs 4-Zaugg-Ring
+  630          4.50   3.50 7-Ivanov-Fransazov vs 6-Gulley-Kasperkiewicz
+  600          2.50   5.50 8-Taylor-Anderson vs 8-Stevens-Sivapragasam
+  660          7.00   1.00 9-Ruprecht-Jarvis vs 1-Holzhauer-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    4.00   4.00 1-Chupack-Chupack vs 10-Su-Yao
+        800    0.00   8.00 2-Romeo-Bunin vs 2-Grill-Lakshmanan
+        420    4.00   4.00 3-Heron-Qadeer vs 5-Ohlrich-Campau
+  100          8.00   0.00 4-Christensen-Wright vs 7-Vulcan-Galer
+        420    4.00   4.00 5-Mohrman-Miller vs 9-Eng-Ford
+        420    4.00   4.00 6-Schwaighart-Rind vs 4-Zaugg-Ring
+        450    1.00   7.00 7-Ivanov-Fransazov vs 6-Gulley-Kasperkiewicz
+        170    7.00   1.00 8-Taylor-Anderson vs 8-Stevens-Sivapragasam
+        420    4.00   4.00 9-Ruprecht-Jarvis vs 1-Holzhauer-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   6.50 1-Chupack-Chupack vs 10-Su-Yao
+  100          6.50   1.50 2-Romeo-Bunin vs 2-Grill-Lakshmanan
+        620    1.50   6.50 3-Heron-Qadeer vs 5-Ohlrich-Campau
+        620    1.50   6.50 4-Christensen-Wright vs 7-Vulcan-Galer
+         50    5.00   3.00 5-Mohrman-Miller vs 9-Eng-Ford
+  140          8.00   0.00 6-Schwaighart-Rind vs 4-Zaugg-Ring
+        620    1.50   6.50 7-Ivanov-Fransazov vs 6-Gulley-Kasperkiewicz
+  100          6.50   1.50 8-Taylor-Anderson vs 8-Stevens-Sivapragasam
+        100    4.00   4.00 9-Ruprecht-Jarvis vs 1-Holzhauer-Delfs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   8.00 1-Chupack-Chupack vs 9-Eng-Ford
+  110          2.00   6.00 2-Romeo-Bunin vs 1-Holzhauer-Delfs
+  120          6.00   2.00 3-Heron-Qadeer vs 3-Hendrickson-Wang
+  110          2.00   6.00 4-Christensen-Wright vs 6-Gulley-Kasperkiewicz
+  110          2.00   6.00 5-Mohrman-Miller vs 8-Stevens-Sivapragasam
+  120          6.00   2.00 6-Schwaighart-Rind vs 5-Ohlrich-Campau
+  120          6.00   2.00 7-Ivanov-Fransazov vs 7-Vulcan-Galer
+  120          6.00   2.00 8-Taylor-Anderson vs 10-Su-Yao
+  120          6.00   2.00 9-Ruprecht-Jarvis vs 2-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   1.00 1-Chupack-Chupack vs 9-Eng-Ford
+        170    1.00   7.00 2-Romeo-Bunin vs 1-Holzhauer-Delfs
+        420    0.00   8.00 3-Heron-Qadeer vs 3-Hendrickson-Wang
+  530          8.00   0.00 4-Christensen-Wright vs 6-Gulley-Kasperkiewicz
+        140    2.50   5.50 5-Mohrman-Miller vs 8-Stevens-Sivapragasam
+        140    2.50   5.50 6-Schwaighart-Rind vs 5-Ohlrich-Campau
+   50          5.00   3.00 7-Ivanov-Fransazov vs 7-Vulcan-Galer
+   50          5.00   3.00 8-Taylor-Anderson vs 10-Su-Yao
+   50          5.00   3.00 9-Ruprecht-Jarvis vs 2-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   3.00 1-Chupack-Chupack vs 9-Eng-Ford
+        100    0.00   8.00 2-Romeo-Bunin vs 1-Holzhauer-Delfs
+         50    1.00   7.00 3-Heron-Qadeer vs 3-Hendrickson-Wang
+  180          7.50   0.50 4-Christensen-Wright vs 6-Gulley-Kasperkiewicz
+  150          5.00   3.00 5-Mohrman-Miller vs 8-Stevens-Sivapragasam
+  120          2.50   5.50 6-Schwaighart-Rind vs 5-Ohlrich-Campau
+  120          2.50   5.50 7-Ivanov-Fransazov vs 7-Vulcan-Galer
+  180          7.50   0.50 8-Taylor-Anderson vs 10-Su-Yao
+  150          5.00   3.00 9-Ruprecht-Jarvis vs 2-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        790    0.00   8.00 1-Chupack-Chupack vs 8-Stevens-Sivapragasam
+  150          3.50   4.50 2-Romeo-Bunin vs 10-Su-Yao
+        100    2.00   6.00 3-Heron-Qadeer vs 2-Grill-Lakshmanan
+  910          8.00   0.00 4-Christensen-Wright vs 4-Zaugg-Ring
+  750          6.50   1.50 5-Mohrman-Miller vs 7-Vulcan-Galer
+  150          3.50   4.50 6-Schwaighart-Rind vs 6-Gulley-Kasperkiewicz
+  600          5.00   3.00 7-Ivanov-Fransazov vs 9-Eng-Ford
+  750          6.50   1.50 8-Taylor-Anderson vs 1-Holzhauer-Delfs
+        300    1.00   7.00 9-Ruprecht-Jarvis vs 3-Hendrickson-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    8.00   0.00 1-Chupack-Chupack vs 8-Stevens-Sivapragasam
+        420    4.00   4.00 2-Romeo-Bunin vs 10-Su-Yao
+        420    4.00   4.00 3-Heron-Qadeer vs 2-Grill-Lakshmanan
+       1090    0.00   8.00 4-Christensen-Wright vs 4-Zaugg-Ring
+        420    4.00   4.00 5-Mohrman-Miller vs 7-Vulcan-Galer
+        420    4.00   4.00 6-Schwaighart-Rind vs 6-Gulley-Kasperkiewicz
+        920    1.00   7.00 7-Ivanov-Fransazov vs 9-Eng-Ford
+        420    4.00   4.00 8-Taylor-Anderson vs 1-Holzhauer-Delfs
+        300    7.00   1.00 9-Ruprecht-Jarvis vs 3-Hendrickson-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          7.00   1.00 1-Chupack-Chupack vs 8-Stevens-Sivapragasam
+        100    3.00   5.00 2-Romeo-Bunin vs 10-Su-Yao
+        200    1.00   7.00 3-Heron-Qadeer vs 2-Grill-Lakshmanan
+  630          8.00   0.00 4-Christensen-Wright vs 4-Zaugg-Ring
+        200    1.00   7.00 5-Mohrman-Miller vs 7-Vulcan-Galer
+  130          5.00   3.00 6-Schwaighart-Rind vs 6-Gulley-Kasperkiewicz
+  130          5.00   3.00 7-Ivanov-Fransazov vs 9-Eng-Ford
+        200    1.00   7.00 8-Taylor-Anderson vs 1-Holzhauer-Delfs
+  130          5.00   3.00 9-Ruprecht-Jarvis vs 3-Hendrickson-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   2.00 1-Chupack-Chupack vs 7-Vulcan-Galer
+        100    3.50   4.50 2-Romeo-Bunin vs 9-Eng-Ford
+        100    3.50   4.50 3-Heron-Qadeer vs 1-Holzhauer-Delfs
+        140    1.00   7.00 4-Christensen-Wright vs 3-Hendrickson-Wang
+   90          5.00   3.00 5-Mohrman-Miller vs 5-Ohlrich-Campau
+  800          8.00   0.00 6-Schwaighart-Rind vs 8-Stevens-Sivapragasam
+  200          7.00   1.00 7-Ivanov-Fransazov vs 10-Su-Yao
+        140    1.00   7.00 8-Taylor-Anderson vs 2-Grill-Lakshmanan
+        140    1.00   7.00 9-Ruprecht-Jarvis vs 4-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    0.00   8.00 1-Chupack-Chupack vs 7-Vulcan-Galer
+        170    2.50   5.50 2-Romeo-Bunin vs 9-Eng-Ford
+        170    2.50   5.50 3-Heron-Qadeer vs 1-Holzhauer-Delfs
+        120    4.50   3.50 4-Christensen-Wright vs 3-Hendrickson-Wang
+        120    4.50   3.50 5-Mohrman-Miller vs 5-Ohlrich-Campau
+         90    6.00   2.00 6-Schwaighart-Rind vs 8-Stevens-Sivapragasam
+        400    1.00   7.00 7-Ivanov-Fransazov vs 10-Su-Yao
+  150          8.00   0.00 8-Taylor-Anderson vs 2-Grill-Lakshmanan
+   50          7.00   1.00 9-Ruprecht-Jarvis vs 4-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.00   6.00 1-Chupack-Chupack vs 7-Vulcan-Galer
+  120          5.00   3.00 2-Romeo-Bunin vs 9-Eng-Ford
+   90          2.00   6.00 3-Heron-Qadeer vs 1-Holzhauer-Delfs
+  150          7.00   1.00 4-Christensen-Wright vs 3-Hendrickson-Wang
+   90          2.00   6.00 5-Mohrman-Miller vs 5-Ohlrich-Campau
+  580          8.00   0.00 6-Schwaighart-Rind vs 8-Stevens-Sivapragasam
+  120          5.00   3.00 7-Ivanov-Fransazov vs 10-Su-Yao
+  120          5.00   3.00 8-Taylor-Anderson vs 2-Grill-Lakshmanan
+        100    0.00   8.00 9-Ruprecht-Jarvis vs 4-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          8.00   0.00 1-Chupack-Chupack vs 6-Gulley-Kasperkiewicz
+  140          3.00   5.00 2-Romeo-Bunin vs 8-Stevens-Sivapragasam
+  200          7.00   1.00 3-Heron-Qadeer vs 10-Su-Yao
+  170          5.00   3.00 4-Christensen-Wright vs 2-Grill-Lakshmanan
+   90          1.00   7.00 5-Mohrman-Miller vs 4-Zaugg-Ring
+  170          5.00   3.00 6-Schwaighart-Rind vs 9-Eng-Ford
+         90    0.00   8.00 7-Ivanov-Fransazov vs 1-Holzhauer-Delfs
+  120          2.00   6.00 8-Taylor-Anderson vs 3-Hendrickson-Wang
+  170          5.00   3.00 9-Ruprecht-Jarvis vs 5-Ohlrich-Campau
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  590          6.00   2.00 1-Chupack-Chupack vs 6-Gulley-Kasperkiewicz
+        300    1.00   7.00 2-Romeo-Bunin vs 8-Stevens-Sivapragasam
+  470          3.00   5.00 3-Heron-Qadeer vs 10-Su-Yao
+  530          4.50   3.50 4-Christensen-Wright vs 2-Grill-Lakshmanan
+  630          7.50   0.50 5-Mohrman-Miller vs 4-Zaugg-Ring
+  630          7.50   0.50 6-Schwaighart-Rind vs 9-Eng-Ford
+        400    0.00   8.00 7-Ivanov-Fransazov vs 1-Holzhauer-Delfs
+  530          4.50   3.50 8-Taylor-Anderson vs 3-Hendrickson-Wang
+  200          2.00   6.00 9-Ruprecht-Jarvis vs 5-Ohlrich-Campau
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          7.00   1.00 1-Chupack-Chupack vs 6-Gulley-Kasperkiewicz
+        400    0.00   8.00 2-Romeo-Bunin vs 8-Stevens-Sivapragasam
+  650          3.50   4.50 3-Heron-Qadeer vs 10-Su-Yao
+  720          8.00   0.00 4-Christensen-Wright vs 2-Grill-Lakshmanan
+  650          3.50   4.50 5-Mohrman-Miller vs 4-Zaugg-Ring
+  650          3.50   4.50 6-Schwaighart-Rind vs 9-Eng-Ford
+  650          3.50   4.50 7-Ivanov-Fransazov vs 1-Holzhauer-Delfs
+  650          3.50   4.50 8-Taylor-Anderson vs 3-Hendrickson-Wang
+  650          3.50   4.50 9-Ruprecht-Jarvis vs 5-Ohlrich-Campau
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          6.50   1.50 1-Chupack-Chupack vs 5-Ohlrich-Campau
+  480          2.50   5.50 2-Romeo-Bunin vs 7-Vulcan-Galer
+  460          0.00   8.00 3-Heron-Qadeer vs 9-Eng-Ford
+  480          2.50   5.50 4-Christensen-Wright vs 1-Holzhauer-Delfs
+  920          5.00   3.00 5-Mohrman-Miller vs 3-Hendrickson-Wang
+  980          6.50   1.50 6-Schwaighart-Rind vs 10-Su-Yao
+  480          2.50   5.50 7-Ivanov-Fransazov vs 2-Grill-Lakshmanan
+  480          2.50   5.50 8-Taylor-Anderson vs 4-Zaugg-Ring
+  990          8.00   0.00 9-Ruprecht-Jarvis vs 6-Gulley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          6.00   2.00 1-Chupack-Chupack vs 5-Ohlrich-Campau
+  100          7.00   1.00 2-Romeo-Bunin vs 7-Vulcan-Galer
+        170    1.00   7.00 3-Heron-Qadeer vs 9-Eng-Ford
+        120    3.50   4.50 4-Christensen-Wright vs 1-Holzhauer-Delfs
+        110    5.00   3.00 5-Mohrman-Miller vs 3-Hendrickson-Wang
+        140    2.00   6.00 6-Schwaighart-Rind vs 10-Su-Yao
+  200          8.00   0.00 7-Ivanov-Fransazov vs 2-Grill-Lakshmanan
+        120    3.50   4.50 8-Taylor-Anderson vs 4-Zaugg-Ring
+        630    0.00   8.00 9-Ruprecht-Jarvis vs 6-Gulley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    5.50   2.50 1-Chupack-Chupack vs 5-Ohlrich-Campau
+        200    0.00   8.00 2-Romeo-Bunin vs 7-Vulcan-Galer
+        150    1.50   6.50 3-Heron-Qadeer vs 9-Eng-Ford
+        150    1.50   6.50 4-Christensen-Wright vs 1-Holzhauer-Delfs
+        130    3.00   5.00 5-Mohrman-Miller vs 3-Hendrickson-Wang
+        120    5.50   2.50 6-Schwaighart-Rind vs 10-Su-Yao
+         90    8.00   0.00 7-Ivanov-Fransazov vs 2-Grill-Lakshmanan
+        120    5.50   2.50 8-Taylor-Anderson vs 4-Zaugg-Ring
+        120    5.50   2.50 9-Ruprecht-Jarvis vs 6-Gulley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.50   3.50 1-Chupack-Chupack vs 4-Zaugg-Ring
+        200    0.00   8.00 2-Romeo-Bunin vs 6-Gulley-Kasperkiewicz
+  450          4.50   3.50 3-Heron-Qadeer vs 8-Stevens-Sivapragasam
+  800          8.00   0.00 4-Christensen-Wright vs 10-Su-Yao
+  450          4.50   3.50 5-Mohrman-Miller vs 2-Grill-Lakshmanan
+         50    1.00   7.00 6-Schwaighart-Rind vs 1-Holzhauer-Delfs
+  450          4.50   3.50 7-Ivanov-Fransazov vs 3-Hendrickson-Wang
+  450          4.50   3.50 8-Taylor-Anderson vs 5-Ohlrich-Campau
+  450          4.50   3.50 9-Ruprecht-Jarvis vs 7-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.50   0.50 1-Chupack-Chupack vs 4-Zaugg-Ring
+        100    4.50   3.50 2-Romeo-Bunin vs 6-Gulley-Kasperkiewicz
+        170    2.00   6.00 3-Heron-Qadeer vs 8-Stevens-Sivapragasam
+        100    4.50   3.50 4-Christensen-Wright vs 10-Su-Yao
+        500    1.00   7.00 5-Mohrman-Miller vs 2-Grill-Lakshmanan
+        140    3.00   5.00 6-Schwaighart-Rind vs 1-Holzhauer-Delfs
+        620    0.00   8.00 7-Ivanov-Fransazov vs 3-Hendrickson-Wang
+  110          6.00   2.00 8-Taylor-Anderson vs 5-Ohlrich-Campau
+  200          7.50   0.50 9-Ruprecht-Jarvis vs 7-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   4.00 1-Chupack-Chupack vs 4-Zaugg-Ring
+   50          6.00   2.00 2-Romeo-Bunin vs 6-Gulley-Kasperkiewicz
+  100          7.50   0.50 3-Heron-Qadeer vs 8-Stevens-Sivapragasam
+  100          7.50   0.50 4-Christensen-Wright vs 10-Su-Yao
+        120    2.50   5.50 5-Mohrman-Miller vs 2-Grill-Lakshmanan
+        150    0.00   8.00 6-Schwaighart-Rind vs 1-Holzhauer-Delfs
+        120    2.50   5.50 7-Ivanov-Fransazov vs 3-Hendrickson-Wang
+    PASS       5.00   3.00 8-Taylor-Anderson vs 5-Ohlrich-Campau
+        130    1.00   7.00 9-Ruprecht-Jarvis vs 7-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          6.50   1.50 1-Chupack-Chupack vs 3-Hendrickson-Wang
+  110          5.00   3.00 2-Romeo-Bunin vs 5-Ohlrich-Campau
+  120          6.50   1.50 3-Heron-Qadeer vs 7-Vulcan-Galer
+         50    3.00   5.00 4-Christensen-Wright vs 9-Eng-Ford
+         50    3.00   5.00 5-Mohrman-Miller vs 1-Holzhauer-Delfs
+  400          8.00   0.00 6-Schwaighart-Rind vs 2-Grill-Lakshmanan
+        100    0.50   7.50 7-Ivanov-Fransazov vs 4-Zaugg-Ring
+         50    3.00   5.00 8-Taylor-Anderson vs 6-Gulley-Kasperkiewicz
+        100    0.50   7.50 9-Ruprecht-Jarvis vs 8-Stevens-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1470          5.50   2.50 1-Chupack-Chupack vs 3-Hendrickson-Wang
+  690          0.00   8.00 2-Romeo-Bunin vs 5-Ohlrich-Campau
+ 1470          5.50   2.50 3-Heron-Qadeer vs 7-Vulcan-Galer
+ 1470          5.50   2.50 4-Christensen-Wright vs 9-Eng-Ford
+ 1440          1.50   6.50 5-Mohrman-Miller vs 1-Holzhauer-Delfs
+ 1470          5.50   2.50 6-Schwaighart-Rind vs 2-Grill-Lakshmanan
+ 1440          1.50   6.50 7-Ivanov-Fransazov vs 4-Zaugg-Ring
+ 1470          5.50   2.50 8-Taylor-Anderson vs 6-Gulley-Kasperkiewicz
+ 1470          5.50   2.50 9-Ruprecht-Jarvis vs 8-Stevens-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   5.00 1-Chupack-Chupack vs 3-Hendrickson-Wang
+        100    6.00   2.00 2-Romeo-Bunin vs 5-Ohlrich-Campau
+  100          8.00   0.00 3-Heron-Qadeer vs 7-Vulcan-Galer
+        120    3.00   5.00 4-Christensen-Wright vs 9-Eng-Ford
+        120    3.00   5.00 5-Mohrman-Miller vs 1-Holzhauer-Delfs
+        120    3.00   5.00 6-Schwaighart-Rind vs 2-Grill-Lakshmanan
+         90    7.00   1.00 7-Ivanov-Fransazov vs 4-Zaugg-Ring
+        300    0.00   8.00 8-Taylor-Anderson vs 6-Gulley-Kasperkiewicz
+        120    3.00   5.00 9-Ruprecht-Jarvis vs 8-Stevens-Sivapragasam
+----------------------------------------------------------------------
