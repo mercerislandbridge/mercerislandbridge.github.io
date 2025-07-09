@@ -1,0 +1,468 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>July 8, 2025       |CLUB NO.>158048    | 07/08/2025 22:00
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3750/1750 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Miles Ohlrich          Steven Campau            B    3     1     .    120.00  55.56  0.45(A) 
+
+ 2 Nick Tipton            Joe Frisbie              C    .     .     .     81.19  37.59          
+
+ 3 Ray Miller             Ann Romeo                A    4     .     .    114.63  53.07  0.32(A) 
+
+ 4 Fan Zhang              Min Zheng                C    .     .     1    104.32  48.30  0.24(C) 
+
+ 5 Stanford Christie      Corneliu Galer           A    1     .     .    128.00  59.26  0.90(A) 
+
+ 6 Kim Eng                Eric Sieg                A    2     .     .    125.50  58.10  0.63(A) 
+
+ 7 Brian Zaugg            Liliana Diaconescu       B    .     2     .    110.56  51.19  0.28(B) 
+
+ 8 Andrew Rigazio         Bryant Carlson           C    .     .     .     83.82  38.81          
+
+ 9 Dong Yan               David Roselle            A    .     .     .    103.68  48.00          
+
+
+                                          Totals                         971.70       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>July 8, 2025       |CLUB NO.>158048    | 07/08/2025 22:00
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3750/1750 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Paul Schwaighart       Brad Rind                A    4     .     .    109.50  50.69  0.32(A) 
+
+ 2 Dave Grubbs            Sue Anderson             A    .     .     .     91.00  42.13          
+
+ 3 Jeffrey Ford           Bogdan Vulcan            A    2     .     .    131.00  60.65  0.63(A) 
+
+ 4 Shannon Kasperkiewicz  Cindy Pauley             C    .     .     .     90.82  42.05          
+
+ 5 Bryan Delfs            J.C. Chupack             B    .     2     .    105.44  48.81  0.28(B) 
+
+ 6 John Aslin             David Taylor             B    1     1     .    134.88  62.44  0.90(A) 
+
+ 7 Mike Ring              Mike Christensen         A    3     .     .    114.69  53.10  0.45(A) 
+
+ 8 Valliappa Lakshmanan   Aaron Mohrman            C    .     .     1    102.19  47.31  0.24(C) 
+
+ 9 Joseph Grill           Mark Rice                C    .     .     .     91.26  42.25          
+
+
+                                          Totals                         970.78       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   5.50 1-Ohlrich-Campau vs 1-Schwaighart-Rind
+        140    2.50   5.50 2-Tipton-Frisbie vs 3-Ford-Vulcan
+        280    0.00   8.00 3-Miller-Romeo vs 5-Delfs-Chupack
+  100          8.00   0.00 4-Zhang-Zheng vs 7-Ring-Christensen
+        140    2.50   5.50 5-Christie-Galer vs 9-Grill-Rice
+        100    5.50   2.50 6-Eng-Sieg vs 2-Grubbs-Anderson
+         50    7.00   1.00 7-Zaugg-Diaconescu vs 4-Kasperkiewicz-Pauley
+        140    2.50   5.50 8-Rigazio-Carlson vs 6-Aslin-Taylor
+        100    5.50   2.50 9-Yan-Roselle vs 8-Lakshmanan-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.50   7.50 1-Ohlrich-Campau vs 1-Schwaighart-Rind
+        140    3.00   5.00 2-Tipton-Frisbie vs 3-Ford-Vulcan
+        140    3.00   5.00 3-Miller-Romeo vs 5-Delfs-Chupack
+        140    3.00   5.00 4-Zhang-Zheng vs 7-Ring-Christensen
+         90    8.00   0.00 5-Christie-Galer vs 9-Grill-Rice
+        120    6.00   2.00 6-Eng-Sieg vs 2-Grubbs-Anderson
+        120    6.00   2.00 7-Zaugg-Diaconescu vs 4-Kasperkiewicz-Pauley
+        150    0.50   7.50 8-Rigazio-Carlson vs 6-Aslin-Taylor
+        120    6.00   2.00 9-Yan-Roselle vs 8-Lakshmanan-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          7.00   1.00 1-Ohlrich-Campau vs 1-Schwaighart-Rind
+        100    3.00   5.00 2-Tipton-Frisbie vs 3-Ford-Vulcan
+  110          5.00   3.00 3-Miller-Romeo vs 5-Delfs-Chupack
+        130    2.00   6.00 4-Zhang-Zheng vs 7-Ring-Christensen
+  200          8.00   0.00 5-Christie-Galer vs 9-Grill-Rice
+  110          5.00   3.00 6-Eng-Sieg vs 2-Grubbs-Anderson
+        710    0.00   8.00 7-Zaugg-Diaconescu vs 4-Kasperkiewicz-Pauley
+        150    1.00   7.00 8-Rigazio-Carlson vs 6-Aslin-Taylor
+  110          5.00   3.00 9-Yan-Roselle vs 8-Lakshmanan-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          8.00   0.00 1-Ohlrich-Campau vs 9-Grill-Rice
+        100    0.00   8.00 2-Tipton-Frisbie vs 2-Grubbs-Anderson
+  650          6.00   2.00 3-Miller-Romeo vs 4-Kasperkiewicz-Pauley
+  650          6.00   2.00 4-Zhang-Zheng vs 6-Aslin-Taylor
+  620          3.50   4.50 5-Christie-Galer vs 8-Lakshmanan-Mohrman
+  650          6.00   2.00 6-Eng-Sieg vs 1-Schwaighart-Rind
+  620          3.50   4.50 7-Zaugg-Diaconescu vs 3-Ford-Vulcan
+  200          1.50   6.50 8-Rigazio-Carlson vs 5-Delfs-Chupack
+  200          1.50   6.50 9-Yan-Roselle vs 7-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          6.00   2.00 1-Ohlrich-Campau vs 9-Grill-Rice
+  140          3.50   4.50 2-Tipton-Frisbie vs 2-Grubbs-Anderson
+  140          3.50   4.50 3-Miller-Romeo vs 4-Kasperkiewicz-Pauley
+  140          3.50   4.50 4-Zhang-Zheng vs 6-Aslin-Taylor
+        110    0.00   8.00 5-Christie-Galer vs 8-Lakshmanan-Mohrman
+  300          7.50   0.50 6-Eng-Sieg vs 1-Schwaighart-Rind
+  300          7.50   0.50 7-Zaugg-Diaconescu vs 3-Ford-Vulcan
+  140          3.50   4.50 8-Rigazio-Carlson vs 5-Delfs-Chupack
+        100    1.00   7.00 9-Yan-Roselle vs 7-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    7.00   1.00 1-Ohlrich-Campau vs 9-Grill-Rice
+        660    3.50   4.50 2-Tipton-Frisbie vs 2-Grubbs-Anderson
+        630    7.00   1.00 3-Miller-Romeo vs 4-Kasperkiewicz-Pauley
+        660    3.50   4.50 4-Zhang-Zheng vs 6-Aslin-Taylor
+        660    3.50   4.50 5-Christie-Galer vs 8-Lakshmanan-Mohrman
+        630    7.00   1.00 6-Eng-Sieg vs 1-Schwaighart-Rind
+       1370    0.50   7.50 7-Zaugg-Diaconescu vs 3-Ford-Vulcan
+       1370    0.50   7.50 8-Rigazio-Carlson vs 5-Delfs-Chupack
+        660    3.50   4.50 9-Yan-Roselle vs 7-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          1.50   6.50 1-Ohlrich-Campau vs 8-Lakshmanan-Mohrman
+  630          1.50   6.50 2-Tipton-Frisbie vs 1-Schwaighart-Rind
+  630          1.50   6.50 3-Miller-Romeo vs 3-Ford-Vulcan
+  660          5.50   2.50 4-Zhang-Zheng vs 5-Delfs-Chupack
+  660          5.50   2.50 5-Christie-Galer vs 7-Ring-Christensen
+  660          5.50   2.50 6-Eng-Sieg vs 9-Grill-Rice
+  630          1.50   6.50 7-Zaugg-Diaconescu vs 2-Grubbs-Anderson
+ 1440          8.00   0.00 8-Rigazio-Carlson vs 4-Kasperkiewicz-Pauley
+  660          5.50   2.50 9-Yan-Roselle vs 6-Aslin-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          1.00   7.00 1-Ohlrich-Campau vs 8-Lakshmanan-Mohrman
+  140          2.50   5.50 2-Tipton-Frisbie vs 1-Schwaighart-Rind
+  170          5.00   3.00 3-Miller-Romeo vs 3-Ford-Vulcan
+  170          5.00   3.00 4-Zhang-Zheng vs 5-Delfs-Chupack
+  400          8.00   0.00 5-Christie-Galer vs 7-Ring-Christensen
+  230          7.00   1.00 6-Eng-Sieg vs 9-Grill-Rice
+  170          5.00   3.00 7-Zaugg-Diaconescu vs 2-Grubbs-Anderson
+  140          2.50   5.50 8-Rigazio-Carlson vs 4-Kasperkiewicz-Pauley
+         50    0.00   8.00 9-Yan-Roselle vs 6-Aslin-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    7.00   1.00 1-Ohlrich-Campau vs 8-Lakshmanan-Mohrman
+        140    4.50   3.50 2-Tipton-Frisbie vs 1-Schwaighart-Rind
+        300    1.00   7.00 3-Miller-Romeo vs 3-Ford-Vulcan
+   90          8.00   0.00 4-Zhang-Zheng vs 5-Delfs-Chupack
+        620    0.00   8.00 5-Christie-Galer vs 7-Ring-Christensen
+        170    2.50   5.50 6-Eng-Sieg vs 9-Grill-Rice
+        140    4.50   3.50 7-Zaugg-Diaconescu vs 2-Grubbs-Anderson
+        110    6.00   2.00 8-Rigazio-Carlson vs 4-Kasperkiewicz-Pauley
+        170    2.50   5.50 9-Yan-Roselle vs 6-Aslin-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    8.00   0.00 1-Ohlrich-Campau vs 7-Ring-Christensen
+        680    5.00   3.00 2-Tipton-Frisbie vs 9-Grill-Rice
+        680    5.00   3.00 3-Miller-Romeo vs 2-Grubbs-Anderson
+        690    2.00   6.00 4-Zhang-Zheng vs 4-Kasperkiewicz-Pauley
+       1430    0.50   7.50 5-Christie-Galer vs 6-Aslin-Taylor
+        680    5.00   3.00 6-Eng-Sieg vs 8-Lakshmanan-Mohrman
+        680    5.00   3.00 7-Zaugg-Diaconescu vs 1-Schwaighart-Rind
+       1430    0.50   7.50 8-Rigazio-Carlson vs 3-Ford-Vulcan
+        680    5.00   3.00 9-Yan-Roselle vs 5-Delfs-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.00   5.00 1-Ohlrich-Campau vs 7-Ring-Christensen
+  460          7.50   0.50 2-Tipton-Frisbie vs 9-Grill-Rice
+  400          3.00   5.00 3-Miller-Romeo vs 2-Grubbs-Anderson
+  460          7.50   0.50 4-Zhang-Zheng vs 4-Kasperkiewicz-Pauley
+  430          5.50   2.50 5-Christie-Galer vs 6-Aslin-Taylor
+  430          5.50   2.50 6-Eng-Sieg vs 8-Lakshmanan-Mohrman
+  140          1.00   7.00 7-Zaugg-Diaconescu vs 1-Schwaighart-Rind
+  400          3.00   5.00 8-Rigazio-Carlson vs 3-Ford-Vulcan
+        100    0.00   8.00 9-Yan-Roselle vs 5-Delfs-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          6.00   2.00 1-Ohlrich-Campau vs 7-Ring-Christensen
+  500          3.00   5.00 2-Tipton-Frisbie vs 9-Grill-Rice
+  100          0.00   8.00 3-Miller-Romeo vs 2-Grubbs-Anderson
+  600          6.00   2.00 4-Zhang-Zheng vs 4-Kasperkiewicz-Pauley
+  600          6.00   2.00 5-Christie-Galer vs 6-Aslin-Taylor
+  300          1.50   6.50 6-Eng-Sieg vs 8-Lakshmanan-Mohrman
+  600          6.00   2.00 7-Zaugg-Diaconescu vs 1-Schwaighart-Rind
+  300          1.50   6.50 8-Rigazio-Carlson vs 3-Ford-Vulcan
+  600          6.00   2.00 9-Yan-Roselle vs 5-Delfs-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.50   4.50 1-Ohlrich-Campau vs 6-Aslin-Taylor
+        620    3.50   4.50 2-Tipton-Frisbie vs 8-Lakshmanan-Mohrman
+        620    3.50   4.50 3-Miller-Romeo vs 1-Schwaighart-Rind
+        620    3.50   4.50 4-Zhang-Zheng vs 3-Ford-Vulcan
+        620    3.50   4.50 5-Christie-Galer vs 5-Delfs-Chupack
+        620    3.50   4.50 6-Eng-Sieg vs 7-Ring-Christensen
+        200    8.00   0.00 7-Zaugg-Diaconescu vs 9-Grill-Rice
+        620    3.50   4.50 8-Rigazio-Carlson vs 2-Grubbs-Anderson
+        620    3.50   4.50 9-Yan-Roselle vs 4-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   5.00 1-Ohlrich-Campau vs 6-Aslin-Taylor
+        150    0.00   8.00 2-Tipton-Frisbie vs 8-Lakshmanan-Mohrman
+   50          7.00   1.00 3-Miller-Romeo vs 1-Schwaighart-Rind
+        100    3.00   5.00 4-Zhang-Zheng vs 3-Ford-Vulcan
+         50    5.50   2.50 5-Christie-Galer vs 5-Delfs-Chupack
+        100    3.00   5.00 6-Eng-Sieg vs 7-Ring-Christensen
+        120    1.00   7.00 7-Zaugg-Diaconescu vs 9-Grill-Rice
+         50    5.50   2.50 8-Rigazio-Carlson vs 2-Grubbs-Anderson
+  100          8.00   0.00 9-Yan-Roselle vs 4-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   7.00 1-Ohlrich-Campau vs 6-Aslin-Taylor
+   50          4.50   3.50 2-Tipton-Frisbie vs 8-Lakshmanan-Mohrman
+  100          7.00   1.00 3-Miller-Romeo vs 1-Schwaighart-Rind
+        800    0.00   8.00 4-Zhang-Zheng vs 3-Ford-Vulcan
+  110          8.00   0.00 5-Christie-Galer vs 5-Delfs-Chupack
+        120    2.00   6.00 6-Eng-Sieg vs 7-Ring-Christensen
+   50          4.50   3.50 7-Zaugg-Diaconescu vs 9-Grill-Rice
+   50          4.50   3.50 8-Rigazio-Carlson vs 2-Grubbs-Anderson
+   50          4.50   3.50 9-Yan-Roselle vs 4-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   3.50 1-Ohlrich-Campau vs 5-Delfs-Chupack
+  100          4.50   3.50 2-Tipton-Frisbie vs 7-Ring-Christensen
+  500          7.00   1.00 3-Miller-Romeo vs 9-Grill-Rice
+  100          4.50   3.50 4-Zhang-Zheng vs 2-Grubbs-Anderson
+  800          8.00   0.00 5-Christie-Galer vs 4-Kasperkiewicz-Pauley
+         50    1.00   7.00 6-Eng-Sieg vs 6-Aslin-Taylor
+   90          2.00   6.00 7-Zaugg-Diaconescu vs 8-Lakshmanan-Mohrman
+  100          4.50   3.50 8-Rigazio-Carlson vs 1-Schwaighart-Rind
+        150    0.00   8.00 9-Yan-Roselle vs 3-Ford-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   6.50 1-Ohlrich-Campau vs 5-Delfs-Chupack
+  140          5.50   2.50 2-Tipton-Frisbie vs 7-Ring-Christensen
+  100          3.50   4.50 3-Miller-Romeo vs 9-Grill-Rice
+  140          5.50   2.50 4-Zhang-Zheng vs 2-Grubbs-Anderson
+         50    1.50   6.50 5-Christie-Galer vs 4-Kasperkiewicz-Pauley
+  100          3.50   4.50 6-Eng-Sieg vs 6-Aslin-Taylor
+  150          7.00   1.00 7-Zaugg-Diaconescu vs 8-Lakshmanan-Mohrman
+        140    0.00   8.00 8-Rigazio-Carlson vs 1-Schwaighart-Rind
+  300          8.00   0.00 9-Yan-Roselle vs 3-Ford-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.50   1.50 1-Ohlrich-Campau vs 5-Delfs-Chupack
+        130    3.50   4.50 2-Tipton-Frisbie vs 7-Ring-Christensen
+        300    1.00   7.00 3-Miller-Romeo vs 9-Grill-Rice
+  100          6.50   1.50 4-Zhang-Zheng vs 2-Grubbs-Anderson
+        110    5.00   3.00 5-Christie-Galer vs 4-Kasperkiewicz-Pauley
+        130    3.50   4.50 6-Eng-Sieg vs 6-Aslin-Taylor
+  200          8.00   0.00 7-Zaugg-Diaconescu vs 8-Lakshmanan-Mohrman
+        430    0.00   8.00 8-Rigazio-Carlson vs 1-Schwaighart-Rind
+        150    2.00   6.00 9-Yan-Roselle vs 3-Ford-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.00   7.00 1-Ohlrich-Campau vs 4-Kasperkiewicz-Pauley
+  430          1.00   7.00 2-Tipton-Frisbie vs 6-Aslin-Taylor
+  460          5.50   2.50 3-Miller-Romeo vs 8-Lakshmanan-Mohrman
+  430          1.00   7.00 4-Zhang-Zheng vs 1-Schwaighart-Rind
+  460          5.50   2.50 5-Christie-Galer vs 3-Ford-Vulcan
+  460          5.50   2.50 6-Eng-Sieg vs 5-Delfs-Chupack
+  460          5.50   2.50 7-Zaugg-Diaconescu vs 7-Ring-Christensen
+  460          5.50   2.50 8-Rigazio-Carlson vs 9-Grill-Rice
+  460          5.50   2.50 9-Yan-Roselle vs 2-Grubbs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   8.00 1-Ohlrich-Campau vs 4-Kasperkiewicz-Pauley
+  110          4.50   3.50 2-Tipton-Frisbie vs 6-Aslin-Taylor
+        100    2.00   6.00 3-Miller-Romeo vs 8-Lakshmanan-Mohrman
+        100    2.00   6.00 4-Zhang-Zheng vs 1-Schwaighart-Rind
+        100    2.00   6.00 5-Christie-Galer vs 3-Ford-Vulcan
+  140          7.00   1.00 6-Eng-Sieg vs 5-Delfs-Chupack
+  140          7.00   1.00 7-Zaugg-Diaconescu vs 7-Ring-Christensen
+  140          7.00   1.00 8-Rigazio-Carlson vs 9-Grill-Rice
+  110          4.50   3.50 9-Yan-Roselle vs 2-Grubbs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          8.00   0.00 1-Ohlrich-Campau vs 4-Kasperkiewicz-Pauley
+    PASS       2.00   6.00 2-Tipton-Frisbie vs 6-Aslin-Taylor
+  100          7.00   1.00 3-Miller-Romeo vs 8-Lakshmanan-Mohrman
+   50          5.00   3.00 4-Zhang-Zheng vs 1-Schwaighart-Rind
+   50          5.00   3.00 5-Christie-Galer vs 3-Ford-Vulcan
+   50          5.00   3.00 6-Eng-Sieg vs 5-Delfs-Chupack
+        100    0.00   8.00 7-Zaugg-Diaconescu vs 7-Ring-Christensen
+    PASS       2.00   6.00 8-Rigazio-Carlson vs 9-Grill-Rice
+    PASS       2.00   6.00 9-Yan-Roselle vs 2-Grubbs-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.50   7.50 1-Ohlrich-Campau vs 3-Ford-Vulcan
+        650    3.00   5.00 2-Tipton-Frisbie vs 5-Delfs-Chupack
+        620    5.50   2.50 3-Miller-Romeo vs 7-Ring-Christensen
+        800    0.50   7.50 4-Zhang-Zheng vs 9-Grill-Rice
+  100          7.50   0.50 5-Christie-Galer vs 2-Grubbs-Anderson
+  100          7.50   0.50 6-Eng-Sieg vs 4-Kasperkiewicz-Pauley
+        650    3.00   5.00 7-Zaugg-Diaconescu vs 6-Aslin-Taylor
+        620    5.50   2.50 8-Rigazio-Carlson vs 8-Lakshmanan-Mohrman
+        650    3.00   5.00 9-Yan-Roselle vs 1-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   3.00 1-Ohlrich-Campau vs 3-Ford-Vulcan
+  110          2.00   6.00 2-Tipton-Frisbie vs 5-Delfs-Chupack
+  140          5.00   3.00 3-Miller-Romeo vs 7-Ring-Christensen
+    PASS       1.00   7.00 4-Zhang-Zheng vs 9-Grill-Rice
+  170          8.00   0.00 5-Christie-Galer vs 2-Grubbs-Anderson
+  140          5.00   3.00 6-Eng-Sieg vs 4-Kasperkiewicz-Pauley
+        100    0.00   8.00 7-Zaugg-Diaconescu vs 6-Aslin-Taylor
+  140          5.00   3.00 8-Rigazio-Carlson vs 8-Lakshmanan-Mohrman
+  140          5.00   3.00 9-Yan-Roselle vs 1-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.50   0.50 1-Ohlrich-Campau vs 3-Ford-Vulcan
+   50          0.50   7.50 2-Tipton-Frisbie vs 5-Delfs-Chupack
+  100          4.50   3.50 3-Miller-Romeo vs 7-Ring-Christensen
+   50          0.50   7.50 4-Zhang-Zheng vs 9-Grill-Rice
+  100          4.50   3.50 5-Christie-Galer vs 2-Grubbs-Anderson
+  100          4.50   3.50 6-Eng-Sieg vs 4-Kasperkiewicz-Pauley
+   90          2.00   6.00 7-Zaugg-Diaconescu vs 6-Aslin-Taylor
+  150          7.50   0.50 8-Rigazio-Carlson vs 8-Lakshmanan-Mohrman
+  100          4.50   3.50 9-Yan-Roselle vs 1-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          8.00   0.00 1-Ohlrich-Campau vs 2-Grubbs-Anderson
+  200          6.50   1.50 2-Tipton-Frisbie vs 4-Kasperkiewicz-Pauley
+        500    2.50   5.50 3-Miller-Romeo vs 6-Aslin-Taylor
+        800    0.50   7.50 4-Zhang-Zheng vs 8-Lakshmanan-Mohrman
+  100          5.00   3.00 5-Christie-Galer vs 1-Schwaighart-Rind
+        500    2.50   5.50 6-Eng-Sieg vs 3-Ford-Vulcan
+  200          6.50   1.50 7-Zaugg-Diaconescu vs 5-Delfs-Chupack
+        800    0.50   7.50 8-Rigazio-Carlson vs 7-Ring-Christensen
+        130    4.00   4.00 9-Yan-Roselle vs 9-Grill-Rice
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1390          4.56   3.44 1-Ohlrich-Campau vs 2-Grubbs-Anderson
+        100    0.63   7.38 2-Tipton-Frisbie vs 4-Kasperkiewicz-Pauley
+ 1430          7.38   0.63 3-Miller-Romeo vs 6-Aslin-Taylor
+ 1430          7.38   0.63 4-Zhang-Zheng vs 8-Lakshmanan-Mohrman
+ 1390          4.56   3.44 5-Christie-Galer vs 1-Schwaighart-Rind
+ 1390          4.56   3.44 6-Eng-Sieg vs 3-Ford-Vulcan
+ 1370          2.31   5.69 7-Zaugg-Diaconescu vs 5-Delfs-Chupack
+        100    0.63   7.38 8-Rigazio-Carlson vs 7-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          7.94   0.06 1-Ohlrich-Campau vs 2-Grubbs-Anderson
+        470    0.06   7.94 2-Tipton-Frisbie vs 4-Kasperkiewicz-Pauley
+         50    6.25   1.75 3-Miller-Romeo vs 6-Aslin-Taylor
+        100    3.44   4.56 4-Zhang-Zheng vs 8-Lakshmanan-Mohrman
+        100    3.44   4.56 5-Christie-Galer vs 1-Schwaighart-Rind
+        100    3.44   4.56 6-Eng-Sieg vs 3-Ford-Vulcan
+         50    6.25   1.75 7-Zaugg-Diaconescu vs 5-Delfs-Chupack
+        150    1.19   6.81 8-Rigazio-Carlson vs 7-Ring-Christensen
+----------------------------------------------------------------------
