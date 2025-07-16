@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 15, 2025      |CLUB NO.>158048    | 07/15/2025 21:50
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2500/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=6/C=3                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Aaron Mohrman          David Taylor             A   Q            5     .     .   |   5     .     .     68.00  56.67  0.51Red 
+                                                                                                                        0.50Blk 
+ 2 Adam Ruprecht          Christopher Jarvis       B       Q        .     2     .   |   .     2     .     56.50  47.08  0.64Red 
+                                                                                                                        0.64Blk 
+
+
+ 4 Brian Zaugg            David Wright             A   Q            4     .     .   |   4     .     .     68.50  57.08  0.68Red 
+                                                                                                                        0.67Blk 
+ 5 Kim Eng                Jeffrey Ford             A   Q            3     .     .   |   3     .     .     69.00  57.50  0.90Red 
+                                                                                                                        0.89Blk 
+ 6 Jin Wang               Hugh Hendrickson         B                .     .     .   |   .     .     .     48.50  40.42          
+
+ 7 Will Fox               Kimberly Gilmore         C           Q    .     .     .   |   .     .     .     42.00  35.00          
+
+ 8 Cindy Pauley           Shannon Kasperkiewicz    C       Q   Q    .     .     .   |   .     .     1     54.00  45.00  0.32Red 
+                                                                                                                        0.32Blk 
+ 9 Stanford Christie      Corneliu Galer           A   Q            .     .     .   |   .     .     .     64.00  53.33          
+
+10 Mike Christensen       Becky Stevens            A   Q            .     .     .   |   .     .     .     66.00  55.00          
+
+11 Paul Schwaighart       Brad Rind                A                .     .     .   |   .     .     .     53.00  44.17          
+
+12 Bryan Delfs            James Holzhauer          A   Q            1     .     .   |   1     .     .     72.00  60.00  1.60Red 
+                                                                                                                        1.59Blk 
+13 Bryant Carlson         Andrew Rigazio           C           Q    .     .     .   |   .     .     .     47.50  39.58          
+
+14 Fan Zhang              Min Zheng                B   Q   Q        2     1     .   |   2     1     .     71.00  59.17  1.20Red 
+                                                                                                                        1.19Blk 
+
+                                          Totals                                                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    2.50   2.50 2-Ruprecht-Jarvis vs 6-Wang-Hendrickson
+        980    0.00   5.00 4-Zaugg-Wright vs 9-Christie-Galer
+        490    2.50   2.50 5-Eng-Ford vs 12-Delfs-Holzhauer
+        460    5.00   0.00 7-Fox-Gilmore vs 8-Pauley-Kasperkiewicz
+        490    2.50   2.50 13-Carlson-Rigazio vs 10-Christensen-Stevens
+        490    2.50   2.50 14-Zhang-Zheng vs 11-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   3.00 2-Ruprecht-Jarvis vs 6-Wang-Hendrickson
+  170          3.00   2.00 4-Zaugg-Wright vs 9-Christie-Galer
+  620          5.00   0.00 5-Eng-Ford vs 12-Delfs-Holzhauer
+  200          4.00   1.00 7-Fox-Gilmore vs 8-Pauley-Kasperkiewicz
+        100    0.00   5.00 13-Carlson-Rigazio vs 10-Christensen-Stevens
+   50          1.00   4.00 14-Zhang-Zheng vs 11-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   1.00 1-Mohrman-Taylor vs 11-Schwaighart-Rind
+        600    0.50   4.50 2-Ruprecht-Jarvis vs 4-Zaugg-Wright
+        600    0.50   4.50 5-Eng-Ford vs 10-Christensen-Stevens
+  800          5.00   0.00 6-Wang-Hendrickson vs 13-Carlson-Rigazio
+  100          2.50   2.50 8-Pauley-Kasperkiewicz vs 9-Christie-Galer
+  100          2.50   2.50 14-Zhang-Zheng vs 12-Delfs-Holzhauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.00   2.00 1-Mohrman-Taylor vs 11-Schwaighart-Rind
+        650    3.00   2.00 2-Ruprecht-Jarvis vs 4-Zaugg-Wright
+        800    0.00   5.00 5-Eng-Ford vs 10-Christensen-Stevens
+        650    3.00   2.00 6-Wang-Hendrickson vs 13-Carlson-Rigazio
+        650    3.00   2.00 8-Pauley-Kasperkiewicz vs 9-Christie-Galer
+        650    3.00   2.00 14-Zhang-Zheng vs 12-Delfs-Holzhauer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.00   3.00 2-Ruprecht-Jarvis vs 12-Delfs-Holzhauer
+        100    4.50   0.50 4-Zaugg-Wright vs 8-Pauley-Kasperkiewicz
+        100    4.50   0.50 6-Wang-Hendrickson vs 11-Schwaighart-Rind
+        430    1.00   4.00 7-Fox-Gilmore vs 1-Mohrman-Taylor
+        800    0.00   5.00 9-Christie-Galer vs 10-Christensen-Stevens
+        130    3.00   2.00 14-Zhang-Zheng vs 13-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    2.00   3.00 2-Ruprecht-Jarvis vs 12-Delfs-Holzhauer
+        170    4.50   0.50 4-Zaugg-Wright vs 8-Pauley-Kasperkiewicz
+        650    0.00   5.00 6-Wang-Hendrickson vs 11-Schwaighart-Rind
+        620    1.00   4.00 7-Fox-Gilmore vs 1-Mohrman-Taylor
+        170    4.50   0.50 9-Christie-Galer vs 10-Christensen-Stevens
+        300    3.00   2.00 14-Zhang-Zheng vs 13-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          3.00   2.00 4-Zaugg-Wright vs 6-Wang-Hendrickson
+ 1370          1.00   4.00 5-Eng-Ford vs 9-Christie-Galer
+ 1390          2.00   3.00 7-Fox-Gilmore vs 12-Delfs-Holzhauer
+ 2140          4.50   0.50 8-Pauley-Kasperkiewicz vs 2-Ruprecht-Jarvis
+        100    0.00   5.00 10-Christensen-Stevens vs 11-Schwaighart-Rind
+ 2140          4.50   0.50 14-Zhang-Zheng vs 1-Mohrman-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   1.00 4-Zaugg-Wright vs 6-Wang-Hendrickson
+   50          4.00   1.00 5-Eng-Ford vs 9-Christie-Galer
+        130    1.00   4.00 7-Fox-Gilmore vs 12-Delfs-Holzhauer
+        130    1.00   4.00 8-Pauley-Kasperkiewicz vs 2-Ruprecht-Jarvis
+        130    1.00   4.00 10-Christensen-Stevens vs 11-Schwaighart-Rind
+   50          4.00   1.00 14-Zhang-Zheng vs 1-Mohrman-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    0.00   5.00 4-Zaugg-Wright vs 1-Mohrman-Taylor
+  140          4.00   1.00 5-Eng-Ford vs 7-Fox-Gilmore
+         50    2.00   3.00 6-Wang-Hendrickson vs 10-Christensen-Stevens
+         50    2.00   3.00 8-Pauley-Kasperkiewicz vs 13-Carlson-Rigazio
+         50    2.00   3.00 11-Schwaighart-Rind vs 12-Delfs-Holzhauer
+  150          5.00   0.00 14-Zhang-Zheng vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 4-Zaugg-Wright vs 1-Mohrman-Taylor
+  680          4.00   1.00 5-Eng-Ford vs 7-Fox-Gilmore
+  100          1.00   4.00 6-Wang-Hendrickson vs 10-Christensen-Stevens
+  680          4.00   1.00 8-Pauley-Kasperkiewicz vs 13-Carlson-Rigazio
+  650          2.00   3.00 11-Schwaighart-Rind vs 12-Delfs-Holzhauer
+  680          4.00   1.00 14-Zhang-Zheng vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   1.00 5-Eng-Ford vs 2-Ruprecht-Jarvis
+  100          2.00   3.00 6-Wang-Hendrickson vs 8-Pauley-Kasperkiewicz
+  140          4.00   1.00 7-Fox-Gilmore vs 11-Schwaighart-Rind
+        100    0.00   5.00 9-Christie-Galer vs 1-Mohrman-Taylor
+         50    1.00   4.00 10-Christensen-Stevens vs 4-Zaugg-Wright
+  140          4.00   1.00 12-Delfs-Holzhauer vs 13-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    0.00   5.00 5-Eng-Ford vs 2-Ruprecht-Jarvis
+        420    2.50   2.50 6-Wang-Hendrickson vs 8-Pauley-Kasperkiewicz
+        420    2.50   2.50 7-Fox-Gilmore vs 11-Schwaighart-Rind
+        200    5.00   0.00 9-Christie-Galer vs 1-Mohrman-Taylor
+        420    2.50   2.50 10-Christensen-Stevens vs 4-Zaugg-Wright
+        420    2.50   2.50 12-Delfs-Holzhauer vs 13-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   2.50 7-Fox-Gilmore vs 9-Christie-Galer
+  110          5.00   0.00 8-Pauley-Kasperkiewicz vs 12-Delfs-Holzhauer
+  100          4.00   1.00 10-Christensen-Stevens vs 2-Ruprecht-Jarvis
+        150    0.50   4.50 11-Schwaighart-Rind vs 5-Eng-Ford
+        150    0.50   4.50 13-Carlson-Rigazio vs 1-Mohrman-Taylor
+        110    2.50   2.50 14-Zhang-Zheng vs 4-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.50   4.50 7-Fox-Gilmore vs 9-Christie-Galer
+        420    2.00   3.00 8-Pauley-Kasperkiewicz vs 12-Delfs-Holzhauer
+        450    0.50   4.50 10-Christensen-Stevens vs 2-Ruprecht-Jarvis
+        100    4.00   1.00 11-Schwaighart-Rind vs 5-Eng-Ford
+        100    4.00   1.00 13-Carlson-Rigazio vs 1-Mohrman-Taylor
+        100    4.00   1.00 14-Zhang-Zheng vs 4-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   2.50 1-Mohrman-Taylor vs 2-Ruprecht-Jarvis
+        480    0.50   4.50 7-Fox-Gilmore vs 4-Zaugg-Wright
+        480    0.50   4.50 8-Pauley-Kasperkiewicz vs 10-Christensen-Stevens
+        420    5.00   0.00 9-Christie-Galer vs 13-Carlson-Rigazio
+        440    4.00   1.00 12-Delfs-Holzhauer vs 6-Wang-Hendrickson
+        450    2.50   2.50 14-Zhang-Zheng vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 1-Mohrman-Taylor vs 2-Ruprecht-Jarvis
+        200    0.00   5.00 7-Fox-Gilmore vs 4-Zaugg-Wright
+         50    1.50   3.50 8-Pauley-Kasperkiewicz vs 10-Christensen-Stevens
+         50    1.50   3.50 9-Christie-Galer vs 13-Carlson-Rigazio
+  140          4.00   1.00 12-Delfs-Holzhauer vs 6-Wang-Hendrickson
+  100          3.00   2.00 14-Zhang-Zheng vs 5-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.00   3.00 8-Pauley-Kasperkiewicz vs 5-Eng-Ford
+        500    1.00   4.00 9-Christie-Galer vs 11-Schwaighart-Rind
+        130    4.00   1.00 10-Christensen-Stevens vs 1-Mohrman-Taylor
+        150    3.00   2.00 12-Delfs-Holzhauer vs 4-Zaugg-Wright
+        110    5.00   0.00 13-Carlson-Rigazio vs 7-Fox-Gilmore
+        510    0.00   5.00 14-Zhang-Zheng vs 6-Wang-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          1.00   4.00 8-Pauley-Kasperkiewicz vs 5-Eng-Ford
+ 1390          4.00   1.00 9-Christie-Galer vs 11-Schwaighart-Rind
+  720          2.50   2.50 10-Christensen-Stevens vs 1-Mohrman-Taylor
+  720          2.50   2.50 12-Delfs-Holzhauer vs 4-Zaugg-Wright
+  650          0.00   5.00 13-Carlson-Rigazio vs 7-Fox-Gilmore
+ 1470          5.00   0.00 14-Zhang-Zheng vs 6-Wang-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   3.00 1-Mohrman-Taylor vs 8-Pauley-Kasperkiewicz
+        110    2.00   3.00 9-Christie-Galer vs 6-Wang-Hendrickson
+        150    0.00   5.00 10-Christensen-Stevens vs 12-Delfs-Holzhauer
+  200          4.00   1.00 11-Schwaighart-Rind vs 2-Ruprecht-Jarvis
+        110    2.00   3.00 13-Carlson-Rigazio vs 5-Eng-Ford
+  500          5.00   0.00 14-Zhang-Zheng vs 7-Fox-Gilmore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.00   2.00 1-Mohrman-Taylor vs 8-Pauley-Kasperkiewicz
+  200          5.00   0.00 9-Christie-Galer vs 6-Wang-Hendrickson
+        110    0.50   4.50 10-Christensen-Stevens vs 12-Delfs-Holzhauer
+        110    0.50   4.50 11-Schwaighart-Rind vs 2-Ruprecht-Jarvis
+  130          3.00   2.00 13-Carlson-Rigazio vs 5-Eng-Ford
+  130          3.00   2.00 14-Zhang-Zheng vs 7-Fox-Gilmore
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   0.50 1-Mohrman-Taylor vs 6-Wang-Hendrickson
+        170    2.50   2.50 2-Ruprecht-Jarvis vs 9-Christie-Galer
+        420    1.00   4.00 4-Zaugg-Wright vs 5-Eng-Ford
+   50          4.50   0.50 10-Christensen-Stevens vs 7-Fox-Gilmore
+        590    0.00   5.00 11-Schwaighart-Rind vs 13-Carlson-Rigazio
+        170    2.50   2.50 14-Zhang-Zheng vs 8-Pauley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.00   0.00 1-Mohrman-Taylor vs 6-Wang-Hendrickson
+  420          2.00   3.00 2-Ruprecht-Jarvis vs 9-Christie-Galer
+  420          2.00   3.00 4-Zaugg-Wright vs 5-Eng-Ford
+  420          2.00   3.00 10-Christensen-Stevens vs 7-Fox-Gilmore
+  420          2.00   3.00 11-Schwaighart-Rind vs 13-Carlson-Rigazio
+  420          2.00   3.00 14-Zhang-Zheng vs 8-Pauley-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          5.00   0.00 2-Ruprecht-Jarvis vs 7-Fox-Gilmore
+        100    3.00   2.00 5-Eng-Ford vs 6-Wang-Hendrickson
+        100    3.00   2.00 11-Schwaighart-Rind vs 8-Pauley-Kasperkiewicz
+        140    0.50   4.50 12-Delfs-Holzhauer vs 1-Mohrman-Taylor
+        140    0.50   4.50 13-Carlson-Rigazio vs 4-Zaugg-Wright
+        100    3.00   2.00 14-Zhang-Zheng vs 9-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   1.00 2-Ruprecht-Jarvis vs 7-Fox-Gilmore
+        150    3.00   2.00 5-Eng-Ford vs 6-Wang-Hendrickson
+        500    0.00   5.00 11-Schwaighart-Rind vs 8-Pauley-Kasperkiewicz
+   50          5.00   0.00 12-Delfs-Holzhauer vs 1-Mohrman-Taylor
+        450    1.00   4.00 13-Carlson-Rigazio vs 4-Zaugg-Wright
+        430    2.00   3.00 14-Zhang-Zheng vs 9-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.50   4.50 1-Mohrman-Taylor vs 5-Eng-Ford
+  100          4.00   1.00 4-Zaugg-Wright vs 11-Schwaighart-Rind
+  200          5.00   0.00 6-Wang-Hendrickson vs 7-Fox-Gilmore
+         50    3.00   2.00 12-Delfs-Holzhauer vs 9-Christie-Galer
+        600    0.50   4.50 13-Carlson-Rigazio vs 2-Ruprecht-Jarvis
+        500    2.00   3.00 14-Zhang-Zheng vs 10-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   4.50 1-Mohrman-Taylor vs 5-Eng-Ford
+  140          3.50   1.50 4-Zaugg-Wright vs 11-Schwaighart-Rind
+        140    0.50   4.50 6-Wang-Hendrickson vs 7-Fox-Gilmore
+  200          5.00   0.00 12-Delfs-Holzhauer vs 9-Christie-Galer
+  140          3.50   1.50 13-Carlson-Rigazio vs 2-Ruprecht-Jarvis
+  120          2.00   3.00 14-Zhang-Zheng vs 10-Christensen-Stevens
+----------------------------------------------------------------------
