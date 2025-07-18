@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>July 15, 2025      |CLUB NO.>158048    | 07/15/2025 21:50
+DATE>July 15, 2025      |CLUB NO.>158048    | 07/17/2025 19:07
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Kim        |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -35,7 +35,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
 
 12 Bryan Delfs            James Holzhauer          A   Q            1     .     .   |   1     .     .     72.00  60.00  1.60Red 
                                                                                                                         1.59Blk 
-13 Bryant Carlson         Andrew Rigazio           C           Q    .     .     .   |   .     .     .     47.50  39.58          
+13 Bryant Carlson         Chris Morris-Lent        C           Q    .     .     .   |   .     .     .     47.50  39.58          
 
 14 Fan Zhang              Min Zheng                B   Q   Q        2     1     .   |   2     1     .     71.00  59.17  1.20Red 
                                                                                                                         1.19Blk 
@@ -50,7 +50,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         980    0.00   5.00 4-Zaugg-Wright vs 9-Christie-Galer
         490    2.50   2.50 5-Eng-Ford vs 12-Delfs-Holzhauer
         460    5.00   0.00 7-Fox-Gilmore vs 8-Pauley-Kasperkiewicz
-        490    2.50   2.50 13-Carlson-Rigazio vs 10-Christensen-Stevens
+        490    2.50   2.50 13-Carlson-Morris-Lent vs 10-Christensen-Stevens
         490    2.50   2.50 14-Zhang-Zheng vs 11-Schwaighart-Rind
 ----------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   170          3.00   2.00 4-Zaugg-Wright vs 9-Christie-Galer
   620          5.00   0.00 5-Eng-Ford vs 12-Delfs-Holzhauer
   200          4.00   1.00 7-Fox-Gilmore vs 8-Pauley-Kasperkiewicz
-        100    0.00   5.00 13-Carlson-Rigazio vs 10-Christensen-Stevens
+        100    0.00   5.00 13-Carlson-Morris-Lent vs 10-Christensen-Stevens
    50          1.00   4.00 14-Zhang-Zheng vs 11-Schwaighart-Rind
 ----------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   200          4.00   1.00 1-Mohrman-Taylor vs 11-Schwaighart-Rind
         600    0.50   4.50 2-Ruprecht-Jarvis vs 4-Zaugg-Wright
         600    0.50   4.50 5-Eng-Ford vs 10-Christensen-Stevens
-  800          5.00   0.00 6-Wang-Hendrickson vs 13-Carlson-Rigazio
+  800          5.00   0.00 6-Wang-Hendrickson vs 13-Carlson-Morris-Lent
   100          2.50   2.50 8-Pauley-Kasperkiewicz vs 9-Christie-Galer
   100          2.50   2.50 14-Zhang-Zheng vs 12-Delfs-Holzhauer
 ----------------------------------------------------------------------
@@ -85,7 +85,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         650    3.00   2.00 1-Mohrman-Taylor vs 11-Schwaighart-Rind
         650    3.00   2.00 2-Ruprecht-Jarvis vs 4-Zaugg-Wright
         800    0.00   5.00 5-Eng-Ford vs 10-Christensen-Stevens
-        650    3.00   2.00 6-Wang-Hendrickson vs 13-Carlson-Rigazio
+        650    3.00   2.00 6-Wang-Hendrickson vs 13-Carlson-Morris-Lent
         650    3.00   2.00 8-Pauley-Kasperkiewicz vs 9-Christie-Galer
         650    3.00   2.00 14-Zhang-Zheng vs 12-Delfs-Holzhauer
 ----------------------------------------------------------------------
@@ -99,7 +99,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         100    4.50   0.50 6-Wang-Hendrickson vs 11-Schwaighart-Rind
         430    1.00   4.00 7-Fox-Gilmore vs 1-Mohrman-Taylor
         800    0.00   5.00 9-Christie-Galer vs 10-Christensen-Stevens
-        130    3.00   2.00 14-Zhang-Zheng vs 13-Carlson-Rigazio
+        130    3.00   2.00 14-Zhang-Zheng vs 13-Carlson-Morris-Lent
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 6
@@ -111,7 +111,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         650    0.00   5.00 6-Wang-Hendrickson vs 11-Schwaighart-Rind
         620    1.00   4.00 7-Fox-Gilmore vs 1-Mohrman-Taylor
         170    4.50   0.50 9-Christie-Galer vs 10-Christensen-Stevens
-        300    3.00   2.00 14-Zhang-Zheng vs 13-Carlson-Rigazio
+        300    3.00   2.00 14-Zhang-Zheng vs 13-Carlson-Morris-Lent
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 7
@@ -145,7 +145,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         180    0.00   5.00 4-Zaugg-Wright vs 1-Mohrman-Taylor
   140          4.00   1.00 5-Eng-Ford vs 7-Fox-Gilmore
          50    2.00   3.00 6-Wang-Hendrickson vs 10-Christensen-Stevens
-         50    2.00   3.00 8-Pauley-Kasperkiewicz vs 13-Carlson-Rigazio
+         50    2.00   3.00 8-Pauley-Kasperkiewicz vs 13-Carlson-Morris-Lent
          50    2.00   3.00 11-Schwaighart-Rind vs 12-Delfs-Holzhauer
   150          5.00   0.00 14-Zhang-Zheng vs 2-Ruprecht-Jarvis
 ----------------------------------------------------------------------
@@ -157,7 +157,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         100    0.00   5.00 4-Zaugg-Wright vs 1-Mohrman-Taylor
   680          4.00   1.00 5-Eng-Ford vs 7-Fox-Gilmore
   100          1.00   4.00 6-Wang-Hendrickson vs 10-Christensen-Stevens
-  680          4.00   1.00 8-Pauley-Kasperkiewicz vs 13-Carlson-Rigazio
+  680          4.00   1.00 8-Pauley-Kasperkiewicz vs 13-Carlson-Morris-Lent
   650          2.00   3.00 11-Schwaighart-Rind vs 12-Delfs-Holzhauer
   680          4.00   1.00 14-Zhang-Zheng vs 2-Ruprecht-Jarvis
 ----------------------------------------------------------------------
@@ -171,7 +171,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   140          4.00   1.00 7-Fox-Gilmore vs 11-Schwaighart-Rind
         100    0.00   5.00 9-Christie-Galer vs 1-Mohrman-Taylor
          50    1.00   4.00 10-Christensen-Stevens vs 4-Zaugg-Wright
-  140          4.00   1.00 12-Delfs-Holzhauer vs 13-Carlson-Rigazio
+  140          4.00   1.00 12-Delfs-Holzhauer vs 13-Carlson-Morris-Lent
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 12
@@ -183,7 +183,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         420    2.50   2.50 7-Fox-Gilmore vs 11-Schwaighart-Rind
         200    5.00   0.00 9-Christie-Galer vs 1-Mohrman-Taylor
         420    2.50   2.50 10-Christensen-Stevens vs 4-Zaugg-Wright
-        420    2.50   2.50 12-Delfs-Holzhauer vs 13-Carlson-Rigazio
+        420    2.50   2.50 12-Delfs-Holzhauer vs 13-Carlson-Morris-Lent
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 13
@@ -194,7 +194,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   110          5.00   0.00 8-Pauley-Kasperkiewicz vs 12-Delfs-Holzhauer
   100          4.00   1.00 10-Christensen-Stevens vs 2-Ruprecht-Jarvis
         150    0.50   4.50 11-Schwaighart-Rind vs 5-Eng-Ford
-        150    0.50   4.50 13-Carlson-Rigazio vs 1-Mohrman-Taylor
+        150    0.50   4.50 13-Carlson-Morris-Lent vs 1-Mohrman-Taylor
         110    2.50   2.50 14-Zhang-Zheng vs 4-Zaugg-Wright
 ----------------------------------------------------------------------
 
@@ -206,7 +206,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         420    2.00   3.00 8-Pauley-Kasperkiewicz vs 12-Delfs-Holzhauer
         450    0.50   4.50 10-Christensen-Stevens vs 2-Ruprecht-Jarvis
         100    4.00   1.00 11-Schwaighart-Rind vs 5-Eng-Ford
-        100    4.00   1.00 13-Carlson-Rigazio vs 1-Mohrman-Taylor
+        100    4.00   1.00 13-Carlson-Morris-Lent vs 1-Mohrman-Taylor
         100    4.00   1.00 14-Zhang-Zheng vs 4-Zaugg-Wright
 ----------------------------------------------------------------------
 
@@ -217,7 +217,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         450    2.50   2.50 1-Mohrman-Taylor vs 2-Ruprecht-Jarvis
         480    0.50   4.50 7-Fox-Gilmore vs 4-Zaugg-Wright
         480    0.50   4.50 8-Pauley-Kasperkiewicz vs 10-Christensen-Stevens
-        420    5.00   0.00 9-Christie-Galer vs 13-Carlson-Rigazio
+        420    5.00   0.00 9-Christie-Galer vs 13-Carlson-Morris-Lent
         440    4.00   1.00 12-Delfs-Holzhauer vs 6-Wang-Hendrickson
         450    2.50   2.50 14-Zhang-Zheng vs 5-Eng-Ford
 ----------------------------------------------------------------------
@@ -229,7 +229,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   200          5.00   0.00 1-Mohrman-Taylor vs 2-Ruprecht-Jarvis
         200    0.00   5.00 7-Fox-Gilmore vs 4-Zaugg-Wright
          50    1.50   3.50 8-Pauley-Kasperkiewicz vs 10-Christensen-Stevens
-         50    1.50   3.50 9-Christie-Galer vs 13-Carlson-Rigazio
+         50    1.50   3.50 9-Christie-Galer vs 13-Carlson-Morris-Lent
   140          4.00   1.00 12-Delfs-Holzhauer vs 6-Wang-Hendrickson
   100          3.00   2.00 14-Zhang-Zheng vs 5-Eng-Ford
 ----------------------------------------------------------------------
@@ -242,7 +242,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         500    1.00   4.00 9-Christie-Galer vs 11-Schwaighart-Rind
         130    4.00   1.00 10-Christensen-Stevens vs 1-Mohrman-Taylor
         150    3.00   2.00 12-Delfs-Holzhauer vs 4-Zaugg-Wright
-        110    5.00   0.00 13-Carlson-Rigazio vs 7-Fox-Gilmore
+        110    5.00   0.00 13-Carlson-Morris-Lent vs 7-Fox-Gilmore
         510    0.00   5.00 14-Zhang-Zheng vs 6-Wang-Hendrickson
 ----------------------------------------------------------------------
 
@@ -254,7 +254,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
  1390          4.00   1.00 9-Christie-Galer vs 11-Schwaighart-Rind
   720          2.50   2.50 10-Christensen-Stevens vs 1-Mohrman-Taylor
   720          2.50   2.50 12-Delfs-Holzhauer vs 4-Zaugg-Wright
-  650          0.00   5.00 13-Carlson-Rigazio vs 7-Fox-Gilmore
+  650          0.00   5.00 13-Carlson-Morris-Lent vs 7-Fox-Gilmore
  1470          5.00   0.00 14-Zhang-Zheng vs 6-Wang-Hendrickson
 ----------------------------------------------------------------------
 
@@ -266,7 +266,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         110    2.00   3.00 9-Christie-Galer vs 6-Wang-Hendrickson
         150    0.00   5.00 10-Christensen-Stevens vs 12-Delfs-Holzhauer
   200          4.00   1.00 11-Schwaighart-Rind vs 2-Ruprecht-Jarvis
-        110    2.00   3.00 13-Carlson-Rigazio vs 5-Eng-Ford
+        110    2.00   3.00 13-Carlson-Morris-Lent vs 5-Eng-Ford
   500          5.00   0.00 14-Zhang-Zheng vs 7-Fox-Gilmore
 ----------------------------------------------------------------------
 
@@ -278,7 +278,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   200          5.00   0.00 9-Christie-Galer vs 6-Wang-Hendrickson
         110    0.50   4.50 10-Christensen-Stevens vs 12-Delfs-Holzhauer
         110    0.50   4.50 11-Schwaighart-Rind vs 2-Ruprecht-Jarvis
-  130          3.00   2.00 13-Carlson-Rigazio vs 5-Eng-Ford
+  130          3.00   2.00 13-Carlson-Morris-Lent vs 5-Eng-Ford
   130          3.00   2.00 14-Zhang-Zheng vs 7-Fox-Gilmore
 ----------------------------------------------------------------------
 
@@ -290,7 +290,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         170    2.50   2.50 2-Ruprecht-Jarvis vs 9-Christie-Galer
         420    1.00   4.00 4-Zaugg-Wright vs 5-Eng-Ford
    50          4.50   0.50 10-Christensen-Stevens vs 7-Fox-Gilmore
-        590    0.00   5.00 11-Schwaighart-Rind vs 13-Carlson-Rigazio
+        590    0.00   5.00 11-Schwaighart-Rind vs 13-Carlson-Morris-Lent
         170    2.50   2.50 14-Zhang-Zheng vs 8-Pauley-Kasperkiewicz
 ----------------------------------------------------------------------
 
@@ -302,7 +302,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   420          2.00   3.00 2-Ruprecht-Jarvis vs 9-Christie-Galer
   420          2.00   3.00 4-Zaugg-Wright vs 5-Eng-Ford
   420          2.00   3.00 10-Christensen-Stevens vs 7-Fox-Gilmore
-  420          2.00   3.00 11-Schwaighart-Rind vs 13-Carlson-Rigazio
+  420          2.00   3.00 11-Schwaighart-Rind vs 13-Carlson-Morris-Lent
   420          2.00   3.00 14-Zhang-Zheng vs 8-Pauley-Kasperkiewicz
 ----------------------------------------------------------------------
 
@@ -314,7 +314,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         100    3.00   2.00 5-Eng-Ford vs 6-Wang-Hendrickson
         100    3.00   2.00 11-Schwaighart-Rind vs 8-Pauley-Kasperkiewicz
         140    0.50   4.50 12-Delfs-Holzhauer vs 1-Mohrman-Taylor
-        140    0.50   4.50 13-Carlson-Rigazio vs 4-Zaugg-Wright
+        140    0.50   4.50 13-Carlson-Morris-Lent vs 4-Zaugg-Wright
         100    3.00   2.00 14-Zhang-Zheng vs 9-Christie-Galer
 ----------------------------------------------------------------------
 
@@ -326,7 +326,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
         150    3.00   2.00 5-Eng-Ford vs 6-Wang-Hendrickson
         500    0.00   5.00 11-Schwaighart-Rind vs 8-Pauley-Kasperkiewicz
    50          5.00   0.00 12-Delfs-Holzhauer vs 1-Mohrman-Taylor
-        450    1.00   4.00 13-Carlson-Rigazio vs 4-Zaugg-Wright
+        450    1.00   4.00 13-Carlson-Morris-Lent vs 4-Zaugg-Wright
         430    2.00   3.00 14-Zhang-Zheng vs 9-Christie-Galer
 ----------------------------------------------------------------------
 
@@ -338,7 +338,7 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   100          4.00   1.00 4-Zaugg-Wright vs 11-Schwaighart-Rind
   200          5.00   0.00 6-Wang-Hendrickson vs 7-Fox-Gilmore
          50    3.00   2.00 12-Delfs-Holzhauer vs 9-Christie-Galer
-        600    0.50   4.50 13-Carlson-Rigazio vs 2-Ruprecht-Jarvis
+        600    0.50   4.50 13-Carlson-Morris-Lent vs 2-Ruprecht-Jarvis
         500    2.00   3.00 14-Zhang-Zheng vs 10-Christensen-Stevens
 ----------------------------------------------------------------------
 
@@ -350,6 +350,6 @@ No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|R
   140          3.50   1.50 4-Zaugg-Wright vs 11-Schwaighart-Rind
         140    0.50   4.50 6-Wang-Hendrickson vs 7-Fox-Gilmore
   200          5.00   0.00 12-Delfs-Holzhauer vs 9-Christie-Galer
-  140          3.50   1.50 13-Carlson-Rigazio vs 2-Ruprecht-Jarvis
+  140          3.50   1.50 13-Carlson-Morris-Lent vs 2-Ruprecht-Jarvis
   120          2.00   3.00 14-Zhang-Zheng vs 10-Christensen-Stevens
 ----------------------------------------------------------------------
