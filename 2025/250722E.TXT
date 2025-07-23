@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 22, 2025      |CLUB NO.>158048    | 07/22/2025 21:57
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3500/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=9/C=6                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Valliappa Lakshmanan   Joseph Grill             C    .     3     1     58.50  48.75  0.48(C) 
+
+ 2 Dong Yan               Yong Cao                 B    .     .     .     55.50  46.25          
+
+
+
+ 4 Fan Zhang              Min Zheng                B    4     2     .     67.00  55.83  0.50(B) 
+
+ 5 Dave Grubbs            Corneliu Galer           A    2     .     .     71.50  59.58  0.91(A) 
+
+ 6 Chris Morris-Lent      Bryant Carlson           C    .     .     .     50.00  41.67          
+
+ 7 Hugh Hendrickson       Laura Miller             C    .     .     .     51.50  42.92          
+
+ 8 Craig Mills            Mark Rice                C    .     .     .     56.00  46.67          
+
+ 9 Brian Zaugg            Mike Ring                A    5     .     .     63.00  52.50  0.26(A) 
+
+10 Kim Eng                Eric Sieg                A    .     .     .     53.00  44.17          
+
+11 Paul Schwaighart       Brad Rind                A    1     .     .     75.50  62.92  1.30(A) 
+
+12 Bryan Delfs            J.C. Chupack             B    3     1     .     71.00  59.17  0.72(B) 
+
+13 Adam Ruprecht          Christopher Jarvis       C    .     .     .     50.50  42.08          
+
+14 Aaron Mohrman          John Krah                C    .     4     2     57.00  47.50  0.34(C) 
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.00   1.00 2-Yan-Cao vs 6-Morris-Lent-Carlson
+  420          2.50   2.50 4-Zhang-Zheng vs 9-Zaugg-Ring
+  400          1.00   4.00 5-Grubbs-Galer vs 12-Delfs-Chupack
+  480          5.00   0.00 7-Hendrickson-Miller vs 8-Mills-Rice
+  420          2.50   2.50 13-Ruprecht-Jarvis vs 10-Eng-Sieg
+         50    0.00   5.00 14-Mohrman-Krah vs 11-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    1.00   4.00 2-Yan-Cao vs 6-Morris-Lent-Carlson
+        430    5.00   0.00 4-Zhang-Zheng vs 9-Zaugg-Ring
+        480    1.00   4.00 5-Grubbs-Galer vs 12-Delfs-Chupack
+        480    1.00   4.00 7-Hendrickson-Miller vs 8-Mills-Rice
+        450    3.50   1.50 13-Ruprecht-Jarvis vs 10-Eng-Sieg
+        450    3.50   1.50 14-Mohrman-Krah vs 11-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.50   3.50 1-Lakshmanan-Grill vs 11-Schwaighart-Rind
+        600    4.00   1.00 2-Yan-Cao vs 4-Zhang-Zheng
+  200          5.00   0.00 5-Grubbs-Galer vs 10-Eng-Sieg
+        690    0.00   5.00 6-Morris-Lent-Carlson vs 13-Ruprecht-Jarvis
+        650    3.00   2.00 8-Mills-Rice vs 9-Zaugg-Ring
+        660    1.50   3.50 14-Mohrman-Krah vs 12-Delfs-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          2.00   3.00 1-Lakshmanan-Grill vs 11-Schwaighart-Rind
+  150          3.00   2.00 2-Yan-Cao vs 4-Zhang-Zheng
+  170          4.50   0.50 5-Grubbs-Galer vs 10-Eng-Sieg
+  170          4.50   0.50 6-Morris-Lent-Carlson vs 13-Ruprecht-Jarvis
+        200    0.00   5.00 8-Mills-Rice vs 9-Zaugg-Ring
+        100    1.00   4.00 14-Mohrman-Krah vs 12-Delfs-Chupack
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          3.50   1.50 2-Yan-Cao vs 12-Delfs-Chupack
+  110          2.00   3.00 4-Zhang-Zheng vs 8-Mills-Rice
+        100    0.00   5.00 6-Morris-Lent-Carlson vs 11-Schwaighart-Rind
+  130          3.50   1.50 7-Hendrickson-Miller vs 1-Lakshmanan-Grill
+  100          1.00   4.00 9-Zaugg-Ring vs 10-Eng-Sieg
+  210          5.00   0.00 14-Mohrman-Krah vs 13-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          1.50   3.50 2-Yan-Cao vs 12-Delfs-Chupack
+  110          3.00   2.00 4-Zhang-Zheng vs 8-Mills-Rice
+  120          4.50   0.50 6-Morris-Lent-Carlson vs 11-Schwaighart-Rind
+        100    0.00   5.00 7-Hendrickson-Miller vs 1-Lakshmanan-Grill
+  120          4.50   0.50 9-Zaugg-Ring vs 10-Eng-Sieg
+   90          1.50   3.50 14-Mohrman-Krah vs 13-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          5.00   0.00 4-Zhang-Zheng vs 6-Morris-Lent-Carlson
+        100    1.00   4.00 5-Grubbs-Galer vs 9-Zaugg-Ring
+        100    1.00   4.00 7-Hendrickson-Miller vs 12-Delfs-Chupack
+  120          4.00   1.00 8-Mills-Rice vs 2-Yan-Cao
+        100    1.00   4.00 10-Eng-Sieg vs 11-Schwaighart-Rind
+   90          3.00   2.00 14-Mohrman-Krah vs 1-Lakshmanan-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   2.00 4-Zhang-Zheng vs 6-Morris-Lent-Carlson
+   90          5.00   0.00 5-Grubbs-Galer vs 9-Zaugg-Ring
+   50          4.00   1.00 7-Hendrickson-Miller vs 12-Delfs-Chupack
+        110    2.00   3.00 8-Mills-Rice vs 2-Yan-Cao
+        470    0.00   5.00 10-Eng-Sieg vs 11-Schwaighart-Rind
+        150    1.00   4.00 14-Mohrman-Krah vs 1-Lakshmanan-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.50   3.50 4-Zhang-Zheng vs 1-Lakshmanan-Grill
+        660    1.50   3.50 5-Grubbs-Galer vs 7-Hendrickson-Miller
+        660    1.50   3.50 6-Morris-Lent-Carlson vs 10-Eng-Sieg
+  100          4.50   0.50 8-Mills-Rice vs 13-Ruprecht-Jarvis
+  100          4.50   0.50 11-Schwaighart-Rind vs 12-Delfs-Chupack
+        660    1.50   3.50 14-Mohrman-Krah vs 2-Yan-Cao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   4.00 4-Zhang-Zheng vs 1-Lakshmanan-Grill
+        100    3.50   1.50 5-Grubbs-Galer vs 7-Hendrickson-Miller
+        100    3.50   1.50 6-Morris-Lent-Carlson vs 10-Eng-Sieg
+        800    0.00   5.00 8-Mills-Rice vs 13-Ruprecht-Jarvis
+        110    2.00   3.00 11-Schwaighart-Rind vs 12-Delfs-Chupack
+  200          5.00   0.00 14-Mohrman-Krah vs 2-Yan-Cao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 5-Grubbs-Galer vs 2-Yan-Cao
+   50          2.00   3.00 6-Morris-Lent-Carlson vs 8-Mills-Rice
+        400    0.00   5.00 7-Hendrickson-Miller vs 11-Schwaighart-Rind
+  100          4.00   1.00 9-Zaugg-Ring vs 1-Lakshmanan-Grill
+  100          4.00   1.00 10-Eng-Sieg vs 4-Zhang-Zheng
+        180    1.00   4.00 12-Delfs-Chupack vs 13-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    1.50   3.50 5-Grubbs-Galer vs 2-Yan-Cao
+        400    4.50   0.50 6-Morris-Lent-Carlson vs 8-Mills-Rice
+        430    1.50   3.50 7-Hendrickson-Miller vs 11-Schwaighart-Rind
+        430    1.50   3.50 9-Zaugg-Ring vs 1-Lakshmanan-Grill
+        430    1.50   3.50 10-Eng-Sieg vs 4-Zhang-Zheng
+        400    4.50   0.50 12-Delfs-Chupack vs 13-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    4.00   1.00 7-Hendrickson-Miller vs 9-Zaugg-Ring
+        660    0.00   5.00 8-Mills-Rice vs 12-Delfs-Chupack
+        600    4.00   1.00 10-Eng-Sieg vs 2-Yan-Cao
+        600    4.00   1.00 11-Schwaighart-Rind vs 5-Grubbs-Galer
+        630    1.50   3.50 13-Ruprecht-Jarvis vs 1-Lakshmanan-Grill
+        630    1.50   3.50 14-Mohrman-Krah vs 4-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          5.00   0.00 7-Hendrickson-Miller vs 9-Zaugg-Ring
+        140    1.00   4.00 8-Mills-Rice vs 12-Delfs-Chupack
+         50    3.50   1.50 10-Eng-Sieg vs 2-Yan-Cao
+         50    3.50   1.50 11-Schwaighart-Rind vs 5-Grubbs-Galer
+        200    0.00   5.00 13-Ruprecht-Jarvis vs 1-Lakshmanan-Grill
+        100    2.00   3.00 14-Mohrman-Krah vs 4-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   3.00 1-Lakshmanan-Grill vs 2-Yan-Cao
+        100    2.00   3.00 7-Hendrickson-Miller vs 4-Zhang-Zheng
+  620          4.50   0.50 8-Mills-Rice vs 10-Eng-Sieg
+  620          4.50   0.50 9-Zaugg-Ring vs 13-Ruprecht-Jarvis
+        500    0.00   5.00 12-Delfs-Chupack vs 6-Morris-Lent-Carlson
+        100    2.00   3.00 14-Mohrman-Krah vs 5-Grubbs-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   4.00 1-Lakshmanan-Grill vs 2-Yan-Cao
+        100    0.00   5.00 7-Hendrickson-Miller vs 4-Zhang-Zheng
+   90          2.00   3.00 8-Mills-Rice vs 10-Eng-Sieg
+  430          5.00   0.00 9-Zaugg-Ring vs 13-Ruprecht-Jarvis
+  400          4.00   1.00 12-Delfs-Chupack vs 6-Morris-Lent-Carlson
+  200          3.00   2.00 14-Mohrman-Krah vs 5-Grubbs-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          0.50   4.50 8-Mills-Rice vs 5-Grubbs-Galer
+  460          4.00   1.00 9-Zaugg-Ring vs 11-Schwaighart-Rind
+  450          2.00   3.00 10-Eng-Sieg vs 1-Lakshmanan-Grill
+  460          4.00   1.00 12-Delfs-Chupack vs 4-Zhang-Zheng
+  430          0.50   4.50 13-Ruprecht-Jarvis vs 7-Hendrickson-Miller
+  460          4.00   1.00 14-Mohrman-Krah vs 6-Morris-Lent-Carlson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          2.00   3.00 8-Mills-Rice vs 5-Grubbs-Galer
+        200    0.00   5.00 9-Zaugg-Ring vs 11-Schwaighart-Rind
+  650          4.00   1.00 10-Eng-Sieg vs 1-Lakshmanan-Grill
+  150          1.00   4.00 12-Delfs-Chupack vs 4-Zhang-Zheng
+  680          5.00   0.00 13-Ruprecht-Jarvis vs 7-Hendrickson-Miller
+  600          3.00   2.00 14-Mohrman-Krah vs 6-Morris-Lent-Carlson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          2.00   3.00 1-Lakshmanan-Grill vs 8-Mills-Rice
+  130          4.00   1.00 9-Zaugg-Ring vs 6-Morris-Lent-Carlson
+  110          0.00   5.00 10-Eng-Sieg vs 12-Delfs-Chupack
+  150          5.00   0.00 11-Schwaighart-Rind vs 2-Yan-Cao
+  120          2.00   3.00 13-Ruprecht-Jarvis vs 5-Grubbs-Galer
+  120          2.00   3.00 14-Mohrman-Krah vs 7-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   5.00 1-Lakshmanan-Grill vs 8-Mills-Rice
+        100    2.50   2.50 9-Zaugg-Ring vs 6-Morris-Lent-Carlson
+  200          4.00   1.00 10-Eng-Sieg vs 12-Delfs-Chupack
+        100    2.50   2.50 11-Schwaighart-Rind vs 2-Yan-Cao
+        200    1.00   4.00 13-Ruprecht-Jarvis vs 5-Grubbs-Galer
+  600          5.00   0.00 14-Mohrman-Krah vs 7-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   3.00 1-Lakshmanan-Grill vs 6-Morris-Lent-Carlson
+  100          4.50   0.50 2-Yan-Cao vs 9-Zaugg-Ring
+   50          3.00   2.00 4-Zhang-Zheng vs 5-Grubbs-Galer
+  100          4.50   0.50 10-Eng-Sieg vs 7-Hendrickson-Miller
+        500    0.00   5.00 11-Schwaighart-Rind vs 13-Ruprecht-Jarvis
+        170    1.00   4.00 14-Mohrman-Krah vs 8-Mills-Rice
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 1-Lakshmanan-Grill vs 6-Morris-Lent-Carlson
+        630    1.00   4.00 2-Yan-Cao vs 9-Zaugg-Ring
+        630    1.00   4.00 4-Zhang-Zheng vs 5-Grubbs-Galer
+        630    1.00   4.00 10-Eng-Sieg vs 7-Hendrickson-Miller
+        600    3.00   2.00 11-Schwaighart-Rind vs 13-Ruprecht-Jarvis
+        150    4.00   1.00 14-Mohrman-Krah vs 8-Mills-Rice
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.50   1.50 2-Yan-Cao vs 7-Hendrickson-Miller
+  680          5.00   0.00 5-Grubbs-Galer vs 6-Morris-Lent-Carlson
+  200          2.00   3.00 11-Schwaighart-Rind vs 8-Mills-Rice
+  300          3.50   1.50 12-Delfs-Chupack vs 1-Lakshmanan-Grill
+   90          1.00   4.00 13-Ruprecht-Jarvis vs 4-Zhang-Zheng
+         90    0.00   5.00 14-Mohrman-Krah vs 9-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   2.50 2-Yan-Cao vs 7-Hendrickson-Miller
+  420          4.50   0.50 5-Grubbs-Galer vs 6-Morris-Lent-Carlson
+        170    1.00   4.00 11-Schwaighart-Rind vs 8-Mills-Rice
+  420          4.50   0.50 12-Delfs-Chupack vs 1-Lakshmanan-Grill
+        420    0.00   5.00 13-Ruprecht-Jarvis vs 4-Zhang-Zheng
+         50    2.50   2.50 14-Mohrman-Krah vs 9-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.00   1.00 1-Lakshmanan-Grill vs 5-Grubbs-Galer
+         50    2.00   3.00 4-Zhang-Zheng vs 11-Schwaighart-Rind
+         50    2.00   3.00 6-Morris-Lent-Carlson vs 7-Hendrickson-Miller
+        100    0.00   5.00 12-Delfs-Chupack vs 9-Zaugg-Ring
+  300          5.00   0.00 13-Ruprecht-Jarvis vs 2-Yan-Cao
+         50    2.00   3.00 14-Mohrman-Krah vs 10-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.00   5.00 1-Lakshmanan-Grill vs 5-Grubbs-Galer
+        680    2.00   3.00 4-Zhang-Zheng vs 11-Schwaighart-Rind
+        650    4.50   0.50 6-Morris-Lent-Carlson vs 7-Hendrickson-Miller
+        650    4.50   0.50 12-Delfs-Chupack vs 9-Zaugg-Ring
+        680    2.00   3.00 13-Ruprecht-Jarvis vs 2-Yan-Cao
+        680    2.00   3.00 14-Mohrman-Krah vs 10-Eng-Sieg
+----------------------------------------------------------------------
