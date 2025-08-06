@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 5, 2025     |CLUB NO.>158048    | 08/05/2025 21:53
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=9/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Adam Ruprecht          Christopher Jarvis       B   1     1     .   |   1     1     .     74.50  62.08  2.48(OA)
+
+ 2 Mike Ring              Mike Christensen         A   2     .     .   |   2     .     .     73.50  61.25  1.86(OA)
+
+
+
+ 4 Brian Zaugg            Joseph Grill             B   5     2     .   |   5     2     .     62.00  51.67  1.23(OB)
+
+ 5 Nick Tipton            Craig Conner             B   .     4     .   |   .     4     .     60.00  50.00  0.69(OB)
+
+ 6 David Taylor           John Aslin               A   .     .     .   |   .     .     .     56.50  47.08          
+
+ 7 Kevin Cline            Chris Pesce              B   .     3     .   |   .     3     .     61.00  50.83  0.92(OB)
+
+ 8 Jeffrey Ford           Ray Miller               A   3     .     .   |   3     .     .     67.00  55.83  1.40(OA)
+
+ 9 Elaine Vona            James Hamilton           B   .     .     .   |   .     .     .     54.50  45.42          
+
+10 Alan Auerbach          Chris Morris-Lent        C   .     .     .   |   .     .     1     56.50  47.08  0.24(SC)
+
+11 Matt Gaffney           Dion Sorenson            C   .     .     .   |   .     .     .     49.50  41.25          
+
+12 Bryant Carlson         Andrew Rigazio           C   .     .     .   |   .     .     .     48.50  40.42          
+
+13 Corneliu Galer         Dave Setterholm          A   4     .     .   |   4     .     .     63.50  52.92  1.05(OA)
+
+14 Ann Romeo              Muhunthan Sivapragasam   B   .     .     .   |   .     .     .     53.00  44.17          
+
+
+                                          Totals                                            780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 2-Ring-Christensen vs 6-Taylor-Aslin
+        150    0.00   5.00 4-Zaugg-Grill vs 9-Vona-Hamilton
+         90    3.00   2.00 5-Tipton-Conner vs 12-Carlson-Rigazio
+        100    1.50   3.50 7-Cline-Pesce vs 8-Ford-Miller
+        100    1.50   3.50 13-Galer-Setterholm vs 10-Auerbach-Morris-Lent
+   50          4.00   1.00 14-Romeo-Sivapragasam vs 11-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    5.00   0.00 2-Ring-Christensen vs 6-Taylor-Aslin
+        450    2.00   3.00 4-Zaugg-Grill vs 9-Vona-Hamilton
+        450    2.00   3.00 5-Tipton-Conner vs 12-Carlson-Rigazio
+        450    2.00   3.00 7-Cline-Pesce vs 8-Ford-Miller
+        450    2.00   3.00 13-Galer-Setterholm vs 10-Auerbach-Morris-Lent
+        450    2.00   3.00 14-Romeo-Sivapragasam vs 11-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          5.00   0.00 1-Ruprecht-Jarvis vs 11-Gaffney-Sorenson
+        100    0.50   4.50 2-Ring-Christensen vs 4-Zaugg-Grill
+        100    0.50   4.50 5-Tipton-Conner vs 10-Auerbach-Morris-Lent
+  200          4.00   1.00 6-Taylor-Aslin vs 13-Galer-Setterholm
+  110          3.00   2.00 8-Ford-Miller vs 9-Vona-Hamilton
+         50    2.00   3.00 14-Romeo-Sivapragasam vs 12-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.50   1.50 1-Ruprecht-Jarvis vs 11-Gaffney-Sorenson
+        800    0.00   5.00 2-Ring-Christensen vs 4-Zaugg-Grill
+  200          3.50   1.50 5-Tipton-Conner vs 10-Auerbach-Morris-Lent
+  200          3.50   1.50 6-Taylor-Aslin vs 13-Galer-Setterholm
+  200          3.50   1.50 8-Ford-Miller vs 9-Vona-Hamilton
+  100          1.00   4.00 14-Romeo-Sivapragasam vs 12-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.00   3.00 2-Ring-Christensen vs 12-Carlson-Rigazio
+        530    0.50   4.50 4-Zaugg-Grill vs 8-Ford-Miller
+        140    4.00   1.00 6-Taylor-Aslin vs 11-Gaffney-Sorenson
+        530    0.50   4.50 7-Cline-Pesce vs 1-Ruprecht-Jarvis
+        170    3.00   2.00 9-Vona-Hamilton vs 10-Auerbach-Morris-Lent
+   50          5.00   0.00 14-Romeo-Sivapragasam vs 13-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          3.50   1.50 2-Ring-Christensen vs 12-Carlson-Rigazio
+  450          3.50   1.50 4-Zaugg-Grill vs 8-Ford-Miller
+  420          0.50   4.50 6-Taylor-Aslin vs 11-Gaffney-Sorenson
+  420          0.50   4.50 7-Cline-Pesce vs 1-Ruprecht-Jarvis
+  450          3.50   1.50 9-Vona-Hamilton vs 10-Auerbach-Morris-Lent
+  450          3.50   1.50 14-Romeo-Sivapragasam vs 13-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    5.00   0.00 4-Zaugg-Grill vs 6-Taylor-Aslin
+        630    1.00   4.00 5-Tipton-Conner vs 9-Vona-Hamilton
+        200    4.00   1.00 7-Cline-Pesce vs 12-Carlson-Rigazio
+        630    1.00   4.00 8-Ford-Miller vs 2-Ring-Christensen
+        600    3.00   2.00 10-Auerbach-Morris-Lent vs 11-Gaffney-Sorenson
+        630    1.00   4.00 14-Romeo-Sivapragasam vs 1-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   5.00 4-Zaugg-Grill vs 6-Taylor-Aslin
+        170    4.00   1.00 5-Tipton-Conner vs 9-Vona-Hamilton
+   50          5.00   0.00 7-Cline-Pesce vs 12-Carlson-Rigazio
+        420    2.00   3.00 8-Ford-Miller vs 2-Ring-Christensen
+        400    3.00   2.00 10-Auerbach-Morris-Lent vs 11-Gaffney-Sorenson
+        430    1.00   4.00 14-Romeo-Sivapragasam vs 1-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          0.00   5.00 4-Zaugg-Grill vs 1-Ruprecht-Jarvis
+  510          1.00   4.00 5-Tipton-Conner vs 7-Cline-Pesce
+  980          3.00   2.00 6-Taylor-Aslin vs 10-Auerbach-Morris-Lent
+ 1010          5.00   0.00 8-Ford-Miller vs 13-Galer-Setterholm
+  980          3.00   2.00 11-Gaffney-Sorenson vs 12-Carlson-Rigazio
+  980          3.00   2.00 14-Romeo-Sivapragasam vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 4-Zaugg-Grill vs 1-Ruprecht-Jarvis
+  600          3.50   1.50 5-Tipton-Conner vs 7-Cline-Pesce
+  600          3.50   1.50 6-Taylor-Aslin vs 10-Auerbach-Morris-Lent
+        200    0.00   5.00 8-Ford-Miller vs 13-Galer-Setterholm
+  600          3.50   1.50 11-Gaffney-Sorenson vs 12-Carlson-Rigazio
+  600          3.50   1.50 14-Romeo-Sivapragasam vs 2-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   2.00 5-Tipton-Conner vs 2-Ring-Christensen
+  140          4.00   1.00 6-Taylor-Aslin vs 8-Ford-Miller
+         50    1.00   4.00 7-Cline-Pesce vs 11-Gaffney-Sorenson
+         50    1.00   4.00 9-Vona-Hamilton vs 1-Ruprecht-Jarvis
+         50    1.00   4.00 10-Auerbach-Morris-Lent vs 4-Zaugg-Grill
+  170          5.00   0.00 12-Carlson-Rigazio vs 13-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   2.50 5-Tipton-Conner vs 2-Ring-Christensen
+        100    5.00   0.00 6-Taylor-Aslin vs 8-Ford-Miller
+        140    2.50   2.50 7-Cline-Pesce vs 11-Gaffney-Sorenson
+        140    2.50   2.50 9-Vona-Hamilton vs 1-Ruprecht-Jarvis
+        140    2.50   2.50 10-Auerbach-Morris-Lent vs 4-Zaugg-Grill
+        500    0.00   5.00 12-Carlson-Rigazio vs 13-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   1.00 7-Cline-Pesce vs 9-Vona-Hamilton
+  110          4.00   1.00 8-Ford-Miller vs 12-Carlson-Rigazio
+        170    1.00   4.00 10-Auerbach-Morris-Lent vs 2-Ring-Christensen
+        170    1.00   4.00 11-Gaffney-Sorenson vs 5-Tipton-Conner
+  110          4.00   1.00 13-Galer-Setterholm vs 1-Ruprecht-Jarvis
+        170    1.00   4.00 14-Romeo-Sivapragasam vs 4-Zaugg-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.50   0.50 7-Cline-Pesce vs 9-Vona-Hamilton
+  120          3.00   2.00 8-Ford-Miller vs 12-Carlson-Rigazio
+        100    0.50   4.50 10-Auerbach-Morris-Lent vs 2-Ring-Christensen
+         50    2.00   3.00 11-Gaffney-Sorenson vs 5-Tipton-Conner
+  130          4.50   0.50 13-Galer-Setterholm vs 1-Ruprecht-Jarvis
+        100    0.50   4.50 14-Romeo-Sivapragasam vs 4-Zaugg-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    4.00   1.00 1-Ruprecht-Jarvis vs 2-Ring-Christensen
+        460    1.00   4.00 7-Cline-Pesce vs 4-Zaugg-Grill
+        430    4.00   1.00 8-Ford-Miller vs 10-Auerbach-Morris-Lent
+        460    1.00   4.00 9-Vona-Hamilton vs 13-Galer-Setterholm
+        460    1.00   4.00 12-Carlson-Rigazio vs 6-Taylor-Aslin
+        430    4.00   1.00 14-Romeo-Sivapragasam vs 5-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   3.00 1-Ruprecht-Jarvis vs 2-Ring-Christensen
+  150          5.00   0.00 7-Cline-Pesce vs 4-Zaugg-Grill
+         50    2.00   3.00 8-Ford-Miller vs 10-Auerbach-Morris-Lent
+        100    0.00   5.00 9-Vona-Hamilton vs 13-Galer-Setterholm
+  140          4.00   1.00 12-Carlson-Rigazio vs 6-Taylor-Aslin
+         50    2.00   3.00 14-Romeo-Sivapragasam vs 5-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.00   3.00 8-Ford-Miller vs 5-Tipton-Conner
+        400    5.00   0.00 9-Vona-Hamilton vs 11-Gaffney-Sorenson
+        420    2.00   3.00 10-Auerbach-Morris-Lent vs 1-Ruprecht-Jarvis
+        420    2.00   3.00 12-Carlson-Rigazio vs 4-Zaugg-Grill
+        420    2.00   3.00 13-Galer-Setterholm vs 7-Cline-Pesce
+        420    2.00   3.00 14-Romeo-Sivapragasam vs 6-Taylor-Aslin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   5.00 8-Ford-Miller vs 5-Tipton-Conner
+   50          2.50   2.50 9-Vona-Hamilton vs 11-Gaffney-Sorenson
+   50          2.50   2.50 10-Auerbach-Morris-Lent vs 1-Ruprecht-Jarvis
+         80    1.00   4.00 12-Carlson-Rigazio vs 4-Zaugg-Grill
+  100          4.50   0.50 13-Galer-Setterholm vs 7-Cline-Pesce
+  100          4.50   0.50 14-Romeo-Sivapragasam vs 6-Taylor-Aslin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   4.50 1-Ruprecht-Jarvis vs 8-Ford-Miller
+  140          4.00   1.00 9-Vona-Hamilton vs 6-Taylor-Aslin
+  140          4.00   1.00 10-Auerbach-Morris-Lent vs 12-Carlson-Rigazio
+         50    0.50   4.50 11-Gaffney-Sorenson vs 2-Ring-Christensen
+  140          4.00   1.00 13-Galer-Setterholm vs 5-Tipton-Conner
+  100          2.00   3.00 14-Romeo-Sivapragasam vs 7-Cline-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.50   4.50 1-Ruprecht-Jarvis vs 8-Ford-Miller
+        600    3.50   1.50 9-Vona-Hamilton vs 6-Taylor-Aslin
+        600    3.50   1.50 10-Auerbach-Morris-Lent vs 12-Carlson-Rigazio
+        600    3.50   1.50 11-Gaffney-Sorenson vs 2-Ring-Christensen
+        600    3.50   1.50 13-Galer-Setterholm vs 5-Tipton-Conner
+        630    0.50   4.50 14-Romeo-Sivapragasam vs 7-Cline-Pesce
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.00   2.00 1-Ruprecht-Jarvis vs 6-Taylor-Aslin
+   90          5.00   0.00 2-Ring-Christensen vs 9-Vona-Hamilton
+        200    1.00   4.00 4-Zaugg-Grill vs 5-Tipton-Conner
+        100    4.00   1.00 10-Auerbach-Morris-Lent vs 7-Cline-Pesce
+        180    2.00   3.00 11-Gaffney-Sorenson vs 13-Galer-Setterholm
+        450    0.00   5.00 14-Romeo-Sivapragasam vs 8-Ford-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   1.50 1-Ruprecht-Jarvis vs 6-Taylor-Aslin
+  120          5.00   0.00 2-Ring-Christensen vs 9-Vona-Hamilton
+         50    3.50   1.50 4-Zaugg-Grill vs 5-Tipton-Conner
+        100    1.00   4.00 10-Auerbach-Morris-Lent vs 7-Cline-Pesce
+        100    1.00   4.00 11-Gaffney-Sorenson vs 13-Galer-Setterholm
+        100    1.00   4.00 14-Romeo-Sivapragasam vs 8-Ford-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 2-Ring-Christensen vs 7-Cline-Pesce
+        120    1.50   3.50 5-Tipton-Conner vs 6-Taylor-Aslin
+  100          4.00   1.00 11-Gaffney-Sorenson vs 8-Ford-Miller
+        120    1.50   3.50 12-Carlson-Rigazio vs 1-Ruprecht-Jarvis
+  100          4.00   1.00 13-Galer-Setterholm vs 4-Zaugg-Grill
+        150    0.00   5.00 14-Romeo-Sivapragasam vs 9-Vona-Hamilton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.50   2.50 2-Ring-Christensen vs 7-Cline-Pesce
+  210          4.50   0.50 5-Tipton-Conner vs 6-Taylor-Aslin
+        100    0.00   5.00 11-Gaffney-Sorenson vs 8-Ford-Miller
+  150          2.50   2.50 12-Carlson-Rigazio vs 1-Ruprecht-Jarvis
+  130          1.00   4.00 13-Galer-Setterholm vs 4-Zaugg-Grill
+  210          4.50   0.50 14-Romeo-Sivapragasam vs 9-Vona-Hamilton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.00   1.00 1-Ruprecht-Jarvis vs 5-Tipton-Conner
+  140          2.00   3.00 4-Zaugg-Grill vs 11-Gaffney-Sorenson
+  200          5.00   0.00 6-Taylor-Aslin vs 7-Cline-Pesce
+  110          0.00   5.00 12-Carlson-Rigazio vs 9-Vona-Hamilton
+  140          2.00   3.00 13-Galer-Setterholm vs 2-Ring-Christensen
+  140          2.00   3.00 14-Romeo-Sivapragasam vs 10-Auerbach-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    3.00   2.00 1-Ruprecht-Jarvis vs 5-Tipton-Conner
+        660    3.00   2.00 4-Zaugg-Grill vs 11-Gaffney-Sorenson
+        690    0.50   4.50 6-Taylor-Aslin vs 7-Cline-Pesce
+        630    5.00   0.00 12-Carlson-Rigazio vs 9-Vona-Hamilton
+        690    0.50   4.50 13-Galer-Setterholm vs 2-Ring-Christensen
+        660    3.00   2.00 14-Romeo-Sivapragasam vs 10-Auerbach-Morris-Lent
+----------------------------------------------------------------------
