@@ -1,0 +1,501 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>September 9, 2025  |CLUB NO.>158048    | 09/09/2025 22:05
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club International Fund      |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=8/C=6                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Ring              Mike Christensen         A   2     .     .   |   1     .     .    151.00  62.14  2.19(OA)
+
+ 2 Elaine Vona            James Hamilton           C   .     .     4   |   .     .     .    114.00  46.91  0.59(OC)
+
+ 3 Arjun Chaunal          Mudit Chaunal            C   .     5     3   |   .     3     2    118.00  48.56  0.79(OC)
+
+ 4 Brian Zaugg            Liliana Diaconescu       B   3     1     .   |   2     1     .    144.50  59.47  1.86(OB)
+
+ 5 Hugh Hendrickson       Laura Miller             C   .     4     2   |   3     2     1    134.50  55.35  1.05(OC)
+
+ 6 Ray Miller             Bogdan Vulcan            A   .     .     .   |   4     .     .    127.00  52.26  0.51(SA)
+
+ 7 Joseph Grill           Valliappa Lakshmanan     C   .     .     .   |   .     .     .    112.00  46.09          
+
+ 8 Aaron Mohrman          Nathan Kasperkiewicz     C   .     .     .   |   .     .     .    104.00  42.80          
+
+ 9 Ann Romeo              Ruth Bunin               B   .     .     .   |   .     .     .     97.50  40.12          
+
+10 Jeannie Falls          Bruce Baker-Harvey       C   .     .     .   |   .     .     .    112.50  46.30          
+
+
+                                          Totals                                           1215.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>September 9, 2025  |CLUB NO.>158048    | 09/09/2025 22:05
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club International Fund      |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  121.5 |TOP>   9 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=5                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Eric Sieg                A   5     .     .   |   3     .     .    138.50  57.00  0.92(OA)
+
+ 2 Muhunthan Sivapragasam David Binney             A   .     .     .   |   .     .     .    113.00  46.50          
+
+ 3 Bryant Carlson         Andrew Rigazio           C   .     .     .   |   .     .     .     87.00  35.80          
+
+ 4 Stanford Christie      Corneliu Galer           A   1     .     .   |   1     .     .    153.00  62.96  2.92(OA)
+
+ 5 Joe Frisbie            Nick Tipton              C   4     2     1   |   2     1     1    141.00  58.02  1.40(OB)
+
+ 6 Fan Zhang              Min Zheng                B   6     3     .   |   4     2     .    136.50  56.17  1.05(OB)
+
+ 7 Jeffrey Ford           Chris Morris-Lent        A   .     .     .   |   .     .     .    126.50  52.06          
+
+ 8 Shannon Kasperkiewicz  Jeremy Gulley            C   .     .     .   |   .     .     .    107.00  44.03          
+
+ 9 Debby Cole             David Rabinovitch        C   .     .     .   |   .     .     2    108.50  44.65  0.46(SC)
+
+10 Matt Gaffney           Dion Sorenson            C   .     .     .   |   .     .     .    104.00  42.80          
+
+
+                                          Totals                                           1215.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          8.00   1.00 1-Ring-Christensen vs 1-Eng-Sieg
+        460    0.00   9.00 2-Vona-Hamilton vs 4-Christie-Galer
+        430    1.00   8.00 3-Chaunal-Chaunal vs 6-Zhang-Zheng
+        150    3.00   6.00 4-Zaugg-Diaconescu vs 8-Kasperkiewicz-Gulley
+        100    5.00   4.00 5-Hendrickson-Miller vs 10-Gaffney-Sorenson
+  100          8.00   1.00 6-Miller-Vulcan vs 3-Carlson-Rigazio
+        150    3.00   6.00 7-Grill-Lakshmanan vs 5-Frisbie-Tipton
+        150    3.00   6.00 8-Mohrman-Kasperkiewicz vs 7-Ford-Morris-Lent
+         50    6.00   3.00 9-Romeo-Bunin vs 9-Cole-Rabinovitch
+  100          8.00   1.00 10-Falls-Baker-Harvey vs 2-Sivapragasam-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    6.00   3.00 1-Ring-Christensen vs 1-Eng-Sieg
+        460    1.00   8.00 2-Vona-Hamilton vs 4-Christie-Galer
+        450    6.00   3.00 3-Chaunal-Chaunal vs 6-Zhang-Zheng
+        450    6.00   3.00 4-Zaugg-Diaconescu vs 8-Kasperkiewicz-Gulley
+        460    1.00   8.00 5-Hendrickson-Miller vs 10-Gaffney-Sorenson
+        450    6.00   3.00 6-Miller-Vulcan vs 3-Carlson-Rigazio
+        450    6.00   3.00 7-Grill-Lakshmanan vs 5-Frisbie-Tipton
+        450    6.00   3.00 8-Mohrman-Kasperkiewicz vs 7-Ford-Morris-Lent
+        460    1.00   8.00 9-Romeo-Bunin vs 9-Cole-Rabinovitch
+        450    6.00   3.00 10-Falls-Baker-Harvey vs 2-Sivapragasam-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          5.00   4.00 1-Ring-Christensen vs 1-Eng-Sieg
+  450          5.00   4.00 2-Vona-Hamilton vs 4-Christie-Galer
+  450          5.00   4.00 3-Chaunal-Chaunal vs 6-Zhang-Zheng
+        100    0.00   9.00 4-Zaugg-Diaconescu vs 8-Kasperkiewicz-Gulley
+  480          8.50   0.50 5-Hendrickson-Miller vs 10-Gaffney-Sorenson
+  480          8.50   0.50 6-Miller-Vulcan vs 3-Carlson-Rigazio
+         50    1.50   7.50 7-Grill-Lakshmanan vs 5-Frisbie-Tipton
+  460          7.00   2.00 8-Mohrman-Kasperkiewicz vs 7-Ford-Morris-Lent
+         50    1.50   7.50 9-Romeo-Bunin vs 9-Cole-Rabinovitch
+  420          3.00   6.00 10-Falls-Baker-Harvey vs 2-Sivapragasam-Binney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    5.00   4.00 1-Ring-Christensen vs 10-Gaffney-Sorenson
+        650    7.50   1.50 2-Vona-Hamilton vs 2-Sivapragasam-Binney
+        710    2.00   7.00 3-Chaunal-Chaunal vs 5-Frisbie-Tipton
+        710    2.00   7.00 4-Zaugg-Diaconescu vs 7-Ford-Morris-Lent
+        710    2.00   7.00 5-Hendrickson-Miller vs 9-Cole-Rabinovitch
+        650    7.50   1.50 6-Miller-Vulcan vs 4-Christie-Galer
+        710    2.00   7.00 7-Grill-Lakshmanan vs 6-Zhang-Zheng
+        650    7.50   1.50 8-Mohrman-Kasperkiewicz vs 8-Kasperkiewicz-Gulley
+        710    2.00   7.00 9-Romeo-Bunin vs 1-Eng-Sieg
+        650    7.50   1.50 10-Falls-Baker-Harvey vs 3-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          9.00   0.00 1-Ring-Christensen vs 10-Gaffney-Sorenson
+        170    2.00   7.00 2-Vona-Hamilton vs 2-Sivapragasam-Binney
+        800    1.00   8.00 3-Chaunal-Chaunal vs 5-Frisbie-Tipton
+        100    7.50   1.50 4-Zaugg-Diaconescu vs 7-Ford-Morris-Lent
+        110    5.50   3.50 5-Hendrickson-Miller vs 9-Cole-Rabinovitch
+        140    3.50   5.50 6-Miller-Vulcan vs 4-Christie-Galer
+        110    5.50   3.50 7-Grill-Lakshmanan vs 6-Zhang-Zheng
+        140    3.50   5.50 8-Mohrman-Kasperkiewicz vs 8-Kasperkiewicz-Gulley
+       1100    0.00   9.00 9-Romeo-Bunin vs 1-Eng-Sieg
+        100    7.50   1.50 10-Falls-Baker-Harvey vs 3-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   4.00 1-Ring-Christensen vs 10-Gaffney-Sorenson
+  110          6.50   2.50 2-Vona-Hamilton vs 2-Sivapragasam-Binney
+         50    3.00   6.00 3-Chaunal-Chaunal vs 5-Frisbie-Tipton
+         50    3.00   6.00 4-Zaugg-Diaconescu vs 7-Ford-Morris-Lent
+  110          6.50   2.50 5-Hendrickson-Miller vs 9-Cole-Rabinovitch
+         90    1.00   8.00 6-Miller-Vulcan vs 4-Christie-Galer
+  470          9.00   0.00 7-Grill-Lakshmanan vs 6-Zhang-Zheng
+         50    3.00   6.00 8-Mohrman-Kasperkiewicz vs 8-Kasperkiewicz-Gulley
+        100    0.00   9.00 9-Romeo-Bunin vs 1-Eng-Sieg
+  200          8.00   1.00 10-Falls-Baker-Harvey vs 3-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.00   2.00 1-Ring-Christensen vs 9-Cole-Rabinovitch
+        100    3.00   6.00 2-Vona-Hamilton vs 1-Eng-Sieg
+        110    1.00   8.00 3-Chaunal-Chaunal vs 3-Carlson-Rigazio
+        100    3.00   6.00 4-Zaugg-Diaconescu vs 6-Zhang-Zheng
+   90          5.00   4.00 5-Hendrickson-Miller vs 8-Kasperkiewicz-Gulley
+  140          6.00   3.00 6-Miller-Vulcan vs 5-Frisbie-Tipton
+  500          9.00   0.00 7-Grill-Lakshmanan vs 7-Ford-Morris-Lent
+        200    0.00   9.00 8-Mohrman-Kasperkiewicz vs 10-Gaffney-Sorenson
+  200          8.00   1.00 9-Romeo-Bunin vs 2-Sivapragasam-Binney
+        100    3.00   6.00 10-Falls-Baker-Harvey vs 4-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   6.50 1-Ring-Christensen vs 9-Cole-Rabinovitch
+        100    4.50   4.50 2-Vona-Hamilton vs 1-Eng-Sieg
+  200          8.50   0.50 3-Chaunal-Chaunal vs 3-Carlson-Rigazio
+        130    0.50   8.50 4-Zaugg-Diaconescu vs 6-Zhang-Zheng
+   50          6.50   2.50 5-Hendrickson-Miller vs 8-Kasperkiewicz-Gulley
+   50          6.50   2.50 6-Miller-Vulcan vs 5-Frisbie-Tipton
+  200          8.50   0.50 7-Grill-Lakshmanan vs 7-Ford-Morris-Lent
+        110    2.50   6.50 8-Mohrman-Kasperkiewicz vs 10-Gaffney-Sorenson
+        100    4.50   4.50 9-Romeo-Bunin vs 2-Sivapragasam-Binney
+        130    0.50   8.50 10-Falls-Baker-Harvey vs 4-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          8.50   0.50 1-Ring-Christensen vs 9-Cole-Rabinovitch
+  100          6.00   3.00 2-Vona-Hamilton vs 1-Eng-Sieg
+         50    4.00   5.00 3-Chaunal-Chaunal vs 3-Carlson-Rigazio
+  170          8.50   0.50 4-Zaugg-Diaconescu vs 6-Zhang-Zheng
+         50    4.00   5.00 5-Hendrickson-Miller vs 8-Kasperkiewicz-Gulley
+         50    4.00   5.00 6-Miller-Vulcan vs 5-Frisbie-Tipton
+        930    0.00   9.00 7-Grill-Lakshmanan vs 7-Ford-Morris-Lent
+        730    1.00   8.00 8-Mohrman-Kasperkiewicz vs 10-Gaffney-Sorenson
+        110    2.00   7.00 9-Romeo-Bunin vs 2-Sivapragasam-Binney
+  120          7.00   2.00 10-Falls-Baker-Harvey vs 4-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   7.00 1-Ring-Christensen vs 8-Kasperkiewicz-Gulley
+ 1100          9.00   0.00 2-Vona-Hamilton vs 10-Gaffney-Sorenson
+        200    0.50   8.50 3-Chaunal-Chaunal vs 2-Sivapragasam-Binney
+  620          4.50   4.50 4-Zaugg-Diaconescu vs 4-Christie-Galer
+  620          4.50   4.50 5-Hendrickson-Miller vs 7-Ford-Morris-Lent
+  630          7.50   1.50 6-Miller-Vulcan vs 6-Zhang-Zheng
+        200    0.50   8.50 7-Grill-Lakshmanan vs 9-Cole-Rabinovitch
+  620          4.50   4.50 8-Mohrman-Kasperkiewicz vs 1-Eng-Sieg
+  630          7.50   1.50 9-Romeo-Bunin vs 3-Carlson-Rigazio
+  620          4.50   4.50 10-Falls-Baker-Harvey vs 5-Frisbie-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          9.00   0.00 1-Ring-Christensen vs 8-Kasperkiewicz-Gulley
+   50          6.00   3.00 2-Vona-Hamilton vs 10-Gaffney-Sorenson
+        100    2.00   7.00 3-Chaunal-Chaunal vs 2-Sivapragasam-Binney
+  100          7.50   1.50 4-Zaugg-Diaconescu vs 4-Christie-Galer
+  100          7.50   1.50 5-Hendrickson-Miller vs 7-Ford-Morris-Lent
+        300    0.00   9.00 6-Miller-Vulcan vs 6-Zhang-Zheng
+         50    4.50   4.50 7-Grill-Lakshmanan vs 9-Cole-Rabinovitch
+         50    4.50   4.50 8-Mohrman-Kasperkiewicz vs 1-Eng-Sieg
+        180    1.00   8.00 9-Romeo-Bunin vs 3-Carlson-Rigazio
+         70    3.00   6.00 10-Falls-Baker-Harvey vs 5-Frisbie-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    6.50   2.50 1-Ring-Christensen vs 8-Kasperkiewicz-Gulley
+        430    3.00   6.00 2-Vona-Hamilton vs 10-Gaffney-Sorenson
+        400    6.50   2.50 3-Chaunal-Chaunal vs 2-Sivapragasam-Binney
+        460    1.00   8.00 4-Zaugg-Diaconescu vs 4-Christie-Galer
+        400    6.50   2.50 5-Hendrickson-Miller vs 7-Ford-Morris-Lent
+        490    0.00   9.00 6-Miller-Vulcan vs 6-Zhang-Zheng
+        400    6.50   2.50 7-Grill-Lakshmanan vs 9-Cole-Rabinovitch
+        430    3.00   6.00 8-Mohrman-Kasperkiewicz vs 1-Eng-Sieg
+        150    9.00   0.00 9-Romeo-Bunin vs 3-Carlson-Rigazio
+        430    3.00   6.00 10-Falls-Baker-Harvey vs 5-Frisbie-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    5.50   3.50 1-Ring-Christensen vs 7-Ford-Morris-Lent
+        140    5.50   3.50 2-Vona-Hamilton vs 9-Cole-Rabinovitch
+        170    1.00   8.00 3-Chaunal-Chaunal vs 1-Eng-Sieg
+        140    5.50   3.50 4-Zaugg-Diaconescu vs 3-Carlson-Rigazio
+        140    5.50   3.50 5-Hendrickson-Miller vs 5-Frisbie-Tipton
+        170    1.00   8.00 6-Miller-Vulcan vs 8-Kasperkiewicz-Gulley
+  100          9.00   0.00 7-Grill-Lakshmanan vs 10-Gaffney-Sorenson
+        140    5.50   3.50 8-Mohrman-Kasperkiewicz vs 2-Sivapragasam-Binney
+        140    5.50   3.50 9-Romeo-Bunin vs 4-Christie-Galer
+        170    1.00   8.00 10-Falls-Baker-Harvey vs 6-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  920          8.00   1.00 1-Ring-Christensen vs 7-Ford-Morris-Lent
+  440          5.00   4.00 2-Vona-Hamilton vs 9-Cole-Rabinovitch
+  440          5.00   4.00 3-Chaunal-Chaunal vs 1-Eng-Sieg
+  920          8.00   1.00 4-Zaugg-Diaconescu vs 3-Carlson-Rigazio
+  420          2.50   6.50 5-Hendrickson-Miller vs 5-Frisbie-Tipton
+  920          8.00   1.00 6-Miller-Vulcan vs 8-Kasperkiewicz-Gulley
+  300          0.50   8.50 7-Grill-Lakshmanan vs 10-Gaffney-Sorenson
+  440          5.00   4.00 8-Mohrman-Kasperkiewicz vs 2-Sivapragasam-Binney
+  420          2.50   6.50 9-Romeo-Bunin vs 4-Christie-Galer
+  300          0.50   8.50 10-Falls-Baker-Harvey vs 6-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          8.00   1.00 1-Ring-Christensen vs 7-Ford-Morris-Lent
+  150          5.00   4.00 2-Vona-Hamilton vs 9-Cole-Rabinovitch
+  150          5.00   4.00 3-Chaunal-Chaunal vs 1-Eng-Sieg
+  150          5.00   4.00 4-Zaugg-Diaconescu vs 3-Carlson-Rigazio
+  120          2.00   7.00 5-Hendrickson-Miller vs 5-Frisbie-Tipton
+  630          9.00   0.00 6-Miller-Vulcan vs 8-Kasperkiewicz-Gulley
+  150          5.00   4.00 7-Grill-Lakshmanan vs 10-Gaffney-Sorenson
+        200    0.50   8.50 8-Mohrman-Kasperkiewicz vs 2-Sivapragasam-Binney
+        200    0.50   8.50 9-Romeo-Bunin vs 4-Christie-Galer
+  150          5.00   4.00 10-Falls-Baker-Harvey vs 6-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   8.00 1-Ring-Christensen vs 6-Zhang-Zheng
+  500          8.00   1.00 2-Vona-Hamilton vs 8-Kasperkiewicz-Gulley
+  420          5.50   3.50 3-Chaunal-Chaunal vs 10-Gaffney-Sorenson
+  420          5.50   3.50 4-Zaugg-Diaconescu vs 2-Sivapragasam-Binney
+  200          3.50   5.50 5-Hendrickson-Miller vs 4-Christie-Galer
+  450          7.00   2.00 6-Miller-Vulcan vs 9-Cole-Rabinovitch
+  590          9.00   0.00 7-Grill-Lakshmanan vs 1-Eng-Sieg
+  200          3.50   5.50 8-Mohrman-Kasperkiewicz vs 3-Carlson-Rigazio
+  170          2.00   7.00 9-Romeo-Bunin vs 5-Frisbie-Tipton
+        100    0.00   9.00 10-Falls-Baker-Harvey vs 7-Ford-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.50   7.50 1-Ring-Christensen vs 6-Zhang-Zheng
+  450          1.50   7.50 2-Vona-Hamilton vs 8-Kasperkiewicz-Gulley
+  990          7.50   1.50 3-Chaunal-Chaunal vs 10-Gaffney-Sorenson
+  990          7.50   1.50 4-Zaugg-Diaconescu vs 2-Sivapragasam-Binney
+  990          7.50   1.50 5-Hendrickson-Miller vs 4-Christie-Galer
+  980          4.00   5.00 6-Miller-Vulcan vs 9-Cole-Rabinovitch
+  980          4.00   5.00 7-Grill-Lakshmanan vs 1-Eng-Sieg
+  990          7.50   1.50 8-Mohrman-Kasperkiewicz vs 3-Carlson-Rigazio
+  240          0.00   9.00 9-Romeo-Bunin vs 5-Frisbie-Tipton
+  980          4.00   5.00 10-Falls-Baker-Harvey vs 7-Ford-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   6.50 1-Ring-Christensen vs 6-Zhang-Zheng
+        420    6.00   3.00 2-Vona-Hamilton vs 8-Kasperkiewicz-Gulley
+   50          9.00   0.00 3-Chaunal-Chaunal vs 10-Gaffney-Sorenson
+        420    6.00   3.00 4-Zaugg-Diaconescu vs 2-Sivapragasam-Binney
+        400    8.00   1.00 5-Hendrickson-Miller vs 4-Christie-Galer
+        420    6.00   3.00 6-Miller-Vulcan vs 9-Cole-Rabinovitch
+        450    2.50   6.50 7-Grill-Lakshmanan vs 1-Eng-Sieg
+        450    2.50   6.50 8-Mohrman-Kasperkiewicz vs 3-Carlson-Rigazio
+        450    2.50   6.50 9-Romeo-Bunin vs 5-Frisbie-Tipton
+        460    0.00   9.00 10-Falls-Baker-Harvey vs 7-Ford-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          7.00   2.00 1-Ring-Christensen vs 5-Frisbie-Tipton
+         90    0.00   9.00 2-Vona-Hamilton vs 7-Ford-Morris-Lent
+         50    1.00   8.00 3-Chaunal-Chaunal vs 9-Cole-Rabinovitch
+   90          4.00   5.00 4-Zaugg-Diaconescu vs 1-Eng-Sieg
+   90          4.00   5.00 5-Hendrickson-Miller vs 3-Carlson-Rigazio
+  120          7.00   2.00 6-Miller-Vulcan vs 10-Gaffney-Sorenson
+   80          2.00   7.00 7-Grill-Lakshmanan vs 2-Sivapragasam-Binney
+  120          7.00   2.00 8-Mohrman-Kasperkiewicz vs 4-Christie-Galer
+   90          4.00   5.00 9-Romeo-Bunin vs 6-Zhang-Zheng
+  150          9.00   0.00 10-Falls-Baker-Harvey vs 8-Kasperkiewicz-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          8.00   1.00 1-Ring-Christensen vs 5-Frisbie-Tipton
+        100    3.50   5.50 2-Vona-Hamilton vs 7-Ford-Morris-Lent
+  110          8.00   1.00 3-Chaunal-Chaunal vs 9-Cole-Rabinovitch
+  100          5.50   3.50 4-Zaugg-Diaconescu vs 1-Eng-Sieg
+  110          8.00   1.00 5-Hendrickson-Miller vs 3-Carlson-Rigazio
+        200    1.50   7.50 6-Miller-Vulcan vs 10-Gaffney-Sorenson
+        100    3.50   5.50 7-Grill-Lakshmanan vs 2-Sivapragasam-Binney
+        200    1.50   7.50 8-Mohrman-Kasperkiewicz vs 4-Christie-Galer
+  100          5.50   3.50 9-Romeo-Bunin vs 6-Zhang-Zheng
+        300    0.00   9.00 10-Falls-Baker-Harvey vs 8-Kasperkiewicz-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          8.50   0.50 1-Ring-Christensen vs 5-Frisbie-Tipton
+        420    1.00   8.00 2-Vona-Hamilton vs 7-Ford-Morris-Lent
+        170    4.00   5.00 3-Chaunal-Chaunal vs 9-Cole-Rabinovitch
+        170    4.00   5.00 4-Zaugg-Diaconescu vs 1-Eng-Sieg
+        140    6.00   3.00 5-Hendrickson-Miller vs 3-Carlson-Rigazio
+        420    1.00   8.00 6-Miller-Vulcan vs 10-Gaffney-Sorenson
+        130    7.00   2.00 7-Grill-Lakshmanan vs 2-Sivapragasam-Binney
+        420    1.00   8.00 8-Mohrman-Kasperkiewicz vs 4-Christie-Galer
+   50          8.50   0.50 9-Romeo-Bunin vs 6-Zhang-Zheng
+        170    4.00   5.00 10-Falls-Baker-Harvey vs 8-Kasperkiewicz-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   5.00 1-Ring-Christensen vs 4-Christie-Galer
+  100          8.00   1.00 2-Vona-Hamilton vs 6-Zhang-Zheng
+   90          6.50   2.50 3-Chaunal-Chaunal vs 8-Kasperkiewicz-Gulley
+  200          9.00   0.00 4-Zaugg-Diaconescu vs 10-Gaffney-Sorenson
+   90          6.50   2.50 5-Hendrickson-Miller vs 2-Sivapragasam-Binney
+         50    4.00   5.00 6-Miller-Vulcan vs 1-Eng-Sieg
+        100    1.50   7.50 7-Grill-Lakshmanan vs 3-Carlson-Rigazio
+         50    4.00   5.00 8-Mohrman-Kasperkiewicz vs 5-Frisbie-Tipton
+       1070    0.00   9.00 9-Romeo-Bunin vs 7-Ford-Morris-Lent
+        100    1.50   7.50 10-Falls-Baker-Harvey vs 9-Cole-Rabinovitch
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   9.00 1-Ring-Christensen vs 4-Christie-Galer
+  150          8.50   0.50 2-Vona-Hamilton vs 6-Zhang-Zheng
+        100    5.50   3.50 3-Chaunal-Chaunal vs 8-Kasperkiewicz-Gulley
+  110          7.00   2.00 4-Zaugg-Diaconescu vs 10-Gaffney-Sorenson
+        110    3.00   6.00 5-Hendrickson-Miller vs 2-Sivapragasam-Binney
+        140    1.00   8.00 6-Miller-Vulcan vs 1-Eng-Sieg
+        110    3.00   6.00 7-Grill-Lakshmanan vs 3-Carlson-Rigazio
+        100    5.50   3.50 8-Mohrman-Kasperkiewicz vs 5-Frisbie-Tipton
+  150          8.50   0.50 9-Romeo-Bunin vs 7-Ford-Morris-Lent
+        110    3.00   6.00 10-Falls-Baker-Harvey vs 9-Cole-Rabinovitch
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.00   4.00 1-Ring-Christensen vs 4-Christie-Galer
+        100    0.50   8.50 2-Vona-Hamilton vs 6-Zhang-Zheng
+  460          9.00   0.00 3-Chaunal-Chaunal vs 8-Kasperkiewicz-Gulley
+  120          6.50   2.50 4-Zaugg-Diaconescu vs 10-Gaffney-Sorenson
+         50    3.00   6.00 5-Hendrickson-Miller vs 2-Sivapragasam-Binney
+        100    0.50   8.50 6-Miller-Vulcan vs 1-Eng-Sieg
+  120          6.50   2.50 7-Grill-Lakshmanan vs 3-Carlson-Rigazio
+         50    3.00   6.00 8-Mohrman-Kasperkiewicz vs 5-Frisbie-Tipton
+         50    3.00   6.00 9-Romeo-Bunin vs 7-Ford-Morris-Lent
+  400          8.00   1.00 10-Falls-Baker-Harvey vs 9-Cole-Rabinovitch
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    5.50   3.50 1-Ring-Christensen vs 3-Carlson-Rigazio
+        140    2.00   7.00 2-Vona-Hamilton vs 5-Frisbie-Tipton
+         90    5.50   3.50 3-Chaunal-Chaunal vs 7-Ford-Morris-Lent
+  110          8.00   1.00 4-Zaugg-Diaconescu vs 9-Cole-Rabinovitch
+  530          9.00   0.00 5-Hendrickson-Miller vs 1-Eng-Sieg
+  100          7.00   2.00 6-Miller-Vulcan vs 2-Sivapragasam-Binney
+        140    2.00   7.00 7-Grill-Lakshmanan vs 4-Christie-Galer
+        140    2.00   7.00 8-Mohrman-Kasperkiewicz vs 6-Zhang-Zheng
+        140    2.00   7.00 9-Romeo-Bunin vs 8-Kasperkiewicz-Gulley
+        140    2.00   7.00 10-Falls-Baker-Harvey vs 10-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          7.50   1.50 1-Ring-Christensen vs 3-Carlson-Rigazio
+        110    2.00   7.00 2-Vona-Hamilton vs 5-Frisbie-Tipton
+  120          4.50   4.50 3-Chaunal-Chaunal vs 7-Ford-Morris-Lent
+  630          9.00   0.00 4-Zaugg-Diaconescu vs 9-Cole-Rabinovitch
+        300    1.00   8.00 5-Hendrickson-Miller vs 1-Eng-Sieg
+  180          6.00   3.00 6-Miller-Vulcan vs 2-Sivapragasam-Binney
+        670    0.00   9.00 7-Grill-Lakshmanan vs 4-Christie-Galer
+  600          7.50   1.50 8-Mohrman-Kasperkiewicz vs 6-Zhang-Zheng
+        100    3.00   6.00 9-Romeo-Bunin vs 8-Kasperkiewicz-Gulley
+  120          4.50   4.50 10-Falls-Baker-Harvey vs 10-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.50   3.50 1-Ring-Christensen vs 3-Carlson-Rigazio
+  150          4.00   5.00 2-Vona-Hamilton vs 5-Frisbie-Tipton
+        100    0.50   8.50 3-Chaunal-Chaunal vs 7-Ford-Morris-Lent
+  430          7.50   1.50 4-Zaugg-Diaconescu vs 9-Cole-Rabinovitch
+         50    2.50   6.50 5-Hendrickson-Miller vs 1-Eng-Sieg
+  420          5.50   3.50 6-Miller-Vulcan vs 2-Sivapragasam-Binney
+        100    0.50   8.50 7-Grill-Lakshmanan vs 4-Christie-Galer
+         50    2.50   6.50 8-Mohrman-Kasperkiewicz vs 6-Zhang-Zheng
+  430          7.50   1.50 9-Romeo-Bunin vs 8-Kasperkiewicz-Gulley
+  800          9.00   0.00 10-Falls-Baker-Harvey vs 10-Gaffney-Sorenson
+----------------------------------------------------------------------
