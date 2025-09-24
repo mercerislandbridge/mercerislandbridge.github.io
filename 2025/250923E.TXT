@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 23, 2025 |CLUB NO.>158048    | 09/23/2025 22:00
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2400/1300 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=6/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Shannon Kasperkiewicz  Nathan Kasperkiewicz     C    .     .     .     52.50  43.75          
+
+ 2 Adam Ruprecht          Christopher Jarvis       B    2     2     .     75.50  62.92  0.91(A) 
+
+ 3 Brian Zaugg            Mike Ring                A    5     .     .     62.00  51.67  0.26(A) 
+
+ 4 Hugh Hendrickson       Laura Miller             B    .     .     .     50.00  41.67          
+
+ 5 Dion Sorenson          Matt Gaffney             C    .     .     .     50.50  42.08          
+
+ 6 Chris Morris-Lent      Muhunthan Sivapragasam   C    1     1     1     80.50  67.08  1.30(A) 
+
+ 7 Stanford Christie      Ann Romeo                A    .     .     .     60.00  50.00          
+
+ 8 Paul Schwaighart       Brad Rind                A    4     .     .     67.00  55.83  0.46(A) 
+
+ 9 Elaine Vona            James Hamilton           B    .     .     .     43.00  35.83          
+
+10 Kim Eng                Jeffrey Ford             A    .     .     .     60.00  50.00          
+
+11 Ray Miller             Aaron Mohrman            A    .     .     .     56.00  46.67          
+
+
+
+13 Mike Christensen       Becky Stevens            A    3     .     .     67.50  56.25  0.65(A) 
+
+14 Arvind Ranasaria       Rajendra Gokhale         A    .     .     .     55.50  46.25          
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.50   3.50 1-Kasperkiewicz-Kasperkiewicz vs 3-Zaugg-Ring
+  100          3.50   1.50 2-Ruprecht-Jarvis vs 6-Morris-Lent-Sivapragasam
+   50          1.50   3.50 4-Hendrickson-Miller vs 9-Vona-Hamilton
+        420    0.00   5.00 7-Christie-Romeo vs 8-Schwaighart-Rind
+  100          3.50   1.50 13-Christensen-Stevens vs 10-Eng-Ford
+  150          5.00   0.00 14-Ranasaria-Gokhale vs 11-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.00   3.00 1-Kasperkiewicz-Kasperkiewicz vs 3-Zaugg-Ring
+        420    2.00   3.00 2-Ruprecht-Jarvis vs 6-Morris-Lent-Sivapragasam
+   50          5.00   0.00 4-Hendrickson-Miller vs 9-Vona-Hamilton
+        420    2.00   3.00 7-Christie-Romeo vs 8-Schwaighart-Rind
+        420    2.00   3.00 13-Christensen-Stevens vs 10-Eng-Ford
+        420    2.00   3.00 14-Ranasaria-Gokhale vs 11-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.00   5.00 1-Kasperkiewicz-Kasperkiewicz vs 11-Miller-Mohrman
+  120          5.00   0.00 2-Ruprecht-Jarvis vs 4-Hendrickson-Miller
+   70          4.00   1.00 3-Zaugg-Ring vs 7-Christie-Romeo
+         50    2.00   3.00 5-Sorenson-Gaffney vs 10-Eng-Ford
+         50    2.00   3.00 6-Morris-Lent-Sivapragasam vs 13-Christensen-Stevens
+         50    2.00   3.00 8-Schwaighart-Rind vs 9-Vona-Hamilton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   2.00 1-Kasperkiewicz-Kasperkiewicz vs 11-Miller-Mohrman
+        130    2.00   3.00 2-Ruprecht-Jarvis vs 4-Hendrickson-Miller
+        600    1.00   4.00 3-Zaugg-Ring vs 7-Christie-Romeo
+        660    0.00   5.00 5-Sorenson-Gaffney vs 10-Eng-Ford
+  100          4.00   1.00 6-Morris-Lent-Sivapragasam vs 13-Christensen-Stevens
+  300          5.00   0.00 8-Schwaighart-Rind vs 9-Vona-Hamilton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.00   1.00 3-Zaugg-Ring vs 5-Sorenson-Gaffney
+        200    0.00   5.00 4-Hendrickson-Miller vs 8-Schwaighart-Rind
+  300          5.00   0.00 6-Morris-Lent-Sivapragasam vs 11-Miller-Mohrman
+  100          2.50   2.50 7-Christie-Romeo vs 1-Kasperkiewicz-Kasperkiewicz
+        100    1.00   4.00 9-Vona-Hamilton vs 10-Eng-Ford
+  100          2.50   2.50 14-Ranasaria-Gokhale vs 13-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   0.50 3-Zaugg-Ring vs 5-Sorenson-Gaffney
+        300    2.00   3.00 4-Hendrickson-Miller vs 8-Schwaighart-Rind
+        500    1.00   4.00 6-Morris-Lent-Sivapragasam vs 11-Miller-Mohrman
+  200          4.50   0.50 7-Christie-Romeo vs 1-Kasperkiewicz-Kasperkiewicz
+        200    3.00   2.00 9-Vona-Hamilton vs 10-Eng-Ford
+        620    0.00   5.00 14-Ranasaria-Gokhale vs 13-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   4.50 3-Zaugg-Ring vs 13-Christensen-Stevens
+  120          3.50   1.50 4-Hendrickson-Miller vs 6-Morris-Lent-Sivapragasam
+  600          5.00   0.00 5-Sorenson-Gaffney vs 9-Vona-Hamilton
+   90          2.00   3.00 8-Schwaighart-Rind vs 2-Ruprecht-Jarvis
+  120          3.50   1.50 10-Eng-Ford vs 11-Miller-Mohrman
+        100    0.50   4.50 14-Ranasaria-Gokhale vs 1-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.50   2.50 3-Zaugg-Ring vs 13-Christensen-Stevens
+  430          2.50   2.50 4-Hendrickson-Miller vs 6-Morris-Lent-Sivapragasam
+  400          0.00   5.00 5-Sorenson-Gaffney vs 9-Vona-Hamilton
+  430          2.50   2.50 8-Schwaighart-Rind vs 2-Ruprecht-Jarvis
+  430          2.50   2.50 10-Eng-Ford vs 11-Miller-Mohrman
+  460          5.00   0.00 14-Ranasaria-Gokhale vs 1-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   2.50 4-Hendrickson-Miller vs 1-Kasperkiewicz-Kasperkiewicz
+         50    2.50   2.50 5-Sorenson-Gaffney vs 7-Christie-Romeo
+  200          5.00   0.00 6-Morris-Lent-Sivapragasam vs 10-Eng-Ford
+         50    2.50   2.50 8-Schwaighart-Rind vs 13-Christensen-Stevens
+         50    2.50   2.50 9-Vona-Hamilton vs 3-Zaugg-Ring
+        100    0.00   5.00 14-Ranasaria-Gokhale vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   3.50 4-Hendrickson-Miller vs 1-Kasperkiewicz-Kasperkiewicz
+  100          3.00   2.00 5-Sorenson-Gaffney vs 7-Christie-Romeo
+  200          4.50   0.50 6-Morris-Lent-Sivapragasam vs 10-Eng-Ford
+  200          4.50   0.50 8-Schwaighart-Rind vs 13-Christensen-Stevens
+        110    0.00   5.00 9-Vona-Hamilton vs 3-Zaugg-Ring
+        100    1.50   3.50 14-Ranasaria-Gokhale vs 2-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   5.00 5-Sorenson-Gaffney vs 2-Ruprecht-Jarvis
+        100    5.00   0.00 6-Morris-Lent-Sivapragasam vs 8-Schwaighart-Rind
+        150    3.00   2.00 7-Christie-Romeo vs 11-Miller-Mohrman
+        180    1.00   4.00 9-Vona-Hamilton vs 1-Kasperkiewicz-Kasperkiewicz
+        140    4.00   1.00 10-Eng-Ford vs 4-Hendrickson-Miller
+        170    2.00   3.00 14-Ranasaria-Gokhale vs 3-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.00   3.00 5-Sorenson-Gaffney vs 2-Ruprecht-Jarvis
+  630          4.50   0.50 6-Morris-Lent-Sivapragasam vs 8-Schwaighart-Rind
+  620          2.00   3.00 7-Christie-Romeo vs 11-Miller-Mohrman
+  630          4.50   0.50 9-Vona-Hamilton vs 1-Kasperkiewicz-Kasperkiewicz
+  620          2.00   3.00 10-Eng-Ford vs 4-Hendrickson-Miller
+  110          0.00   5.00 14-Ranasaria-Gokhale vs 3-Zaugg-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.50   1.50 6-Morris-Lent-Sivapragasam vs 3-Zaugg-Ring
+  110          3.50   1.50 7-Christie-Romeo vs 9-Vona-Hamilton
+  110          3.50   1.50 10-Eng-Ford vs 2-Ruprecht-Jarvis
+  110          3.50   1.50 11-Miller-Mohrman vs 5-Sorenson-Gaffney
+        110    0.50   4.50 13-Christensen-Stevens vs 1-Kasperkiewicz-Kasperkiewi
+        110    0.50   4.50 14-Ranasaria-Gokhale vs 4-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.00   1.00 6-Morris-Lent-Sivapragasam vs 3-Zaugg-Ring
+  430          5.00   0.00 7-Christie-Romeo vs 9-Vona-Hamilton
+  170          1.50   3.50 10-Eng-Ford vs 2-Ruprecht-Jarvis
+  170          1.50   3.50 11-Miller-Mohrman vs 5-Sorenson-Gaffney
+        100    0.00   5.00 13-Christensen-Stevens vs 1-Kasperkiewicz-Kasperkiewi
+  400          3.00   2.00 14-Ranasaria-Gokhale vs 4-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   2.00 1-Kasperkiewicz-Kasperkiewicz vs 2-Ruprecht-Jarvis
+  140          3.00   2.00 7-Christie-Romeo vs 4-Hendrickson-Miller
+   50          1.00   4.00 8-Schwaighart-Rind vs 10-Eng-Ford
+  140          3.00   2.00 9-Vona-Hamilton vs 13-Christensen-Stevens
+  500          5.00   0.00 11-Miller-Mohrman vs 3-Zaugg-Ring
+        200    0.00   5.00 14-Ranasaria-Gokhale vs 5-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   3.00 1-Kasperkiewicz-Kasperkiewicz vs 2-Ruprecht-Jarvis
+        170    3.50   1.50 7-Christie-Romeo vs 4-Hendrickson-Miller
+        170    3.50   1.50 8-Schwaighart-Rind vs 10-Eng-Ford
+        650    0.50   4.50 9-Vona-Hamilton vs 13-Christensen-Stevens
+        650    0.50   4.50 11-Miller-Mohrman vs 3-Zaugg-Ring
+  100          5.00   0.00 14-Ranasaria-Gokhale vs 5-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          3.00   2.00 2-Ruprecht-Jarvis vs 3-Zaugg-Ring
+  150          1.00   4.00 8-Schwaighart-Rind vs 5-Sorenson-Gaffney
+  430          4.50   0.50 9-Vona-Hamilton vs 11-Miller-Mohrman
+         50    0.00   5.00 10-Eng-Ford vs 1-Kasperkiewicz-Kasperkiewicz
+  430          4.50   0.50 13-Christensen-Stevens vs 7-Christie-Romeo
+  170          2.00   3.00 14-Ranasaria-Gokhale vs 6-Morris-Lent-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   0.50 2-Ruprecht-Jarvis vs 3-Zaugg-Ring
+  100          4.50   0.50 8-Schwaighart-Rind vs 5-Sorenson-Gaffney
+        430    0.50   4.50 9-Vona-Hamilton vs 11-Miller-Mohrman
+        400    2.00   3.00 10-Eng-Ford vs 1-Kasperkiewicz-Kasperkiewicz
+        430    0.50   4.50 13-Christensen-Stevens vs 7-Christie-Romeo
+   50          3.00   2.00 14-Ranasaria-Gokhale vs 6-Morris-Lent-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   4.00 1-Kasperkiewicz-Kasperkiewicz vs 8-Schwaighart-Rind
+  100          4.50   0.50 3-Zaugg-Ring vs 4-Hendrickson-Miller
+        600    2.00   3.00 9-Vona-Hamilton vs 6-Morris-Lent-Sivapragasam
+        630    0.00   5.00 11-Miller-Mohrman vs 2-Ruprecht-Jarvis
+  100          4.50   0.50 13-Christensen-Stevens vs 5-Sorenson-Gaffney
+        140    3.00   2.00 14-Ranasaria-Gokhale vs 7-Christie-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   4.00 1-Kasperkiewicz-Kasperkiewicz vs 8-Schwaighart-Rind
+  200          4.00   1.00 3-Zaugg-Ring vs 4-Hendrickson-Miller
+  100          1.00   4.00 9-Vona-Hamilton vs 6-Morris-Lent-Sivapragasam
+  200          4.00   1.00 11-Miller-Mohrman vs 2-Ruprecht-Jarvis
+  200          4.00   1.00 13-Christensen-Stevens vs 5-Sorenson-Gaffney
+  100          1.00   4.00 14-Ranasaria-Gokhale vs 7-Christie-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   3.00 1-Kasperkiewicz-Kasperkiewicz vs 6-Morris-Lent-Sivapr
+  120          4.50   0.50 2-Ruprecht-Jarvis vs 9-Vona-Hamilton
+        100    2.00   3.00 4-Hendrickson-Miller vs 5-Sorenson-Gaffney
+        100    2.00   3.00 10-Eng-Ford vs 7-Christie-Romeo
+        200    0.00   5.00 11-Miller-Mohrman vs 13-Christensen-Stevens
+  120          4.50   0.50 14-Ranasaria-Gokhale vs 8-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   5.00 1-Kasperkiewicz-Kasperkiewicz vs 6-Morris-Lent-Sivapr
+  200          3.50   1.50 2-Ruprecht-Jarvis vs 9-Vona-Hamilton
+        110    1.00   4.00 4-Hendrickson-Miller vs 5-Sorenson-Gaffney
+  200          3.50   1.50 10-Eng-Ford vs 7-Christie-Romeo
+  200          3.50   1.50 11-Miller-Mohrman vs 13-Christensen-Stevens
+  200          3.50   1.50 14-Ranasaria-Gokhale vs 8-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    2.50   2.50 2-Ruprecht-Jarvis vs 7-Christie-Romeo
+        680    2.50   2.50 3-Zaugg-Ring vs 10-Eng-Ford
+        680    2.50   2.50 5-Sorenson-Gaffney vs 6-Morris-Lent-Sivapragasam
+        680    2.50   2.50 11-Miller-Mohrman vs 8-Schwaighart-Rind
+        680    2.50   2.50 13-Christensen-Stevens vs 4-Hendrickson-Miller
+        680    2.50   2.50 14-Ranasaria-Gokhale vs 9-Vona-Hamilton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    5.00   0.00 2-Ruprecht-Jarvis vs 7-Christie-Romeo
+        980    0.50   4.50 3-Zaugg-Ring vs 10-Eng-Ford
+        980    0.50   4.50 5-Sorenson-Gaffney vs 6-Morris-Lent-Sivapragasam
+        480    3.00   2.00 11-Miller-Mohrman vs 8-Schwaighart-Rind
+        480    3.00   2.00 13-Christensen-Stevens vs 4-Hendrickson-Miller
+        480    3.00   2.00 14-Ranasaria-Gokhale vs 9-Vona-Hamilton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   5.00 1-Kasperkiewicz-Kasperkiewicz vs 5-Sorenson-Gaffney
+  110          2.50   2.50 3-Zaugg-Ring vs 8-Schwaighart-Rind
+  110          2.50   2.50 4-Hendrickson-Miller vs 11-Miller-Mohrman
+  180          5.00   0.00 6-Morris-Lent-Sivapragasam vs 7-Christie-Romeo
+  170          4.00   1.00 13-Christensen-Stevens vs 2-Ruprecht-Jarvis
+  100          1.00   4.00 14-Ranasaria-Gokhale vs 10-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   3.50 1-Kasperkiewicz-Kasperkiewicz vs 5-Sorenson-Gaffney
+        200    0.00   5.00 3-Zaugg-Ring vs 8-Schwaighart-Rind
+  140          3.00   2.00 4-Hendrickson-Miller vs 11-Miller-Mohrman
+        100    1.50   3.50 6-Morris-Lent-Sivapragasam vs 7-Christie-Romeo
+  200          4.00   1.00 13-Christensen-Stevens vs 2-Ruprecht-Jarvis
+  620          5.00   0.00 14-Ranasaria-Gokhale vs 10-Eng-Ford
+----------------------------------------------------------------------
