@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>October 14, 2025   |CLUB NO.>158048    | 10/14/2025 22:00
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Tom Carmichael         Joseph Grill             A    1     .     .    103.02  54.51  0.90(A) 
+
+ 2 Fan Zhang              Min Zheng                B    .     2     .     98.66  52.20  0.28(B) 
+
+ 3 Corneliu Galer         Chris Morris-Lent        C    .     .     .     82.36  43.58          
+
+ 4 Ray Miller             Ann Romeo                A    .     .     .     75.30  39.84          
+
+ 5 Oyvind Tafjord         Brian Zaugg              B    4     1     .    100.13  52.98  0.40(B) 
+
+ 6 Rui Gong               Zhenzhong Guo            B    .     .     .     96.67  51.15          
+
+ 7 Jeffrey Ford           Bogdan Vulcan            A    2     .     .    101.49  53.70  0.63(A) 
+
+ 8 Elaine Vona            James Hamilton           C    .     .     .     92.73  49.06          
+
+ 9 Mike Ring              Mike Christensen         A    3     .     .    100.92  53.40  0.45(A) 
+
+
+                                          Totals                         851.28       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>October 14, 2025   |CLUB NO.>158048    | 10/14/2025 22:00
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=4/C=1                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Jenni Carmichael         A    4     .     .     96.29  50.95  0.32(A) 
+
+ 2 Muhunthan Sivapragasam David Taylor             B    .     .     .     77.07  40.78          
+
+ 3 Shannon Kasperkiewicz  Nathan Kasperkiewicz     C    .     .     .     64.07  33.90          
+
+ 4 David Wright           Shawn Abernethy          B    1     1     .    129.29  68.41  0.90(A) 
+
+
+
+ 6 Aaron Mohrman          Matthew Weingarten       A    2     .     .    105.43  55.78  0.63(A) 
+
+ 7 Miles Ohlrich          Steven Campau            B    .     2     .     94.07  49.77  0.22(B) 
+
+ 8 Genie Thai-May         Jim Rasmussen            A    3     .     .     97.30  51.48  0.45(A) 
+
+ 9 Paul Schwaighart       Brad Rind                A    .     .     .     91.79  48.57          
+
+
+                                          Totals                         755.31       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   6.00 1-Carmichael-Grill vs 1-Delfs-Carmichael
+        130    2.50   4.50 2-Zhang-Zheng vs 3-Kasperkiewicz-Kasperkiewicz
+        130    2.50   4.50 4-Miller-Romeo vs 7-Ohlrich-Campau
+   50          7.00   0.00 5-Tafjord-Zaugg vs 9-Schwaighart-Rind
+        100    5.00   2.00 6-Gong-Guo vs 2-Sivapragasam-Taylor
+         50    6.00   1.00 7-Ford-Vulcan vs 4-Wright-Abernethy
+        120    4.00   3.00 8-Vona-Hamilton vs 6-Mohrman-Weingarten
+        430    0.00   7.00 9-Ring-Christensen vs 8-Thai-May-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   5.50 1-Carmichael-Grill vs 1-Delfs-Carmichael
+  870          7.00   0.00 2-Zhang-Zheng vs 3-Kasperkiewicz-Kasperkiewicz
+   50          4.50   2.50 4-Miller-Romeo vs 7-Ohlrich-Campau
+   50          4.50   2.50 5-Tafjord-Zaugg vs 9-Schwaighart-Rind
+   50          4.50   2.50 6-Gong-Guo vs 2-Sivapragasam-Taylor
+        420    1.50   5.50 7-Ford-Vulcan vs 4-Wright-Abernethy
+        500    0.00   7.00 8-Vona-Hamilton vs 6-Mohrman-Weingarten
+   50          4.50   2.50 9-Ring-Christensen vs 8-Thai-May-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   2.00 1-Carmichael-Grill vs 1-Delfs-Carmichael
+  500          7.00   0.00 2-Zhang-Zheng vs 3-Kasperkiewicz-Kasperkiewicz
+        140    2.50   4.50 4-Miller-Romeo vs 7-Ohlrich-Campau
+        630    0.00   7.00 5-Tafjord-Zaugg vs 9-Schwaighart-Rind
+  200          6.00   1.00 6-Gong-Guo vs 2-Sivapragasam-Taylor
+        200    1.00   6.00 7-Ford-Vulcan vs 4-Wright-Abernethy
+        140    2.50   4.50 8-Vona-Hamilton vs 6-Mohrman-Weingarten
+        110    4.00   3.00 9-Ring-Christensen vs 8-Thai-May-Rasmussen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    2.50   4.50 1-Carmichael-Grill vs 9-Schwaighart-Rind
+  300          7.00   0.00 2-Zhang-Zheng vs 2-Sivapragasam-Taylor
+        200    0.00   7.00 3-Galer-Morris-Lent vs 4-Wright-Abernethy
+         90    2.50   4.50 4-Miller-Romeo vs 6-Mohrman-Weingarten
+  100          5.00   2.00 5-Tafjord-Zaugg vs 8-Thai-May-Rasmussen
+  100          5.00   2.00 6-Gong-Guo vs 1-Delfs-Carmichael
+        100    1.00   6.00 7-Ford-Vulcan vs 3-Kasperkiewicz-Kasperkiewicz
+  100          5.00   2.00 9-Ring-Christensen vs 7-Ohlrich-Campau
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.50   1.50 1-Carmichael-Grill vs 9-Schwaighart-Rind
+  150          5.50   1.50 2-Zhang-Zheng vs 2-Sivapragasam-Taylor
+        200    0.50   6.50 3-Galer-Morris-Lent vs 4-Wright-Abernethy
+        200    0.50   6.50 4-Miller-Romeo vs 6-Mohrman-Weingarten
+  150          5.50   1.50 5-Tafjord-Zaugg vs 8-Thai-May-Rasmussen
+  120          3.00   4.00 6-Gong-Guo vs 1-Delfs-Carmichael
+        100    2.00   5.00 7-Ford-Vulcan vs 3-Kasperkiewicz-Kasperkiewicz
+  150          5.50   1.50 9-Ring-Christensen vs 7-Ohlrich-Campau
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.50   0.50 1-Carmichael-Grill vs 9-Schwaighart-Rind
+         90    3.50   3.50 2-Zhang-Zheng vs 2-Sivapragasam-Taylor
+        670    0.00   7.00 3-Galer-Morris-Lent vs 4-Wright-Abernethy
+  100          5.00   2.00 4-Miller-Romeo vs 6-Mohrman-Weingarten
+         90    3.50   3.50 5-Tafjord-Zaugg vs 8-Thai-May-Rasmussen
+        110    2.00   5.00 6-Gong-Guo vs 1-Delfs-Carmichael
+  200          6.50   0.50 7-Ford-Vulcan vs 3-Kasperkiewicz-Kasperkiewicz
+        120    1.00   6.00 9-Ring-Christensen vs 7-Ohlrich-Campau
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          7.00   0.00 1-Carmichael-Grill vs 8-Thai-May-Rasmussen
+        100    2.50   4.50 2-Zhang-Zheng vs 1-Delfs-Carmichael
+   70          4.00   3.00 3-Galer-Morris-Lent vs 3-Kasperkiewicz-Kasperkiewicz
+        200    0.50   6.50 5-Tafjord-Zaugg vs 7-Ohlrich-Campau
+        100    2.50   4.50 6-Gong-Guo vs 9-Schwaighart-Rind
+   90          5.50   1.50 7-Ford-Vulcan vs 2-Sivapragasam-Taylor
+        200    0.50   6.50 8-Vona-Hamilton vs 4-Wright-Abernethy
+   90          5.50   1.50 9-Ring-Christensen vs 6-Mohrman-Weingarten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    6.50   0.50 1-Carmichael-Grill vs 8-Thai-May-Rasmussen
+        430    2.00   5.00 2-Zhang-Zheng vs 1-Delfs-Carmichael
+        500    0.00   7.00 3-Galer-Morris-Lent vs 3-Kasperkiewicz-Kasperkiewicz
+        430    2.00   5.00 5-Tafjord-Zaugg vs 7-Ohlrich-Campau
+        430    2.00   5.00 6-Gong-Guo vs 9-Schwaighart-Rind
+        400    4.00   3.00 7-Ford-Vulcan vs 2-Sivapragasam-Taylor
+        150    6.50   0.50 8-Vona-Hamilton vs 4-Wright-Abernethy
+        230    5.00   2.00 9-Ring-Christensen vs 6-Mohrman-Weingarten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   4.00 1-Carmichael-Grill vs 8-Thai-May-Rasmussen
+         50    3.00   4.00 2-Zhang-Zheng vs 1-Delfs-Carmichael
+         50    3.00   4.00 3-Galer-Morris-Lent vs 3-Kasperkiewicz-Kasperkiewicz
+         50    3.00   4.00 5-Tafjord-Zaugg vs 7-Ohlrich-Campau
+         50    3.00   4.00 6-Gong-Guo vs 9-Schwaighart-Rind
+  420          7.00   0.00 7-Ford-Vulcan vs 2-Sivapragasam-Taylor
+         50    3.00   4.00 8-Vona-Hamilton vs 4-Wright-Abernethy
+         50    3.00   4.00 9-Ring-Christensen vs 6-Mohrman-Weingarten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   2.00 1-Carmichael-Grill vs 7-Ohlrich-Campau
+        800    0.00   7.00 2-Zhang-Zheng vs 9-Schwaighart-Rind
+        100    4.00   3.00 3-Galer-Morris-Lent vs 2-Sivapragasam-Taylor
+        200    2.50   4.50 4-Miller-Romeo vs 4-Wright-Abernethy
+  110          6.00   1.00 5-Tafjord-Zaugg vs 6-Mohrman-Weingarten
+        500    1.00   6.00 6-Gong-Guo vs 8-Thai-May-Rasmussen
+        200    2.50   4.50 7-Ford-Vulcan vs 1-Delfs-Carmichael
+  130          7.00   0.00 8-Vona-Hamilton vs 3-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.50   5.50 1-Carmichael-Grill vs 7-Ohlrich-Campau
+        120    1.50   5.50 2-Zhang-Zheng vs 9-Schwaighart-Rind
+  100          7.00   0.00 3-Galer-Morris-Lent vs 2-Sivapragasam-Taylor
+        120    1.50   5.50 4-Miller-Romeo vs 4-Wright-Abernethy
+        100    4.00   3.00 5-Tafjord-Zaugg vs 6-Mohrman-Weingarten
+   50          6.00   1.00 6-Gong-Guo vs 8-Thai-May-Rasmussen
+         90    5.00   2.00 7-Ford-Vulcan vs 1-Delfs-Carmichael
+        120    1.50   5.50 8-Vona-Hamilton vs 3-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    4.00   3.00 1-Carmichael-Grill vs 7-Ohlrich-Campau
+        460    4.00   3.00 2-Zhang-Zheng vs 9-Schwaighart-Rind
+        460    4.00   3.00 3-Galer-Morris-Lent vs 2-Sivapragasam-Taylor
+        490    0.00   7.00 4-Miller-Romeo vs 4-Wright-Abernethy
+        460    4.00   3.00 5-Tafjord-Zaugg vs 6-Mohrman-Weingarten
+        460    4.00   3.00 6-Gong-Guo vs 8-Thai-May-Rasmussen
+        460    4.00   3.00 7-Ford-Vulcan vs 1-Delfs-Carmichael
+        460    4.00   3.00 8-Vona-Hamilton vs 3-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.00   4.00 1-Carmichael-Grill vs 6-Mohrman-Weingarten
+  500          6.00   1.00 2-Zhang-Zheng vs 8-Thai-May-Rasmussen
+  120          1.00   6.00 3-Galer-Morris-Lent vs 1-Delfs-Carmichael
+  150          3.00   4.00 4-Miller-Romeo vs 3-Kasperkiewicz-Kasperkiewicz
+  300          5.00   2.00 6-Gong-Guo vs 7-Ohlrich-Campau
+  150          3.00   4.00 7-Ford-Vulcan vs 9-Schwaighart-Rind
+  600          7.00   0.00 8-Vona-Hamilton vs 2-Sivapragasam-Taylor
+        200    0.00   7.00 9-Ring-Christensen vs 4-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   5.00 1-Carmichael-Grill vs 6-Mohrman-Weingarten
+        300    0.00   7.00 2-Zhang-Zheng vs 8-Thai-May-Rasmussen
+  300          6.00   1.00 3-Galer-Morris-Lent vs 1-Delfs-Carmichael
+  500          7.00   0.00 4-Miller-Romeo vs 3-Kasperkiewicz-Kasperkiewicz
+         50    4.50   2.50 6-Gong-Guo vs 7-Ohlrich-Campau
+         50    4.50   2.50 7-Ford-Vulcan vs 9-Schwaighart-Rind
+        100    2.00   5.00 8-Vona-Hamilton vs 2-Sivapragasam-Taylor
+        100    2.00   5.00 9-Ring-Christensen vs 4-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.07   6.93 1-Carmichael-Grill vs 6-Mohrman-Weingarten
+  AVE+  AVE-   4.20   2.80 2-Zhang-Zheng vs 8-Thai-May-Rasmussen
+  170          5.21   1.79 3-Galer-Morris-Lent vs 1-Delfs-Carmichael
+  500          6.93   0.07 4-Miller-Romeo vs 3-Kasperkiewicz-Kasperkiewicz
+  150          2.93   4.07 6-Gong-Guo vs 7-Ohlrich-Campau
+  170          5.21   1.79 7-Ford-Vulcan vs 9-Schwaighart-Rind
+  150          2.93   4.07 8-Vona-Hamilton vs 2-Sivapragasam-Taylor
+        100    1.21   5.79 9-Ring-Christensen vs 4-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          6.00   1.00 2-Zhang-Zheng vs 7-Ohlrich-Campau
+  110          4.50   2.50 3-Galer-Morris-Lent vs 9-Schwaighart-Rind
+  110          4.50   2.50 4-Miller-Romeo vs 2-Sivapragasam-Taylor
+         50    1.00   6.00 5-Tafjord-Zaugg vs 4-Wright-Abernethy
+         50    1.00   6.00 6-Gong-Guo vs 6-Mohrman-Weingarten
+         50    1.00   6.00 7-Ford-Vulcan vs 8-Thai-May-Rasmussen
+  100          3.00   4.00 8-Vona-Hamilton vs 1-Delfs-Carmichael
+  420          7.00   0.00 9-Ring-Christensen vs 3-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   3.50 2-Zhang-Zheng vs 7-Ohlrich-Campau
+         90    1.50   5.50 3-Galer-Morris-Lent vs 9-Schwaighart-Rind
+        250    0.00   7.00 4-Miller-Romeo vs 2-Sivapragasam-Taylor
+         90    1.50   5.50 5-Tafjord-Zaugg vs 4-Wright-Abernethy
+   50          3.50   3.50 6-Gong-Guo vs 6-Mohrman-Weingarten
+  100          5.00   2.00 7-Ford-Vulcan vs 8-Thai-May-Rasmussen
+  150          6.50   0.50 8-Vona-Hamilton vs 1-Delfs-Carmichael
+  150          6.50   0.50 9-Ring-Christensen vs 3-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    4.00   3.00 2-Zhang-Zheng vs 7-Ohlrich-Campau
+         90    6.00   1.00 3-Galer-Morris-Lent vs 9-Schwaighart-Rind
+        500    0.00   7.00 4-Miller-Romeo vs 2-Sivapragasam-Taylor
+        120    4.00   3.00 5-Tafjord-Zaugg vs 4-Wright-Abernethy
+        200    1.00   6.00 6-Gong-Guo vs 6-Mohrman-Weingarten
+        120    4.00   3.00 7-Ford-Vulcan vs 8-Thai-May-Rasmussen
+        150    2.00   5.00 8-Vona-Hamilton vs 1-Delfs-Carmichael
+  100          7.00   0.00 9-Ring-Christensen vs 3-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1460    0.00   7.00 1-Carmichael-Grill vs 4-Wright-Abernethy
+        680    2.50   4.50 2-Zhang-Zheng vs 6-Mohrman-Weingarten
+  100          6.00   1.00 3-Galer-Morris-Lent vs 8-Thai-May-Rasmussen
+        680    2.50   4.50 4-Miller-Romeo vs 1-Delfs-Carmichael
+  100          6.00   1.00 5-Tafjord-Zaugg vs 3-Kasperkiewicz-Kasperkiewicz
+        650    4.00   3.00 7-Ford-Vulcan vs 7-Ohlrich-Campau
+  100          6.00   1.00 8-Vona-Hamilton vs 9-Schwaighart-Rind
+       1430    1.00   6.00 9-Ring-Christensen vs 2-Sivapragasam-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.50   1.50 1-Carmichael-Grill vs 4-Wright-Abernethy
+   80          3.50   3.50 2-Zhang-Zheng vs 6-Mohrman-Weingarten
+        200    0.50   6.50 3-Galer-Morris-Lent vs 8-Thai-May-Rasmussen
+        200    0.50   6.50 4-Miller-Romeo vs 1-Delfs-Carmichael
+  110          5.50   1.50 5-Tafjord-Zaugg vs 3-Kasperkiewicz-Kasperkiewicz
+  670          7.00   0.00 7-Ford-Vulcan vs 7-Ohlrich-Campau
+        100    2.00   5.00 8-Vona-Hamilton vs 9-Schwaighart-Rind
+   80          3.50   3.50 9-Ring-Christensen vs 2-Sivapragasam-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          4.50   2.50 1-Carmichael-Grill vs 4-Wright-Abernethy
+  140          6.00   1.00 2-Zhang-Zheng vs 6-Mohrman-Weingarten
+        100    0.00   7.00 3-Galer-Morris-Lent vs 8-Thai-May-Rasmussen
+  150          7.00   0.00 4-Miller-Romeo vs 1-Delfs-Carmichael
+  110          3.00   4.00 5-Tafjord-Zaugg vs 3-Kasperkiewicz-Kasperkiewicz
+   90          1.50   5.50 7-Ford-Vulcan vs 7-Ohlrich-Campau
+  120          4.50   2.50 8-Vona-Hamilton vs 9-Schwaighart-Rind
+   90          1.50   5.50 9-Ring-Christensen vs 2-Sivapragasam-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          4.50   2.50 1-Carmichael-Grill vs 3-Kasperkiewicz-Kasperkiewicz
+        620    0.50   6.50 3-Galer-Morris-Lent vs 7-Ohlrich-Campau
+        620    0.50   6.50 4-Miller-Romeo vs 9-Schwaighart-Rind
+  690          7.00   0.00 5-Tafjord-Zaugg vs 2-Sivapragasam-Taylor
+  170          4.50   2.50 6-Gong-Guo vs 4-Wright-Abernethy
+  420          6.00   1.00 7-Ford-Vulcan vs 6-Mohrman-Weingarten
+        170    2.00   5.00 8-Vona-Hamilton vs 8-Thai-May-Rasmussen
+         50    3.00   4.00 9-Ring-Christensen vs 1-Delfs-Carmichael
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          6.50   0.50 1-Carmichael-Grill vs 3-Kasperkiewicz-Kasperkiewicz
+  660          3.00   4.00 3-Galer-Morris-Lent vs 7-Ohlrich-Campau
+  650          0.00   7.00 4-Miller-Romeo vs 9-Schwaighart-Rind
+  660          3.00   4.00 5-Tafjord-Zaugg vs 2-Sivapragasam-Taylor
+  660          3.00   4.00 6-Gong-Guo vs 4-Wright-Abernethy
+  660          3.00   4.00 7-Ford-Vulcan vs 6-Mohrman-Weingarten
+  660          3.00   4.00 8-Vona-Hamilton vs 8-Thai-May-Rasmussen
+  690          6.50   0.50 9-Ring-Christensen vs 1-Delfs-Carmichael
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.00   4.00 1-Carmichael-Grill vs 3-Kasperkiewicz-Kasperkiewicz
+        430    6.50   0.50 3-Galer-Morris-Lent vs 7-Ohlrich-Campau
+        430    6.50   0.50 4-Miller-Romeo vs 9-Schwaighart-Rind
+        450    3.00   4.00 5-Tafjord-Zaugg vs 2-Sivapragasam-Taylor
+        450    3.00   4.00 6-Gong-Guo vs 4-Wright-Abernethy
+        480    0.00   7.00 7-Ford-Vulcan vs 6-Mohrman-Weingarten
+        450    3.00   4.00 8-Vona-Hamilton vs 8-Thai-May-Rasmussen
+        450    3.00   4.00 9-Ring-Christensen vs 1-Delfs-Carmichael
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    3.50   3.50 1-Carmichael-Grill vs 2-Sivapragasam-Taylor
+       1400    0.00   7.00 2-Zhang-Zheng vs 4-Wright-Abernethy
+        650    3.50   3.50 3-Galer-Morris-Lent vs 6-Mohrman-Weingarten
+        650    3.50   3.50 4-Miller-Romeo vs 8-Thai-May-Rasmussen
+        650    3.50   3.50 5-Tafjord-Zaugg vs 1-Delfs-Carmichael
+        200    7.00   0.00 6-Gong-Guo vs 3-Kasperkiewicz-Kasperkiewicz
+        650    3.50   3.50 8-Vona-Hamilton vs 7-Ohlrich-Campau
+        650    3.50   3.50 9-Ring-Christensen vs 9-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   4.00 1-Carmichael-Grill vs 2-Sivapragasam-Taylor
+        100    3.00   4.00 2-Zhang-Zheng vs 4-Wright-Abernethy
+        100    3.00   4.00 3-Galer-Morris-Lent vs 6-Mohrman-Weingarten
+        100    3.00   4.00 4-Miller-Romeo vs 8-Thai-May-Rasmussen
+  120          6.00   1.00 5-Tafjord-Zaugg vs 1-Delfs-Carmichael
+        100    3.00   4.00 6-Gong-Guo vs 3-Kasperkiewicz-Kasperkiewicz
+        400    0.00   7.00 8-Vona-Hamilton vs 7-Ohlrich-Campau
+  140          7.00   0.00 9-Ring-Christensen vs 9-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          7.00   0.00 1-Carmichael-Grill vs 2-Sivapragasam-Taylor
+  110          3.50   3.50 2-Zhang-Zheng vs 4-Wright-Abernethy
+  110          3.50   3.50 3-Galer-Morris-Lent vs 6-Mohrman-Weingarten
+  100          0.50   6.50 4-Miller-Romeo vs 8-Thai-May-Rasmussen
+  100          0.50   6.50 5-Tafjord-Zaugg vs 1-Delfs-Carmichael
+  110          3.50   3.50 6-Gong-Guo vs 3-Kasperkiewicz-Kasperkiewicz
+  130          6.00   1.00 8-Vona-Hamilton vs 7-Ohlrich-Campau
+  110          3.50   3.50 9-Ring-Christensen vs 9-Schwaighart-Rind
+----------------------------------------------------------------------
