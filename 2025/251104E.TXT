@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 4, 2025   |CLUB NO.>158048    | 11/04/2025 22:11
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Unit Championship            |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/5000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=11/C=5                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Hugh Hendrickson       Laura Miller             B   .     .     .   |   .     .     .     72.50  46.47          
+
+ 2 Bogdan Vulcan          Corneliu Galer           B   1     1     .   |   1     1     .     99.00  63.46  2.48(OA)
+
+ 3 Yiyang Zhao            Zhenghong Sun            C   .     .     2   |   .     .     2     77.00  49.36  0.78(OC)
+
+ 4 Bryan Delfs            Stanford Christie        A   3     .     .   |   3     .     .     97.50  62.50  1.40(OA)
+
+ 5 Melissa Knopp          Jason Hart               C   .     .     .   |   .     .     .     72.00  46.15          
+
+ 6 Qinqin Zhang           Genie Thai-May           C   .     .     .   |   .     .     .     74.00  47.44          
+
+ 7 Ray Miller             Ann Romeo                A   .     .     .   |   .     .     .     62.00  39.74          
+
+ 8 Kim Eng                Andrew Sherrill          B   .     .     .   |   6     .     .     77.50  49.68  0.29(SA)
+
+ 9 Fan Zhang              Min Zheng                B   5     4     .   |   5     4     .     79.00  50.64  0.84(OB)
+
+10 Aaron Mohrman          Kevin Cline              B   .     .     .   |   .     .     .     77.00  49.36          
+
+11 Mike Ring              Mike Christensen         B   4     3     .   |   4     3     .     84.00  53.85  1.11(OB)
+
+12 John Krah              Chris Morris-Lent        C   2     2     1   |   2     2     1     98.00  62.82  1.86(OA)
+
+13 Eric Sieg              Matthew Weingarten       A   .     .     .   |   .     .     .     62.50  40.06          
+
+14 Shannon Kasperkiewicz  Nathan Kasperkiewicz     C   .     .     .   |   .     .     .     60.00  38.46          
+
+
+                                          Totals                                           1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   2.00 1-Hendrickson-Miller vs 3-Zhao-Sun
+        100    2.50   3.50 2-Vulcan-Galer vs 6-Zhang-Thai-May
+  140          6.00   0.00 4-Delfs-Christie vs 9-Zhang-Zheng
+  100          5.00   1.00 5-Knopp-Hart vs 12-Krah-Morris-Lent
+        150    0.00   6.00 7-Miller-Romeo vs 8-Eng-Sherrill
+        100    2.50   3.50 13-Sieg-Weingarten vs 10-Mohrman-Cline
+        140    1.00   5.00 14-Kasperkiewicz-Kasperkiewicz vs 11-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   1.00 1-Hendrickson-Miller vs 3-Zhao-Sun
+        100    2.00   4.00 2-Vulcan-Galer vs 6-Zhang-Thai-May
+  620          5.00   1.00 4-Delfs-Christie vs 9-Zhang-Zheng
+  620          5.00   1.00 5-Knopp-Hart vs 12-Krah-Morris-Lent
+        200    0.00   6.00 7-Miller-Romeo vs 8-Eng-Sherrill
+        100    2.00   4.00 13-Sieg-Weingarten vs 10-Mohrman-Cline
+        100    2.00   4.00 14-Kasperkiewicz-Kasperkiewicz vs 11-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   2.50 1-Hendrickson-Miller vs 11-Ring-Christensen
+         50    3.50   2.50 2-Vulcan-Galer vs 4-Delfs-Christie
+        150    0.00   6.00 3-Zhao-Sun vs 7-Miller-Romeo
+         50    3.50   2.50 5-Knopp-Hart vs 10-Mohrman-Cline
+         50    3.50   2.50 6-Zhang-Thai-May vs 13-Sieg-Weingarten
+         50    3.50   2.50 8-Eng-Sherrill vs 9-Zhang-Zheng
+         50    3.50   2.50 14-Kasperkiewicz-Kasperkiewicz vs 12-Krah-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   0.00 1-Hendrickson-Miller vs 11-Ring-Christensen
+         80    5.00   1.00 2-Vulcan-Galer vs 4-Delfs-Christie
+        110    3.50   2.50 3-Zhao-Sun vs 7-Miller-Romeo
+        170    1.50   4.50 5-Knopp-Hart vs 10-Mohrman-Cline
+        110    3.50   2.50 6-Zhang-Thai-May vs 13-Sieg-Weingarten
+        870    0.00   6.00 8-Eng-Sherrill vs 9-Zhang-Zheng
+        170    1.50   4.50 14-Kasperkiewicz-Kasperkiewicz vs 12-Krah-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    0.00   6.00 2-Vulcan-Galer vs 12-Krah-Morris-Lent
+        480    3.50   2.50 3-Zhao-Sun vs 5-Knopp-Hart
+        480    3.50   2.50 4-Delfs-Christie vs 8-Eng-Sherrill
+        480    3.50   2.50 6-Zhang-Thai-May vs 11-Ring-Christensen
+        480    3.50   2.50 7-Miller-Romeo vs 1-Hendrickson-Miller
+        480    3.50   2.50 9-Zhang-Zheng vs 10-Mohrman-Cline
+        480    3.50   2.50 14-Kasperkiewicz-Kasperkiewicz vs 13-Sieg-Weingarten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   4.00 2-Vulcan-Galer vs 12-Krah-Morris-Lent
+  420          6.00   0.00 3-Zhao-Sun vs 5-Knopp-Hart
+  150          5.00   1.00 4-Delfs-Christie vs 8-Eng-Sherrill
+  140          4.00   2.00 6-Zhang-Thai-May vs 11-Ring-Christensen
+        100    0.00   6.00 7-Miller-Romeo vs 1-Hendrickson-Miller
+         50    1.00   5.00 9-Zhang-Zheng vs 10-Mohrman-Cline
+  130          3.00   3.00 14-Kasperkiewicz-Kasperkiewicz vs 13-Sieg-Weingarten
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   1.50 3-Zhao-Sun vs 13-Sieg-Weingarten
+  620          6.00   0.00 4-Delfs-Christie vs 6-Zhang-Thai-May
+        130    1.50   4.50 5-Knopp-Hart vs 9-Zhang-Zheng
+  100          4.50   1.50 7-Miller-Romeo vs 12-Krah-Morris-Lent
+        130    1.50   4.50 8-Eng-Sherrill vs 2-Vulcan-Galer
+        600    0.00   6.00 10-Mohrman-Cline vs 11-Ring-Christensen
+        100    3.00   3.00 14-Kasperkiewicz-Kasperkiewicz vs 1-Hendrickson-Mille
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   1.00 3-Zhao-Sun vs 13-Sieg-Weingarten
+  100          6.00   0.00 4-Delfs-Christie vs 6-Zhang-Thai-May
+        100    0.00   6.00 5-Knopp-Hart vs 9-Zhang-Zheng
+         50    2.50   3.50 7-Miller-Romeo vs 12-Krah-Morris-Lent
+         50    2.50   3.50 8-Eng-Sherrill vs 2-Vulcan-Galer
+         50    2.50   3.50 10-Mohrman-Cline vs 11-Ring-Christensen
+         50    2.50   3.50 14-Kasperkiewicz-Kasperkiewicz vs 1-Hendrickson-Mille
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   1.50 4-Delfs-Christie vs 1-Hendrickson-Miller
+  300          6.00   0.00 5-Knopp-Hart vs 7-Miller-Romeo
+  110          1.00   5.00 6-Zhang-Thai-May vs 10-Mohrman-Cline
+  140          2.50   3.50 8-Eng-Sherrill vs 13-Sieg-Weingarten
+  140          2.50   3.50 9-Zhang-Zheng vs 3-Zhao-Sun
+  200          4.50   1.50 11-Ring-Christensen vs 12-Krah-Morris-Lent
+  100          0.00   6.00 14-Kasperkiewicz-Kasperkiewicz vs 2-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   3.50 4-Delfs-Christie vs 1-Hendrickson-Miller
+  100          6.00   0.00 5-Knopp-Hart vs 7-Miller-Romeo
+        100    4.00   2.00 6-Zhang-Thai-May vs 10-Mohrman-Cline
+        140    2.50   3.50 8-Eng-Sherrill vs 13-Sieg-Weingarten
+        200    1.00   5.00 9-Zhang-Zheng vs 3-Zhao-Sun
+         90    5.00   1.00 11-Ring-Christensen vs 12-Krah-Morris-Lent
+        620    0.00   6.00 14-Kasperkiewicz-Kasperkiewicz vs 2-Vulcan-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   6.00 5-Knopp-Hart vs 2-Vulcan-Galer
+  100          1.00   5.00 6-Zhang-Thai-May vs 8-Eng-Sherrill
+  170          3.00   3.00 7-Miller-Romeo vs 11-Ring-Christensen
+  420          5.50   0.50 9-Zhang-Zheng vs 1-Hendrickson-Miller
+  170          3.00   3.00 10-Mohrman-Cline vs 4-Delfs-Christie
+  420          5.50   0.50 12-Krah-Morris-Lent vs 13-Sieg-Weingarten
+  170          3.00   3.00 14-Kasperkiewicz-Kasperkiewicz vs 3-Zhao-Sun
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   4.50 5-Knopp-Hart vs 2-Vulcan-Galer
+        170    4.00   2.00 6-Zhang-Thai-May vs 8-Eng-Sherrill
+        200    3.00   3.00 7-Miller-Romeo vs 11-Ring-Christensen
+        500    0.00   6.00 9-Zhang-Zheng vs 1-Hendrickson-Miller
+   50          6.00   0.00 10-Mohrman-Cline vs 4-Delfs-Christie
+        140    5.00   1.00 12-Krah-Morris-Lent vs 13-Sieg-Weingarten
+        420    1.50   4.50 14-Kasperkiewicz-Kasperkiewicz vs 3-Zhao-Sun
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.50   3.50 6-Zhang-Thai-May vs 3-Zhao-Sun
+        600    4.00   2.00 7-Miller-Romeo vs 9-Zhang-Zheng
+        660    0.50   5.50 8-Eng-Sherrill vs 12-Krah-Morris-Lent
+        620    2.50   3.50 10-Mohrman-Cline vs 2-Vulcan-Galer
+        150    5.00   1.00 11-Ring-Christensen vs 5-Knopp-Hart
+  100          6.00   0.00 13-Sieg-Weingarten vs 1-Hendrickson-Miller
+        660    0.50   5.50 14-Kasperkiewicz-Kasperkiewicz vs 4-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   1.00 6-Zhang-Thai-May vs 3-Zhao-Sun
+        420    1.50   4.50 7-Miller-Romeo vs 9-Zhang-Zheng
+        450    0.00   6.00 8-Eng-Sherrill vs 12-Krah-Morris-Lent
+        420    1.50   4.50 10-Mohrman-Cline vs 2-Vulcan-Galer
+        300    3.50   2.50 11-Ring-Christensen vs 5-Knopp-Hart
+  140          6.00   0.00 13-Sieg-Weingarten vs 1-Hendrickson-Miller
+        300    3.50   2.50 14-Kasperkiewicz-Kasperkiewicz vs 4-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   6.00 1-Hendrickson-Miller vs 2-Vulcan-Galer
+        100    1.00   5.00 7-Miller-Romeo vs 4-Delfs-Christie
+  150          3.00   3.00 8-Eng-Sherrill vs 10-Mohrman-Cline
+  600          5.00   1.00 9-Zhang-Zheng vs 13-Sieg-Weingarten
+  600          5.00   1.00 11-Ring-Christensen vs 3-Zhao-Sun
+  600          5.00   1.00 12-Krah-Morris-Lent vs 6-Zhang-Thai-May
+  130          2.00   4.00 14-Kasperkiewicz-Kasperkiewicz vs 5-Knopp-Hart
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   4.50 1-Hendrickson-Miller vs 2-Vulcan-Galer
+        650    1.50   4.50 7-Miller-Romeo vs 4-Delfs-Christie
+        300    5.50   0.50 8-Eng-Sherrill vs 10-Mohrman-Cline
+        650    1.50   4.50 9-Zhang-Zheng vs 13-Sieg-Weingarten
+        650    1.50   4.50 11-Ring-Christensen vs 3-Zhao-Sun
+        300    5.50   0.50 12-Krah-Morris-Lent vs 6-Zhang-Thai-May
+        620    4.00   2.00 14-Kasperkiewicz-Kasperkiewicz vs 5-Knopp-Hart
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    3.00   3.00 2-Vulcan-Galer vs 3-Zhao-Sun
+        450    6.00   0.00 8-Eng-Sherrill vs 5-Knopp-Hart
+        480    3.00   3.00 9-Zhang-Zheng vs 11-Ring-Christensen
+        480    3.00   3.00 10-Mohrman-Cline vs 1-Hendrickson-Miller
+        480    3.00   3.00 12-Krah-Morris-Lent vs 4-Delfs-Christie
+        980    0.00   6.00 13-Sieg-Weingarten vs 7-Miller-Romeo
+        480    3.00   3.00 14-Kasperkiewicz-Kasperkiewicz vs 6-Zhang-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          6.00   0.00 2-Vulcan-Galer vs 3-Zhao-Sun
+  650          3.00   3.00 8-Eng-Sherrill vs 5-Knopp-Hart
+  650          3.00   3.00 9-Zhang-Zheng vs 11-Ring-Christensen
+  650          3.00   3.00 10-Mohrman-Cline vs 1-Hendrickson-Miller
+  650          3.00   3.00 12-Krah-Morris-Lent vs 4-Delfs-Christie
+  650          3.00   3.00 13-Sieg-Weingarten vs 7-Miller-Romeo
+  620          0.00   6.00 14-Kasperkiewicz-Kasperkiewicz vs 6-Zhang-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          1.00   5.00 1-Hendrickson-Miller vs 8-Eng-Sherrill
+  420          4.50   1.50 3-Zhao-Sun vs 4-Delfs-Christie
+  420          4.50   1.50 9-Zhang-Zheng vs 6-Zhang-Thai-May
+  200          2.00   4.00 10-Mohrman-Cline vs 12-Krah-Morris-Lent
+  420          4.50   1.50 11-Ring-Christensen vs 2-Vulcan-Galer
+  140          0.00   6.00 13-Sieg-Weingarten vs 5-Knopp-Hart
+  420          4.50   1.50 14-Kasperkiewicz-Kasperkiewicz vs 7-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   1.00 1-Hendrickson-Miller vs 8-Eng-Sherrill
+  690          6.00   0.00 3-Zhao-Sun vs 4-Delfs-Christie
+  600          3.50   2.50 9-Zhang-Zheng vs 6-Zhang-Thai-May
+  170          1.00   5.00 10-Mohrman-Cline vs 12-Krah-Morris-Lent
+  600          3.50   2.50 11-Ring-Christensen vs 2-Vulcan-Galer
+        110    0.00   6.00 13-Sieg-Weingarten vs 5-Knopp-Hart
+  200          2.00   4.00 14-Kasperkiewicz-Kasperkiewicz vs 7-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    1.00   5.00 1-Hendrickson-Miller vs 6-Zhang-Thai-May
+        120    4.50   1.50 2-Vulcan-Galer vs 9-Zhang-Zheng
+        120    4.50   1.50 4-Delfs-Christie vs 5-Knopp-Hart
+        180    2.00   4.00 10-Mohrman-Cline vs 7-Miller-Romeo
+        430    0.00   6.00 11-Ring-Christensen vs 13-Sieg-Weingarten
+         90    6.00   0.00 12-Krah-Morris-Lent vs 3-Zhao-Sun
+        150    3.00   3.00 14-Kasperkiewicz-Kasperkiewicz vs 8-Eng-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          2.50   3.50 1-Hendrickson-Miller vs 6-Zhang-Thai-May
+  980          1.00   5.00 2-Vulcan-Galer vs 9-Zhang-Zheng
+ 1020          4.50   1.50 4-Delfs-Christie vs 5-Knopp-Hart
+ 1020          4.50   1.50 10-Mohrman-Cline vs 7-Miller-Romeo
+  990          2.50   3.50 11-Ring-Christensen vs 13-Sieg-Weingarten
+ 1510          6.00   0.00 12-Krah-Morris-Lent vs 3-Zhao-Sun
+  490          0.00   6.00 14-Kasperkiewicz-Kasperkiewicz vs 8-Eng-Sherrill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    4.50   1.50 2-Vulcan-Galer vs 7-Miller-Romeo
+        600    4.50   1.50 3-Zhao-Sun vs 10-Mohrman-Cline
+        620    1.50   4.50 5-Knopp-Hart vs 6-Zhang-Thai-May
+        600    4.50   1.50 11-Ring-Christensen vs 8-Eng-Sherrill
+        620    1.50   4.50 12-Krah-Morris-Lent vs 1-Hendrickson-Miller
+        650    0.00   6.00 13-Sieg-Weingarten vs 4-Delfs-Christie
+        600    4.50   1.50 14-Kasperkiewicz-Kasperkiewicz vs 9-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.50   0.50 2-Vulcan-Galer vs 7-Miller-Romeo
+        100    0.00   6.00 3-Zhao-Sun vs 10-Mohrman-Cline
+   90          4.00   2.00 5-Knopp-Hart vs 6-Zhang-Thai-May
+   50          2.50   3.50 11-Ring-Christensen vs 8-Eng-Sherrill
+  110          5.50   0.50 12-Krah-Morris-Lent vs 1-Hendrickson-Miller
+         50    1.00   5.00 13-Sieg-Weingarten vs 4-Delfs-Christie
+   50          2.50   3.50 14-Kasperkiewicz-Kasperkiewicz vs 9-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   4.50 1-Hendrickson-Miller vs 5-Knopp-Hart
+  100          3.50   2.50 3-Zhao-Sun vs 8-Eng-Sherrill
+  650          6.00   0.00 4-Delfs-Christie vs 11-Ring-Christensen
+  100          3.50   2.50 6-Zhang-Thai-May vs 7-Miller-Romeo
+  200          5.00   1.00 12-Krah-Morris-Lent vs 9-Zhang-Zheng
+        100    1.50   4.50 13-Sieg-Weingarten vs 2-Vulcan-Galer
+        620    0.00   6.00 14-Kasperkiewicz-Kasperkiewicz vs 10-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   2.00 1-Hendrickson-Miller vs 5-Knopp-Hart
+  620          4.00   2.00 3-Zhao-Sun vs 8-Eng-Sherrill
+        100    1.50   4.50 4-Delfs-Christie vs 11-Ring-Christensen
+        100    1.50   4.50 6-Zhang-Thai-May vs 7-Miller-Romeo
+        200    0.00   6.00 12-Krah-Morris-Lent vs 9-Zhang-Zheng
+  620          4.00   2.00 13-Sieg-Weingarten vs 2-Vulcan-Galer
+  630          6.00   0.00 14-Kasperkiewicz-Kasperkiewicz vs 10-Mohrman-Cline
+----------------------------------------------------------------------
