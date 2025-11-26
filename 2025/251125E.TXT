@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 25, 2025  |CLUB NO.>158048    | 11/25/2025 22:01
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/2500/1400 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=7/C=5                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Muhunthan Sivapragasam Rajalakshmy Sundararaj   C    .     .     .     60.00  44.44          
+
+ 2 Mike Ring              Brian Zaugg              A    5     .     .     72.50  53.70  0.24(A) 
+
+ 3 Paul Schwaighart       Brad Rind                A    2     .     .     81.00  60.00  0.84(A) 
+
+ 4 Shannon Kasperkiewicz  Nathan Kasperkiewicz     C    .     2     2     61.50  45.56  0.39(B) 
+
+ 5 Sue Anderson           David Taylor             B    .     .     .     59.00  43.70          
+
+ 6 James Hamilton         Elaine Vona              C    .     .     .     54.00  40.00          
+
+ 7 Melissa Knopp          Jason Hart               C    .     .     .     52.50  38.89          
+
+ 8 Kim Eng                Jeffrey Ford             A    .     .     .     61.00  45.19          
+
+ 9 Dave Grubbs            Corneliu Galer           A    1     .     .     91.50  67.78  1.20(A) 
+
+10 Ray Miller             Aaron Mohrman            A   3/4    .     .     78.00  57.78  0.51(A) 
+
+11 John Krah              Chris Morris-Lent        C   3/4    1     1     78.00  57.78  0.56(B) 
+
+12 Oyvind Tafjord         Shawn Abernethy          B    .     3     .     61.00  45.19  0.28(B) 
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    3.50   1.50 3-Schwaighart-Rind vs 11-Krah-Morris-Lent
+        420    0.50   4.50 5-Anderson-Taylor vs 2-Ring-Zaugg
+        420    0.50   4.50 6-Hamilton-Vona vs 10-Miller-Mohrman
+        130    5.00   0.00 8-Eng-Ford vs 4-Kasperkiewicz-Kasperkiewicz
+        170    3.50   1.50 9-Grubbs-Galer vs 7-Knopp-Hart
+        400    2.00   3.00 12-Tafjord-Abernethy vs 1-Sivapragasam-Sundararajan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    4.50   0.50 3-Schwaighart-Rind vs 11-Krah-Morris-Lent
+        430    1.50   3.50 5-Anderson-Taylor vs 2-Ring-Zaugg
+        430    1.50   3.50 6-Hamilton-Vona vs 10-Miller-Mohrman
+        430    1.50   3.50 8-Eng-Ford vs 4-Kasperkiewicz-Kasperkiewicz
+        400    4.50   0.50 9-Grubbs-Galer vs 7-Knopp-Hart
+        430    1.50   3.50 12-Tafjord-Abernethy vs 1-Sivapragasam-Sundararajan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          2.00   3.00 3-Schwaighart-Rind vs 11-Krah-Morris-Lent
+  300          5.00   0.00 5-Anderson-Taylor vs 2-Ring-Zaugg
+  200          2.00   3.00 6-Hamilton-Vona vs 10-Miller-Mohrman
+  200          2.00   3.00 8-Eng-Ford vs 4-Kasperkiewicz-Kasperkiewicz
+  200          2.00   3.00 9-Grubbs-Galer vs 7-Knopp-Hart
+  200          2.00   3.00 12-Tafjord-Abernethy vs 1-Sivapragasam-Sundararajan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.50   0.50 1-Sivapragasam-Sundararajan vs 8-Eng-Ford
+  300          4.50   0.50 6-Hamilton-Vona vs 3-Schwaighart-Rind
+        200    0.00   5.00 7-Knopp-Hart vs 10-Miller-Mohrman
+  140          2.50   2.50 9-Grubbs-Galer vs 5-Anderson-Taylor
+  140          2.50   2.50 11-Krah-Morris-Lent vs 4-Kasperkiewicz-Kasperkiewicz
+  100          1.00   4.00 12-Tafjord-Abernethy vs 2-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   1.50 1-Sivapragasam-Sundararajan vs 8-Eng-Ford
+  110          2.00   3.00 6-Hamilton-Vona vs 3-Schwaighart-Rind
+  140          3.50   1.50 7-Knopp-Hart vs 10-Miller-Mohrman
+  170          5.00   0.00 9-Grubbs-Galer vs 5-Anderson-Taylor
+   90          0.50   4.50 11-Krah-Morris-Lent vs 4-Kasperkiewicz-Kasperkiewicz
+   90          0.50   4.50 12-Tafjord-Abernethy vs 2-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   3.50 1-Sivapragasam-Sundararajan vs 8-Eng-Ford
+        170    0.00   5.00 6-Hamilton-Vona vs 3-Schwaighart-Rind
+        140    1.50   3.50 7-Knopp-Hart vs 10-Miller-Mohrman
+  100          3.50   1.50 9-Grubbs-Galer vs 5-Anderson-Taylor
+  200          5.00   0.00 11-Krah-Morris-Lent vs 4-Kasperkiewicz-Kasperkiewicz
+  100          3.50   1.50 12-Tafjord-Abernethy vs 2-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1070    0.00   5.00 1-Sivapragasam-Sundararajan vs 6-Hamilton-Vona
+        620    1.00   4.00 2-Ring-Zaugg vs 9-Grubbs-Galer
+        600    3.00   2.00 7-Knopp-Hart vs 4-Kasperkiewicz-Kasperkiewicz
+        150    5.00   0.00 10-Miller-Mohrman vs 8-Eng-Ford
+        600    3.00   2.00 11-Krah-Morris-Lent vs 5-Anderson-Taylor
+        600    3.00   2.00 12-Tafjord-Abernethy vs 3-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    2.50   2.50 1-Sivapragasam-Sundararajan vs 6-Hamilton-Vona
+        400    2.50   2.50 2-Ring-Zaugg vs 9-Grubbs-Galer
+        400    2.50   2.50 7-Knopp-Hart vs 4-Kasperkiewicz-Kasperkiewicz
+   50          5.00   0.00 10-Miller-Mohrman vs 8-Eng-Ford
+        400    2.50   2.50 11-Krah-Morris-Lent vs 5-Anderson-Taylor
+        430    0.00   5.00 12-Tafjord-Abernethy vs 3-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.50   0.50 1-Sivapragasam-Sundararajan vs 6-Hamilton-Vona
+         50    0.00   5.00 2-Ring-Zaugg vs 9-Grubbs-Galer
+  140          1.00   4.00 7-Knopp-Hart vs 4-Kasperkiewicz-Kasperkiewicz
+  420          2.50   2.50 10-Miller-Mohrman vs 8-Eng-Ford
+  450          4.50   0.50 11-Krah-Morris-Lent vs 5-Anderson-Taylor
+  420          2.50   2.50 12-Tafjord-Abernethy vs 3-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   1.00 2-Ring-Zaugg vs 7-Knopp-Hart
+        200    0.50   4.50 3-Schwaighart-Rind vs 1-Sivapragasam-Sundararajan
+        200    0.50   4.50 8-Eng-Ford vs 5-Anderson-Taylor
+        130    2.00   3.00 10-Miller-Mohrman vs 9-Grubbs-Galer
+        100    3.00   2.00 11-Krah-Morris-Lent vs 6-Hamilton-Vona
+  140          5.00   0.00 12-Tafjord-Abernethy vs 4-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  520          3.00   2.00 2-Ring-Zaugg vs 7-Knopp-Hart
+ 1090          5.00   0.00 3-Schwaighart-Rind vs 1-Sivapragasam-Sundararajan
+  460          1.00   4.00 8-Eng-Ford vs 5-Anderson-Taylor
+  750          4.00   1.00 10-Miller-Mohrman vs 9-Grubbs-Galer
+  490          2.00   3.00 11-Krah-Morris-Lent vs 6-Hamilton-Vona
+  150          0.00   5.00 12-Tafjord-Abernethy vs 4-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   3.00 2-Ring-Zaugg vs 7-Knopp-Hart
+  140          4.00   1.00 3-Schwaighart-Rind vs 1-Sivapragasam-Sundararajan
+  140          4.00   1.00 8-Eng-Ford vs 5-Anderson-Taylor
+        130    0.50   4.50 10-Miller-Mohrman vs 9-Grubbs-Galer
+  140          4.00   1.00 11-Krah-Morris-Lent vs 6-Hamilton-Vona
+        130    0.50   4.50 12-Tafjord-Abernethy vs 4-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   3.50 1-Sivapragasam-Sundararajan vs 10-Miller-Mohrman
+        170    3.00   2.00 3-Schwaighart-Rind vs 8-Eng-Ford
+        200    1.50   3.50 4-Kasperkiewicz-Kasperkiewicz vs 2-Ring-Zaugg
+        620    0.00   5.00 7-Knopp-Hart vs 11-Krah-Morris-Lent
+  110          5.00   0.00 9-Grubbs-Galer vs 6-Hamilton-Vona
+        100    4.00   1.00 12-Tafjord-Abernethy vs 5-Anderson-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.50   2.50 1-Sivapragasam-Sundararajan vs 10-Miller-Mohrman
+        400    1.00   4.00 3-Schwaighart-Rind vs 8-Eng-Ford
+        130    4.00   1.00 4-Kasperkiewicz-Kasperkiewicz vs 2-Ring-Zaugg
+        430    0.00   5.00 7-Knopp-Hart vs 11-Krah-Morris-Lent
+        110    5.00   0.00 9-Grubbs-Galer vs 6-Hamilton-Vona
+        150    2.50   2.50 12-Tafjord-Abernethy vs 5-Anderson-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   4.50 1-Sivapragasam-Sundararajan vs 10-Miller-Mohrman
+   50          4.50   0.50 3-Schwaighart-Rind vs 8-Eng-Ford
+         90    3.00   2.00 4-Kasperkiewicz-Kasperkiewicz vs 2-Ring-Zaugg
+        110    2.00   3.00 7-Knopp-Hart vs 11-Krah-Morris-Lent
+        140    0.50   4.50 9-Grubbs-Galer vs 6-Hamilton-Vona
+   50          4.50   0.50 12-Tafjord-Abernethy vs 5-Anderson-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.00   3.00 1-Sivapragasam-Sundararajan vs 7-Knopp-Hart
+  400          5.00   0.00 2-Ring-Zaugg vs 10-Miller-Mohrman
+  150          4.00   1.00 4-Kasperkiewicz-Kasperkiewicz vs 9-Grubbs-Galer
+  130          2.00   3.00 5-Anderson-Taylor vs 3-Schwaighart-Rind
+        930    0.00   5.00 8-Eng-Ford vs 11-Krah-Morris-Lent
+  130          2.00   3.00 12-Tafjord-Abernethy vs 6-Hamilton-Vona
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          3.00   2.00 1-Sivapragasam-Sundararajan vs 7-Knopp-Hart
+  130          4.00   1.00 2-Ring-Zaugg vs 10-Miller-Mohrman
+        140    0.00   5.00 4-Kasperkiewicz-Kasperkiewicz vs 9-Grubbs-Galer
+         50    1.00   4.00 5-Anderson-Taylor vs 3-Schwaighart-Rind
+   50          2.00   3.00 8-Eng-Ford vs 11-Krah-Morris-Lent
+  180          5.00   0.00 12-Tafjord-Abernethy vs 6-Hamilton-Vona
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.50   0.50 1-Sivapragasam-Sundararajan vs 7-Knopp-Hart
+  100          3.00   2.00 2-Ring-Zaugg vs 10-Miller-Mohrman
+        420    1.00   4.00 4-Kasperkiewicz-Kasperkiewicz vs 9-Grubbs-Galer
+        420    1.00   4.00 5-Anderson-Taylor vs 3-Schwaighart-Rind
+        420    1.00   4.00 8-Eng-Ford vs 11-Krah-Morris-Lent
+  150          4.50   0.50 12-Tafjord-Abernethy vs 6-Hamilton-Vona
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 2-Ring-Zaugg vs 8-Eng-Ford
+        140    3.50   1.50 5-Anderson-Taylor vs 1-Sivapragasam-Sundararajan
+        140    3.50   1.50 6-Hamilton-Vona vs 4-Kasperkiewicz-Kasperkiewicz
+        170    1.00   4.00 10-Miller-Mohrman vs 3-Schwaighart-Rind
+        150    2.00   3.00 11-Krah-Morris-Lent vs 9-Grubbs-Galer
+  100          5.00   0.00 12-Tafjord-Abernethy vs 7-Knopp-Hart
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    0.00   5.00 2-Ring-Zaugg vs 8-Eng-Ford
+        650    4.50   0.50 5-Anderson-Taylor vs 1-Sivapragasam-Sundararajan
+        680    3.00   2.00 6-Hamilton-Vona vs 4-Kasperkiewicz-Kasperkiewicz
+       1370    1.00   4.00 10-Miller-Mohrman vs 3-Schwaighart-Rind
+        650    4.50   0.50 11-Krah-Morris-Lent vs 9-Grubbs-Galer
+        690    2.00   3.00 12-Tafjord-Abernethy vs 7-Knopp-Hart
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    2.00   3.00 2-Ring-Zaugg vs 8-Eng-Ford
+        110    3.50   1.50 5-Anderson-Taylor vs 1-Sivapragasam-Sundararajan
+  110          5.00   0.00 6-Hamilton-Vona vs 4-Kasperkiewicz-Kasperkiewicz
+        110    3.50   1.50 10-Miller-Mohrman vs 3-Schwaighart-Rind
+        130    0.50   4.50 11-Krah-Morris-Lent vs 9-Grubbs-Galer
+        130    0.50   4.50 12-Tafjord-Abernethy vs 7-Knopp-Hart
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   2.00 3-Schwaighart-Rind vs 9-Grubbs-Galer
+  200          2.00   3.00 6-Hamilton-Vona vs 2-Ring-Zaugg
+  130          0.50   4.50 7-Knopp-Hart vs 5-Anderson-Taylor
+  400          4.50   0.50 10-Miller-Mohrman vs 4-Kasperkiewicz-Kasperkiewicz
+  400          4.50   0.50 11-Krah-Morris-Lent vs 1-Sivapragasam-Sundararajan
+  130          0.50   4.50 12-Tafjord-Abernethy vs 8-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          2.00   3.00 3-Schwaighart-Rind vs 9-Grubbs-Galer
+  170          0.00   5.00 6-Hamilton-Vona vs 2-Ring-Zaugg
+  720          4.00   1.00 7-Knopp-Hart vs 5-Anderson-Taylor
+  720          4.00   1.00 10-Miller-Mohrman vs 4-Kasperkiewicz-Kasperkiewicz
+  650          1.00   4.00 11-Krah-Morris-Lent vs 1-Sivapragasam-Sundararajan
+  720          4.00   1.00 12-Tafjord-Abernethy vs 8-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    0.00   5.00 3-Schwaighart-Rind vs 9-Grubbs-Galer
+        200    1.00   4.00 6-Hamilton-Vona vs 2-Ring-Zaugg
+  450          5.00   0.00 7-Knopp-Hart vs 5-Anderson-Taylor
+  230          4.00   1.00 10-Miller-Mohrman vs 4-Kasperkiewicz-Kasperkiewicz
+  100          3.00   2.00 11-Krah-Morris-Lent vs 1-Sivapragasam-Sundararajan
+        170    2.00   3.00 12-Tafjord-Abernethy vs 8-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.00   1.00 2-Ring-Zaugg vs 11-Krah-Morris-Lent
+  460          5.00   0.00 4-Kasperkiewicz-Kasperkiewicz vs 1-Sivapragasam-Sunda
+  140          1.00   4.00 5-Anderson-Taylor vs 10-Miller-Mohrman
+         50    0.00   5.00 7-Knopp-Hart vs 3-Schwaighart-Rind
+  420          2.50   2.50 8-Eng-Ford vs 6-Hamilton-Vona
+  420          2.50   2.50 12-Tafjord-Abernethy vs 9-Grubbs-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          2.00   3.00 2-Ring-Zaugg vs 11-Krah-Morris-Lent
+  660          2.00   3.00 4-Kasperkiewicz-Kasperkiewicz vs 1-Sivapragasam-Sunda
+  690          4.00   1.00 5-Anderson-Taylor vs 10-Miller-Mohrman
+  660          2.00   3.00 7-Knopp-Hart vs 3-Schwaighart-Rind
+ 1400          5.00   0.00 8-Eng-Ford vs 6-Hamilton-Vona
+        300    0.00   5.00 12-Tafjord-Abernethy vs 9-Grubbs-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   1.50 2-Ring-Zaugg vs 11-Krah-Morris-Lent
+   50          3.50   1.50 4-Kasperkiewicz-Kasperkiewicz vs 1-Sivapragasam-Sunda
+   50          3.50   1.50 5-Anderson-Taylor vs 10-Miller-Mohrman
+   50          3.50   1.50 7-Knopp-Hart vs 3-Schwaighart-Rind
+        400    0.50   4.50 8-Eng-Ford vs 6-Hamilton-Vona
+        400    0.50   4.50 12-Tafjord-Abernethy vs 9-Grubbs-Galer
+----------------------------------------------------------------------
