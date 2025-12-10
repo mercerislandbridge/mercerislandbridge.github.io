@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>December 9, 2025   |CLUB NO.>158048    | 12/09/2025 22:04
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Mike       |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/2500/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=5/C=3                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Eric Sieg                A   .     .     .   |   .     .     .     72.50  53.70          
+
+ 2 Ray Miller             Sue Anderson             A   4     .     .   |   4     .     .     76.00  56.30  0.98(OA)
+
+ 3 Brian Zaugg            Becky Stevens            A   .     .     .   |   .     .     .     71.00  52.59          
+
+ 4 Muhunthan Sivapragasam Chris Morris-Lent        C   2     1     .   |   2     1     1     81.00  60.00  1.75(OA)
+
+ 5 Corneliu Galer         Dave Setterholm          A   3     .     .   |   3     .     .     78.50  58.15  1.31(OA)
+
+ 6 Paul Schwaighart       Brad Rind                A   1     .     .   |   1     .     .     83.00  61.48  2.33(OA)
+
+ 7 Jeffrey Ford           Dave Grubbs              A   .     .     .   |   .     .     .     66.00  48.89          
+
+ 8 Bryant Carlson         Andrew Rigazio           C   .     .     .   |   .     .     .     42.00  31.11          
+
+ 9 Hugh Hendrickson       Laura Miller             B   .     .     .   |   .     .     .     53.00  39.26          
+
+10 Nick Tipton            Nathan Kasperkiewicz     B   .     2     .   |   .     2     .     58.50  43.33  1.00(OB)
+
+11 Arjun Chaunal          Mudit Chaunal            C   .     .     .   |   .     .     .     55.00  40.74          
+
+12 Mike Ring              Mike Christensen         A   .     .     .   |   5     .     .     73.50  54.44  0.24(SA)
+
+
+                                          Totals                                            810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    4.50   0.50 3-Zaugg-Stevens vs 11-Chaunal-Chaunal
+        400    2.50   2.50 5-Galer-Setterholm vs 2-Miller-Anderson
+        430    1.00   4.00 6-Schwaighart-Rind vs 10-Tipton-Kasperkiewicz
+        460    0.00   5.00 8-Carlson-Rigazio vs 4-Sivapragasam-Morris-Lent
+        170    4.50   0.50 9-Hendrickson-Miller vs 7-Ford-Grubbs
+        400    2.50   2.50 12-Ring-Christensen vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   0.00 3-Zaugg-Stevens vs 11-Chaunal-Chaunal
+        450    1.00   4.00 5-Galer-Setterholm vs 2-Miller-Anderson
+        140    4.00   1.00 6-Schwaighart-Rind vs 10-Tipton-Kasperkiewicz
+        450    1.00   4.00 8-Carlson-Rigazio vs 4-Sivapragasam-Morris-Lent
+        420    3.00   2.00 9-Hendrickson-Miller vs 7-Ford-Grubbs
+        450    1.00   4.00 12-Ring-Christensen vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.00   4.00 3-Zaugg-Stevens vs 11-Chaunal-Chaunal
+  460          3.50   1.50 5-Galer-Setterholm vs 2-Miller-Anderson
+  490          5.00   0.00 6-Schwaighart-Rind vs 10-Tipton-Kasperkiewicz
+  430          1.00   4.00 8-Carlson-Rigazio vs 4-Sivapragasam-Morris-Lent
+  430          1.00   4.00 9-Hendrickson-Miller vs 7-Ford-Grubbs
+  460          3.50   1.50 12-Ring-Christensen vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        710    2.50   2.50 1-Eng-Sieg vs 8-Carlson-Rigazio
+        680    4.50   0.50 6-Schwaighart-Rind vs 3-Zaugg-Stevens
+        680    4.50   0.50 7-Ford-Grubbs vs 10-Tipton-Kasperkiewicz
+       1460    0.00   5.00 9-Hendrickson-Miller vs 5-Galer-Setterholm
+        800    1.00   4.00 11-Chaunal-Chaunal vs 4-Sivapragasam-Morris-Lent
+        710    2.50   2.50 12-Ring-Christensen vs 2-Miller-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.00   1.00 1-Eng-Sieg vs 8-Carlson-Rigazio
+ 1540          5.00   0.00 6-Schwaighart-Rind vs 3-Zaugg-Stevens
+  100          1.00   4.00 7-Ford-Grubbs vs 10-Tipton-Kasperkiewicz
+  600          3.00   2.00 9-Hendrickson-Miller vs 5-Galer-Setterholm
+        420    0.00   5.00 11-Chaunal-Chaunal vs 4-Sivapragasam-Morris-Lent
+  500          2.00   3.00 12-Ring-Christensen vs 2-Miller-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   3.50 1-Eng-Sieg vs 8-Carlson-Rigazio
+         50    1.50   3.50 6-Schwaighart-Rind vs 3-Zaugg-Stevens
+  400          5.00   0.00 7-Ford-Grubbs vs 10-Tipton-Kasperkiewicz
+         50    1.50   3.50 9-Hendrickson-Miller vs 5-Galer-Setterholm
+  110          4.00   1.00 11-Chaunal-Chaunal vs 4-Sivapragasam-Morris-Lent
+         50    1.50   3.50 12-Ring-Christensen vs 2-Miller-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.50   0.50 1-Eng-Sieg vs 6-Schwaighart-Rind
+       1430    2.00   3.00 2-Miller-Anderson vs 9-Hendrickson-Miller
+       1430    2.00   3.00 7-Ford-Grubbs vs 4-Sivapragasam-Morris-Lent
+        680    4.50   0.50 10-Tipton-Kasperkiewicz vs 8-Carlson-Rigazio
+       1440    0.00   5.00 11-Chaunal-Chaunal vs 5-Galer-Setterholm
+       1430    2.00   3.00 12-Ring-Christensen vs 3-Zaugg-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.00   1.00 1-Eng-Sieg vs 6-Schwaighart-Rind
+         50    0.50   4.50 2-Miller-Anderson vs 9-Hendrickson-Miller
+  110          2.00   3.00 7-Ford-Grubbs vs 4-Sivapragasam-Morris-Lent
+  130          4.00   1.00 10-Tipton-Kasperkiewicz vs 8-Carlson-Rigazio
+         50    0.50   4.50 11-Chaunal-Chaunal vs 5-Galer-Setterholm
+  130          4.00   1.00 12-Ring-Christensen vs 3-Zaugg-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          0.00   5.00 1-Eng-Sieg vs 6-Schwaighart-Rind
+  500          4.50   0.50 2-Miller-Anderson vs 9-Hendrickson-Miller
+  500          4.50   0.50 7-Ford-Grubbs vs 4-Sivapragasam-Morris-Lent
+  140          2.00   3.00 10-Tipton-Kasperkiewicz vs 8-Carlson-Rigazio
+  100          1.00   4.00 11-Chaunal-Chaunal vs 5-Galer-Setterholm
+  200          3.00   2.00 12-Ring-Christensen vs 3-Zaugg-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   1.00 2-Miller-Anderson vs 7-Ford-Grubbs
+        130    1.50   3.50 3-Zaugg-Stevens vs 1-Eng-Sieg
+        130    1.50   3.50 8-Carlson-Rigazio vs 5-Galer-Setterholm
+  140          5.00   0.00 10-Tipton-Kasperkiewicz vs 9-Hendrickson-Miller
+        130    1.50   3.50 11-Chaunal-Chaunal vs 6-Schwaighart-Rind
+        130    1.50   3.50 12-Ring-Christensen vs 4-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.00   2.00 2-Miller-Anderson vs 7-Ford-Grubbs
+        150    1.50   3.50 3-Zaugg-Stevens vs 1-Eng-Sieg
+        210    0.00   5.00 8-Carlson-Rigazio vs 5-Galer-Setterholm
+  110          5.00   0.00 10-Tipton-Kasperkiewicz vs 9-Hendrickson-Miller
+         50    4.00   1.00 11-Chaunal-Chaunal vs 6-Schwaighart-Rind
+        150    1.50   3.50 12-Ring-Christensen vs 4-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   3.50 2-Miller-Anderson vs 7-Ford-Grubbs
+  100          4.00   1.00 3-Zaugg-Stevens vs 1-Eng-Sieg
+        110    1.50   3.50 8-Carlson-Rigazio vs 5-Galer-Setterholm
+        110    1.50   3.50 10-Tipton-Kasperkiewicz vs 9-Hendrickson-Miller
+        110    1.50   3.50 11-Chaunal-Chaunal vs 6-Schwaighart-Rind
+  120          5.00   0.00 12-Ring-Christensen vs 4-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   3.50 3-Zaugg-Stevens vs 8-Carlson-Rigazio
+  150          3.00   2.00 4-Sivapragasam-Morris-Lent vs 2-Miller-Anderson
+  600          5.00   0.00 7-Ford-Grubbs vs 11-Chaunal-Chaunal
+        110    0.00   5.00 9-Hendrickson-Miller vs 6-Schwaighart-Rind
+  200          4.00   1.00 10-Tipton-Kasperkiewicz vs 1-Eng-Sieg
+  100          1.50   3.50 12-Ring-Christensen vs 5-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.50   2.50 1-Eng-Sieg vs 10-Tipton-Kasperkiewicz
+  460          5.00   0.00 3-Zaugg-Stevens vs 8-Carlson-Rigazio
+  440          4.00   1.00 4-Sivapragasam-Morris-Lent vs 2-Miller-Anderson
+  150          1.00   4.00 7-Ford-Grubbs vs 11-Chaunal-Chaunal
+   50          0.00   5.00 9-Hendrickson-Miller vs 6-Schwaighart-Rind
+  430          2.50   2.50 12-Ring-Christensen vs 5-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   0.00 1-Eng-Sieg vs 10-Tipton-Kasperkiewicz
+        100    3.00   2.00 3-Zaugg-Stevens vs 8-Carlson-Rigazio
+        200    0.00   5.00 4-Sivapragasam-Morris-Lent vs 2-Miller-Anderson
+        100    3.00   2.00 7-Ford-Grubbs vs 11-Chaunal-Chaunal
+        130    1.00   4.00 9-Hendrickson-Miller vs 6-Schwaighart-Rind
+        100    3.00   2.00 12-Ring-Christensen vs 5-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   1.50 1-Eng-Sieg vs 7-Ford-Grubbs
+         50    3.50   1.50 2-Miller-Anderson vs 10-Tipton-Kasperkiewicz
+        140    1.00   4.00 4-Sivapragasam-Morris-Lent vs 9-Hendrickson-Miller
+        140    1.00   4.00 5-Galer-Setterholm vs 3-Zaugg-Stevens
+        140    1.00   4.00 8-Carlson-Rigazio vs 11-Chaunal-Chaunal
+   90          5.00   0.00 12-Ring-Christensen vs 6-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.00   3.00 1-Eng-Sieg vs 7-Ford-Grubbs
+   50          4.00   1.00 2-Miller-Anderson vs 10-Tipton-Kasperkiewicz
+  150          5.00   0.00 4-Sivapragasam-Morris-Lent vs 9-Hendrickson-Miller
+        150    3.00   2.00 5-Galer-Setterholm vs 3-Zaugg-Stevens
+        630    0.00   5.00 8-Carlson-Rigazio vs 11-Chaunal-Chaunal
+        450    1.00   4.00 12-Ring-Christensen vs 6-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   4.00 1-Eng-Sieg vs 7-Ford-Grubbs
+  200          5.00   0.00 2-Miller-Anderson vs 10-Tipton-Kasperkiewicz
+        430    2.00   3.00 4-Sivapragasam-Morris-Lent vs 9-Hendrickson-Miller
+        400    3.50   1.50 5-Galer-Setterholm vs 3-Zaugg-Stevens
+        400    3.50   1.50 8-Carlson-Rigazio vs 11-Chaunal-Chaunal
+        920    0.00   5.00 12-Ring-Christensen vs 6-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1010          4.00   1.00 2-Miller-Anderson vs 8-Carlson-Rigazio
+ 1010          4.00   1.00 5-Galer-Setterholm vs 1-Eng-Sieg
+  510          1.00   4.00 6-Schwaighart-Rind vs 4-Sivapragasam-Morris-Lent
+  510          1.00   4.00 10-Tipton-Kasperkiewicz vs 3-Zaugg-Stevens
+  510          1.00   4.00 11-Chaunal-Chaunal vs 9-Hendrickson-Miller
+ 1010          4.00   1.00 12-Ring-Christensen vs 7-Ford-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    4.50   0.50 2-Miller-Anderson vs 8-Carlson-Rigazio
+       1100    0.00   5.00 5-Galer-Setterholm vs 1-Eng-Sieg
+        500    1.00   4.00 6-Schwaighart-Rind vs 4-Sivapragasam-Morris-Lent
+        200    2.50   2.50 10-Tipton-Kasperkiewicz vs 3-Zaugg-Stevens
+        150    4.50   0.50 11-Chaunal-Chaunal vs 9-Hendrickson-Miller
+        200    2.50   2.50 12-Ring-Christensen vs 7-Ford-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.00   3.00 2-Miller-Anderson vs 8-Carlson-Rigazio
+        420    2.00   3.00 5-Galer-Setterholm vs 1-Eng-Sieg
+        420    2.00   3.00 6-Schwaighart-Rind vs 4-Sivapragasam-Morris-Lent
+        450    0.00   5.00 10-Tipton-Kasperkiewicz vs 3-Zaugg-Stevens
+   50          4.00   1.00 11-Chaunal-Chaunal vs 9-Hendrickson-Miller
+  100          5.00   0.00 12-Ring-Christensen vs 7-Ford-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 3-Zaugg-Stevens vs 9-Hendrickson-Miller
+  100          3.00   2.00 6-Schwaighart-Rind vs 2-Miller-Anderson
+  100          3.00   2.00 7-Ford-Grubbs vs 5-Galer-Setterholm
+        620    0.00   5.00 10-Tipton-Kasperkiewicz vs 4-Sivapragasam-Morris-Lent
+        170    1.00   4.00 11-Chaunal-Chaunal vs 1-Eng-Sieg
+  200          5.00   0.00 12-Ring-Christensen vs 8-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    2.00   3.00 3-Zaugg-Stevens vs 9-Hendrickson-Miller
+  140          4.50   0.50 6-Schwaighart-Rind vs 2-Miller-Anderson
+  100          3.00   2.00 7-Ford-Grubbs vs 5-Galer-Setterholm
+  140          4.50   0.50 10-Tipton-Kasperkiewicz vs 4-Sivapragasam-Morris-Lent
+        400    0.00   5.00 11-Chaunal-Chaunal vs 1-Eng-Sieg
+        300    1.00   4.00 12-Ring-Christensen vs 8-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00   4.00 3-Zaugg-Stevens vs 9-Hendrickson-Miller
+        430    4.00   1.00 6-Schwaighart-Rind vs 2-Miller-Anderson
+        460    1.00   4.00 7-Ford-Grubbs vs 5-Galer-Setterholm
+        460    1.00   4.00 10-Tipton-Kasperkiewicz vs 4-Sivapragasam-Morris-Lent
+        430    4.00   1.00 11-Chaunal-Chaunal vs 1-Eng-Sieg
+        430    4.00   1.00 12-Ring-Christensen vs 8-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   2.50 2-Miller-Anderson vs 11-Chaunal-Chaunal
+  450          2.50   2.50 4-Sivapragasam-Morris-Lent vs 1-Eng-Sieg
+  450          2.50   2.50 5-Galer-Setterholm vs 10-Tipton-Kasperkiewicz
+  450          2.50   2.50 7-Ford-Grubbs vs 3-Zaugg-Stevens
+  450          2.50   2.50 8-Carlson-Rigazio vs 6-Schwaighart-Rind
+  450          2.50   2.50 12-Ring-Christensen vs 9-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   1.50 2-Miller-Anderson vs 11-Chaunal-Chaunal
+  140          3.50   1.50 4-Sivapragasam-Morris-Lent vs 1-Eng-Sieg
+  140          3.50   1.50 5-Galer-Setterholm vs 10-Tipton-Kasperkiewicz
+  110          0.50   4.50 7-Ford-Grubbs vs 3-Zaugg-Stevens
+  110          0.50   4.50 8-Carlson-Rigazio vs 6-Schwaighart-Rind
+  140          3.50   1.50 12-Ring-Christensen vs 9-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.00   2.00 2-Miller-Anderson vs 11-Chaunal-Chaunal
+  480          3.00   2.00 4-Sivapragasam-Morris-Lent vs 1-Eng-Sieg
+  450          0.00   5.00 5-Galer-Setterholm vs 10-Tipton-Kasperkiewicz
+  480          3.00   2.00 7-Ford-Grubbs vs 3-Zaugg-Stevens
+  480          3.00   2.00 8-Carlson-Rigazio vs 6-Schwaighart-Rind
+  480          3.00   2.00 12-Ring-Christensen vs 9-Hendrickson-Miller
+----------------------------------------------------------------------
