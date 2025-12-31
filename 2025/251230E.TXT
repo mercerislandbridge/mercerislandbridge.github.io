@@ -1,0 +1,474 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>December 30, 2025  |CLUB NO.>158048    | 12/30/2025 22:03
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2600/1300 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=5/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Liliana Diaconescu       A    .     .     .     92.25  42.71          
+
+ 2 Ray Miller             Chris Pesce              A    .     .     .    101.25  46.88          
+
+ 3 Elaine Vona            James Hamilton           C    .     .     .     96.75  44.79          
+
+ 4 Bogdan Vulcan          Corneliu Galer           A   2/3    .     .    126.56  58.59  0.60(A) 
+
+ 5 Shawn Abernethy        Ann Romeo                A    .     .     .     93.94  43.49          
+
+ 6 Adam Ruprecht          Christopher Jarvis       B    4     .     .    119.00  55.09  0.35(A) 
+
+ 7 David Taylor           Sue Anderson             A    .     .     .     92.81  42.97          
+
+ 8 John Krah              Nathan Kasperkiewicz     C    .     .     .    101.81  47.13          
+
+ 9 Chris Morris-Lent      Kevin Cline              B   2/3    2     .    126.56  58.59  0.60(A) 
+
+10 Qinqin Zhang           Genie Thai-May           C    1     1     1    127.69  59.12  1.00(A) 
+
+
+                                          Totals                        1078.62       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>December 30, 2025  |CLUB NO.>158048    | 12/30/2025 22:03
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/2600/1300 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=5/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Christensen       Becky Stevens            A    .     .     .    109.00  50.46          
+
+ 2 Joseph Grill           Valliappa Lakshmanan     B    .     .     .     92.50  42.82          
+
+ 3 Paul Kubicek           Alyce Howarth            C    .     .     .     67.50  31.25          
+
+ 4 Stanford Christie      David Wright             A    1     .     .    142.50  65.97  1.00(A) 
+
+ 5 Cassandra Hall         Aaron Mohrman            C    2     1     1    119.00  55.09  0.70(A) 
+
+ 6 Nick Tipton            Leyi Chen                C    .     2     .    116.00  53.70  0.28(B) 
+
+
+
+ 8 Paul Schwaighart       Brad Rind                A    3     .     .    117.50  54.40  0.50(A) 
+
+ 9 Shannon Kasperkiewicz  John Aslin               B    .     .     .     91.00  42.13          
+
+10 Kim Eng                Eric Sieg                A    4     .     .    117.00  54.17  0.35(A) 
+
+
+                                          Totals                         972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.50   2.50 1-Zaugg-Diaconescu vs 1-Christensen-Stevens
+  450          7.50   0.50 2-Miller-Pesce vs 4-Christie-Wright
+        100    0.00   8.00 3-Vona-Hamilton vs 6-Tipton-Chen
+  450          7.50   0.50 4-Vulcan-Galer vs 8-Schwaighart-Rind
+  170          3.00   5.00 5-Abernethy-Romeo vs 10-Eng-Sieg
+  170          3.00   5.00 6-Ruprecht-Jarvis vs 3-Kubicek-Howarth
+  100          1.00   7.00 7-Taylor-Anderson vs 5-Hall-Mohrman
+  170          3.00   5.00 9-Morris-Lent-Cline vs 9-Kasperkiewicz-Aslin
+  420          5.50   2.50 10-Zhang-Thai-May vs 2-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        470    0.00   8.00 1-Zaugg-Diaconescu vs 1-Christensen-Stevens
+        110    1.50   6.50 2-Miller-Pesce vs 4-Christie-Wright
+  110          6.00   2.00 3-Vona-Hamilton vs 6-Tipton-Chen
+  100          4.50   3.50 4-Vulcan-Galer vs 8-Schwaighart-Rind
+        110    1.50   6.50 5-Abernethy-Romeo vs 10-Eng-Sieg
+    PASS       3.00   5.00 6-Ruprecht-Jarvis vs 3-Kubicek-Howarth
+  150          8.00   0.00 7-Taylor-Anderson vs 5-Hall-Mohrman
+  130          7.00   1.00 9-Morris-Lent-Cline vs 9-Kasperkiewicz-Aslin
+  100          4.50   3.50 10-Zhang-Thai-May vs 2-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    5.00   3.00 1-Zaugg-Diaconescu vs 1-Christensen-Stevens
+        660    1.50   6.50 2-Miller-Pesce vs 4-Christie-Wright
+        660    1.50   6.50 3-Vona-Hamilton vs 6-Tipton-Chen
+        660    1.50   6.50 4-Vulcan-Galer vs 8-Schwaighart-Rind
+        660    1.50   6.50 5-Abernethy-Romeo vs 10-Eng-Sieg
+         50    7.00   1.00 6-Ruprecht-Jarvis vs 3-Kubicek-Howarth
+        650    4.00   4.00 7-Taylor-Anderson vs 5-Hall-Mohrman
+  200          8.00   0.00 9-Morris-Lent-Cline vs 9-Kasperkiewicz-Aslin
+        300    6.00   2.00 10-Zhang-Thai-May vs 2-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.00   7.00 1-Zaugg-Diaconescu vs 10-Eng-Sieg
+        630    4.00   4.00 2-Miller-Pesce vs 2-Grill-Lakshmanan
+        630    4.00   4.00 3-Vona-Hamilton vs 5-Hall-Mohrman
+        660    1.00   7.00 5-Abernethy-Romeo vs 9-Kasperkiewicz-Aslin
+        630    4.00   4.00 6-Ruprecht-Jarvis vs 4-Christie-Wright
+        660    1.00   7.00 7-Taylor-Anderson vs 6-Tipton-Chen
+  660          8.00   0.00 8-Krah-Kasperkiewicz vs 8-Schwaighart-Rind
+        170    6.00   2.00 9-Morris-Lent-Cline vs 1-Christensen-Stevens
+        150    7.00   1.00 10-Zhang-Thai-May vs 3-Kubicek-Howarth
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.50   0.50 1-Zaugg-Diaconescu vs 10-Eng-Sieg
+         90    3.00   5.00 2-Miller-Pesce vs 2-Grill-Lakshmanan
+         90    3.00   5.00 3-Vona-Hamilton vs 5-Hall-Mohrman
+         90    3.00   5.00 5-Abernethy-Romeo vs 9-Kasperkiewicz-Aslin
+         90    3.00   5.00 6-Ruprecht-Jarvis vs 4-Christie-Wright
+         90    3.00   5.00 7-Taylor-Anderson vs 6-Tipton-Chen
+         90    3.00   5.00 8-Krah-Kasperkiewicz vs 8-Schwaighart-Rind
+         90    3.00   5.00 9-Morris-Lent-Cline vs 1-Christensen-Stevens
+   50          7.50   0.50 10-Zhang-Thai-May vs 3-Kubicek-Howarth
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          0.00   8.00 1-Zaugg-Diaconescu vs 10-Eng-Sieg
+  150          6.00   2.00 2-Miller-Pesce vs 2-Grill-Lakshmanan
+  100          1.00   7.00 3-Vona-Hamilton vs 5-Hall-Mohrman
+  150          6.00   2.00 5-Abernethy-Romeo vs 9-Kasperkiewicz-Aslin
+  120          3.00   5.00 6-Ruprecht-Jarvis vs 4-Christie-Wright
+  120          3.00   5.00 7-Taylor-Anderson vs 6-Tipton-Chen
+  120          3.00   5.00 8-Krah-Kasperkiewicz vs 8-Schwaighart-Rind
+  200          8.00   0.00 9-Morris-Lent-Cline vs 1-Christensen-Stevens
+  150          6.00   2.00 10-Zhang-Thai-May vs 3-Kubicek-Howarth
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.00   5.00 1-Zaugg-Diaconescu vs 9-Kasperkiewicz-Aslin
+         90    1.00   7.00 2-Miller-Pesce vs 1-Christensen-Stevens
+  200          7.50   0.50 3-Vona-Hamilton vs 3-Kubicek-Howarth
+  200          7.50   0.50 4-Vulcan-Galer vs 6-Tipton-Chen
+   90          3.00   5.00 5-Abernethy-Romeo vs 8-Schwaighart-Rind
+   90          3.00   5.00 6-Ruprecht-Jarvis vs 5-Hall-Mohrman
+  120          6.00   2.00 8-Krah-Kasperkiewicz vs 10-Eng-Sieg
+  100          5.00   3.00 9-Morris-Lent-Cline vs 2-Grill-Lakshmanan
+        200    0.00   8.00 10-Zhang-Thai-May vs 4-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   3.50 1-Zaugg-Diaconescu vs 9-Kasperkiewicz-Aslin
+        140    1.00   7.00 2-Miller-Pesce vs 1-Christensen-Stevens
+  120          8.00   0.00 3-Vona-Hamilton vs 3-Kubicek-Howarth
+         50    4.50   3.50 4-Vulcan-Galer vs 6-Tipton-Chen
+         50    4.50   3.50 5-Abernethy-Romeo vs 8-Schwaighart-Rind
+         50    4.50   3.50 6-Ruprecht-Jarvis vs 5-Hall-Mohrman
+        250    0.00   8.00 8-Krah-Kasperkiewicz vs 10-Eng-Sieg
+         50    4.50   3.50 9-Morris-Lent-Cline vs 2-Grill-Lakshmanan
+         50    4.50   3.50 10-Zhang-Thai-May vs 4-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          3.00   5.00 1-Zaugg-Diaconescu vs 9-Kasperkiewicz-Aslin
+    PASS       0.00   8.00 2-Miller-Pesce vs 1-Christensen-Stevens
+  140          5.50   2.50 3-Vona-Hamilton vs 3-Kubicek-Howarth
+  110          1.00   7.00 4-Vulcan-Galer vs 6-Tipton-Chen
+  120          3.00   5.00 5-Abernethy-Romeo vs 8-Schwaighart-Rind
+  180          7.00   1.00 6-Ruprecht-Jarvis vs 5-Hall-Mohrman
+  470          8.00   0.00 8-Krah-Kasperkiewicz vs 10-Eng-Sieg
+  140          5.50   2.50 9-Morris-Lent-Cline vs 2-Grill-Lakshmanan
+  120          3.00   5.00 10-Zhang-Thai-May vs 4-Christie-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.50   2.50 1-Zaugg-Diaconescu vs 8-Schwaighart-Rind
+  800          7.00   1.00 2-Miller-Pesce vs 10-Eng-Sieg
+  930          8.00   0.00 3-Vona-Hamilton vs 2-Grill-Lakshmanan
+  620          5.50   2.50 4-Vulcan-Galer vs 4-Christie-Wright
+  140          1.00   7.00 6-Ruprecht-Jarvis vs 6-Tipton-Chen
+  170          3.00   5.00 7-Taylor-Anderson vs 9-Kasperkiewicz-Aslin
+  170          3.00   5.00 8-Krah-Kasperkiewicz vs 1-Christensen-Stevens
+  170          3.00   5.00 9-Morris-Lent-Cline vs 3-Kubicek-Howarth
+        100    0.00   8.00 10-Zhang-Thai-May vs 5-Hall-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.00   6.00 1-Zaugg-Diaconescu vs 8-Schwaighart-Rind
+  150          5.50   2.50 2-Miller-Pesce vs 10-Eng-Sieg
+        100    3.50   4.50 3-Vona-Hamilton vs 2-Grill-Lakshmanan
+  150          5.50   2.50 4-Vulcan-Galer vs 4-Christie-Wright
+        100    3.50   4.50 6-Ruprecht-Jarvis vs 6-Tipton-Chen
+        470    0.00   8.00 7-Taylor-Anderson vs 9-Kasperkiewicz-Aslin
+        140    1.00   7.00 8-Krah-Kasperkiewicz vs 1-Christensen-Stevens
+  430          8.00   0.00 9-Morris-Lent-Cline vs 3-Kubicek-Howarth
+  300          7.00   1.00 10-Zhang-Thai-May vs 5-Hall-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.50   3.50 1-Zaugg-Diaconescu vs 8-Schwaighart-Rind
+  110          4.50   3.50 2-Miller-Pesce vs 10-Eng-Sieg
+        100    1.50   6.50 3-Vona-Hamilton vs 2-Grill-Lakshmanan
+        200    0.00   8.00 4-Vulcan-Galer vs 4-Christie-Wright
+        100    1.50   6.50 6-Ruprecht-Jarvis vs 6-Tipton-Chen
+  110          4.50   3.50 7-Taylor-Anderson vs 9-Kasperkiewicz-Aslin
+  110          4.50   3.50 8-Krah-Kasperkiewicz vs 1-Christensen-Stevens
+  140          7.50   0.50 9-Morris-Lent-Cline vs 3-Kubicek-Howarth
+  140          7.50   0.50 10-Zhang-Thai-May vs 5-Hall-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    5.50   2.50 2-Miller-Pesce vs 9-Kasperkiewicz-Aslin
+        150    5.50   2.50 3-Vona-Hamilton vs 1-Christensen-Stevens
+        150    5.50   2.50 4-Vulcan-Galer vs 3-Kubicek-Howarth
+        600    0.00   8.00 5-Abernethy-Romeo vs 5-Hall-Mohrman
+        200    2.50   5.50 6-Ruprecht-Jarvis vs 8-Schwaighart-Rind
+        210    1.00   7.00 7-Taylor-Anderson vs 10-Eng-Sieg
+        200    2.50   5.50 8-Krah-Kasperkiewicz vs 2-Grill-Lakshmanan
+        150    5.50   2.50 9-Morris-Lent-Cline vs 4-Christie-Wright
+        120    8.00   0.00 10-Zhang-Thai-May vs 6-Tipton-Chen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    6.00   2.00 2-Miller-Pesce vs 9-Kasperkiewicz-Aslin
+        450    2.50   5.50 3-Vona-Hamilton vs 1-Christensen-Stevens
+        170    8.00   0.00 4-Vulcan-Galer vs 3-Kubicek-Howarth
+        450    2.50   5.50 5-Abernethy-Romeo vs 5-Hall-Mohrman
+        450    2.50   5.50 6-Ruprecht-Jarvis vs 8-Schwaighart-Rind
+        450    2.50   5.50 7-Taylor-Anderson vs 10-Eng-Sieg
+        200    7.00   1.00 8-Krah-Kasperkiewicz vs 2-Grill-Lakshmanan
+        450    2.50   5.50 9-Morris-Lent-Cline vs 4-Christie-Wright
+        450    2.50   5.50 10-Zhang-Thai-May vs 6-Tipton-Chen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.50   3.50 2-Miller-Pesce vs 9-Kasperkiewicz-Aslin
+        100    0.00   8.00 3-Vona-Hamilton vs 1-Christensen-Stevens
+  630          4.50   3.50 4-Vulcan-Galer vs 3-Kubicek-Howarth
+  630          4.50   3.50 5-Abernethy-Romeo vs 5-Hall-Mohrman
+  630          4.50   3.50 6-Ruprecht-Jarvis vs 8-Schwaighart-Rind
+  630          4.50   3.50 7-Taylor-Anderson vs 10-Eng-Sieg
+  630          4.50   3.50 8-Krah-Kasperkiewicz vs 2-Grill-Lakshmanan
+  630          4.50   3.50 9-Morris-Lent-Cline vs 4-Christie-Wright
+  630          4.50   3.50 10-Zhang-Thai-May vs 6-Tipton-Chen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    7.50   0.50 1-Zaugg-Diaconescu vs 6-Tipton-Chen
+        140    3.00   5.00 2-Miller-Pesce vs 8-Schwaighart-Rind
+        140    3.00   5.00 3-Vona-Hamilton vs 10-Eng-Sieg
+        140    3.00   5.00 4-Vulcan-Galer vs 2-Grill-Lakshmanan
+        150    1.00   7.00 5-Abernethy-Romeo vs 4-Christie-Wright
+         50    7.50   0.50 6-Ruprecht-Jarvis vs 9-Kasperkiewicz-Aslin
+        100    5.50   2.50 7-Taylor-Anderson vs 1-Christensen-Stevens
+        100    5.50   2.50 8-Krah-Kasperkiewicz vs 3-Kubicek-Howarth
+        170    0.00   8.00 9-Morris-Lent-Cline vs 5-Hall-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          5.00   3.00 1-Zaugg-Diaconescu vs 6-Tipton-Chen
+  430          5.00   3.00 2-Miller-Pesce vs 8-Schwaighart-Rind
+  430          5.00   3.00 3-Vona-Hamilton vs 10-Eng-Sieg
+  430          5.00   3.00 4-Vulcan-Galer vs 2-Grill-Lakshmanan
+  400          1.00   7.00 5-Abernethy-Romeo vs 4-Christie-Wright
+  430          5.00   3.00 6-Ruprecht-Jarvis vs 9-Kasperkiewicz-Aslin
+  430          5.00   3.00 7-Taylor-Anderson vs 1-Christensen-Stevens
+  430          5.00   3.00 8-Krah-Kasperkiewicz vs 3-Kubicek-Howarth
+         50    0.00   8.00 9-Morris-Lent-Cline vs 5-Hall-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          2.50   5.50 1-Zaugg-Diaconescu vs 6-Tipton-Chen
+ 1430          4.50   3.50 2-Miller-Pesce vs 8-Schwaighart-Rind
+        500    0.00   8.00 3-Vona-Hamilton vs 10-Eng-Sieg
+ 1440          7.00   1.00 4-Vulcan-Galer vs 2-Grill-Lakshmanan
+ 1430          4.50   3.50 5-Abernethy-Romeo vs 4-Christie-Wright
+ 1440          7.00   1.00 6-Ruprecht-Jarvis vs 9-Kasperkiewicz-Aslin
+  690          2.50   5.50 7-Taylor-Anderson vs 1-Christensen-Stevens
+        100    1.00   7.00 8-Krah-Kasperkiewicz vs 3-Kubicek-Howarth
+ 1440          7.00   1.00 9-Morris-Lent-Cline vs 5-Hall-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    3.50   4.50 1-Zaugg-Diaconescu vs 5-Hall-Mohrman
+        800    0.00   8.00 3-Vona-Hamilton vs 9-Kasperkiewicz-Aslin
+        120    3.50   4.50 4-Vulcan-Galer vs 1-Christensen-Stevens
+  200          7.50   0.50 5-Abernethy-Romeo vs 3-Kubicek-Howarth
+        110    5.00   3.00 6-Ruprecht-Jarvis vs 10-Eng-Sieg
+        140    1.50   6.50 7-Taylor-Anderson vs 2-Grill-Lakshmanan
+  100          6.00   2.00 8-Krah-Kasperkiewicz vs 4-Christie-Wright
+  200          7.50   0.50 9-Morris-Lent-Cline vs 6-Tipton-Chen
+        140    1.50   6.50 10-Zhang-Thai-May vs 8-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   6.50 1-Zaugg-Diaconescu vs 5-Hall-Mohrman
+  600          3.50   4.50 3-Vona-Hamilton vs 9-Kasperkiewicz-Aslin
+  620          6.50   1.50 4-Vulcan-Galer vs 1-Christensen-Stevens
+  620          6.50   1.50 5-Abernethy-Romeo vs 3-Kubicek-Howarth
+  600          3.50   4.50 6-Ruprecht-Jarvis vs 10-Eng-Sieg
+  620          6.50   1.50 7-Taylor-Anderson vs 2-Grill-Lakshmanan
+        200    0.00   8.00 8-Krah-Kasperkiewicz vs 4-Christie-Wright
+  620          6.50   1.50 9-Morris-Lent-Cline vs 6-Tipton-Chen
+        100    1.50   6.50 10-Zhang-Thai-May vs 8-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1150          2.00   6.00 1-Zaugg-Diaconescu vs 5-Hall-Mohrman
+ 1390          4.00   4.00 3-Vona-Hamilton vs 9-Kasperkiewicz-Aslin
+ 1390          4.00   4.00 4-Vulcan-Galer vs 1-Christensen-Stevens
+  660          1.00   7.00 5-Abernethy-Romeo vs 3-Kubicek-Howarth
+ 2140          7.00   1.00 6-Ruprecht-Jarvis vs 10-Eng-Sieg
+ 1390          4.00   4.00 7-Taylor-Anderson vs 2-Grill-Lakshmanan
+        300    0.00   8.00 8-Krah-Kasperkiewicz vs 4-Christie-Wright
+ 2140          7.00   1.00 9-Morris-Lent-Cline vs 6-Tipton-Chen
+ 2140          7.00   1.00 10-Zhang-Thai-May vs 8-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   7.00 1-Zaugg-Diaconescu vs 4-Christie-Wright
+        100    1.00   7.00 2-Miller-Pesce vs 6-Tipton-Chen
+   90          5.50   2.50 3-Vona-Hamilton vs 8-Schwaighart-Rind
+   90          5.50   2.50 4-Vulcan-Galer vs 10-Eng-Sieg
+         50    3.00   5.00 5-Abernethy-Romeo vs 2-Grill-Lakshmanan
+   90          5.50   2.50 6-Ruprecht-Jarvis vs 1-Christensen-Stevens
+  120          8.00   0.00 7-Taylor-Anderson vs 3-Kubicek-Howarth
+        100    1.00   7.00 8-Krah-Kasperkiewicz vs 5-Hall-Mohrman
+   90          5.50   2.50 10-Zhang-Thai-May vs 9-Kasperkiewicz-Aslin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   7.00 1-Zaugg-Diaconescu vs 4-Christie-Wright
+        600    2.50   5.50 2-Miller-Pesce vs 6-Tipton-Chen
+        630    0.00   8.00 3-Vona-Hamilton vs 8-Schwaighart-Rind
+        170    4.00   4.00 4-Vulcan-Galer vs 10-Eng-Sieg
+  100          7.00   1.00 5-Abernethy-Romeo vs 2-Grill-Lakshmanan
+  100          7.00   1.00 6-Ruprecht-Jarvis vs 1-Christensen-Stevens
+        600    2.50   5.50 7-Taylor-Anderson vs 3-Kubicek-Howarth
+        110    5.00   3.00 8-Krah-Kasperkiewicz vs 5-Hall-Mohrman
+  100          7.00   1.00 10-Zhang-Thai-May vs 9-Kasperkiewicz-Aslin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   7.00 1-Zaugg-Diaconescu vs 4-Christie-Wright
+  110          3.00   5.00 2-Miller-Pesce vs 6-Tipton-Chen
+  170          7.50   0.50 3-Vona-Hamilton vs 8-Schwaighart-Rind
+        470    0.00   8.00 4-Vulcan-Galer vs 10-Eng-Sieg
+        150    2.00   6.00 5-Abernethy-Romeo vs 2-Grill-Lakshmanan
+  140          5.00   3.00 6-Ruprecht-Jarvis vs 1-Christensen-Stevens
+  140          5.00   3.00 7-Taylor-Anderson vs 3-Kubicek-Howarth
+  170          7.50   0.50 8-Krah-Kasperkiewicz vs 5-Hall-Mohrman
+  140          5.00   3.00 10-Zhang-Thai-May vs 9-Kasperkiewicz-Aslin
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   6.00 1-Zaugg-Diaconescu vs 3-Kubicek-Howarth
+         50    2.00   6.00 2-Miller-Pesce vs 5-Hall-Mohrman
+  170          8.00   0.00 4-Vulcan-Galer vs 9-Kasperkiewicz-Aslin
+  140          6.00   2.00 5-Abernethy-Romeo vs 1-Christensen-Stevens
+  140          6.00   2.00 6-Ruprecht-Jarvis vs 2-Grill-Lakshmanan
+         50    2.00   6.00 7-Taylor-Anderson vs 4-Christie-Wright
+  140          6.00   2.00 8-Krah-Kasperkiewicz vs 6-Tipton-Chen
+         50    2.00   6.00 9-Morris-Lent-Cline vs 8-Schwaighart-Rind
+         50    2.00   6.00 10-Zhang-Thai-May vs 10-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   1.00 1-Zaugg-Diaconescu vs 3-Kubicek-Howarth
+        600    4.00   4.00 2-Miller-Pesce vs 5-Hall-Mohrman
+        600    4.00   4.00 4-Vulcan-Galer vs 9-Kasperkiewicz-Aslin
+  100          7.00   1.00 5-Abernethy-Romeo vs 1-Christensen-Stevens
+        630    1.00   7.00 6-Ruprecht-Jarvis vs 2-Grill-Lakshmanan
+        600    4.00   4.00 7-Taylor-Anderson vs 4-Christie-Wright
+        630    1.00   7.00 8-Krah-Kasperkiewicz vs 6-Tipton-Chen
+        630    1.00   7.00 9-Morris-Lent-Cline vs 8-Schwaighart-Rind
+  100          7.00   1.00 10-Zhang-Thai-May vs 10-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          6.50   1.50 1-Zaugg-Diaconescu vs 3-Kubicek-Howarth
+  480          6.50   1.50 2-Miller-Pesce vs 5-Hall-Mohrman
+  480          6.50   1.50 4-Vulcan-Galer vs 9-Kasperkiewicz-Aslin
+  450          3.50   4.50 5-Abernethy-Romeo vs 1-Christensen-Stevens
+  480          6.50   1.50 6-Ruprecht-Jarvis vs 2-Grill-Lakshmanan
+         50    0.50   7.50 7-Taylor-Anderson vs 4-Christie-Wright
+  420          2.00   6.00 8-Krah-Kasperkiewicz vs 6-Tipton-Chen
+         50    0.50   7.50 9-Morris-Lent-Cline vs 8-Schwaighart-Rind
+  450          3.50   4.50 10-Zhang-Thai-May vs 10-Eng-Sieg
+----------------------------------------------------------------------
