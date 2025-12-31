@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>December 30, 2025  |CLUB NO.>158048    | 12/30/2025 22:03
+DATE>December 30, 2025  |CLUB NO.>158048    | 12/31/2025 13:02
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,31 +11,31 @@ PAIRS IN STRAT A=10/B=5/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Brian Zaugg            Liliana Diaconescu       A    .     .     .     92.25  42.71          
+ 1 Brian Zaugg            Liliana Diaconescu       A    .     .     .     92.81  42.97          
 
- 2 Ray Miller             Chris Pesce              A    .     .     .    101.25  46.88          
+ 2 Ray Miller             Chris Pesce              A    .     .     .    102.38  47.40          
 
- 3 Elaine Vona            James Hamilton           C    .     .     .     96.75  44.79          
+ 3 Elaine Vona            James Hamilton           C    .     .     .     97.88  45.31          
 
- 4 Bogdan Vulcan          Corneliu Galer           A   2/3    .     .    126.56  58.59  0.60(A) 
+ 4 Bogdan Vulcan          Corneliu Galer           A    3     .     .    126.56  58.59  0.50(A) 
 
- 5 Shawn Abernethy        Ann Romeo                A    .     .     .     93.94  43.49          
+ 5 Shawn Abernethy        Ann Romeo                A    .     .     .     94.50  43.75          
 
- 6 Adam Ruprecht          Christopher Jarvis       B    4     .     .    119.00  55.09  0.35(A) 
+ 6 Adam Ruprecht          Christopher Jarvis       B    4     .     .    120.00  55.56  0.35(A) 
 
- 7 David Taylor           Sue Anderson             A    .     .     .     92.81  42.97          
+ 7 David Taylor           Sue Anderson             A    .     .     .     93.38  43.23          
 
- 8 John Krah              Nathan Kasperkiewicz     C    .     .     .    101.81  47.13          
+ 8 John Krah              Nathan Kasperkiewicz     C    .     .     .     94.50  43.75          
 
- 9 Chris Morris-Lent      Kevin Cline              B   2/3    2     .    126.56  58.59  0.60(A) 
+ 9 Chris Morris-Lent      Kevin Cline              B    2     2     .    127.69  59.12  0.70(A) 
 
-10 Qinqin Zhang           Genie Thai-May           C    1     1     1    127.69  59.12  1.00(A) 
+10 Qinqin Zhang           Genie Thai-May           C    1     1     1    128.81  59.63  1.00(A) 
 
 
-                                          Totals                        1078.62       
+                                          Totals                        1078.51       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>December 30, 2025  |CLUB NO.>158048    | 12/30/2025 22:03
+DATE>December 30, 2025  |CLUB NO.>158048    | 12/31/2025 13:02
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -45,25 +45,25 @@ PAIRS IN STRAT A=10/B=5/C=3                      ,---,-------------------------,
 -------------------------------------------------|   |           Section       |      |Section  |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
- 1 Mike Christensen       Becky Stevens            A    .     .     .    109.00  50.46          
+ 1 Mike Christensen       Becky Stevens            A    .     .     .    108.00  50.00          
 
- 2 Joseph Grill           Valliappa Lakshmanan     B    .     .     .     92.50  42.82          
+ 2 Joseph Grill           Valliappa Lakshmanan     B    .     .     .     91.50  42.36          
 
- 3 Paul Kubicek           Alyce Howarth            C    .     .     .     67.50  31.25          
+ 3 Paul Kubicek           Alyce Howarth            C    .     .     .     66.50  30.79          
 
- 4 Stanford Christie      David Wright             A    1     .     .    142.50  65.97  1.00(A) 
+ 4 Stanford Christie      David Wright             A    1     .     .    141.50  65.51  1.00(A) 
 
- 5 Cassandra Hall         Aaron Mohrman            C    2     1     1    119.00  55.09  0.70(A) 
+ 5 Cassandra Hall         Aaron Mohrman            C    3     1     1    118.00  54.63  0.50(A) 
 
- 6 Nick Tipton            Leyi Chen                C    .     2     .    116.00  53.70  0.28(B) 
+ 6 Nick Tipton            Leyi Chen                C    .     2     .    115.50  53.47  0.28(B) 
 
 
 
- 8 Paul Schwaighart       Brad Rind                A    3     .     .    117.50  54.40  0.50(A) 
+ 8 Paul Schwaighart       Brad Rind                A    2     .     .    124.00  57.41  0.70(A) 
 
- 9 Shannon Kasperkiewicz  John Aslin               B    .     .     .     91.00  42.13          
+ 9 Shannon Kasperkiewicz  John Aslin               B    .     .     .     90.50  41.90          
 
-10 Kim Eng                Eric Sieg                A    4     .     .    117.00  54.17  0.35(A) 
+10 Kim Eng                Eric Sieg                A    4     .     .    116.50  53.94  0.35(A) 
 
 
                                           Totals                         972.00       
@@ -117,15 +117,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-        660    1.00   7.00 1-Zaugg-Diaconescu vs 10-Eng-Sieg
-        630    4.00   4.00 2-Miller-Pesce vs 2-Grill-Lakshmanan
-        630    4.00   4.00 3-Vona-Hamilton vs 5-Hall-Mohrman
-        660    1.00   7.00 5-Abernethy-Romeo vs 9-Kasperkiewicz-Aslin
-        630    4.00   4.00 6-Ruprecht-Jarvis vs 4-Christie-Wright
-        660    1.00   7.00 7-Taylor-Anderson vs 6-Tipton-Chen
-  660          8.00   0.00 8-Krah-Kasperkiewicz vs 8-Schwaighart-Rind
-        170    6.00   2.00 9-Morris-Lent-Cline vs 1-Christensen-Stevens
-        150    7.00   1.00 10-Zhang-Thai-May vs 3-Kubicek-Howarth
+        660    1.50   6.50 1-Zaugg-Diaconescu vs 10-Eng-Sieg
+        630    5.00   3.00 2-Miller-Pesce vs 2-Grill-Lakshmanan
+        630    5.00   3.00 3-Vona-Hamilton vs 5-Hall-Mohrman
+        660    1.50   6.50 5-Abernethy-Romeo vs 9-Kasperkiewicz-Aslin
+        630    5.00   3.00 6-Ruprecht-Jarvis vs 4-Christie-Wright
+        660    1.50   6.50 7-Taylor-Anderson vs 6-Tipton-Chen
+        660    1.50   6.50 8-Krah-Kasperkiewicz vs 8-Schwaighart-Rind
+        170    7.00   1.00 9-Morris-Lent-Cline vs 1-Christensen-Stevens
+        150    8.00   0.00 10-Zhang-Thai-May vs 3-Kubicek-Howarth
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 5
