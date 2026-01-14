@@ -1,0 +1,470 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>January 13, 2026   |CLUB NO.>158048    | 01/13/2026 22:03
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Junior Fund                  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=6/C=2                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Brian Zaugg            Liliana Diaconescu       B   .     .     .   |   .     .     .    100.56  46.56          
+
+ 2 Dong Yan               Dong Wei                 B   .     4     .   |   4     2     .    113.00  52.31  0.74(OB)
+
+ 3 Oyvind Tafjord         Sue Anderson             B   .     .     .   |   .     .     .     95.19  44.07          
+
+ 4 Chris Mantell          Jim Mantell              C   .     .     .   |   .     .     .     68.94  31.92          
+
+ 5 Corneliu Galer         Dave Grubbs              A   .     .     .   |   .     .     .    106.62  49.36          
+
+ 6 Ray Miller             Ann Romeo                A   1     .     .   |   1     .     .    137.25  63.54  2.77(OA)
+
+ 7 Kim Eng                Eric Sieg                A   5     .     .   |   3     .     .    119.19  55.18  0.88(OA)
+
+ 8 John Krah              Chris Morris-Lent        C   3     1     1   |   2     1     1    127.10  58.84  1.75(OB)
+
+ 9 Elaine Vona            James Hamilton           B   .     .     .   |   .     .     .    105.75  48.96          
+
+
+                                          Totals                                            973.60       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>January 13, 2026   |CLUB NO.>158048    | 01/13/2026 22:03
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Junior Fund                  |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=6/C=4                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Bogdan Vulcan          Jeffrey Ford             A   .     .     .   |   .     .     .    106.75  49.42          
+
+ 2 David Wright           Shawn Abernethy          B   .     2     .   |   3     1     .    116.38  53.88  1.31(OB)
+
+ 3 Bryan Delfs            Stanford Christie        A   2     .     .   |   1     .     .    134.44  62.24  2.08(OA)
+
+ 4 Andrew Rigazio         Bryant Carlson           C   .     3     2   |   4     2     1    114.75  53.13  0.98(OB)
+
+ 5 Joseph Grill           Nathan Kasperkiewicz     C   .     .     .   |   .     .     .     92.00  42.59          
+
+ 6 Mike Christensen       Mike Ring                A   4     .     .   |   2     .     .    124.31  57.55  1.17(OA)
+
+ 7 Shannon Kasperkiewicz  Cassandra Hall           C   .     .     .   |   .     .     2    101.32  46.91  0.39(SC)
+
+ 8 Kevin Cline            Aaron Mohrman            B   .     .     .   |   .     .     .     89.40  41.39          
+
+ 9 Mudit Chaunal          Arjun Chaunal            C   .     .     .   |   .     .     .     91.07  42.16          
+
+
+                                          Totals                                            970.42       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   4.50 1-Zaugg-Diaconescu vs 1-Vulcan-Ford
+        530    0.00   8.00 2-Yan-Wei vs 3-Delfs-Christie
+  100          8.00   0.00 3-Tafjord-Anderson vs 5-Grill-Kasperkiewicz
+   50          7.00   1.00 4-Mantell-Mantell vs 7-Kasperkiewicz-Hall
+        150    1.00   7.00 5-Galer-Grubbs vs 9-Chaunal-Chaunal
+        140    2.00   6.00 6-Miller-Romeo vs 2-Wright-Abernethy
+        100    3.50   4.50 7-Eng-Sieg vs 4-Rigazio-Carlson
+         50    5.50   2.50 8-Krah-Morris-Lent vs 6-Christensen-Ring
+         50    5.50   2.50 9-Vona-Hamilton vs 8-Cline-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   5.50 1-Zaugg-Diaconescu vs 1-Vulcan-Ford
+        300    0.00   8.00 2-Yan-Wei vs 3-Delfs-Christie
+  110          6.00   2.00 3-Tafjord-Anderson vs 5-Grill-Kasperkiewicz
+        150    1.00   7.00 4-Mantell-Mantell vs 7-Kasperkiewicz-Hall
+  110          6.00   2.00 5-Galer-Grubbs vs 9-Chaunal-Chaunal
+        100    2.50   5.50 6-Miller-Romeo vs 2-Wright-Abernethy
+  110          6.00   2.00 7-Eng-Sieg vs 4-Rigazio-Carlson
+  110          6.00   2.00 8-Krah-Morris-Lent vs 6-Christensen-Ring
+  110          6.00   2.00 9-Vona-Hamilton vs 8-Cline-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.00   7.00 1-Zaugg-Diaconescu vs 1-Vulcan-Ford
+  420          2.00   6.00 2-Yan-Wei vs 3-Delfs-Christie
+  490          7.50   0.50 3-Tafjord-Anderson vs 5-Grill-Kasperkiewicz
+        100    0.00   8.00 4-Mantell-Mantell vs 7-Kasperkiewicz-Hall
+  460          5.00   3.00 5-Galer-Grubbs vs 9-Chaunal-Chaunal
+  430          3.00   5.00 6-Miller-Romeo vs 2-Wright-Abernethy
+  460          5.00   3.00 7-Eng-Sieg vs 4-Rigazio-Carlson
+  460          5.00   3.00 8-Krah-Morris-Lent vs 6-Christensen-Ring
+  490          7.50   0.50 9-Vona-Hamilton vs 8-Cline-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          8.00   0.00 1-Zaugg-Diaconescu vs 9-Chaunal-Chaunal
+        200    0.00   8.00 2-Yan-Wei vs 2-Wright-Abernethy
+   80          1.50   6.50 3-Tafjord-Anderson vs 4-Rigazio-Carlson
+   80          1.50   6.50 4-Mantell-Mantell vs 6-Christensen-Ring
+  130          5.50   2.50 5-Galer-Grubbs vs 8-Cline-Mohrman
+  130          5.50   2.50 6-Miller-Romeo vs 1-Vulcan-Ford
+  130          5.50   2.50 7-Eng-Sieg vs 3-Delfs-Christie
+  120          3.00   5.00 8-Krah-Morris-Lent vs 5-Grill-Kasperkiewicz
+  130          5.50   2.50 9-Vona-Hamilton vs 7-Kasperkiewicz-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        510    4.50   3.50 1-Zaugg-Diaconescu vs 9-Chaunal-Chaunal
+        510    4.50   3.50 2-Yan-Wei vs 2-Wright-Abernethy
+        980    1.50   6.50 3-Tafjord-Anderson vs 4-Rigazio-Carlson
+        510    4.50   3.50 4-Mantell-Mantell vs 6-Christensen-Ring
+        980    1.50   6.50 5-Galer-Grubbs vs 8-Cline-Mohrman
+  250          8.00   0.00 6-Miller-Romeo vs 1-Vulcan-Ford
+       1010    0.00   8.00 7-Eng-Sieg vs 3-Delfs-Christie
+        510    4.50   3.50 8-Krah-Morris-Lent vs 5-Grill-Kasperkiewicz
+        480    7.00   1.00 9-Vona-Hamilton vs 7-Kasperkiewicz-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          8.00   0.00 1-Zaugg-Diaconescu vs 9-Chaunal-Chaunal
+  420          5.50   2.50 2-Yan-Wei vs 2-Wright-Abernethy
+  110          3.00   5.00 3-Tafjord-Anderson vs 4-Rigazio-Carlson
+         50    1.00   7.00 4-Mantell-Mantell vs 6-Christensen-Ring
+  420          5.50   2.50 5-Galer-Grubbs vs 8-Cline-Mohrman
+  140          4.00   4.00 6-Miller-Romeo vs 1-Vulcan-Ford
+         50    1.00   7.00 7-Eng-Sieg vs 3-Delfs-Christie
+         50    1.00   7.00 8-Krah-Morris-Lent vs 5-Grill-Kasperkiewicz
+  480          7.00   1.00 9-Vona-Hamilton vs 7-Kasperkiewicz-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   7.00 1-Zaugg-Diaconescu vs 8-Cline-Mohrman
+  620          6.00   2.00 2-Yan-Wei vs 1-Vulcan-Ford
+        100    1.00   7.00 3-Tafjord-Anderson vs 3-Delfs-Christie
+  210          4.00   4.00 4-Mantell-Mantell vs 5-Grill-Kasperkiewicz
+  620          6.00   2.00 5-Galer-Grubbs vs 7-Kasperkiewicz-Hall
+  710          8.00   0.00 6-Miller-Romeo vs 9-Chaunal-Chaunal
+  620          6.00   2.00 7-Eng-Sieg vs 2-Wright-Abernethy
+        100    1.00   7.00 8-Krah-Morris-Lent vs 4-Rigazio-Carlson
+  170          3.00   5.00 9-Vona-Hamilton vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          7.00   1.00 1-Zaugg-Diaconescu vs 8-Cline-Mohrman
+        130    2.00   6.00 2-Yan-Wei vs 1-Vulcan-Ford
+        130    2.00   6.00 3-Tafjord-Anderson vs 3-Delfs-Christie
+        110    4.50   3.50 4-Mantell-Mantell vs 5-Grill-Kasperkiewicz
+        110    4.50   3.50 5-Galer-Grubbs vs 7-Kasperkiewicz-Hall
+   50          6.00   2.00 6-Miller-Romeo vs 9-Chaunal-Chaunal
+        130    2.00   6.00 7-Eng-Sieg vs 2-Wright-Abernethy
+  500          8.00   0.00 8-Krah-Morris-Lent vs 4-Rigazio-Carlson
+        150    0.00   8.00 9-Vona-Hamilton vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          8.00   0.00 1-Zaugg-Diaconescu vs 8-Cline-Mohrman
+  400          4.00   4.00 2-Yan-Wei vs 1-Vulcan-Ford
+  450          7.00   1.00 3-Tafjord-Anderson vs 3-Delfs-Christie
+  430          5.50   2.50 4-Mantell-Mantell vs 5-Grill-Kasperkiewicz
+  430          5.50   2.50 5-Galer-Grubbs vs 7-Kasperkiewicz-Hall
+         50    1.50   6.50 6-Miller-Romeo vs 9-Chaunal-Chaunal
+         50    1.50   6.50 7-Eng-Sieg vs 2-Wright-Abernethy
+         50    1.50   6.50 8-Krah-Morris-Lent vs 4-Rigazio-Carlson
+         50    1.50   6.50 9-Vona-Hamilton vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    3.50   4.50 1-Zaugg-Diaconescu vs 7-Kasperkiewicz-Hall
+        150    7.00   1.00 2-Yan-Wei vs 9-Chaunal-Chaunal
+        630    3.50   4.50 3-Tafjord-Anderson vs 2-Wright-Abernethy
+        660    0.50   7.50 4-Mantell-Mantell vs 4-Rigazio-Carlson
+        630    3.50   4.50 5-Galer-Grubbs vs 6-Christensen-Ring
+        630    3.50   4.50 6-Miller-Romeo vs 8-Cline-Mohrman
+        150    7.00   1.00 7-Eng-Sieg vs 1-Vulcan-Ford
+        660    0.50   7.50 8-Krah-Morris-Lent vs 3-Delfs-Christie
+        150    7.00   1.00 9-Vona-Hamilton vs 5-Grill-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          8.00   0.00 1-Zaugg-Diaconescu vs 7-Kasperkiewicz-Hall
+        420    3.00   5.00 2-Yan-Wei vs 9-Chaunal-Chaunal
+        420    3.00   5.00 3-Tafjord-Anderson vs 2-Wright-Abernethy
+        450    0.50   7.50 4-Mantell-Mantell vs 4-Rigazio-Carlson
+        450    0.50   7.50 5-Galer-Grubbs vs 6-Christensen-Ring
+        420    3.00   5.00 6-Miller-Romeo vs 8-Cline-Mohrman
+        170    6.50   1.50 7-Eng-Sieg vs 1-Vulcan-Ford
+        200    5.00   3.00 8-Krah-Morris-Lent vs 3-Delfs-Christie
+        170    6.50   1.50 9-Vona-Hamilton vs 5-Grill-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.50   6.50 1-Zaugg-Diaconescu vs 7-Kasperkiewicz-Hall
+   50          6.50   1.50 2-Yan-Wei vs 9-Chaunal-Chaunal
+        450    1.50   6.50 3-Tafjord-Anderson vs 2-Wright-Abernethy
+        450    1.50   6.50 4-Mantell-Mantell vs 4-Rigazio-Carlson
+        420    4.50   3.50 5-Galer-Grubbs vs 6-Christensen-Ring
+  100          8.00   0.00 6-Miller-Romeo vs 8-Cline-Mohrman
+   50          6.50   1.50 7-Eng-Sieg vs 1-Vulcan-Ford
+        420    4.50   3.50 8-Krah-Morris-Lent vs 3-Delfs-Christie
+        450    1.50   6.50 9-Vona-Hamilton vs 5-Grill-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   6.00 1-Zaugg-Diaconescu vs 6-Christensen-Ring
+  140          6.50   1.50 2-Yan-Wei vs 8-Cline-Mohrman
+        100    2.00   6.00 3-Tafjord-Anderson vs 1-Vulcan-Ford
+  140          6.50   1.50 4-Mantell-Mantell vs 3-Delfs-Christie
+        100    2.00   6.00 5-Galer-Grubbs vs 5-Grill-Kasperkiewicz
+        100    2.00   6.00 6-Miller-Romeo vs 7-Kasperkiewicz-Hall
+  110          5.00   3.00 7-Eng-Sieg vs 9-Chaunal-Chaunal
+  170          8.00   0.00 8-Krah-Morris-Lent vs 2-Wright-Abernethy
+        100    2.00   6.00 9-Vona-Hamilton vs 4-Rigazio-Carlson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          7.00   1.00 1-Zaugg-Diaconescu vs 6-Christensen-Ring
+  140          7.00   1.00 2-Yan-Wei vs 8-Cline-Mohrman
+   50          3.50   4.50 3-Tafjord-Anderson vs 1-Vulcan-Ford
+        100    1.00   7.00 4-Mantell-Mantell vs 3-Delfs-Christie
+        100    1.00   7.00 5-Galer-Grubbs vs 5-Grill-Kasperkiewicz
+   50          3.50   4.50 6-Miller-Romeo vs 7-Kasperkiewicz-Hall
+        100    1.00   7.00 7-Eng-Sieg vs 9-Chaunal-Chaunal
+  140          7.00   1.00 8-Krah-Morris-Lent vs 2-Wright-Abernethy
+  100          5.00   3.00 9-Vona-Hamilton vs 4-Rigazio-Carlson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1010    0.00   8.00 1-Zaugg-Diaconescu vs 6-Christensen-Ring
+        510    6.50   1.50 2-Yan-Wei vs 8-Cline-Mohrman
+        980    3.00   5.00 3-Tafjord-Anderson vs 1-Vulcan-Ford
+        980    3.00   5.00 4-Mantell-Mantell vs 3-Delfs-Christie
+        980    3.00   5.00 5-Galer-Grubbs vs 5-Grill-Kasperkiewicz
+        980    3.00   5.00 6-Miller-Romeo vs 7-Kasperkiewicz-Hall
+        980    3.00   5.00 7-Eng-Sieg vs 9-Chaunal-Chaunal
+        510    6.50   1.50 8-Krah-Morris-Lent vs 2-Wright-Abernethy
+        480    8.00   0.00 9-Vona-Hamilton vs 4-Rigazio-Carlson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   2.00 1-Zaugg-Diaconescu vs 5-Grill-Kasperkiewicz
+        120    3.00   5.00 2-Yan-Wei vs 7-Kasperkiewicz-Hall
+  110          6.00   2.00 3-Tafjord-Anderson vs 9-Chaunal-Chaunal
+        140    1.50   6.50 4-Mantell-Mantell vs 2-Wright-Abernethy
+        150    0.00   8.00 5-Galer-Grubbs vs 4-Rigazio-Carlson
+  470          8.00   0.00 6-Miller-Romeo vs 6-Christensen-Ring
+  110          6.00   2.00 7-Eng-Sieg vs 8-Cline-Mohrman
+  100          4.00   4.00 8-Krah-Morris-Lent vs 1-Vulcan-Ford
+        140    1.50   6.50 9-Vona-Hamilton vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.50   6.50 1-Zaugg-Diaconescu vs 5-Grill-Kasperkiewicz
+         50    4.50   3.50 2-Yan-Wei vs 7-Kasperkiewicz-Hall
+  100          6.50   1.50 3-Tafjord-Anderson vs 9-Chaunal-Chaunal
+        420    0.00   8.00 4-Mantell-Mantell vs 2-Wright-Abernethy
+        300    1.50   6.50 5-Galer-Grubbs vs 4-Rigazio-Carlson
+  300          8.00   0.00 6-Miller-Romeo vs 6-Christensen-Ring
+         50    4.50   3.50 7-Eng-Sieg vs 8-Cline-Mohrman
+  100          6.50   1.50 8-Krah-Morris-Lent vs 1-Vulcan-Ford
+        100    3.00   5.00 9-Vona-Hamilton vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   6.00 1-Zaugg-Diaconescu vs 5-Grill-Kasperkiewicz
+        200    0.00   8.00 2-Yan-Wei vs 7-Kasperkiewicz-Hall
+   90          5.50   2.50 3-Tafjord-Anderson vs 9-Chaunal-Chaunal
+        170    1.00   7.00 4-Mantell-Mantell vs 2-Wright-Abernethy
+  300          8.00   0.00 5-Galer-Grubbs vs 4-Rigazio-Carlson
+   50          4.00   4.00 6-Miller-Romeo vs 6-Christensen-Ring
+   90          5.50   2.50 7-Eng-Sieg vs 8-Cline-Mohrman
+  110          7.00   1.00 8-Krah-Morris-Lent vs 1-Vulcan-Ford
+        110    3.00   5.00 9-Vona-Hamilton vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.00   5.00 1-Zaugg-Diaconescu vs 4-Rigazio-Carlson
+  150          0.00   8.00 2-Yan-Wei vs 6-Christensen-Ring
+  400          1.00   7.00 3-Tafjord-Anderson vs 8-Cline-Mohrman
+  430          3.00   5.00 4-Mantell-Mantell vs 1-Vulcan-Ford
+  430          3.00   5.00 5-Galer-Grubbs vs 3-Delfs-Christie
+  460          6.50   1.50 6-Miller-Romeo vs 5-Grill-Kasperkiewicz
+  460          6.50   1.50 7-Eng-Sieg vs 7-Kasperkiewicz-Hall
+  460          6.50   1.50 8-Krah-Morris-Lent vs 9-Chaunal-Chaunal
+  460          6.50   1.50 9-Vona-Hamilton vs 2-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   1.00 1-Zaugg-Diaconescu vs 4-Rigazio-Carlson
+  110          8.00   0.00 2-Yan-Wei vs 6-Christensen-Ring
+        650    0.00   8.00 3-Tafjord-Anderson vs 8-Cline-Mohrman
+        500    2.00   6.00 4-Mantell-Mantell vs 1-Vulcan-Ford
+        500    2.00   6.00 5-Galer-Grubbs vs 3-Delfs-Christie
+        140    5.00   3.00 6-Miller-Romeo vs 5-Grill-Kasperkiewicz
+        100    6.00   2.00 7-Eng-Sieg vs 7-Kasperkiewicz-Hall
+        500    2.00   6.00 8-Krah-Morris-Lent vs 9-Chaunal-Chaunal
+        200    4.00   4.00 9-Vona-Hamilton vs 2-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.00   7.00 1-Zaugg-Diaconescu vs 4-Rigazio-Carlson
+        100    5.00   3.00 2-Yan-Wei vs 6-Christensen-Ring
+  140          7.00   1.00 3-Tafjord-Anderson vs 8-Cline-Mohrman
+        500    0.00   8.00 4-Mantell-Mantell vs 1-Vulcan-Ford
+        200    3.00   5.00 5-Galer-Grubbs vs 3-Delfs-Christie
+   50          6.00   2.00 6-Miller-Romeo vs 5-Grill-Kasperkiewicz
+        200    3.00   5.00 7-Eng-Sieg vs 7-Kasperkiewicz-Hall
+  500          8.00   0.00 8-Krah-Morris-Lent vs 9-Chaunal-Chaunal
+        200    3.00   5.00 9-Vona-Hamilton vs 2-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    2.00   6.00 1-Zaugg-Diaconescu vs 3-Delfs-Christie
+         50    7.00   1.00 2-Yan-Wei vs 5-Grill-Kasperkiewicz
+  590          8.00   0.00 3-Tafjord-Anderson vs 7-Kasperkiewicz-Hall
+        240    4.00   4.00 4-Mantell-Mantell vs 9-Chaunal-Chaunal
+        200    5.00   3.00 5-Galer-Grubbs vs 2-Wright-Abernethy
+        650    0.50   7.50 6-Miller-Romeo vs 4-Rigazio-Carlson
+        100    6.00   2.00 7-Eng-Sieg vs 6-Christensen-Ring
+        300    3.00   5.00 8-Krah-Morris-Lent vs 8-Cline-Mohrman
+        650    0.50   7.50 9-Vona-Hamilton vs 1-Vulcan-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.06   7.94 1-Zaugg-Diaconescu vs 3-Delfs-Christie
+        170    2.31   5.69 2-Yan-Wei vs 5-Grill-Kasperkiewicz
+    PASS       4.56   3.44 3-Tafjord-Anderson vs 7-Kasperkiewicz-Hall
+  100          6.81   1.19 4-Mantell-Mantell vs 9-Chaunal-Chaunal
+  100          6.81   1.19 5-Galer-Grubbs vs 2-Wright-Abernethy
+  100          6.81   1.19 6-Miller-Romeo vs 4-Rigazio-Carlson
+        180    1.19   6.81 7-Eng-Sieg vs 6-Christensen-Ring
+  AVE+  AVE-   4.80   3.20 8-Krah-Morris-Lent vs 8-Cline-Mohrman
+        140    3.44   4.56 9-Vona-Hamilton vs 1-Vulcan-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   4.00 1-Zaugg-Diaconescu vs 3-Delfs-Christie
+  170          5.69   2.31 2-Yan-Wei vs 5-Grill-Kasperkiewicz
+        450    0.63   7.38 3-Tafjord-Anderson vs 7-Kasperkiewicz-Hall
+        450    0.63   7.38 4-Mantell-Mantell vs 9-Chaunal-Chaunal
+  200          6.81   1.19 5-Galer-Grubbs vs 2-Wright-Abernethy
+  450          7.94   0.06 6-Miller-Romeo vs 4-Rigazio-Carlson
+        100    4.00   4.00 7-Eng-Sieg vs 6-Christensen-Ring
+  AVE+  AVE-   4.80   3.20 8-Krah-Morris-Lent vs 8-Cline-Mohrman
+        130    2.31   5.69 9-Vona-Hamilton vs 1-Vulcan-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.00   6.00 1-Zaugg-Diaconescu vs 2-Wright-Abernethy
+        150    3.50   4.50 2-Yan-Wei vs 4-Rigazio-Carlson
+        630    0.50   7.50 3-Tafjord-Anderson vs 6-Christensen-Ring
+        150    3.50   4.50 4-Mantell-Mantell vs 8-Cline-Mohrman
+        110    6.00   2.00 5-Galer-Grubbs vs 1-Vulcan-Ford
+  100          8.00   0.00 6-Miller-Romeo vs 3-Delfs-Christie
+         50    7.00   1.00 7-Eng-Sieg vs 5-Grill-Kasperkiewicz
+        130    5.00   3.00 8-Krah-Morris-Lent vs 7-Kasperkiewicz-Hall
+        630    0.50   7.50 9-Vona-Hamilton vs 9-Chaunal-Chaunal
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          2.50   5.50 1-Zaugg-Diaconescu vs 2-Wright-Abernethy
+  630          7.50   0.50 2-Yan-Wei vs 4-Rigazio-Carlson
+        100    0.50   7.50 3-Tafjord-Anderson vs 6-Christensen-Ring
+        100    0.50   7.50 4-Mantell-Mantell vs 8-Cline-Mohrman
+  170          2.50   5.50 5-Galer-Grubbs vs 1-Vulcan-Ford
+  600          5.00   3.00 6-Miller-Romeo vs 3-Delfs-Christie
+  620          6.00   2.00 7-Eng-Sieg vs 5-Grill-Kasperkiewicz
+  630          7.50   0.50 8-Krah-Morris-Lent vs 7-Kasperkiewicz-Hall
+  200          4.00   4.00 9-Vona-Hamilton vs 9-Chaunal-Chaunal
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    4.00   4.00 1-Zaugg-Diaconescu vs 2-Wright-Abernethy
+        110    6.00   2.00 2-Yan-Wei vs 4-Rigazio-Carlson
+        150    1.00   7.00 3-Tafjord-Anderson vs 6-Christensen-Ring
+        130    4.00   4.00 4-Mantell-Mantell vs 8-Cline-Mohrman
+        100    7.00   1.00 5-Galer-Grubbs vs 1-Vulcan-Ford
+         50    8.00   0.00 6-Miller-Romeo vs 3-Delfs-Christie
+        130    4.00   4.00 7-Eng-Sieg vs 5-Grill-Kasperkiewicz
+        150    1.00   7.00 8-Krah-Morris-Lent vs 7-Kasperkiewicz-Hall
+        150    1.00   7.00 9-Vona-Hamilton vs 9-Chaunal-Chaunal
+----------------------------------------------------------------------
