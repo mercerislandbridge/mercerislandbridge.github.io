@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>January 20, 2026   |CLUB NO.>158048    | 01/20/2026 22:08
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff Ford       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3500/1500 |CLUB>Mercercrest BC
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,------,--------,---------,
+-------------------------------------------------|   |           Section       |      |        |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  | Adjust |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ -------- --------- 
+ 1 Michael Ring           Shawn Abernethy          B    2     2     .    104.00  55.03          0.63(A) 
+
+ 2 Kim Eng                Jeffrey Ford             A    4     .     .    101.50  53.70          0.32(A) 
+
+ 3 Ray Miller             Ann Romeo                A    .     .     .     76.00  40.21                  
+
+ 4 Corneliu Galer         Dave Grubbs              A    3     .     .    102.50  54.23          0.45(A) 
+
+ 5 J Frisbie              Nick Tipton              C    .     .     .     79.00  41.80                  
+
+ 6 Arjun Chaunal          Mudit Chaunal            C    .     .     .     94.00  49.74    1.00          
+
+ 7 Adam Ruprecht          Christopher Jarvis       B    .     .     .     91.50  48.41                  
+
+ 8 Nathan Kasperkiewicz   John Krah                C    1     1     1    108.50  57.41          0.90(A) 
+
+
+
+
+                                          Totals                         757.00           1.00
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>January 20, 2026   |CLUB NO.>158048    | 01/20/2026 22:08
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff Ford       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3500/1500 |CLUB>Mercercrest BC
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,------,--------,---------,
+-------------------------------------------------|   |           Section       |      |        |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  | Adjust |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ -------- --------- 
+ 1 T Brian Zaugg          David Wright             B    .    2/3    .     95.63  50.60          0.24(B) 
+
+ 2 Bryan Delfs            Stan Christie            A    1     .     .    107.44  56.85          0.90(A) 
+
+ 3 Michael Christensen    Becky Stevens            A    4     .     .     99.00  52.38          0.32(A) 
+
+ 4 Paul Schwaighart       Bradley Rind             A    .     .     .     81.00  42.86                  
+
+ 5 Muhunthan Sivapragasam Chris Morris-Lent        C    .     .     .     93.94  49.70                  
+
+ 6 Joseph Grill           Valliappa Lakshmanan     C    3     1     1    101.81  53.87          0.45(A) 
+
+ 7 David Taylor           Sue Anderson             B    .    2/3    .     95.63  50.60          0.24(B) 
+
+ 8 Bogdan Vulcan          Aaron Mohrman            A    2     .     .    103.63  54.83   -1.00  0.63(A) 
+
+ 9 Shannon Kasperkiewicz  Laura Miller             C    .     .     .     71.44  37.80                  
+
+
+                                          Totals                         849.52          -1.00
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   0.00 1-Ring-Abernethy vs 1-Zaugg-Wright
+        500    0.00   7.00 2-Eng-Ford vs 3-Christensen-Stevens
+        430    1.00   6.00 3-Miller-Romeo vs 5-Sivapragasam-Morris-Lent
+        300    4.50   2.50 4-Galer-Grubbs vs 7-Taylor-Anderson
+   50          6.00   1.00 5-Frisbie-Tipton vs 9-Kasperkiewicz-Miller
+        300    4.50   2.50 6-Chaunal-Chaunal vs 2-Delfs-Christie
+        400    2.50   4.50 7-Ruprecht-Jarvis vs 4-Schwaighart-Rind
+        400    2.50   4.50 8-Kasperkiewicz-Krah vs 6-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   5.00 1-Ring-Abernethy vs 1-Zaugg-Wright
+  110          2.00   5.00 2-Eng-Ford vs 3-Christensen-Stevens
+  140          6.00   1.00 3-Miller-Romeo vs 5-Sivapragasam-Morris-Lent
+  130          4.50   2.50 4-Galer-Grubbs vs 7-Taylor-Anderson
+  100          0.00   7.00 5-Frisbie-Tipton vs 9-Kasperkiewicz-Miller
+  150          7.00   0.00 6-Chaunal-Chaunal vs 2-Delfs-Christie
+  110          2.00   5.00 7-Ruprecht-Jarvis vs 4-Schwaighart-Rind
+  130          4.50   2.50 8-Kasperkiewicz-Krah vs 6-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          6.50   0.50 1-Ring-Abernethy vs 1-Zaugg-Wright
+  140          3.00   4.00 2-Eng-Ford vs 3-Christensen-Stevens
+         50    1.50   5.50 3-Miller-Romeo vs 5-Sivapragasam-Morris-Lent
+  430          6.50   0.50 4-Galer-Grubbs vs 7-Taylor-Anderson
+        100    0.00   7.00 5-Frisbie-Tipton vs 9-Kasperkiewicz-Miller
+         50    1.50   5.50 6-Chaunal-Chaunal vs 2-Delfs-Christie
+  400          5.00   2.00 7-Ruprecht-Jarvis vs 4-Schwaighart-Rind
+  200          4.00   3.00 8-Kasperkiewicz-Krah vs 6-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   4.00 1-Ring-Abernethy vs 9-Kasperkiewicz-Miller
+        620    1.00   6.00 2-Eng-Ford vs 2-Delfs-Christie
+        620    1.00   6.00 3-Miller-Romeo vs 4-Schwaighart-Rind
+        620    1.00   6.00 4-Galer-Grubbs vs 6-Grill-Lakshmanan
+  100          5.00   2.00 5-Frisbie-Tipton vs 8-Vulcan-Mohrman
+  100          5.00   2.00 6-Chaunal-Chaunal vs 1-Zaugg-Wright
+  200          7.00   0.00 7-Ruprecht-Jarvis vs 3-Christensen-Stevens
+  100          5.00   2.00 8-Kasperkiewicz-Krah vs 5-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.00   4.00 1-Ring-Abernethy vs 9-Kasperkiewicz-Miller
+  300          6.00   1.00 2-Eng-Ford vs 2-Delfs-Christie
+  140          3.00   4.00 3-Miller-Romeo vs 4-Schwaighart-Rind
+  170          5.00   2.00 4-Galer-Grubbs vs 6-Grill-Lakshmanan
+  120          1.00   6.00 5-Frisbie-Tipton vs 8-Vulcan-Mohrman
+  140          3.00   4.00 6-Chaunal-Chaunal vs 1-Zaugg-Wright
+  500          7.00   0.00 7-Ruprecht-Jarvis vs 3-Christensen-Stevens
+   50          0.00   7.00 8-Kasperkiewicz-Krah vs 5-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          7.00   0.00 1-Ring-Abernethy vs 9-Kasperkiewicz-Miller
+  450          3.00   4.00 2-Eng-Ford vs 2-Delfs-Christie
+  450          3.00   4.00 3-Miller-Romeo vs 4-Schwaighart-Rind
+  450          3.00   4.00 4-Galer-Grubbs vs 6-Grill-Lakshmanan
+  450          3.00   4.00 5-Frisbie-Tipton vs 8-Vulcan-Mohrman
+  450          3.00   4.00 6-Chaunal-Chaunal vs 1-Zaugg-Wright
+  450          3.00   4.00 7-Ruprecht-Jarvis vs 3-Christensen-Stevens
+  450          3.00   4.00 8-Kasperkiewicz-Krah vs 5-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   3.00 1-Ring-Abernethy vs 8-Vulcan-Mohrman
+        100    2.50   4.50 2-Eng-Ford vs 1-Zaugg-Wright
+        300    0.00   7.00 3-Miller-Romeo vs 3-Christensen-Stevens
+  170          5.00   2.00 4-Galer-Grubbs vs 5-Sivapragasam-Morris-Lent
+        100    2.50   4.50 5-Frisbie-Tipton vs 7-Taylor-Anderson
+  650          6.00   1.00 6-Chaunal-Chaunal vs 9-Kasperkiewicz-Miller
+        200    1.00   6.00 7-Ruprecht-Jarvis vs 2-Delfs-Christie
+  660          7.00   0.00 8-Kasperkiewicz-Krah vs 4-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    0.00   7.00 1-Ring-Abernethy vs 8-Vulcan-Mohrman
+        110    2.50   4.50 2-Eng-Ford vs 1-Zaugg-Wright
+  100          6.50   0.50 3-Miller-Romeo vs 3-Christensen-Stevens
+   50          5.00   2.00 4-Galer-Grubbs vs 5-Sivapragasam-Morris-Lent
+        110    2.50   4.50 5-Frisbie-Tipton vs 7-Taylor-Anderson
+  100          6.50   0.50 6-Chaunal-Chaunal vs 9-Kasperkiewicz-Miller
+        110    2.50   4.50 7-Ruprecht-Jarvis vs 2-Delfs-Christie
+        110    2.50   4.50 8-Kasperkiewicz-Krah vs 4-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  980          5.00   2.00 1-Ring-Abernethy vs 8-Vulcan-Mohrman
+  480          2.00   5.00 2-Eng-Ford vs 1-Zaugg-Wright
+  980          5.00   2.00 3-Miller-Romeo vs 3-Christensen-Stevens
+  980          5.00   2.00 4-Galer-Grubbs vs 5-Sivapragasam-Morris-Lent
+  480          2.00   5.00 5-Frisbie-Tipton vs 7-Taylor-Anderson
+         50    0.00   7.00 6-Chaunal-Chaunal vs 9-Kasperkiewicz-Miller
+  480          2.00   5.00 7-Ruprecht-Jarvis vs 2-Delfs-Christie
+  990          7.00   0.00 8-Kasperkiewicz-Krah vs 4-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   5.00 1-Ring-Abernethy vs 7-Taylor-Anderson
+  100          5.50   1.50 2-Eng-Ford vs 9-Kasperkiewicz-Miller
+        620    2.00   5.00 3-Miller-Romeo vs 2-Delfs-Christie
+  200          7.00   0.00 4-Galer-Grubbs vs 4-Schwaighart-Rind
+  100          5.50   1.50 5-Frisbie-Tipton vs 6-Grill-Lakshmanan
+        620    2.00   5.00 6-Chaunal-Chaunal vs 8-Vulcan-Mohrman
+        620    2.00   5.00 7-Ruprecht-Jarvis vs 1-Zaugg-Wright
+        620    2.00   5.00 8-Kasperkiewicz-Krah vs 3-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    2.00   5.00 1-Ring-Abernethy vs 7-Taylor-Anderson
+        400    6.00   1.00 2-Eng-Ford vs 9-Kasperkiewicz-Miller
+        430    2.00   5.00 3-Miller-Romeo vs 2-Delfs-Christie
+        430    2.00   5.00 4-Galer-Grubbs vs 4-Schwaighart-Rind
+        430    2.00   5.00 5-Frisbie-Tipton vs 6-Grill-Lakshmanan
+        400    6.00   1.00 6-Chaunal-Chaunal vs 8-Vulcan-Mohrman
+        430    2.00   5.00 7-Ruprecht-Jarvis vs 1-Zaugg-Wright
+        400    6.00   1.00 8-Kasperkiewicz-Krah vs 3-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   2.50 1-Ring-Abernethy vs 7-Taylor-Anderson
+  170          7.00   0.00 2-Eng-Ford vs 9-Kasperkiewicz-Miller
+  100          4.50   2.50 3-Miller-Romeo vs 2-Delfs-Christie
+        200    0.00   7.00 4-Galer-Grubbs vs 4-Schwaighart-Rind
+  100          4.50   2.50 5-Frisbie-Tipton vs 6-Grill-Lakshmanan
+  100          4.50   2.50 6-Chaunal-Chaunal vs 8-Vulcan-Mohrman
+        100    1.50   5.50 7-Ruprecht-Jarvis vs 1-Zaugg-Wright
+        100    1.50   5.50 8-Kasperkiewicz-Krah vs 3-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.00   2.00 1-Ring-Abernethy vs 6-Grill-Lakshmanan
+  620          5.00   2.00 2-Eng-Ford vs 8-Vulcan-Mohrman
+  620          5.00   2.00 3-Miller-Romeo vs 1-Zaugg-Wright
+  620          5.00   2.00 4-Galer-Grubbs vs 3-Christensen-Stevens
+  150          0.00   7.00 5-Frisbie-Tipton vs 5-Sivapragasam-Morris-Lent
+  170          1.50   5.50 6-Chaunal-Chaunal vs 7-Taylor-Anderson
+  170          1.50   5.50 7-Ruprecht-Jarvis vs 9-Kasperkiewicz-Miller
+  620          5.00   2.00 8-Kasperkiewicz-Krah vs 2-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    4.50   2.50 1-Ring-Abernethy vs 6-Grill-Lakshmanan
+        450    1.00   6.00 2-Eng-Ford vs 8-Vulcan-Mohrman
+        420    4.50   2.50 3-Miller-Romeo vs 1-Zaugg-Wright
+        450    1.00   6.00 4-Galer-Grubbs vs 3-Christensen-Stevens
+        450    1.00   6.00 5-Frisbie-Tipton vs 5-Sivapragasam-Morris-Lent
+        420    4.50   2.50 6-Chaunal-Chaunal vs 7-Taylor-Anderson
+        420    4.50   2.50 7-Ruprecht-Jarvis vs 9-Kasperkiewicz-Miller
+   50          7.00   0.00 8-Kasperkiewicz-Krah vs 2-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          1.50   5.50 1-Ring-Abernethy vs 6-Grill-Lakshmanan
+  500          1.50   5.50 2-Eng-Ford vs 8-Vulcan-Mohrman
+  650          3.50   3.50 3-Miller-Romeo vs 1-Zaugg-Wright
+  800          6.00   1.00 4-Galer-Grubbs vs 3-Christensen-Stevens
+  650          3.50   3.50 5-Frisbie-Tipton vs 5-Sivapragasam-Morris-Lent
+  660          5.00   2.00 6-Chaunal-Chaunal vs 7-Taylor-Anderson
+ 1370          7.00   0.00 7-Ruprecht-Jarvis vs 9-Kasperkiewicz-Miller
+  150          0.00   7.00 8-Kasperkiewicz-Krah vs 2-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    2.00   5.00 1-Ring-Abernethy vs 5-Sivapragasam-Morris-Lent
+        500    4.00   3.00 2-Eng-Ford vs 7-Taylor-Anderson
+  100          5.00   2.00 3-Miller-Romeo vs 9-Kasperkiewicz-Miller
+        800    2.00   5.00 4-Galer-Grubbs vs 2-Delfs-Christie
+ 1100          7.00   0.00 5-Frisbie-Tipton vs 4-Schwaighart-Rind
+        800    2.00   5.00 6-Chaunal-Chaunal vs 6-Grill-Lakshmanan
+  200          6.00   1.00 7-Ruprecht-Jarvis vs 8-Vulcan-Mohrman
+       1100    0.00   7.00 8-Kasperkiewicz-Krah vs 1-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   2.00 1-Ring-Abernethy vs 5-Sivapragasam-Morris-Lent
+ 1000          7.00   0.00 2-Eng-Ford vs 7-Taylor-Anderson
+  100          0.00   7.00 3-Miller-Romeo vs 9-Kasperkiewicz-Miller
+  400          6.00   1.00 4-Galer-Grubbs vs 2-Delfs-Christie
+  120          2.00   5.00 5-Frisbie-Tipton vs 4-Schwaighart-Rind
+  120          2.00   5.00 6-Chaunal-Chaunal vs 6-Grill-Lakshmanan
+  140          4.00   3.00 7-Ruprecht-Jarvis vs 8-Vulcan-Mohrman
+  120          2.00   5.00 8-Kasperkiewicz-Krah vs 1-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.50   0.50 1-Ring-Abernethy vs 5-Sivapragasam-Morris-Lent
+        200    0.50   6.50 2-Eng-Ford vs 7-Taylor-Anderson
+        100    3.50   3.50 3-Miller-Romeo vs 9-Kasperkiewicz-Miller
+        200    0.50   6.50 4-Galer-Grubbs vs 2-Delfs-Christie
+        100    3.50   3.50 5-Frisbie-Tipton vs 4-Schwaighart-Rind
+        100    3.50   3.50 6-Chaunal-Chaunal vs 6-Grill-Lakshmanan
+        100    3.50   3.50 7-Ruprecht-Jarvis vs 8-Vulcan-Mohrman
+  110          6.50   0.50 8-Kasperkiewicz-Krah vs 1-Zaugg-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   2.00 1-Ring-Abernethy vs 4-Schwaighart-Rind
+  180          7.00   0.00 2-Eng-Ford vs 6-Grill-Lakshmanan
+        100    1.00   6.00 3-Miller-Romeo vs 8-Vulcan-Mohrman
+         50    3.00   4.00 4-Galer-Grubbs vs 1-Zaugg-Wright
+         50    3.00   4.00 5-Frisbie-Tipton vs 3-Christensen-Stevens
+        110    0.00   7.00 6-Chaunal-Chaunal vs 5-Sivapragasam-Morris-Lent
+         50    3.00   4.00 7-Ruprecht-Jarvis vs 7-Taylor-Anderson
+  170          6.00   1.00 8-Kasperkiewicz-Krah vs 9-Kasperkiewicz-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          6.50   0.50 1-Ring-Abernethy vs 4-Schwaighart-Rind
+  680          6.50   0.50 2-Eng-Ford vs 6-Grill-Lakshmanan
+  650          2.00   5.00 3-Miller-Romeo vs 8-Vulcan-Mohrman
+  650          2.00   5.00 4-Galer-Grubbs vs 1-Zaugg-Wright
+  650          2.00   5.00 5-Frisbie-Tipton vs 3-Christensen-Stevens
+  650          2.00   5.00 6-Chaunal-Chaunal vs 5-Sivapragasam-Morris-Lent
+  650          2.00   5.00 7-Ruprecht-Jarvis vs 7-Taylor-Anderson
+  660          5.00   2.00 8-Kasperkiewicz-Krah vs 9-Kasperkiewicz-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    1.00   6.00 1-Ring-Abernethy vs 4-Schwaighart-Rind
+        480    1.00   6.00 2-Eng-Ford vs 6-Grill-Lakshmanan
+        480    1.00   6.00 3-Miller-Romeo vs 8-Vulcan-Mohrman
+        450    5.00   2.00 4-Galer-Grubbs vs 1-Zaugg-Wright
+        450    5.00   2.00 5-Frisbie-Tipton vs 3-Christensen-Stevens
+        450    5.00   2.00 6-Chaunal-Chaunal vs 5-Sivapragasam-Morris-Lent
+        450    5.00   2.00 7-Ruprecht-Jarvis vs 7-Taylor-Anderson
+        450    5.00   2.00 8-Kasperkiewicz-Krah vs 9-Kasperkiewicz-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   2.50 1-Ring-Abernethy vs 3-Christensen-Stevens
+  100          4.50   2.50 2-Eng-Ford vs 5-Sivapragasam-Morris-Lent
+  100          4.50   2.50 3-Miller-Romeo vs 7-Taylor-Anderson
+  100          4.50   2.50 4-Galer-Grubbs vs 9-Kasperkiewicz-Miller
+        620    0.50   6.50 5-Frisbie-Tipton vs 2-Delfs-Christie
+  100          4.50   2.50 6-Chaunal-Chaunal vs 4-Schwaighart-Rind
+        620    0.50   6.50 7-Ruprecht-Jarvis vs 6-Grill-Lakshmanan
+  100          4.50   2.50 8-Kasperkiewicz-Krah vs 8-Vulcan-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          3.00   4.00 1-Ring-Abernethy vs 3-Christensen-Stevens
+  180          5.00   2.00 2-Eng-Ford vs 5-Sivapragasam-Morris-Lent
+        200    0.00   7.00 3-Miller-Romeo vs 7-Taylor-Anderson
+  600          6.50   0.50 4-Galer-Grubbs vs 9-Kasperkiewicz-Miller
+  120          4.00   3.00 5-Frisbie-Tipton vs 2-Delfs-Christie
+  600          6.50   0.50 6-Chaunal-Chaunal vs 4-Schwaighart-Rind
+        100    1.50   5.50 7-Ruprecht-Jarvis vs 6-Grill-Lakshmanan
+        100    1.50   5.50 8-Kasperkiewicz-Krah vs 8-Vulcan-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    4.00   3.00 1-Ring-Abernethy vs 3-Christensen-Stevens
+        460    4.00   3.00 2-Eng-Ford vs 5-Sivapragasam-Morris-Lent
+        490    1.00   6.00 3-Miller-Romeo vs 7-Taylor-Anderson
+        430    6.00   1.00 4-Galer-Grubbs vs 9-Kasperkiewicz-Miller
+        490    1.00   6.00 5-Frisbie-Tipton vs 2-Delfs-Christie
+        460    4.00   3.00 6-Chaunal-Chaunal vs 4-Schwaighart-Rind
+        490    1.00   6.00 7-Ruprecht-Jarvis vs 6-Grill-Lakshmanan
+   50          7.00   0.00 8-Kasperkiewicz-Krah vs 8-Vulcan-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   5.50 1-Ring-Abernethy vs 2-Delfs-Christie
+  110          5.50   1.50 2-Eng-Ford vs 4-Schwaighart-Rind
+  110          5.50   1.50 3-Miller-Romeo vs 6-Grill-Lakshmanan
+        140    1.50   5.50 4-Galer-Grubbs vs 8-Vulcan-Mohrman
+        140    1.50   5.50 5-Frisbie-Tipton vs 1-Zaugg-Wright
+        140    1.50   5.50 6-Chaunal-Chaunal vs 3-Christensen-Stevens
+        100    4.00   3.00 7-Ruprecht-Jarvis vs 5-Sivapragasam-Morris-Lent
+  120          7.00   0.00 8-Kasperkiewicz-Krah vs 7-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   2.50 1-Ring-Abernethy vs 2-Delfs-Christie
+        100    2.00   5.00 2-Eng-Ford vs 4-Schwaighart-Rind
+  110          3.00   4.00 3-Miller-Romeo vs 6-Grill-Lakshmanan
+        200    0.00   7.00 4-Galer-Grubbs vs 8-Vulcan-Mohrman
+  200          4.50   2.50 5-Frisbie-Tipton vs 1-Zaugg-Wright
+        110    1.00   6.00 6-Chaunal-Chaunal vs 3-Christensen-Stevens
+  870          7.00   0.00 7-Ruprecht-Jarvis vs 5-Sivapragasam-Morris-Lent
+  500          6.00   1.00 8-Kasperkiewicz-Krah vs 7-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   3.50 1-Ring-Abernethy vs 2-Delfs-Christie
+  500          6.50   0.50 2-Eng-Ford vs 4-Schwaighart-Rind
+         50    1.00   6.00 3-Miller-Romeo vs 6-Grill-Lakshmanan
+  450          5.00   2.00 4-Galer-Grubbs vs 8-Vulcan-Mohrman
+  500          6.50   0.50 5-Frisbie-Tipton vs 1-Zaugg-Wright
+         50    1.00   6.00 6-Chaunal-Chaunal vs 3-Christensen-Stevens
+  420          3.50   3.50 7-Ruprecht-Jarvis vs 5-Sivapragasam-Morris-Lent
+         50    1.00   6.00 8-Kasperkiewicz-Krah vs 7-Taylor-Anderson
+----------------------------------------------------------------------
