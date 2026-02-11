@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 3, 2026   |CLUB NO.>158048    | 02/03/2026 22:03
+DATE>February 3, 2026   |CLUB NO.>158048    | 02/10/2026 18:23
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Mike/Brian      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,19 +11,19 @@ PAIRS IN STRAT A=10/B=6/C=3                      ,---,-----------------,--------
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Dong Yan               Dong Wei                 B   .     .     .   |   .     .     .     91.50  42.36          
+ 1 Dong Yan               Dong Wei                 B   .     .     .   |   .     .     .     90.00  41.67          
 
- 2 Adam Ruprecht          Christopher Jarvis       C   5     3     2   |   4     .     .    122.50  56.71  1.11(OB)
+ 2 Adam Ruprecht          Christopher Jarvis       C   5     3     2   |   4     .     .    123.00  56.94  1.11(OB)
 
  3 Shawn Abernethy        Brian Zaugg              B   1     1     .   |   1     1     .    143.50  66.44  2.92(OA)
 
  4 Nick Tipton            Joe Frisbie              C   .     .     .   |   .     .     .     73.50  34.03          
 
- 5 Aaron Mohrman          Matthew Weingarten       A   .     .     .   |   .     .     .    112.00  51.85          
+ 5 Aaron Mohrman          Matthew Weingarten       A   .     .     .   |   .     .     .    112.50  52.08          
 
  6 Dave Grubbs            Ann Romeo                A   .     .     .   |   .     .     .    106.50  49.31          
 
- 7 Muhunthan Sivapragasam Chris Morris-Lent        C   4     2     1   |   3     2     1    124.50  57.64  1.49(OB)
+ 7 Muhunthan Sivapragasam Chris Morris-Lent        C   4     2     1   |   3     2     1    125.00  57.87  1.49(OB)
 
  8 Douglas Kuschner       Tobe Obochi              B   .     .     .   |   .     .     .     67.00  31.02          
 
@@ -35,7 +35,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
                                           Totals                                            972.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>February 3, 2026   |CLUB NO.>158048    | 02/03/2026 22:03
+DATE>February 3, 2026   |CLUB NO.>158048    | 02/10/2026 18:23
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Mike/Brian      |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>WEB
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -47,15 +47,15 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
  1 Genie Thai-May         Rui Gong                 C   .     5     3   |   4     2     1    110.00  50.93  0.69(OC)
 
- 2 Hugh Hendrickson       Joseph Grill             B   .     .     .   |   .     .     .     91.69  42.45          
+ 2 Hugh Hendrickson       Joseph Grill             B   .     .     .   |   .     .     .     91.13  42.19          
 
- 3 Mike Christensen       Mike Ring                A   .     .     .   |   .     .     .    100.13  46.36          
+ 3 Mike Christensen       Mike Ring                A   .     .     .   |   .     .     .     99.56  46.09          
 
- 4 Shannon Kasperkiewicz  Nathan Kasperkiewicz     C   .     .     .   |   .     .     2    103.50  47.92  0.22(SC)
+ 4 Shannon Kasperkiewicz  Nathan Kasperkiewicz     C   .     .     .   |   .     .     2    105.19  48.70  0.22(SC)
 
  5 Sue Anderson           Thomas Brown             B   .     .     .   |   .     3     .    109.13  50.52  0.28(SB)
 
- 6 Jeffrey Ford           Ray Miller               A   2     .     .   |   1     .     .    135.56  62.76  2.19(OA)
+ 6 Jeffrey Ford           Ray Miller               A   2     .     .   |   1     .     .    135.00  62.50  2.19(OA)
 
  7 Cassandra Hall         John Krah                C   .     .     .   |   .     .     .    101.81  47.13          
 
@@ -417,13 +417,13 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  110          6.00   2.00 1-Yan-Wei vs 4-Kasperkiewicz-Kasperkiewicz
-  110          6.00   2.00 2-Ruprecht-Jarvis vs 6-Ford-Miller
+   50          4.50   3.50 1-Yan-Wei vs 4-Kasperkiewicz-Kasperkiewicz
+  110          6.50   1.50 2-Ruprecht-Jarvis vs 6-Ford-Miller
          50    3.00   5.00 3-Abernethy-Zaugg vs 8-Delfs-Christie
         140    0.00   8.00 4-Tipton-Frisbie vs 10-Stevens-Galer
-  110          6.00   2.00 5-Mohrman-Weingarten vs 2-Hendrickson-Grill
+  110          6.50   1.50 5-Mohrman-Weingarten vs 2-Hendrickson-Grill
         100    1.50   6.50 6-Grubbs-Romeo vs 1-Thai-May-Gong
-   50          4.00   4.00 7-Sivapragasam-Morris-Lent vs 3-Christensen-Ring
+   50          4.50   3.50 7-Sivapragasam-Morris-Lent vs 3-Christensen-Ring
         100    1.50   6.50 8-Kuschner-Obochi vs 5-Anderson-Brown
   300          8.00   0.00 9-Eng-Sherrill vs 7-Hall-Krah
 ----------------------------------------------------------------------
