@@ -1,0 +1,336 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 10, 2026  |CLUB NO.>158048    | 02/10/2026 22:17
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/2400/1300 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=11/B=6/C=3                      ,---,-------------------------,------,--------,---------,
+-------------------------------------------------|   |           Section       |      |        |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  | Adjust |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ -------- --------- 
+ 1 Mike Christensen       Aaron Mohrman            A    4     .     .     61.20  56.67          0.39(A) 
+
+ 2 Elaine Vona            James Hamilton           B    .     .     .     37.27  34.51                  
+
+ 3 Becky Stevens          Sue Anderson             B    .     .     .     44.02  40.76                  
+
+ 4 Bogdan Vulcan          Jeffrey Ford             A    1     .     .     72.00  66.67          1.10(A) 
+
+ 5 Stanford Christie      Corneliu Galer           A    .     .     .     57.60  53.33   -1.00          
+
+
+
+ 7 Chris Pesce            David Taylor             B    .     1     .     48.75  45.14          0.48(B) 
+
+ 8 John Krah              Chris Morris-Lent        C    .     .     .     43.18  39.98                  
+
+ 9 Dion Sorenson          Matt Gaffney             C    .     .     .     46.41  42.97                  
+
+10 Shannon Kasperkiewicz  Nathan Kasperkiewicz     C    .     2     1     48.24  44.67          0.34(B) 
+
+11 Kim Eng                Eric Sieg                A    2     .     .     68.34  63.28          0.77(A) 
+
+12 Shawn Abernethy        Brian Zaugg              A    3     .     .     66.09  61.19          0.55(A) 
+
+
+                                          Totals                         593.10          -1.00
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.50   3.50 3-Stevens-Anderson vs 11-Eng-Sieg
+   50          4.00   0.00 5-Christie-Galer vs 2-Vona-Hamilton
+        420    0.50   3.50 8-Krah-Morris-Lent vs 4-Vulcan-Ford
+        140    3.00   1.00 9-Sorenson-Gaffney vs 7-Pesce-Taylor
+        170    2.00   2.00 12-Abernethy-Zaugg vs 1-Christensen-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.00   1.00 3-Stevens-Anderson vs 11-Eng-Sieg
+        120    2.00   2.00 5-Christie-Galer vs 2-Vona-Hamilton
+        800    0.00   4.00 8-Krah-Morris-Lent vs 4-Vulcan-Ford
+        150    1.00   3.00 9-Sorenson-Gaffney vs 7-Pesce-Taylor
+   50          4.00   0.00 12-Abernethy-Zaugg vs 1-Christensen-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   3.00 3-Stevens-Anderson vs 11-Eng-Sieg
+  140          3.00   1.00 5-Christie-Galer vs 2-Vona-Hamilton
+         50    2.00   2.00 8-Krah-Morris-Lent vs 4-Vulcan-Ford
+        150    0.00   4.00 9-Sorenson-Gaffney vs 7-Pesce-Taylor
+  200          4.00   0.00 12-Abernethy-Zaugg vs 1-Christensen-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1370          4.00   0.00 1-Christensen-Mohrman vs 8-Krah-Morris-Lent
+  690          2.00   2.00 7-Pesce-Taylor vs 10-Kasperkiewicz-Kasperkiewicz
+  620          0.00   4.00 9-Sorenson-Gaffney vs 5-Christie-Galer
+  690          2.00   2.00 11-Eng-Sieg vs 4-Vulcan-Ford
+  690          2.00   2.00 12-Abernethy-Zaugg vs 2-Vona-Hamilton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 1-Christensen-Mohrman vs 8-Krah-Morris-Lent
+   50          3.00   1.00 7-Pesce-Taylor vs 10-Kasperkiewicz-Kasperkiewicz
+        110    1.00   3.00 9-Sorenson-Gaffney vs 5-Christie-Galer
+        200    0.00   4.00 11-Eng-Sieg vs 4-Vulcan-Ford
+        100    2.00   2.00 12-Abernethy-Zaugg vs 2-Vona-Hamilton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1100          4.00   0.00 1-Christensen-Mohrman vs 8-Krah-Morris-Lent
+  460          2.50   1.50 7-Pesce-Taylor vs 10-Kasperkiewicz-Kasperkiewicz
+  420          0.00   4.00 9-Sorenson-Gaffney vs 5-Christie-Galer
+  460          2.50   1.50 11-Eng-Sieg vs 4-Vulcan-Ford
+  430          1.00   3.00 12-Abernethy-Zaugg vs 2-Vona-Hamilton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          3.00   1.00 2-Vona-Hamilton vs 9-Sorenson-Gaffney
+  600          0.50   3.50 7-Pesce-Taylor vs 4-Vulcan-Ford
+  630          3.00   1.00 10-Kasperkiewicz-Kasperkiewicz vs 8-Krah-Morris-Lent
+  630          3.00   1.00 11-Eng-Sieg vs 5-Christie-Galer
+  600          0.50   3.50 12-Abernethy-Zaugg vs 3-Stevens-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   3.00 2-Vona-Hamilton vs 9-Sorenson-Gaffney
+         90    0.00   4.00 7-Pesce-Taylor vs 4-Vulcan-Ford
+  170          4.00   0.00 10-Kasperkiewicz-Kasperkiewicz vs 8-Krah-Morris-Lent
+   50          2.00   2.00 11-Eng-Sieg vs 5-Christie-Galer
+  100          3.00   1.00 12-Abernethy-Zaugg vs 3-Stevens-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   3.00 2-Vona-Hamilton vs 9-Sorenson-Gaffney
+        100    1.00   3.00 7-Pesce-Taylor vs 4-Vulcan-Ford
+        100    1.00   3.00 10-Kasperkiewicz-Kasperkiewicz vs 8-Krah-Morris-Lent
+  200          4.00   0.00 11-Eng-Sieg vs 5-Christie-Galer
+  140          3.00   1.00 12-Abernethy-Zaugg vs 3-Stevens-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1100    0.00   4.00 2-Vona-Hamilton vs 7-Pesce-Taylor
+  100          3.00   1.00 3-Stevens-Anderson vs 1-Christensen-Mohrman
+   90          2.00   2.00 8-Krah-Morris-Lent vs 5-Christie-Galer
+        800    1.00   3.00 10-Kasperkiewicz-Kasperkiewicz vs 9-Sorenson-Gaffney
+  200          4.00   0.00 12-Abernethy-Zaugg vs 4-Vulcan-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   2.00 2-Vona-Hamilton vs 7-Pesce-Taylor
+        110    0.00   4.00 3-Stevens-Anderson vs 1-Christensen-Mohrman
+  150          4.00   0.00 8-Krah-Morris-Lent vs 5-Christie-Galer
+        100    1.00   3.00 10-Kasperkiewicz-Kasperkiewicz vs 9-Sorenson-Gaffney
+  140          3.00   1.00 12-Abernethy-Zaugg vs 4-Vulcan-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    2.50   1.50 2-Vona-Hamilton vs 7-Pesce-Taylor
+        130    2.50   1.50 3-Stevens-Anderson vs 1-Christensen-Mohrman
+        400    1.00   3.00 8-Krah-Morris-Lent vs 5-Christie-Galer
+   50          4.00   0.00 10-Kasperkiewicz-Kasperkiewicz vs 9-Sorenson-Gaffney
+        430    0.00   4.00 12-Abernethy-Zaugg vs 4-Vulcan-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   1.00 1-Christensen-Mohrman vs 10-Kasperkiewicz-Kasperkiewi
+  200          0.50   3.50 3-Stevens-Anderson vs 8-Krah-Morris-Lent
+  650          3.00   1.00 4-Vulcan-Ford vs 2-Vona-Hamilton
+  650          3.00   1.00 7-Pesce-Taylor vs 11-Eng-Sieg
+  200          0.50   3.50 12-Abernethy-Zaugg vs 5-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   2.00 1-Christensen-Mohrman vs 10-Kasperkiewicz-Kasperkiewi
+  100          0.50   3.50 3-Stevens-Anderson vs 8-Krah-Morris-Lent
+  450          4.00   0.00 4-Vulcan-Ford vs 2-Vona-Hamilton
+  100          0.50   3.50 7-Pesce-Taylor vs 11-Eng-Sieg
+  150          3.00   1.00 12-Abernethy-Zaugg vs 5-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          3.50   0.50 1-Christensen-Mohrman vs 10-Kasperkiewicz-Kasperkiewi
+  100          0.00   4.00 3-Stevens-Anderson vs 8-Krah-Morris-Lent
+  690          3.50   0.50 4-Vulcan-Ford vs 2-Vona-Hamilton
+  620          1.50   2.50 7-Pesce-Taylor vs 11-Eng-Sieg
+  620          1.50   2.50 12-Abernethy-Zaugg vs 5-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.50   1.50 1-Christensen-Mohrman vs 7-Pesce-Taylor
+  180          1.00   3.00 2-Vona-Hamilton vs 10-Kasperkiewicz-Kasperkiewicz
+  590          4.00   0.00 4-Vulcan-Ford vs 9-Sorenson-Gaffney
+  420          2.50   1.50 5-Christie-Galer vs 3-Stevens-Anderson
+  130          0.00   4.00 8-Krah-Morris-Lent vs 11-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.00   1.00 1-Christensen-Mohrman vs 7-Pesce-Taylor
+  140          2.00   2.00 2-Vona-Hamilton vs 10-Kasperkiewicz-Kasperkiewicz
+  500          4.00   0.00 4-Vulcan-Ford vs 9-Sorenson-Gaffney
+         50    0.50   3.50 5-Christie-Galer vs 3-Stevens-Anderson
+         50    0.50   3.50 8-Krah-Morris-Lent vs 11-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          4.00   0.00 1-Christensen-Mohrman vs 7-Pesce-Taylor
+  130          2.50   1.50 2-Vona-Hamilton vs 10-Kasperkiewicz-Kasperkiewicz
+  100          1.00   3.00 4-Vulcan-Ford vs 9-Sorenson-Gaffney
+  130          2.50   1.50 5-Christie-Galer vs 3-Stevens-Anderson
+        140    0.00   4.00 8-Krah-Morris-Lent vs 11-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   3.00 2-Vona-Hamilton vs 8-Krah-Morris-Lent
+  110          4.00   0.00 5-Christie-Galer vs 1-Christensen-Mohrman
+        130    0.00   4.00 10-Kasperkiewicz-Kasperkiewicz vs 3-Stevens-Anderson
+         50    2.50   1.50 11-Eng-Sieg vs 9-Sorenson-Gaffney
+         50    2.50   1.50 12-Abernethy-Zaugg vs 7-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   2.00 2-Vona-Hamilton vs 8-Krah-Morris-Lent
+  100          2.00   2.00 5-Christie-Galer vs 1-Christensen-Mohrman
+  100          2.00   2.00 10-Kasperkiewicz-Kasperkiewicz vs 3-Stevens-Anderson
+        130    0.00   4.00 11-Eng-Sieg vs 9-Sorenson-Gaffney
+  620          4.00   0.00 12-Abernethy-Zaugg vs 7-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.13   3.88 2-Vona-Hamilton vs 8-Krah-Morris-Lent
+  AVE-  AVE+   1.60   2.40 5-Christie-Galer vs 1-Christensen-Mohrman
+        200    1.38   2.63 10-Kasperkiewicz-Kasperkiewicz vs 3-Stevens-Anderson
+        170    3.25   0.75 11-Eng-Sieg vs 9-Sorenson-Gaffney
+        170    3.25   0.75 12-Abernethy-Zaugg vs 7-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       2140    1.00   3.00 3-Stevens-Anderson vs 9-Sorenson-Gaffney
+        720    4.00   0.00 7-Pesce-Taylor vs 5-Christie-Galer
+       1430    2.00   2.00 10-Kasperkiewicz-Kasperkiewicz vs 4-Vulcan-Ford
+       1390    3.00   1.00 11-Eng-Sieg vs 1-Christensen-Mohrman
+       2220    0.00   4.00 12-Abernethy-Zaugg vs 8-Krah-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.50   3.50 3-Stevens-Anderson vs 9-Sorenson-Gaffney
+        150    2.00   2.00 7-Pesce-Taylor vs 5-Christie-Galer
+        600    0.50   3.50 10-Kasperkiewicz-Kasperkiewicz vs 4-Vulcan-Ford
+        100    3.50   0.50 11-Eng-Sieg vs 1-Christensen-Mohrman
+        100    3.50   0.50 12-Abernethy-Zaugg vs 8-Krah-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          0.50   3.50 3-Stevens-Anderson vs 9-Sorenson-Gaffney
+  520          2.00   2.00 7-Pesce-Taylor vs 5-Christie-Galer
+  990          3.00   1.00 10-Kasperkiewicz-Kasperkiewicz vs 4-Vulcan-Ford
+  480          0.50   3.50 11-Eng-Sieg vs 1-Christensen-Mohrman
+ 1400          4.00   0.00 12-Abernethy-Zaugg vs 8-Krah-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   2.00 2-Vona-Hamilton vs 11-Eng-Sieg
+         50    2.00   2.00 4-Vulcan-Ford vs 1-Christensen-Mohrman
+        100    0.00   4.00 5-Christie-Galer vs 10-Kasperkiewicz-Kasperkiewicz
+  120          4.00   0.00 7-Pesce-Taylor vs 3-Stevens-Anderson
+         50    2.00   2.00 12-Abernethy-Zaugg vs 9-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    1.00   3.00 2-Vona-Hamilton vs 11-Eng-Sieg
+  300          3.00   1.00 4-Vulcan-Ford vs 1-Christensen-Mohrman
+  400          4.00   0.00 5-Christie-Galer vs 10-Kasperkiewicz-Kasperkiewicz
+        600    0.00   4.00 7-Pesce-Taylor vs 3-Stevens-Anderson
+  170          2.00   2.00 12-Abernethy-Zaugg vs 9-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.50   3.50 2-Vona-Hamilton vs 11-Eng-Sieg
+  100          0.50   3.50 4-Vulcan-Ford vs 1-Christensen-Mohrman
+  140          2.50   1.50 5-Christie-Galer vs 10-Kasperkiewicz-Kasperkiewicz
+  140          2.50   1.50 7-Pesce-Taylor vs 3-Stevens-Anderson
+  170          4.00   0.00 12-Abernethy-Zaugg vs 9-Sorenson-Gaffney
+----------------------------------------------------------------------
