@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>February 17, 2026  |CLUB NO.>158048    | 02/17/2026 22:07
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=7/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Christopher Jarvis     Adam Ruprecht            B    3     1     .     76.50  56.67  0.60(A) 
+
+ 2 John Krah              Nathan Kasperkiewicz     C    .     3     1     72.00  53.33  0.32(C) 
+
+ 3 Matt Gaffney           Dion Sorenson            C    .     .     2     69.00  51.11  0.22(C) 
+
+ 4 Paul Schwaighart       Brad Rind                A    .     .     .     50.00  37.04          
+
+ 5 Lisa Brock             Cassandra Hall           C    .     .     .     56.00  41.48          
+
+ 6 Shannon Kasperkiewicz  Cindy Pauley             C    .     .     .     51.50  38.15          
+
+ 7 Barbara Higgins        Alan Tesler              B    .     .     .     58.00  42.96          
+
+ 8 Oyvind Tafjord         Sue Anderson             B    5     2     .     74.00  54.81  0.39(B) 
+
+ 9 Kim Eng                Jeffrey Ford             A    4     .     .     76.00  56.30  0.42(A) 
+
+10 Aaron Mohrman          Bogdan Vulcan            A    .     .     .     67.00  49.63          
+
+11 Mike Christensen       Becky Stevens            A    2     .     .     78.50  58.15  0.84(A) 
+
+12 Dave Grubbs            Corneliu Galer           A    1     .     .     81.50  60.37  1.20(A) 
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    4.50   0.50 3-Gaffney-Sorenson vs 11-Christensen-Stevens
+        510    2.00   3.00 5-Brock-Hall vs 2-Krah-Kasperkiewicz
+        510    2.00   3.00 6-Kasperkiewicz-Pauley vs 10-Mohrman-Vulcan
+        510    2.00   3.00 8-Tafjord-Anderson vs 4-Schwaighart-Rind
+        980    0.00   5.00 9-Eng-Ford vs 7-Higgins-Tesler
+        480    4.50   0.50 12-Grubbs-Galer vs 1-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.00   2.00 3-Gaffney-Sorenson vs 11-Christensen-Stevens
+        450    1.00   4.00 5-Brock-Hall vs 2-Krah-Kasperkiewicz
+        450    1.00   4.00 6-Kasperkiewicz-Pauley vs 10-Mohrman-Vulcan
+   50          4.50   0.50 8-Tafjord-Anderson vs 4-Schwaighart-Rind
+        450    1.00   4.00 9-Eng-Ford vs 7-Higgins-Tesler
+   50          4.50   0.50 12-Grubbs-Galer vs 1-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   4.00 3-Gaffney-Sorenson vs 11-Christensen-Stevens
+  450          4.50   0.50 5-Brock-Hall vs 2-Krah-Kasperkiewicz
+        300    0.00   5.00 6-Kasperkiewicz-Pauley vs 10-Mohrman-Vulcan
+  450          4.50   0.50 8-Tafjord-Anderson vs 4-Schwaighart-Rind
+  420          3.00   2.00 9-Eng-Ford vs 7-Higgins-Tesler
+  400          2.00   3.00 12-Grubbs-Galer vs 1-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          2.50   2.50 1-Jarvis-Ruprecht vs 8-Tafjord-Anderson
+  650          2.50   2.50 6-Kasperkiewicz-Pauley vs 3-Gaffney-Sorenson
+  650          2.50   2.50 7-Higgins-Tesler vs 10-Mohrman-Vulcan
+  650          2.50   2.50 9-Eng-Ford vs 5-Brock-Hall
+  680          5.00   0.00 11-Christensen-Stevens vs 4-Schwaighart-Rind
+        100    0.00   5.00 12-Grubbs-Galer vs 2-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.00   0.00 1-Jarvis-Ruprecht vs 8-Tafjord-Anderson
+   50          1.00   4.00 6-Kasperkiewicz-Pauley vs 3-Gaffney-Sorenson
+        110    0.00   5.00 7-Higgins-Tesler vs 10-Mohrman-Vulcan
+  100          2.50   2.50 9-Eng-Ford vs 5-Brock-Hall
+  110          4.00   1.00 11-Christensen-Stevens vs 4-Schwaighart-Rind
+  100          2.50   2.50 12-Grubbs-Galer vs 2-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   5.00 1-Jarvis-Ruprecht vs 8-Tafjord-Anderson
+  400          1.50   3.50 6-Kasperkiewicz-Pauley vs 3-Gaffney-Sorenson
+  480          4.00   1.00 7-Higgins-Tesler vs 10-Mohrman-Vulcan
+  400          1.50   3.50 9-Eng-Ford vs 5-Brock-Hall
+  480          4.00   1.00 11-Christensen-Stevens vs 4-Schwaighart-Rind
+  480          4.00   1.00 12-Grubbs-Galer vs 2-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    4.00   1.00 1-Jarvis-Ruprecht vs 6-Kasperkiewicz-Pauley
+        200    0.00   5.00 2-Krah-Kasperkiewicz vs 9-Eng-Ford
+  100          5.00   0.00 7-Higgins-Tesler vs 4-Schwaighart-Rind
+        170    1.00   4.00 10-Mohrman-Vulcan vs 8-Tafjord-Anderson
+        140    2.50   2.50 11-Christensen-Stevens vs 5-Brock-Hall
+        140    2.50   2.50 12-Grubbs-Galer vs 3-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   3.50 1-Jarvis-Ruprecht vs 6-Kasperkiewicz-Pauley
+   50          3.50   1.50 2-Krah-Kasperkiewicz vs 9-Eng-Ford
+   50          3.50   1.50 7-Higgins-Tesler vs 4-Schwaighart-Rind
+        140    1.50   3.50 10-Mohrman-Vulcan vs 8-Tafjord-Anderson
+  150          5.00   0.00 11-Christensen-Stevens vs 5-Brock-Hall
+        420    0.00   5.00 12-Grubbs-Galer vs 3-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.50   2.50 1-Jarvis-Ruprecht vs 6-Kasperkiewicz-Pauley
+  400          2.50   2.50 2-Krah-Kasperkiewicz vs 9-Eng-Ford
+  430          4.00   1.00 7-Higgins-Tesler vs 4-Schwaighart-Rind
+         50    0.50   4.50 10-Mohrman-Vulcan vs 8-Tafjord-Anderson
+         50    0.50   4.50 11-Christensen-Stevens vs 5-Brock-Hall
+  550          5.00   0.00 12-Grubbs-Galer vs 3-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    4.00   1.00 2-Krah-Kasperkiewicz vs 7-Higgins-Tesler
+       2000    0.00   5.00 3-Gaffney-Sorenson vs 1-Jarvis-Ruprecht
+        650    2.00   3.00 8-Tafjord-Anderson vs 5-Brock-Hall
+        630    4.00   1.00 10-Mohrman-Vulcan vs 9-Eng-Ford
+        630    4.00   1.00 11-Christensen-Stevens vs 6-Kasperkiewicz-Pauley
+        660    1.00   4.00 12-Grubbs-Galer vs 4-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          4.00   1.00 2-Krah-Kasperkiewicz vs 7-Higgins-Tesler
+  150          3.00   2.00 3-Gaffney-Sorenson vs 1-Jarvis-Ruprecht
+  100          1.00   4.00 8-Tafjord-Anderson vs 5-Brock-Hall
+  140          2.00   3.00 10-Mohrman-Vulcan vs 9-Eng-Ford
+  400          5.00   0.00 11-Christensen-Stevens vs 6-Kasperkiewicz-Pauley
+         50    0.00   5.00 12-Grubbs-Galer vs 4-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.50   2.50 2-Krah-Kasperkiewicz vs 7-Higgins-Tesler
+   50          2.50   2.50 3-Gaffney-Sorenson vs 1-Jarvis-Ruprecht
+  100          4.50   0.50 8-Tafjord-Anderson vs 5-Brock-Hall
+        130    0.50   4.50 10-Mohrman-Vulcan vs 9-Eng-Ford
+  100          4.50   0.50 11-Christensen-Stevens vs 6-Kasperkiewicz-Pauley
+        130    0.50   4.50 12-Grubbs-Galer vs 4-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          1.00   4.00 1-Jarvis-Ruprecht vs 10-Mohrman-Vulcan
+  620          2.50   2.50 3-Gaffney-Sorenson vs 8-Tafjord-Anderson
+  620          2.50   2.50 4-Schwaighart-Rind vs 2-Krah-Kasperkiewicz
+        100    0.00   5.00 7-Higgins-Tesler vs 11-Christensen-Stevens
+  630          4.50   0.50 9-Eng-Ford vs 6-Kasperkiewicz-Pauley
+  630          4.50   0.50 12-Grubbs-Galer vs 5-Brock-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          1.50   3.50 1-Jarvis-Ruprecht vs 10-Mohrman-Vulcan
+  990          5.00   0.00 3-Gaffney-Sorenson vs 8-Tafjord-Anderson
+  480          1.50   3.50 4-Schwaighart-Rind vs 2-Krah-Kasperkiewicz
+  480          1.50   3.50 7-Higgins-Tesler vs 11-Christensen-Stevens
+  480          1.50   3.50 9-Eng-Ford vs 6-Kasperkiewicz-Pauley
+  510          4.00   1.00 12-Grubbs-Galer vs 5-Brock-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.50   1.50 1-Jarvis-Ruprecht vs 10-Mohrman-Vulcan
+        480    0.50   4.50 3-Gaffney-Sorenson vs 8-Tafjord-Anderson
+        480    0.50   4.50 4-Schwaighart-Rind vs 2-Krah-Kasperkiewicz
+        450    3.50   1.50 7-Higgins-Tesler vs 11-Christensen-Stevens
+        450    3.50   1.50 9-Eng-Ford vs 6-Kasperkiewicz-Pauley
+        450    3.50   1.50 12-Grubbs-Galer vs 5-Brock-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.50   0.50 1-Jarvis-Ruprecht vs 7-Higgins-Tesler
+  450          4.50   0.50 2-Krah-Kasperkiewicz vs 10-Mohrman-Vulcan
+  420          2.00   3.00 4-Schwaighart-Rind vs 9-Eng-Ford
+  200          0.00   5.00 5-Brock-Hall vs 3-Gaffney-Sorenson
+  420          2.00   3.00 8-Tafjord-Anderson vs 11-Christensen-Stevens
+  420          2.00   3.00 12-Grubbs-Galer vs 6-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  550          5.00   0.00 1-Jarvis-Ruprecht vs 7-Higgins-Tesler
+        450    1.00   4.00 2-Krah-Kasperkiewicz vs 10-Mohrman-Vulcan
+        300    2.00   3.00 4-Schwaighart-Rind vs 9-Eng-Ford
+        480    0.00   5.00 5-Brock-Hall vs 3-Gaffney-Sorenson
+  300          4.00   1.00 8-Tafjord-Anderson vs 11-Christensen-Stevens
+         50    3.00   2.00 12-Grubbs-Galer vs 6-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          3.50   1.50 1-Jarvis-Ruprecht vs 7-Higgins-Tesler
+ 1370          5.00   0.00 2-Krah-Kasperkiewicz vs 10-Mohrman-Vulcan
+  630          0.50   4.50 4-Schwaighart-Rind vs 9-Eng-Ford
+  630          0.50   4.50 5-Brock-Hall vs 3-Gaffney-Sorenson
+  660          2.00   3.00 8-Tafjord-Anderson vs 11-Christensen-Stevens
+  690          3.50   1.50 12-Grubbs-Galer vs 6-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        670    0.00   5.00 2-Krah-Kasperkiewicz vs 8-Tafjord-Anderson
+        300    1.00   4.00 5-Brock-Hall vs 1-Jarvis-Ruprecht
+  100          3.00   2.00 6-Kasperkiewicz-Pauley vs 4-Schwaighart-Rind
+  200          5.00   0.00 10-Mohrman-Vulcan vs 3-Gaffney-Sorenson
+  130          4.00   1.00 11-Christensen-Stevens vs 9-Eng-Ford
+         50    2.00   3.00 12-Grubbs-Galer vs 7-Higgins-Tesler
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   3.00 2-Krah-Kasperkiewicz vs 8-Tafjord-Anderson
+        620    2.00   3.00 5-Brock-Hall vs 1-Jarvis-Ruprecht
+        620    2.00   3.00 6-Kasperkiewicz-Pauley vs 4-Schwaighart-Rind
+  100          4.00   1.00 10-Mohrman-Vulcan vs 3-Gaffney-Sorenson
+        800    0.00   5.00 11-Christensen-Stevens vs 9-Eng-Ford
+  200          5.00   0.00 12-Grubbs-Galer vs 7-Higgins-Tesler
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        210    3.00   2.00 2-Krah-Kasperkiewicz vs 8-Tafjord-Anderson
+        430    1.50   3.50 5-Brock-Hall vs 1-Jarvis-Ruprecht
+        180    4.00   1.00 6-Kasperkiewicz-Pauley vs 4-Schwaighart-Rind
+        430    1.50   3.50 10-Mohrman-Vulcan vs 3-Gaffney-Sorenson
+       1000    0.00   5.00 11-Christensen-Stevens vs 9-Eng-Ford
+        140    5.00   0.00 12-Grubbs-Galer vs 7-Higgins-Tesler
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          2.50   2.50 3-Gaffney-Sorenson vs 9-Eng-Ford
+  480          2.50   2.50 6-Kasperkiewicz-Pauley vs 2-Krah-Kasperkiewicz
+  480          2.50   2.50 7-Higgins-Tesler vs 5-Brock-Hall
+  420          0.00   5.00 10-Mohrman-Vulcan vs 4-Schwaighart-Rind
+  480          2.50   2.50 11-Christensen-Stevens vs 1-Jarvis-Ruprecht
+  980          5.00   0.00 12-Grubbs-Galer vs 8-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   3.50 3-Gaffney-Sorenson vs 9-Eng-Ford
+  630          5.00   0.00 6-Kasperkiewicz-Pauley vs 2-Krah-Kasperkiewicz
+        200    0.00   5.00 7-Higgins-Tesler vs 5-Brock-Hall
+        100    1.50   3.50 10-Mohrman-Vulcan vs 4-Schwaighart-Rind
+  120          3.50   1.50 11-Christensen-Stevens vs 1-Jarvis-Ruprecht
+  120          3.50   1.50 12-Grubbs-Galer vs 8-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   5.00 3-Gaffney-Sorenson vs 9-Eng-Ford
+  480          1.00   4.00 6-Kasperkiewicz-Pauley vs 2-Krah-Kasperkiewicz
+ 1010          2.50   2.50 7-Higgins-Tesler vs 5-Brock-Hall
+ 1510          4.00   1.00 10-Mohrman-Vulcan vs 4-Schwaighart-Rind
+ 1010          2.50   2.50 11-Christensen-Stevens vs 1-Jarvis-Ruprecht
+ 1520          5.00   0.00 12-Grubbs-Galer vs 8-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.50   0.50 2-Krah-Kasperkiewicz vs 11-Christensen-Stevens
+  100          2.50   2.50 4-Schwaighart-Rind vs 1-Jarvis-Ruprecht
+         50    1.00   4.00 5-Brock-Hall vs 10-Mohrman-Vulcan
+        110    0.00   5.00 7-Higgins-Tesler vs 3-Gaffney-Sorenson
+  110          4.50   0.50 8-Tafjord-Anderson vs 6-Kasperkiewicz-Pauley
+  100          2.50   2.50 12-Grubbs-Galer vs 9-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   4.00 2-Krah-Kasperkiewicz vs 11-Christensen-Stevens
+        650    1.00   4.00 4-Schwaighart-Rind vs 1-Jarvis-Ruprecht
+  100          5.00   0.00 5-Brock-Hall vs 10-Mohrman-Vulcan
+        620    3.50   1.50 7-Higgins-Tesler vs 3-Gaffney-Sorenson
+        650    1.00   4.00 8-Tafjord-Anderson vs 6-Kasperkiewicz-Pauley
+        620    3.50   1.50 12-Grubbs-Galer vs 9-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.50   3.50 2-Krah-Kasperkiewicz vs 11-Christensen-Stevens
+        510    0.00   5.00 4-Schwaighart-Rind vs 1-Jarvis-Ruprecht
+        170    1.50   3.50 5-Brock-Hall vs 10-Mohrman-Vulcan
+   50          5.00   0.00 7-Higgins-Tesler vs 3-Gaffney-Sorenson
+        140    4.00   1.00 8-Tafjord-Anderson vs 6-Kasperkiewicz-Pauley
+        150    3.00   2.00 12-Grubbs-Galer vs 9-Eng-Ford
+----------------------------------------------------------------------
