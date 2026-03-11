@@ -1,0 +1,363 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>March 10, 2026     |CLUB NO.>158048    | 03/10/2026 22:03
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3750/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=8/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Matt Gaffney           Dion Sorenson            C    .     .     .     49.50  36.67          
+
+ 2 Corneliu Galer         Sue Anderson             B    2     1     .     78.50  58.15  0.84(A) 
+
+ 3 Douglas Kuschner       Joseph Grill             B    .     3     .     71.00  52.59  0.32(B) 
+
+ 4 Rui Gong               Genie Thai-May           B    5     2     .     73.00  54.07  0.45(B) 
+
+ 5 Ray Miller             Ann Romeo                A    3     .     .     77.50  57.41  0.60(A) 
+
+ 6 Mike Christensen       Mike Ring                A    1     .     .     88.00  65.19  1.20(A) 
+
+ 7 Chris Morris-Lent      Nathan Kasperkiewicz     C    .     .     1     61.50  45.56  0.32(C) 
+
+ 8 Bryant Carlson         Andrew Rigazio           C    .     .     .     46.50  34.44          
+
+ 9 Brian Zaugg            Liliana Diaconescu       B    .     .     .     70.00  51.85          
+
+10 Aaron Mohrman          David Taylor             A    .     .     .     65.50  48.52          
+
+11 Elaine Vona            James Hamilton           C    .     .     2     55.00  40.74  0.22(C) 
+
+12 Kim Eng                Eric Sieg                A    4     .     .     74.00  54.81  0.42(A) 
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.50   1.50 3-Kuschner-Grill vs 11-Vona-Hamilton
+        140    0.50   4.50 5-Miller-Romeo vs 2-Galer-Anderson
+  100          3.50   1.50 6-Christensen-Ring vs 10-Mohrman-Taylor
+        140    0.50   4.50 8-Carlson-Rigazio vs 4-Gong-Thai-May
+   50          2.00   3.00 9-Zaugg-Diaconescu vs 7-Morris-Lent-Kasperkiewicz
+  110          5.00   0.00 12-Eng-Sieg vs 1-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        430    1.50   3.50 3-Kuschner-Grill vs 11-Vona-Hamilton
+        430    1.50   3.50 5-Miller-Romeo vs 2-Galer-Anderson
+        430    1.50   3.50 6-Christensen-Ring vs 10-Mohrman-Taylor
+        430    1.50   3.50 8-Carlson-Rigazio vs 4-Gong-Thai-May
+        400    4.00   1.00 9-Zaugg-Diaconescu vs 7-Morris-Lent-Kasperkiewicz
+        130    5.00   0.00 12-Eng-Sieg vs 1-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1090          4.00   1.00 3-Kuschner-Grill vs 11-Vona-Hamilton
+  510          1.00   4.00 5-Miller-Romeo vs 2-Galer-Anderson
+ 1010          3.00   2.00 6-Christensen-Ring vs 10-Mohrman-Taylor
+  510          1.00   4.00 8-Carlson-Rigazio vs 4-Gong-Thai-May
+  510          1.00   4.00 9-Zaugg-Diaconescu vs 7-Morris-Lent-Kasperkiewicz
+ 1400          5.00   0.00 12-Eng-Sieg vs 1-Gaffney-Sorenson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        230    2.50   2.50 1-Gaffney-Sorenson vs 8-Carlson-Rigazio
+        100    4.50   0.50 6-Christensen-Ring vs 3-Kuschner-Grill
+        100    4.50   0.50 7-Morris-Lent-Kasperkiewicz vs 10-Mohrman-Taylor
+        230    2.50   2.50 9-Zaugg-Diaconescu vs 5-Miller-Romeo
+        500    1.00   4.00 11-Vona-Hamilton vs 4-Gong-Thai-May
+        750    0.00   5.00 12-Eng-Sieg vs 2-Galer-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   2.00 1-Gaffney-Sorenson vs 8-Carlson-Rigazio
+   50          3.00   2.00 6-Christensen-Ring vs 3-Kuschner-Grill
+  110          5.00   0.00 7-Morris-Lent-Kasperkiewicz vs 10-Mohrman-Taylor
+        100    0.50   4.50 9-Zaugg-Diaconescu vs 5-Miller-Romeo
+   50          3.00   2.00 11-Vona-Hamilton vs 4-Gong-Thai-May
+        100    0.50   4.50 12-Eng-Sieg vs 2-Galer-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.50   4.50 1-Gaffney-Sorenson vs 8-Carlson-Rigazio
+        600    2.50   2.50 6-Christensen-Ring vs 3-Kuschner-Grill
+  200          4.50   0.50 7-Morris-Lent-Kasperkiewicz vs 10-Mohrman-Taylor
+  200          4.50   0.50 9-Zaugg-Diaconescu vs 5-Miller-Romeo
+        630    0.50   4.50 11-Vona-Hamilton vs 4-Gong-Thai-May
+        600    2.50   2.50 12-Eng-Sieg vs 2-Galer-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.00   5.00 1-Gaffney-Sorenson vs 6-Christensen-Ring
+        600    3.00   2.00 2-Galer-Anderson vs 9-Zaugg-Diaconescu
+        630    1.50   3.50 7-Morris-Lent-Kasperkiewicz vs 4-Gong-Thai-May
+        180    4.00   1.00 10-Mohrman-Taylor vs 8-Carlson-Rigazio
+        130    5.00   0.00 11-Vona-Hamilton vs 5-Miller-Romeo
+        630    1.50   3.50 12-Eng-Sieg vs 3-Kuschner-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.50   0.50 1-Gaffney-Sorenson vs 6-Christensen-Ring
+        130    2.00   3.00 2-Galer-Anderson vs 9-Zaugg-Diaconescu
+        500    0.00   5.00 7-Morris-Lent-Kasperkiewicz vs 4-Gong-Thai-May
+        110    3.00   2.00 10-Mohrman-Taylor vs 8-Carlson-Rigazio
+        170    1.00   4.00 11-Vona-Hamilton vs 5-Miller-Romeo
+  110          4.50   0.50 12-Eng-Sieg vs 3-Kuschner-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.50   2.50 1-Gaffney-Sorenson vs 6-Christensen-Ring
+        170    0.00   5.00 2-Galer-Anderson vs 9-Zaugg-Diaconescu
+        140    2.50   2.50 7-Morris-Lent-Kasperkiewicz vs 4-Gong-Thai-May
+  300          5.00   0.00 10-Mohrman-Taylor vs 8-Carlson-Rigazio
+        140    2.50   2.50 11-Vona-Hamilton vs 5-Miller-Romeo
+        140    2.50   2.50 12-Eng-Sieg vs 3-Kuschner-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.50   0.50 2-Galer-Anderson vs 7-Morris-Lent-Kasperkiewicz
+  130          1.50   3.50 3-Kuschner-Grill vs 1-Gaffney-Sorenson
+        730    0.00   5.00 8-Carlson-Rigazio vs 5-Miller-Romeo
+  630          4.50   0.50 10-Mohrman-Taylor vs 9-Zaugg-Diaconescu
+  130          1.50   3.50 11-Vona-Hamilton vs 6-Christensen-Ring
+  600          3.00   2.00 12-Eng-Sieg vs 4-Gong-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.00   0.00 2-Galer-Anderson vs 7-Morris-Lent-Kasperkiewicz
+        100    0.50   4.50 3-Kuschner-Grill vs 1-Gaffney-Sorenson
+        100    0.50   4.50 8-Carlson-Rigazio vs 5-Miller-Romeo
+         50    3.00   2.00 10-Mohrman-Taylor vs 9-Zaugg-Diaconescu
+         50    3.00   2.00 11-Vona-Hamilton vs 6-Christensen-Ring
+         50    3.00   2.00 12-Eng-Sieg vs 4-Gong-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   2.00 2-Galer-Anderson vs 7-Morris-Lent-Kasperkiewicz
+        110    0.50   4.50 3-Kuschner-Grill vs 1-Gaffney-Sorenson
+        110    0.50   4.50 8-Carlson-Rigazio vs 5-Miller-Romeo
+   50          3.00   2.00 10-Mohrman-Taylor vs 9-Zaugg-Diaconescu
+   50          3.00   2.00 11-Vona-Hamilton vs 6-Christensen-Ring
+  100          5.00   0.00 12-Eng-Sieg vs 4-Gong-Thai-May
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    0.00   5.00 1-Gaffney-Sorenson vs 10-Mohrman-Taylor
+   90          2.00   3.00 3-Kuschner-Grill vs 8-Carlson-Rigazio
+  120          4.50   0.50 4-Gong-Thai-May vs 2-Galer-Anderson
+  120          4.50   0.50 7-Morris-Lent-Kasperkiewicz vs 11-Vona-Hamilton
+  100          3.00   2.00 9-Zaugg-Diaconescu vs 6-Christensen-Ring
+         90    1.00   4.00 12-Eng-Sieg vs 5-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.50   4.50 1-Gaffney-Sorenson vs 10-Mohrman-Taylor
+         50    3.50   1.50 3-Kuschner-Grill vs 8-Carlson-Rigazio
+  100          5.00   0.00 4-Gong-Thai-May vs 2-Galer-Anderson
+         50    3.50   1.50 7-Morris-Lent-Kasperkiewicz vs 11-Vona-Hamilton
+        150    0.50   4.50 9-Zaugg-Diaconescu vs 6-Christensen-Ring
+        140    2.00   3.00 12-Eng-Sieg vs 5-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   3.00 1-Gaffney-Sorenson vs 10-Mohrman-Taylor
+  100          5.00   0.00 3-Kuschner-Grill vs 8-Carlson-Rigazio
+   50          3.50   1.50 4-Gong-Thai-May vs 2-Galer-Anderson
+        550    1.00   4.00 7-Morris-Lent-Kasperkiewicz vs 11-Vona-Hamilton
+        650    0.00   5.00 9-Zaugg-Diaconescu vs 6-Christensen-Ring
+   50          3.50   1.50 12-Eng-Sieg vs 5-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   5.00 1-Gaffney-Sorenson vs 7-Morris-Lent-Kasperkiewicz
+  800          5.00   0.00 2-Galer-Anderson vs 10-Mohrman-Taylor
+         50    1.50   3.50 4-Gong-Thai-May vs 9-Zaugg-Diaconescu
+         50    1.50   3.50 5-Miller-Romeo vs 3-Kuschner-Grill
+  300          3.00   2.00 8-Carlson-Rigazio vs 11-Vona-Hamilton
+  400          4.00   1.00 12-Eng-Sieg vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   5.00 1-Gaffney-Sorenson vs 7-Morris-Lent-Kasperkiewicz
+   50          5.00   0.00 2-Galer-Anderson vs 10-Mohrman-Taylor
+        150    2.00   3.00 4-Gong-Thai-May vs 9-Zaugg-Diaconescu
+        150    2.00   3.00 5-Miller-Romeo vs 3-Kuschner-Grill
+         50    4.00   1.00 8-Carlson-Rigazio vs 11-Vona-Hamilton
+        150    2.00   3.00 12-Eng-Sieg vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   1.50 1-Gaffney-Sorenson vs 7-Morris-Lent-Kasperkiewicz
+        200    1.00   4.00 2-Galer-Anderson vs 10-Mohrman-Taylor
+        200    1.00   4.00 4-Gong-Thai-May vs 9-Zaugg-Diaconescu
+  630          5.00   0.00 5-Miller-Romeo vs 3-Kuschner-Grill
+        200    1.00   4.00 8-Carlson-Rigazio vs 11-Vona-Hamilton
+        100    3.50   1.50 12-Eng-Sieg vs 6-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          3.00   2.00 2-Galer-Anderson vs 8-Carlson-Rigazio
+         50    0.50   4.50 5-Miller-Romeo vs 1-Gaffney-Sorenson
+  420          4.50   0.50 6-Christensen-Ring vs 4-Gong-Thai-May
+  140          2.00   3.00 10-Mohrman-Taylor vs 3-Kuschner-Grill
+         50    0.50   4.50 11-Vona-Hamilton vs 9-Zaugg-Diaconescu
+  420          4.50   0.50 12-Eng-Sieg vs 7-Morris-Lent-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          2.50   2.50 2-Galer-Anderson vs 8-Carlson-Rigazio
+  180          4.00   1.00 5-Miller-Romeo vs 1-Gaffney-Sorenson
+  660          5.00   0.00 6-Christensen-Ring vs 4-Gong-Thai-May
+  130          2.50   2.50 10-Mohrman-Taylor vs 3-Kuschner-Grill
+        200    0.00   5.00 11-Vona-Hamilton vs 9-Zaugg-Diaconescu
+        160    1.00   4.00 12-Eng-Sieg vs 7-Morris-Lent-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          4.00   1.00 2-Galer-Anderson vs 8-Carlson-Rigazio
+        100    1.50   3.50 5-Miller-Romeo vs 1-Gaffney-Sorenson
+  120          5.00   0.00 6-Christensen-Ring vs 4-Gong-Thai-May
+        100    1.50   3.50 10-Mohrman-Taylor vs 3-Kuschner-Grill
+        140    0.00   5.00 11-Vona-Hamilton vs 9-Zaugg-Diaconescu
+   50          3.00   2.00 12-Eng-Sieg vs 7-Morris-Lent-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   5.00 3-Kuschner-Grill vs 9-Zaugg-Diaconescu
+  110          5.00   0.00 6-Christensen-Ring vs 2-Galer-Anderson
+         50    1.00   4.00 7-Morris-Lent-Kasperkiewicz vs 5-Miller-Romeo
+   90          3.00   2.00 10-Mohrman-Taylor vs 4-Gong-Thai-May
+   90          3.00   2.00 11-Vona-Hamilton vs 1-Gaffney-Sorenson
+   90          3.00   2.00 12-Eng-Sieg vs 8-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   0.50 3-Kuschner-Grill vs 9-Zaugg-Diaconescu
+        620    1.00   4.00 6-Christensen-Ring vs 2-Galer-Anderson
+        620    1.00   4.00 7-Morris-Lent-Kasperkiewicz vs 5-Miller-Romeo
+        170    3.00   2.00 10-Mohrman-Taylor vs 4-Gong-Thai-May
+  100          4.50   0.50 11-Vona-Hamilton vs 1-Gaffney-Sorenson
+        620    1.00   4.00 12-Eng-Sieg vs 8-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  520          5.00   0.00 3-Kuschner-Grill vs 9-Zaugg-Diaconescu
+  490          3.50   1.50 6-Christensen-Ring vs 2-Galer-Anderson
+  460          1.50   3.50 7-Morris-Lent-Kasperkiewicz vs 5-Miller-Romeo
+  490          3.50   1.50 10-Mohrman-Taylor vs 4-Gong-Thai-May
+  460          1.50   3.50 11-Vona-Hamilton vs 1-Gaffney-Sorenson
+         50    0.00   5.00 12-Eng-Sieg vs 8-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   2.50 2-Galer-Anderson vs 11-Vona-Hamilton
+  800          5.00   0.00 4-Gong-Thai-May vs 1-Gaffney-Sorenson
+  590          4.00   1.00 5-Miller-Romeo vs 10-Mohrman-Taylor
+        100    0.50   4.50 7-Morris-Lent-Kasperkiewicz vs 3-Kuschner-Grill
+        100    0.50   4.50 8-Carlson-Rigazio vs 6-Christensen-Ring
+         50    2.50   2.50 12-Eng-Sieg vs 9-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.00   3.00 2-Galer-Anderson vs 11-Vona-Hamilton
+  650          5.00   0.00 4-Gong-Thai-May vs 1-Gaffney-Sorenson
+  620          3.50   1.50 5-Miller-Romeo vs 10-Mohrman-Taylor
+        100    0.00   5.00 7-Morris-Lent-Kasperkiewicz vs 3-Kuschner-Grill
+  200          1.00   4.00 8-Carlson-Rigazio vs 6-Christensen-Ring
+  620          3.50   1.50 12-Eng-Sieg vs 9-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          4.50   0.50 2-Galer-Anderson vs 11-Vona-Hamilton
+  400          2.00   3.00 4-Gong-Thai-May vs 1-Gaffney-Sorenson
+  430          4.50   0.50 5-Miller-Romeo vs 10-Mohrman-Taylor
+  400          2.00   3.00 7-Morris-Lent-Kasperkiewicz vs 3-Kuschner-Grill
+         50    0.00   5.00 8-Carlson-Rigazio vs 6-Christensen-Ring
+  400          2.00   3.00 12-Eng-Sieg vs 9-Zaugg-Diaconescu
+----------------------------------------------------------------------
