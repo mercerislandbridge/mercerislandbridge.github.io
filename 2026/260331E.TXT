@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>March 31, 2026     |CLUB NO.>158048    | 03/31/2026 21:56
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=10/C=5                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Shannon Kasperkiewicz  Ann Romeo                C    .     .     .     61.75  39.58          
+
+
+
+ 3 Jim Rasmussen          Grace Shen               A    4     .     .     88.29  56.60  0.53(A) 
+
+ 4 Muhunthan Sivapragasam Chris Morris-Lent        C    .     .     .     68.25  43.75          
+
+ 5 Jeffrey Ford           David Taylor             A    2     .     .     96.50  61.86  1.05(A) 
+
+ 6 Laura Miller           Hugh Hendrickson         C    .     .     .     69.88  44.79          
+
+ 7 Fan Zhang              Min Zheng                C    .     3     1     75.83  48.61  0.40(B) 
+
+ 8 Bogdan Vulcan          Nathan Kasperkiewicz     B    .     .     .     65.54  42.01          
+
+ 9 Douglas Kuschner                                B    .     .     .     73.13  46.88          
+
+10 Stanford Christie      Corneliu Galer           A    5     .     .     87.21  55.90  0.30(A) 
+
+11 Ray Miller             Brian Zaugg              A    3     .     .     90.46  57.99  0.75(A) 
+
+12 Mike Christensen       Becky Stevens            A    .     .     .     74.50  47.76          
+
+13 Kim Eng                Adam Ruprecht            B    1     1     .    100.75  64.58  1.50(A) 
+
+14 Sue Anderson           Shawn Abernethy          B    .     .     .     66.63  42.71          
+
+15 Paul Schwaighart       Brad Rind                B    6     2     .     76.38  48.96  0.56(B) 
+
+16 Aaron Mohrman          Cassandra Hall           C    .     4     2     73.67  47.22  0.28(B) 
+
+
+                                          Totals                        1168.77       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.00   3.00 4-Sivapragasam-Morris-Lent vs 14-Anderson-Abernethy
+  150          6.00   0.00 6-Miller-Hendrickson vs 5-Ford-Taylor
+        130    5.00   1.00 8-Vulcan-Kasperkiewicz vs 12-Christensen-Stevens
+        460    0.00   6.00 9-Kuschner- vs 11-Miller-Zaugg
+        400    1.50   4.50 13-Eng-Ruprecht vs 7-Zhang-Zheng
+        140    4.00   2.00 15-Schwaighart-Rind vs 3-Rasmussen-Shen
+        400    1.50   4.50 16-Mohrman-Hall vs 1-Kasperkiewicz-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.00   3.00 4-Sivapragasam-Morris-Lent vs 14-Anderson-Abernethy
+   50          0.00   6.00 6-Miller-Hendrickson vs 5-Ford-Taylor
+  650          5.50   0.50 8-Vulcan-Kasperkiewicz vs 12-Christensen-Stevens
+  170          2.00   4.00 9-Kuschner- vs 11-Miller-Zaugg
+  100          1.00   5.00 13-Eng-Ruprecht vs 7-Zhang-Zheng
+  500          4.00   2.00 15-Schwaighart-Rind vs 3-Rasmussen-Shen
+  650          5.50   0.50 16-Mohrman-Hall vs 1-Kasperkiewicz-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.00   5.00 1-Kasperkiewicz-Romeo vs 8-Vulcan-Kasperkiewicz
+  200          6.00   0.00 4-Sivapragasam-Morris-Lent vs 15-Schwaighart-Rind
+  100          4.50   1.50 5-Ford-Taylor vs 14-Anderson-Abernethy
+         90    3.00   3.00 7-Zhang-Zheng vs 6-Miller-Hendrickson
+        800    0.00   6.00 9-Kuschner- vs 13-Eng-Ruprecht
+  100          4.50   1.50 10-Christie-Galer vs 12-Christensen-Stevens
+        120    2.00   4.00 11-Miller-Zaugg vs 3-Rasmussen-Shen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    5.50   0.50 1-Kasperkiewicz-Romeo vs 8-Vulcan-Kasperkiewicz
+        150    2.00   4.00 4-Sivapragasam-Morris-Lent vs 15-Schwaighart-Rind
+         90    5.50   0.50 5-Ford-Taylor vs 14-Anderson-Abernethy
+        140    3.50   2.50 7-Zhang-Zheng vs 6-Miller-Hendrickson
+        200    0.50   5.50 9-Kuschner- vs 13-Eng-Ruprecht
+        140    3.50   2.50 10-Christie-Galer vs 12-Christensen-Stevens
+        200    0.50   5.50 11-Miller-Zaugg vs 3-Rasmussen-Shen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.50   4.50 5-Ford-Taylor vs 15-Schwaighart-Rind
+  180          3.00   3.00 6-Miller-Hendrickson vs 14-Anderson-Abernethy
+  600          5.00   1.00 8-Vulcan-Kasperkiewicz vs 7-Zhang-Zheng
+  630          6.00   0.00 10-Christie-Galer vs 1-Kasperkiewicz-Romeo
+  120          0.00   6.00 11-Miller-Zaugg vs 13-Eng-Ruprecht
+  150          1.50   4.50 12-Christensen-Stevens vs 4-Sivapragasam-Morris-Lent
+  210          4.00   2.00 16-Mohrman-Hall vs 3-Rasmussen-Shen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    3.00   3.00 5-Ford-Taylor vs 15-Schwaighart-Rind
+        690    3.00   3.00 6-Miller-Hendrickson vs 14-Anderson-Abernethy
+  200          6.00   0.00 8-Vulcan-Kasperkiewicz vs 7-Zhang-Zheng
+        750    1.00   5.00 10-Christie-Galer vs 1-Kasperkiewicz-Romeo
+        690    3.00   3.00 11-Miller-Zaugg vs 13-Eng-Ruprecht
+        630    5.00   1.00 12-Christensen-Stevens vs 4-Sivapragasam-Morris-Lent
+       1400    0.00   6.00 16-Mohrman-Hall vs 3-Rasmussen-Shen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   3.00 3-Rasmussen-Shen vs 10-Christie-Galer
+        100    3.00   3.00 6-Miller-Hendrickson vs 15-Schwaighart-Rind
+  110          6.00   0.00 9-Kuschner- vs 8-Vulcan-Kasperkiewicz
+        100    3.00   3.00 12-Christensen-Stevens vs 1-Kasperkiewicz-Romeo
+        200    1.00   5.00 13-Eng-Ruprecht vs 5-Ford-Taylor
+        300    0.00   6.00 14-Anderson-Abernethy vs 7-Zhang-Zheng
+         90    5.00   1.00 16-Mohrman-Hall vs 4-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   6.00 3-Rasmussen-Shen vs 10-Christie-Galer
+   50          2.00   4.00 6-Miller-Hendrickson vs 15-Schwaighart-Rind
+  300          4.50   1.50 9-Kuschner- vs 8-Vulcan-Kasperkiewicz
+   50          2.00   4.00 12-Christensen-Stevens vs 1-Kasperkiewicz-Romeo
+  300          4.50   1.50 13-Eng-Ruprecht vs 5-Ford-Taylor
+   50          2.00   4.00 14-Anderson-Abernethy vs 7-Zhang-Zheng
+  500          6.00   0.00 16-Mohrman-Hall vs 4-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    3.50   2.50 1-Kasperkiewicz-Romeo vs 6-Miller-Hendrickson
+        200    3.50   2.50 4-Sivapragasam-Morris-Lent vs 11-Miller-Zaugg
+        650    0.50   5.50 7-Zhang-Zheng vs 15-Schwaighart-Rind
+        100    6.00   0.00 10-Christie-Galer vs 9-Kuschner-
+        200    3.50   2.50 12-Christensen-Stevens vs 3-Rasmussen-Shen
+        650    0.50   5.50 14-Anderson-Abernethy vs 8-Vulcan-Kasperkiewicz
+        200    3.50   2.50 16-Mohrman-Hall vs 5-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   3.00 1-Kasperkiewicz-Romeo vs 6-Miller-Hendrickson
+  170          5.50   0.50 4-Sivapragasam-Morris-Lent vs 11-Miller-Zaugg
+  170          5.50   0.50 7-Zhang-Zheng vs 15-Schwaighart-Rind
+  100          3.00   3.00 10-Christie-Galer vs 9-Kuschner-
+        110    0.50   5.50 12-Christensen-Stevens vs 3-Rasmussen-Shen
+        110    0.50   5.50 14-Anderson-Abernethy vs 8-Vulcan-Kasperkiewicz
+  100          3.00   3.00 16-Mohrman-Hall vs 5-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          1.00   5.00 1-Kasperkiewicz-Romeo vs 3-Rasmussen-Shen
+  500          5.00   1.00 5-Ford-Taylor vs 12-Christensen-Stevens
+  300          0.00   6.00 8-Vulcan-Kasperkiewicz vs 15-Schwaighart-Rind
+  450          3.50   2.50 11-Miller-Zaugg vs 10-Christie-Galer
+  650          6.00   0.00 13-Eng-Ruprecht vs 4-Sivapragasam-Morris-Lent
+  450          3.50   2.50 14-Anderson-Abernethy vs 9-Kuschner-
+  420          2.00   4.00 16-Mohrman-Hall vs 6-Miller-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   5.50 1-Kasperkiewicz-Romeo vs 3-Rasmussen-Shen
+        100    0.50   5.50 5-Ford-Taylor vs 12-Christensen-Stevens
+  140          3.50   2.50 8-Vulcan-Kasperkiewicz vs 15-Schwaighart-Rind
+  170          5.00   1.00 11-Miller-Zaugg vs 10-Christie-Galer
+  140          3.50   2.50 13-Eng-Ruprecht vs 4-Sivapragasam-Morris-Lent
+  120          2.00   4.00 14-Anderson-Abernethy vs 9-Kuschner-
+  300          6.00   0.00 16-Mohrman-Hall vs 6-Miller-Hendrickson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    0.00   6.00 1-Kasperkiewicz-Romeo vs 5-Ford-Taylor
+  790          6.00   0.00 3-Rasmussen-Shen vs 8-Vulcan-Kasperkiewicz
+        200    1.00   5.00 6-Miller-Hendrickson vs 13-Eng-Ruprecht
+  130          5.00   1.00 9-Kuschner- vs 15-Schwaighart-Rind
+  100          4.00   2.00 12-Christensen-Stevens vs 11-Miller-Zaugg
+        100    2.50   3.50 14-Anderson-Abernethy vs 10-Christie-Galer
+        100    2.50   3.50 16-Mohrman-Hall vs 7-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          0.50   5.50 1-Kasperkiewicz-Romeo vs 5-Ford-Taylor
+  300          5.00   1.00 3-Rasmussen-Shen vs 8-Vulcan-Kasperkiewicz
+  110          0.50   5.50 6-Miller-Hendrickson vs 13-Eng-Ruprecht
+  300          5.00   1.00 9-Kuschner- vs 15-Schwaighart-Rind
+  120          2.00   4.00 12-Christensen-Stevens vs 11-Miller-Zaugg
+  300          5.00   1.00 14-Anderson-Abernethy vs 10-Christie-Galer
+  150          3.00   3.00 16-Mohrman-Hall vs 7-Zhang-Zheng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.00   3.00 3-Rasmussen-Shen vs 5-Ford-Taylor
+        450    3.00   3.00 4-Sivapragasam-Morris-Lent vs 9-Kuschner-
+        450    3.00   3.00 7-Zhang-Zheng vs 1-Kasperkiewicz-Romeo
+        450    3.00   3.00 10-Christie-Galer vs 15-Schwaighart-Rind
+        450    3.00   3.00 13-Eng-Ruprecht vs 12-Christensen-Stevens
+        450    3.00   3.00 14-Anderson-Abernethy vs 11-Miller-Zaugg
+        450    3.00   3.00 16-Mohrman-Hall vs 8-Vulcan-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          2.00   4.00 3-Rasmussen-Shen vs 5-Ford-Taylor
+        150    0.00   6.00 4-Sivapragasam-Morris-Lent vs 9-Kuschner-
+  460          5.00   1.00 7-Zhang-Zheng vs 1-Kasperkiewicz-Romeo
+        100    1.00   5.00 10-Christie-Galer vs 15-Schwaighart-Rind
+  460          5.00   1.00 13-Eng-Ruprecht vs 12-Christensen-Stevens
+  460          5.00   1.00 14-Anderson-Abernethy vs 11-Miller-Zaugg
+  400          3.00   3.00 16-Mohrman-Hall vs 8-Vulcan-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   3.00 1-Kasperkiewicz-Romeo vs 13-Eng-Ruprecht
+        100    0.50   5.50 3-Rasmussen-Shen vs 7-Zhang-Zheng
+        100    0.50   5.50 4-Sivapragasam-Morris-Lent vs 6-Miller-Hendrickson
+  100          5.50   0.50 5-Ford-Taylor vs 10-Christie-Galer
+   50          3.00   3.00 14-Anderson-Abernethy vs 12-Christensen-Stevens
+   50          3.00   3.00 15-Schwaighart-Rind vs 11-Miller-Zaugg
+  100          5.50   0.50 16-Mohrman-Hall vs 9-Kuschner-
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.50   2.50 1-Kasperkiewicz-Romeo vs 13-Eng-Ruprecht
+ 1100          6.00   0.00 3-Rasmussen-Shen vs 7-Zhang-Zheng
+  600          2.00   4.00 4-Sivapragasam-Morris-Lent vs 6-Miller-Hendrickson
+  650          5.00   1.00 5-Ford-Taylor vs 10-Christie-Galer
+  170          0.50   5.50 14-Anderson-Abernethy vs 12-Christensen-Stevens
+  170          0.50   5.50 15-Schwaighart-Rind vs 11-Miller-Zaugg
+  620          3.50   2.50 16-Mohrman-Hall vs 9-Kuschner-
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    4.50   1.50 4-Sivapragasam-Morris-Lent vs 8-Vulcan-Kasperkiewicz
+  200          6.00   0.00 5-Ford-Taylor vs 7-Zhang-Zheng
+       1460    0.00   6.00 6-Miller-Hendrickson vs 11-Miller-Zaugg
+       1440    1.50   4.50 9-Kuschner- vs 3-Rasmussen-Shen
+        660    4.50   1.50 14-Anderson-Abernethy vs 13-Eng-Ruprecht
+        690    3.00   3.00 15-Schwaighart-Rind vs 12-Christensen-Stevens
+       1440    1.50   4.50 16-Mohrman-Hall vs 10-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.00   2.00 4-Sivapragasam-Morris-Lent vs 8-Vulcan-Kasperkiewicz
+  660          6.00   0.00 5-Ford-Taylor vs 7-Zhang-Zheng
+  630          4.00   2.00 6-Miller-Hendrickson vs 11-Miller-Zaugg
+        100    1.00   5.00 9-Kuschner- vs 3-Rasmussen-Shen
+        300    0.00   6.00 14-Anderson-Abernethy vs 13-Eng-Ruprecht
+  630          4.00   2.00 15-Schwaighart-Rind vs 12-Christensen-Stevens
+  600          2.00   4.00 16-Mohrman-Hall vs 10-Christie-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   4.00 1-Kasperkiewicz-Romeo vs 14-Anderson-Abernethy
+        450    2.00   4.00 5-Ford-Taylor vs 9-Kuschner-
+        420    5.50   0.50 6-Miller-Hendrickson vs 8-Vulcan-Kasperkiewicz
+        420    5.50   0.50 7-Zhang-Zheng vs 12-Christensen-Stevens
+        450    2.00   4.00 10-Christie-Galer vs 4-Sivapragasam-Morris-Lent
+        450    2.00   4.00 15-Schwaighart-Rind vs 13-Eng-Ruprecht
+        450    2.00   4.00 16-Mohrman-Hall vs 11-Miller-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.50   5.50 1-Kasperkiewicz-Romeo vs 14-Anderson-Abernethy
+        120    3.00   3.00 5-Ford-Taylor vs 9-Kuschner-
+         90    5.50   0.50 6-Miller-Hendrickson vs 8-Vulcan-Kasperkiewicz
+        120    3.00   3.00 7-Zhang-Zheng vs 12-Christensen-Stevens
+         90    5.50   0.50 10-Christie-Galer vs 4-Sivapragasam-Morris-Lent
+        120    3.00   3.00 15-Schwaighart-Rind vs 13-Eng-Ruprecht
+        150    0.50   5.50 16-Mohrman-Hall vs 11-Miller-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.50   0.50 4-Sivapragasam-Morris-Lent vs 3-Rasmussen-Shen
+        110    1.50   4.50 6-Miller-Hendrickson vs 10-Christie-Galer
+  100          4.00   2.00 7-Zhang-Zheng vs 9-Kuschner-
+        110    1.50   4.50 8-Vulcan-Kasperkiewicz vs 13-Eng-Ruprecht
+  200          5.50   0.50 11-Miller-Zaugg vs 5-Ford-Taylor
+        110    1.50   4.50 15-Schwaighart-Rind vs 1-Kasperkiewicz-Romeo
+        110    1.50   4.50 16-Mohrman-Hall vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          6.00   0.00 4-Sivapragasam-Morris-Lent vs 3-Rasmussen-Shen
+  140          2.50   3.50 6-Miller-Hendrickson vs 10-Christie-Galer
+  140          2.50   3.50 7-Zhang-Zheng vs 9-Kuschner-
+  140          2.50   3.50 8-Vulcan-Kasperkiewicz vs 13-Eng-Ruprecht
+  170          5.00   1.00 11-Miller-Zaugg vs 5-Ford-Taylor
+  140          2.50   3.50 15-Schwaighart-Rind vs 1-Kasperkiewicz-Romeo
+  100          0.00   6.00 16-Mohrman-Hall vs 12-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   4.50 3-Rasmussen-Shen vs 14-Anderson-Abernethy
+        200    5.00   1.00 5-Ford-Taylor vs 4-Sivapragasam-Morris-Lent
+        650    1.50   4.50 7-Zhang-Zheng vs 11-Miller-Zaugg
+        650    1.50   4.50 8-Vulcan-Kasperkiewicz vs 10-Christie-Galer
+        200    5.00   1.00 9-Kuschner- vs 1-Kasperkiewicz-Romeo
+        200    5.00   1.00 12-Christensen-Stevens vs 6-Miller-Hendrickson
+        650    1.50   4.50 16-Mohrman-Hall vs 13-Eng-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1370          4.50   1.50 3-Rasmussen-Shen vs 14-Anderson-Abernethy
+ 1390          6.00   0.00 5-Ford-Taylor vs 4-Sivapragasam-Morris-Lent
+  660          0.50   5.50 7-Zhang-Zheng vs 11-Miller-Zaugg
+  660          0.50   5.50 8-Vulcan-Kasperkiewicz vs 10-Christie-Galer
+  690          3.00   3.00 9-Kuschner- vs 1-Kasperkiewicz-Romeo
+ 1370          4.50   1.50 12-Christensen-Stevens vs 6-Miller-Hendrickson
+  680          2.00   4.00 16-Mohrman-Hall vs 13-Eng-Ruprecht
+----------------------------------------------------------------------
