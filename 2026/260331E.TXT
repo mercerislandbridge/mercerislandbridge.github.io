@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
 ------------------------,------ ------------,-------- --------------------------
-DATE>March 31, 2026     |CLUB NO.>158048    | 03/31/2026 21:56
+DATE>March 31, 2026     |CLUB NO.>158048    | 04/07/2026 18:40
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -27,7 +27,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  8 Bogdan Vulcan          Nathan Kasperkiewicz     B    .     .     .     65.54  42.01          
 
- 9 Douglas Kuschner                                B    .     .     .     73.13  46.88          
+ 9 Douglas Kuschner       Josh Kuschner            B    .     .     .     73.13  46.88          
 
 10 Stanford Christie      Corneliu Galer           A    5     .     .     87.21  55.90  0.30(A) 
 
@@ -53,7 +53,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         150    3.00   3.00 4-Sivapragasam-Morris-Lent vs 14-Anderson-Abernethy
   150          6.00   0.00 6-Miller-Hendrickson vs 5-Ford-Taylor
         130    5.00   1.00 8-Vulcan-Kasperkiewicz vs 12-Christensen-Stevens
-        460    0.00   6.00 9-Kuschner- vs 11-Miller-Zaugg
+        460    0.00   6.00 9-Kuschner-Kuschner vs 11-Miller-Zaugg
         400    1.50   4.50 13-Eng-Ruprecht vs 7-Zhang-Zheng
         140    4.00   2.00 15-Schwaighart-Rind vs 3-Rasmussen-Shen
         400    1.50   4.50 16-Mohrman-Hall vs 1-Kasperkiewicz-Romeo
@@ -66,7 +66,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   200          3.00   3.00 4-Sivapragasam-Morris-Lent vs 14-Anderson-Abernethy
    50          0.00   6.00 6-Miller-Hendrickson vs 5-Ford-Taylor
   650          5.50   0.50 8-Vulcan-Kasperkiewicz vs 12-Christensen-Stevens
-  170          2.00   4.00 9-Kuschner- vs 11-Miller-Zaugg
+  170          2.00   4.00 9-Kuschner-Kuschner vs 11-Miller-Zaugg
   100          1.00   5.00 13-Eng-Ruprecht vs 7-Zhang-Zheng
   500          4.00   2.00 15-Schwaighart-Rind vs 3-Rasmussen-Shen
   650          5.50   0.50 16-Mohrman-Hall vs 1-Kasperkiewicz-Romeo
@@ -80,7 +80,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   200          6.00   0.00 4-Sivapragasam-Morris-Lent vs 15-Schwaighart-Rind
   100          4.50   1.50 5-Ford-Taylor vs 14-Anderson-Abernethy
          90    3.00   3.00 7-Zhang-Zheng vs 6-Miller-Hendrickson
-        800    0.00   6.00 9-Kuschner- vs 13-Eng-Ruprecht
+        800    0.00   6.00 9-Kuschner-Kuschner vs 13-Eng-Ruprecht
   100          4.50   1.50 10-Christie-Galer vs 12-Christensen-Stevens
         120    2.00   4.00 11-Miller-Zaugg vs 3-Rasmussen-Shen
 ----------------------------------------------------------------------
@@ -93,7 +93,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         150    2.00   4.00 4-Sivapragasam-Morris-Lent vs 15-Schwaighart-Rind
          90    5.50   0.50 5-Ford-Taylor vs 14-Anderson-Abernethy
         140    3.50   2.50 7-Zhang-Zheng vs 6-Miller-Hendrickson
-        200    0.50   5.50 9-Kuschner- vs 13-Eng-Ruprecht
+        200    0.50   5.50 9-Kuschner-Kuschner vs 13-Eng-Ruprecht
         140    3.50   2.50 10-Christie-Galer vs 12-Christensen-Stevens
         200    0.50   5.50 11-Miller-Zaugg vs 3-Rasmussen-Shen
 ----------------------------------------------------------------------
@@ -130,7 +130,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
         100    3.00   3.00 3-Rasmussen-Shen vs 10-Christie-Galer
         100    3.00   3.00 6-Miller-Hendrickson vs 15-Schwaighart-Rind
-  110          6.00   0.00 9-Kuschner- vs 8-Vulcan-Kasperkiewicz
+  110          6.00   0.00 9-Kuschner-Kuschner vs 8-Vulcan-Kasperkiewicz
         100    3.00   3.00 12-Christensen-Stevens vs 1-Kasperkiewicz-Romeo
         200    1.00   5.00 13-Eng-Ruprecht vs 5-Ford-Taylor
         300    0.00   6.00 14-Anderson-Abernethy vs 7-Zhang-Zheng
@@ -143,7 +143,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
         500    0.00   6.00 3-Rasmussen-Shen vs 10-Christie-Galer
    50          2.00   4.00 6-Miller-Hendrickson vs 15-Schwaighart-Rind
-  300          4.50   1.50 9-Kuschner- vs 8-Vulcan-Kasperkiewicz
+  300          4.50   1.50 9-Kuschner-Kuschner vs 8-Vulcan-Kasperkiewicz
    50          2.00   4.00 12-Christensen-Stevens vs 1-Kasperkiewicz-Romeo
   300          4.50   1.50 13-Eng-Ruprecht vs 5-Ford-Taylor
    50          2.00   4.00 14-Anderson-Abernethy vs 7-Zhang-Zheng
@@ -157,7 +157,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         200    3.50   2.50 1-Kasperkiewicz-Romeo vs 6-Miller-Hendrickson
         200    3.50   2.50 4-Sivapragasam-Morris-Lent vs 11-Miller-Zaugg
         650    0.50   5.50 7-Zhang-Zheng vs 15-Schwaighart-Rind
-        100    6.00   0.00 10-Christie-Galer vs 9-Kuschner-
+        100    6.00   0.00 10-Christie-Galer vs 9-Kuschner-Kuschner
         200    3.50   2.50 12-Christensen-Stevens vs 3-Rasmussen-Shen
         650    0.50   5.50 14-Anderson-Abernethy vs 8-Vulcan-Kasperkiewicz
         200    3.50   2.50 16-Mohrman-Hall vs 5-Ford-Taylor
@@ -170,7 +170,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   100          3.00   3.00 1-Kasperkiewicz-Romeo vs 6-Miller-Hendrickson
   170          5.50   0.50 4-Sivapragasam-Morris-Lent vs 11-Miller-Zaugg
   170          5.50   0.50 7-Zhang-Zheng vs 15-Schwaighart-Rind
-  100          3.00   3.00 10-Christie-Galer vs 9-Kuschner-
+  100          3.00   3.00 10-Christie-Galer vs 9-Kuschner-Kuschner
         110    0.50   5.50 12-Christensen-Stevens vs 3-Rasmussen-Shen
         110    0.50   5.50 14-Anderson-Abernethy vs 8-Vulcan-Kasperkiewicz
   100          3.00   3.00 16-Mohrman-Hall vs 5-Ford-Taylor
@@ -185,7 +185,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   300          0.00   6.00 8-Vulcan-Kasperkiewicz vs 15-Schwaighart-Rind
   450          3.50   2.50 11-Miller-Zaugg vs 10-Christie-Galer
   650          6.00   0.00 13-Eng-Ruprecht vs 4-Sivapragasam-Morris-Lent
-  450          3.50   2.50 14-Anderson-Abernethy vs 9-Kuschner-
+  450          3.50   2.50 14-Anderson-Abernethy vs 9-Kuschner-Kuschner
   420          2.00   4.00 16-Mohrman-Hall vs 6-Miller-Hendrickson
 ----------------------------------------------------------------------
 
@@ -198,7 +198,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   140          3.50   2.50 8-Vulcan-Kasperkiewicz vs 15-Schwaighart-Rind
   170          5.00   1.00 11-Miller-Zaugg vs 10-Christie-Galer
   140          3.50   2.50 13-Eng-Ruprecht vs 4-Sivapragasam-Morris-Lent
-  120          2.00   4.00 14-Anderson-Abernethy vs 9-Kuschner-
+  120          2.00   4.00 14-Anderson-Abernethy vs 9-Kuschner-Kuschner
   300          6.00   0.00 16-Mohrman-Hall vs 6-Miller-Hendrickson
 ----------------------------------------------------------------------
 
@@ -209,7 +209,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         500    0.00   6.00 1-Kasperkiewicz-Romeo vs 5-Ford-Taylor
   790          6.00   0.00 3-Rasmussen-Shen vs 8-Vulcan-Kasperkiewicz
         200    1.00   5.00 6-Miller-Hendrickson vs 13-Eng-Ruprecht
-  130          5.00   1.00 9-Kuschner- vs 15-Schwaighart-Rind
+  130          5.00   1.00 9-Kuschner-Kuschner vs 15-Schwaighart-Rind
   100          4.00   2.00 12-Christensen-Stevens vs 11-Miller-Zaugg
         100    2.50   3.50 14-Anderson-Abernethy vs 10-Christie-Galer
         100    2.50   3.50 16-Mohrman-Hall vs 7-Zhang-Zheng
@@ -222,7 +222,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   110          0.50   5.50 1-Kasperkiewicz-Romeo vs 5-Ford-Taylor
   300          5.00   1.00 3-Rasmussen-Shen vs 8-Vulcan-Kasperkiewicz
   110          0.50   5.50 6-Miller-Hendrickson vs 13-Eng-Ruprecht
-  300          5.00   1.00 9-Kuschner- vs 15-Schwaighart-Rind
+  300          5.00   1.00 9-Kuschner-Kuschner vs 15-Schwaighart-Rind
   120          2.00   4.00 12-Christensen-Stevens vs 11-Miller-Zaugg
   300          5.00   1.00 14-Anderson-Abernethy vs 10-Christie-Galer
   150          3.00   3.00 16-Mohrman-Hall vs 7-Zhang-Zheng
@@ -233,7 +233,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         450    3.00   3.00 3-Rasmussen-Shen vs 5-Ford-Taylor
-        450    3.00   3.00 4-Sivapragasam-Morris-Lent vs 9-Kuschner-
+        450    3.00   3.00 4-Sivapragasam-Morris-Lent vs 9-Kuschner-Kuschner
         450    3.00   3.00 7-Zhang-Zheng vs 1-Kasperkiewicz-Romeo
         450    3.00   3.00 10-Christie-Galer vs 15-Schwaighart-Rind
         450    3.00   3.00 13-Eng-Ruprecht vs 12-Christensen-Stevens
@@ -246,7 +246,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   180          2.00   4.00 3-Rasmussen-Shen vs 5-Ford-Taylor
-        150    0.00   6.00 4-Sivapragasam-Morris-Lent vs 9-Kuschner-
+        150    0.00   6.00 4-Sivapragasam-Morris-Lent vs 9-Kuschner-Kuschner
   460          5.00   1.00 7-Zhang-Zheng vs 1-Kasperkiewicz-Romeo
         100    1.00   5.00 10-Christie-Galer vs 15-Schwaighart-Rind
   460          5.00   1.00 13-Eng-Ruprecht vs 12-Christensen-Stevens
@@ -264,7 +264,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   100          5.50   0.50 5-Ford-Taylor vs 10-Christie-Galer
    50          3.00   3.00 14-Anderson-Abernethy vs 12-Christensen-Stevens
    50          3.00   3.00 15-Schwaighart-Rind vs 11-Miller-Zaugg
-  100          5.50   0.50 16-Mohrman-Hall vs 9-Kuschner-
+  100          5.50   0.50 16-Mohrman-Hall vs 9-Kuschner-Kuschner
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 18
@@ -277,7 +277,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   650          5.00   1.00 5-Ford-Taylor vs 10-Christie-Galer
   170          0.50   5.50 14-Anderson-Abernethy vs 12-Christensen-Stevens
   170          0.50   5.50 15-Schwaighart-Rind vs 11-Miller-Zaugg
-  620          3.50   2.50 16-Mohrman-Hall vs 9-Kuschner-
+  620          3.50   2.50 16-Mohrman-Hall vs 9-Kuschner-Kuschner
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 19
@@ -287,7 +287,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         660    4.50   1.50 4-Sivapragasam-Morris-Lent vs 8-Vulcan-Kasperkiewicz
   200          6.00   0.00 5-Ford-Taylor vs 7-Zhang-Zheng
        1460    0.00   6.00 6-Miller-Hendrickson vs 11-Miller-Zaugg
-       1440    1.50   4.50 9-Kuschner- vs 3-Rasmussen-Shen
+       1440    1.50   4.50 9-Kuschner-Kuschner vs 3-Rasmussen-Shen
         660    4.50   1.50 14-Anderson-Abernethy vs 13-Eng-Ruprecht
         690    3.00   3.00 15-Schwaighart-Rind vs 12-Christensen-Stevens
        1440    1.50   4.50 16-Mohrman-Hall vs 10-Christie-Galer
@@ -300,7 +300,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   630          4.00   2.00 4-Sivapragasam-Morris-Lent vs 8-Vulcan-Kasperkiewicz
   660          6.00   0.00 5-Ford-Taylor vs 7-Zhang-Zheng
   630          4.00   2.00 6-Miller-Hendrickson vs 11-Miller-Zaugg
-        100    1.00   5.00 9-Kuschner- vs 3-Rasmussen-Shen
+        100    1.00   5.00 9-Kuschner-Kuschner vs 3-Rasmussen-Shen
         300    0.00   6.00 14-Anderson-Abernethy vs 13-Eng-Ruprecht
   630          4.00   2.00 15-Schwaighart-Rind vs 12-Christensen-Stevens
   600          2.00   4.00 16-Mohrman-Hall vs 10-Christie-Galer
@@ -311,7 +311,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         450    2.00   4.00 1-Kasperkiewicz-Romeo vs 14-Anderson-Abernethy
-        450    2.00   4.00 5-Ford-Taylor vs 9-Kuschner-
+        450    2.00   4.00 5-Ford-Taylor vs 9-Kuschner-Kuschner
         420    5.50   0.50 6-Miller-Hendrickson vs 8-Vulcan-Kasperkiewicz
         420    5.50   0.50 7-Zhang-Zheng vs 12-Christensen-Stevens
         450    2.00   4.00 10-Christie-Galer vs 4-Sivapragasam-Morris-Lent
@@ -324,7 +324,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         150    0.50   5.50 1-Kasperkiewicz-Romeo vs 14-Anderson-Abernethy
-        120    3.00   3.00 5-Ford-Taylor vs 9-Kuschner-
+        120    3.00   3.00 5-Ford-Taylor vs 9-Kuschner-Kuschner
          90    5.50   0.50 6-Miller-Hendrickson vs 8-Vulcan-Kasperkiewicz
         120    3.00   3.00 7-Zhang-Zheng vs 12-Christensen-Stevens
          90    5.50   0.50 10-Christie-Galer vs 4-Sivapragasam-Morris-Lent
@@ -338,7 +338,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
   200          5.50   0.50 4-Sivapragasam-Morris-Lent vs 3-Rasmussen-Shen
         110    1.50   4.50 6-Miller-Hendrickson vs 10-Christie-Galer
-  100          4.00   2.00 7-Zhang-Zheng vs 9-Kuschner-
+  100          4.00   2.00 7-Zhang-Zheng vs 9-Kuschner-Kuschner
         110    1.50   4.50 8-Vulcan-Kasperkiewicz vs 13-Eng-Ruprecht
   200          5.50   0.50 11-Miller-Zaugg vs 5-Ford-Taylor
         110    1.50   4.50 15-Schwaighart-Rind vs 1-Kasperkiewicz-Romeo
@@ -351,7 +351,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   N-S   E-W    N-S    E-W
   420          6.00   0.00 4-Sivapragasam-Morris-Lent vs 3-Rasmussen-Shen
   140          2.50   3.50 6-Miller-Hendrickson vs 10-Christie-Galer
-  140          2.50   3.50 7-Zhang-Zheng vs 9-Kuschner-
+  140          2.50   3.50 7-Zhang-Zheng vs 9-Kuschner-Kuschner
   140          2.50   3.50 8-Vulcan-Kasperkiewicz vs 13-Eng-Ruprecht
   170          5.00   1.00 11-Miller-Zaugg vs 5-Ford-Taylor
   140          2.50   3.50 15-Schwaighart-Rind vs 1-Kasperkiewicz-Romeo
@@ -366,7 +366,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         200    5.00   1.00 5-Ford-Taylor vs 4-Sivapragasam-Morris-Lent
         650    1.50   4.50 7-Zhang-Zheng vs 11-Miller-Zaugg
         650    1.50   4.50 8-Vulcan-Kasperkiewicz vs 10-Christie-Galer
-        200    5.00   1.00 9-Kuschner- vs 1-Kasperkiewicz-Romeo
+        200    5.00   1.00 9-Kuschner-Kuschner vs 1-Kasperkiewicz-Romeo
         200    5.00   1.00 12-Christensen-Stevens vs 6-Miller-Hendrickson
         650    1.50   4.50 16-Mohrman-Hall vs 13-Eng-Ruprecht
 ----------------------------------------------------------------------
@@ -379,7 +379,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
  1390          6.00   0.00 5-Ford-Taylor vs 4-Sivapragasam-Morris-Lent
   660          0.50   5.50 7-Zhang-Zheng vs 11-Miller-Zaugg
   660          0.50   5.50 8-Vulcan-Kasperkiewicz vs 10-Christie-Galer
-  690          3.00   3.00 9-Kuschner- vs 1-Kasperkiewicz-Romeo
+  690          3.00   3.00 9-Kuschner-Kuschner vs 1-Kasperkiewicz-Romeo
  1370          4.50   1.50 12-Christensen-Stevens vs 6-Miller-Hendrickson
   680          2.00   4.00 16-Mohrman-Hall vs 13-Eng-Ruprecht
 ----------------------------------------------------------------------
