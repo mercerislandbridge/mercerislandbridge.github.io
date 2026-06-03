@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 2, 2026       |CLUB NO.>158048    | 06/02/2026 21:52
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/4000/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=10/C=5                     ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Ring              Mike Christensen         A    4     .     .     87.21  55.90  0.53(A) 
+
+ 2 Kim Eng                Eric Sieg                A   2/3    .     .     89.38  57.29  0.90(A) 
+
+ 3 Hugh Hendrickson       Laura Miller             C    .     .     .     61.00  39.10          
+
+ 4 Bogdan Vulcan          Nathan Kasperkiewicz     B    .     .     .     76.38  48.96          
+
+ 5 Muhunthan Sivapragasam Chris Morris-Lent        C    .     .     .     57.96  37.15          
+
+
+
+ 7 Steven Campau          Miles Ohlrich            B    .     .     .     68.79  44.10          
+
+ 8 Kevin Cline            Aaron Mohrman            B   2/3    2     .     89.38  57.29  0.90(A) 
+
+ 9 Christopher Jarvis     Adam Ruprecht            C    .     .     2     71.50  45.83  0.28(C) 
+
+10 Ann Romeo              Bob Shelley              B    .     4     .     79.08  50.69  0.28(B) 
+
+11 James Hamilton         Elaine Vona              C    .     .     .     68.79  44.10          
+
+12 Nick Tipton            Craig Conner             C    1     1     1     89.92  57.64  1.50(A) 
+
+13 Corneliu Galer         Dave Grubbs              A    .     .     .     81.25  52.08          
+
+14 Ray Miller             Jeffrey Ford             A    .     .     .     80.17  51.39          
+
+15 Bryan Delfs            Stanford Christie        A    5     .     .     86.13  55.21  0.30(A) 
+
+16 Shawn Abernethy        Brian Zaugg              B    6     3     .     85.04  54.51  0.40(B) 
+
+
+                                          Totals                        1171.98       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   1.50 4-Vulcan-Kasperkiewicz vs 14-Miller-Ford
+        100    0.50   5.50 8-Cline-Mohrman vs 12-Tipton-Conner
+   50          4.50   1.50 9-Jarvis-Ruprecht vs 11-Hamilton-Vona
+   50          4.50   1.50 10-Romeo-Shelley vs 2-Eng-Sieg
+   50          4.50   1.50 13-Galer-Grubbs vs 7-Campau-Ohlrich
+         50    2.00   4.00 15-Delfs-Christie vs 3-Hendrickson-Miller
+        100    0.50   5.50 16-Abernethy-Zaugg vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   5.00 4-Vulcan-Kasperkiewicz vs 14-Miller-Ford
+        110    1.00   5.00 8-Cline-Mohrman vs 12-Tipton-Conner
+  240          6.00   0.00 9-Jarvis-Ruprecht vs 11-Hamilton-Vona
+        110    1.00   5.00 10-Romeo-Shelley vs 2-Eng-Sieg
+  150          4.50   1.50 13-Galer-Grubbs vs 7-Campau-Ohlrich
+  100          3.00   3.00 15-Delfs-Christie vs 3-Hendrickson-Miller
+  150          4.50   1.50 16-Abernethy-Zaugg vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.00   6.00 1-Ring-Christensen vs 8-Cline-Mohrman
+         50    1.00   5.00 4-Vulcan-Kasperkiewicz vs 15-Delfs-Christie
+  140          4.00   2.00 5-Sivapragasam-Morris-Lent vs 14-Miller-Ford
+  100          2.00   4.00 9-Jarvis-Ruprecht vs 13-Galer-Grubbs
+  140          4.00   2.00 10-Romeo-Shelley vs 12-Tipton-Conner
+  170          6.00   0.00 11-Hamilton-Vona vs 3-Hendrickson-Miller
+  140          4.00   2.00 16-Abernethy-Zaugg vs 2-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.00   5.00 1-Ring-Christensen vs 8-Cline-Mohrman
+        170    5.50   0.50 4-Vulcan-Kasperkiewicz vs 15-Delfs-Christie
+        650    0.00   6.00 5-Sivapragasam-Morris-Lent vs 14-Miller-Ford
+        200    3.50   2.50 9-Jarvis-Ruprecht vs 13-Galer-Grubbs
+        170    5.50   0.50 10-Romeo-Shelley vs 12-Tipton-Conner
+        200    3.50   2.50 11-Hamilton-Vona vs 3-Hendrickson-Miller
+        500    2.00   4.00 16-Abernethy-Zaugg vs 2-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          4.00   2.00 2-Eng-Sieg vs 9-Jarvis-Ruprecht
+  600          6.00   0.00 5-Sivapragasam-Morris-Lent vs 15-Delfs-Christie
+  500          4.00   2.00 8-Cline-Mohrman vs 7-Campau-Ohlrich
+  500          4.00   2.00 10-Romeo-Shelley vs 1-Ring-Christensen
+  150          0.50   5.50 11-Hamilton-Vona vs 13-Galer-Grubbs
+  150          0.50   5.50 12-Tipton-Conner vs 4-Vulcan-Kasperkiewicz
+  210          2.00   4.00 16-Abernethy-Zaugg vs 3-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          5.00   1.00 2-Eng-Sieg vs 9-Jarvis-Ruprecht
+        150    0.00   6.00 5-Sivapragasam-Morris-Lent vs 15-Delfs-Christie
+  100          6.00   0.00 8-Cline-Mohrman vs 7-Campau-Ohlrich
+        110    4.00   2.00 10-Romeo-Shelley vs 1-Ring-Christensen
+        140    1.50   4.50 11-Hamilton-Vona vs 13-Galer-Grubbs
+        140    1.50   4.50 12-Tipton-Conner vs 4-Vulcan-Kasperkiewicz
+        130    3.00   3.00 16-Abernethy-Zaugg vs 3-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   2.00 3-Hendrickson-Miller vs 10-Romeo-Shelley
+        100    1.50   4.50 9-Jarvis-Ruprecht vs 8-Cline-Mohrman
+  140          4.00   2.00 11-Hamilton-Vona vs 2-Eng-Sieg
+        200    0.00   6.00 12-Tipton-Conner vs 1-Ring-Christensen
+        100    1.50   4.50 13-Galer-Grubbs vs 5-Sivapragasam-Morris-Lent
+  170          6.00   0.00 14-Miller-Ford vs 7-Campau-Ohlrich
+  140          4.00   2.00 16-Abernethy-Zaugg vs 4-Vulcan-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   4.00 3-Hendrickson-Miller vs 10-Romeo-Shelley
+        100    2.00   4.00 9-Jarvis-Ruprecht vs 8-Cline-Mohrman
+        140    0.00   6.00 11-Hamilton-Vona vs 2-Eng-Sieg
+   50          5.00   1.00 12-Tipton-Conner vs 1-Ring-Christensen
+        100    2.00   4.00 13-Galer-Grubbs vs 5-Sivapragasam-Morris-Lent
+         50    4.00   2.00 14-Miller-Ford vs 7-Campau-Ohlrich
+  100          6.00   0.00 16-Abernethy-Zaugg vs 4-Vulcan-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   6.00 4-Vulcan-Kasperkiewicz vs 11-Hamilton-Vona
+  400          3.00   3.00 7-Campau-Ohlrich vs 15-Delfs-Christie
+  400          3.00   3.00 10-Romeo-Shelley vs 9-Jarvis-Ruprecht
+  460          6.00   0.00 12-Tipton-Conner vs 3-Hendrickson-Miller
+  400          3.00   3.00 13-Galer-Grubbs vs 2-Eng-Sieg
+  400          3.00   3.00 14-Miller-Ford vs 8-Cline-Mohrman
+  400          3.00   3.00 16-Abernethy-Zaugg vs 5-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.00   5.00 4-Vulcan-Kasperkiewicz vs 11-Hamilton-Vona
+  200          5.50   0.50 7-Campau-Ohlrich vs 15-Delfs-Christie
+        140    2.50   3.50 10-Romeo-Shelley vs 9-Jarvis-Ruprecht
+  100          4.00   2.00 12-Tipton-Conner vs 3-Hendrickson-Miller
+        140    2.50   3.50 13-Galer-Grubbs vs 2-Eng-Sieg
+        620    0.00   6.00 14-Miller-Ford vs 8-Cline-Mohrman
+  200          5.50   0.50 16-Abernethy-Zaugg vs 5-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   2.50 1-Ring-Christensen vs 3-Hendrickson-Miller
+  420          3.50   2.50 2-Eng-Sieg vs 7-Campau-Ohlrich
+  400          1.00   5.00 5-Sivapragasam-Morris-Lent vs 12-Tipton-Conner
+         50    0.00   6.00 8-Cline-Mohrman vs 15-Delfs-Christie
+  420          3.50   2.50 11-Hamilton-Vona vs 10-Romeo-Shelley
+  420          3.50   2.50 13-Galer-Grubbs vs 4-Vulcan-Kasperkiewicz
+  450          6.00   0.00 14-Miller-Ford vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   0.50 1-Ring-Christensen vs 3-Hendrickson-Miller
+        200    1.00   5.00 2-Eng-Sieg vs 7-Campau-Ohlrich
+   50          5.50   0.50 5-Sivapragasam-Morris-Lent vs 12-Tipton-Conner
+        140    3.00   3.00 8-Cline-Mohrman vs 15-Delfs-Christie
+        140    3.00   3.00 11-Hamilton-Vona vs 10-Romeo-Shelley
+        500    0.00   6.00 13-Galer-Grubbs vs 4-Vulcan-Kasperkiewicz
+        140    3.00   3.00 14-Miller-Ford vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          5.50   0.50 1-Ring-Christensen vs 5-Sivapragasam-Morris-Lent
+  620          5.50   0.50 2-Eng-Sieg vs 4-Vulcan-Kasperkiewicz
+        100    1.00   5.00 3-Hendrickson-Miller vs 8-Cline-Mohrman
+  110          3.00   3.00 9-Jarvis-Ruprecht vs 15-Delfs-Christie
+  140          4.00   2.00 12-Tipton-Conner vs 11-Hamilton-Vona
+  100          2.00   4.00 14-Miller-Ford vs 10-Romeo-Shelley
+        200    0.00   6.00 16-Abernethy-Zaugg vs 7-Campau-Ohlrich
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  800          6.00   0.00 1-Ring-Christensen vs 5-Sivapragasam-Morris-Lent
+  430          4.00   2.00 2-Eng-Sieg vs 4-Vulcan-Kasperkiewicz
+  150          0.50   5.50 3-Hendrickson-Miller vs 8-Cline-Mohrman
+  150          0.50   5.50 9-Jarvis-Ruprecht vs 15-Delfs-Christie
+  460          5.00   1.00 12-Tipton-Conner vs 11-Hamilton-Vona
+  400          2.50   3.50 14-Miller-Ford vs 10-Romeo-Shelley
+  400          2.50   3.50 16-Abernethy-Zaugg vs 7-Campau-Ohlrich
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   5.00 3-Hendrickson-Miller vs 5-Sivapragasam-Morris-Lent
+  120          2.50   3.50 4-Vulcan-Kasperkiewicz vs 9-Jarvis-Ruprecht
+  120          2.50   3.50 7-Campau-Ohlrich vs 1-Ring-Christensen
+  180          5.00   1.00 10-Romeo-Shelley vs 15-Delfs-Christie
+        200    0.00   6.00 13-Galer-Grubbs vs 12-Tipton-Conner
+  150          4.00   2.00 14-Miller-Ford vs 11-Hamilton-Vona
+  300          6.00   0.00 16-Abernethy-Zaugg vs 8-Cline-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          6.00   0.00 3-Hendrickson-Miller vs 5-Sivapragasam-Morris-Lent
+  170          4.00   2.00 4-Vulcan-Kasperkiewicz vs 9-Jarvis-Ruprecht
+         50    0.00   6.00 7-Campau-Ohlrich vs 1-Ring-Christensen
+  140          2.00   4.00 10-Romeo-Shelley vs 15-Delfs-Christie
+  230          5.00   1.00 13-Galer-Grubbs vs 12-Tipton-Conner
+  140          2.00   4.00 14-Miller-Ford vs 11-Hamilton-Vona
+  140          2.00   4.00 16-Abernethy-Zaugg vs 8-Cline-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.00   1.00 1-Ring-Christensen vs 13-Galer-Grubbs
+         50    1.50   4.50 3-Hendrickson-Miller vs 7-Campau-Ohlrich
+  400          4.00   2.00 5-Sivapragasam-Morris-Lent vs 10-Romeo-Shelley
+         50    1.50   4.50 8-Cline-Mohrman vs 2-Eng-Sieg
+         50    1.50   4.50 14-Miller-Ford vs 12-Tipton-Conner
+  430          6.00   0.00 15-Delfs-Christie vs 11-Hamilton-Vona
+         50    1.50   4.50 16-Abernethy-Zaugg vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.50   2.50 1-Ring-Christensen vs 13-Galer-Grubbs
+        420    3.50   2.50 3-Hendrickson-Miller vs 7-Campau-Ohlrich
+        450    0.00   6.00 5-Sivapragasam-Morris-Lent vs 10-Romeo-Shelley
+        420    3.50   2.50 8-Cline-Mohrman vs 2-Eng-Sieg
+        420    3.50   2.50 14-Miller-Ford vs 12-Tipton-Conner
+        420    3.50   2.50 15-Delfs-Christie vs 11-Hamilton-Vona
+        420    3.50   2.50 16-Abernethy-Zaugg vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   1.50 2-Eng-Sieg vs 1-Ring-Christensen
+        300    0.50   5.50 4-Vulcan-Kasperkiewicz vs 8-Cline-Mohrman
+  200          4.50   1.50 5-Sivapragasam-Morris-Lent vs 7-Campau-Ohlrich
+        100    2.00   4.00 9-Jarvis-Ruprecht vs 3-Hendrickson-Miller
+        300    0.50   5.50 14-Miller-Ford vs 13-Galer-Grubbs
+  200          4.50   1.50 15-Delfs-Christie vs 12-Tipton-Conner
+  200          4.50   1.50 16-Abernethy-Zaugg vs 10-Romeo-Shelley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          6.00   0.00 2-Eng-Sieg vs 1-Ring-Christensen
+  400          4.50   1.50 4-Vulcan-Kasperkiewicz vs 8-Cline-Mohrman
+    PASS       0.00   6.00 5-Sivapragasam-Morris-Lent vs 7-Campau-Ohlrich
+  300          3.00   3.00 9-Jarvis-Ruprecht vs 3-Hendrickson-Miller
+  200          2.00   4.00 14-Miller-Ford vs 13-Galer-Grubbs
+  100          1.00   5.00 15-Delfs-Christie vs 12-Tipton-Conner
+  400          4.50   1.50 16-Abernethy-Zaugg vs 10-Romeo-Shelley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.50   0.50 1-Ring-Christensen vs 14-Miller-Ford
+  140          3.00   3.00 3-Hendrickson-Miller vs 2-Eng-Sieg
+        100    0.50   5.50 5-Sivapragasam-Morris-Lent vs 9-Jarvis-Ruprecht
+  140          3.00   3.00 7-Campau-Ohlrich vs 12-Tipton-Conner
+        100    0.50   5.50 10-Romeo-Shelley vs 4-Vulcan-Kasperkiewicz
+  170          5.50   0.50 15-Delfs-Christie vs 13-Galer-Grubbs
+  140          3.00   3.00 16-Abernethy-Zaugg vs 11-Hamilton-Vona
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          3.50   2.50 1-Ring-Christensen vs 14-Miller-Ford
+  430          3.50   2.50 3-Hendrickson-Miller vs 2-Eng-Sieg
+  140          2.00   4.00 5-Sivapragasam-Morris-Lent vs 9-Jarvis-Ruprecht
+        100    0.00   6.00 7-Campau-Ohlrich vs 12-Tipton-Conner
+  460          5.50   0.50 10-Romeo-Shelley vs 4-Vulcan-Kasperkiewicz
+         50    1.00   5.00 15-Delfs-Christie vs 13-Galer-Grubbs
+  460          5.50   0.50 16-Abernethy-Zaugg vs 11-Hamilton-Vona
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   5.50 2-Eng-Sieg vs 14-Miller-Ford
+  620          5.00   1.00 4-Vulcan-Kasperkiewicz vs 3-Hendrickson-Miller
+        100    2.00   4.00 7-Campau-Ohlrich vs 9-Jarvis-Ruprecht
+        200    0.50   5.50 8-Cline-Mohrman vs 13-Galer-Grubbs
+  620          5.00   1.00 11-Hamilton-Vona vs 5-Sivapragasam-Morris-Lent
+  620          5.00   1.00 15-Delfs-Christie vs 1-Ring-Christensen
+  200          3.00   3.00 16-Abernethy-Zaugg vs 12-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.00   4.00 2-Eng-Sieg vs 14-Miller-Ford
+  170          5.50   0.50 4-Vulcan-Kasperkiewicz vs 3-Hendrickson-Miller
+         50    2.00   4.00 7-Campau-Ohlrich vs 9-Jarvis-Ruprecht
+         50    2.00   4.00 8-Cline-Mohrman vs 13-Galer-Grubbs
+  140          4.00   2.00 11-Hamilton-Vona vs 5-Sivapragasam-Morris-Lent
+  170          5.50   0.50 15-Delfs-Christie vs 1-Ring-Christensen
+        100    0.00   6.00 16-Abernethy-Zaugg vs 12-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.50   5.50 3-Hendrickson-Miller vs 14-Miller-Ford
+        150    5.00   1.00 5-Sivapragasam-Morris-Lent vs 4-Vulcan-Kasperkiewicz
+        300    4.00   2.00 7-Campau-Ohlrich vs 11-Hamilton-Vona
+        100    6.00   0.00 8-Cline-Mohrman vs 10-Romeo-Shelley
+        650    0.50   5.50 9-Jarvis-Ruprecht vs 1-Ring-Christensen
+        500    3.00   3.00 15-Delfs-Christie vs 2-Eng-Sieg
+        620    2.00   4.00 16-Abernethy-Zaugg vs 13-Galer-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   1.50 3-Hendrickson-Miller vs 14-Miller-Ford
+        500    0.50   5.50 5-Sivapragasam-Morris-Lent vs 4-Vulcan-Kasperkiewicz
+        100    3.00   3.00 7-Campau-Ohlrich vs 11-Hamilton-Vona
+  100          4.50   1.50 8-Cline-Mohrman vs 10-Romeo-Shelley
+        500    0.50   5.50 9-Jarvis-Ruprecht vs 1-Ring-Christensen
+        200    2.00   4.00 15-Delfs-Christie vs 2-Eng-Sieg
+  200          6.00   0.00 16-Abernethy-Zaugg vs 13-Galer-Grubbs
+----------------------------------------------------------------------
