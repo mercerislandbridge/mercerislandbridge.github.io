@@ -1,0 +1,385 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 9, 2026       |CLUB NO.>158048    | 06/09/2026 22:01
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3500/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=15/B=10/C=6                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Ring              Mike Christensen         A   5     .     .   |   5     .     .     85.04  54.51  0.83(OA)
+
+ 2 Kevin Cline            Chris Morris-Lent        C   .     .     .   |   .     .     .     63.38  40.63          
+
+ 3 Dong Yan               Rui Gong                 B   .     .     .   |   .     .     .     70.50  45.19          
+
+ 4 Oyvind Tafjord         Sue Anderson             C  3/4   2/3    2   |  3/4   2/3    2     88.29  56.60  1.30(OA)
+
+ 5 Kim Eng                Eric Sieg                A   .     .     .   |   6     .     .     84.50  54.17  0.25(SA)
+
+
+
+ 7 Shannon Kasperkiewicz  Cindy Pauley             C   .     .     .   |   .     .     .     61.75  39.58          
+
+ 8 Aaron Mohrman          David Taylor             B   .     .     .   |   .     .     .     68.25  43.75          
+
+ 9 Bryant Carlson         Andrew Rigazio           C   .     .     .   |   .     .     .     68.50  43.91          
+
+10 Hugh Hendrickson       Laura Miller             C   .     .     .   |   .     .     .     62.29  39.93          
+
+11 Jeffrey Ford           Bogdan Vulcan            A   2     .     .   |   2     .     .     90.46  57.99  1.97(OA)
+
+12 David Wright           Shawn Abernethy          B   .     4     .   |   .     4     .     81.25  52.08  0.72(OB)
+
+13 Bryan Delfs            Stanford Christie        A   .     .     .   |   .     .     .     82.88  53.13          
+
+14 Ray Miller             Ann Romeo                A   .     .     .   |   .     .     .     76.38  48.96          
+
+15 Christopher Jarvis     Chris Pesce              C   1     1     1   |   1     1     1     99.67  63.89  2.63(OA)
+
+16 Brian Zaugg            Liliana Diaconescu       B  3/4   2/3    .   |  3/4   2/3    .     88.29  56.60  1.30(OA)
+
+
+                                          Totals                                           1171.43       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  520          1.50   4.50 4-Tafjord-Anderson vs 14-Miller-Romeo
+ 1020          5.50   0.50 8-Mohrman-Taylor vs 12-Wright-Abernethy
+  520          1.50   4.50 9-Carlson-Rigazio vs 11-Ford-Vulcan
+  980          3.50   2.50 10-Hendrickson-Miller vs 2-Cline-Morris-Lent
+        100    0.00   6.00 13-Delfs-Christie vs 7-Kasperkiewicz-Pauley
+ 1020          5.50   0.50 15-Jarvis-Pesce vs 3-Yan-Gong
+  980          3.50   2.50 16-Zaugg-Diaconescu vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   2.50 4-Tafjord-Anderson vs 14-Miller-Romeo
+        150    1.00   5.00 8-Mohrman-Taylor vs 12-Wright-Abernethy
+   80          5.00   1.00 9-Carlson-Rigazio vs 11-Ford-Vulcan
+   50          3.50   2.50 10-Hendrickson-Miller vs 2-Cline-Morris-Lent
+  100          6.00   0.00 13-Delfs-Christie vs 7-Kasperkiewicz-Pauley
+         90    2.00   4.00 15-Jarvis-Pesce vs 3-Yan-Gong
+        300    0.00   6.00 16-Zaugg-Diaconescu vs 1-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          3.00   3.00 1-Ring-Christensen vs 8-Mohrman-Taylor
+  400          4.00   2.00 4-Tafjord-Anderson vs 15-Jarvis-Pesce
+  430          5.50   0.50 5-Eng-Sieg vs 14-Miller-Romeo
+         50    1.00   5.00 9-Carlson-Rigazio vs 13-Delfs-Christie
+         50    1.00   5.00 10-Hendrickson-Miller vs 12-Wright-Abernethy
+  430          5.50   0.50 11-Ford-Vulcan vs 3-Yan-Gong
+         50    1.00   5.00 16-Zaugg-Diaconescu vs 2-Cline-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.50   2.50 1-Ring-Christensen vs 8-Mohrman-Taylor
+        620    3.50   2.50 4-Tafjord-Anderson vs 15-Jarvis-Pesce
+        620    3.50   2.50 5-Eng-Sieg vs 14-Miller-Romeo
+        620    3.50   2.50 9-Carlson-Rigazio vs 13-Delfs-Christie
+        650    0.50   5.50 10-Hendrickson-Miller vs 12-Wright-Abernethy
+        170    6.00   0.00 11-Ford-Vulcan vs 3-Yan-Gong
+        650    0.50   5.50 16-Zaugg-Diaconescu vs 2-Cline-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   4.50 2-Cline-Morris-Lent vs 9-Carlson-Rigazio
+        100    1.50   4.50 5-Eng-Sieg vs 15-Jarvis-Pesce
+  620          6.00   0.00 8-Mohrman-Taylor vs 7-Kasperkiewicz-Pauley
+  140          4.50   1.50 10-Hendrickson-Miller vs 1-Ring-Christensen
+        100    1.50   4.50 11-Ford-Vulcan vs 13-Delfs-Christie
+        100    1.50   4.50 12-Wright-Abernethy vs 4-Tafjord-Anderson
+  140          4.50   1.50 16-Zaugg-Diaconescu vs 3-Yan-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   1.00 2-Cline-Morris-Lent vs 9-Carlson-Rigazio
+        650    0.00   6.00 5-Eng-Sieg vs 15-Jarvis-Pesce
+        620    2.00   4.00 8-Mohrman-Taylor vs 7-Kasperkiewicz-Pauley
+        300    4.00   2.00 10-Hendrickson-Miller vs 1-Ring-Christensen
+  300          6.00   0.00 11-Ford-Vulcan vs 13-Delfs-Christie
+        620    2.00   4.00 12-Wright-Abernethy vs 4-Tafjord-Anderson
+        620    2.00   4.00 16-Zaugg-Diaconescu vs 3-Yan-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.50   5.50 3-Yan-Gong vs 10-Hendrickson-Miller
+  620          6.00   0.00 9-Carlson-Rigazio vs 8-Mohrman-Taylor
+        100    2.00   4.00 11-Ford-Vulcan vs 2-Cline-Morris-Lent
+  110          3.00   3.00 12-Wright-Abernethy vs 1-Ring-Christensen
+        200    0.50   5.50 13-Delfs-Christie vs 5-Eng-Sieg
+  140          4.50   1.50 14-Miller-Romeo vs 7-Kasperkiewicz-Pauley
+  140          4.50   1.50 16-Zaugg-Diaconescu vs 4-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          5.00   1.00 3-Yan-Gong vs 10-Hendrickson-Miller
+  130          2.00   4.00 9-Carlson-Rigazio vs 8-Mohrman-Taylor
+  300          3.00   3.00 11-Ford-Vulcan vs 2-Cline-Morris-Lent
+         50    0.50   5.50 12-Wright-Abernethy vs 1-Ring-Christensen
+  400          5.00   1.00 13-Delfs-Christie vs 5-Eng-Sieg
+         50    0.50   5.50 14-Miller-Romeo vs 7-Kasperkiewicz-Pauley
+  400          5.00   1.00 16-Zaugg-Diaconescu vs 4-Tafjord-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          3.00   3.00 4-Tafjord-Anderson vs 11-Ford-Vulcan
+  120          0.00   6.00 7-Kasperkiewicz-Pauley vs 15-Jarvis-Pesce
+  180          6.00   0.00 10-Hendrickson-Miller vs 9-Carlson-Rigazio
+  150          3.00   3.00 12-Wright-Abernethy vs 3-Yan-Gong
+  150          3.00   3.00 13-Delfs-Christie vs 2-Cline-Morris-Lent
+  150          3.00   3.00 14-Miller-Romeo vs 8-Mohrman-Taylor
+  150          3.00   3.00 16-Zaugg-Diaconescu vs 5-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   3.50 4-Tafjord-Anderson vs 11-Ford-Vulcan
+        140    1.00   5.00 7-Kasperkiewicz-Pauley vs 15-Jarvis-Pesce
+        200    0.00   6.00 10-Hendrickson-Miller vs 9-Carlson-Rigazio
+        100    4.00   2.00 12-Wright-Abernethy vs 3-Yan-Gong
+  300          6.00   0.00 13-Delfs-Christie vs 2-Cline-Morris-Lent
+   90          5.00   1.00 14-Miller-Romeo vs 8-Mohrman-Taylor
+        110    2.50   3.50 16-Zaugg-Diaconescu vs 5-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.50   1.50 1-Ring-Christensen vs 3-Yan-Gong
+  100          4.50   1.50 2-Cline-Morris-Lent vs 7-Kasperkiewicz-Pauley
+  100          4.50   1.50 5-Eng-Sieg vs 12-Wright-Abernethy
+   50          1.00   5.00 8-Mohrman-Taylor vs 15-Jarvis-Pesce
+   50          1.00   5.00 11-Ford-Vulcan vs 10-Hendrickson-Miller
+   50          1.00   5.00 13-Delfs-Christie vs 4-Tafjord-Anderson
+  100          4.50   1.50 14-Miller-Romeo vs 9-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   4.50 1-Ring-Christensen vs 3-Yan-Gong
+        420    1.50   4.50 2-Cline-Morris-Lent vs 7-Kasperkiewicz-Pauley
+        420    1.50   4.50 5-Eng-Sieg vs 12-Wright-Abernethy
+        420    1.50   4.50 8-Mohrman-Taylor vs 15-Jarvis-Pesce
+  100          5.50   0.50 11-Ford-Vulcan vs 10-Hendrickson-Miller
+  100          5.50   0.50 13-Delfs-Christie vs 4-Tafjord-Anderson
+   50          4.00   2.00 14-Miller-Romeo vs 9-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   6.00 1-Ring-Christensen vs 5-Eng-Sieg
+        200    1.50   4.50 2-Cline-Morris-Lent vs 4-Tafjord-Anderson
+        200    1.50   4.50 3-Yan-Gong vs 8-Mohrman-Taylor
+        170    4.00   2.00 9-Carlson-Rigazio vs 15-Jarvis-Pesce
+        170    4.00   2.00 12-Wright-Abernethy vs 11-Ford-Vulcan
+  110          6.00   0.00 14-Miller-Romeo vs 10-Hendrickson-Miller
+        170    4.00   2.00 16-Zaugg-Diaconescu vs 7-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    0.00   6.00 1-Ring-Christensen vs 5-Eng-Sieg
+        300    2.50   3.50 2-Cline-Morris-Lent vs 4-Tafjord-Anderson
+        300    2.50   3.50 3-Yan-Gong vs 8-Mohrman-Taylor
+        420    1.00   5.00 9-Carlson-Rigazio vs 15-Jarvis-Pesce
+   50          4.00   2.00 12-Wright-Abernethy vs 11-Ford-Vulcan
+  100          5.50   0.50 14-Miller-Romeo vs 10-Hendrickson-Miller
+  100          5.50   0.50 16-Zaugg-Diaconescu vs 7-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   5.00 3-Yan-Gong vs 5-Eng-Sieg
+  110          4.00   2.00 4-Tafjord-Anderson vs 9-Carlson-Rigazio
+   50          3.00   3.00 7-Kasperkiewicz-Pauley vs 1-Ring-Christensen
+        180    0.00   6.00 10-Hendrickson-Miller vs 15-Jarvis-Pesce
+        100    2.00   4.00 13-Delfs-Christie vs 12-Wright-Abernethy
+  620          5.00   1.00 14-Miller-Romeo vs 11-Ford-Vulcan
+  730          6.00   0.00 16-Zaugg-Diaconescu vs 8-Mohrman-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.50   2.50 3-Yan-Gong vs 5-Eng-Sieg
+  480          3.50   2.50 4-Tafjord-Anderson vs 9-Carlson-Rigazio
+  480          3.50   2.50 7-Kasperkiewicz-Pauley vs 1-Ring-Christensen
+  480          3.50   2.50 10-Hendrickson-Miller vs 15-Jarvis-Pesce
+  480          3.50   2.50 13-Delfs-Christie vs 12-Wright-Abernethy
+  420          0.00   6.00 14-Miller-Romeo vs 11-Ford-Vulcan
+  480          3.50   2.50 16-Zaugg-Diaconescu vs 8-Mohrman-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   5.00 1-Ring-Christensen vs 13-Delfs-Christie
+  400          5.00   1.00 3-Yan-Gong vs 7-Kasperkiewicz-Pauley
+  170          4.00   2.00 5-Eng-Sieg vs 10-Hendrickson-Miller
+         50    2.00   4.00 8-Mohrman-Taylor vs 2-Cline-Morris-Lent
+        150    0.00   6.00 14-Miller-Romeo vs 12-Wright-Abernethy
+  550          6.00   0.00 15-Jarvis-Pesce vs 11-Ford-Vulcan
+  140          3.00   3.00 16-Zaugg-Diaconescu vs 9-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   4.50 1-Ring-Christensen vs 13-Delfs-Christie
+        100    1.50   4.50 3-Yan-Gong vs 7-Kasperkiewicz-Pauley
+   50          3.50   2.50 5-Eng-Sieg vs 10-Hendrickson-Miller
+  100          5.50   0.50 8-Mohrman-Taylor vs 2-Cline-Morris-Lent
+        200    0.00   6.00 14-Miller-Romeo vs 12-Wright-Abernethy
+   50          3.50   2.50 15-Jarvis-Pesce vs 11-Ford-Vulcan
+  100          5.50   0.50 16-Zaugg-Diaconescu vs 9-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   6.00 2-Cline-Morris-Lent vs 1-Ring-Christensen
+  110          3.50   2.50 4-Tafjord-Anderson vs 8-Mohrman-Taylor
+  110          3.50   2.50 5-Eng-Sieg vs 7-Kasperkiewicz-Pauley
+  100          1.00   5.00 9-Carlson-Rigazio vs 3-Yan-Gong
+  140          6.00   0.00 14-Miller-Romeo vs 13-Delfs-Christie
+  110          3.50   2.50 15-Jarvis-Pesce vs 12-Wright-Abernethy
+  110          3.50   2.50 16-Zaugg-Diaconescu vs 10-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   6.00 2-Cline-Morris-Lent vs 1-Ring-Christensen
+        100    2.50   3.50 4-Tafjord-Anderson vs 8-Mohrman-Taylor
+  140          5.50   0.50 5-Eng-Sieg vs 7-Kasperkiewicz-Pauley
+        100    2.50   3.50 9-Carlson-Rigazio vs 3-Yan-Gong
+        100    2.50   3.50 14-Miller-Romeo vs 13-Delfs-Christie
+  140          5.50   0.50 15-Jarvis-Pesce vs 12-Wright-Abernethy
+        100    2.50   3.50 16-Zaugg-Diaconescu vs 10-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   0.50 1-Ring-Christensen vs 14-Miller-Romeo
+        460    4.00   2.00 3-Yan-Gong vs 2-Cline-Morris-Lent
+        490    2.50   3.50 5-Eng-Sieg vs 9-Carlson-Rigazio
+   50          5.50   0.50 7-Kasperkiewicz-Pauley vs 12-Wright-Abernethy
+        940    0.50   5.50 10-Hendrickson-Miller vs 4-Tafjord-Anderson
+        490    2.50   3.50 15-Jarvis-Pesce vs 13-Delfs-Christie
+        940    0.50   5.50 16-Zaugg-Diaconescu vs 11-Ford-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          4.50   1.50 1-Ring-Christensen vs 14-Miller-Romeo
+  430          4.50   1.50 3-Yan-Gong vs 2-Cline-Morris-Lent
+  430          4.50   1.50 5-Eng-Sieg vs 9-Carlson-Rigazio
+  140          1.00   5.00 7-Kasperkiewicz-Pauley vs 12-Wright-Abernethy
+         50    0.00   6.00 10-Hendrickson-Miller vs 4-Tafjord-Anderson
+  180          2.00   4.00 15-Jarvis-Pesce vs 13-Delfs-Christie
+  430          4.50   1.50 16-Zaugg-Diaconescu vs 11-Ford-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          6.00   0.00 2-Cline-Morris-Lent vs 14-Miller-Romeo
+  100          2.50   3.50 4-Tafjord-Anderson vs 3-Yan-Gong
+  200          4.50   1.50 7-Kasperkiewicz-Pauley vs 9-Carlson-Rigazio
+        200    1.00   5.00 8-Mohrman-Taylor vs 13-Delfs-Christie
+  200          4.50   1.50 11-Ford-Vulcan vs 5-Eng-Sieg
+        620    0.00   6.00 15-Jarvis-Pesce vs 1-Ring-Christensen
+  100          2.50   3.50 16-Zaugg-Diaconescu vs 12-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          1.00   5.00 2-Cline-Morris-Lent vs 14-Miller-Romeo
+  110          3.00   3.00 4-Tafjord-Anderson vs 3-Yan-Gong
+  110          3.00   3.00 7-Kasperkiewicz-Pauley vs 9-Carlson-Rigazio
+  110          3.00   3.00 8-Mohrman-Taylor vs 13-Delfs-Christie
+  130          5.50   0.50 11-Ford-Vulcan vs 5-Eng-Sieg
+         50    0.00   6.00 15-Jarvis-Pesce vs 1-Ring-Christensen
+  130          5.50   0.50 16-Zaugg-Diaconescu vs 12-Wright-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    1.00   5.00 3-Yan-Gong vs 14-Miller-Romeo
+        500    2.00   4.00 5-Eng-Sieg vs 4-Tafjord-Anderson
+        660    0.00   6.00 7-Kasperkiewicz-Pauley vs 11-Ford-Vulcan
+  100          4.50   1.50 8-Mohrman-Taylor vs 10-Hendrickson-Miller
+  100          4.50   1.50 9-Carlson-Rigazio vs 1-Ring-Christensen
+  100          4.50   1.50 15-Jarvis-Pesce vs 2-Cline-Morris-Lent
+  100          4.50   1.50 16-Zaugg-Diaconescu vs 13-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   2.00 3-Yan-Gong vs 14-Miller-Romeo
+        110    1.50   4.50 5-Eng-Sieg vs 4-Tafjord-Anderson
+        110    1.50   4.50 7-Kasperkiewicz-Pauley vs 11-Ford-Vulcan
+        130    0.00   6.00 8-Mohrman-Taylor vs 10-Hendrickson-Miller
+  100          4.00   2.00 9-Carlson-Rigazio vs 1-Ring-Christensen
+  200          6.00   0.00 15-Jarvis-Pesce vs 2-Cline-Morris-Lent
+  100          4.00   2.00 16-Zaugg-Diaconescu vs 13-Delfs-Christie
+----------------------------------------------------------------------
