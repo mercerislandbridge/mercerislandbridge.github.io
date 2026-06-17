@@ -1,0 +1,355 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>June 16, 2026      |CLUB NO.>158048    | 06/16/2026 21:58
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   60.0 |TOP>   5 |MP LIMITS>None/2500/1300 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=13/B=7/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+
+
+ 2 Mike Ring              Shawn Abernethy          A    2     .     .     69.50  57.92  0.91(A) 
+
+ 3 Kim Eng                Jeffrey Ford             A    .     .     .     55.50  46.25          
+
+ 4 Corneliu Galer         Sue Anderson             B    .     .     .     53.50  44.58          
+
+ 5 Brian Zaugg            Liliana Diaconescu       A    4     .     .     67.00  55.83  0.46(A) 
+
+ 6 Mike Christensen       David Wright             A    1     .     .     72.50  60.42  1.30(A) 
+
+ 7 Adam Ruprecht          Christopher Jarvis       B    .     .     .     49.50  41.25          
+
+ 8 Nick Tipton            Craig Conner             B    .     3     .     58.50  48.75  0.28(B) 
+
+ 9 Muhunthan Sivapragasam Chris Morris-Lent        C    .     .     .     53.50  44.58          
+
+10 Bryan Delfs            Stanford Christie        A    3     .     .     67.50  56.25  0.65(A) 
+
+11 Shannon Kasperkiewicz  Jeremy Gulley            C    .     2     .     59.50  49.58  0.39(B) 
+
+12 Joseph Grill           Valliappa Lakshmanan     C    5     1     1     66.50  55.42  0.56(B) 
+
+13 Hugh Hendrickson       Laura Miller             B    .     .     .     55.50  46.25          
+
+14 Paul Schwaighart       Brad Rind                A    .     .     .     51.50  42.92          
+
+
+                                          Totals                         780.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 2-Ring-Abernethy vs 6-Christensen-Wright
+   90          0.50   4.50 4-Galer-Anderson vs 9-Sivapragasam-Morris-Lent
+  150          5.00   0.00 5-Zaugg-Diaconescu vs 12-Grill-Lakshmanan
+  100          3.00   2.00 7-Ruprecht-Jarvis vs 8-Tipton-Conner
+  100          3.00   2.00 13-Hendrickson-Miller vs 10-Delfs-Christie
+   90          0.50   4.50 14-Schwaighart-Rind vs 11-Kasperkiewicz-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.00   3.00 2-Ring-Abernethy vs 6-Christensen-Wright
+        450    2.00   3.00 4-Galer-Anderson vs 9-Sivapragasam-Morris-Lent
+   50          4.00   1.00 5-Zaugg-Diaconescu vs 12-Grill-Lakshmanan
+        450    2.00   3.00 7-Ruprecht-Jarvis vs 8-Tipton-Conner
+        480    0.00   5.00 13-Hendrickson-Miller vs 10-Delfs-Christie
+  150          5.00   0.00 14-Schwaighart-Rind vs 11-Kasperkiewicz-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        710    1.00   4.00 2-Ring-Abernethy vs 4-Galer-Anderson
+       1430    0.00   5.00 3-Eng-Ford vs 7-Ruprecht-Jarvis
+        680    3.00   2.00 5-Zaugg-Diaconescu vs 10-Delfs-Christie
+        680    3.00   2.00 6-Christensen-Wright vs 13-Hendrickson-Miller
+  100          5.00   0.00 8-Tipton-Conner vs 9-Sivapragasam-Morris-Lent
+        680    3.00   2.00 14-Schwaighart-Rind vs 12-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1100          5.00   0.00 2-Ring-Abernethy vs 4-Galer-Anderson
+  150          3.00   2.00 3-Eng-Ford vs 7-Ruprecht-Jarvis
+  150          3.00   2.00 5-Zaugg-Diaconescu vs 10-Delfs-Christie
+  150          3.00   2.00 6-Christensen-Wright vs 13-Hendrickson-Miller
+  140          1.00   4.00 8-Tipton-Conner vs 9-Sivapragasam-Morris-Lent
+  110          0.00   5.00 14-Schwaighart-Rind vs 12-Grill-Lakshmanan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   3.00 2-Ring-Abernethy vs 12-Grill-Lakshmanan
+  110          2.00   3.00 3-Eng-Ford vs 5-Zaugg-Diaconescu
+  600          5.00   0.00 4-Galer-Anderson vs 8-Tipton-Conner
+  150          4.00   1.00 6-Christensen-Wright vs 11-Kasperkiewicz-Gulley
+  110          2.00   3.00 9-Sivapragasam-Morris-Lent vs 10-Delfs-Christie
+        110    0.00   5.00 14-Schwaighart-Rind vs 13-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 2-Ring-Abernethy vs 12-Grill-Lakshmanan
+        660    2.00   3.00 3-Eng-Ford vs 5-Zaugg-Diaconescu
+        660    2.00   3.00 4-Galer-Anderson vs 8-Tipton-Conner
+        660    2.00   3.00 6-Christensen-Wright vs 11-Kasperkiewicz-Gulley
+        660    2.00   3.00 9-Sivapragasam-Morris-Lent vs 10-Delfs-Christie
+        660    2.00   3.00 14-Schwaighart-Rind vs 13-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          5.00   0.00 3-Eng-Ford vs 13-Hendrickson-Miller
+        200    1.50   3.50 4-Galer-Anderson vs 6-Christensen-Wright
+        200    1.50   3.50 5-Zaugg-Diaconescu vs 9-Sivapragasam-Morris-Lent
+        650    0.00   5.00 7-Ruprecht-Jarvis vs 12-Grill-Lakshmanan
+  100          3.50   1.50 8-Tipton-Conner vs 2-Ring-Abernethy
+  100          3.50   1.50 10-Delfs-Christie vs 11-Kasperkiewicz-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   1.00 3-Eng-Ford vs 13-Hendrickson-Miller
+         50    0.00   5.00 4-Galer-Anderson vs 6-Christensen-Wright
+  420          5.00   0.00 5-Zaugg-Diaconescu vs 9-Sivapragasam-Morris-Lent
+  100          1.00   4.00 7-Ruprecht-Jarvis vs 12-Grill-Lakshmanan
+  140          2.50   2.50 8-Tipton-Conner vs 2-Ring-Abernethy
+  140          2.50   2.50 10-Delfs-Christie vs 11-Kasperkiewicz-Gulley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          2.00   3.00 5-Zaugg-Diaconescu vs 7-Ruprecht-Jarvis
+  140          3.50   1.50 6-Christensen-Wright vs 10-Delfs-Christie
+         50    0.00   5.00 8-Tipton-Conner vs 13-Hendrickson-Miller
+  140          3.50   1.50 9-Sivapragasam-Morris-Lent vs 3-Eng-Ford
+  170          5.00   0.00 11-Kasperkiewicz-Gulley vs 12-Grill-Lakshmanan
+  110          1.00   4.00 14-Schwaighart-Rind vs 2-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.00   3.00 5-Zaugg-Diaconescu vs 7-Ruprecht-Jarvis
+   90          2.00   3.00 6-Christensen-Wright vs 10-Delfs-Christie
+        110    0.00   5.00 8-Tipton-Conner vs 13-Hendrickson-Miller
+   90          2.00   3.00 9-Sivapragasam-Morris-Lent vs 3-Eng-Ford
+  100          4.00   1.00 11-Kasperkiewicz-Gulley vs 12-Grill-Lakshmanan
+  110          5.00   0.00 14-Schwaighart-Rind vs 2-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   3.00 5-Zaugg-Diaconescu vs 2-Ring-Abernethy
+  130          3.50   1.50 6-Christensen-Wright vs 8-Tipton-Conner
+        150    0.50   4.50 7-Ruprecht-Jarvis vs 11-Kasperkiewicz-Gulley
+  130          3.50   1.50 10-Delfs-Christie vs 4-Galer-Anderson
+  400          5.00   0.00 12-Grill-Lakshmanan vs 13-Hendrickson-Miller
+        150    0.50   4.50 14-Schwaighart-Rind vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          0.00   5.00 5-Zaugg-Diaconescu vs 2-Ring-Abernethy
+  680          2.50   2.50 6-Christensen-Wright vs 8-Tipton-Conner
+  680          2.50   2.50 7-Ruprecht-Jarvis vs 11-Kasperkiewicz-Gulley
+  680          2.50   2.50 10-Delfs-Christie vs 4-Galer-Anderson
+  710          5.00   0.00 12-Grill-Lakshmanan vs 13-Hendrickson-Miller
+  680          2.50   2.50 14-Schwaighart-Rind vs 3-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          4.00   1.00 6-Christensen-Wright vs 3-Eng-Ford
+  690          5.00   0.00 7-Ruprecht-Jarvis vs 9-Sivapragasam-Morris-Lent
+  600          2.00   3.00 8-Tipton-Conner vs 12-Grill-Lakshmanan
+  600          2.00   3.00 10-Delfs-Christie vs 2-Ring-Abernethy
+  600          2.00   3.00 11-Kasperkiewicz-Gulley vs 5-Zaugg-Diaconescu
+        200    0.00   5.00 14-Schwaighart-Rind vs 4-Galer-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    2.50   2.50 6-Christensen-Wright vs 3-Eng-Ford
+        460    2.50   2.50 7-Ruprecht-Jarvis vs 9-Sivapragasam-Morris-Lent
+        460    2.50   2.50 8-Tipton-Conner vs 12-Grill-Lakshmanan
+        460    2.50   2.50 10-Delfs-Christie vs 2-Ring-Abernethy
+        460    2.50   2.50 11-Kasperkiewicz-Gulley vs 5-Zaugg-Diaconescu
+        460    2.50   2.50 14-Schwaighart-Rind vs 4-Galer-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.50   2.50 7-Ruprecht-Jarvis vs 4-Galer-Anderson
+  110          2.50   2.50 8-Tipton-Conner vs 10-Delfs-Christie
+  130          5.00   0.00 9-Sivapragasam-Morris-Lent vs 13-Hendrickson-Miller
+  110          2.50   2.50 11-Kasperkiewicz-Gulley vs 3-Eng-Ford
+   90          0.00   5.00 12-Grill-Lakshmanan vs 6-Christensen-Wright
+  110          2.50   2.50 14-Schwaighart-Rind vs 5-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    1.00   4.00 7-Ruprecht-Jarvis vs 4-Galer-Anderson
+        300    1.00   4.00 8-Tipton-Conner vs 10-Delfs-Christie
+  100          5.00   0.00 9-Sivapragasam-Morris-Lent vs 13-Hendrickson-Miller
+         50    4.00   1.00 11-Kasperkiewicz-Gulley vs 3-Eng-Ford
+        180    3.00   2.00 12-Grill-Lakshmanan vs 6-Christensen-Wright
+        300    1.00   4.00 14-Schwaighart-Rind vs 5-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    0.00   5.00 2-Ring-Abernethy vs 3-Eng-Ford
+         50    4.00   1.00 8-Tipton-Conner vs 5-Zaugg-Diaconescu
+        100    2.00   3.00 9-Sivapragasam-Morris-Lent vs 11-Kasperkiewicz-Gulley
+         50    4.00   1.00 12-Grill-Lakshmanan vs 4-Galer-Anderson
+         50    4.00   1.00 13-Hendrickson-Miller vs 7-Ruprecht-Jarvis
+        140    1.00   4.00 14-Schwaighart-Rind vs 6-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    2.50   2.50 2-Ring-Abernethy vs 3-Eng-Ford
+        170    4.00   1.00 8-Tipton-Conner vs 5-Zaugg-Diaconescu
+        420    2.50   2.50 9-Sivapragasam-Morris-Lent vs 11-Kasperkiewicz-Gulley
+        450    1.00   4.00 12-Grill-Lakshmanan vs 4-Galer-Anderson
+   50          5.00   0.00 13-Hendrickson-Miller vs 7-Ruprecht-Jarvis
+        800    0.00   5.00 14-Schwaighart-Rind vs 6-Christensen-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.50   3.50 3-Eng-Ford vs 4-Galer-Anderson
+  100          4.50   0.50 9-Sivapragasam-Morris-Lent vs 6-Christensen-Wright
+        650    1.50   3.50 10-Delfs-Christie vs 12-Grill-Lakshmanan
+        650    1.50   3.50 11-Kasperkiewicz-Gulley vs 2-Ring-Abernethy
+        650    1.50   3.50 13-Hendrickson-Miller vs 5-Zaugg-Diaconescu
+  100          4.50   0.50 14-Schwaighart-Rind vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.50   0.50 3-Eng-Ford vs 4-Galer-Anderson
+  100          2.50   2.50 9-Sivapragasam-Morris-Lent vs 6-Christensen-Wright
+  100          2.50   2.50 10-Delfs-Christie vs 12-Grill-Lakshmanan
+         80    1.00   4.00 11-Kasperkiewicz-Gulley vs 2-Ring-Abernethy
+        110    0.00   5.00 13-Hendrickson-Miller vs 5-Zaugg-Diaconescu
+  200          4.50   0.50 14-Schwaighart-Rind vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    3.50   1.50 2-Ring-Abernethy vs 9-Sivapragasam-Morris-Lent
+        430    2.00   3.00 4-Galer-Anderson vs 5-Zaugg-Diaconescu
+        420    3.50   1.50 10-Delfs-Christie vs 7-Ruprecht-Jarvis
+        450    0.50   4.50 11-Kasperkiewicz-Gulley vs 13-Hendrickson-Miller
+        200    5.00   0.00 12-Grill-Lakshmanan vs 3-Eng-Ford
+        450    0.50   4.50 14-Schwaighart-Rind vs 8-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    5.00   0.00 2-Ring-Abernethy vs 9-Sivapragasam-Morris-Lent
+        170    3.00   2.00 4-Galer-Anderson vs 5-Zaugg-Diaconescu
+        620    0.00   5.00 10-Delfs-Christie vs 7-Ruprecht-Jarvis
+        200    1.00   4.00 11-Kasperkiewicz-Gulley vs 13-Hendrickson-Miller
+        170    3.00   2.00 12-Grill-Lakshmanan vs 3-Eng-Ford
+        170    3.00   2.00 14-Schwaighart-Rind vs 8-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    2.50   2.50 2-Ring-Abernethy vs 7-Ruprecht-Jarvis
+        630    0.00   5.00 3-Eng-Ford vs 10-Delfs-Christie
+        600    2.50   2.50 5-Zaugg-Diaconescu vs 6-Christensen-Wright
+        600    2.50   2.50 11-Kasperkiewicz-Gulley vs 8-Tipton-Conner
+        600    2.50   2.50 13-Hendrickson-Miller vs 4-Galer-Anderson
+  100          5.00   0.00 14-Schwaighart-Rind vs 9-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          3.50   1.50 2-Ring-Abernethy vs 7-Ruprecht-Jarvis
+  120          0.50   4.50 3-Eng-Ford vs 10-Delfs-Christie
+  140          3.50   1.50 5-Zaugg-Diaconescu vs 6-Christensen-Wright
+  120          0.50   4.50 11-Kasperkiewicz-Gulley vs 8-Tipton-Conner
+  140          3.50   1.50 13-Hendrickson-Miller vs 4-Galer-Anderson
+  140          3.50   1.50 14-Schwaighart-Rind vs 9-Sivapragasam-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   2.00 3-Eng-Ford vs 8-Tipton-Conner
+        100    1.50   3.50 4-Galer-Anderson vs 11-Kasperkiewicz-Gulley
+        100    1.50   3.50 6-Christensen-Wright vs 7-Ruprecht-Jarvis
+  200          5.00   0.00 12-Grill-Lakshmanan vs 9-Sivapragasam-Morris-Lent
+        300    0.00   5.00 13-Hendrickson-Miller vs 2-Ring-Abernethy
+  170          4.00   1.00 14-Schwaighart-Rind vs 10-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.00   3.00 3-Eng-Ford vs 8-Tipton-Conner
+        300    1.00   4.00 4-Galer-Anderson vs 11-Kasperkiewicz-Gulley
+  100          4.50   0.50 6-Christensen-Wright vs 7-Ruprecht-Jarvis
+        100    3.00   2.00 12-Grill-Lakshmanan vs 9-Sivapragasam-Morris-Lent
+  100          4.50   0.50 13-Hendrickson-Miller vs 2-Ring-Abernethy
+        630    0.00   5.00 14-Schwaighart-Rind vs 10-Delfs-Christie
+----------------------------------------------------------------------
