@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>June 30, 2026      |CLUB NO.>158048    | 06/30/2026 21:42
+DATE>June 30, 2026      |CLUB NO.>158048    | 06/30/2026 21:48
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -13,7 +13,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 ------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
  1 Mike Ring              Brian Zaugg              A    3     .     .     92.50  55.06  0.40(A) 
 
- 2 William Campbell                                B    .     .     .     64.00  38.10          
+ 2 William Campbell       Patty Adamle             B    .     .     .     64.00  38.10          
 
  3 Shawn Abernethy        John Aslin               B    .     2     .     74.50  44.35  0.22(B) 
 
@@ -31,7 +31,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
                                           Totals                         672.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>June 30, 2026      |CLUB NO.>158048    | 06/30/2026 21:42
+DATE>June 30, 2026      |CLUB NO.>158048    | 06/30/2026 21:48
 ---------------------,-- ------------------- -------------,---------------------
 DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -65,7 +65,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   100          2.50   4.50 1-Ring-Zaugg vs 1-Christensen-Stevens
-   50          1.00   6.00 2-Campbell- vs 3-Delfs-Christie
+   50          1.00   6.00 2-Campbell-Adamle vs 3-Delfs-Christie
   100          2.50   4.50 3-Abernethy-Aslin vs 5-Mohrman-Hall
   140          5.00   2.00 4-Vulcan-Wright vs 7-Ford-Taylor
   140          5.00   2.00 5-Vona-Hamilton vs 2-Pesce-Jarvis
@@ -79,7 +79,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         100    1.00   6.00 1-Ring-Zaugg vs 1-Christensen-Stevens
-   50          3.00   4.00 2-Campbell- vs 3-Delfs-Christie
+   50          3.00   4.00 2-Campbell-Adamle vs 3-Delfs-Christie
   150          5.00   2.00 3-Abernethy-Aslin vs 5-Mohrman-Hall
    50          3.00   4.00 4-Vulcan-Wright vs 7-Ford-Taylor
         140    0.00   7.00 5-Vona-Hamilton vs 2-Pesce-Jarvis
@@ -93,7 +93,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
        1430    3.50   3.50 1-Ring-Zaugg vs 1-Christensen-Stevens
-       1460    0.50   6.50 2-Campbell- vs 3-Delfs-Christie
+       1460    0.50   6.50 2-Campbell-Adamle vs 3-Delfs-Christie
        1430    3.50   3.50 3-Abernethy-Aslin vs 5-Mohrman-Hall
        1430    3.50   3.50 4-Vulcan-Wright vs 7-Ford-Taylor
        1460    0.50   6.50 5-Vona-Hamilton vs 2-Pesce-Jarvis
@@ -107,7 +107,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   200          7.00   0.00 1-Ring-Zaugg vs 8-Morris-Lent-Cline
-        710    2.00   5.00 2-Campbell- vs 2-Pesce-Jarvis
+        710    2.00   5.00 2-Campbell-Adamle vs 2-Pesce-Jarvis
         710    2.00   5.00 3-Abernethy-Aslin vs 4-Hendrickson-Miller
         650    5.50   1.50 4-Vulcan-Wright vs 6-Kasperkiewicz-Pauley
         710    2.00   5.00 5-Vona-Hamilton vs 1-Christensen-Stevens
@@ -121,7 +121,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   150          7.00   0.00 1-Ring-Zaugg vs 8-Morris-Lent-Cline
-        140    4.00   3.00 2-Campbell- vs 2-Pesce-Jarvis
+        140    4.00   3.00 2-Campbell-Adamle vs 2-Pesce-Jarvis
        1100    0.00   7.00 3-Abernethy-Aslin vs 4-Hendrickson-Miller
         110    5.00   2.00 4-Vulcan-Wright vs 6-Kasperkiewicz-Pauley
    50          6.00   1.00 5-Vona-Hamilton vs 1-Christensen-Stevens
@@ -135,7 +135,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   100          3.00   4.00 1-Ring-Zaugg vs 8-Morris-Lent-Cline
-        110    1.00   6.00 2-Campbell- vs 2-Pesce-Jarvis
+        110    1.00   6.00 2-Campbell-Adamle vs 2-Pesce-Jarvis
   120          4.00   3.00 3-Abernethy-Aslin vs 4-Hendrickson-Miller
   500          7.00   0.00 4-Vulcan-Wright vs 6-Kasperkiewicz-Pauley
         110    1.00   6.00 5-Vona-Hamilton vs 1-Christensen-Stevens
@@ -149,7 +149,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   620          4.50   2.50 1-Ring-Zaugg vs 7-Ford-Taylor
-  650          6.50   0.50 2-Campbell- vs 1-Christensen-Stevens
+  650          6.50   0.50 2-Campbell-Adamle vs 1-Christensen-Stevens
         200    0.00   7.00 3-Abernethy-Aslin vs 3-Delfs-Christie
   200          2.50   4.50 4-Vulcan-Wright vs 5-Mohrman-Hall
   170          1.00   6.00 5-Vona-Hamilton vs 8-Morris-Lent-Cline
@@ -163,7 +163,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   920          7.00   0.00 1-Ring-Zaugg vs 7-Ford-Taylor
-  400          0.50   6.50 2-Campbell- vs 1-Christensen-Stevens
+  400          0.50   6.50 2-Campbell-Adamle vs 1-Christensen-Stevens
   490          5.50   1.50 3-Abernethy-Aslin vs 3-Delfs-Christie
   490          5.50   1.50 4-Vulcan-Wright vs 5-Mohrman-Hall
   400          0.50   6.50 5-Vona-Hamilton vs 8-Morris-Lent-Cline
@@ -177,7 +177,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         180    0.00   7.00 1-Ring-Zaugg vs 7-Ford-Taylor
-        140    2.50   4.50 2-Campbell- vs 1-Christensen-Stevens
+        140    2.50   4.50 2-Campbell-Adamle vs 1-Christensen-Stevens
          90    6.00   1.00 3-Abernethy-Aslin vs 3-Delfs-Christie
         140    2.50   4.50 4-Vulcan-Wright vs 5-Mohrman-Hall
         140    2.50   4.50 5-Vona-Hamilton vs 8-Morris-Lent-Cline
@@ -191,7 +191,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   180          7.00   0.00 1-Ring-Zaugg vs 6-Kasperkiewicz-Pauley
-        130    3.50   3.50 2-Campbell- vs 8-Morris-Lent-Cline
+        130    3.50   3.50 2-Campbell-Adamle vs 8-Morris-Lent-Cline
         130    3.50   3.50 3-Abernethy-Aslin vs 2-Pesce-Jarvis
         130    3.50   3.50 4-Vulcan-Wright vs 4-Hendrickson-Miller
         130    3.50   3.50 5-Vona-Hamilton vs 7-Ford-Taylor
@@ -205,7 +205,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         210    2.00   5.00 1-Ring-Zaugg vs 6-Kasperkiewicz-Pauley
-        150    5.00   2.00 2-Campbell- vs 8-Morris-Lent-Cline
+        150    5.00   2.00 2-Campbell-Adamle vs 8-Morris-Lent-Cline
         170    3.50   3.50 3-Abernethy-Aslin vs 2-Pesce-Jarvis
         400    0.50   6.50 4-Vulcan-Wright vs 4-Hendrickson-Miller
         170    3.50   3.50 5-Vona-Hamilton vs 7-Ford-Taylor
@@ -219,7 +219,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   680          4.00   3.00 1-Ring-Zaugg vs 6-Kasperkiewicz-Pauley
-  650          1.50   5.50 2-Campbell- vs 8-Morris-Lent-Cline
+  650          1.50   5.50 2-Campbell-Adamle vs 8-Morris-Lent-Cline
   650          1.50   5.50 3-Abernethy-Aslin vs 2-Pesce-Jarvis
   800          5.50   1.50 4-Vulcan-Wright vs 4-Hendrickson-Miller
   650          1.50   5.50 5-Vona-Hamilton vs 7-Ford-Taylor
@@ -233,7 +233,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         500    5.00   2.00 1-Ring-Zaugg vs 5-Mohrman-Hall
-        660    0.50   6.50 2-Campbell- vs 7-Ford-Taylor
+        660    0.50   6.50 2-Campbell-Adamle vs 7-Ford-Taylor
         620    3.00   4.00 3-Abernethy-Aslin vs 1-Christensen-Stevens
         630    2.00   5.00 4-Vulcan-Wright vs 3-Delfs-Christie
         660    0.50   6.50 5-Vona-Hamilton vs 6-Kasperkiewicz-Pauley
@@ -247,7 +247,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         100    1.50   5.50 1-Ring-Zaugg vs 5-Mohrman-Hall
-         50    5.00   2.00 2-Campbell- vs 7-Ford-Taylor
+         50    5.00   2.00 2-Campbell-Adamle vs 7-Ford-Taylor
         100    1.50   5.50 3-Abernethy-Aslin vs 1-Christensen-Stevens
   140          7.00   0.00 4-Vulcan-Wright vs 3-Delfs-Christie
         100    1.50   5.50 5-Vona-Hamilton vs 6-Kasperkiewicz-Pauley
@@ -261,7 +261,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         200    0.00   7.00 1-Ring-Zaugg vs 5-Mohrman-Hall
-  140          5.00   2.00 2-Campbell- vs 7-Ford-Taylor
+  140          5.00   2.00 2-Campbell-Adamle vs 7-Ford-Taylor
         100    1.50   5.50 3-Abernethy-Aslin vs 1-Christensen-Stevens
   140          5.00   2.00 4-Vulcan-Wright vs 3-Delfs-Christie
         100    1.50   5.50 5-Vona-Hamilton vs 6-Kasperkiewicz-Pauley
@@ -275,7 +275,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   400          7.00   0.00 1-Ring-Zaugg vs 4-Hendrickson-Miller
-  300          5.50   1.50 2-Campbell- vs 6-Kasperkiewicz-Pauley
+  300          5.50   1.50 2-Campbell-Adamle vs 6-Kasperkiewicz-Pauley
   200          4.00   3.00 3-Abernethy-Aslin vs 8-Morris-Lent-Cline
         150    3.00   4.00 4-Vulcan-Wright vs 2-Pesce-Jarvis
         200    2.00   5.00 5-Vona-Hamilton vs 5-Mohrman-Hall
@@ -289,7 +289,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         460    1.00   6.00 1-Ring-Zaugg vs 4-Hendrickson-Miller
-        430    4.50   2.50 2-Campbell- vs 6-Kasperkiewicz-Pauley
+        430    4.50   2.50 2-Campbell-Adamle vs 6-Kasperkiewicz-Pauley
         430    4.50   2.50 3-Abernethy-Aslin vs 8-Morris-Lent-Cline
         460    1.00   6.00 4-Vulcan-Wright vs 2-Pesce-Jarvis
         460    1.00   6.00 5-Vona-Hamilton vs 5-Mohrman-Hall
@@ -303,7 +303,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
    50          5.00   2.00 1-Ring-Zaugg vs 4-Hendrickson-Miller
-        140    1.00   6.00 2-Campbell- vs 6-Kasperkiewicz-Pauley
+        140    1.00   6.00 2-Campbell-Adamle vs 6-Kasperkiewicz-Pauley
    50          5.00   2.00 3-Abernethy-Aslin vs 8-Morris-Lent-Cline
         140    1.00   6.00 4-Vulcan-Wright vs 2-Pesce-Jarvis
    50          5.00   2.00 5-Vona-Hamilton vs 5-Mohrman-Hall
@@ -317,7 +317,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   420          3.50   3.50 1-Ring-Zaugg vs 3-Delfs-Christie
-  200          0.00   7.00 2-Campbell- vs 5-Mohrman-Hall
+  200          0.00   7.00 2-Campbell-Adamle vs 5-Mohrman-Hall
   420          3.50   3.50 3-Abernethy-Aslin vs 7-Ford-Taylor
   480          7.00   0.00 4-Vulcan-Wright vs 1-Christensen-Stevens
   420          3.50   3.50 5-Vona-Hamilton vs 4-Hendrickson-Miller
@@ -331,7 +331,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   600          4.00   3.00 1-Ring-Zaugg vs 3-Delfs-Christie
-  600          4.00   3.00 2-Campbell- vs 5-Mohrman-Hall
+  600          4.00   3.00 2-Campbell-Adamle vs 5-Mohrman-Hall
         100    1.00   6.00 3-Abernethy-Aslin vs 7-Ford-Taylor
   600          4.00   3.00 4-Vulcan-Wright vs 1-Christensen-Stevens
   600          4.00   3.00 5-Vona-Hamilton vs 4-Hendrickson-Miller
@@ -345,7 +345,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
   650          6.50   0.50 1-Ring-Zaugg vs 3-Delfs-Christie
-        100    1.00   6.00 2-Campbell- vs 5-Mohrman-Hall
+        100    1.00   6.00 2-Campbell-Adamle vs 5-Mohrman-Hall
         100    1.00   6.00 3-Abernethy-Aslin vs 7-Ford-Taylor
         100    1.00   6.00 4-Vulcan-Wright vs 1-Christensen-Stevens
   620          3.50   3.50 5-Vona-Hamilton vs 4-Hendrickson-Miller
@@ -359,7 +359,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
          50    6.00   1.00 1-Ring-Zaugg vs 2-Pesce-Jarvis
-        150    2.00   5.00 2-Campbell- vs 4-Hendrickson-Miller
+        150    2.00   5.00 2-Campbell-Adamle vs 4-Hendrickson-Miller
         110    5.00   2.00 3-Abernethy-Aslin vs 6-Kasperkiewicz-Pauley
         170    1.00   6.00 4-Vulcan-Wright vs 8-Morris-Lent-Cline
         620    0.00   7.00 5-Vona-Hamilton vs 3-Delfs-Christie
@@ -373,7 +373,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
         620    2.00   5.00 1-Ring-Zaugg vs 2-Pesce-Jarvis
-        620    2.00   5.00 2-Campbell- vs 4-Hendrickson-Miller
+        620    2.00   5.00 2-Campbell-Adamle vs 4-Hendrickson-Miller
         620    2.00   5.00 3-Abernethy-Aslin vs 6-Kasperkiewicz-Pauley
         620    2.00   5.00 4-Vulcan-Wright vs 8-Morris-Lent-Cline
         170    5.50   1.50 5-Vona-Hamilton vs 3-Delfs-Christie
@@ -387,7 +387,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
          50    2.50   4.50 1-Ring-Zaugg vs 2-Pesce-Jarvis
-         50    2.50   4.50 2-Campbell- vs 4-Hendrickson-Miller
+         50    2.50   4.50 2-Campbell-Adamle vs 4-Hendrickson-Miller
    90          5.50   1.50 3-Abernethy-Aslin vs 6-Kasperkiewicz-Pauley
          50    2.50   4.50 4-Vulcan-Wright vs 8-Morris-Lent-Cline
          50    2.50   4.50 5-Vona-Hamilton vs 3-Delfs-Christie
