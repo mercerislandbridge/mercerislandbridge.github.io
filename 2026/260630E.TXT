@@ -1,0 +1,397 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>June 30, 2026      |CLUB NO.>158048    | 06/30/2026 21:42
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=4/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Ring              Brian Zaugg              A    3     .     .     92.50  55.06  0.40(A) 
+
+ 2 William Campbell                                B    .     .     .     64.00  38.10          
+
+ 3 Shawn Abernethy        John Aslin               B    .     2     .     74.50  44.35  0.22(B) 
+
+ 4 Bogdan Vulcan          David Wright             A    .     .     .     85.50  50.89          
+
+ 5 Elaine Vona            James Hamilton           C    .     .     .     57.50  34.23          
+
+ 6 Paul Schwaighart       Brad Rind                A    2     .     .     98.50  58.63  0.56(A) 
+
+ 7 Dave Grubbs            Corneliu Galer           A    1     .     .    108.00  64.29  0.80(A) 
+
+ 8 Joseph Grill           John Krah                C    .     1     .     91.50  54.46  0.32(B) 
+
+
+                                          Totals                         672.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>June 30, 2026      |CLUB NO.>158048    | 06/30/2026 21:42
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=5/C=2                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Christensen       Becky Stevens            A    .     .     .     85.50  50.89          
+
+ 2 Chris Pesce            Christopher Jarvis       B    1     1     .     94.00  55.95  0.80(A) 
+
+ 3 Bryan Delfs            Stanford Christie        A   2/3    .     .     89.00  52.98  0.48(A) 
+
+ 4 Hugh Hendrickson       Laura Miller             B    .     .     .     81.50  48.51          
+
+ 5 Aaron Mohrman          Cassandra Hall           C   2/3    2     .     89.00  52.98  0.48(A) 
+
+ 6 Shannon Kasperkiewicz  Cindy Pauley             C    .     .     .     58.00  34.52          
+
+ 7 Jeffrey Ford           David Taylor             A    .     .     .     88.00  52.38          
+
+ 8 Chris Morris-Lent      Kevin Cline              B    .     .     .     87.00  51.79          
+
+
+                                          Totals                         672.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   4.50 1-Ring-Zaugg vs 1-Christensen-Stevens
+   50          1.00   6.00 2-Campbell- vs 3-Delfs-Christie
+  100          2.50   4.50 3-Abernethy-Aslin vs 5-Mohrman-Hall
+  140          5.00   2.00 4-Vulcan-Wright vs 7-Ford-Taylor
+  140          5.00   2.00 5-Vona-Hamilton vs 2-Pesce-Jarvis
+  170          7.00   0.00 6-Schwaighart-Rind vs 4-Hendrickson-Miller
+  140          5.00   2.00 7-Grubbs-Galer vs 6-Kasperkiewicz-Pauley
+        170    0.00   7.00 8-Grill-Krah vs 8-Morris-Lent-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   6.00 1-Ring-Zaugg vs 1-Christensen-Stevens
+   50          3.00   4.00 2-Campbell- vs 3-Delfs-Christie
+  150          5.00   2.00 3-Abernethy-Aslin vs 5-Mohrman-Hall
+   50          3.00   4.00 4-Vulcan-Wright vs 7-Ford-Taylor
+        140    0.00   7.00 5-Vona-Hamilton vs 2-Pesce-Jarvis
+  500          6.00   1.00 6-Schwaighart-Rind vs 4-Hendrickson-Miller
+  620          7.00   0.00 7-Grubbs-Galer vs 6-Kasperkiewicz-Pauley
+   50          3.00   4.00 8-Grill-Krah vs 8-Morris-Lent-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1430    3.50   3.50 1-Ring-Zaugg vs 1-Christensen-Stevens
+       1460    0.50   6.50 2-Campbell- vs 3-Delfs-Christie
+       1430    3.50   3.50 3-Abernethy-Aslin vs 5-Mohrman-Hall
+       1430    3.50   3.50 4-Vulcan-Wright vs 7-Ford-Taylor
+       1460    0.50   6.50 5-Vona-Hamilton vs 2-Pesce-Jarvis
+       1430    3.50   3.50 6-Schwaighart-Rind vs 4-Hendrickson-Miller
+        680    7.00   0.00 7-Grubbs-Galer vs 6-Kasperkiewicz-Pauley
+        710    6.00   1.00 8-Grill-Krah vs 8-Morris-Lent-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.00   0.00 1-Ring-Zaugg vs 8-Morris-Lent-Cline
+        710    2.00   5.00 2-Campbell- vs 2-Pesce-Jarvis
+        710    2.00   5.00 3-Abernethy-Aslin vs 4-Hendrickson-Miller
+        650    5.50   1.50 4-Vulcan-Wright vs 6-Kasperkiewicz-Pauley
+        710    2.00   5.00 5-Vona-Hamilton vs 1-Christensen-Stevens
+        710    2.00   5.00 6-Schwaighart-Rind vs 3-Delfs-Christie
+        650    5.50   1.50 7-Grubbs-Galer vs 5-Mohrman-Hall
+        710    2.00   5.00 8-Grill-Krah vs 7-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          7.00   0.00 1-Ring-Zaugg vs 8-Morris-Lent-Cline
+        140    4.00   3.00 2-Campbell- vs 2-Pesce-Jarvis
+       1100    0.00   7.00 3-Abernethy-Aslin vs 4-Hendrickson-Miller
+        110    5.00   2.00 4-Vulcan-Wright vs 6-Kasperkiewicz-Pauley
+   50          6.00   1.00 5-Vona-Hamilton vs 1-Christensen-Stevens
+        570    1.50   5.50 6-Schwaighart-Rind vs 3-Delfs-Christie
+        570    1.50   5.50 7-Grubbs-Galer vs 5-Mohrman-Hall
+        500    3.00   4.00 8-Grill-Krah vs 7-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   4.00 1-Ring-Zaugg vs 8-Morris-Lent-Cline
+        110    1.00   6.00 2-Campbell- vs 2-Pesce-Jarvis
+  120          4.00   3.00 3-Abernethy-Aslin vs 4-Hendrickson-Miller
+  500          7.00   0.00 4-Vulcan-Wright vs 6-Kasperkiewicz-Pauley
+        110    1.00   6.00 5-Vona-Hamilton vs 1-Christensen-Stevens
+  180          6.00   1.00 6-Schwaighart-Rind vs 3-Delfs-Christie
+  150          5.00   2.00 7-Grubbs-Galer vs 5-Mohrman-Hall
+        110    1.00   6.00 8-Grill-Krah vs 7-Ford-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.50   2.50 1-Ring-Zaugg vs 7-Ford-Taylor
+  650          6.50   0.50 2-Campbell- vs 1-Christensen-Stevens
+        200    0.00   7.00 3-Abernethy-Aslin vs 3-Delfs-Christie
+  200          2.50   4.50 4-Vulcan-Wright vs 5-Mohrman-Hall
+  170          1.00   6.00 5-Vona-Hamilton vs 8-Morris-Lent-Cline
+  200          2.50   4.50 6-Schwaighart-Rind vs 2-Pesce-Jarvis
+  620          4.50   2.50 7-Grubbs-Galer vs 4-Hendrickson-Miller
+  650          6.50   0.50 8-Grill-Krah vs 6-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  920          7.00   0.00 1-Ring-Zaugg vs 7-Ford-Taylor
+  400          0.50   6.50 2-Campbell- vs 1-Christensen-Stevens
+  490          5.50   1.50 3-Abernethy-Aslin vs 3-Delfs-Christie
+  490          5.50   1.50 4-Vulcan-Wright vs 5-Mohrman-Hall
+  400          0.50   6.50 5-Vona-Hamilton vs 8-Morris-Lent-Cline
+  460          3.00   4.00 6-Schwaighart-Rind vs 2-Pesce-Jarvis
+  460          3.00   4.00 7-Grubbs-Galer vs 4-Hendrickson-Miller
+  460          3.00   4.00 8-Grill-Krah vs 6-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    0.00   7.00 1-Ring-Zaugg vs 7-Ford-Taylor
+        140    2.50   4.50 2-Campbell- vs 1-Christensen-Stevens
+         90    6.00   1.00 3-Abernethy-Aslin vs 3-Delfs-Christie
+        140    2.50   4.50 4-Vulcan-Wright vs 5-Mohrman-Hall
+        140    2.50   4.50 5-Vona-Hamilton vs 8-Morris-Lent-Cline
+        100    5.00   2.00 6-Schwaighart-Rind vs 2-Pesce-Jarvis
+        140    2.50   4.50 7-Grubbs-Galer vs 4-Hendrickson-Miller
+  200          7.00   0.00 8-Grill-Krah vs 6-Kasperkiewicz-Pauley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          7.00   0.00 1-Ring-Zaugg vs 6-Kasperkiewicz-Pauley
+        130    3.50   3.50 2-Campbell- vs 8-Morris-Lent-Cline
+        130    3.50   3.50 3-Abernethy-Aslin vs 2-Pesce-Jarvis
+        130    3.50   3.50 4-Vulcan-Wright vs 4-Hendrickson-Miller
+        130    3.50   3.50 5-Vona-Hamilton vs 7-Ford-Taylor
+        300    0.00   7.00 6-Schwaighart-Rind vs 1-Christensen-Stevens
+        200    1.00   6.00 7-Grubbs-Galer vs 3-Delfs-Christie
+        100    6.00   1.00 8-Grill-Krah vs 5-Mohrman-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        210    2.00   5.00 1-Ring-Zaugg vs 6-Kasperkiewicz-Pauley
+        150    5.00   2.00 2-Campbell- vs 8-Morris-Lent-Cline
+        170    3.50   3.50 3-Abernethy-Aslin vs 2-Pesce-Jarvis
+        400    0.50   6.50 4-Vulcan-Wright vs 4-Hendrickson-Miller
+        170    3.50   3.50 5-Vona-Hamilton vs 7-Ford-Taylor
+        130    6.00   1.00 6-Schwaighart-Rind vs 1-Christensen-Stevens
+        400    0.50   6.50 7-Grubbs-Galer vs 3-Delfs-Christie
+        100    7.00   0.00 8-Grill-Krah vs 5-Mohrman-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          4.00   3.00 1-Ring-Zaugg vs 6-Kasperkiewicz-Pauley
+  650          1.50   5.50 2-Campbell- vs 8-Morris-Lent-Cline
+  650          1.50   5.50 3-Abernethy-Aslin vs 2-Pesce-Jarvis
+  800          5.50   1.50 4-Vulcan-Wright vs 4-Hendrickson-Miller
+  650          1.50   5.50 5-Vona-Hamilton vs 7-Ford-Taylor
+ 1430          7.00   0.00 6-Schwaighart-Rind vs 1-Christensen-Stevens
+  800          5.50   1.50 7-Grubbs-Galer vs 3-Delfs-Christie
+  650          1.50   5.50 8-Grill-Krah vs 5-Mohrman-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        500    5.00   2.00 1-Ring-Zaugg vs 5-Mohrman-Hall
+        660    0.50   6.50 2-Campbell- vs 7-Ford-Taylor
+        620    3.00   4.00 3-Abernethy-Aslin vs 1-Christensen-Stevens
+        630    2.00   5.00 4-Vulcan-Wright vs 3-Delfs-Christie
+        660    0.50   6.50 5-Vona-Hamilton vs 6-Kasperkiewicz-Pauley
+  100          6.50   0.50 6-Schwaighart-Rind vs 8-Morris-Lent-Cline
+  100          6.50   0.50 7-Grubbs-Galer vs 2-Pesce-Jarvis
+        600    4.00   3.00 8-Grill-Krah vs 4-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   5.50 1-Ring-Zaugg vs 5-Mohrman-Hall
+         50    5.00   2.00 2-Campbell- vs 7-Ford-Taylor
+        100    1.50   5.50 3-Abernethy-Aslin vs 1-Christensen-Stevens
+  140          7.00   0.00 4-Vulcan-Wright vs 3-Delfs-Christie
+        100    1.50   5.50 5-Vona-Hamilton vs 6-Kasperkiewicz-Pauley
+        100    1.50   5.50 6-Schwaighart-Rind vs 8-Morris-Lent-Cline
+         50    5.00   2.00 7-Grubbs-Galer vs 2-Pesce-Jarvis
+         50    5.00   2.00 8-Grill-Krah vs 4-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   7.00 1-Ring-Zaugg vs 5-Mohrman-Hall
+  140          5.00   2.00 2-Campbell- vs 7-Ford-Taylor
+        100    1.50   5.50 3-Abernethy-Aslin vs 1-Christensen-Stevens
+  140          5.00   2.00 4-Vulcan-Wright vs 3-Delfs-Christie
+        100    1.50   5.50 5-Vona-Hamilton vs 6-Kasperkiewicz-Pauley
+  110          3.00   4.00 6-Schwaighart-Rind vs 8-Morris-Lent-Cline
+  620          7.00   0.00 7-Grubbs-Galer vs 2-Pesce-Jarvis
+  140          5.00   2.00 8-Grill-Krah vs 4-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          7.00   0.00 1-Ring-Zaugg vs 4-Hendrickson-Miller
+  300          5.50   1.50 2-Campbell- vs 6-Kasperkiewicz-Pauley
+  200          4.00   3.00 3-Abernethy-Aslin vs 8-Morris-Lent-Cline
+        150    3.00   4.00 4-Vulcan-Wright vs 2-Pesce-Jarvis
+        200    2.00   5.00 5-Vona-Hamilton vs 5-Mohrman-Hall
+        870    0.00   7.00 6-Schwaighart-Rind vs 7-Ford-Taylor
+  300          5.50   1.50 7-Grubbs-Galer vs 1-Christensen-Stevens
+        670    1.00   6.00 8-Grill-Krah vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    1.00   6.00 1-Ring-Zaugg vs 4-Hendrickson-Miller
+        430    4.50   2.50 2-Campbell- vs 6-Kasperkiewicz-Pauley
+        430    4.50   2.50 3-Abernethy-Aslin vs 8-Morris-Lent-Cline
+        460    1.00   6.00 4-Vulcan-Wright vs 2-Pesce-Jarvis
+        460    1.00   6.00 5-Vona-Hamilton vs 5-Mohrman-Hall
+        430    4.50   2.50 6-Schwaighart-Rind vs 7-Ford-Taylor
+        170    7.00   0.00 7-Grubbs-Galer vs 1-Christensen-Stevens
+        430    4.50   2.50 8-Grill-Krah vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   2.00 1-Ring-Zaugg vs 4-Hendrickson-Miller
+        140    1.00   6.00 2-Campbell- vs 6-Kasperkiewicz-Pauley
+   50          5.00   2.00 3-Abernethy-Aslin vs 8-Morris-Lent-Cline
+        140    1.00   6.00 4-Vulcan-Wright vs 2-Pesce-Jarvis
+   50          5.00   2.00 5-Vona-Hamilton vs 5-Mohrman-Hall
+   50          5.00   2.00 6-Schwaighart-Rind vs 7-Ford-Taylor
+        140    1.00   6.00 7-Grubbs-Galer vs 1-Christensen-Stevens
+   50          5.00   2.00 8-Grill-Krah vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.50   3.50 1-Ring-Zaugg vs 3-Delfs-Christie
+  200          0.00   7.00 2-Campbell- vs 5-Mohrman-Hall
+  420          3.50   3.50 3-Abernethy-Aslin vs 7-Ford-Taylor
+  480          7.00   0.00 4-Vulcan-Wright vs 1-Christensen-Stevens
+  420          3.50   3.50 5-Vona-Hamilton vs 4-Hendrickson-Miller
+  420          3.50   3.50 6-Schwaighart-Rind vs 6-Kasperkiewicz-Pauley
+  420          3.50   3.50 7-Grubbs-Galer vs 8-Morris-Lent-Cline
+  420          3.50   3.50 8-Grill-Krah vs 2-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          4.00   3.00 1-Ring-Zaugg vs 3-Delfs-Christie
+  600          4.00   3.00 2-Campbell- vs 5-Mohrman-Hall
+        100    1.00   6.00 3-Abernethy-Aslin vs 7-Ford-Taylor
+  600          4.00   3.00 4-Vulcan-Wright vs 1-Christensen-Stevens
+  600          4.00   3.00 5-Vona-Hamilton vs 4-Hendrickson-Miller
+  630          7.00   0.00 6-Schwaighart-Rind vs 6-Kasperkiewicz-Pauley
+  600          4.00   3.00 7-Grubbs-Galer vs 8-Morris-Lent-Cline
+        200    0.00   7.00 8-Grill-Krah vs 2-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          6.50   0.50 1-Ring-Zaugg vs 3-Delfs-Christie
+        100    1.00   6.00 2-Campbell- vs 5-Mohrman-Hall
+        100    1.00   6.00 3-Abernethy-Aslin vs 7-Ford-Taylor
+        100    1.00   6.00 4-Vulcan-Wright vs 1-Christensen-Stevens
+  620          3.50   3.50 5-Vona-Hamilton vs 4-Hendrickson-Miller
+  650          6.50   0.50 6-Schwaighart-Rind vs 6-Kasperkiewicz-Pauley
+  620          3.50   3.50 7-Grubbs-Galer vs 8-Morris-Lent-Cline
+  630          5.00   2.00 8-Grill-Krah vs 2-Pesce-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    6.00   1.00 1-Ring-Zaugg vs 2-Pesce-Jarvis
+        150    2.00   5.00 2-Campbell- vs 4-Hendrickson-Miller
+        110    5.00   2.00 3-Abernethy-Aslin vs 6-Kasperkiewicz-Pauley
+        170    1.00   6.00 4-Vulcan-Wright vs 8-Morris-Lent-Cline
+        620    0.00   7.00 5-Vona-Hamilton vs 3-Delfs-Christie
+        130    4.00   3.00 6-Schwaighart-Rind vs 5-Mohrman-Hall
+        140    3.00   4.00 7-Grubbs-Galer vs 7-Ford-Taylor
+  100          7.00   0.00 8-Grill-Krah vs 1-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.00   5.00 1-Ring-Zaugg vs 2-Pesce-Jarvis
+        620    2.00   5.00 2-Campbell- vs 4-Hendrickson-Miller
+        620    2.00   5.00 3-Abernethy-Aslin vs 6-Kasperkiewicz-Pauley
+        620    2.00   5.00 4-Vulcan-Wright vs 8-Morris-Lent-Cline
+        170    5.50   1.50 5-Vona-Hamilton vs 3-Delfs-Christie
+        620    2.00   5.00 6-Schwaighart-Rind vs 5-Mohrman-Hall
+        120    7.00   0.00 7-Grubbs-Galer vs 7-Ford-Taylor
+        170    5.50   1.50 8-Grill-Krah vs 1-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    2.50   4.50 1-Ring-Zaugg vs 2-Pesce-Jarvis
+         50    2.50   4.50 2-Campbell- vs 4-Hendrickson-Miller
+   90          5.50   1.50 3-Abernethy-Aslin vs 6-Kasperkiewicz-Pauley
+         50    2.50   4.50 4-Vulcan-Wright vs 8-Morris-Lent-Cline
+         50    2.50   4.50 5-Vona-Hamilton vs 3-Delfs-Christie
+   90          5.50   1.50 6-Schwaighart-Rind vs 5-Mohrman-Hall
+  120          7.00   0.00 7-Grubbs-Galer vs 7-Ford-Taylor
+        100    0.00   7.00 8-Grill-Krah vs 1-Christensen-Stevens
+----------------------------------------------------------------------
