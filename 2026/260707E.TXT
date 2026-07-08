@@ -1,0 +1,283 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 7, 2026       |CLUB NO.>158048    | 07/07/2026 21:59
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Kim        |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   24.0 |TOP>   2 |MP LIMITS>None/2500/500  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=7/B=2/C=0                       ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Eric Sieg                A   Q            1     .     .   |   1     .     .     28.50  59.38  1.32Red 
+                                                                                                                        1.31Blk 
+ 2 Douglas Kuschner       Josh Kuschner            A                .     .     .   |   .     .     .     21.00  43.75          
+
+ 3 David Binney           Muhunthan Sivapragasam   A                .     .     .   |   .     .     .     22.00  45.83          
+
+ 4 Joe Notarangelo        Steve Kasner             B   Q   Q       3/4    .     .   |  3/4    .     .     23.50  48.96  0.65Red 
+                                                                                                                        0.65Blk 
+
+
+ 6 Corneliu Galer         Sue Anderson             A   Q            2     .     .   |   2     .     .     26.50  55.21  0.99Red 
+                                                                                                                        0.98Blk 
+ 7 Adam Ruprecht          Christopher Jarvis       B   Q   Q       3/4    .     .   |  3/4    .     .     23.50  48.96  0.65Red 
+                                                                                                                        0.65Blk 
+ 8 Shawn Abernethy        Jeffrey Ford             A                .     .     .   |   .     .     .     23.00  47.92          
+
+
+                                          Totals                                                         168.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   0.00 2-Kuschner-Kuschner vs 4-Notarangelo-Kasner
+  120          0.50   1.50 3-Binney-Sivapragasam vs 7-Ruprecht-Jarvis
+  120          0.50   1.50 8-Abernethy-Ford vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.00   0.00 2-Kuschner-Kuschner vs 4-Notarangelo-Kasner
+        200    0.00   2.00 3-Binney-Sivapragasam vs 7-Ruprecht-Jarvis
+  110          1.00   1.00 8-Abernethy-Ford vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   1.00 2-Kuschner-Kuschner vs 4-Notarangelo-Kasner
+  300          2.00   0.00 3-Binney-Sivapragasam vs 7-Ruprecht-Jarvis
+  100          0.00   2.00 8-Abernethy-Ford vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          2.00   0.00 2-Kuschner-Kuschner vs 4-Notarangelo-Kasner
+  680          1.00   1.00 3-Binney-Sivapragasam vs 7-Ruprecht-Jarvis
+  650          0.00   2.00 8-Abernethy-Ford vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          1.50   0.50 4-Notarangelo-Kasner vs 1-Eng-Sieg
+  170          0.00   2.00 6-Galer-Anderson vs 7-Ruprecht-Jarvis
+  620          1.50   0.50 8-Abernethy-Ford vs 2-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          1.50   0.50 4-Notarangelo-Kasner vs 1-Eng-Sieg
+  450          1.50   0.50 6-Galer-Anderson vs 7-Ruprecht-Jarvis
+  200          0.00   2.00 8-Abernethy-Ford vs 2-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   0.50 4-Notarangelo-Kasner vs 1-Eng-Sieg
+        100    0.00   2.00 6-Galer-Anderson vs 7-Ruprecht-Jarvis
+  100          1.50   0.50 8-Abernethy-Ford vs 2-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   2.00 4-Notarangelo-Kasner vs 1-Eng-Sieg
+        100    1.50   0.50 6-Galer-Anderson vs 7-Ruprecht-Jarvis
+        100    1.50   0.50 8-Abernethy-Ford vs 2-Kuschner-Kuschner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.50   0.50 4-Notarangelo-Kasner vs 6-Galer-Anderson
+        170    0.00   2.00 7-Ruprecht-Jarvis vs 1-Eng-Sieg
+  110          1.50   0.50 8-Abernethy-Ford vs 3-Binney-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          1.00   1.00 4-Notarangelo-Kasner vs 6-Galer-Anderson
+  650          1.00   1.00 7-Ruprecht-Jarvis vs 1-Eng-Sieg
+  650          1.00   1.00 8-Abernethy-Ford vs 3-Binney-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          2.00   0.00 4-Notarangelo-Kasner vs 6-Galer-Anderson
+  200          0.50   1.50 7-Ruprecht-Jarvis vs 1-Eng-Sieg
+  200          0.50   1.50 8-Abernethy-Ford vs 3-Binney-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          1.00   1.00 4-Notarangelo-Kasner vs 6-Galer-Anderson
+  200          0.00   2.00 7-Ruprecht-Jarvis vs 1-Eng-Sieg
+  630          2.00   0.00 8-Abernethy-Ford vs 3-Binney-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        600    0.00   2.00 1-Eng-Sieg vs 2-Kuschner-Kuschner
+        110    1.00   1.00 6-Galer-Anderson vs 3-Binney-Sivapragasam
+  100          2.00   0.00 8-Abernethy-Ford vs 4-Notarangelo-Kasner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   2.00 1-Eng-Sieg vs 2-Kuschner-Kuschner
+  400          1.00   1.00 6-Galer-Anderson vs 3-Binney-Sivapragasam
+  460          2.00   0.00 8-Abernethy-Ford vs 4-Notarangelo-Kasner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   0.00 1-Eng-Sieg vs 2-Kuschner-Kuschner
+        200    0.00   2.00 6-Galer-Anderson vs 3-Binney-Sivapragasam
+   50          1.00   1.00 8-Abernethy-Ford vs 4-Notarangelo-Kasner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          2.00   0.00 1-Eng-Sieg vs 2-Kuschner-Kuschner
+        150    1.00   1.00 6-Galer-Anderson vs 3-Binney-Sivapragasam
+        180    0.00   2.00 8-Abernethy-Ford vs 4-Notarangelo-Kasner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   1.00 2-Kuschner-Kuschner vs 3-Binney-Sivapragasam
+  100          2.00   0.00 6-Galer-Anderson vs 1-Eng-Sieg
+        170    0.00   2.00 7-Ruprecht-Jarvis vs 4-Notarangelo-Kasner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          2.00   0.00 2-Kuschner-Kuschner vs 3-Binney-Sivapragasam
+  170          0.50   1.50 6-Galer-Anderson vs 1-Eng-Sieg
+  170          0.50   1.50 7-Ruprecht-Jarvis vs 4-Notarangelo-Kasner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   2.00 2-Kuschner-Kuschner vs 3-Binney-Sivapragasam
+  200          1.50   0.50 6-Galer-Anderson vs 1-Eng-Sieg
+  200          1.50   0.50 7-Ruprecht-Jarvis vs 4-Notarangelo-Kasner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   2.00 2-Kuschner-Kuschner vs 3-Binney-Sivapragasam
+  620          2.00   0.00 6-Galer-Anderson vs 1-Eng-Sieg
+        200    1.00   1.00 7-Ruprecht-Jarvis vs 4-Notarangelo-Kasner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.00   1.00 3-Binney-Sivapragasam vs 4-Notarangelo-Kasner
+        150    2.00   0.00 7-Ruprecht-Jarvis vs 2-Kuschner-Kuschner
+        200    0.00   2.00 8-Abernethy-Ford vs 6-Galer-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.50   1.50 3-Binney-Sivapragasam vs 4-Notarangelo-Kasner
+  430          2.00   0.00 7-Ruprecht-Jarvis vs 2-Kuschner-Kuschner
+         50    0.50   1.50 8-Abernethy-Ford vs 6-Galer-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    1.50   0.50 3-Binney-Sivapragasam vs 4-Notarangelo-Kasner
+        650    0.00   2.00 7-Ruprecht-Jarvis vs 2-Kuschner-Kuschner
+        620    1.50   0.50 8-Abernethy-Ford vs 6-Galer-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          0.50   1.50 3-Binney-Sivapragasam vs 4-Notarangelo-Kasner
+  430          2.00   0.00 7-Ruprecht-Jarvis vs 2-Kuschner-Kuschner
+  400          0.50   1.50 8-Abernethy-Ford vs 6-Galer-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   1.00 1-Eng-Sieg vs 3-Binney-Sivapragasam
+  100          1.00   1.00 2-Kuschner-Kuschner vs 6-Galer-Anderson
+  100          1.00   1.00 8-Abernethy-Ford vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          1.00   1.00 1-Eng-Sieg vs 3-Binney-Sivapragasam
+  110          0.00   2.00 2-Kuschner-Kuschner vs 6-Galer-Anderson
+  600          2.00   0.00 8-Abernethy-Ford vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   0.00 1-Eng-Sieg vs 3-Binney-Sivapragasam
+        140    0.50   1.50 2-Kuschner-Kuschner vs 6-Galer-Anderson
+        140    0.50   1.50 8-Abernethy-Ford vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 28
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          2.00   0.00 1-Eng-Sieg vs 3-Binney-Sivapragasam
+  100          0.00   2.00 2-Kuschner-Kuschner vs 6-Galer-Anderson
+  110          1.00   1.00 8-Abernethy-Ford vs 7-Ruprecht-Jarvis
+----------------------------------------------------------------------
