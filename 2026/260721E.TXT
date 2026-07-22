@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>July 21, 2026      |CLUB NO.>158048    | 07/21/2026 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3750/1750 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=10/C=4                     ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Nick Tipton            Craig Conner             B   .     .     .   |   .     .     .     75.50  48.40          
+
+ 2 Brian Zaugg            Liliana Diaconescu       B   .     .     .   |   .     .     .     71.00  45.51          
+
+ 3 Eric Sieg              Muhunthan Sivapragasam   B   .     .     .   |   .     .     .     67.00  42.95          
+
+ 4 Mike Ring              Shawn Abernethy          B   .     .     .   |   .     .     .     71.50  45.83          
+
+ 5 Mike Christensen       Becky Stevens            A   .     .     .   |  6/7    .     .     77.00  49.36  0.22(SA)
+
+ 6 Leyi Chen              Jessica Yao              C   3     2     .   |   3     2     1     81.00  51.92  1.40(OA)
+
+ 7 Kim Eng                Jeffrey Ford             A   2     .     .   |   2     .     .     97.50  62.50  1.86(OA)
+
+ 8 Dave Grubbs            Corneliu Galer           A   4     .     .   |   4     .     .     80.00  51.28  1.05(OA)
+
+ 9 Aaron Mohrman          Liz Heron                C   .     .     .   |   .     .     .     74.50  47.76          
+
+10 Bryant Carlson         Andrew Rigazio           C   .     4     .   |  6/7    4     2     77.00  49.36  0.73(OB)
+
+11 John Krah              Nathan Kasperkiewicz     C   .     .     .   |   .     .     .     61.50  39.42          
+
+12 Christopher Jarvis     Adam Ruprecht            B   1     1     .   |   1     1     .    104.50  66.99  2.48(OA)
+
+13 Paul Schwaighart       Brad Rind                A   .     .     .   |   .     .     .     74.50  47.76          
+
+14 Hugh Hendrickson       Laura Miller             B   5     3     .   |   5     3     .     79.50  50.96  0.97(OB)
+
+
+                                          Totals                                           1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          0.00   6.00 1-Tipton-Conner vs 3-Sieg-Sivapragasam
+  480          2.50   3.50 2-Zaugg-Diaconescu vs 6-Chen-Yao
+  480          2.50   3.50 4-Ring-Abernethy vs 9-Mohrman-Heron
+  480          2.50   3.50 5-Christensen-Stevens vs 12-Jarvis-Ruprecht
+  490          5.50   0.50 7-Eng-Ford vs 8-Grubbs-Galer
+  480          2.50   3.50 13-Schwaighart-Rind vs 10-Carlson-Rigazio
+  490          5.50   0.50 14-Hendrickson-Miller vs 11-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   1.50 1-Tipton-Conner vs 3-Sieg-Sivapragasam
+        420    0.00   6.00 2-Zaugg-Diaconescu vs 6-Chen-Yao
+   50          4.50   1.50 4-Ring-Abernethy vs 9-Mohrman-Heron
+        170    1.00   5.00 5-Christensen-Stevens vs 12-Jarvis-Ruprecht
+   50          4.50   1.50 7-Eng-Ford vs 8-Grubbs-Galer
+        140    2.00   4.00 13-Schwaighart-Rind vs 10-Carlson-Rigazio
+   50          4.50   1.50 14-Hendrickson-Miller vs 11-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          6.00   0.00 1-Tipton-Conner vs 11-Krah-Kasperkiewicz
+  420          4.50   1.50 2-Zaugg-Diaconescu vs 4-Ring-Abernethy
+         50    2.50   3.50 3-Sieg-Sivapragasam vs 7-Eng-Ford
+        100    1.00   5.00 5-Christensen-Stevens vs 10-Carlson-Rigazio
+         50    2.50   3.50 6-Chen-Yao vs 13-Schwaighart-Rind
+  420          4.50   1.50 8-Grubbs-Galer vs 9-Mohrman-Heron
+       1700    0.00   6.00 14-Hendrickson-Miller vs 12-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    4.50   1.50 1-Tipton-Conner vs 11-Krah-Kasperkiewicz
+        130    2.50   3.50 2-Zaugg-Diaconescu vs 4-Ring-Abernethy
+        130    2.50   3.50 3-Sieg-Sivapragasam vs 7-Eng-Ford
+        600    0.50   5.50 5-Christensen-Stevens vs 10-Carlson-Rigazio
+        120    4.50   1.50 6-Chen-Yao vs 13-Schwaighart-Rind
+        110    6.00   0.00 8-Grubbs-Galer vs 9-Mohrman-Heron
+        600    0.50   5.50 14-Hendrickson-Miller vs 12-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   6.00 2-Zaugg-Diaconescu vs 12-Jarvis-Ruprecht
+        150    3.50   2.50 3-Sieg-Sivapragasam vs 5-Christensen-Stevens
+        400    1.00   5.00 4-Ring-Abernethy vs 8-Grubbs-Galer
+        150    3.50   2.50 6-Chen-Yao vs 11-Krah-Kasperkiewicz
+   50          6.00   0.00 7-Eng-Ford vs 1-Tipton-Conner
+        300    2.00   4.00 9-Mohrman-Heron vs 10-Carlson-Rigazio
+        110    5.00   1.00 14-Hendrickson-Miller vs 13-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   1.50 2-Zaugg-Diaconescu vs 12-Jarvis-Ruprecht
+        140    3.00   3.00 3-Sieg-Sivapragasam vs 5-Christensen-Stevens
+        300    1.50   4.50 4-Ring-Abernethy vs 8-Grubbs-Galer
+  300          6.00   0.00 6-Chen-Yao vs 11-Krah-Kasperkiewicz
+        300    1.50   4.50 7-Eng-Ford vs 1-Tipton-Conner
+         50    4.50   1.50 9-Mohrman-Heron vs 10-Carlson-Rigazio
+        620    0.00   6.00 14-Hendrickson-Miller vs 13-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  630          1.00   5.00 3-Sieg-Sivapragasam vs 13-Schwaighart-Rind
+  630          1.00   5.00 4-Ring-Abernethy vs 6-Chen-Yao
+  630          1.00   5.00 5-Christensen-Stevens vs 9-Mohrman-Heron
+  690          6.00   0.00 7-Eng-Ford vs 12-Jarvis-Ruprecht
+  660          4.00   2.00 8-Grubbs-Galer vs 2-Zaugg-Diaconescu
+  660          4.00   2.00 10-Carlson-Rigazio vs 11-Krah-Kasperkiewicz
+  660          4.00   2.00 14-Hendrickson-Miller vs 1-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   4.50 3-Sieg-Sivapragasam vs 13-Schwaighart-Rind
+  100          3.50   2.50 4-Ring-Abernethy vs 6-Chen-Yao
+         50    1.50   4.50 5-Christensen-Stevens vs 9-Mohrman-Heron
+  100          3.50   2.50 7-Eng-Ford vs 12-Jarvis-Ruprecht
+        300    0.00   6.00 8-Grubbs-Galer vs 2-Zaugg-Diaconescu
+  110          5.50   0.50 10-Carlson-Rigazio vs 11-Krah-Kasperkiewicz
+  110          5.50   0.50 14-Hendrickson-Miller vs 1-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   4.50 4-Ring-Abernethy vs 1-Tipton-Conner
+         50    1.50   4.50 5-Christensen-Stevens vs 7-Eng-Ford
+ 1100          6.00   0.00 6-Chen-Yao vs 10-Carlson-Rigazio
+  920          5.00   1.00 8-Grubbs-Galer vs 13-Schwaighart-Rind
+  440          4.00   2.00 9-Mohrman-Heron vs 3-Sieg-Sivapragasam
+        100    0.00   6.00 11-Krah-Kasperkiewicz vs 12-Jarvis-Ruprecht
+  190          3.00   3.00 14-Hendrickson-Miller vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          5.00   1.00 4-Ring-Abernethy vs 1-Tipton-Conner
+  300          6.00   0.00 5-Christensen-Stevens vs 7-Eng-Ford
+        300    1.00   5.00 6-Chen-Yao vs 10-Carlson-Rigazio
+   80          4.00   2.00 8-Grubbs-Galer vs 13-Schwaighart-Rind
+        560    0.00   6.00 9-Mohrman-Heron vs 3-Sieg-Sivapragasam
+        100    2.50   3.50 11-Krah-Kasperkiewicz vs 12-Jarvis-Ruprecht
+        100    2.50   3.50 14-Hendrickson-Miller vs 2-Zaugg-Diaconescu
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    2.50   3.50 5-Christensen-Stevens vs 2-Zaugg-Diaconescu
+        450    2.50   3.50 6-Chen-Yao vs 8-Grubbs-Galer
+        450    2.50   3.50 7-Eng-Ford vs 11-Krah-Kasperkiewicz
+        450    2.50   3.50 9-Mohrman-Heron vs 1-Tipton-Conner
+        450    2.50   3.50 10-Carlson-Rigazio vs 4-Ring-Abernethy
+        450    2.50   3.50 12-Jarvis-Ruprecht vs 13-Schwaighart-Rind
+        420    6.00   0.00 14-Hendrickson-Miller vs 3-Sieg-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    0.50   5.50 5-Christensen-Stevens vs 2-Zaugg-Diaconescu
+  140          5.00   1.00 6-Chen-Yao vs 8-Grubbs-Galer
+  500          6.00   0.00 7-Eng-Ford vs 11-Krah-Kasperkiewicz
+        100    3.00   3.00 9-Mohrman-Heron vs 1-Tipton-Conner
+        180    0.50   5.50 10-Carlson-Rigazio vs 4-Ring-Abernethy
+        100    3.00   3.00 12-Jarvis-Ruprecht vs 13-Schwaighart-Rind
+        100    3.00   3.00 14-Hendrickson-Miller vs 3-Sieg-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   0.00 6-Chen-Yao vs 3-Sieg-Sivapragasam
+        910    0.00   6.00 7-Eng-Ford vs 9-Mohrman-Heron
+        750    1.00   5.00 8-Grubbs-Galer vs 12-Jarvis-Ruprecht
+        150    4.00   2.00 10-Carlson-Rigazio vs 2-Zaugg-Diaconescu
+        300    2.00   4.00 11-Krah-Kasperkiewicz vs 5-Christensen-Stevens
+        100    5.00   1.00 13-Schwaighart-Rind vs 1-Tipton-Conner
+        200    3.00   3.00 14-Hendrickson-Miller vs 4-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          5.50   0.50 6-Chen-Yao vs 3-Sieg-Sivapragasam
+  400          5.50   0.50 7-Eng-Ford vs 9-Mohrman-Heron
+        100    0.00   6.00 8-Grubbs-Galer vs 12-Jarvis-Ruprecht
+  150          2.50   3.50 10-Carlson-Rigazio vs 2-Zaugg-Diaconescu
+  150          2.50   3.50 11-Krah-Kasperkiewicz vs 5-Christensen-Stevens
+  150          2.50   3.50 13-Schwaighart-Rind vs 1-Tipton-Conner
+  150          2.50   3.50 14-Hendrickson-Miller vs 4-Ring-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   2.50 1-Tipton-Conner vs 2-Zaugg-Diaconescu
+  300          6.00   0.00 7-Eng-Ford vs 4-Ring-Abernethy
+        100    3.50   2.50 8-Grubbs-Galer vs 10-Carlson-Rigazio
+        200    1.00   5.00 9-Mohrman-Heron vs 13-Schwaighart-Rind
+        200    1.00   5.00 11-Krah-Kasperkiewicz vs 3-Sieg-Sivapragasam
+  120          5.00   1.00 12-Jarvis-Ruprecht vs 6-Chen-Yao
+        200    1.00   5.00 14-Hendrickson-Miller vs 5-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          1.00   5.00 1-Tipton-Conner vs 2-Zaugg-Diaconescu
+  400          4.00   2.00 7-Eng-Ford vs 4-Ring-Abernethy
+  130          2.00   4.00 8-Grubbs-Galer vs 10-Carlson-Rigazio
+         50    0.00   6.00 9-Mohrman-Heron vs 13-Schwaighart-Rind
+  430          5.50   0.50 11-Krah-Kasperkiewicz vs 3-Sieg-Sivapragasam
+  430          5.50   0.50 12-Jarvis-Ruprecht vs 6-Chen-Yao
+  200          3.00   3.00 14-Hendrickson-Miller vs 5-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    0.00   6.00 2-Zaugg-Diaconescu vs 3-Sieg-Sivapragasam
+  120          3.00   3.00 8-Grubbs-Galer vs 5-Christensen-Stevens
+  120          3.00   3.00 9-Mohrman-Heron vs 11-Krah-Kasperkiewicz
+  120          3.00   3.00 10-Carlson-Rigazio vs 1-Tipton-Conner
+  150          5.50   0.50 12-Jarvis-Ruprecht vs 4-Ring-Abernethy
+   90          1.00   5.00 13-Schwaighart-Rind vs 7-Eng-Ford
+  150          5.50   0.50 14-Hendrickson-Miller vs 6-Chen-Yao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  690          2.50   3.50 2-Zaugg-Diaconescu vs 3-Sieg-Sivapragasam
+  690          2.50   3.50 8-Grubbs-Galer vs 5-Christensen-Stevens
+  690          2.50   3.50 9-Mohrman-Heron vs 11-Krah-Kasperkiewicz
+  690          2.50   3.50 10-Carlson-Rigazio vs 1-Tipton-Conner
+ 1440          6.00   0.00 12-Jarvis-Ruprecht vs 4-Ring-Abernethy
+  690          2.50   3.50 13-Schwaighart-Rind vs 7-Eng-Ford
+  690          2.50   3.50 14-Hendrickson-Miller vs 6-Chen-Yao
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    6.00   0.00 1-Tipton-Conner vs 8-Grubbs-Galer
+       1430    1.50   4.50 3-Sieg-Sivapragasam vs 4-Ring-Abernethy
+        650    5.00   1.00 9-Mohrman-Heron vs 6-Chen-Yao
+       1440    0.00   6.00 10-Carlson-Rigazio vs 12-Jarvis-Ruprecht
+       1430    1.50   4.50 11-Krah-Kasperkiewicz vs 2-Zaugg-Diaconescu
+        660    4.00   2.00 13-Schwaighart-Rind vs 5-Christensen-Stevens
+        720    3.00   3.00 14-Hendrickson-Miller vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    1.00   5.00 1-Tipton-Conner vs 8-Grubbs-Galer
+        630    4.50   1.50 3-Sieg-Sivapragasam vs 4-Ring-Abernethy
+        660    1.00   5.00 9-Mohrman-Heron vs 6-Chen-Yao
+        630    4.50   1.50 10-Carlson-Rigazio vs 12-Jarvis-Ruprecht
+        600    6.00   0.00 11-Krah-Kasperkiewicz vs 2-Zaugg-Diaconescu
+        660    1.00   5.00 13-Schwaighart-Rind vs 5-Christensen-Stevens
+        650    3.00   3.00 14-Hendrickson-Miller vs 7-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1470          5.00   1.00 1-Tipton-Conner vs 6-Chen-Yao
+ 1460          2.50   3.50 2-Zaugg-Diaconescu vs 9-Mohrman-Heron
+ 1460          2.50   3.50 4-Ring-Abernethy vs 5-Christensen-Stevens
+  710          0.00   6.00 10-Carlson-Rigazio vs 7-Eng-Ford
+ 2220          6.00   0.00 11-Krah-Kasperkiewicz vs 13-Schwaighart-Rind
+ 1460          2.50   3.50 12-Jarvis-Ruprecht vs 3-Sieg-Sivapragasam
+ 1460          2.50   3.50 14-Hendrickson-Miller vs 8-Grubbs-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    1.50   4.50 1-Tipton-Conner vs 6-Chen-Yao
+        180    1.50   4.50 2-Zaugg-Diaconescu vs 9-Mohrman-Heron
+        180    1.50   4.50 4-Ring-Abernethy vs 5-Christensen-Stevens
+        150    4.50   1.50 10-Carlson-Rigazio vs 7-Eng-Ford
+        150    4.50   1.50 11-Krah-Kasperkiewicz vs 13-Schwaighart-Rind
+         90    6.00   0.00 12-Jarvis-Ruprecht vs 3-Sieg-Sivapragasam
+        180    1.50   4.50 14-Hendrickson-Miller vs 8-Grubbs-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          2.50   3.50 2-Zaugg-Diaconescu vs 7-Eng-Ford
+  630          5.00   1.00 3-Sieg-Sivapragasam vs 10-Carlson-Rigazio
+  630          5.00   1.00 5-Christensen-Stevens vs 6-Chen-Yao
+  600          2.50   3.50 11-Krah-Kasperkiewicz vs 8-Grubbs-Galer
+  630          5.00   1.00 12-Jarvis-Ruprecht vs 1-Tipton-Conner
+        100    0.50   5.50 13-Schwaighart-Rind vs 4-Ring-Abernethy
+        100    0.50   5.50 14-Hendrickson-Miller vs 9-Mohrman-Heron
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  460          5.00   1.00 2-Zaugg-Diaconescu vs 7-Eng-Ford
+  210          2.00   4.00 3-Sieg-Sivapragasam vs 10-Carlson-Rigazio
+  490          6.00   0.00 5-Christensen-Stevens vs 6-Chen-Yao
+  430          3.50   2.50 11-Krah-Kasperkiewicz vs 8-Grubbs-Galer
+  180          1.00   5.00 12-Jarvis-Ruprecht vs 1-Tipton-Conner
+  120          0.00   6.00 13-Schwaighart-Rind vs 4-Ring-Abernethy
+  430          3.50   2.50 14-Hendrickson-Miller vs 9-Mohrman-Heron
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   3.50 1-Tipton-Conner vs 5-Christensen-Stevens
+  100          2.50   3.50 3-Sieg-Sivapragasam vs 8-Grubbs-Galer
+  100          2.50   3.50 4-Ring-Abernethy vs 11-Krah-Kasperkiewicz
+  100          2.50   3.50 6-Chen-Yao vs 7-Eng-Ford
+  100          2.50   3.50 12-Jarvis-Ruprecht vs 9-Mohrman-Heron
+  300          6.00   0.00 13-Schwaighart-Rind vs 2-Zaugg-Diaconescu
+  100          2.50   3.50 14-Hendrickson-Miller vs 10-Carlson-Rigazio
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  600          4.00   2.00 1-Tipton-Conner vs 5-Christensen-Stevens
+        100    0.00   6.00 3-Sieg-Sivapragasam vs 8-Grubbs-Galer
+  600          4.00   2.00 4-Ring-Abernethy vs 11-Krah-Kasperkiewicz
+  150          1.00   5.00 6-Chen-Yao vs 7-Eng-Ford
+  240          2.00   4.00 12-Jarvis-Ruprecht vs 9-Mohrman-Heron
+  600          4.00   2.00 13-Schwaighart-Rind vs 2-Zaugg-Diaconescu
+  660          6.00   0.00 14-Hendrickson-Miller vs 10-Carlson-Rigazio
+----------------------------------------------------------------------
