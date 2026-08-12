@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 11, 2026    |CLUB NO.>158048    | 08/11/2026 22:02
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club - North American Pairs  |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/750  |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=5/C=1                      ,---,------------,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   | Qualifiers |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt| A   B   C  |Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ------------ ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Morris-Lent      David Taylor             A   Q            5     .     .   |   5     .     .     85.50  54.81  0.51Red 
+                                                                                                                        0.50Blk 
+ 2 Kevin Cline            Brian Zaugg              A                .     .     .   |   .     .     .     64.50  41.35          
+
+ 3 Aaron Mohrman          Nathan Kasperkiewicz     B       Q        .     2     .   |   .     2     .     71.50  45.83  0.69Red 
+                                                                                                                        0.68Blk 
+ 4 Nick Tipton            David Wright             B   Q   Q        .     1     .   |   6     1     .     83.00  53.21  0.92Red 
+                                                                                                                        0.91Blk 
+ 5 Hugh Hendrickson       Laura Miller             B                .     .     .   |   .     .     .     56.00  35.90          
+
+ 6 Arjun Chaunal          Mudit Chaunal            C           Q    .     .     .   |   .     .     .     67.00  42.95          
+
+ 7 Dong Yan               Jack Yuan                A                .     .     .   |   .     .     .     71.00  45.51          
+
+ 8 Kim Eng                Eric Sieg                A   Q            2     .     .   |   2     .     .     93.50  59.94  1.20Red 
+                                                                                                                        1.19Blk 
+ 9 Mike Christensen       Becky Stevens            A   Q            .     .     .   |   .     .     .     80.50  51.60          
+
+10 Bryan Delfs            Jeffrey Ford             A   Q            1     .     .   |   1     .     .     94.50  60.58  1.60Red 
+                                                                                                                        1.59Blk 
+11 Stanford Christie      Joseph Grill             A   Q            4     .     .   |   4     .     .     89.00  57.05  0.68Red 
+                                                                                                                        0.67Blk 
+12 Corneliu Galer         Dave Grubbs              A   Q            3     .     .   |   3     .     .     90.00  57.69  0.90Red 
+                                                                                                                        0.89Blk 
+13 Paul Schwaighart       Brad Rind                A                .     .     .   |   .     .     .     75.00  48.08          
+
+14 James Hamilton         Elaine Vona              B       Q        .     .     .   |   .     .     .     71.00  45.51          
+
+
+                                          Totals                                                        1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    5.00   1.00 1-Morris-Lent-Taylor vs 3-Mohrman-Kasperkiewicz
+  100          6.00   0.00 2-Cline-Zaugg vs 6-Chaunal-Chaunal
+        420    2.50   3.50 4-Tipton-Wright vs 9-Christensen-Stevens
+        800    0.00   6.00 5-Hendrickson-Miller vs 12-Galer-Grubbs
+        420    2.50   3.50 7-Yan-Yuan vs 8-Eng-Sieg
+        420    2.50   3.50 13-Schwaighart-Rind vs 10-Delfs-Ford
+        420    2.50   3.50 14-Hamilton-Vona vs 11-Christie-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.00   2.00 1-Morris-Lent-Taylor vs 3-Mohrman-Kasperkiewicz
+  150          6.00   0.00 2-Cline-Zaugg vs 6-Chaunal-Chaunal
+  130          4.00   2.00 4-Tipton-Wright vs 9-Christensen-Stevens
+        300    0.50   5.50 5-Hendrickson-Miller vs 12-Galer-Grubbs
+        100    2.00   4.00 7-Yan-Yuan vs 8-Eng-Sieg
+        300    0.50   5.50 13-Schwaighart-Rind vs 10-Delfs-Ford
+  130          4.00   2.00 14-Hamilton-Vona vs 11-Christie-Grill
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   2.00 1-Morris-Lent-Taylor vs 11-Christie-Grill
+        150    0.50   5.50 2-Cline-Zaugg vs 4-Tipton-Wright
+  130          6.00   0.00 3-Mohrman-Kasperkiewicz vs 7-Yan-Yuan
+         50    2.00   4.00 5-Hendrickson-Miller vs 10-Delfs-Ford
+        150    0.50   5.50 6-Chaunal-Chaunal vs 13-Schwaighart-Rind
+  110          4.00   2.00 8-Eng-Sieg vs 9-Christensen-Stevens
+  110          4.00   2.00 14-Hamilton-Vona vs 12-Galer-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  870          6.00   0.00 1-Morris-Lent-Taylor vs 11-Christie-Grill
+        200    0.50   5.50 2-Cline-Zaugg vs 4-Tipton-Wright
+  100          2.00   4.00 3-Mohrman-Kasperkiewicz vs 7-Yan-Yuan
+        200    0.50   5.50 5-Hendrickson-Miller vs 10-Delfs-Ford
+  150          5.00   1.00 6-Chaunal-Chaunal vs 13-Schwaighart-Rind
+  110          3.00   3.00 8-Eng-Sieg vs 9-Christensen-Stevens
+  120          4.00   2.00 14-Hamilton-Vona vs 12-Galer-Grubbs
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.50   2.50 2-Cline-Zaugg vs 12-Galer-Grubbs
+   50          3.50   2.50 3-Mohrman-Kasperkiewicz vs 5-Hendrickson-Miller
+        120    2.00   4.00 4-Tipton-Wright vs 8-Eng-Sieg
+        170    1.00   5.00 6-Chaunal-Chaunal vs 11-Christie-Grill
+  250          6.00   0.00 7-Yan-Yuan vs 1-Morris-Lent-Taylor
+        400    0.00   6.00 9-Christensen-Stevens vs 10-Delfs-Ford
+  100          5.00   1.00 14-Hamilton-Vona vs 13-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    2.00   4.00 2-Cline-Zaugg vs 12-Galer-Grubbs
+        140    2.00   4.00 3-Mohrman-Kasperkiewicz vs 5-Hendrickson-Miller
+        110    5.50   0.50 4-Tipton-Wright vs 8-Eng-Sieg
+        200    0.00   6.00 6-Chaunal-Chaunal vs 11-Christie-Grill
+        140    2.00   4.00 7-Yan-Yuan vs 1-Morris-Lent-Taylor
+        110    5.50   0.50 9-Christensen-Stevens vs 10-Delfs-Ford
+        130    4.00   2.00 14-Hamilton-Vona vs 13-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    2.50   3.50 3-Mohrman-Kasperkiewicz vs 13-Schwaighart-Rind
+         90    4.00   2.00 4-Tipton-Wright vs 6-Chaunal-Chaunal
+  100          5.00   1.00 5-Hendrickson-Miller vs 9-Christensen-Stevens
+        200    1.00   5.00 7-Yan-Yuan vs 12-Galer-Grubbs
+        180    2.50   3.50 8-Eng-Sieg vs 2-Cline-Zaugg
+  300          6.00   0.00 10-Delfs-Ford vs 11-Christie-Grill
+        600    0.00   6.00 14-Hamilton-Vona vs 1-Morris-Lent-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    1.00   5.00 3-Mohrman-Kasperkiewicz vs 13-Schwaighart-Rind
+        150    2.00   4.00 4-Tipton-Wright vs 6-Chaunal-Chaunal
+        500    0.00   6.00 5-Hendrickson-Miller vs 9-Christensen-Stevens
+        100    3.50   2.50 7-Yan-Yuan vs 12-Galer-Grubbs
+   50          5.50   0.50 8-Eng-Sieg vs 2-Cline-Zaugg
+        100    3.50   2.50 10-Delfs-Ford vs 11-Christie-Grill
+   50          5.50   0.50 14-Hamilton-Vona vs 1-Morris-Lent-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   3.50 4-Tipton-Wright vs 1-Morris-Lent-Taylor
+        150    0.50   5.50 5-Hendrickson-Miller vs 7-Yan-Yuan
+        100    2.50   3.50 6-Chaunal-Chaunal vs 10-Delfs-Ford
+  100          4.00   2.00 8-Eng-Sieg vs 13-Schwaighart-Rind
+        150    0.50   5.50 9-Christensen-Stevens vs 3-Mohrman-Kasperkiewicz
+  530          6.00   0.00 11-Christie-Grill vs 12-Galer-Grubbs
+  140          5.00   1.00 14-Hamilton-Vona vs 2-Cline-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   6.00 4-Tipton-Wright vs 1-Morris-Lent-Taylor
+  200          5.50   0.50 5-Hendrickson-Miller vs 7-Yan-Yuan
+  170          3.00   3.00 6-Chaunal-Chaunal vs 10-Delfs-Ford
+  170          3.00   3.00 8-Eng-Sieg vs 13-Schwaighart-Rind
+  200          5.50   0.50 9-Christensen-Stevens vs 3-Mohrman-Kasperkiewicz
+  170          3.00   3.00 11-Christie-Grill vs 12-Galer-Grubbs
+  140          1.00   5.00 14-Hamilton-Vona vs 2-Cline-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   4.50 5-Hendrickson-Miller vs 2-Cline-Zaugg
+         50    1.50   4.50 6-Chaunal-Chaunal vs 8-Eng-Sieg
+  140          4.00   2.00 7-Yan-Yuan vs 11-Christie-Grill
+  420          5.50   0.50 9-Christensen-Stevens vs 1-Morris-Lent-Taylor
+         50    1.50   4.50 10-Delfs-Ford vs 4-Tipton-Wright
+  420          5.50   0.50 12-Galer-Grubbs vs 13-Schwaighart-Rind
+         50    1.50   4.50 14-Hamilton-Vona vs 3-Mohrman-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   2.00 5-Hendrickson-Miller vs 2-Cline-Zaugg
+        150    0.00   6.00 6-Chaunal-Chaunal vs 8-Eng-Sieg
+        110    1.50   4.50 7-Yan-Yuan vs 11-Christie-Grill
+  170          6.00   0.00 9-Christensen-Stevens vs 1-Morris-Lent-Taylor
+        110    1.50   4.50 10-Delfs-Ford vs 4-Tipton-Wright
+   50          4.00   2.00 12-Galer-Grubbs vs 13-Schwaighart-Rind
+   50          4.00   2.00 14-Hamilton-Vona vs 3-Mohrman-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   6.00 6-Chaunal-Chaunal vs 3-Mohrman-Kasperkiewicz
+  140          3.00   3.00 7-Yan-Yuan vs 9-Christensen-Stevens
+  170          5.00   1.00 8-Eng-Sieg vs 12-Galer-Grubbs
+  140          3.00   3.00 10-Delfs-Ford vs 2-Cline-Zaugg
+  500          6.00   0.00 11-Christie-Grill vs 5-Hendrickson-Miller
+        100    1.00   5.00 13-Schwaighart-Rind vs 1-Morris-Lent-Taylor
+  140          3.00   3.00 14-Hamilton-Vona vs 4-Tipton-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   1.50 6-Chaunal-Chaunal vs 3-Mohrman-Kasperkiewicz
+        130    3.00   3.00 7-Yan-Yuan vs 9-Christensen-Stevens
+        460    0.50   5.50 8-Eng-Sieg vs 12-Galer-Grubbs
+   50          4.50   1.50 10-Delfs-Ford vs 2-Cline-Zaugg
+  100          6.00   0.00 11-Christie-Grill vs 5-Hendrickson-Miller
+        430    2.00   4.00 13-Schwaighart-Rind vs 1-Morris-Lent-Taylor
+        460    0.50   5.50 14-Hamilton-Vona vs 4-Tipton-Wright
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   3.00 1-Morris-Lent-Taylor vs 2-Cline-Zaugg
+  670          6.00   0.00 7-Yan-Yuan vs 4-Tipton-Wright
+   50          3.00   3.00 8-Eng-Sieg vs 10-Delfs-Ford
+  150          5.00   1.00 9-Christensen-Stevens vs 13-Schwaighart-Rind
+        530    0.00   6.00 11-Christie-Grill vs 3-Mohrman-Kasperkiewicz
+   50          3.00   3.00 12-Galer-Grubbs vs 6-Chaunal-Chaunal
+        170    1.00   5.00 14-Hamilton-Vona vs 5-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   1.50 1-Morris-Lent-Taylor vs 2-Cline-Zaugg
+         50    0.50   5.50 7-Yan-Yuan vs 4-Tipton-Wright
+         50    0.50   5.50 8-Eng-Sieg vs 10-Delfs-Ford
+  140          4.50   1.50 9-Christensen-Stevens vs 13-Schwaighart-Rind
+  170          6.00   0.00 11-Christie-Grill vs 3-Mohrman-Kasperkiewicz
+  110          3.00   3.00 12-Galer-Grubbs vs 6-Chaunal-Chaunal
+    PASS       2.00   4.00 14-Hamilton-Vona vs 5-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          2.00   4.00 2-Cline-Zaugg vs 3-Mohrman-Kasperkiewicz
+  460          5.00   1.00 8-Eng-Sieg vs 5-Hendrickson-Miller
+  460          5.00   1.00 9-Christensen-Stevens vs 11-Christie-Grill
+  430          2.00   4.00 10-Delfs-Ford vs 1-Morris-Lent-Taylor
+  430          2.00   4.00 12-Galer-Grubbs vs 4-Tipton-Wright
+  460          5.00   1.00 13-Schwaighart-Rind vs 7-Yan-Yuan
+  400          0.00   6.00 14-Hamilton-Vona vs 6-Chaunal-Chaunal
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.50   4.50 2-Cline-Zaugg vs 3-Mohrman-Kasperkiewicz
+        120    6.00   0.00 8-Eng-Sieg vs 5-Hendrickson-Miller
+        800    0.00   6.00 9-Christensen-Stevens vs 11-Christie-Grill
+        140    4.50   1.50 10-Delfs-Ford vs 1-Morris-Lent-Taylor
+        170    1.50   4.50 12-Galer-Grubbs vs 4-Tipton-Wright
+        140    4.50   1.50 13-Schwaighart-Rind vs 7-Yan-Yuan
+        150    3.00   3.00 14-Hamilton-Vona vs 6-Chaunal-Chaunal
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 1-Morris-Lent-Taylor vs 8-Eng-Sieg
+  200          5.00   1.00 3-Mohrman-Kasperkiewicz vs 4-Tipton-Wright
+         50    1.50   4.50 9-Christensen-Stevens vs 6-Chaunal-Chaunal
+  150          4.00   2.00 10-Delfs-Ford vs 12-Galer-Grubbs
+  400          6.00   0.00 11-Christie-Grill vs 2-Cline-Zaugg
+  130          3.00   3.00 13-Schwaighart-Rind vs 5-Hendrickson-Miller
+         50    1.50   4.50 14-Hamilton-Vona vs 7-Yan-Yuan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   3.00 1-Morris-Lent-Taylor vs 8-Eng-Sieg
+  650          3.00   3.00 3-Mohrman-Kasperkiewicz vs 4-Tipton-Wright
+  650          3.00   3.00 9-Christensen-Stevens vs 6-Chaunal-Chaunal
+  650          3.00   3.00 10-Delfs-Ford vs 12-Galer-Grubbs
+  650          3.00   3.00 11-Christie-Grill vs 2-Cline-Zaugg
+  650          3.00   3.00 13-Schwaighart-Rind vs 5-Hendrickson-Miller
+  650          3.00   3.00 14-Hamilton-Vona vs 7-Yan-Yuan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.00   5.00 1-Morris-Lent-Taylor vs 6-Chaunal-Chaunal
+  100          2.50   3.50 2-Cline-Zaugg vs 9-Christensen-Stevens
+  130          4.00   2.00 4-Tipton-Wright vs 5-Hendrickson-Miller
+  100          2.50   3.50 10-Delfs-Ford vs 7-Yan-Yuan
+        140    0.00   6.00 11-Christie-Grill vs 13-Schwaighart-Rind
+  630          6.00   0.00 12-Galer-Grubbs vs 3-Mohrman-Kasperkiewicz
+  150          5.00   1.00 14-Hamilton-Vona vs 8-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   1.00 1-Morris-Lent-Taylor vs 6-Chaunal-Chaunal
+        120    2.00   4.00 2-Cline-Zaugg vs 9-Christensen-Stevens
+        140    0.00   6.00 4-Tipton-Wright vs 5-Hendrickson-Miller
+  100          5.00   1.00 10-Delfs-Ford vs 7-Yan-Yuan
+        120    2.00   4.00 11-Christie-Grill vs 13-Schwaighart-Rind
+  100          5.00   1.00 12-Galer-Grubbs vs 3-Mohrman-Kasperkiewicz
+        120    2.00   4.00 14-Hamilton-Vona vs 8-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   0.00 2-Cline-Zaugg vs 7-Yan-Yuan
+        140    1.00   5.00 3-Mohrman-Kasperkiewicz vs 10-Delfs-Ford
+        140    1.00   5.00 5-Hendrickson-Miller vs 6-Chaunal-Chaunal
+  100          4.00   2.00 11-Christie-Grill vs 8-Eng-Sieg
+  100          4.00   2.00 12-Galer-Grubbs vs 1-Morris-Lent-Taylor
+  100          4.00   2.00 13-Schwaighart-Rind vs 4-Tipton-Wright
+        140    1.00   5.00 14-Hamilton-Vona vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   4.50 2-Cline-Zaugg vs 7-Yan-Yuan
+  300          6.00   0.00 3-Mohrman-Kasperkiewicz vs 10-Delfs-Ford
+         50    1.50   4.50 5-Hendrickson-Miller vs 6-Chaunal-Chaunal
+   50          4.00   2.00 11-Christie-Grill vs 8-Eng-Sieg
+         50    1.50   4.50 12-Galer-Grubbs vs 1-Morris-Lent-Taylor
+         50    1.50   4.50 13-Schwaighart-Rind vs 4-Tipton-Wright
+  170          5.00   1.00 14-Hamilton-Vona vs 9-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        690    4.00   2.00 1-Morris-Lent-Taylor vs 5-Hendrickson-Miller
+       1370    1.00   5.00 3-Mohrman-Kasperkiewicz vs 8-Eng-Sieg
+       1370    1.00   5.00 4-Tipton-Wright vs 11-Christie-Grill
+        690    4.00   2.00 6-Chaunal-Chaunal vs 7-Yan-Yuan
+        660    6.00   0.00 12-Galer-Grubbs vs 9-Christensen-Stevens
+        690    4.00   2.00 13-Schwaighart-Rind vs 2-Cline-Zaugg
+       1370    1.00   5.00 14-Hamilton-Vona vs 10-Delfs-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          4.50   1.50 1-Morris-Lent-Taylor vs 5-Hendrickson-Miller
+        100    0.00   6.00 3-Mohrman-Kasperkiewicz vs 8-Eng-Sieg
+  130          2.50   3.50 4-Tipton-Wright vs 11-Christie-Grill
+  110          1.00   5.00 6-Chaunal-Chaunal vs 7-Yan-Yuan
+  150          4.50   1.50 12-Galer-Grubbs vs 9-Christensen-Stevens
+  300          6.00   0.00 13-Schwaighart-Rind vs 2-Cline-Zaugg
+  130          2.50   3.50 14-Hamilton-Vona vs 10-Delfs-Ford
+----------------------------------------------------------------------
