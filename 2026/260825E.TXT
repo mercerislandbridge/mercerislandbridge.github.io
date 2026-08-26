@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>August 25, 2026    |CLUB NO.>158048    | 08/25/2026 22:05
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=9/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Ray Miller             Aaron Mohrman            A    2     .     .     96.00  61.54  0.98(A) 
+
+ 2 Oyvind Tafjord         Shawn Abernethy          B    .     .     .     67.50  43.27          
+
+ 3 David Rabinovitch      Debby Cole               C    .     .     2     62.00  39.74  0.22(C) 
+
+ 4 David Taylor           Sue Anderson             B    4     1     .     91.00  58.33  0.72(B) 
+
+ 5 Mike Ring              Brian Zaugg              B    5     2     .     87.50  56.09  0.50(B) 
+
+ 6 Ann Romeo              Chris Morris-Lent        B    6     3     .     82.00  52.56  0.36(B) 
+
+ 7 Corneliu Galer         Dave Setterholm          A    .     .     .     79.00  50.64          
+
+ 8 Luke Brandes           Jennifer Wang            C    .     .     .     50.00  32.05          
+
+ 9 Kim Eng                Eric Sieg                A    3     .     .     92.00  58.97  0.70(A) 
+
+10 Bryan Delfs            Stanford Christie        A    .     .     .     81.00  51.92          
+
+11 John Krah              Nathan Kasperkiewicz     C    .     .     1     74.50  47.76  0.32(C) 
+
+12 David Wright           Mike Christensen         A    1     .     .    101.00  64.74  1.40(A) 
+
+13 Hugh Hendrickson       Laura Miller             B    .     4     .     76.50  49.04  0.25(B) 
+
+14 Elaine Vona            James Hamilton           C    .     .     .     52.00  33.33          
+
+
+                                          Totals                        1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          5.50   0.50 1-Miller-Mohrman vs 3-Rabinovitch-Cole
+   50          1.50   4.50 2-Tafjord-Abernethy vs 6-Romeo-Morris-Lent
+         50    0.00   6.00 4-Taylor-Anderson vs 9-Eng-Sieg
+  150          5.50   0.50 5-Ring-Zaugg vs 12-Wright-Christensen
+  120          3.50   2.50 7-Galer-Setterholm vs 8-Brandes-Wang
+  120          3.50   2.50 13-Hendrickson-Miller vs 10-Delfs-Christie
+   50          1.50   4.50 14-Vona-Hamilton vs 11-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  710          2.50   3.50 1-Miller-Mohrman vs 3-Rabinovitch-Cole
+ 1460          5.50   0.50 2-Tafjord-Abernethy vs 6-Romeo-Morris-Lent
+  710          2.50   3.50 4-Taylor-Anderson vs 9-Eng-Sieg
+  710          2.50   3.50 5-Ring-Zaugg vs 12-Wright-Christensen
+  710          2.50   3.50 7-Galer-Setterholm vs 8-Brandes-Wang
+ 1460          5.50   0.50 13-Hendrickson-Miller vs 10-Delfs-Christie
+  680          0.00   6.00 14-Vona-Hamilton vs 11-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          5.00   1.00 1-Miller-Mohrman vs 11-Krah-Kasperkiewicz
+  140          3.50   2.50 2-Tafjord-Abernethy vs 4-Taylor-Anderson
+  140          3.50   2.50 3-Rabinovitch-Cole vs 7-Galer-Setterholm
+  300          6.00   0.00 5-Ring-Zaugg vs 10-Delfs-Christie
+        100    2.00   4.00 6-Romeo-Morris-Lent vs 13-Hendrickson-Miller
+        300    0.00   6.00 8-Brandes-Wang vs 9-Eng-Sieg
+        140    1.00   5.00 14-Vona-Hamilton vs 12-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    6.00   0.00 1-Miller-Mohrman vs 11-Krah-Kasperkiewicz
+        170    1.00   5.00 2-Tafjord-Abernethy vs 4-Taylor-Anderson
+        140    4.00   2.00 3-Rabinovitch-Cole vs 7-Galer-Setterholm
+        140    4.00   2.00 5-Ring-Zaugg vs 10-Delfs-Christie
+        140    4.00   2.00 6-Romeo-Morris-Lent vs 13-Hendrickson-Miller
+        170    1.00   5.00 8-Brandes-Wang vs 9-Eng-Sieg
+        170    1.00   5.00 14-Vona-Hamilton vs 12-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    2.00   4.00 2-Tafjord-Abernethy vs 12-Wright-Christensen
+        460    6.00   0.00 3-Rabinovitch-Cole vs 5-Ring-Zaugg
+        490    5.00   1.00 4-Taylor-Anderson vs 8-Brandes-Wang
+        980    2.00   4.00 6-Romeo-Morris-Lent vs 11-Krah-Kasperkiewicz
+        980    2.00   4.00 7-Galer-Setterholm vs 1-Miller-Mohrman
+        980    2.00   4.00 9-Eng-Sieg vs 10-Delfs-Christie
+        980    2.00   4.00 14-Vona-Hamilton vs 13-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    0.00   6.00 2-Tafjord-Abernethy vs 12-Wright-Christensen
+        620    4.00   2.00 3-Rabinovitch-Cole vs 5-Ring-Zaugg
+        600    5.00   1.00 4-Taylor-Anderson vs 8-Brandes-Wang
+        140    6.00   0.00 6-Romeo-Morris-Lent vs 11-Krah-Kasperkiewicz
+        630    2.00   4.00 7-Galer-Setterholm vs 1-Miller-Mohrman
+        630    2.00   4.00 9-Eng-Sieg vs 10-Delfs-Christie
+        630    2.00   4.00 14-Vona-Hamilton vs 13-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1440    2.50   3.50 3-Rabinovitch-Cole vs 13-Hendrickson-Miller
+  100          6.00   0.00 4-Taylor-Anderson vs 6-Romeo-Morris-Lent
+        690    5.00   1.00 5-Ring-Zaugg vs 9-Eng-Sieg
+       1440    2.50   3.50 7-Galer-Setterholm vs 12-Wright-Christensen
+       1470    0.00   6.00 8-Brandes-Wang vs 2-Tafjord-Abernethy
+       1440    2.50   3.50 10-Delfs-Christie vs 11-Krah-Kasperkiewicz
+       1440    2.50   3.50 14-Vona-Hamilton vs 1-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  400          2.50   3.50 3-Rabinovitch-Cole vs 13-Hendrickson-Miller
+  430          5.00   1.00 4-Taylor-Anderson vs 6-Romeo-Morris-Lent
+  430          5.00   1.00 5-Ring-Zaugg vs 9-Eng-Sieg
+        300    0.00   6.00 7-Galer-Setterholm vs 12-Wright-Christensen
+  400          2.50   3.50 8-Brandes-Wang vs 2-Tafjord-Abernethy
+  430          5.00   1.00 10-Delfs-Christie vs 11-Krah-Kasperkiewicz
+  110          1.00   5.00 14-Vona-Hamilton vs 1-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   3.00 4-Taylor-Anderson vs 1-Miller-Mohrman
+        140    0.50   5.50 5-Ring-Zaugg vs 7-Galer-Setterholm
+   90          4.00   2.00 6-Romeo-Morris-Lent vs 10-Delfs-Christie
+        140    0.50   5.50 8-Brandes-Wang vs 13-Hendrickson-Miller
+  110          6.00   0.00 9-Eng-Sieg vs 3-Rabinovitch-Cole
+        100    2.00   4.00 11-Krah-Kasperkiewicz vs 12-Wright-Christensen
+  100          5.00   1.00 14-Vona-Hamilton vs 2-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    1.00   5.00 4-Taylor-Anderson vs 1-Miller-Mohrman
+        680    2.00   4.00 5-Ring-Zaugg vs 7-Galer-Setterholm
+        650    4.50   1.50 6-Romeo-Morris-Lent vs 10-Delfs-Christie
+        650    4.50   1.50 8-Brandes-Wang vs 13-Hendrickson-Miller
+        650    4.50   1.50 9-Eng-Sieg vs 3-Rabinovitch-Cole
+        990    0.00   6.00 11-Krah-Kasperkiewicz vs 12-Wright-Christensen
+        650    4.50   1.50 14-Vona-Hamilton vs 2-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          6.00   0.00 5-Ring-Zaugg vs 2-Tafjord-Abernethy
+         50    0.50   5.50 6-Romeo-Morris-Lent vs 8-Brandes-Wang
+   50          2.00   4.00 7-Galer-Setterholm vs 11-Krah-Kasperkiewicz
+  130          4.00   2.00 9-Eng-Sieg vs 1-Miller-Mohrman
+  100          3.00   3.00 10-Delfs-Christie vs 4-Taylor-Anderson
+  300          5.00   1.00 12-Wright-Christensen vs 13-Hendrickson-Miller
+         50    0.50   5.50 14-Vona-Hamilton vs 3-Rabinovitch-Cole
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          1.50   4.50 5-Ring-Zaugg vs 2-Tafjord-Abernethy
+  650          4.50   1.50 6-Romeo-Morris-Lent vs 8-Brandes-Wang
+  170          3.00   3.00 7-Galer-Setterholm vs 11-Krah-Kasperkiewicz
+  140          1.50   4.50 9-Eng-Sieg vs 1-Miller-Mohrman
+        200    0.00   6.00 10-Delfs-Christie vs 4-Taylor-Anderson
+  680          6.00   0.00 12-Wright-Christensen vs 13-Hendrickson-Miller
+  650          4.50   1.50 14-Vona-Hamilton vs 3-Rabinovitch-Cole
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.50   2.50 6-Romeo-Morris-Lent vs 3-Rabinovitch-Cole
+   90          3.50   2.50 7-Galer-Setterholm vs 9-Eng-Sieg
+        100    0.50   5.50 8-Brandes-Wang vs 12-Wright-Christensen
+   90          3.50   2.50 10-Delfs-Christie vs 2-Tafjord-Abernethy
+  200          6.00   0.00 11-Krah-Kasperkiewicz vs 5-Ring-Zaugg
+   90          3.50   2.50 13-Hendrickson-Miller vs 1-Miller-Mohrman
+        100    0.50   5.50 14-Vona-Hamilton vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    6.00   0.00 6-Romeo-Morris-Lent vs 3-Rabinovitch-Cole
+        400    5.00   1.00 7-Galer-Setterholm vs 9-Eng-Sieg
+        490    1.50   4.50 8-Brandes-Wang vs 12-Wright-Christensen
+        460    3.50   2.50 10-Delfs-Christie vs 2-Tafjord-Abernethy
+        460    3.50   2.50 11-Krah-Kasperkiewicz vs 5-Ring-Zaugg
+        800    0.00   6.00 13-Hendrickson-Miller vs 1-Miller-Mohrman
+        490    1.50   4.50 14-Vona-Hamilton vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   0.00 1-Miller-Mohrman vs 2-Tafjord-Abernethy
+        140    2.00   4.00 7-Galer-Setterholm vs 4-Taylor-Anderson
+        140    2.00   4.00 8-Brandes-Wang vs 10-Delfs-Christie
+        140    2.00   4.00 9-Eng-Sieg vs 13-Hendrickson-Miller
+        110    5.00   1.00 11-Krah-Kasperkiewicz vs 3-Rabinovitch-Cole
+        140    2.00   4.00 12-Wright-Christensen vs 6-Romeo-Morris-Lent
+        140    2.00   4.00 14-Vona-Hamilton vs 5-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.50   2.50 1-Miller-Mohrman vs 2-Tafjord-Abernethy
+  980          5.50   0.50 7-Galer-Setterholm vs 4-Taylor-Anderson
+         50    1.00   5.00 8-Brandes-Wang vs 10-Delfs-Christie
+  980          5.50   0.50 9-Eng-Sieg vs 13-Hendrickson-Miller
+        100    0.00   6.00 11-Krah-Kasperkiewicz vs 3-Rabinovitch-Cole
+  480          3.50   2.50 12-Wright-Christensen vs 6-Romeo-Morris-Lent
+  450          2.00   4.00 14-Vona-Hamilton vs 5-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   0.00 2-Tafjord-Abernethy vs 3-Rabinovitch-Cole
+        420    3.00   3.00 8-Brandes-Wang vs 5-Ring-Zaugg
+        420    3.00   3.00 9-Eng-Sieg vs 11-Krah-Kasperkiewicz
+        420    3.00   3.00 10-Delfs-Christie vs 1-Miller-Mohrman
+        420    3.00   3.00 12-Wright-Christensen vs 4-Taylor-Anderson
+        420    3.00   3.00 13-Hendrickson-Miller vs 7-Galer-Setterholm
+        430    0.00   6.00 14-Vona-Hamilton vs 6-Romeo-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.50   1.50 2-Tafjord-Abernethy vs 3-Rabinovitch-Cole
+        100    1.00   5.00 8-Brandes-Wang vs 5-Ring-Zaugg
+  800          6.00   0.00 9-Eng-Sieg vs 11-Krah-Kasperkiewicz
+  140          4.50   1.50 10-Delfs-Christie vs 1-Miller-Mohrman
+        100    1.00   5.00 12-Wright-Christensen vs 4-Taylor-Anderson
+        100    1.00   5.00 13-Hendrickson-Miller vs 7-Galer-Setterholm
+  110          3.00   3.00 14-Vona-Hamilton vs 6-Romeo-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.50   4.50 1-Miller-Mohrman vs 8-Brandes-Wang
+  200          5.00   1.00 3-Rabinovitch-Cole vs 4-Taylor-Anderson
+  100          1.50   4.50 9-Eng-Sieg vs 6-Romeo-Morris-Lent
+  100          1.50   4.50 10-Delfs-Christie vs 12-Wright-Christensen
+  200          5.00   1.00 11-Krah-Kasperkiewicz vs 2-Tafjord-Abernethy
+  200          5.00   1.00 13-Hendrickson-Miller vs 5-Ring-Zaugg
+  100          1.50   4.50 14-Vona-Hamilton vs 7-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    6.00   0.00 1-Miller-Mohrman vs 8-Brandes-Wang
+        650    1.00   5.00 3-Rabinovitch-Cole vs 4-Taylor-Anderson
+        600    3.00   3.00 9-Eng-Sieg vs 6-Romeo-Morris-Lent
+        150    4.50   1.50 10-Delfs-Christie vs 12-Wright-Christensen
+        630    2.00   4.00 11-Krah-Kasperkiewicz vs 2-Tafjord-Abernethy
+        660    0.00   6.00 13-Hendrickson-Miller vs 5-Ring-Zaugg
+        150    4.50   1.50 14-Vona-Hamilton vs 7-Galer-Setterholm
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   3.50 1-Miller-Mohrman vs 6-Romeo-Morris-Lent
+        130    1.00   5.00 2-Tafjord-Abernethy vs 9-Eng-Sieg
+        110    2.50   3.50 4-Taylor-Anderson vs 5-Ring-Zaugg
+        400    0.00   6.00 10-Delfs-Christie vs 7-Galer-Setterholm
+        100    4.00   2.00 11-Krah-Kasperkiewicz vs 13-Hendrickson-Miller
+   50          5.00   1.00 12-Wright-Christensen vs 3-Rabinovitch-Cole
+  110          6.00   0.00 14-Vona-Hamilton vs 8-Brandes-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          3.00   3.00 1-Miller-Mohrman vs 6-Romeo-Morris-Lent
+  990          3.00   3.00 2-Tafjord-Abernethy vs 9-Eng-Sieg
+  990          3.00   3.00 4-Taylor-Anderson vs 5-Ring-Zaugg
+  990          3.00   3.00 10-Delfs-Christie vs 7-Galer-Setterholm
+  990          3.00   3.00 11-Krah-Kasperkiewicz vs 13-Hendrickson-Miller
+  990          3.00   3.00 12-Wright-Christensen vs 3-Rabinovitch-Cole
+  990          3.00   3.00 14-Vona-Hamilton vs 8-Brandes-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          4.00   2.00 2-Tafjord-Abernethy vs 7-Galer-Setterholm
+  200          1.00   5.00 3-Rabinovitch-Cole vs 10-Delfs-Christie
+  650          4.00   2.00 5-Ring-Zaugg vs 6-Romeo-Morris-Lent
+  650          4.00   2.00 11-Krah-Kasperkiewicz vs 8-Brandes-Wang
+  650          4.00   2.00 12-Wright-Christensen vs 1-Miller-Mohrman
+  650          4.00   2.00 13-Hendrickson-Miller vs 4-Taylor-Anderson
+  170          0.00   6.00 14-Vona-Hamilton vs 9-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.00   1.00 2-Tafjord-Abernethy vs 7-Galer-Setterholm
+         50    0.00   6.00 3-Rabinovitch-Cole vs 10-Delfs-Christie
+  650          5.00   1.00 5-Ring-Zaugg vs 6-Romeo-Morris-Lent
+  650          5.00   1.00 11-Krah-Kasperkiewicz vs 8-Brandes-Wang
+  400          3.00   3.00 12-Wright-Christensen vs 1-Miller-Mohrman
+  120          2.00   4.00 13-Hendrickson-Miller vs 4-Taylor-Anderson
+   50          1.00   5.00 14-Vona-Hamilton vs 9-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.00   5.00 1-Miller-Mohrman vs 5-Ring-Zaugg
+  100          4.50   1.50 3-Rabinovitch-Cole vs 8-Brandes-Wang
+        110    1.00   5.00 4-Taylor-Anderson vs 11-Krah-Kasperkiewicz
+  100          4.50   1.50 6-Romeo-Morris-Lent vs 7-Galer-Setterholm
+   80          3.00   3.00 12-Wright-Christensen vs 9-Eng-Sieg
+  110          6.00   0.00 13-Hendrickson-Miller vs 2-Tafjord-Abernethy
+        110    1.00   5.00 14-Vona-Hamilton vs 10-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    4.50   1.50 1-Miller-Mohrman vs 5-Ring-Zaugg
+        600    0.50   5.50 3-Rabinovitch-Cole vs 8-Brandes-Wang
+  100          6.00   0.00 4-Taylor-Anderson vs 11-Krah-Kasperkiewicz
+        500    2.00   4.00 6-Romeo-Morris-Lent vs 7-Galer-Setterholm
+        210    3.00   3.00 12-Wright-Christensen vs 9-Eng-Sieg
+        130    4.50   1.50 13-Hendrickson-Miller vs 2-Tafjord-Abernethy
+        600    0.50   5.50 14-Vona-Hamilton vs 10-Delfs-Christie
+----------------------------------------------------------------------
