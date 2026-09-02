@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 1, 2026  |CLUB NO.>158048    | 09/01/2026 21:52
+DATE>September 1, 2026  |CLUB NO.>158048    | 09/02/2026 13:19
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Mike C          |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -11,27 +11,27 @@ PAIRS IN STRAT A=8/B=5/C=3                       ,---,-----------------,--------
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Shawn Abernethy        Brian Zaugg              A   .     .     .   |   .     .     .     76.50  45.54          
+ 1 Shawn Abernethy        Brian Zaugg              A   .     .     .   |   .     .     .     70.50  41.96          
 
- 2 Susan Cothern          James Hamilton           C   .     .     .   |   .     .     .     71.00  42.26          
+ 2 Susan Cothern          James Hamilton           C   .     .     .   |   .     .     .     72.00  42.86          
 
- 3 Douglas Kuschner       Oyvind Tafjord           B   .     .     .   |   .     .     .     60.00  35.71          
+ 3 Douglas Kuschner       Oyvind Tafjord           B   .     .     .   |   .     .     .     61.00  36.31          
 
- 4 Ray Miller             Jeffrey Ford             A   1     .     .   |   1     .     .    108.00  64.29  2.63(OA)
+ 4 Ray Miller             Jeffrey Ford             A   1     .     .   |   1     .     .    110.00  65.48  2.63(OA)
 
- 5 Arjun Chaunal          Corneliu Galer           C   .     .     .   |   .     .     .     82.00  48.81          
+ 5 Arjun Chaunal          Corneliu Galer           C   .     .     .   |   .     .     .     83.00  49.40          
 
- 6 Ann Romeo              Bob Shelley              B  5/6   2/3    .   |  3/4   1/2    .     86.50  51.49  1.01(OB)
+ 6 Ann Romeo              Bob Shelley              B   .     3     .   |   .     2     .     86.50  51.49  0.86(OB)
 
- 7 Kim Eng                Eric Sieg                A   2     .     .   |   2     .     .    101.50  60.42  1.97(OA)
+ 7 Kim Eng                Eric Sieg                A   2     .     .   |   2     .     .    102.00  60.71  1.97(OA)
 
- 8 Cassandra Hall         Shannon Kasperkiewicz    C  5/6   2/3    .   |  3/4   1/2    1     86.50  51.49  1.01(OB)
+ 8 Cassandra Hall         Shannon Kasperkiewicz    C   5     2     .   |   3     1     1     87.00  51.79  1.15(OB)
 
 
                                           Totals                                            672.00       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>September 1, 2026  |CLUB NO.>158048    | 09/01/2026 21:52
+DATE>September 1, 2026  |CLUB NO.>158048    | 09/02/2026 13:19
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Mike C          |RATING>Club Championship (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -41,21 +41,21 @@ PAIRS IN STRAT A=8/B=4/C=1                       ,---,-----------------,--------
 -------------------------------------------------|   |      Overall    |           Section       |      |Final    |
 No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
 ------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
- 1 Mike Ring              Mike Christensen         A   3     .     .   |   1     .     .     98.50  58.63  1.48(OA)
+ 1 Mike Ring              Mike Christensen         A   3     .     .   |   1     .     .     96.00  57.14  1.48(OA)
 
- 2 David Taylor           John Aslin               A   .     .     .   |   .     .     .     83.00  49.40          
+ 2 David Taylor           John Aslin               A   .     .     .   |   .     .     .     82.50  49.11          
 
- 3 Becky Stevens          Sue Anderson             B   .     .     .   |   .     .     .     69.00  41.07          
+ 3 Becky Stevens          Sue Anderson             B   .     .     .   |   .     .     .     68.50  40.77          
 
- 4 Bryan Delfs            Stanford Christie        A   .     .     .   |   .     .     .     84.50  50.30          
+ 4 Bryan Delfs            Stanford Christie        A   .     .     .   |   .     .     .     83.50  49.70          
 
- 5 Rui Gong               Zhenzhong Guo            B   4     1     .   |   2     1     .     95.00  56.55  1.53(OB)
+ 5 Rui Gong               Zhenzhong Guo            B   4     1     .   |   2     1     .     94.00  55.95  1.53(OB)
 
  6 John Krah              Nathan Kasperkiewicz     C   .     4     .   |   3     2     .     86.00  51.19  0.65(OB)
 
- 7 Kevin Cline            Aaron Mohrman            B   .     .     .   |   .     .     .     77.00  45.83          
+ 7 Kevin Cline            Aaron Mohrman            B   .     .     .   |   .     .     .     76.00  45.24          
 
- 8 David Binney           Chris Morris-Lent        A   .     .     .   |   .     .     .     79.00  47.02          
+ 8 David Binney           Chris Morris-Lent        A   .     .     .   |   .     .     .     85.50  50.89          
 
 
                                           Totals                                            672.00       
@@ -106,14 +106,14 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
 
    SCORES      MATCHPOINTS   NAMES
   N-S   E-W    N-S    E-W
-  200          6.50   0.50 1-Abernethy-Zaugg vs 8-Binney-Morris-Lent
-        140    2.50   4.50 2-Cothern-Hamilton vs 2-Taylor-Aslin
-  140          5.00   2.00 3-Kuschner-Tafjord vs 4-Delfs-Christie
-  200          6.50   0.50 4-Miller-Ford vs 6-Krah-Kasperkiewicz
-        170    1.00   6.00 5-Chaunal-Galer vs 1-Ring-Christensen
-        200    0.00   7.00 6-Romeo-Shelley vs 3-Stevens-Anderson
-        140    2.50   4.50 7-Eng-Sieg vs 5-Gong-Guo
-  100          4.00   3.00 8-Hall-Kasperkiewicz vs 7-Cline-Mohrman
+        200    0.50   6.50 1-Abernethy-Zaugg vs 8-Binney-Morris-Lent
+        140    3.50   3.50 2-Cothern-Hamilton vs 2-Taylor-Aslin
+  140          6.00   1.00 3-Kuschner-Tafjord vs 4-Delfs-Christie
+  200          7.00   0.00 4-Miller-Ford vs 6-Krah-Kasperkiewicz
+        170    2.00   5.00 5-Chaunal-Galer vs 1-Ring-Christensen
+        200    0.50   6.50 6-Romeo-Shelley vs 3-Stevens-Anderson
+        140    3.50   3.50 7-Eng-Sieg vs 5-Gong-Guo
+  100          5.00   2.00 8-Hall-Kasperkiewicz vs 7-Cline-Mohrman
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 5
@@ -333,11 +333,11 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rn
         140    2.00   5.00 1-Abernethy-Zaugg vs 3-Stevens-Anderson
         200    0.00   7.00 2-Cothern-Hamilton vs 5-Gong-Guo
         140    2.00   5.00 3-Kuschner-Tafjord vs 7-Cline-Mohrman
-        100    4.00   3.00 4-Miller-Ford vs 1-Ring-Christensen
+  100          5.50   1.50 4-Miller-Ford vs 1-Ring-Christensen
         140    2.00   5.00 5-Chaunal-Galer vs 4-Delfs-Christie
-  100          6.00   1.00 6-Romeo-Shelley vs 6-Krah-Kasperkiewicz
-  100          6.00   1.00 7-Eng-Sieg vs 8-Binney-Morris-Lent
-  100          6.00   1.00 8-Hall-Kasperkiewicz vs 2-Taylor-Aslin
+  100          5.50   1.50 6-Romeo-Shelley vs 6-Krah-Kasperkiewicz
+  100          5.50   1.50 7-Eng-Sieg vs 8-Binney-Morris-Lent
+  100          5.50   1.50 8-Hall-Kasperkiewicz vs 2-Taylor-Aslin
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 21
