@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "September 10, 2026 Results"
+date: 2026-09-10 15:46:22 +0000
+categories: results
+---
+There were several scoring corrections since Tuesday, apparently due to a bug where deleted scores were being pulled in even though they were corrected on the bridgemates. The results below have the corrections, although the results on ACBL Live for Clubs still have some wrong contracts showing (but with the correct scores).
+
+Congratulations to new winners Cornel and Dave!
+
+Full results are available at [https://mercerislandbridge.github.io/2026/260908E.htm](https://mercerislandbridge.github.io/2026/260908E.htm)
