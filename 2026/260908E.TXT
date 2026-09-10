@@ -1,0 +1,363 @@
+
+EVENT>Event Name               |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 8, 2026  |CLUB NO.>158048    | 09/10/2026 08:27
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff Ford       |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   67.5 |TOP>   5 |MP LIMITS>None/3000/1000 |CLUB>Mercercrest BC
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=12/B=6/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Chris Morris-Lent      David Taylor             B    3     2     .     72.50  53.70  0.60(A) 
+
+ 2 Ray Miller             Ann Romeo                A    5     .     .     69.50  51.48  0.24(A) 
+
+ 3 Kim Eng                Eric Sieg                A    4     .     .     71.00  52.59  0.42(A) 
+
+ 4 Luke Brandes           Jennifer Wang            C    .     .     1     67.50  50.00  0.24(C) 
+
+ 5 Shannon Kasperkiewicz  Cassandra Hall           C    .     .     .     62.00  45.93          
+
+ 6 John Krah              Nathan Kasperkiewicz     C    .     .     .     50.50  37.41          
+
+ 7 Bryan Delfs            Stan Christie            A    .     .     .     67.50  50.00          
+
+ 8 Michael Ring           Michael Christensen      A    .     .     .     68.00  50.37          
+
+ 9 Dave Grubbs            Corneliu Galer           A    1     .     .     80.00  59.26  1.20(A) 
+
+10 Oyvind Tafjord         Sue Anderson             B    2     1     .     78.00  57.78  0.84(A) 
+
+11 Jeffrey Ford           Bogdan Vulcan            A    .     .     .     66.00  48.89          
+
+12 Elaine Vona            James Hamilton           B    .     .     .     57.50  42.59          
+
+
+                                          Totals                         810.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.00   3.00 3-Eng-Sieg vs 11-Ford-Vulcan
+        120    1.00   4.00 5-Kasperkiewicz-Hall vs 2-Miller-Romeo
+        500    0.00   5.00 6-Krah-Kasperkiewicz vs 10-Tafjord-Anderson
+   50          4.50   0.50 8-Ring-Christensen vs 4-Brandes-Wang
+   50          4.50   0.50 9-Grubbs-Galer vs 7-Delfs-Christie
+         90    3.00   2.00 12-Vona-Hamilton vs 1-Morris-Lent-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   0.50 3-Eng-Sieg vs 11-Ford-Vulcan
+   50          4.50   0.50 5-Kasperkiewicz-Hall vs 2-Miller-Romeo
+        200    0.50   4.50 6-Krah-Kasperkiewicz vs 10-Tafjord-Anderson
+        140    2.00   3.00 8-Ring-Christensen vs 4-Brandes-Wang
+        120    3.00   2.00 9-Grubbs-Galer vs 7-Delfs-Christie
+        200    0.50   4.50 12-Vona-Hamilton vs 1-Morris-Lent-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    0.00   5.00 3-Eng-Sieg vs 11-Ford-Vulcan
+  100          4.50   0.50 5-Kasperkiewicz-Hall vs 2-Miller-Romeo
+        620    1.00   4.00 6-Krah-Kasperkiewicz vs 10-Tafjord-Anderson
+        140    3.00   2.00 8-Ring-Christensen vs 4-Brandes-Wang
+  100          4.50   0.50 9-Grubbs-Galer vs 7-Delfs-Christie
+        170    2.00   3.00 12-Vona-Hamilton vs 1-Morris-Lent-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    3.50   1.50 1-Morris-Lent-Taylor vs 8-Ring-Christensen
+        650    0.50   4.50 6-Krah-Kasperkiewicz vs 3-Eng-Sieg
+        620    3.50   1.50 7-Delfs-Christie vs 10-Tafjord-Anderson
+        620    3.50   1.50 9-Grubbs-Galer vs 5-Kasperkiewicz-Hall
+        620    3.50   1.50 11-Ford-Vulcan vs 4-Brandes-Wang
+        650    0.50   4.50 12-Vona-Hamilton vs 2-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   1.00 1-Morris-Lent-Taylor vs 8-Ring-Christensen
+         90    0.00   5.00 6-Krah-Kasperkiewicz vs 3-Eng-Sieg
+  100          3.00   2.00 7-Delfs-Christie vs 10-Tafjord-Anderson
+   50          1.50   3.50 9-Grubbs-Galer vs 5-Kasperkiewicz-Hall
+   50          1.50   3.50 11-Ford-Vulcan vs 4-Brandes-Wang
+  150          5.00   0.00 12-Vona-Hamilton vs 2-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.50   0.50 1-Morris-Lent-Taylor vs 8-Ring-Christensen
+         50    4.50   0.50 6-Krah-Kasperkiewicz vs 3-Eng-Sieg
+        870    0.50   4.50 7-Delfs-Christie vs 10-Tafjord-Anderson
+        870    0.50   4.50 9-Grubbs-Galer vs 5-Kasperkiewicz-Hall
+        670    2.00   3.00 11-Ford-Vulcan vs 4-Brandes-Wang
+        100    3.00   2.00 12-Vona-Hamilton vs 2-Miller-Romeo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.50   2.50 1-Morris-Lent-Taylor vs 6-Krah-Kasperkiewicz
+        650    2.50   2.50 2-Miller-Romeo vs 9-Grubbs-Galer
+        650    2.50   2.50 7-Delfs-Christie vs 4-Brandes-Wang
+        650    2.50   2.50 10-Tafjord-Anderson vs 8-Ring-Christensen
+        650    2.50   2.50 11-Ford-Vulcan vs 5-Kasperkiewicz-Hall
+        650    2.50   2.50 12-Vona-Hamilton vs 3-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          3.00   2.00 1-Morris-Lent-Taylor vs 6-Krah-Kasperkiewicz
+  150          4.50   0.50 2-Miller-Romeo vs 9-Grubbs-Galer
+  150          4.50   0.50 7-Delfs-Christie vs 4-Brandes-Wang
+   50          2.00   3.00 10-Tafjord-Anderson vs 8-Ring-Christensen
+        400    0.50   4.50 11-Ford-Vulcan vs 5-Kasperkiewicz-Hall
+        400    0.50   4.50 12-Vona-Hamilton vs 3-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   1.00 1-Morris-Lent-Taylor vs 6-Krah-Kasperkiewicz
+        620    0.50   4.50 2-Miller-Romeo vs 9-Grubbs-Galer
+        620    0.50   4.50 7-Delfs-Christie vs 4-Brandes-Wang
+        140    3.00   2.00 10-Tafjord-Anderson vs 8-Ring-Christensen
+  110          5.00   0.00 11-Ford-Vulcan vs 5-Kasperkiewicz-Hall
+        170    2.00   3.00 12-Vona-Hamilton vs 3-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   5.00 2-Miller-Romeo vs 7-Delfs-Christie
+  130          2.50   2.50 3-Eng-Sieg vs 1-Morris-Lent-Taylor
+  130          2.50   2.50 8-Ring-Christensen vs 5-Kasperkiewicz-Hall
+        100    1.00   4.00 10-Tafjord-Anderson vs 9-Grubbs-Galer
+  630          4.50   0.50 11-Ford-Vulcan vs 6-Krah-Kasperkiewicz
+  630          4.50   0.50 12-Vona-Hamilton vs 4-Brandes-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.00   3.00 2-Miller-Romeo vs 7-Delfs-Christie
+  690          5.00   0.00 3-Eng-Sieg vs 1-Morris-Lent-Taylor
+  590          4.00   1.00 8-Ring-Christensen vs 5-Kasperkiewicz-Hall
+        130    0.00   5.00 10-Tafjord-Anderson vs 9-Grubbs-Galer
+  450          2.00   3.00 11-Ford-Vulcan vs 6-Krah-Kasperkiewicz
+  450          2.00   3.00 12-Vona-Hamilton vs 4-Brandes-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   0.00 2-Miller-Romeo vs 7-Delfs-Christie
+   50          4.00   1.00 3-Eng-Sieg vs 1-Morris-Lent-Taylor
+        140    2.00   3.00 8-Ring-Christensen vs 5-Kasperkiewicz-Hall
+        170    0.00   5.00 10-Tafjord-Anderson vs 9-Grubbs-Galer
+        140    2.00   3.00 11-Ford-Vulcan vs 6-Krah-Kasperkiewicz
+        140    2.00   3.00 12-Vona-Hamilton vs 4-Brandes-Wang
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.00   2.00 1-Morris-Lent-Taylor vs 10-Tafjord-Anderson
+  150          4.00   1.00 3-Eng-Sieg vs 8-Ring-Christensen
+        200    1.00   4.00 4-Brandes-Wang vs 2-Miller-Romeo
+        200    1.00   4.00 7-Delfs-Christie vs 11-Ford-Vulcan
+  300          5.00   0.00 9-Grubbs-Galer vs 6-Krah-Kasperkiewicz
+        200    1.00   4.00 12-Vona-Hamilton vs 5-Kasperkiewicz-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.50   2.50 1-Morris-Lent-Taylor vs 10-Tafjord-Anderson
+        300    2.50   2.50 3-Eng-Sieg vs 8-Ring-Christensen
+        500    0.50   4.50 4-Brandes-Wang vs 2-Miller-Romeo
+        130    4.50   0.50 7-Delfs-Christie vs 11-Ford-Vulcan
+        500    0.50   4.50 9-Grubbs-Galer vs 6-Krah-Kasperkiewicz
+        130    4.50   0.50 12-Vona-Hamilton vs 5-Kasperkiewicz-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          0.50   4.50 1-Morris-Lent-Taylor vs 10-Tafjord-Anderson
+  680          0.50   4.50 3-Eng-Sieg vs 8-Ring-Christensen
+  710          2.50   2.50 4-Brandes-Wang vs 2-Miller-Romeo
+ 1430          4.50   0.50 7-Delfs-Christie vs 11-Ford-Vulcan
+ 1430          4.50   0.50 9-Grubbs-Galer vs 6-Krah-Kasperkiewicz
+  710          2.50   2.50 12-Vona-Hamilton vs 5-Kasperkiewicz-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   2.50 1-Morris-Lent-Taylor vs 7-Delfs-Christie
+        180    0.50   4.50 2-Miller-Romeo vs 10-Tafjord-Anderson
+        100    2.50   2.50 4-Brandes-Wang vs 9-Grubbs-Galer
+         50    4.00   1.00 5-Kasperkiewicz-Hall vs 3-Eng-Sieg
+  100          5.00   0.00 8-Ring-Christensen vs 11-Ford-Vulcan
+        180    0.50   4.50 12-Vona-Hamilton vs 6-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1510          5.00   0.00 1-Morris-Lent-Taylor vs 7-Delfs-Christie
+  510          1.00   4.00 2-Miller-Romeo vs 10-Tafjord-Anderson
+ 1010          3.50   1.50 4-Brandes-Wang vs 9-Grubbs-Galer
+  510          1.00   4.00 5-Kasperkiewicz-Hall vs 3-Eng-Sieg
+ 1010          3.50   1.50 8-Ring-Christensen vs 11-Ford-Vulcan
+  510          1.00   4.00 12-Vona-Hamilton vs 6-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   0.00 1-Morris-Lent-Taylor vs 7-Delfs-Christie
+        420    3.50   1.50 2-Miller-Romeo vs 10-Tafjord-Anderson
+        420    3.50   1.50 4-Brandes-Wang vs 9-Grubbs-Galer
+        490    0.50   4.50 5-Kasperkiewicz-Hall vs 3-Eng-Sieg
+        430    2.00   3.00 8-Ring-Christensen vs 11-Ford-Vulcan
+        490    0.50   4.50 12-Vona-Hamilton vs 6-Krah-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          4.00   1.00 2-Miller-Romeo vs 8-Ring-Christensen
+  200          1.00   4.00 5-Kasperkiewicz-Hall vs 1-Morris-Lent-Taylor
+  170          0.00   5.00 6-Krah-Kasperkiewicz vs 4-Brandes-Wang
+  450          4.00   1.00 10-Tafjord-Anderson vs 3-Eng-Sieg
+  450          4.00   1.00 11-Ford-Vulcan vs 9-Grubbs-Galer
+  420          2.00   3.00 12-Vona-Hamilton vs 7-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          3.00   2.00 2-Miller-Romeo vs 8-Ring-Christensen
+  650          3.00   2.00 5-Kasperkiewicz-Hall vs 1-Morris-Lent-Taylor
+  650          3.00   2.00 6-Krah-Kasperkiewicz vs 4-Brandes-Wang
+  620          0.00   5.00 10-Tafjord-Anderson vs 3-Eng-Sieg
+  650          3.00   2.00 11-Ford-Vulcan vs 9-Grubbs-Galer
+  650          3.00   2.00 12-Vona-Hamilton vs 7-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   2.00 2-Miller-Romeo vs 8-Ring-Christensen
+  100          4.00   1.00 5-Kasperkiewicz-Hall vs 1-Morris-Lent-Taylor
+        400    0.00   5.00 6-Krah-Kasperkiewicz vs 4-Brandes-Wang
+  150          5.00   0.00 10-Tafjord-Anderson vs 3-Eng-Sieg
+        130    1.00   4.00 11-Ford-Vulcan vs 9-Grubbs-Galer
+        110    2.00   3.00 12-Vona-Hamilton vs 7-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          3.50   1.50 3-Eng-Sieg vs 9-Grubbs-Galer
+         50    0.50   4.50 6-Krah-Kasperkiewicz vs 2-Miller-Romeo
+ 1100          5.00   0.00 7-Delfs-Christie vs 5-Kasperkiewicz-Hall
+  990          3.50   1.50 10-Tafjord-Anderson vs 4-Brandes-Wang
+         50    0.50   4.50 11-Ford-Vulcan vs 1-Morris-Lent-Taylor
+  460          2.00   3.00 12-Vona-Hamilton vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        120    1.00   4.00 3-Eng-Sieg vs 9-Grubbs-Galer
+        150    0.00   5.00 6-Krah-Kasperkiewicz vs 2-Miller-Romeo
+         90    4.00   1.00 7-Delfs-Christie vs 5-Kasperkiewicz-Hall
+        110    2.00   3.00 10-Tafjord-Anderson vs 4-Brandes-Wang
+         90    4.00   1.00 11-Ford-Vulcan vs 1-Morris-Lent-Taylor
+         90    4.00   1.00 12-Vona-Hamilton vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.50   4.50 3-Eng-Sieg vs 9-Grubbs-Galer
+   50          3.00   2.00 6-Krah-Kasperkiewicz vs 2-Miller-Romeo
+   50          3.00   2.00 7-Delfs-Christie vs 5-Kasperkiewicz-Hall
+  100          5.00   0.00 10-Tafjord-Anderson vs 4-Brandes-Wang
+   50          3.00   2.00 11-Ford-Vulcan vs 1-Morris-Lent-Taylor
+        420    0.50   4.50 12-Vona-Hamilton vs 8-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.50   2.50 2-Miller-Romeo vs 11-Ford-Vulcan
+        170    5.00   0.00 4-Brandes-Wang vs 1-Morris-Lent-Taylor
+        630    2.50   2.50 5-Kasperkiewicz-Hall vs 10-Tafjord-Anderson
+        630    2.50   2.50 7-Delfs-Christie vs 3-Eng-Sieg
+        630    2.50   2.50 8-Ring-Christensen vs 6-Krah-Kasperkiewicz
+        660    0.00   5.00 12-Vona-Hamilton vs 9-Grubbs-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    0.00   5.00 2-Miller-Romeo vs 11-Ford-Vulcan
+        620    3.50   1.50 4-Brandes-Wang vs 1-Morris-Lent-Taylor
+        650    1.50   3.50 5-Kasperkiewicz-Hall vs 10-Tafjord-Anderson
+        620    3.50   1.50 7-Delfs-Christie vs 3-Eng-Sieg
+  100          5.00   0.00 8-Ring-Christensen vs 6-Krah-Kasperkiewicz
+        650    1.50   3.50 12-Vona-Hamilton vs 9-Grubbs-Galer
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    3.50   1.50 2-Miller-Romeo vs 11-Ford-Vulcan
+        430    1.50   3.50 4-Brandes-Wang vs 1-Morris-Lent-Taylor
+        430    1.50   3.50 5-Kasperkiewicz-Hall vs 10-Tafjord-Anderson
+        400    3.50   1.50 7-Delfs-Christie vs 3-Eng-Sieg
+        460    0.00   5.00 8-Ring-Christensen vs 6-Krah-Kasperkiewicz
+  100          5.00   0.00 12-Vona-Hamilton vs 9-Grubbs-Galer
+----------------------------------------------------------------------
