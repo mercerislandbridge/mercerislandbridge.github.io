@@ -1,0 +1,397 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>September 15, 2026 |CLUB NO.>158048    | 09/15/2026 21:44
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club International Fund      |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=6/C=3                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Dex Stuberg            Cliff Marx               C   .     .     .   |   .     .     .     85.00  50.60          
+
+ 2 Hugh Hendrickson       Laura Miller             B   .     .     .   |   .     .     .     62.50  37.20          
+
+ 3 David Wright           Brian Zaugg              B   4     3     .   |   2     2     .     95.50  56.85  1.11(OA)
+
+ 4 Dave Grubbs            Sue Anderson             A   .     .     .   |   .     .     .     81.50  48.51          
+
+ 5 Dion Sorenson          Matt Gaffney             C   .     .     .   |   .     .     .     73.00  43.45          
+
+ 6 Bogdan Vulcan          Aaron Mohrman            A   .     .     .   |   .     .     .     81.50  48.51          
+
+ 7 Joseph Grill           Shannon Kasperkiewicz    C   5     4     1   |   3     .     1     90.00  53.57  1.14(OC)
+
+ 8 David Taylor           John Krah                B   1     1     .   |   1     1     .    103.00  61.31  2.63(OA)
+
+
+                                          Totals                                            672.00       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>September 15, 2026 |CLUB NO.>158048    | 09/15/2026 21:44
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club International Fund      |MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   84.0 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=8/B=4/C=2                       ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Christensen       Becky Stevens            A   .     .     .   |   .     .     .     84.00  50.00          
+
+ 2 Paul Schwaighart       Brad Rind                A   .     .     .   |   3     .     .     89.00  52.98  0.66(SA)
+
+ 3 Bryan Delfs            Stanford Christie        A   .     .     .   |   .     .     .     85.50  50.89          
+
+ 4 Jennifer Wang          Luke Brandes             C   .     .     .   |   .     .     .     52.00  30.95          
+
+ 5 Nick Tipton            Craig Conner             B   3     2     .   |   2     1     .     96.00  57.14  1.48(OA)
+
+ 6 Kim Eng                Jeffrey Ford             A   2     .     .   |   1     .     .    100.00  59.52  1.97(OA)
+
+ 7 Eric Sieg              Nathan Kasperkiewicz     B   .     .     .   |   .     .     .     79.00  47.02          
+
+ 8 Chris Morris-Lent      Cassandra Hall           C   .     .     2   |   .     2     1     86.50  51.49  0.86(OC)
+
+
+                                          Totals                                            672.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.50   3.50 1-Stuberg-Marx vs 1-Christensen-Stevens
+        100    0.00   7.00 2-Hendrickson-Miller vs 3-Delfs-Christie
+         50    1.50   5.50 3-Wright-Zaugg vs 5-Tipton-Conner
+   90          3.50   3.50 4-Grubbs-Anderson vs 7-Sieg-Kasperkiewicz
+  100          5.00   2.00 5-Sorenson-Gaffney vs 2-Schwaighart-Rind
+  120          6.00   1.00 6-Vulcan-Mohrman vs 4-Wang-Brandes
+         50    1.50   5.50 7-Grill-Kasperkiewicz vs 6-Eng-Ford
+  180          7.00   0.00 8-Taylor-Krah vs 8-Morris-Lent-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    3.50   3.50 1-Stuberg-Marx vs 1-Christensen-Stevens
+        150    1.50   5.50 2-Hendrickson-Miller vs 3-Delfs-Christie
+        200    0.00   7.00 3-Wright-Zaugg vs 5-Tipton-Conner
+        110    3.50   3.50 4-Grubbs-Anderson vs 7-Sieg-Kasperkiewicz
+        100    5.00   2.00 5-Sorenson-Gaffney vs 2-Schwaighart-Rind
+   50          6.00   1.00 6-Vulcan-Mohrman vs 4-Wang-Brandes
+        150    1.50   5.50 7-Grill-Kasperkiewicz vs 6-Eng-Ford
+  170          7.00   0.00 8-Taylor-Krah vs 8-Morris-Lent-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    2.50   4.50 1-Stuberg-Marx vs 1-Christensen-Stevens
+  200          7.00   0.00 2-Hendrickson-Miller vs 3-Delfs-Christie
+         50    5.50   1.50 3-Wright-Zaugg vs 5-Tipton-Conner
+        150    0.00   7.00 4-Grubbs-Anderson vs 7-Sieg-Kasperkiewicz
+        100    2.50   4.50 5-Sorenson-Gaffney vs 2-Schwaighart-Rind
+        100    2.50   4.50 6-Vulcan-Mohrman vs 4-Wang-Brandes
+         50    5.50   1.50 7-Grill-Kasperkiewicz vs 6-Eng-Ford
+        100    2.50   4.50 8-Taylor-Krah vs 8-Morris-Lent-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   1.00 1-Stuberg-Marx vs 8-Morris-Lent-Hall
+  100          6.00   1.00 2-Hendrickson-Miller vs 2-Schwaighart-Rind
+        120    4.00   3.00 3-Wright-Zaugg vs 4-Wang-Brandes
+        500    1.00   6.00 4-Grubbs-Anderson vs 6-Eng-Ford
+       1100    0.00   7.00 5-Sorenson-Gaffney vs 1-Christensen-Stevens
+        150    2.50   4.50 6-Vulcan-Mohrman vs 3-Delfs-Christie
+  100          6.00   1.00 7-Grill-Kasperkiewicz vs 5-Tipton-Conner
+        150    2.50   4.50 8-Taylor-Krah vs 7-Sieg-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1100    0.00   7.00 1-Stuberg-Marx vs 8-Morris-Lent-Hall
+        150    2.00   5.00 2-Hendrickson-Miller vs 2-Schwaighart-Rind
+  200          7.00   0.00 3-Wright-Zaugg vs 4-Wang-Brandes
+        150    2.00   5.00 4-Grubbs-Anderson vs 6-Eng-Ford
+        150    2.00   5.00 5-Sorenson-Gaffney vs 1-Christensen-Stevens
+  100          6.00   1.00 6-Vulcan-Mohrman vs 3-Delfs-Christie
+   50          4.50   2.50 7-Grill-Kasperkiewicz vs 5-Tipton-Conner
+   50          4.50   2.50 8-Taylor-Krah vs 7-Sieg-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          0.00   7.00 1-Stuberg-Marx vs 8-Morris-Lent-Hall
+  450          4.50   2.50 2-Hendrickson-Miller vs 2-Schwaighart-Rind
+  480          7.00   0.00 3-Wright-Zaugg vs 4-Wang-Brandes
+  450          4.50   2.50 4-Grubbs-Anderson vs 6-Eng-Ford
+  400          1.00   6.00 5-Sorenson-Gaffney vs 1-Christensen-Stevens
+  450          4.50   2.50 6-Vulcan-Mohrman vs 3-Delfs-Christie
+  420          2.00   5.00 7-Grill-Kasperkiewicz vs 5-Tipton-Conner
+  450          4.50   2.50 8-Taylor-Krah vs 7-Sieg-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.00   2.00 1-Stuberg-Marx vs 7-Sieg-Kasperkiewicz
+        800    0.00   7.00 2-Hendrickson-Miller vs 1-Christensen-Stevens
+  300          7.00   0.00 3-Wright-Zaugg vs 3-Delfs-Christie
+        120    3.00   4.00 4-Grubbs-Anderson vs 5-Tipton-Conner
+  100          5.00   2.00 5-Sorenson-Gaffney vs 8-Morris-Lent-Hall
+        140    1.00   6.00 6-Vulcan-Mohrman vs 2-Schwaighart-Rind
+  100          5.00   2.00 7-Grill-Kasperkiewicz vs 4-Wang-Brandes
+        130    2.00   5.00 8-Taylor-Krah vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          7.00   0.00 1-Stuberg-Marx vs 7-Sieg-Kasperkiewicz
+  420          2.00   5.00 2-Hendrickson-Miller vs 1-Christensen-Stevens
+  420          2.00   5.00 3-Wright-Zaugg vs 3-Delfs-Christie
+  420          2.00   5.00 4-Grubbs-Anderson vs 5-Tipton-Conner
+  420          2.00   5.00 5-Sorenson-Gaffney vs 8-Morris-Lent-Hall
+  420          2.00   5.00 6-Vulcan-Mohrman vs 2-Schwaighart-Rind
+  450          5.50   1.50 7-Grill-Kasperkiewicz vs 4-Wang-Brandes
+  450          5.50   1.50 8-Taylor-Krah vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          7.00   0.00 1-Stuberg-Marx vs 7-Sieg-Kasperkiewicz
+  140          4.50   2.50 2-Hendrickson-Miller vs 1-Christensen-Stevens
+  100          0.50   6.50 3-Wright-Zaugg vs 3-Delfs-Christie
+  140          4.50   2.50 4-Grubbs-Anderson vs 5-Tipton-Conner
+  110          2.00   5.00 5-Sorenson-Gaffney vs 8-Morris-Lent-Hall
+  100          0.50   6.50 6-Vulcan-Mohrman vs 2-Schwaighart-Rind
+  140          4.50   2.50 7-Grill-Kasperkiewicz vs 4-Wang-Brandes
+  140          4.50   2.50 8-Taylor-Krah vs 6-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.00   4.00 1-Stuberg-Marx vs 6-Eng-Ford
+        150    3.00   4.00 2-Hendrickson-Miller vs 8-Morris-Lent-Hall
+        150    3.00   4.00 3-Wright-Zaugg vs 2-Schwaighart-Rind
+        150    3.00   4.00 4-Grubbs-Anderson vs 4-Wang-Brandes
+        150    3.00   4.00 5-Sorenson-Gaffney vs 7-Sieg-Kasperkiewicz
+  140          7.00   0.00 6-Vulcan-Mohrman vs 1-Christensen-Stevens
+        150    3.00   4.00 7-Grill-Kasperkiewicz vs 3-Delfs-Christie
+        150    3.00   4.00 8-Taylor-Krah vs 5-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    1.50   5.50 1-Stuberg-Marx vs 6-Eng-Ford
+        400    0.00   7.00 2-Hendrickson-Miller vs 8-Morris-Lent-Hall
+  100          4.50   2.50 3-Wright-Zaugg vs 2-Schwaighart-Rind
+  150          6.00   1.00 4-Grubbs-Anderson vs 4-Wang-Brandes
+        110    1.50   5.50 5-Sorenson-Gaffney vs 7-Sieg-Kasperkiewicz
+   50          3.00   4.00 6-Vulcan-Mohrman vs 1-Christensen-Stevens
+  200          7.00   0.00 7-Grill-Kasperkiewicz vs 3-Delfs-Christie
+  100          4.50   2.50 8-Taylor-Krah vs 5-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.00   7.00 1-Stuberg-Marx vs 6-Eng-Ford
+        140    1.00   6.00 2-Hendrickson-Miller vs 8-Morris-Lent-Hall
+   50          4.50   2.50 3-Wright-Zaugg vs 2-Schwaighart-Rind
+   50          4.50   2.50 4-Grubbs-Anderson vs 4-Wang-Brandes
+   50          4.50   2.50 5-Sorenson-Gaffney vs 7-Sieg-Kasperkiewicz
+  100          7.00   0.00 6-Vulcan-Mohrman vs 1-Christensen-Stevens
+        110    2.00   5.00 7-Grill-Kasperkiewicz vs 3-Delfs-Christie
+   50          4.50   2.50 8-Taylor-Krah vs 5-Tipton-Conner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   6.00 1-Stuberg-Marx vs 5-Tipton-Conner
+        230    5.00   2.00 2-Hendrickson-Miller vs 7-Sieg-Kasperkiewicz
+        100    7.00   0.00 3-Wright-Zaugg vs 1-Christensen-Stevens
+        620    3.00   4.00 4-Grubbs-Anderson vs 3-Delfs-Christie
+        620    3.00   4.00 5-Sorenson-Gaffney vs 6-Eng-Ford
+        170    6.00   1.00 6-Vulcan-Mohrman vs 8-Morris-Lent-Hall
+       1270    0.00   7.00 7-Grill-Kasperkiewicz vs 2-Schwaighart-Rind
+        620    3.00   4.00 8-Taylor-Krah vs 4-Wang-Brandes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   1.00 1-Stuberg-Marx vs 5-Tipton-Conner
+   50          3.50   3.50 2-Hendrickson-Miller vs 7-Sieg-Kasperkiewicz
+        130    1.00   6.00 3-Wright-Zaugg vs 1-Christensen-Stevens
+        420    0.00   7.00 4-Grubbs-Anderson vs 3-Delfs-Christie
+         50    2.00   5.00 5-Sorenson-Gaffney vs 6-Eng-Ford
+   50          3.50   3.50 6-Vulcan-Mohrman vs 8-Morris-Lent-Hall
+  140          5.00   2.00 7-Grill-Kasperkiewicz vs 2-Schwaighart-Rind
+  450          7.00   0.00 8-Taylor-Krah vs 4-Wang-Brandes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        460    2.00   5.00 1-Stuberg-Marx vs 5-Tipton-Conner
+        430    5.00   2.00 2-Hendrickson-Miller vs 7-Sieg-Kasperkiewicz
+        460    2.00   5.00 3-Wright-Zaugg vs 1-Christensen-Stevens
+        420    6.00   1.00 4-Grubbs-Anderson vs 3-Delfs-Christie
+        460    2.00   5.00 5-Sorenson-Gaffney vs 6-Eng-Ford
+        460    2.00   5.00 6-Vulcan-Mohrman vs 8-Morris-Lent-Hall
+        460    2.00   5.00 7-Grill-Kasperkiewicz vs 2-Schwaighart-Rind
+        400    7.00   0.00 8-Taylor-Krah vs 4-Wang-Brandes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   0.00 1-Stuberg-Marx vs 4-Wang-Brandes
+        660    2.00   5.00 2-Hendrickson-Miller vs 6-Eng-Ford
+        130    5.00   2.00 3-Wright-Zaugg vs 8-Morris-Lent-Hall
+        660    2.00   5.00 4-Grubbs-Anderson vs 2-Schwaighart-Rind
+        660    2.00   5.00 5-Sorenson-Gaffney vs 5-Tipton-Conner
+        660    2.00   5.00 6-Vulcan-Mohrman vs 7-Sieg-Kasperkiewicz
+        100    6.00   1.00 7-Grill-Kasperkiewicz vs 1-Christensen-Stevens
+        660    2.00   5.00 8-Taylor-Krah vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.50   3.50 1-Stuberg-Marx vs 4-Wang-Brandes
+        150    3.50   3.50 2-Hendrickson-Miller vs 6-Eng-Ford
+        130    5.00   2.00 3-Wright-Zaugg vs 8-Morris-Lent-Hall
+   50          6.50   0.50 4-Grubbs-Anderson vs 2-Schwaighart-Rind
+        300    1.00   6.00 5-Sorenson-Gaffney vs 5-Tipton-Conner
+        400    0.00   7.00 6-Vulcan-Mohrman vs 7-Sieg-Kasperkiewicz
+   50          6.50   0.50 7-Grill-Kasperkiewicz vs 1-Christensen-Stevens
+        180    2.00   5.00 8-Taylor-Krah vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    3.50   3.50 1-Stuberg-Marx vs 4-Wang-Brandes
+        490    0.00   7.00 2-Hendrickson-Miller vs 6-Eng-Ford
+        480    3.50   3.50 3-Wright-Zaugg vs 8-Morris-Lent-Hall
+        480    3.50   3.50 4-Grubbs-Anderson vs 2-Schwaighart-Rind
+        480    3.50   3.50 5-Sorenson-Gaffney vs 5-Tipton-Conner
+        480    3.50   3.50 6-Vulcan-Mohrman vs 7-Sieg-Kasperkiewicz
+        480    3.50   3.50 7-Grill-Kasperkiewicz vs 1-Christensen-Stevens
+        450    7.00   0.00 8-Taylor-Krah vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    0.00   7.00 1-Stuberg-Marx vs 3-Delfs-Christie
+        100    4.50   2.50 2-Hendrickson-Miller vs 5-Tipton-Conner
+        120    1.00   6.00 3-Wright-Zaugg vs 7-Sieg-Kasperkiewicz
+        110    2.00   5.00 4-Grubbs-Anderson vs 1-Christensen-Stevens
+  100          7.00   0.00 5-Sorenson-Gaffney vs 4-Wang-Brandes
+        100    4.50   2.50 6-Vulcan-Mohrman vs 6-Eng-Ford
+        100    4.50   2.50 7-Grill-Kasperkiewicz vs 8-Morris-Lent-Hall
+        100    4.50   2.50 8-Taylor-Krah vs 2-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   1.00 1-Stuberg-Marx vs 3-Delfs-Christie
+        800    1.00   6.00 2-Hendrickson-Miller vs 5-Tipton-Conner
+        100    4.50   2.50 3-Wright-Zaugg vs 7-Sieg-Kasperkiewicz
+        100    4.50   2.50 4-Grubbs-Anderson vs 1-Christensen-Stevens
+  790          7.00   0.00 5-Sorenson-Gaffney vs 4-Wang-Brandes
+        400    2.00   5.00 6-Vulcan-Mohrman vs 6-Eng-Ford
+        930    0.00   7.00 7-Grill-Kasperkiewicz vs 8-Morris-Lent-Hall
+        110    3.00   4.00 8-Taylor-Krah vs 2-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          7.00   0.00 1-Stuberg-Marx vs 3-Delfs-Christie
+        200    2.00   5.00 2-Hendrickson-Miller vs 5-Tipton-Conner
+  600          5.50   1.50 3-Wright-Zaugg vs 7-Sieg-Kasperkiewicz
+        200    2.00   5.00 4-Grubbs-Anderson vs 1-Christensen-Stevens
+  600          5.50   1.50 5-Sorenson-Gaffney vs 4-Wang-Brandes
+        200    2.00   5.00 6-Vulcan-Mohrman vs 6-Eng-Ford
+        200    2.00   5.00 7-Grill-Kasperkiewicz vs 8-Morris-Lent-Hall
+        200    2.00   5.00 8-Taylor-Krah vs 2-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    3.00   4.00 1-Stuberg-Marx vs 2-Schwaighart-Rind
+        150    1.00   6.00 2-Hendrickson-Miller vs 4-Wang-Brandes
+  110          7.00   0.00 3-Wright-Zaugg vs 6-Eng-Ford
+  100          5.00   2.00 4-Grubbs-Anderson vs 8-Morris-Lent-Hall
+  100          5.00   2.00 5-Sorenson-Gaffney vs 3-Delfs-Christie
+        150    1.00   6.00 6-Vulcan-Mohrman vs 5-Tipton-Conner
+  100          5.00   2.00 7-Grill-Kasperkiewicz vs 7-Sieg-Kasperkiewicz
+        150    1.00   6.00 8-Taylor-Krah vs 1-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    5.50   1.50 1-Stuberg-Marx vs 2-Schwaighart-Rind
+        650    2.00   5.00 2-Hendrickson-Miller vs 4-Wang-Brandes
+        650    2.00   5.00 3-Wright-Zaugg vs 6-Eng-Ford
+        620    5.50   1.50 4-Grubbs-Anderson vs 8-Morris-Lent-Hall
+        680    0.00   7.00 5-Sorenson-Gaffney vs 3-Delfs-Christie
+        620    5.50   1.50 6-Vulcan-Mohrman vs 5-Tipton-Conner
+        650    2.00   5.00 7-Grill-Kasperkiewicz vs 7-Sieg-Kasperkiewicz
+        620    5.50   1.50 8-Taylor-Krah vs 1-Christensen-Stevens
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   5.50 1-Stuberg-Marx vs 2-Schwaighart-Rind
+         50    1.50   5.50 2-Hendrickson-Miller vs 4-Wang-Brandes
+  130          5.50   1.50 3-Wright-Zaugg vs 6-Eng-Ford
+  100          4.00   3.00 4-Grubbs-Anderson vs 8-Morris-Lent-Hall
+         50    1.50   5.50 5-Sorenson-Gaffney vs 3-Delfs-Christie
+         50    1.50   5.50 6-Vulcan-Mohrman vs 5-Tipton-Conner
+  130          5.50   1.50 7-Grill-Kasperkiewicz vs 7-Sieg-Kasperkiewicz
+  300          7.00   0.00 8-Taylor-Krah vs 1-Christensen-Stevens
+----------------------------------------------------------------------
