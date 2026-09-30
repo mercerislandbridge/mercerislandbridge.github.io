@@ -1,0 +1,332 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>September 29, 2026 |CLUB NO.>158048    | 09/29/2026 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   54.0 |TOP>   4 |MP LIMITS>None/4000/1200 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=3                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Bryan Delfs            Stanford Christie        A    1     .     .     67.50  62.50  1.00(A) 
+
+ 2 Arjun Chaunal          Mudit Chaunal            C    .     .     .     43.50  40.28          
+
+ 3 James Hamilton         Susan Cothern            C    .     .     .     43.00  39.81          
+
+ 4 Zhenzhong Guo          Rui Gong                 B    .     .     .     49.00  45.37          
+
+ 5 Paul Schwaighart       Brad Rind                A    .     .     .     56.50  52.31          
+
+ 6 Bogdan Vulcan          Nathan Kasperkiewicz     B    .     .     .     47.00  43.52          
+
+ 7 Mike Christensen       Brian Zaugg              A    3     .     .     61.50  56.94  0.50(A) 
+
+ 8 Aaron Mohrman          Cassandra Hall           C    4     1     1     58.50  54.17  0.48(B) 
+
+ 9 Christopher Jarvis     Adam Ruprecht            B    .     2     .     51.50  47.69  0.34(B) 
+
+10 Kim Eng                Eric Sieg                A    2     .     .     62.00  57.41  0.70(A) 
+
+
+                                          Totals                         540.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  450          2.50   1.50 1-Delfs-Christie vs 4-Guo-Gong
+         50    0.00   4.00 2-Chaunal-Chaunal vs 9-Jarvis-Ruprecht
+  450          2.50   1.50 3-Hamilton-Cothern vs 7-Christensen-Zaugg
+  450          2.50   1.50 5-Schwaighart-Rind vs 6-Vulcan-Kasperkiewicz
+  450          2.50   1.50 10-Eng-Sieg vs 8-Mohrman-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.00   3.00 1-Delfs-Christie vs 4-Guo-Gong
+        120    3.00   1.00 2-Chaunal-Chaunal vs 9-Jarvis-Ruprecht
+        140    1.00   3.00 3-Hamilton-Cothern vs 7-Christensen-Zaugg
+        110    4.00   0.00 5-Schwaighart-Rind vs 6-Vulcan-Kasperkiewicz
+        140    1.00   3.00 10-Eng-Sieg vs 8-Mohrman-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          3.00   1.00 1-Delfs-Christie vs 4-Guo-Gong
+  170          0.50   3.50 2-Chaunal-Chaunal vs 9-Jarvis-Ruprecht
+  170          0.50   3.50 3-Hamilton-Cothern vs 7-Christensen-Zaugg
+  420          3.00   1.00 5-Schwaighart-Rind vs 6-Vulcan-Kasperkiewicz
+  420          3.00   1.00 10-Eng-Sieg vs 8-Mohrman-Hall
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          4.00   0.00 2-Chaunal-Chaunal vs 5-Schwaighart-Rind
+        630    0.00   4.00 3-Hamilton-Cothern vs 1-Delfs-Christie
+        180    1.00   3.00 4-Guo-Gong vs 8-Mohrman-Hall
+        140    3.00   1.00 6-Vulcan-Kasperkiewicz vs 7-Christensen-Zaugg
+        150    2.00   2.00 10-Eng-Sieg vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          3.50   0.50 2-Chaunal-Chaunal vs 5-Schwaighart-Rind
+        100    1.50   2.50 3-Hamilton-Cothern vs 1-Delfs-Christie
+        100    1.50   2.50 4-Guo-Gong vs 8-Mohrman-Hall
+  620          3.50   0.50 6-Vulcan-Kasperkiewicz vs 7-Christensen-Zaugg
+        200    0.00   4.00 10-Eng-Sieg vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   2.50 2-Chaunal-Chaunal vs 5-Schwaighart-Rind
+        500    0.00   4.00 3-Hamilton-Cothern vs 1-Delfs-Christie
+         50    3.50   0.50 4-Guo-Gong vs 8-Mohrman-Hall
+        100    1.50   2.50 6-Vulcan-Kasperkiewicz vs 7-Christensen-Zaugg
+         50    3.50   0.50 10-Eng-Sieg vs 9-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    2.50   1.50 3-Hamilton-Cothern vs 6-Vulcan-Kasperkiewicz
+        600    4.00   0.00 4-Guo-Gong vs 2-Chaunal-Chaunal
+        660    0.50   3.50 5-Schwaighart-Rind vs 9-Jarvis-Ruprecht
+        630    2.50   1.50 7-Christensen-Zaugg vs 8-Mohrman-Hall
+        660    0.50   3.50 10-Eng-Sieg vs 1-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          2.00   2.00 3-Hamilton-Cothern vs 6-Vulcan-Kasperkiewicz
+   50          2.00   2.00 4-Guo-Gong vs 2-Chaunal-Chaunal
+  100          4.00   0.00 5-Schwaighart-Rind vs 9-Jarvis-Ruprecht
+   50          2.00   2.00 7-Christensen-Zaugg vs 8-Mohrman-Hall
+        470    0.00   4.00 10-Eng-Sieg vs 1-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    2.00   2.00 3-Hamilton-Cothern vs 6-Vulcan-Kasperkiewicz
+       1050    0.00   4.00 4-Guo-Gong vs 2-Chaunal-Chaunal
+        200    1.00   3.00 5-Schwaighart-Rind vs 9-Jarvis-Ruprecht
+  600          4.00   0.00 7-Christensen-Zaugg vs 8-Mohrman-Hall
+  110          3.00   1.00 10-Eng-Sieg vs 1-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    0.50   3.50 4-Guo-Gong vs 7-Christensen-Zaugg
+        130    3.00   1.00 5-Schwaighart-Rind vs 3-Hamilton-Cothern
+        130    3.00   1.00 6-Vulcan-Kasperkiewicz vs 1-Delfs-Christie
+        630    0.50   3.50 8-Mohrman-Hall vs 9-Jarvis-Ruprecht
+        130    3.00   1.00 10-Eng-Sieg vs 2-Chaunal-Chaunal
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    0.50   3.50 4-Guo-Gong vs 7-Christensen-Zaugg
+   50          2.50   1.50 5-Schwaighart-Rind vs 3-Hamilton-Cothern
+        420    0.50   3.50 6-Vulcan-Kasperkiewicz vs 1-Delfs-Christie
+   50          2.50   1.50 8-Mohrman-Hall vs 9-Jarvis-Ruprecht
+  100          4.00   0.00 10-Eng-Sieg vs 2-Chaunal-Chaunal
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.00   3.00 4-Guo-Gong vs 7-Christensen-Zaugg
+  620          4.00   0.00 5-Schwaighart-Rind vs 3-Hamilton-Cothern
+        420    0.00   4.00 6-Vulcan-Kasperkiewicz vs 1-Delfs-Christie
+        100    2.00   2.00 8-Mohrman-Hall vs 9-Jarvis-Ruprecht
+  100          3.00   1.00 10-Eng-Sieg vs 2-Chaunal-Chaunal
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1460    0.50   3.50 5-Schwaighart-Rind vs 8-Mohrman-Hall
+        680    4.00   0.00 6-Vulcan-Kasperkiewicz vs 4-Guo-Gong
+       1430    2.00   2.00 7-Christensen-Zaugg vs 2-Chaunal-Chaunal
+       1460    0.50   3.50 9-Jarvis-Ruprecht vs 1-Delfs-Christie
+        710    3.00   1.00 10-Eng-Sieg vs 3-Hamilton-Cothern
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  510          1.00   3.00 5-Schwaighart-Rind vs 8-Mohrman-Hall
+ 1090          3.00   1.00 6-Vulcan-Kasperkiewicz vs 4-Guo-Gong
+ 1310          4.00   0.00 7-Christensen-Zaugg vs 2-Chaunal-Chaunal
+        650    0.00   4.00 9-Jarvis-Ruprecht vs 1-Delfs-Christie
+  850          2.00   2.00 10-Eng-Sieg vs 3-Hamilton-Cothern
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        480    2.50   1.50 5-Schwaighart-Rind vs 8-Mohrman-Hall
+        510    1.00   3.00 6-Vulcan-Kasperkiewicz vs 4-Guo-Gong
+        480    2.50   1.50 7-Christensen-Zaugg vs 2-Chaunal-Chaunal
+        450    4.00   0.00 9-Jarvis-Ruprecht vs 1-Delfs-Christie
+        980    0.00   4.00 10-Eng-Sieg vs 3-Hamilton-Cothern
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    3.50   0.50 1-Delfs-Christie vs 2-Chaunal-Chaunal
+        660    1.00   3.00 6-Vulcan-Kasperkiewicz vs 9-Jarvis-Ruprecht
+       1370    0.00   4.00 7-Christensen-Zaugg vs 5-Schwaighart-Rind
+        630    3.50   0.50 8-Mohrman-Hall vs 3-Hamilton-Cothern
+        650    2.00   2.00 10-Eng-Sieg vs 4-Guo-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          4.00   0.00 1-Delfs-Christie vs 2-Chaunal-Chaunal
+         50    1.00   3.00 6-Vulcan-Kasperkiewicz vs 9-Jarvis-Ruprecht
+  400          2.50   1.50 7-Christensen-Zaugg vs 5-Schwaighart-Rind
+        100    0.00   4.00 8-Mohrman-Hall vs 3-Hamilton-Cothern
+  400          2.50   1.50 10-Eng-Sieg vs 4-Guo-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          1.00   3.00 1-Delfs-Christie vs 2-Chaunal-Chaunal
+  110          2.00   2.00 6-Vulcan-Kasperkiewicz vs 9-Jarvis-Ruprecht
+        110    0.00   4.00 7-Christensen-Zaugg vs 5-Schwaighart-Rind
+  130          3.00   1.00 8-Mohrman-Hall vs 3-Hamilton-Cothern
+  300          4.00   0.00 10-Eng-Sieg vs 4-Guo-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          4.00   0.00 2-Chaunal-Chaunal vs 3-Hamilton-Cothern
+        600    1.00   3.00 7-Christensen-Zaugg vs 1-Delfs-Christie
+        170    2.50   1.50 8-Mohrman-Hall vs 6-Vulcan-Kasperkiewicz
+        620    0.00   4.00 9-Jarvis-Ruprecht vs 4-Guo-Gong
+        170    2.50   1.50 10-Eng-Sieg vs 5-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   2.00 2-Chaunal-Chaunal vs 3-Hamilton-Cothern
+        650    2.00   2.00 7-Christensen-Zaugg vs 1-Delfs-Christie
+        650    2.00   2.00 8-Mohrman-Hall vs 6-Vulcan-Kasperkiewicz
+        650    2.00   2.00 9-Jarvis-Ruprecht vs 4-Guo-Gong
+        650    2.00   2.00 10-Eng-Sieg vs 5-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  710          2.50   1.50 2-Chaunal-Chaunal vs 3-Hamilton-Cothern
+  680          0.50   3.50 7-Christensen-Zaugg vs 1-Delfs-Christie
+  680          0.50   3.50 8-Mohrman-Hall vs 6-Vulcan-Kasperkiewicz
+ 1100          4.00   0.00 9-Jarvis-Ruprecht vs 4-Guo-Gong
+  710          2.50   1.50 10-Eng-Sieg vs 5-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    1.00   3.00 1-Delfs-Christie vs 5-Schwaighart-Rind
+        110    2.00   2.00 3-Hamilton-Cothern vs 4-Guo-Gong
+  140          4.00   0.00 8-Mohrman-Hall vs 2-Chaunal-Chaunal
+        300    0.00   4.00 9-Jarvis-Ruprecht vs 7-Christensen-Zaugg
+         50    3.00   1.00 10-Eng-Sieg vs 6-Vulcan-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    1.00   3.00 1-Delfs-Christie vs 5-Schwaighart-Rind
+  130          2.00   2.00 3-Hamilton-Cothern vs 4-Guo-Gong
+  200          4.00   0.00 8-Mohrman-Hall vs 2-Chaunal-Chaunal
+        790    0.00   4.00 9-Jarvis-Ruprecht vs 7-Christensen-Zaugg
+  140          3.00   1.00 10-Eng-Sieg vs 6-Vulcan-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          3.00   1.00 1-Delfs-Christie vs 5-Schwaighart-Rind
+        140    0.50   3.50 3-Hamilton-Cothern vs 4-Guo-Gong
+   50          3.00   1.00 8-Mohrman-Hall vs 2-Chaunal-Chaunal
+        140    0.50   3.50 9-Jarvis-Ruprecht vs 7-Christensen-Zaugg
+   50          3.00   1.00 10-Eng-Sieg vs 6-Vulcan-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.50   2.50 1-Delfs-Christie vs 8-Mohrman-Hall
+         50    1.50   2.50 2-Chaunal-Chaunal vs 6-Vulcan-Kasperkiewicz
+  430          4.00   0.00 4-Guo-Gong vs 5-Schwaighart-Rind
+  200          3.00   1.00 9-Jarvis-Ruprecht vs 3-Hamilton-Cothern
+        100    0.00   4.00 10-Eng-Sieg vs 7-Christensen-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    1.00   3.00 1-Delfs-Christie vs 8-Mohrman-Hall
+        650    1.00   3.00 2-Chaunal-Chaunal vs 6-Vulcan-Kasperkiewicz
+        620    3.00   1.00 4-Guo-Gong vs 5-Schwaighart-Rind
+        650    1.00   3.00 9-Jarvis-Ruprecht vs 3-Hamilton-Cothern
+  200          4.00   0.00 10-Eng-Sieg vs 7-Christensen-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    1.50   2.50 1-Delfs-Christie vs 8-Mohrman-Hall
+  100          4.00   0.00 2-Chaunal-Chaunal vs 6-Vulcan-Kasperkiewicz
+        150    1.50   2.50 4-Guo-Gong vs 5-Schwaighart-Rind
+        180    0.00   4.00 9-Jarvis-Ruprecht vs 3-Hamilton-Cothern
+        110    3.00   1.00 10-Eng-Sieg vs 7-Christensen-Zaugg
+----------------------------------------------------------------------
