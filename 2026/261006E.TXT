@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>October 6, 2026    |CLUB NO.>158048    | 10/06/2026 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>Club Appreciation game       |MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/2500/1250 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=8/C=4                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Rui Gong               Zhenzhong Guo            B   .     .     .   |   .     .     .     82.00  52.56          
+
+ 2 Ray Miller             Bogdan Vulcan            A   4     .     .   |   4     .     .     87.00  55.77  1.35(OA)
+
+ 3 Mike Ring              Mike Christensen         A   1     .     .   |   1     .     .    100.00  64.10  3.19(OA)
+
+ 4 Christopher Jarvis     Adam Ruprecht            B   2     1     .   |   2     1     .     90.00  57.69  2.39(OA)
+
+ 5 John Krah              David Taylor             A   .     .     .   |   .     .     .     72.00  46.15          
+
+ 6 Dion Sorenson          Matt Gaffney             C   .     .     .   |   .     .     .     52.50  33.65          
+
+ 7 Cassandra Hall         Chris Morris-Lent        C   .     .     .   |   .     .     2     69.50  44.55  0.53(SC)
+
+ 8 Ann Romeo              Bob Shelley              B   .     .     .   |   .     .     .     75.50  48.40          
+
+ 9 Shawn Abernethy        Brian Zaugg              A   .     .     .   |   .     .     .     82.00  52.56          
+
+10 Bryan Delfs            Stanford Christie        A   3     .     .   |   3     .     .     89.00  57.05  1.79(OA)
+
+11 Shannon Kasperkiewicz  Nathan Kasperkiewicz     C   .     3     .   |   6     3     1     82.50  52.88  1.04(OB)
+
+12 Aaron Mohrman          Kevin Cline              A   .     .     .   |   .     .     .     71.00  45.51          
+
+13 Margo Bingaman         Geoff Walker             C   .     .     .   |   .     .     .     55.50  35.58          
+
+14 Elaine Vona            James Hamilton           B   5     2     .   |   5     2     .     83.50  53.53  1.38(OB)
+
+
+                                          Totals                                           1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    1.00   5.00 1-Gong-Guo vs 3-Ring-Christensen
+  150          5.00   1.00 2-Miller-Vulcan vs 6-Sorenson-Gaffney
+   50          3.00   3.00 4-Jarvis-Ruprecht vs 9-Abernethy-Zaugg
+  180          6.00   0.00 5-Krah-Taylor vs 12-Mohrman-Cline
+  120          4.00   2.00 7-Hall-Morris-Lent vs 8-Romeo-Shelley
+         50    1.00   5.00 13-Bingaman-Walker vs 10-Delfs-Christie
+         50    1.00   5.00 14-Vona-Hamilton vs 11-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 1-Gong-Guo vs 3-Ring-Christensen
+  500          5.00   1.00 2-Miller-Vulcan vs 6-Sorenson-Gaffney
+  150          4.00   2.00 4-Jarvis-Ruprecht vs 9-Abernethy-Zaugg
+  130          3.00   3.00 5-Krah-Taylor vs 12-Mohrman-Cline
+  630          6.00   0.00 7-Hall-Morris-Lent vs 8-Romeo-Shelley
+  100          1.50   4.50 13-Bingaman-Walker vs 10-Delfs-Christie
+  100          1.50   4.50 14-Vona-Hamilton vs 11-Kasperkiewicz-Kasperkiewicz
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          5.00   1.00 1-Gong-Guo vs 11-Kasperkiewicz-Kasperkiewicz
+  420          5.00   1.00 2-Miller-Vulcan vs 4-Jarvis-Ruprecht
+  170          3.00   3.00 3-Ring-Christensen vs 7-Hall-Morris-Lent
+  140          2.00   4.00 5-Krah-Taylor vs 10-Delfs-Christie
+        100    0.50   5.50 6-Sorenson-Gaffney vs 13-Bingaman-Walker
+        100    0.50   5.50 8-Romeo-Shelley vs 9-Abernethy-Zaugg
+  420          5.00   1.00 14-Vona-Hamilton vs 12-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          2.50   3.50 1-Gong-Guo vs 11-Kasperkiewicz-Kasperkiewicz
+  140          2.50   3.50 2-Miller-Vulcan vs 4-Jarvis-Ruprecht
+  500          6.00   0.00 3-Ring-Christensen vs 7-Hall-Morris-Lent
+  200          4.50   1.50 5-Krah-Taylor vs 10-Delfs-Christie
+        200    0.00   6.00 6-Sorenson-Gaffney vs 13-Bingaman-Walker
+  200          4.50   1.50 8-Romeo-Shelley vs 9-Abernethy-Zaugg
+        100    1.00   5.00 14-Vona-Hamilton vs 12-Mohrman-Cline
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        920    1.50   4.50 2-Miller-Vulcan vs 12-Mohrman-Cline
+        920    1.50   4.50 3-Ring-Christensen vs 5-Krah-Taylor
+   50          5.50   0.50 4-Jarvis-Ruprecht vs 8-Romeo-Shelley
+       1190    0.00   6.00 6-Sorenson-Gaffney vs 11-Kasperkiewicz-Kasperkiewicz
+   50          5.50   0.50 7-Hall-Morris-Lent vs 1-Gong-Guo
+        400    3.00   3.00 9-Abernethy-Zaugg vs 10-Delfs-Christie
+        190    4.00   2.00 14-Vona-Hamilton vs 13-Bingaman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  990          6.00   0.00 2-Miller-Vulcan vs 12-Mohrman-Cline
+  480          2.50   3.50 3-Ring-Christensen vs 5-Krah-Taylor
+         50    0.00   6.00 4-Jarvis-Ruprecht vs 8-Romeo-Shelley
+  480          2.50   3.50 6-Sorenson-Gaffney vs 11-Kasperkiewicz-Kasperkiewicz
+  480          2.50   3.50 7-Hall-Morris-Lent vs 1-Gong-Guo
+  480          2.50   3.50 9-Abernethy-Zaugg vs 10-Delfs-Christie
+  980          5.00   1.00 14-Vona-Hamilton vs 13-Bingaman-Walker
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          6.00   0.00 3-Ring-Christensen vs 13-Bingaman-Walker
+        120    5.00   1.00 4-Jarvis-Ruprecht vs 6-Sorenson-Gaffney
+        150    1.00   5.00 5-Krah-Taylor vs 9-Abernethy-Zaugg
+        140    3.00   3.00 7-Hall-Morris-Lent vs 12-Mohrman-Cline
+        170    0.00   6.00 8-Romeo-Shelley vs 2-Miller-Vulcan
+        140    3.00   3.00 10-Delfs-Christie vs 11-Kasperkiewicz-Kasperkiewicz
+        140    3.00   3.00 14-Vona-Hamilton vs 1-Gong-Guo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    6.00   0.00 3-Ring-Christensen vs 13-Bingaman-Walker
+        420    2.50   3.50 4-Jarvis-Ruprecht vs 6-Sorenson-Gaffney
+        420    2.50   3.50 5-Krah-Taylor vs 9-Abernethy-Zaugg
+        450    0.00   6.00 7-Hall-Morris-Lent vs 12-Mohrman-Cline
+        420    2.50   3.50 8-Romeo-Shelley vs 2-Miller-Vulcan
+        420    2.50   3.50 10-Delfs-Christie vs 11-Kasperkiewicz-Kasperkiewicz
+        170    5.00   1.00 14-Vona-Hamilton vs 1-Gong-Guo
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        660    3.00   3.00 4-Jarvis-Ruprecht vs 1-Gong-Guo
+        660    3.00   3.00 5-Krah-Taylor vs 7-Hall-Morris-Lent
+        660    3.00   3.00 6-Sorenson-Gaffney vs 10-Delfs-Christie
+        660    3.00   3.00 8-Romeo-Shelley vs 13-Bingaman-Walker
+        660    3.00   3.00 9-Abernethy-Zaugg vs 3-Ring-Christensen
+        660    3.00   3.00 11-Kasperkiewicz-Kasperkiewicz vs 12-Mohrman-Cline
+        660    3.00   3.00 14-Vona-Hamilton vs 2-Miller-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          2.00   4.00 4-Jarvis-Ruprecht vs 1-Gong-Guo
+  150          5.00   1.00 5-Krah-Taylor vs 7-Hall-Morris-Lent
+        200    0.00   6.00 6-Sorenson-Gaffney vs 10-Delfs-Christie
+  110          2.00   4.00 8-Romeo-Shelley vs 13-Bingaman-Walker
+  110          2.00   4.00 9-Abernethy-Zaugg vs 3-Ring-Christensen
+  300          6.00   0.00 11-Kasperkiewicz-Kasperkiewicz vs 12-Mohrman-Cline
+  120          4.00   2.00 14-Vona-Hamilton vs 2-Miller-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    2.00   4.00 5-Krah-Taylor vs 2-Miller-Vulcan
+        590    0.00   6.00 6-Sorenson-Gaffney vs 8-Romeo-Shelley
+  200          6.00   0.00 7-Hall-Morris-Lent vs 11-Kasperkiewicz-Kasperkiewicz
+  100          5.00   1.00 9-Abernethy-Zaugg vs 1-Gong-Guo
+        170    3.00   3.00 10-Delfs-Christie vs 4-Jarvis-Ruprecht
+        100    4.00   2.00 12-Mohrman-Cline vs 13-Bingaman-Walker
+        450    1.00   5.00 14-Vona-Hamilton vs 3-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        110    2.50   3.50 5-Krah-Taylor vs 2-Miller-Vulcan
+         90    4.50   1.50 6-Sorenson-Gaffney vs 8-Romeo-Shelley
+        500    0.00   6.00 7-Hall-Morris-Lent vs 11-Kasperkiewicz-Kasperkiewicz
+        110    2.50   3.50 9-Abernethy-Zaugg vs 1-Gong-Guo
+         90    4.50   1.50 10-Delfs-Christie vs 4-Jarvis-Ruprecht
+        120    1.00   5.00 12-Mohrman-Cline vs 13-Bingaman-Walker
+   50          6.00   0.00 14-Vona-Hamilton vs 3-Ring-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        630    3.00   3.00 6-Sorenson-Gaffney vs 3-Ring-Christensen
+        620    4.00   2.00 7-Hall-Morris-Lent vs 9-Abernethy-Zaugg
+        650    1.00   5.00 8-Romeo-Shelley vs 12-Mohrman-Cline
+        170    5.00   1.00 10-Delfs-Christie vs 2-Miller-Vulcan
+  100          6.00   0.00 11-Kasperkiewicz-Kasperkiewicz vs 5-Krah-Taylor
+        650    1.00   5.00 13-Bingaman-Walker vs 1-Gong-Guo
+        650    1.00   5.00 14-Vona-Hamilton vs 4-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    0.00   6.00 6-Sorenson-Gaffney vs 3-Ring-Christensen
+  400          4.00   2.00 7-Hall-Morris-Lent vs 9-Abernethy-Zaugg
+  400          4.00   2.00 8-Romeo-Shelley vs 12-Mohrman-Cline
+  430          6.00   0.00 10-Delfs-Christie vs 2-Miller-Vulcan
+  400          4.00   2.00 11-Kasperkiewicz-Kasperkiewicz vs 5-Krah-Taylor
+  150          2.00   4.00 13-Bingaman-Walker vs 1-Gong-Guo
+        100    1.00   5.00 14-Vona-Hamilton vs 4-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  140          4.00   2.00 1-Gong-Guo vs 2-Miller-Vulcan
+  100          0.50   5.50 7-Hall-Morris-Lent vs 4-Jarvis-Ruprecht
+  110          2.00   4.00 8-Romeo-Shelley vs 10-Delfs-Christie
+  200          6.00   0.00 9-Abernethy-Zaugg vs 13-Bingaman-Walker
+  140          4.00   2.00 11-Kasperkiewicz-Kasperkiewicz vs 3-Ring-Christensen
+  100          0.50   5.50 12-Mohrman-Cline vs 6-Sorenson-Gaffney
+  140          4.00   2.00 14-Vona-Hamilton vs 5-Krah-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  120          4.00   2.00 1-Gong-Guo vs 2-Miller-Vulcan
+         50    0.00   6.00 7-Hall-Morris-Lent vs 4-Jarvis-Ruprecht
+  110          1.50   4.50 8-Romeo-Shelley vs 10-Delfs-Christie
+  110          1.50   4.50 9-Abernethy-Zaugg vs 13-Bingaman-Walker
+  120          4.00   2.00 11-Kasperkiewicz-Kasperkiewicz vs 3-Ring-Christensen
+  170          6.00   0.00 12-Mohrman-Cline vs 6-Sorenson-Gaffney
+  120          4.00   2.00 14-Vona-Hamilton vs 5-Krah-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          2.00   4.00 2-Miller-Vulcan vs 3-Ring-Christensen
+  170          5.50   0.50 8-Romeo-Shelley vs 5-Krah-Taylor
+  150          2.00   4.00 9-Abernethy-Zaugg vs 11-Kasperkiewicz-Kasperkiewicz
+  150          2.00   4.00 10-Delfs-Christie vs 1-Gong-Guo
+  150          2.00   4.00 12-Mohrman-Cline vs 4-Jarvis-Ruprecht
+  150          2.00   4.00 13-Bingaman-Walker vs 7-Hall-Morris-Lent
+  170          5.50   0.50 14-Vona-Hamilton vs 6-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.50   3.50 2-Miller-Vulcan vs 3-Ring-Christensen
+  680          5.50   0.50 8-Romeo-Shelley vs 5-Krah-Taylor
+  100          2.50   3.50 9-Abernethy-Zaugg vs 11-Kasperkiewicz-Kasperkiewicz
+   50          0.50   5.50 10-Delfs-Christie vs 1-Gong-Guo
+  680          5.50   0.50 12-Mohrman-Cline vs 4-Jarvis-Ruprecht
+   50          0.50   5.50 13-Bingaman-Walker vs 7-Hall-Morris-Lent
+  500          4.00   2.00 14-Vona-Hamilton vs 6-Sorenson-Gaffney
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          2.00   4.00 1-Gong-Guo vs 8-Romeo-Shelley
+  120          5.00   1.00 3-Ring-Christensen vs 4-Jarvis-Ruprecht
+         50    0.50   5.50 9-Abernethy-Zaugg vs 6-Sorenson-Gaffney
+  170          6.00   0.00 10-Delfs-Christie vs 12-Mohrman-Cline
+         50    0.50   5.50 11-Kasperkiewicz-Kasperkiewicz vs 2-Miller-Vulcan
+  100          3.00   3.00 13-Bingaman-Walker vs 5-Krah-Taylor
+  110          4.00   2.00 14-Vona-Hamilton vs 7-Hall-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          6.00   0.00 1-Gong-Guo vs 8-Romeo-Shelley
+  100          3.50   2.50 3-Ring-Christensen vs 4-Jarvis-Ruprecht
+  100          3.50   2.50 9-Abernethy-Zaugg vs 6-Sorenson-Gaffney
+        110    1.00   5.00 10-Delfs-Christie vs 12-Mohrman-Cline
+  100          3.50   2.50 11-Kasperkiewicz-Kasperkiewicz vs 2-Miller-Vulcan
+        140    0.00   6.00 13-Bingaman-Walker vs 5-Krah-Taylor
+  100          3.50   2.50 14-Vona-Hamilton vs 7-Hall-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  170          6.00   0.00 1-Gong-Guo vs 6-Sorenson-Gaffney
+   50          0.00   6.00 2-Miller-Vulcan vs 9-Abernethy-Zaugg
+  140          3.50   2.50 4-Jarvis-Ruprecht vs 5-Krah-Taylor
+  140          3.50   2.50 10-Delfs-Christie vs 7-Hall-Morris-Lent
+  140          3.50   2.50 11-Kasperkiewicz-Kasperkiewicz vs 13-Bingaman-Walker
+  110          1.00   5.00 12-Mohrman-Cline vs 3-Ring-Christensen
+  140          3.50   2.50 14-Vona-Hamilton vs 8-Romeo-Shelley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          1.50   4.50 1-Gong-Guo vs 6-Sorenson-Gaffney
+  480          6.00   0.00 2-Miller-Vulcan vs 9-Abernethy-Zaugg
+  420          1.50   4.50 4-Jarvis-Ruprecht vs 5-Krah-Taylor
+  450          5.00   1.00 10-Delfs-Christie vs 7-Hall-Morris-Lent
+  420          1.50   4.50 11-Kasperkiewicz-Kasperkiewicz vs 13-Bingaman-Walker
+  430          4.00   2.00 12-Mohrman-Cline vs 3-Ring-Christensen
+  420          1.50   4.50 14-Vona-Hamilton vs 8-Romeo-Shelley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    5.00   1.00 2-Miller-Vulcan vs 7-Hall-Morris-Lent
+        400    4.00   2.00 3-Ring-Christensen vs 10-Delfs-Christie
+        630    1.50   4.50 5-Krah-Taylor vs 6-Sorenson-Gaffney
+        630    1.50   4.50 11-Kasperkiewicz-Kasperkiewicz vs 8-Romeo-Shelley
+        130    6.00   0.00 12-Mohrman-Cline vs 1-Gong-Guo
+        660    0.00   6.00 13-Bingaman-Walker vs 4-Jarvis-Ruprecht
+        600    3.00   3.00 14-Vona-Hamilton vs 9-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.00   3.00 2-Miller-Vulcan vs 7-Hall-Morris-Lent
+   50          6.00   0.00 3-Ring-Christensen vs 10-Delfs-Christie
+        100    5.00   1.00 5-Krah-Taylor vs 6-Sorenson-Gaffney
+        420    0.00   6.00 11-Kasperkiewicz-Kasperkiewicz vs 8-Romeo-Shelley
+        140    3.00   3.00 12-Mohrman-Cline vs 1-Gong-Guo
+        200    1.00   5.00 13-Bingaman-Walker vs 4-Jarvis-Ruprecht
+        140    3.00   3.00 14-Vona-Hamilton vs 9-Abernethy-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1600          6.00   0.00 1-Gong-Guo vs 5-Krah-Taylor
+        100    0.50   5.50 3-Ring-Christensen vs 8-Romeo-Shelley
+  110          5.00   1.00 4-Jarvis-Ruprecht vs 11-Kasperkiewicz-Kasperkiewicz
+         50    2.50   3.50 6-Sorenson-Gaffney vs 7-Hall-Morris-Lent
+        100    0.50   5.50 12-Mohrman-Cline vs 9-Abernethy-Zaugg
+         50    2.50   3.50 13-Bingaman-Walker vs 2-Miller-Vulcan
+   90          4.00   2.00 14-Vona-Hamilton vs 10-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  230          3.00   3.00 1-Gong-Guo vs 5-Krah-Taylor
+  650          5.50   0.50 3-Ring-Christensen vs 8-Romeo-Shelley
+  650          5.50   0.50 4-Jarvis-Ruprecht vs 11-Kasperkiewicz-Kasperkiewicz
+  620          4.00   2.00 6-Sorenson-Gaffney vs 7-Hall-Morris-Lent
+  100          0.00   6.00 12-Mohrman-Cline vs 9-Abernethy-Zaugg
+  170          1.00   5.00 13-Bingaman-Walker vs 2-Miller-Vulcan
+  200          2.00   4.00 14-Vona-Hamilton vs 10-Delfs-Christie
+----------------------------------------------------------------------
