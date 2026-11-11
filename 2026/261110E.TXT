@@ -1,0 +1,443 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>November 10, 2026  |CLUB NO.>158048    | 11/10/2026 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=7/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Oyvind Tafjord         Sue Anderson             B    1     1     .    114.19  60.42  0.90(A) 
+
+ 2 Corneliu Galer         Chris Morris-Lent        C    2     2     1    111.38  58.93  0.63(A) 
+
+ 3 Shawn Abernethy        David Wright             B   4/5    3     .     97.88  51.79  0.28(B) 
+
+ 4 Christopher Jarvis     Chris Pesce              B    .     .     .     81.00  42.86          
+
+ 5 Hugh Hendrickson       Laura Miller             B    .     .     .     80.44  42.56          
+
+ 6 Brian Zaugg            Becky Stevens            A    3     .     .    103.50  54.76  0.45(A) 
+
+ 7 Jeffrey Ford           Bogdan Vulcan            A   4/5    .     .     97.88  51.79  0.25(A) 
+
+ 8 Cassandra Hall         Shannon Kasperkiewicz    C    .     .     .     86.06  45.53          
+
+ 9 Nathan Kasperkiewicz                            C    .     .     .     78.19  41.37          
+
+
+                                          Totals                         850.52       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>November 10, 2026  |CLUB NO.>158048    | 11/10/2026 21:55
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   94.5 |TOP>   7 |MP LIMITS>None/3000/1500 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=9/B=5/C=3                       ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 Kim Eng                Eric Sieg                A    .     .     .     90.00  47.62          
+
+ 2 Brad Rind              Susan Waggoner           C    2     2     .    104.00  55.03  0.63(A) 
+
+ 3 Bryan Delfs            Stanford Christie        A    3     .     .    102.50  54.23  0.45(A) 
+
+ 4 Zhenzhong Guo          Rui Gong                 B    .     .     .    100.00  52.91          
+
+ 5 Mike Christensen       Mike Ring                A    4     .     .    102.00  53.97  0.32(A) 
+
+ 6 Jennifer Wang          Luke Brandes             C    .     .     .     75.00  39.68          
+
+ 7 Craig Conner           Nick Tipton              C    1     1     1    104.50  55.29  0.90(A) 
+
+ 8 David Taylor           Muhunthan Sivapragasam   B    .     .     .     78.00  41.27          
+
+
+
+
+                                          Totals                         756.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          6.00   1.00 1-Tafjord-Anderson vs 1-Eng-Sieg
+   50          6.00   1.00 2-Galer-Morris-Lent vs 3-Delfs-Christie
+   50          6.00   1.00 3-Abernethy-Wright vs 5-Christensen-Ring
+        450    2.50   4.50 4-Jarvis-Pesce vs 7-Conner-Tipton
+        450    2.50   4.50 6-Zaugg-Stevens vs 2-Rind-Waggoner
+        450    2.50   4.50 7-Ford-Vulcan vs 4-Guo-Gong
+        460    0.00   7.00 8-Hall-Kasperkiewicz vs 6-Wang-Brandes
+        450    2.50   4.50 9-Kasperkiewicz- vs 8-Taylor-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.50   3.50 1-Tafjord-Anderson vs 1-Eng-Sieg
+        100    3.50   3.50 2-Galer-Morris-Lent vs 3-Delfs-Christie
+        200    0.50   6.50 3-Abernethy-Wright vs 5-Christensen-Ring
+        200    0.50   6.50 4-Jarvis-Pesce vs 7-Conner-Tipton
+        100    3.50   3.50 6-Zaugg-Stevens vs 2-Rind-Waggoner
+        100    3.50   3.50 7-Ford-Vulcan vs 4-Guo-Gong
+  170          6.00   1.00 8-Hall-Kasperkiewicz vs 6-Wang-Brandes
+  500          7.00   0.00 9-Kasperkiewicz- vs 8-Taylor-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  130          4.50   2.50 1-Tafjord-Anderson vs 1-Eng-Sieg
+  130          4.50   2.50 2-Galer-Morris-Lent vs 3-Delfs-Christie
+  130          4.50   2.50 3-Abernethy-Wright vs 5-Christensen-Ring
+  130          4.50   2.50 4-Jarvis-Pesce vs 7-Conner-Tipton
+        200    0.00   7.00 6-Zaugg-Stevens vs 2-Rind-Waggoner
+  430          7.00   0.00 7-Ford-Vulcan vs 4-Guo-Gong
+        130    1.00   6.00 8-Hall-Kasperkiewicz vs 6-Wang-Brandes
+        110    2.00   5.00 9-Kasperkiewicz- vs 8-Taylor-Sivapragasam
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    6.00   1.00 2-Galer-Morris-Lent vs 2-Rind-Waggoner
+        200    6.00   1.00 3-Abernethy-Wright vs 4-Guo-Gong
+        650    2.50   4.50 4-Jarvis-Pesce vs 6-Wang-Brandes
+        650    2.50   4.50 5-Hendrickson-Miller vs 8-Taylor-Sivapragasam
+        200    6.00   1.00 6-Zaugg-Stevens vs 1-Eng-Sieg
+        650    2.50   4.50 7-Ford-Vulcan vs 3-Delfs-Christie
+        650    2.50   4.50 8-Hall-Kasperkiewicz vs 5-Christensen-Ring
+        850    0.00   7.00 9-Kasperkiewicz- vs 7-Conner-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    4.00   3.00 2-Galer-Morris-Lent vs 2-Rind-Waggoner
+        450    4.00   3.00 3-Abernethy-Wright vs 4-Guo-Gong
+        450    4.00   3.00 4-Jarvis-Pesce vs 6-Wang-Brandes
+        450    4.00   3.00 5-Hendrickson-Miller vs 8-Taylor-Sivapragasam
+        480    0.50   6.50 6-Zaugg-Stevens vs 1-Eng-Sieg
+        420    7.00   0.00 7-Ford-Vulcan vs 3-Delfs-Christie
+        450    4.00   3.00 8-Hall-Kasperkiewicz vs 5-Christensen-Ring
+        480    0.50   6.50 9-Kasperkiewicz- vs 7-Conner-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    3.00   4.00 2-Galer-Morris-Lent vs 2-Rind-Waggoner
+        170    1.00   6.00 3-Abernethy-Wright vs 4-Guo-Gong
+  500          7.00   0.00 4-Jarvis-Pesce vs 6-Wang-Brandes
+        140    2.00   5.00 5-Hendrickson-Miller vs 8-Taylor-Sivapragasam
+         50    4.50   2.50 6-Zaugg-Stevens vs 1-Eng-Sieg
+        180    0.00   7.00 7-Ford-Vulcan vs 3-Delfs-Christie
+         50    4.50   2.50 8-Hall-Kasperkiewicz vs 5-Christensen-Ring
+  140          6.00   1.00 9-Kasperkiewicz- vs 7-Conner-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  650          5.50   1.50 1-Tafjord-Anderson vs 8-Taylor-Sivapragasam
+  650          5.50   1.50 2-Galer-Morris-Lent vs 1-Eng-Sieg
+  650          5.50   1.50 3-Abernethy-Wright vs 3-Delfs-Christie
+  620          2.50   4.50 4-Jarvis-Pesce vs 5-Christensen-Ring
+  620          2.50   4.50 5-Hendrickson-Miller vs 7-Conner-Tipton
+  650          5.50   1.50 7-Ford-Vulcan vs 2-Rind-Waggoner
+        100    1.00   6.00 8-Hall-Kasperkiewicz vs 4-Guo-Gong
+        200    0.00   7.00 9-Kasperkiewicz- vs 6-Wang-Brandes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          7.00   0.00 1-Tafjord-Anderson vs 8-Taylor-Sivapragasam
+        150    3.00   4.00 2-Galer-Morris-Lent vs 1-Eng-Sieg
+        170    2.00   5.00 3-Abernethy-Wright vs 3-Delfs-Christie
+   50          5.00   2.00 4-Jarvis-Pesce vs 5-Christensen-Ring
+        140    4.00   3.00 5-Hendrickson-Miller vs 7-Conner-Tipton
+   90          6.00   1.00 7-Ford-Vulcan vs 2-Rind-Waggoner
+        500    0.00   7.00 8-Hall-Kasperkiewicz vs 4-Guo-Gong
+        420    1.00   6.00 9-Kasperkiewicz- vs 6-Wang-Brandes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          7.00   0.00 1-Tafjord-Anderson vs 8-Taylor-Sivapragasam
+  130          1.50   5.50 2-Galer-Morris-Lent vs 1-Eng-Sieg
+  150          3.00   4.00 3-Abernethy-Wright vs 3-Delfs-Christie
+         50    0.00   7.00 4-Jarvis-Pesce vs 5-Christensen-Ring
+  130          1.50   5.50 5-Hendrickson-Miller vs 7-Conner-Tipton
+  180          4.00   3.00 7-Ford-Vulcan vs 2-Rind-Waggoner
+  400          5.50   1.50 8-Hall-Kasperkiewicz vs 4-Guo-Gong
+  400          5.50   1.50 9-Kasperkiewicz- vs 6-Wang-Brandes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        300    0.00   7.00 1-Tafjord-Anderson vs 7-Conner-Tipton
+  100          2.50   4.50 3-Abernethy-Wright vs 2-Rind-Waggoner
+   90          1.00   6.00 4-Jarvis-Pesce vs 4-Guo-Gong
+  120          6.00   1.00 5-Hendrickson-Miller vs 6-Wang-Brandes
+  110          4.00   3.00 6-Zaugg-Stevens vs 8-Taylor-Sivapragasam
+  100          2.50   4.50 7-Ford-Vulcan vs 1-Eng-Sieg
+  120          6.00   1.00 8-Hall-Kasperkiewicz vs 3-Delfs-Christie
+  120          6.00   1.00 9-Kasperkiewicz- vs 5-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.00   2.00 1-Tafjord-Anderson vs 7-Conner-Tipton
+        460    1.00   6.00 3-Abernethy-Wright vs 2-Rind-Waggoner
+        430    3.50   3.50 4-Jarvis-Pesce vs 4-Guo-Gong
+  100          6.00   1.00 5-Hendrickson-Miller vs 6-Wang-Brandes
+        430    3.50   3.50 6-Zaugg-Stevens vs 8-Taylor-Sivapragasam
+        450    2.00   5.00 7-Ford-Vulcan vs 1-Eng-Sieg
+  600          7.00   0.00 8-Hall-Kasperkiewicz vs 3-Delfs-Christie
+        980    0.00   7.00 9-Kasperkiewicz- vs 5-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    5.00   2.00 1-Tafjord-Anderson vs 7-Conner-Tipton
+        450    5.00   2.00 3-Abernethy-Wright vs 2-Rind-Waggoner
+        800    0.00   7.00 4-Jarvis-Pesce vs 4-Guo-Gong
+        460    2.00   5.00 5-Hendrickson-Miller vs 6-Wang-Brandes
+        450    5.00   2.00 6-Zaugg-Stevens vs 8-Taylor-Sivapragasam
+        450    5.00   2.00 7-Ford-Vulcan vs 1-Eng-Sieg
+        480    1.00   6.00 8-Hall-Kasperkiewicz vs 3-Delfs-Christie
+        450    5.00   2.00 9-Kasperkiewicz- vs 5-Christensen-Ring
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  180          5.00   2.00 1-Tafjord-Anderson vs 6-Wang-Brandes
+  140          3.00   4.00 2-Galer-Morris-Lent vs 8-Taylor-Sivapragasam
+  170          4.00   3.00 3-Abernethy-Wright vs 1-Eng-Sieg
+  120          2.00   5.00 4-Jarvis-Pesce vs 3-Delfs-Christie
+  300          6.00   1.00 5-Hendrickson-Miller vs 5-Christensen-Ring
+  620          7.00   0.00 6-Zaugg-Stevens vs 7-Conner-Tipton
+        100    1.00   6.00 8-Hall-Kasperkiewicz vs 2-Rind-Waggoner
+        200    0.00   7.00 9-Kasperkiewicz- vs 4-Guo-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          5.50   1.50 1-Tafjord-Anderson vs 6-Wang-Brandes
+   50          5.50   1.50 2-Galer-Morris-Lent vs 8-Taylor-Sivapragasam
+        170    0.00   7.00 3-Abernethy-Wright vs 1-Eng-Sieg
+        140    1.50   5.50 4-Jarvis-Pesce vs 3-Delfs-Christie
+        110    3.00   4.00 5-Hendrickson-Miller vs 5-Christensen-Ring
+        140    1.50   5.50 6-Zaugg-Stevens vs 7-Conner-Tipton
+  300          7.00   0.00 8-Hall-Kasperkiewicz vs 2-Rind-Waggoner
+        100    4.00   3.00 9-Kasperkiewicz- vs 4-Guo-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         90    2.00   5.00 1-Tafjord-Anderson vs 6-Wang-Brandes
+  110          6.50   0.50 2-Galer-Morris-Lent vs 8-Taylor-Sivapragasam
+         90    2.00   5.00 3-Abernethy-Wright vs 1-Eng-Sieg
+   90          5.00   2.00 4-Jarvis-Pesce vs 3-Delfs-Christie
+         90    2.00   5.00 5-Hendrickson-Miller vs 5-Christensen-Ring
+  110          6.50   0.50 6-Zaugg-Stevens vs 7-Conner-Tipton
+        100    0.00   7.00 8-Hall-Kasperkiewicz vs 2-Rind-Waggoner
+   50          4.00   3.00 9-Kasperkiewicz- vs 4-Guo-Gong
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  200          3.50   3.50 1-Tafjord-Anderson vs 5-Christensen-Ring
+        300    0.00   7.00 2-Galer-Morris-Lent vs 7-Conner-Tipton
+  430          6.00   1.00 4-Jarvis-Pesce vs 2-Rind-Waggoner
+  100          2.00   5.00 5-Hendrickson-Miller vs 4-Guo-Gong
+  200          3.50   3.50 6-Zaugg-Stevens vs 6-Wang-Brandes
+  400          5.00   2.00 7-Ford-Vulcan vs 8-Taylor-Sivapragasam
+ 1100          7.00   0.00 8-Hall-Kasperkiewicz vs 1-Eng-Sieg
+        100    1.00   6.00 9-Kasperkiewicz- vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    5.00   2.00 1-Tafjord-Anderson vs 5-Christensen-Ring
+        100    3.00   4.00 2-Galer-Morris-Lent vs 7-Conner-Tipton
+        100    3.00   4.00 4-Jarvis-Pesce vs 2-Rind-Waggoner
+        100    3.00   4.00 5-Hendrickson-Miller vs 4-Guo-Gong
+  100          6.00   1.00 6-Zaugg-Stevens vs 6-Wang-Brandes
+  110          7.00   0.00 7-Ford-Vulcan vs 8-Taylor-Sivapragasam
+        140    0.50   6.50 8-Hall-Kasperkiewicz vs 1-Eng-Sieg
+        140    0.50   6.50 9-Kasperkiewicz- vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          7.00   0.00 1-Tafjord-Anderson vs 5-Christensen-Ring
+  100          3.00   4.00 2-Galer-Morris-Lent vs 7-Conner-Tipton
+  170          5.00   2.00 4-Jarvis-Pesce vs 2-Rind-Waggoner
+  100          3.00   4.00 5-Hendrickson-Miller vs 4-Guo-Gong
+  300          6.00   1.00 6-Zaugg-Stevens vs 6-Wang-Brandes
+   50          1.00   6.00 7-Ford-Vulcan vs 8-Taylor-Sivapragasam
+  100          3.00   4.00 8-Hall-Kasperkiewicz vs 1-Eng-Sieg
+        140    0.00   7.00 9-Kasperkiewicz- vs 3-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        170    6.50   0.50 1-Tafjord-Anderson vs 4-Guo-Gong
+        170    6.50   0.50 2-Galer-Morris-Lent vs 6-Wang-Brandes
+        620    3.50   3.50 3-Abernethy-Wright vs 8-Taylor-Sivapragasam
+        620    3.50   3.50 4-Jarvis-Pesce vs 1-Eng-Sieg
+        660    0.00   7.00 5-Hendrickson-Miller vs 3-Delfs-Christie
+        620    3.50   3.50 6-Zaugg-Stevens vs 5-Christensen-Ring
+        650    1.00   6.00 7-Ford-Vulcan vs 7-Conner-Tipton
+        620    3.50   3.50 9-Kasperkiewicz- vs 2-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        870    1.00   6.00 1-Tafjord-Anderson vs 4-Guo-Gong
+  100          7.00   0.00 2-Galer-Morris-Lent vs 6-Wang-Brandes
+        130    6.00   1.00 3-Abernethy-Wright vs 8-Taylor-Sivapragasam
+        170    5.00   2.00 4-Jarvis-Pesce vs 1-Eng-Sieg
+        630    3.50   3.50 5-Hendrickson-Miller vs 3-Delfs-Christie
+       1100    0.00   7.00 6-Zaugg-Stevens vs 5-Christensen-Ring
+        630    3.50   3.50 7-Ford-Vulcan vs 7-Conner-Tipton
+        670    2.00   5.00 9-Kasperkiewicz- vs 2-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.50   2.50 1-Tafjord-Anderson vs 4-Guo-Gong
+  100          6.50   0.50 2-Galer-Morris-Lent vs 6-Wang-Brandes
+  100          6.50   0.50 3-Abernethy-Wright vs 8-Taylor-Sivapragasam
+        450    0.50   6.50 4-Jarvis-Pesce vs 1-Eng-Sieg
+        420    2.50   4.50 5-Hendrickson-Miller vs 3-Delfs-Christie
+        420    2.50   4.50 6-Zaugg-Stevens vs 5-Christensen-Ring
+   50          4.50   2.50 7-Ford-Vulcan vs 7-Conner-Tipton
+        450    0.50   6.50 9-Kasperkiewicz- vs 2-Rind-Waggoner
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          7.00   0.00 1-Tafjord-Anderson vs 3-Delfs-Christie
+  150          4.00   3.00 2-Galer-Morris-Lent vs 5-Christensen-Ring
+  140          3.00   4.00 3-Abernethy-Wright vs 7-Conner-Tipton
+         50    0.50   6.50 5-Hendrickson-Miller vs 2-Rind-Waggoner
+  170          5.50   1.50 6-Zaugg-Stevens vs 4-Guo-Gong
+         50    0.50   6.50 7-Ford-Vulcan vs 6-Wang-Brandes
+  110          2.00   5.00 8-Hall-Kasperkiewicz vs 8-Taylor-Sivapragasam
+  170          5.50   1.50 9-Kasperkiewicz- vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  680          2.50   4.50 1-Tafjord-Anderson vs 3-Delfs-Christie
+  680          2.50   4.50 2-Galer-Morris-Lent vs 5-Christensen-Ring
+  710          6.00   1.00 3-Abernethy-Wright vs 7-Conner-Tipton
+  650          0.00   7.00 5-Hendrickson-Miller vs 2-Rind-Waggoner
+  680          2.50   4.50 6-Zaugg-Stevens vs 4-Guo-Gong
+  710          6.00   1.00 7-Ford-Vulcan vs 6-Wang-Brandes
+  680          2.50   4.50 8-Hall-Kasperkiewicz vs 8-Taylor-Sivapragasam
+  710          6.00   1.00 9-Kasperkiewicz- vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        520    0.00   7.00 1-Tafjord-Anderson vs 3-Delfs-Christie
+        510    1.50   5.50 2-Galer-Morris-Lent vs 5-Christensen-Ring
+        510    1.50   5.50 3-Abernethy-Wright vs 7-Conner-Tipton
+        480    5.00   2.00 5-Hendrickson-Miller vs 2-Rind-Waggoner
+        480    5.00   2.00 6-Zaugg-Stevens vs 4-Guo-Gong
+        480    5.00   2.00 7-Ford-Vulcan vs 6-Wang-Brandes
+        490    3.00   4.00 8-Hall-Kasperkiewicz vs 8-Taylor-Sivapragasam
+        460    7.00   0.00 9-Kasperkiewicz- vs 1-Eng-Sieg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          3.00   4.00 1-Tafjord-Anderson vs 2-Rind-Waggoner
+  100          4.50   2.50 2-Galer-Morris-Lent vs 4-Guo-Gong
+  200          6.50   0.50 3-Abernethy-Wright vs 6-Wang-Brandes
+         50    2.00   5.00 4-Jarvis-Pesce vs 8-Taylor-Sivapragasam
+        100    0.50   6.50 5-Hendrickson-Miller vs 1-Eng-Sieg
+  100          4.50   2.50 6-Zaugg-Stevens vs 3-Delfs-Christie
+        100    0.50   6.50 7-Ford-Vulcan vs 5-Christensen-Ring
+  200          6.50   0.50 8-Hall-Kasperkiewicz vs 7-Conner-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    4.00   3.00 1-Tafjord-Anderson vs 2-Rind-Waggoner
+        650    4.00   3.00 2-Galer-Morris-Lent vs 4-Guo-Gong
+        680    0.00   7.00 3-Abernethy-Wright vs 6-Wang-Brandes
+        650    4.00   3.00 4-Jarvis-Pesce vs 8-Taylor-Sivapragasam
+        650    4.00   3.00 5-Hendrickson-Miller vs 1-Eng-Sieg
+        650    4.00   3.00 6-Zaugg-Stevens vs 3-Delfs-Christie
+        650    4.00   3.00 7-Ford-Vulcan vs 5-Christensen-Ring
+        650    4.00   3.00 8-Hall-Kasperkiewicz vs 7-Conner-Tipton
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        490    1.50   5.50 1-Tafjord-Anderson vs 2-Rind-Waggoner
+        480    4.50   2.50 2-Galer-Morris-Lent vs 4-Guo-Gong
+        420    7.00   0.00 3-Abernethy-Wright vs 6-Wang-Brandes
+        490    1.50   5.50 4-Jarvis-Pesce vs 8-Taylor-Sivapragasam
+        450    6.00   1.00 5-Hendrickson-Miller vs 1-Eng-Sieg
+        480    4.50   2.50 6-Zaugg-Stevens vs 3-Delfs-Christie
+        490    1.50   5.50 7-Ford-Vulcan vs 5-Christensen-Ring
+        490    1.50   5.50 8-Hall-Kasperkiewicz vs 7-Conner-Tipton
+----------------------------------------------------------------------
