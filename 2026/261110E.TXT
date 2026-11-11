@@ -1,7 +1,7 @@
 
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
 ------------------------,------ ------------,-------- --------------------------
-DATE>November 10, 2026  |CLUB NO.>158048    | 11/10/2026 21:55
+DATE>November 10, 2026  |CLUB NO.>158048    | 11/10/2026 21:59
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -27,13 +27,13 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
 
  8 Cassandra Hall         Shannon Kasperkiewicz    C    .     .     .     86.06  45.53          
 
- 9 Nathan Kasperkiewicz                            C    .     .     .     78.19  41.37          
+ 9 Nathan Kasperkiewicz   Johnny Melech            C    .     .     .     78.19  41.37          
 
 
                                           Totals                         850.52       
 EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
 ------------------------,------ ------------,-------- --------------------------
-DATE>November 10, 2026  |CLUB NO.>158048    | 11/10/2026 21:55
+DATE>November 10, 2026  |CLUB NO.>158048    | 11/10/2026 21:59
 ---------------------,-- ------------------- -------------,---------------------
 DIR> Jeff/Brian      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>MITCHELL
 ------------,-------- ,-------------------------,--------- ---------------------
@@ -75,7 +75,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         450    2.50   4.50 6-Zaugg-Stevens vs 2-Rind-Waggoner
         450    2.50   4.50 7-Ford-Vulcan vs 4-Guo-Gong
         460    0.00   7.00 8-Hall-Kasperkiewicz vs 6-Wang-Brandes
-        450    2.50   4.50 9-Kasperkiewicz- vs 8-Taylor-Sivapragasam
+        450    2.50   4.50 9-Kasperkiewicz-Melech vs 8-Taylor-Sivapragasam
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 2
@@ -89,7 +89,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         100    3.50   3.50 6-Zaugg-Stevens vs 2-Rind-Waggoner
         100    3.50   3.50 7-Ford-Vulcan vs 4-Guo-Gong
   170          6.00   1.00 8-Hall-Kasperkiewicz vs 6-Wang-Brandes
-  500          7.00   0.00 9-Kasperkiewicz- vs 8-Taylor-Sivapragasam
+  500          7.00   0.00 9-Kasperkiewicz-Melech vs 8-Taylor-Sivapragasam
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 3
@@ -103,7 +103,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         200    0.00   7.00 6-Zaugg-Stevens vs 2-Rind-Waggoner
   430          7.00   0.00 7-Ford-Vulcan vs 4-Guo-Gong
         130    1.00   6.00 8-Hall-Kasperkiewicz vs 6-Wang-Brandes
-        110    2.00   5.00 9-Kasperkiewicz- vs 8-Taylor-Sivapragasam
+        110    2.00   5.00 9-Kasperkiewicz-Melech vs 8-Taylor-Sivapragasam
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 4
@@ -117,7 +117,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         200    6.00   1.00 6-Zaugg-Stevens vs 1-Eng-Sieg
         650    2.50   4.50 7-Ford-Vulcan vs 3-Delfs-Christie
         650    2.50   4.50 8-Hall-Kasperkiewicz vs 5-Christensen-Ring
-        850    0.00   7.00 9-Kasperkiewicz- vs 7-Conner-Tipton
+        850    0.00   7.00 9-Kasperkiewicz-Melech vs 7-Conner-Tipton
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 5
@@ -131,7 +131,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         480    0.50   6.50 6-Zaugg-Stevens vs 1-Eng-Sieg
         420    7.00   0.00 7-Ford-Vulcan vs 3-Delfs-Christie
         450    4.00   3.00 8-Hall-Kasperkiewicz vs 5-Christensen-Ring
-        480    0.50   6.50 9-Kasperkiewicz- vs 7-Conner-Tipton
+        480    0.50   6.50 9-Kasperkiewicz-Melech vs 7-Conner-Tipton
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 6
@@ -145,7 +145,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
          50    4.50   2.50 6-Zaugg-Stevens vs 1-Eng-Sieg
         180    0.00   7.00 7-Ford-Vulcan vs 3-Delfs-Christie
          50    4.50   2.50 8-Hall-Kasperkiewicz vs 5-Christensen-Ring
-  140          6.00   1.00 9-Kasperkiewicz- vs 7-Conner-Tipton
+  140          6.00   1.00 9-Kasperkiewicz-Melech vs 7-Conner-Tipton
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 7
@@ -159,7 +159,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   620          2.50   4.50 5-Hendrickson-Miller vs 7-Conner-Tipton
   650          5.50   1.50 7-Ford-Vulcan vs 2-Rind-Waggoner
         100    1.00   6.00 8-Hall-Kasperkiewicz vs 4-Guo-Gong
-        200    0.00   7.00 9-Kasperkiewicz- vs 6-Wang-Brandes
+        200    0.00   7.00 9-Kasperkiewicz-Melech vs 6-Wang-Brandes
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 8
@@ -173,7 +173,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         140    4.00   3.00 5-Hendrickson-Miller vs 7-Conner-Tipton
    90          6.00   1.00 7-Ford-Vulcan vs 2-Rind-Waggoner
         500    0.00   7.00 8-Hall-Kasperkiewicz vs 4-Guo-Gong
-        420    1.00   6.00 9-Kasperkiewicz- vs 6-Wang-Brandes
+        420    1.00   6.00 9-Kasperkiewicz-Melech vs 6-Wang-Brandes
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 9
@@ -187,7 +187,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   130          1.50   5.50 5-Hendrickson-Miller vs 7-Conner-Tipton
   180          4.00   3.00 7-Ford-Vulcan vs 2-Rind-Waggoner
   400          5.50   1.50 8-Hall-Kasperkiewicz vs 4-Guo-Gong
-  400          5.50   1.50 9-Kasperkiewicz- vs 6-Wang-Brandes
+  400          5.50   1.50 9-Kasperkiewicz-Melech vs 6-Wang-Brandes
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 10
@@ -201,7 +201,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   110          4.00   3.00 6-Zaugg-Stevens vs 8-Taylor-Sivapragasam
   100          2.50   4.50 7-Ford-Vulcan vs 1-Eng-Sieg
   120          6.00   1.00 8-Hall-Kasperkiewicz vs 3-Delfs-Christie
-  120          6.00   1.00 9-Kasperkiewicz- vs 5-Christensen-Ring
+  120          6.00   1.00 9-Kasperkiewicz-Melech vs 5-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 11
@@ -215,7 +215,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         430    3.50   3.50 6-Zaugg-Stevens vs 8-Taylor-Sivapragasam
         450    2.00   5.00 7-Ford-Vulcan vs 1-Eng-Sieg
   600          7.00   0.00 8-Hall-Kasperkiewicz vs 3-Delfs-Christie
-        980    0.00   7.00 9-Kasperkiewicz- vs 5-Christensen-Ring
+        980    0.00   7.00 9-Kasperkiewicz-Melech vs 5-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 12
@@ -229,7 +229,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         450    5.00   2.00 6-Zaugg-Stevens vs 8-Taylor-Sivapragasam
         450    5.00   2.00 7-Ford-Vulcan vs 1-Eng-Sieg
         480    1.00   6.00 8-Hall-Kasperkiewicz vs 3-Delfs-Christie
-        450    5.00   2.00 9-Kasperkiewicz- vs 5-Christensen-Ring
+        450    5.00   2.00 9-Kasperkiewicz-Melech vs 5-Christensen-Ring
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 13
@@ -243,7 +243,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   300          6.00   1.00 5-Hendrickson-Miller vs 5-Christensen-Ring
   620          7.00   0.00 6-Zaugg-Stevens vs 7-Conner-Tipton
         100    1.00   6.00 8-Hall-Kasperkiewicz vs 2-Rind-Waggoner
-        200    0.00   7.00 9-Kasperkiewicz- vs 4-Guo-Gong
+        200    0.00   7.00 9-Kasperkiewicz-Melech vs 4-Guo-Gong
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 14
@@ -257,7 +257,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         110    3.00   4.00 5-Hendrickson-Miller vs 5-Christensen-Ring
         140    1.50   5.50 6-Zaugg-Stevens vs 7-Conner-Tipton
   300          7.00   0.00 8-Hall-Kasperkiewicz vs 2-Rind-Waggoner
-        100    4.00   3.00 9-Kasperkiewicz- vs 4-Guo-Gong
+        100    4.00   3.00 9-Kasperkiewicz-Melech vs 4-Guo-Gong
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 15
@@ -271,7 +271,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
          90    2.00   5.00 5-Hendrickson-Miller vs 5-Christensen-Ring
   110          6.50   0.50 6-Zaugg-Stevens vs 7-Conner-Tipton
         100    0.00   7.00 8-Hall-Kasperkiewicz vs 2-Rind-Waggoner
-   50          4.00   3.00 9-Kasperkiewicz- vs 4-Guo-Gong
+   50          4.00   3.00 9-Kasperkiewicz-Melech vs 4-Guo-Gong
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 16
@@ -285,7 +285,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   200          3.50   3.50 6-Zaugg-Stevens vs 6-Wang-Brandes
   400          5.00   2.00 7-Ford-Vulcan vs 8-Taylor-Sivapragasam
  1100          7.00   0.00 8-Hall-Kasperkiewicz vs 1-Eng-Sieg
-        100    1.00   6.00 9-Kasperkiewicz- vs 3-Delfs-Christie
+        100    1.00   6.00 9-Kasperkiewicz-Melech vs 3-Delfs-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 17
@@ -299,7 +299,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   100          6.00   1.00 6-Zaugg-Stevens vs 6-Wang-Brandes
   110          7.00   0.00 7-Ford-Vulcan vs 8-Taylor-Sivapragasam
         140    0.50   6.50 8-Hall-Kasperkiewicz vs 1-Eng-Sieg
-        140    0.50   6.50 9-Kasperkiewicz- vs 3-Delfs-Christie
+        140    0.50   6.50 9-Kasperkiewicz-Melech vs 3-Delfs-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 18
@@ -313,7 +313,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   300          6.00   1.00 6-Zaugg-Stevens vs 6-Wang-Brandes
    50          1.00   6.00 7-Ford-Vulcan vs 8-Taylor-Sivapragasam
   100          3.00   4.00 8-Hall-Kasperkiewicz vs 1-Eng-Sieg
-        140    0.00   7.00 9-Kasperkiewicz- vs 3-Delfs-Christie
+        140    0.00   7.00 9-Kasperkiewicz-Melech vs 3-Delfs-Christie
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 19
@@ -327,7 +327,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         660    0.00   7.00 5-Hendrickson-Miller vs 3-Delfs-Christie
         620    3.50   3.50 6-Zaugg-Stevens vs 5-Christensen-Ring
         650    1.00   6.00 7-Ford-Vulcan vs 7-Conner-Tipton
-        620    3.50   3.50 9-Kasperkiewicz- vs 2-Rind-Waggoner
+        620    3.50   3.50 9-Kasperkiewicz-Melech vs 2-Rind-Waggoner
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 20
@@ -341,7 +341,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         630    3.50   3.50 5-Hendrickson-Miller vs 3-Delfs-Christie
        1100    0.00   7.00 6-Zaugg-Stevens vs 5-Christensen-Ring
         630    3.50   3.50 7-Ford-Vulcan vs 7-Conner-Tipton
-        670    2.00   5.00 9-Kasperkiewicz- vs 2-Rind-Waggoner
+        670    2.00   5.00 9-Kasperkiewicz-Melech vs 2-Rind-Waggoner
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 21
@@ -355,7 +355,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         420    2.50   4.50 5-Hendrickson-Miller vs 3-Delfs-Christie
         420    2.50   4.50 6-Zaugg-Stevens vs 5-Christensen-Ring
    50          4.50   2.50 7-Ford-Vulcan vs 7-Conner-Tipton
-        450    0.50   6.50 9-Kasperkiewicz- vs 2-Rind-Waggoner
+        450    0.50   6.50 9-Kasperkiewicz-Melech vs 2-Rind-Waggoner
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 22
@@ -369,7 +369,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   170          5.50   1.50 6-Zaugg-Stevens vs 4-Guo-Gong
          50    0.50   6.50 7-Ford-Vulcan vs 6-Wang-Brandes
   110          2.00   5.00 8-Hall-Kasperkiewicz vs 8-Taylor-Sivapragasam
-  170          5.50   1.50 9-Kasperkiewicz- vs 1-Eng-Sieg
+  170          5.50   1.50 9-Kasperkiewicz-Melech vs 1-Eng-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 23
@@ -383,7 +383,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
   680          2.50   4.50 6-Zaugg-Stevens vs 4-Guo-Gong
   710          6.00   1.00 7-Ford-Vulcan vs 6-Wang-Brandes
   680          2.50   4.50 8-Hall-Kasperkiewicz vs 8-Taylor-Sivapragasam
-  710          6.00   1.00 9-Kasperkiewicz- vs 1-Eng-Sieg
+  710          6.00   1.00 9-Kasperkiewicz-Melech vs 1-Eng-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 24
@@ -397,7 +397,7 @@ No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score |
         480    5.00   2.00 6-Zaugg-Stevens vs 4-Guo-Gong
         480    5.00   2.00 7-Ford-Vulcan vs 6-Wang-Brandes
         490    3.00   4.00 8-Hall-Kasperkiewicz vs 8-Taylor-Sivapragasam
-        460    7.00   0.00 9-Kasperkiewicz- vs 1-Eng-Sieg
+        460    7.00   0.00 9-Kasperkiewicz-Melech vs 1-Eng-Sieg
 ----------------------------------------------------------------------
 
  RESULTS OF BOARD 25
