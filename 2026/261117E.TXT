@@ -1,0 +1,474 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A N-S
+------------------------,------ ------------,-------- --------------------------
+DATE>November 17, 2026  |CLUB NO.>158048    | 11/17/2026 21:50
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>NABC Promotional game        |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3000/1750 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=7/C=4                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Mike Ring              Shawn Abernethy          B   .     5     .   |   .     3     .    109.69  50.78  0.76(OB)
+
+ 2 Aaron Mohrman          Bogdan Vulcan            A   6     .     .   |   3     .     .    114.19  52.87  0.94(SA)
+
+ 3 Chris Morris-Lent      Cassandra Hall           C   .     .     .   |   .     .     .     96.19  44.53          
+
+ 4 Ray Miller             Ann Romeo                A   .     .     .   |   .     .     .     81.00  37.50          
+
+ 5 Fan Zhang              Min Zheng                B   .     4     .   |   4     2     .    110.81  51.30  1.01(OB)
+
+ 6 Mike Christensen       Becky Stevens            A   2     .     .   |   2     .     .    127.13  58.86  2.81(OA)
+
+ 7 Adam Ruprecht          Christopher Jarvis       C   .     .     2   |   .     .     1    108.00  50.00  1.14(OC)
+
+ 8 Nick Tipton            Muhunthan Sivapragasam   C   .     .     .   |   .     .     .     95.63  44.27          
+
+ 9 Joseph Grill           Corneliu Galer           B   1     1     .   |   1     1     .    137.00  63.43  3.75(OA)
+
+10 Dion Sorenson          Matt Gaffney             C   .     .     .   |   .     .     2     96.75  44.79  0.57(SC)
+
+
+                                          Totals                                           1076.39       
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A E-W
+------------------------,------ ------------,-------- --------------------------
+DATE>November 17, 2026  |CLUB NO.>158048    | 11/17/2026 21:50
+---------------------,-- ------------------- -------------,---------------------
+DIR>                 |RATING>NABC Promotional game        |MOVEMENT>WEB
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>  108.0 |TOP>   8 |MP LIMITS>None/3000/1750 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=10/B=6/C=2                      ,---,-----------------,-------------------------,------,---------,
+-------------------------------------------------|   |      Overall    |           Section       |      |Final    |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ----- ----- ----- ------- ------ --------- 
+ 1 Zhenzhong Guo          Rui Gong                 B   5     2     .   |   3     1     .    122.00  56.48  1.79(OB)
+
+ 2 Kim Eng                Jeffrey Ford             A  3/4    .     .   |  1/2    .     .    123.50  57.18  1.85(OA)
+
+ 3 Jennifer Wang          Luke Brandes             C   .     .     .   |   .     .     .     77.50  35.88          
+
+ 4 Paul Schwaighart       Brad Rind                A   .     .     .   |   .     .     .     99.50  46.06          
+
+ 5 Chris Pesce            David Taylor             B   .     .     .   |   .     .     .    100.50  46.53          
+
+ 6 David Wright           Brian Zaugg              B   .     .     .   |   .     .     .    109.50  50.69          
+
+ 7 Bryan Delfs            Stanford Christie        A  3/4    .     .   |  1/2    .     .    123.50  57.18  1.85(OA)
+
+ 8 Hugh Hendrickson       Laura Miller             C   .     3     1   |   4     2     1    111.00  51.39  1.52(OC)
+
+ 9 John Aslin             Sue Anderson             B   .     .     .   |   .     .     .    105.00  48.61          
+
+
+
+
+                                          Totals                                            972.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    3.50   4.50 1-Ring-Abernethy vs 1-Guo-Gong
+  170          8.00   0.00 2-Mohrman-Vulcan vs 4-Schwaighart-Rind
+  100          7.00   1.00 3-Morris-Lent-Hall vs 6-Wright-Zaugg
+   50          6.00   2.00 4-Miller-Romeo vs 8-Hendrickson-Miller
+        140    3.50   4.50 6-Christensen-Stevens vs 3-Wang-Brandes
+        140    3.50   4.50 7-Ruprecht-Jarvis vs 5-Pesce-Taylor
+        500    0.00   8.00 8-Tipton-Sivapragasam vs 7-Delfs-Christie
+        140    3.50   4.50 9-Grill-Galer vs 9-Aslin-Anderson
+        450    1.00   7.00 10-Sorenson-Gaffney vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          7.50   0.50 1-Ring-Abernethy vs 1-Guo-Gong
+        110    3.00   5.00 2-Mohrman-Vulcan vs 4-Schwaighart-Rind
+         90    6.00   2.00 3-Morris-Lent-Hall vs 6-Wright-Zaugg
+        110    3.00   5.00 4-Miller-Romeo vs 8-Hendrickson-Miller
+        110    3.00   5.00 6-Christensen-Stevens vs 3-Wang-Brandes
+        140    0.00   8.00 7-Ruprecht-Jarvis vs 5-Pesce-Taylor
+        110    3.00   5.00 8-Tipton-Sivapragasam vs 7-Delfs-Christie
+   50          7.50   0.50 9-Grill-Galer vs 9-Aslin-Anderson
+        110    3.00   5.00 10-Sorenson-Gaffney vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    0.50   7.50 1-Ring-Abernethy vs 1-Guo-Gong
+         50    3.50   4.50 2-Mohrman-Vulcan vs 4-Schwaighart-Rind
+         50    3.50   4.50 3-Morris-Lent-Hall vs 6-Wright-Zaugg
+         50    3.50   4.50 4-Miller-Romeo vs 8-Hendrickson-Miller
+  110          6.50   1.50 6-Christensen-Stevens vs 3-Wang-Brandes
+  110          6.50   1.50 7-Ruprecht-Jarvis vs 5-Pesce-Taylor
+        100    0.50   7.50 8-Tipton-Sivapragasam vs 7-Delfs-Christie
+  140          8.00   0.00 9-Grill-Galer vs 9-Aslin-Anderson
+         50    3.50   4.50 10-Sorenson-Gaffney vs 2-Eng-Ford
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          6.50   1.50 2-Mohrman-Vulcan vs 2-Eng-Ford
+        100    3.50   4.50 3-Morris-Lent-Hall vs 5-Pesce-Taylor
+        200    1.00   7.00 4-Miller-Romeo vs 7-Delfs-Christie
+   90          6.50   1.50 5-Zhang-Zheng vs 9-Aslin-Anderson
+   90          6.50   1.50 6-Christensen-Stevens vs 4-Schwaighart-Rind
+        380    0.00   8.00 7-Ruprecht-Jarvis vs 6-Wright-Zaugg
+        120    2.00   6.00 8-Tipton-Sivapragasam vs 8-Hendrickson-Miller
+        100    3.50   4.50 9-Grill-Galer vs 1-Guo-Gong
+   90          6.50   1.50 10-Sorenson-Gaffney vs 3-Wang-Brandes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    1.50   6.50 2-Mohrman-Vulcan vs 2-Eng-Ford
+        110    4.00   4.00 3-Morris-Lent-Hall vs 5-Pesce-Taylor
+        110    4.00   4.00 4-Miller-Romeo vs 7-Delfs-Christie
+        200    0.00   8.00 5-Zhang-Zheng vs 9-Aslin-Anderson
+        140    1.50   6.50 6-Christensen-Stevens vs 4-Schwaighart-Rind
+   50          7.50   0.50 7-Ruprecht-Jarvis vs 6-Wright-Zaugg
+        110    4.00   4.00 8-Tipton-Sivapragasam vs 8-Hendrickson-Miller
+   50          7.50   0.50 9-Grill-Galer vs 1-Guo-Gong
+         80    6.00   2.00 10-Sorenson-Gaffney vs 3-Wang-Brandes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    4.00   4.00 2-Mohrman-Vulcan vs 2-Eng-Ford
+         50    4.00   4.00 3-Morris-Lent-Hall vs 5-Pesce-Taylor
+        100    1.00   7.00 4-Miller-Romeo vs 7-Delfs-Christie
+         50    4.00   4.00 5-Zhang-Zheng vs 9-Aslin-Anderson
+  420          6.50   1.50 6-Christensen-Stevens vs 4-Schwaighart-Rind
+        100    1.00   7.00 7-Ruprecht-Jarvis vs 6-Wright-Zaugg
+  420          6.50   1.50 8-Tipton-Sivapragasam vs 8-Hendrickson-Miller
+        100    1.00   7.00 9-Grill-Galer vs 1-Guo-Gong
+ 1100          8.00   0.00 10-Sorenson-Gaffney vs 3-Wang-Brandes
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          5.00   3.00 1-Ring-Abernethy vs 9-Aslin-Anderson
+  680          1.00   7.00 2-Mohrman-Vulcan vs 1-Guo-Gong
+ 1430          5.00   3.00 3-Morris-Lent-Hall vs 3-Wang-Brandes
+ 1430          5.00   3.00 4-Miller-Romeo vs 6-Wright-Zaugg
+ 1430          5.00   3.00 5-Zhang-Zheng vs 8-Hendrickson-Miller
+  680          1.00   7.00 6-Christensen-Stevens vs 5-Pesce-Taylor
+ 1660          8.00   0.00 7-Ruprecht-Jarvis vs 7-Delfs-Christie
+  680          1.00   7.00 9-Grill-Galer vs 2-Eng-Ford
+ 1430          5.00   3.00 10-Sorenson-Gaffney vs 4-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          4.50   3.50 1-Ring-Abernethy vs 9-Aslin-Anderson
+  450          7.50   0.50 2-Mohrman-Vulcan vs 1-Guo-Gong
+  200          2.00   6.00 3-Morris-Lent-Hall vs 3-Wang-Brandes
+  170          0.50   7.50 4-Miller-Romeo vs 6-Wright-Zaugg
+  420          4.50   3.50 5-Zhang-Zheng vs 8-Hendrickson-Miller
+  450          7.50   0.50 6-Christensen-Stevens vs 5-Pesce-Taylor
+  170          0.50   7.50 7-Ruprecht-Jarvis vs 7-Delfs-Christie
+  420          4.50   3.50 9-Grill-Galer vs 2-Eng-Ford
+  420          4.50   3.50 10-Sorenson-Gaffney vs 4-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  110          4.00   4.00 1-Ring-Abernethy vs 9-Aslin-Anderson
+         50    1.50   6.50 2-Mohrman-Vulcan vs 1-Guo-Gong
+  170          7.50   0.50 3-Morris-Lent-Hall vs 3-Wang-Brandes
+         90    0.00   8.00 4-Miller-Romeo vs 6-Wright-Zaugg
+  110          4.00   4.00 5-Zhang-Zheng vs 8-Hendrickson-Miller
+  140          6.00   2.00 6-Christensen-Stevens vs 5-Pesce-Taylor
+  110          4.00   4.00 7-Ruprecht-Jarvis vs 7-Delfs-Christie
+  170          7.50   0.50 9-Grill-Galer vs 2-Eng-Ford
+         50    1.50   6.50 10-Sorenson-Gaffney vs 4-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   6.50 1-Ring-Abernethy vs 8-Hendrickson-Miller
+        150    3.00   5.00 3-Morris-Lent-Hall vs 2-Eng-Ford
+        600    0.00   8.00 4-Miller-Romeo vs 4-Schwaighart-Rind
+        100    6.00   2.00 5-Zhang-Zheng vs 7-Delfs-Christie
+  100          7.50   0.50 6-Christensen-Stevens vs 6-Wright-Zaugg
+        130    4.50   3.50 7-Ruprecht-Jarvis vs 9-Aslin-Anderson
+        130    4.50   3.50 8-Tipton-Sivapragasam vs 1-Guo-Gong
+  100          7.50   0.50 9-Grill-Galer vs 3-Wang-Brandes
+        200    1.50   6.50 10-Sorenson-Gaffney vs 5-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        140    0.50   7.50 1-Ring-Abernethy vs 8-Hendrickson-Miller
+        110    2.00   6.00 3-Morris-Lent-Hall vs 2-Eng-Ford
+        100    3.00   5.00 4-Miller-Romeo vs 4-Schwaighart-Rind
+  140          8.00   0.00 5-Zhang-Zheng vs 7-Delfs-Christie
+  100          7.00   1.00 6-Christensen-Stevens vs 6-Wright-Zaugg
+         50    4.50   3.50 7-Ruprecht-Jarvis vs 9-Aslin-Anderson
+        140    0.50   7.50 8-Tipton-Sivapragasam vs 1-Guo-Gong
+   50          6.00   2.00 9-Grill-Galer vs 3-Wang-Brandes
+         50    4.50   3.50 10-Sorenson-Gaffney vs 5-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        130    5.00   3.00 1-Ring-Abernethy vs 8-Hendrickson-Miller
+        150    2.50   5.50 3-Morris-Lent-Hall vs 2-Eng-Ford
+  110          7.50   0.50 4-Miller-Romeo vs 4-Schwaighart-Rind
+        200    1.00   7.00 5-Zhang-Zheng vs 7-Delfs-Christie
+        150    2.50   5.50 6-Christensen-Stevens vs 6-Wright-Zaugg
+  110          7.50   0.50 7-Ruprecht-Jarvis vs 9-Aslin-Anderson
+        550    0.00   8.00 8-Tipton-Sivapragasam vs 1-Guo-Gong
+        130    5.00   3.00 9-Grill-Galer vs 3-Wang-Brandes
+        130    5.00   3.00 10-Sorenson-Gaffney vs 5-Pesce-Taylor
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    4.50   3.50 1-Ring-Abernethy vs 7-Delfs-Christie
+        680    4.50   3.50 2-Mohrman-Vulcan vs 9-Aslin-Anderson
+        680    4.50   3.50 3-Morris-Lent-Hall vs 1-Guo-Gong
+        650    8.00   0.00 4-Miller-Romeo vs 3-Wang-Brandes
+        680    4.50   3.50 5-Zhang-Zheng vs 5-Pesce-Taylor
+        680    4.50   3.50 6-Christensen-Stevens vs 8-Hendrickson-Miller
+       1430    0.00   8.00 8-Tipton-Sivapragasam vs 2-Eng-Ford
+        680    4.50   3.50 9-Grill-Galer vs 4-Schwaighart-Rind
+       1100    1.00   7.00 10-Sorenson-Gaffney vs 6-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.50   4.50 1-Ring-Abernethy vs 7-Delfs-Christie
+  120          6.50   1.50 2-Mohrman-Vulcan vs 9-Aslin-Anderson
+        150    1.00   7.00 3-Morris-Lent-Hall vs 1-Guo-Gong
+        200    0.00   8.00 4-Miller-Romeo vs 3-Wang-Brandes
+         50    3.50   4.50 5-Zhang-Zheng vs 5-Pesce-Taylor
+  120          6.50   1.50 6-Christensen-Stevens vs 8-Hendrickson-Miller
+   90          5.00   3.00 8-Tipton-Sivapragasam vs 2-Eng-Ford
+  150          8.00   0.00 9-Grill-Galer vs 4-Schwaighart-Rind
+        100    2.00   6.00 10-Sorenson-Gaffney vs 6-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.50   3.50 1-Ring-Abernethy vs 7-Delfs-Christie
+        120    2.50   5.50 2-Mohrman-Vulcan vs 9-Aslin-Anderson
+        150    1.00   7.00 3-Morris-Lent-Hall vs 1-Guo-Gong
+        120    2.50   5.50 4-Miller-Romeo vs 3-Wang-Brandes
+        100    4.50   3.50 5-Zhang-Zheng vs 5-Pesce-Taylor
+   50          7.00   1.00 6-Christensen-Stevens vs 8-Hendrickson-Miller
+         90    6.00   2.00 8-Tipton-Sivapragasam vs 2-Eng-Ford
+        180    0.00   8.00 9-Grill-Galer vs 4-Schwaighart-Rind
+  100          8.00   0.00 10-Sorenson-Gaffney vs 6-Wright-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          6.00   2.00 1-Ring-Abernethy vs 6-Wright-Zaugg
+        110    3.50   4.50 2-Mohrman-Vulcan vs 8-Hendrickson-Miller
+        140    0.50   7.50 4-Miller-Romeo vs 2-Eng-Ford
+        110    3.50   4.50 5-Zhang-Zheng vs 4-Schwaighart-Rind
+        140    0.50   7.50 6-Christensen-Stevens vs 9-Aslin-Anderson
+        110    3.50   4.50 7-Ruprecht-Jarvis vs 1-Guo-Gong
+  200          7.50   0.50 8-Tipton-Sivapragasam vs 3-Wang-Brandes
+  200          7.50   0.50 9-Grill-Galer vs 5-Pesce-Taylor
+        110    3.50   4.50 10-Sorenson-Gaffney vs 7-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        420    1.50   6.50 1-Ring-Abernethy vs 6-Wright-Zaugg
+        450    0.00   8.00 2-Mohrman-Vulcan vs 8-Hendrickson-Miller
+        420    1.50   6.50 4-Miller-Romeo vs 2-Eng-Ford
+  100          6.50   1.50 5-Zhang-Zheng vs 4-Schwaighart-Rind
+        140    4.00   4.00 6-Christensen-Stevens vs 9-Aslin-Anderson
+        300    3.00   5.00 7-Ruprecht-Jarvis vs 1-Guo-Gong
+  100          6.50   1.50 8-Tipton-Sivapragasam vs 3-Wang-Brandes
+  130          8.00   0.00 9-Grill-Galer vs 5-Pesce-Taylor
+   50          5.00   3.00 10-Sorenson-Gaffney vs 7-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          5.50   2.50 1-Ring-Abernethy vs 6-Wright-Zaugg
+ 1430          5.50   2.50 2-Mohrman-Vulcan vs 8-Hendrickson-Miller
+  680          1.50   6.50 4-Miller-Romeo vs 2-Eng-Ford
+ 1430          5.50   2.50 5-Zhang-Zheng vs 4-Schwaighart-Rind
+  680          1.50   6.50 6-Christensen-Stevens vs 9-Aslin-Anderson
+ 1430          5.50   2.50 7-Ruprecht-Jarvis vs 1-Guo-Gong
+ 1430          5.50   2.50 8-Tipton-Sivapragasam vs 3-Wang-Brandes
+ 1430          5.50   2.50 9-Grill-Galer vs 5-Pesce-Taylor
+        200    0.00   8.00 10-Sorenson-Gaffney vs 7-Delfs-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    1.50   6.50 1-Ring-Abernethy vs 5-Pesce-Taylor
+         50    4.50   3.50 2-Mohrman-Vulcan vs 7-Delfs-Christie
+        100    1.50   6.50 3-Morris-Lent-Hall vs 9-Aslin-Anderson
+         50    4.50   3.50 4-Miller-Romeo vs 1-Guo-Gong
+        150    0.00   8.00 5-Zhang-Zheng vs 3-Wang-Brandes
+  140          7.50   0.50 7-Ruprecht-Jarvis vs 2-Eng-Ford
+  140          7.50   0.50 8-Tipton-Sivapragasam vs 4-Schwaighart-Rind
+         50    4.50   3.50 9-Grill-Galer vs 6-Wright-Zaugg
+         50    4.50   3.50 10-Sorenson-Gaffney vs 8-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1430          3.00   5.00 1-Ring-Abernethy vs 5-Pesce-Taylor
+ 1430          3.00   5.00 2-Mohrman-Vulcan vs 7-Delfs-Christie
+ 1430          3.00   5.00 3-Morris-Lent-Hall vs 9-Aslin-Anderson
+ 1430          3.00   5.00 4-Miller-Romeo vs 1-Guo-Gong
+ 1430          3.00   5.00 5-Zhang-Zheng vs 3-Wang-Brandes
+ 1440          7.00   1.00 7-Ruprecht-Jarvis vs 2-Eng-Ford
+ 1440          7.00   1.00 8-Tipton-Sivapragasam vs 4-Schwaighart-Rind
+ 1440          7.00   1.00 9-Grill-Galer vs 6-Wright-Zaugg
+        200    0.00   8.00 10-Sorenson-Gaffney vs 8-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          7.00   1.00 1-Ring-Abernethy vs 5-Pesce-Taylor
+        140    3.00   5.00 2-Mohrman-Vulcan vs 7-Delfs-Christie
+        100    6.00   2.00 3-Morris-Lent-Hall vs 9-Aslin-Anderson
+        150    2.00   6.00 4-Miller-Romeo vs 1-Guo-Gong
+  150          8.00   0.00 5-Zhang-Zheng vs 3-Wang-Brandes
+        800    0.50   7.50 7-Ruprecht-Jarvis vs 2-Eng-Ford
+        110    4.50   3.50 8-Tipton-Sivapragasam vs 4-Schwaighart-Rind
+        800    0.50   7.50 9-Grill-Galer vs 6-Wright-Zaugg
+        110    4.50   3.50 10-Sorenson-Gaffney vs 8-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+ 1020          7.50   0.50 1-Ring-Abernethy vs 4-Schwaighart-Rind
+  980          5.00   3.00 2-Mohrman-Vulcan vs 6-Wright-Zaugg
+ 1020          7.50   0.50 3-Morris-Lent-Hall vs 8-Hendrickson-Miller
+  480          0.50   7.50 5-Zhang-Zheng vs 2-Eng-Ford
+  510          3.00   5.00 6-Christensen-Stevens vs 1-Guo-Gong
+  980          5.00   3.00 7-Ruprecht-Jarvis vs 3-Wang-Brandes
+  480          0.50   7.50 8-Tipton-Sivapragasam vs 5-Pesce-Taylor
+  980          5.00   3.00 9-Grill-Galer vs 7-Delfs-Christie
+  490          2.00   6.00 10-Sorenson-Gaffney vs 9-Aslin-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    1.50   6.50 1-Ring-Abernethy vs 4-Schwaighart-Rind
+  100          6.00   2.00 2-Mohrman-Vulcan vs 6-Wright-Zaugg
+        170    3.00   5.00 3-Morris-Lent-Hall vs 8-Hendrickson-Miller
+        200    1.50   6.50 5-Zhang-Zheng vs 2-Eng-Ford
+  100          6.00   2.00 6-Christensen-Stevens vs 1-Guo-Gong
+  500          8.00   0.00 7-Ruprecht-Jarvis vs 3-Wang-Brandes
+        500    0.00   8.00 8-Tipton-Sivapragasam vs 5-Pesce-Taylor
+  100          6.00   2.00 9-Grill-Galer vs 7-Delfs-Christie
+        100    4.00   4.00 10-Sorenson-Gaffney vs 9-Aslin-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+         50    3.00   5.00 1-Ring-Abernethy vs 4-Schwaighart-Rind
+   50          4.00   4.00 2-Mohrman-Vulcan vs 6-Wright-Zaugg
+        110    0.00   8.00 3-Morris-Lent-Hall vs 8-Hendrickson-Miller
+  470          7.50   0.50 5-Zhang-Zheng vs 2-Eng-Ford
+  470          7.50   0.50 6-Christensen-Stevens vs 1-Guo-Gong
+        100    1.50   6.50 7-Ruprecht-Jarvis vs 3-Wang-Brandes
+  150          6.00   2.00 8-Tipton-Sivapragasam vs 5-Pesce-Taylor
+  110          5.00   3.00 9-Grill-Galer vs 7-Delfs-Christie
+        100    1.50   6.50 10-Sorenson-Gaffney vs 9-Aslin-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        650    2.00   6.00 1-Ring-Abernethy vs 3-Wang-Brandes
+        650    2.00   6.00 2-Mohrman-Vulcan vs 5-Pesce-Taylor
+        800    0.00   8.00 3-Morris-Lent-Hall vs 7-Delfs-Christie
+        100    7.50   0.50 4-Miller-Romeo vs 9-Aslin-Anderson
+        500    5.00   3.00 5-Zhang-Zheng vs 1-Guo-Gong
+        500    5.00   3.00 6-Christensen-Stevens vs 2-Eng-Ford
+        500    5.00   3.00 7-Ruprecht-Jarvis vs 4-Schwaighart-Rind
+        650    2.00   6.00 8-Tipton-Sivapragasam vs 6-Wright-Zaugg
+        100    7.50   0.50 9-Grill-Galer vs 8-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        180    6.50   1.50 1-Ring-Abernethy vs 3-Wang-Brandes
+        150    8.00   0.00 2-Mohrman-Vulcan vs 5-Pesce-Taylor
+        500    3.50   4.50 3-Morris-Lent-Hall vs 7-Delfs-Christie
+        500    3.50   4.50 4-Miller-Romeo vs 9-Aslin-Anderson
+        600    1.50   6.50 5-Zhang-Zheng vs 1-Guo-Gong
+        180    6.50   1.50 6-Christensen-Stevens vs 2-Eng-Ford
+        600    1.50   6.50 7-Ruprecht-Jarvis vs 4-Schwaighart-Rind
+        630    0.00   8.00 8-Tipton-Sivapragasam vs 6-Wright-Zaugg
+        200    5.00   3.00 9-Grill-Galer vs 8-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 27
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  500          8.00   0.00 1-Ring-Abernethy vs 3-Wang-Brandes
+  460          7.00   1.00 2-Mohrman-Vulcan vs 5-Pesce-Taylor
+  400          4.50   3.50 3-Morris-Lent-Hall vs 7-Delfs-Christie
+  180          3.00   5.00 4-Miller-Romeo vs 9-Aslin-Anderson
+  400          4.50   3.50 5-Zhang-Zheng vs 1-Guo-Gong
+  150          2.00   6.00 6-Christensen-Stevens vs 2-Eng-Ford
+         50    0.50   7.50 7-Ruprecht-Jarvis vs 4-Schwaighart-Rind
+  430          6.00   2.00 8-Tipton-Sivapragasam vs 6-Wright-Zaugg
+         50    0.50   7.50 9-Grill-Galer vs 8-Hendrickson-Miller
+----------------------------------------------------------------------
