@@ -1,0 +1,381 @@
+
+EVENT>Tuesday Evening Pairs    |SESSION>Tuesday Eve  |SECTION> A
+------------------------,------ ------------,-------- --------------------------
+DATE>November 24, 2026  |CLUB NO.>158048    | 11/24/2026 21:52
+---------------------,-- ------------------- -------------,---------------------
+DIR> Jeff/Aaron      |RATING>Club Masterpoint (100%, 80%, 80% Open)|MOVEMENT>ONE WINNER
+------------,-------- ,-------------------------,--------- ---------------------
+AVE>   78.0 |TOP>   6 |MP LIMITS>None/4000/2000 |CLUB>Mercercrest
+------------ --------- ------------------------- -------------------------------
+PAIRS IN STRAT A=14/B=7/C=4                      ,---,-------------------------,------,---------,
+-------------------------------------------------|   |           Section       |      |Section  |
+No Name                   Name                   |Flt|Rnk-A|Rnk-B|Rnk-C| Score | Pct  |Awards   |
+------------------------------------------------- --- ----- ----- ----- ------- ------ --------- 
+ 1 John Krah              Stanford Christie        A    .     .     .     73.50  47.12          
+
+ 2 Corneliu Galer         Bogdan Vulcan            A    .     .     .     76.50  49.04          
+
+ 3 Kevin Cline            Chris Morris-Lent        C    .     .     .     71.50  45.83          
+
+ 4 David Taylor           Sue Anderson             B    .     .     .     66.50  42.63          
+
+ 5 Scott Chupack          Kim Eng                  A    .     .     .     73.00  46.79          
+
+ 6 Oyvind Tafjord         Shawn Abernethy          C    4     3     2     82.50  52.88  0.49(A) 
+
+ 7 Ray Miller             Aaron Mohrman            A    5     .     .     80.00  51.28  0.28(A) 
+
+ 8 Ann Romeo              Bob Shelley              B    .     .     .     73.00  46.79          
+
+ 9 David Wright           Mike Christensen         A    .     .     .     70.50  45.19          
+
+10 Mike Ring              Brian Zaugg              B    3     2     .     86.50  55.45  0.70(A) 
+
+11 Paul Schwaighart       Brad Rind                A    .     .     .     73.00  46.79          
+
+12 Hugh Hendrickson       Laura Miller             C    6     .     .     77.00  49.36  0.23(A) 
+
+13 Christopher Jarvis     Adam Ruprecht            C    2     1     1     87.00  55.77  0.98(A) 
+
+14 Jeffrey Ford           Eric Sieg                A    1     .     .    101.50  65.06  1.40(A) 
+
+
+                                          Totals                        1092.00       
+
+ RESULTS OF BOARD 1
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    0.50   5.50 1-Krah-Christie vs 3-Cline-Morris-Lent
+        460    5.00   1.00 2-Galer-Vulcan vs 6-Tafjord-Abernethy
+        480    3.00   3.00 4-Taylor-Anderson vs 9-Wright-Christensen
+        480    3.00   3.00 5-Chupack-Eng vs 12-Hendrickson-Miller
+        980    0.50   5.50 7-Miller-Mohrman vs 8-Romeo-Shelley
+        480    3.00   3.00 13-Jarvis-Ruprecht vs 10-Ring-Zaugg
+   50          6.00   0.00 14-Ford-Sieg vs 11-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 2
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          0.00   6.00 1-Krah-Christie vs 3-Cline-Morris-Lent
+  200          1.00   5.00 2-Galer-Vulcan vs 6-Tafjord-Abernethy
+  650          3.00   3.00 4-Taylor-Anderson vs 9-Wright-Christensen
+  680          4.50   1.50 5-Chupack-Eng vs 12-Hendrickson-Miller
+  680          4.50   1.50 7-Miller-Mohrman vs 8-Romeo-Shelley
+  500          2.00   4.00 13-Jarvis-Ruprecht vs 10-Ring-Zaugg
+  800          6.00   0.00 14-Ford-Sieg vs 11-Schwaighart-Rind
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 3
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  480          3.50   2.50 1-Krah-Christie vs 11-Schwaighart-Rind
+  480          3.50   2.50 2-Galer-Vulcan vs 4-Taylor-Anderson
+  450          0.50   5.50 3-Cline-Morris-Lent vs 7-Miller-Mohrman
+  480          3.50   2.50 5-Chupack-Eng vs 10-Ring-Zaugg
+  450          0.50   5.50 6-Tafjord-Abernethy vs 13-Jarvis-Ruprecht
+  980          6.00   0.00 8-Romeo-Shelley vs 9-Wright-Christensen
+  480          3.50   2.50 14-Ford-Sieg vs 12-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 4
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        100    4.00   2.00 1-Krah-Christie vs 11-Schwaighart-Rind
+        670    0.00   6.00 2-Galer-Vulcan vs 4-Taylor-Anderson
+        300    1.50   4.50 3-Cline-Morris-Lent vs 7-Miller-Mohrman
+        300    1.50   4.50 5-Chupack-Eng vs 10-Ring-Zaugg
+  800          6.00   0.00 6-Tafjord-Abernethy vs 13-Jarvis-Ruprecht
+        200    3.00   3.00 8-Romeo-Shelley vs 9-Wright-Christensen
+  110          5.00   1.00 14-Ford-Sieg vs 12-Hendrickson-Miller
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 5
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    1.00   5.00 2-Galer-Vulcan vs 12-Hendrickson-Miller
+        200    3.00   3.00 3-Cline-Morris-Lent vs 5-Chupack-Eng
+        140    5.00   1.00 4-Taylor-Anderson vs 8-Romeo-Shelley
+        170    4.00   2.00 6-Tafjord-Abernethy vs 11-Schwaighart-Rind
+        450    1.00   5.00 7-Miller-Mohrman vs 1-Krah-Christie
+        450    1.00   5.00 9-Wright-Christensen vs 10-Ring-Zaugg
+  140          6.00   0.00 14-Ford-Sieg vs 13-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 6
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    3.50   2.50 2-Galer-Vulcan vs 12-Hendrickson-Miller
+        680    3.50   2.50 3-Cline-Morris-Lent vs 5-Chupack-Eng
+        680    3.50   2.50 4-Taylor-Anderson vs 8-Romeo-Shelley
+        680    3.50   2.50 6-Tafjord-Abernethy vs 11-Schwaighart-Rind
+        680    3.50   2.50 7-Miller-Mohrman vs 1-Krah-Christie
+       1430    0.00   6.00 9-Wright-Christensen vs 10-Ring-Zaugg
+        680    3.50   2.50 14-Ford-Sieg vs 13-Jarvis-Ruprecht
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 7
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        200    0.00   6.00 3-Cline-Morris-Lent vs 13-Jarvis-Ruprecht
+  140          4.50   1.50 4-Taylor-Anderson vs 6-Tafjord-Abernethy
+  110          2.00   4.00 5-Chupack-Eng vs 9-Wright-Christensen
+  110          2.00   4.00 7-Miller-Mohrman vs 12-Hendrickson-Miller
+  140          4.50   1.50 8-Romeo-Shelley vs 2-Galer-Vulcan
+  110          2.00   4.00 10-Ring-Zaugg vs 11-Schwaighart-Rind
+  150          6.00   0.00 14-Ford-Sieg vs 1-Krah-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 8
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        400    0.50   5.50 3-Cline-Morris-Lent vs 13-Jarvis-Ruprecht
+        400    0.50   5.50 4-Taylor-Anderson vs 6-Tafjord-Abernethy
+        130    4.00   2.00 5-Chupack-Eng vs 9-Wright-Christensen
+        150    2.50   3.50 7-Miller-Mohrman vs 12-Hendrickson-Miller
+        150    2.50   3.50 8-Romeo-Shelley vs 2-Galer-Vulcan
+        110    5.00   1.00 10-Ring-Zaugg vs 11-Schwaighart-Rind
+        100    6.00   0.00 14-Ford-Sieg vs 1-Krah-Christie
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 9
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  430          1.50   4.50 4-Taylor-Anderson vs 1-Krah-Christie
+  460          4.50   1.50 5-Chupack-Eng vs 7-Miller-Mohrman
+  430          1.50   4.50 6-Tafjord-Abernethy vs 10-Ring-Zaugg
+  430          1.50   4.50 8-Romeo-Shelley vs 13-Jarvis-Ruprecht
+  460          4.50   1.50 9-Wright-Christensen vs 3-Cline-Morris-Lent
+  490          6.00   0.00 11-Schwaighart-Rind vs 12-Hendrickson-Miller
+  430          1.50   4.50 14-Ford-Sieg vs 2-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 10
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  620          4.00   2.00 4-Taylor-Anderson vs 1-Krah-Christie
+  630          5.50   0.50 5-Chupack-Eng vs 7-Miller-Mohrman
+  630          5.50   0.50 6-Tafjord-Abernethy vs 10-Ring-Zaugg
+  600          2.00   4.00 8-Romeo-Shelley vs 13-Jarvis-Ruprecht
+  600          2.00   4.00 9-Wright-Christensen vs 3-Cline-Morris-Lent
+        100    0.00   6.00 11-Schwaighart-Rind vs 12-Hendrickson-Miller
+  600          2.00   4.00 14-Ford-Sieg vs 2-Galer-Vulcan
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 11
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          2.00   4.00 5-Chupack-Eng vs 2-Galer-Vulcan
+    PASS       1.00   5.00 6-Tafjord-Abernethy vs 8-Romeo-Shelley
+  400          6.00   0.00 7-Miller-Mohrman vs 11-Schwaighart-Rind
+  180          4.00   2.00 9-Wright-Christensen vs 1-Krah-Christie
+  300          5.00   1.00 10-Ring-Zaugg vs 4-Taylor-Anderson
+         50    0.00   6.00 12-Hendrickson-Miller vs 13-Jarvis-Ruprecht
+  110          3.00   3.00 14-Ford-Sieg vs 3-Cline-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 12
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        980    1.00   5.00 5-Chupack-Eng vs 2-Galer-Vulcan
+        450    6.00   0.00 6-Tafjord-Abernethy vs 8-Romeo-Shelley
+        510    3.00   3.00 7-Miller-Mohrman vs 11-Schwaighart-Rind
+        980    1.00   5.00 9-Wright-Christensen vs 1-Krah-Christie
+        490    4.00   2.00 10-Ring-Zaugg vs 4-Taylor-Anderson
+        980    1.00   5.00 12-Hendrickson-Miller vs 13-Jarvis-Ruprecht
+        480    5.00   1.00 14-Ford-Sieg vs 3-Cline-Morris-Lent
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 13
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  660          3.50   2.50 6-Tafjord-Abernethy vs 3-Cline-Morris-Lent
+  660          3.50   2.50 7-Miller-Mohrman vs 9-Wright-Christensen
+  660          3.50   2.50 8-Romeo-Shelley vs 12-Hendrickson-Miller
+  630          0.00   6.00 10-Ring-Zaugg vs 2-Galer-Vulcan
+  660          3.50   2.50 11-Schwaighart-Rind vs 5-Chupack-Eng
+  660          3.50   2.50 13-Jarvis-Ruprecht vs 1-Krah-Christie
+  660          3.50   2.50 14-Ford-Sieg vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 14
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   50          4.00   2.00 6-Tafjord-Abernethy vs 3-Cline-Morris-Lent
+   50          4.00   2.00 7-Miller-Mohrman vs 9-Wright-Christensen
+        140    0.50   5.50 8-Romeo-Shelley vs 12-Hendrickson-Miller
+   50          4.00   2.00 10-Ring-Zaugg vs 2-Galer-Vulcan
+   50          4.00   2.00 11-Schwaighart-Rind vs 5-Chupack-Eng
+        140    0.50   5.50 13-Jarvis-Ruprecht vs 1-Krah-Christie
+   50          4.00   2.00 14-Ford-Sieg vs 4-Taylor-Anderson
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 15
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        800    0.00   6.00 1-Krah-Christie vs 2-Galer-Vulcan
+   50          4.00   2.00 7-Miller-Mohrman vs 4-Taylor-Anderson
+        400    1.00   5.00 8-Romeo-Shelley vs 10-Ring-Zaugg
+  100          5.50   0.50 9-Wright-Christensen vs 13-Jarvis-Ruprecht
+  100          5.50   0.50 11-Schwaighart-Rind vs 3-Cline-Morris-Lent
+         90    3.00   3.00 12-Hendrickson-Miller vs 6-Tafjord-Abernethy
+        150    2.00   4.00 14-Ford-Sieg vs 5-Chupack-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 16
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  100          5.50   0.50 1-Krah-Christie vs 2-Galer-Vulcan
+        600    2.50   3.50 7-Miller-Mohrman vs 4-Taylor-Anderson
+        600    2.50   3.50 8-Romeo-Shelley vs 10-Ring-Zaugg
+        600    2.50   3.50 9-Wright-Christensen vs 13-Jarvis-Ruprecht
+        630    0.00   6.00 11-Schwaighart-Rind vs 3-Cline-Morris-Lent
+        600    2.50   3.50 12-Hendrickson-Miller vs 6-Tafjord-Abernethy
+  100          5.50   0.50 14-Ford-Sieg vs 5-Chupack-Eng
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 17
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        150    3.50   2.50 2-Galer-Vulcan vs 3-Cline-Morris-Lent
+        150    3.50   2.50 8-Romeo-Shelley vs 5-Chupack-Eng
+        420    1.00   5.00 9-Wright-Christensen vs 11-Schwaighart-Rind
+         50    5.00   1.00 10-Ring-Zaugg vs 1-Krah-Christie
+  100          6.00   0.00 12-Hendrickson-Miller vs 4-Taylor-Anderson
+        170    2.00   4.00 13-Jarvis-Ruprecht vs 7-Miller-Mohrman
+        500    0.00   6.00 14-Ford-Sieg vs 6-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 18
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        450    3.00   3.00 2-Galer-Vulcan vs 3-Cline-Morris-Lent
+        450    3.00   3.00 8-Romeo-Shelley vs 5-Chupack-Eng
+        450    3.00   3.00 9-Wright-Christensen vs 11-Schwaighart-Rind
+        450    3.00   3.00 10-Ring-Zaugg vs 1-Krah-Christie
+        450    3.00   3.00 12-Hendrickson-Miller vs 4-Taylor-Anderson
+        450    3.00   3.00 13-Jarvis-Ruprecht vs 7-Miller-Mohrman
+        450    3.00   3.00 14-Ford-Sieg vs 6-Tafjord-Abernethy
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 19
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  150          1.00   5.00 1-Krah-Christie vs 8-Romeo-Shelley
+  170          4.00   2.00 3-Cline-Morris-Lent vs 4-Taylor-Anderson
+  170          4.00   2.00 9-Wright-Christensen vs 6-Tafjord-Abernethy
+  120          0.00   6.00 10-Ring-Zaugg vs 12-Hendrickson-Miller
+  170          4.00   2.00 11-Schwaighart-Rind vs 2-Galer-Vulcan
+  170          4.00   2.00 13-Jarvis-Ruprecht vs 5-Chupack-Eng
+  170          4.00   2.00 14-Ford-Sieg vs 7-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 20
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        680    1.50   4.50 1-Krah-Christie vs 8-Romeo-Shelley
+        680    1.50   4.50 3-Cline-Morris-Lent vs 4-Taylor-Anderson
+        680    1.50   4.50 9-Wright-Christensen vs 6-Tafjord-Abernethy
+        680    1.50   4.50 10-Ring-Zaugg vs 12-Hendrickson-Miller
+        650    5.00   1.00 11-Schwaighart-Rind vs 2-Galer-Vulcan
+        650    5.00   1.00 13-Jarvis-Ruprecht vs 5-Chupack-Eng
+        650    5.00   1.00 14-Ford-Sieg vs 7-Miller-Mohrman
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 21
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  300          3.00   3.00 1-Krah-Christie vs 6-Tafjord-Abernethy
+  620          4.00   2.00 2-Galer-Vulcan vs 9-Wright-Christensen
+        100    1.00   5.00 4-Taylor-Anderson vs 5-Chupack-Eng
+        100    1.00   5.00 10-Ring-Zaugg vs 7-Miller-Mohrman
+ 1370          6.00   0.00 11-Schwaighart-Rind vs 13-Jarvis-Ruprecht
+        100    1.00   5.00 12-Hendrickson-Miller vs 3-Cline-Morris-Lent
+  650          5.00   1.00 14-Ford-Sieg vs 8-Romeo-Shelley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 22
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  920          5.50   0.50 1-Krah-Christie vs 6-Tafjord-Abernethy
+  400          0.50   5.50 2-Galer-Vulcan vs 9-Wright-Christensen
+  400          0.50   5.50 4-Taylor-Anderson vs 5-Chupack-Eng
+  490          4.00   2.00 10-Ring-Zaugg vs 7-Miller-Mohrman
+  420          2.50   3.50 11-Schwaighart-Rind vs 13-Jarvis-Ruprecht
+  420          2.50   3.50 12-Hendrickson-Miller vs 3-Cline-Morris-Lent
+  920          5.50   0.50 14-Ford-Sieg vs 8-Romeo-Shelley
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 23
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+        620    2.50   3.50 2-Galer-Vulcan vs 7-Miller-Mohrman
+        620    2.50   3.50 3-Cline-Morris-Lent vs 10-Ring-Zaugg
+        620    2.50   3.50 5-Chupack-Eng vs 6-Tafjord-Abernethy
+        620    2.50   3.50 11-Schwaighart-Rind vs 8-Romeo-Shelley
+        620    2.50   3.50 12-Hendrickson-Miller vs 1-Krah-Christie
+  200          6.00   0.00 13-Jarvis-Ruprecht vs 4-Taylor-Anderson
+        620    2.50   3.50 14-Ford-Sieg vs 9-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 24
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+  420          6.00   0.00 2-Galer-Vulcan vs 7-Miller-Mohrman
+  170          2.50   3.50 3-Cline-Morris-Lent vs 10-Ring-Zaugg
+  170          2.50   3.50 5-Chupack-Eng vs 6-Tafjord-Abernethy
+  170          2.50   3.50 11-Schwaighart-Rind vs 8-Romeo-Shelley
+  170          2.50   3.50 12-Hendrickson-Miller vs 1-Krah-Christie
+  170          2.50   3.50 13-Jarvis-Ruprecht vs 4-Taylor-Anderson
+  170          2.50   3.50 14-Ford-Sieg vs 9-Wright-Christensen
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 25
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+   90          5.00   1.00 1-Krah-Christie vs 5-Chupack-Eng
+   90          5.00   1.00 3-Cline-Morris-Lent vs 8-Romeo-Shelley
+         50    1.50   4.50 4-Taylor-Anderson vs 11-Schwaighart-Rind
+         50    1.50   4.50 6-Tafjord-Abernethy vs 7-Miller-Mohrman
+         50    1.50   4.50 12-Hendrickson-Miller vs 9-Wright-Christensen
+   90          5.00   1.00 13-Jarvis-Ruprecht vs 2-Galer-Vulcan
+         50    1.50   4.50 14-Ford-Sieg vs 10-Ring-Zaugg
+----------------------------------------------------------------------
+
+ RESULTS OF BOARD 26
+
+   SCORES      MATCHPOINTS   NAMES
+  N-S   E-W    N-S    E-W
+       1440    4.00   2.00 1-Krah-Christie vs 5-Chupack-Eng
+       1470    1.00   5.00 3-Cline-Morris-Lent vs 8-Romeo-Shelley
+       1440    4.00   2.00 4-Taylor-Anderson vs 11-Schwaighart-Rind
+       2220    0.00   6.00 6-Tafjord-Abernethy vs 7-Miller-Mohrman
+       1440    4.00   2.00 12-Hendrickson-Miller vs 9-Wright-Christensen
+       1440    4.00   2.00 13-Jarvis-Ruprecht vs 2-Galer-Vulcan
+       1440    4.00   2.00 14-Ford-Sieg vs 10-Ring-Zaugg
+----------------------------------------------------------------------
